@@ -1,0 +1,1877 @@
+choose_title();align_bottom_left_corner();insert_text("मानव मूल्यांकन");
+choose_content();insert_text("आम तौर पर, अनुवाद को कई समीक्षकों द्वारा गुमनाम रूप से स्कोर किया जाता है, और फिर सभी समीक्षकों के मूल्यांकन परिणामों को मिलाकर अंतिम स्कोर दिया जाता है");
+insert_table(2, 2);
+choose_table_cell(0, 0);insert_text("फायदे");choose_table_cell(1, 0);insert_text("नुकसान");choose_table_cell(0, 1);insert_text("वाक्यों के अनुवाद की गुणवत्ता, सबसे आधिकारिक, उच्चतम विश्वसनीयता और ");choose_table_cell(1, 1);insert_text(" को सटीक रूप से प्रतिबिंबित करें");
+choose_content();set_font_size(20);set_font_style("Arial");
+insert_picture('coffee');align_slide_left();
+align_slide_right();
+create_slide();choose_title();insert_text("मार्किंग स्टैंडर्ड");choose_content();insert_text("प्रत्यक्ष मूल्यांकन");insert_text("सापेक्ष रैंकिंग");
+choose_title();set_font_color("green");choose_content();insert_bullet_point("");insert_bullet_point("");
+choose_title();set_font_size(24);choose_content();set_font_size(20);
+
+insert_picture('tower');align_slide_bottom();
+choose_title();insert_text("सामग्री");set_top("title","picture");
+insert_rectangle();set_fill_color("green");
+choose_title();set_font_color("green");
+set_font_size(24);
+set_font_style("Arial");set_font_size(48);
+set_font_style("Microsoft New Tai Lue");
+
+set_background_color("green");
+insert_cloud();align_slide_bottom();
+choose_content();insert_text("आप बहुत धीमी गति से दौड़ते हैं");
+insert_picture('rabbit');align_slide_right();
+choose_content();insert_text("एक दिन, एक खरगोश और कछुए के बीच दौड़ हो रही है");
+create_slide();choose_content();insert_text("मैं एक दिन जीतूंगा।");align_slide_top();
+
+insert_picture('study');align_slide_center();
+insert_rectangle();align_slide_center();
+choose_title();insert_text("लीग ऑफ लीजेंड्स");choose_content();insert_text("लीग ऑफ लीजेंड्स एक टीम-आधारित गेम है जिसमें 140 से अधिक चैंपियन महाकाव्य खेल सकते हैं। अब मुफ्त में खेलें। मुफ्त में खेलें।");
+choose_title();set_font_style("Times New Roman");set_font_size(24);
+choose_picture();set_width(6);set_height(5);
+rotate_element(15);
+create_slide();insert_picture('boy_holding_book');
+align_slide_center();
+choose_title();insert_text("स्कूल में बेहतर प्रदर्शन कैसे करें");
+
+insert_cloud();align_slide_left();
+insert_picture("clock");align_slide_right();
+set_background_color("light blue");choose_title();insert_text("आर्टिफिशियल इंटेलिजेंस");
+choose_content();insert_text("समाज पर कृत्रिम बुद्धिमत्ता के प्रभाव पर व्यापक रूप से बहस हुई है। कई लोग तर्क देते हैं कि एआई नियमित और यहां तक ​​कि जटिल कार्यों को मनुष्यों की तुलना में बेहतर तरीके से करके रोजमर्रा की जिंदगी की गुणवत्ता में सुधार करता है, जिससे जीवन सरल, सुरक्षित और अधिक कुशल हो जाता है। . ");
+set_font_color("light green");
+
+create_slide();choose_title();insert_text("मार्च में शेड्यूल करें");set_font_color("red");
+set_font_size(28);set_font_color("dark blue");
+insert_table(1, 3);choose_table_cell(0, 0);insert_text("पहली से 10वीं तक अध्ययन करें");choose_table_cell(0, 1);insert_text("11वीं से 20वीं तक काम करें");choose_table_cell(0, 2);insert_text("21वीं से 31वीं तक यात्रा करें");
+choose_title();set_font_style("Arial");
+insert_picture('happy_boy');set_right("picture","table");
+set_background_color("blue");
+choose_picture();set_width(6.5);set_height(5);
+set_background_color("yellow");
+
+create_slide();choose_title();insert_text("ध्यान के लाभ");
+insert_picture('meditation');align_slide_center();
+choose_content();insert_text("ध्यान एक सरल लेकिन शक्तिशाली तकनीक है जो आपको आंतरिक शांति और शांति की स्थिति प्राप्त करने में मदद कर सकती है।");
+set_font_size(24);set_font_color("dark blue");
+insert_rectangle();set_right("rectangle", "content");
+set_background_color("light green");
+create_slide();set_background_color("light green");choose_title();insert_text("ध्यान के प्रकार");
+set_font_style("Arial");
+insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("माइंडफुलनेस मेडिटेशन");choose_table_cell(1, 0);insert_text("ट्रान्सेंडैंटल मेडिटेशन");choose_table_cell(2, 0);insert_text("बॉडी स्कैन मेडिटेशन");
+
+create_slide();set_background_color("green");
+insert_picture('grassland');align_slide_left();
+set_width(6.5);set_height(5.5);choose_title();insert_text("वनों के कार्य");
+set_font_color("orange");set_font_size(40);
+insert_right_arrow();align_slide_top();
+
+create_slide();insert_table(2, 2);
+choose_table_cell(0,0);insert_text("पेड़ का प्रकार");choose_table_cell(0,1);insert_text("उपयोग");choose_table_cell(1,0);insert_text("विभिन्न प्रकार के पेड़");choose_table_cell(1,1);insert_text("पत्तियों के विभिन्न रंग");
+choose_content();insert_text("आज एक पेड़ लगाना याद रखें!");
+set_font_size(20);set_font_color("green");set_font_underline();
+
+create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");
+move_to_slide(0);choose_title();insert_text("सुखी परिवार");set_font_style("Microsoft JhengHei");
+move_to_slide(1);insert_picture('family');
+move_to_slide(2);insert_table(2, 2);
+choose_table_cell(0, 0);insert_text("पिता");choose_table_cell(0, 1);insert_text("माँ");choose_table_cell(1, 0);insert_text("दादा");choose_table_cell(1, 1);insert_text("बच्चे");
+
+create_slide();choose_title();insert_text("बिजनेस प्लान");
+insert_picture('light_bulb');align_slide_left();
+set_width(3);choose_content();insert_text("उद्यमिता एक नए व्यवसाय को डिजाइन करने, लॉन्च करने और चलाने की प्रक्रिया है, जो अक्सर शुरुआत में एक छोटा व्यवसाय होता है। जो लोग इन व्यवसायों को बनाते हैं उन्हें उद्यमी कहा जाता है।");
+set_font_size(20);set_font_color("green");
+set_background_color("dark blue");
+insert_circle();set_fill_color("red");
+choose_content();insert_text("एक व्यवसाय योजना एक लिखित दस्तावेज़ है जो विस्तार से वर्णन करता है कि एक व्यवसाय, आमतौर पर एक नया व्यवसाय, अपने लक्ष्यों को कैसे प्राप्त करेगा।");
+choose_title();set_font_size(18);choose_content();set_font_size(18);
+insert_table(3, 4);
+choose_table_cell(0, 0);insert_text("मार्केटिंग मिक्स");choose_table_cell(0, 1);insert_text("टारगेट मार्केट");choose_table_cell(0, 2);insert_text("प्राइस");choose_table_cell(0, 3);insert_text("प्रमोशन");
+
+create_slide();set_background_color("light blue");
+choose_content();insert_text("उत्पाद ब्रांडिंग किसी ब्रांड के लक्षित उपभोक्ताओं तक पहुंचने के इरादे से किसी दिए गए उत्पाद के लिए एक विशिष्ट ब्रांड का विकास है।");
+set_font_italic();set_font_size(18);
+align_slide_bottom();
+insert_picture('lancome');align_slide_top();
+
+create_slide();choose_title();insert_text("बड़े पैमाने पर मॉडलिंग की अनिवार्यताएं");set_font_size(24);
+set_font_style("Arial");
+insert_table(1, 2);
+choose_table_cell(0, 0);insert_text("महत्व");set_font_size(18);set_font_color("light blue");
+insert_picture('computer');align_slide_center();
+choose_content();insert_text("बड़े पैमाने पर मॉडलिंग");
+set_font_size(14);set_font_color("green");choose_title();set_font_size(14);set_font_color("green");
+
+insert_picture('tower');align_slide_left();
+choose_title();insert_text("द अल्टीमेट हीस्ट");
+set_font_style("Times New Roman");set_font_color("green");
+insert_triangle();align_slide_right();
+set_background_color("light blue");
+
+insert_table(3, 3);choose_table_cell(0, 0);insert_text("बैंगनी");choose_table_cell(0, 1);insert_text("नीला");choose_table_cell(0, 2);insert_text("हल्का नीला");choose_table_cell(1, 0);insert_text("गहरा नीला");choose_table_cell(1, 1);insert_text("हरा");choose_table_cell(1, 2);insert_text("हल्का हरा");choose_table_cell(2, 0);insert_text("गहरा हरा");choose_table_cell(2, 1);insert_text("पीला");choose_table_cell(2, 2);insert_text("हल्का पीला")
+set_background_color("green");
+set_background_color("dark blue");
+choose_title();insert_text("रंग के प्रकार");insert_picture("clock");
+create_slide();set_background_color("yellow");
+choose_content();insert_text("स्पीडवेल, जिसे बर्ड्स आई या जिप्सी वीड भी कहा जाता है, यूरोप का एक कठोर बारहमासी मूल निवासी है।");
+
+create_slide();insert_picture('arguing');
+choose_title();insert_text("विवाह पुरुषों और महिलाओं दोनों के लिए क्या लाता है?");
+create_slide();insert_picture('japanese_woman');insert_picture('african_woman');
+choose_title();insert_text("विभिन्न वैवाहिक व्यवस्थाओं को निर्धारित करने वाले कारक");
+create_slide();set_background_color("red");create_slide();set_background_color("red");create_slide();set_background_color("red");
+move_to_slide(2);choose_title();insert_text("पुरुषों और महिलाओं के लिए विवाह के सामान्य लाभ");
+set_font_underline();set_font_color("yellow");
+insert_picture('happy_family');align_slide_center();
+insert_rectangle();set_fill_color("red");insert_rectangle();set_fill_color("red");insert_rectangle();set_fill_color("red");
+create_slide();choose_title();insert_text("चीन में विवाह संस्था का विकास");
+insert_picture('clock');set_width(6.5);
+align_slide_left();
+create_slide();choose_title();insert_text("विश्व में महिलाओं द्वारा सामना की जाने वाली कठिनाइयाँ");insert_picture('full_time_mother');
+set_height(5);
+
+choose_title();insert_text("न्यूरल नेटवर्क");
+choose_content();insert_text("तंत्रिका नेटवर्क एल्गोरिदम का एक सेट है जो मानव मस्तिष्क के कार्य की नकल करता है। वे पैटर्न को पहचानने, डेटा को वर्गीकृत करने और भविष्यवाणियां करने के लिए डिज़ाइन किए गए हैं।");
+set_font_size(12);set_font_color("orange");set_background_color("red");
+
+choose_title();insert_text("उद्धरण चिह्न");
+choose_title();set_font_underline();set_font_size(24);
+choose_content();insert_text("उद्धरण चिह्न एक प्रकार का विराम चिह्न है जिसका उपयोग शब्दों और अंशों को शेष पाठ से अलग करने के लिए किया जाता है।");
+set_font_color("green");set_font_size(12);
+insert_picture('quotation_mark');align_slide_left();
+create_slide();set_background_color("blue");
+insert_rectangle();align_slide_right();
+insert_table(2, 1);
+choose_table_cell(0, 0);insert_text("आप कैसे हैं?" सज्जन ने कहा।");choose_table_cell(1, 0);insert_text("उद्धरण चिह्नों के सबसे आम उपयोगों में से एक प्रत्यक्ष उद्धरण को इंगित करना है, एक मार्ग जिसे किसी अन्य स्रोत से शब्दशः कॉपी किया गया है।");
+
+create_slide();set_background_color("dark green");
+choose_title();insert_text("मानवविज्ञान के क्षेत्र और शाखाएँ");set_font_size(18);
+choose_content();insert_text("मानवविज्ञान के दो व्यापक क्षेत्र हैं।");set_font_size(18);
+text_align_right();
+
+insert_right_arrow();align_slide_left();
+set_width(4.0);set_height(3.0);
+choose_content();insert_text("मध्य एशिया का विशाल भाग भयानक रूप से निर्जन लगता है।");
+choose_shape("right_arrow");set_width(5.0);set_height(4.0);rotate_element(90);
+choose_content();set_line_space(2);
+
+choose_title();insert_text("शिक्षा/शिक्षण/पीपीटी प्रतिनिधित्व");
+choose_content();insert_text("ग्लोबल वार्मिंग के हानिकारक प्रभाव");
+choose_title();set_font_color("dark blue");choose_content();set_font_color("purple");
+insert_rectangle();set_fill_color("purple");
+align_top_left_corner();
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("देना");choose_table_cell(0, 1);insert_text("दिया");choose_table_cell(0, 2);insert_text("देना");choose_table_cell(0, 3);insert_text("दिया");
+choose_content();set_font_color("dark blue");
+
+set_background_color("orange");
+insert_picture("cat");set_width(5);set_height(5);
+create_slide();set_background_color("orange");create_slide();set_background_color("orange");create_slide();set_background_color("orange");
+choose_title();insert_text("डिंगटॉक सूचना");
+insert_table(3, 5);
+choose_table_cell(0, 0);insert_text("डाउनलोड के तरीके");choose_table_cell(0, 1);insert_text("संगठन में कैसे शामिल हों");choose_table_cell(0, 2);insert_text("मित्र कैसे खोजें");choose_table_cell(0, 3);insert_text("फायदे");choose_table_cell(0, 4);insert_text("नोट");
+insert_star();align_slide_right();
+choose_content();insert_text("रोकथाम का तात्पर्य समय से पहले कुछ करने से रोकना या बाधा डालना है");
+set_background_color("blue");
+choose_content();text_align_left();
+
+insert_right_arrow();set_fill_color("yellow");
+choose_title();insert_text("स्कूल में सप्ताहांत");text_align_left();
+choose_title();set_font_color("dark blue");set_font_italic();set_font_underline();
+choose_content();insert_text("फ़ॉरस्टॉल का अर्थ है (सामान) पहले से खरीदना ताकि दोबारा बेचे जाने पर कीमत बढ़ाई जा सके");
+insert_picture("school_badge");set_width(2.5);set_height(2.5);
+create_slide();set_background_color("green");
+choose_title();insert_text("नोट");text_align_right();
+set_font_color("light green");set_font_size(26);
+choose_content();insert_bullet_point("");insert_bullet_point("");insert_bullet_point("");
+insert_note("2023/4/9");move_to_previous_slide();insert_note("2023/4/8");
+
+insert_star();align_slide_right();
+set_fill_color("blue");
+insert_right_arrow();align_slide_left();set_fill_color("red");
+choose_title();insert_text("निर्णय लेना");
+choose_content();insert_text("वर्तमान वैश्विक महामारी ने हमारे दैनिक जीवन को बाधित कर दिया है और दुनिया को इस तरह से नया आकार दिया है जिसकी हमने कभी कल्पना भी नहीं की होगी।");
+choose_content();set_font_underline();choose_title();set_font_size(24);
+choose_content();set_font_style("Times New Roman");choose_title();set_font_style("Times New Roman");
+
+create_slide();create_slide();create_slide();create_slide();create_slide();
+move_to_slide(0);choose_title();insert_text("परिचय");move_to_slide(1);choose_title();insert_text("विकास");move_to_slide(2);choose_title();insert_text("आकलन");move_to_slide(3);choose_title();insert_text("विश्लेषण");move_to_slide(4);choose_title();insert_text("निष्कर्ष");
+move_to_slide(0);set_background_color("yellow");move_to_slide(1);set_background_color("yellow");move_to_slide(2);set_background_color("yellow");move_to_slide(3);set_background_color("yellow");move_to_slide(4);set_background_color("yellow");
+move_to_slide(0);choose_title();set_font_style("Microsoft JhengHei");
+move_to_slide(1);insert_picture("clock");
+move_to_slide(2);insert_bar_chart([160, 170, 130], ["अक्टूबर", "नवंबर", "दिसंबर"]);
+move_to_slide(3);insert_table(2, 3);
+choose_table_cell(0, 0);insert_text("टूआईपीए");choose_table_cell(0, 1);insert_text("फायदे");choose_table_cell(0, 2);insert_text("नुकसान");
+move_to_slide(4);choose_title();set_font_style("Times New Roman");
+move_to_slide(4);insert_cloud();
+move_to_slide(0);insert_note("ईवा द्वारा निर्मित");move_to_slide(1);insert_note("ईवा द्वारा निर्मित");move_to_slide(2);insert_note("ईवा द्वारा निर्मित");move_to_slide(3);insert_note("ईवा द्वारा निर्मित");move_to_slide(4);insert_note("ईवा द्वारा निर्मित");
+
+insert_circle();set_fill_color("purple");
+insert_picture("water_bottle");insert_textbox();insert_text("बोतल");
+choose_title();insert_text("गुणवत्ता");
+set_font_color("red");
+insert_table(2, 2);
+choose_table_cell(0, 0);insert_text("मशीन मूल्यांकन");choose_table_cell(0, 1);insert_text("मानव मूल्यांकन");choose_table_cell(1, 0);insert_text("स्वचालित मूल्यांकन 1");choose_table_cell(1, 1);insert_text("स्वचालित मूल्यांकन 2");
+create_slide();choose_title();insert_text("उपलब्धि");set_background_color("purple");
+
+create_slide();choose_title();insert_text("Q2 के लिए मार्केटिंग रणनीतियाँ");
+set_background_color("blue");
+create_slide();choose_title();insert_text("बढ़ती बिक्री और ब्रांड जागरूकता");
+set_font_size(60);
+move_to_slide(1);set_background_color("green");
+create_slide();set_background_color("green");create_slide();set_background_color("green");create_slide();set_background_color("green");
+move_to_slide(2);choose_title();insert_text("बाज़ार के रुझान और प्रतिस्पर्धी विश्लेषण");
+choose_content();insert_picture("blue_sea");
+set_height(4);set_width(5);set_left("picture", "title");
+move_to_slide(3);choose_title();insert_text("हमारा मिशन और मूल्य");
+choose_content();insert_text("विज़न। सभी लोग पूर्ण स्वास्थ्य के साथ लंबा जीवन जी रहे हैं। मिशन.आईएचएमई दुनिया को स्वास्थ्य नीति और अभ्यास में सुधार के लिए समय पर, प्रासंगिक और वैज्ञानिक रूप से मान्य साक्ष्य प्रदान करता है।");
+set_line_space(1.5);
+choose_content();set_font_size(40);set_font_style("Times New Roman");
+
+create_slide();set_background_color("yellow");
+choose_title();insert_text("चीन और अमेरिका में शिक्षा की तुलना");
+delete_text();insert_text("अंतरों और समानताओं का अन्वेषण करें");
+delete_text();insert_text("अंतर और समानताएं");
+create_slide();create_slide();create_slide();create_slide();create_slide();
+move_to_slide(1);set_background_color("yellow");move_to_slide(2);set_background_color("yellow");move_to_slide(3);set_background_color("yellow");move_to_slide(4);set_background_color("yellow");move_to_slide(5);set_background_color("yellow");
+move_to_slide(1);choose_title();insert_text("शिक्षा प्रणालियाँ");
+choose_content();insert_text("चीन में शिक्षा मुख्य रूप से राज्य द्वारा संचालित सार्वजनिक शिक्षा प्रणाली द्वारा प्रबंधित की जाती है, जो शिक्षा मंत्रालय के अंतर्गत आती है। सभी नागरिकों को कम से कम नौ साल तक स्कूल जाना चाहिए, जिसे नौ साल की अनिवार्य शिक्षा के रूप में जाना जाता है, जिसे वित्त पोषित किया जाता है सरकार की ओर से।");
+move_to_next_slide();choose_title();insert_text("विभिन्न शिक्षण शैलियाँ और विधियाँ");
+move_to_next_slide();choose_title();insert_text("शिक्षक-छात्र संबंध");move_to_next_slide();choose_title();insert_text("छात्र प्रदर्शन मूल्यांकन");
+move_to_slide(4);insert_picture("forest");
+choose_content();insert_text("2014 में, द गार्जियन के जोनाथन कैमन ने लिखा था कि चीनी माता-पिता और शिक्षक "अपनी प्रणाली को भ्रष्ट, अमानवीय, दबावयुक्त और अनुचित मानते हैं"। उन्होंने देश की कॉलेज प्रवेश परीक्षा (जिसे गाओकाओ कहा जाता है) पर चर्चा करते हुए लिखा कि "कई माता-पिता नौ घंटे की कठिन परीक्षा को एक छँटाई तंत्र मानते हैं जो उनके बच्चों के जीवन की दिशा निर्धारित करेगा।");set_font_color("red");set_font_underline();
+move_to_slide(5);insert_table(1, 1);choose_table_cell(0,0);insert_text("जिम्मेदारी");
+
+create_slide();choose_content();insert_picture("DingTalk_app");
+choose_title();insert_text("चैटजीपीटी का परिचय");set_font_color("green");
+create_slide();choose_title();insert_text("एआई भाषा मॉडल की शक्ति को उजागर करना।");text_align_left();create_slide();choose_title();insert_text("एआई भाषा मॉडल की शक्ति को उजागर करना।");text_align_left();create_slide();choose_title();insert_text("एआई भाषा मॉडल की शक्ति को उजागर करना।");text_align_left();create_slide();choose_title();insert_text("एआई भाषा मॉडल की शक्ति को उजागर करना।");text_align_left();create_slide();choose_title();insert_text("एआई भाषा मॉडल की शक्ति को उजागर करना।");text_align_left();
+move_to_slide(1);choose_content();set_font_style("Arial");
+insert_text("चैटजीपीटी एक कृत्रिम बुद्धिमत्ता (एआई) चैटबॉट है जिसे ओपनएआई द्वारा विकसित किया गया है और नवंबर 2022 में जारी किया गया है। इसे ओपनएआई के बड़े भाषा मॉडल (एलएलएम) के जीपीटी-3.5 और जीपीटी-4 परिवारों के शीर्ष पर बनाया गया है और इसे ठीक किया गया है (एक दृष्टिकोण) पर्यवेक्षित और सुदृढीकरण सीखने की तकनीकों दोनों का उपयोग करके सीखने को स्थानांतरित करना)।");
+set_font_size(30);set_line_space(2);
+insert_table(1, 1);choose_table_cell(0,0);insert_text("डिंगटॉक कैसे डाउनलोड करें");
+move_to_next_slide();
+choose_title();insert_text("सुविधाएँ और सीमाएँ");text_align_center();
+choose_content();insert_text("हालांकि चैटबॉट का मुख्य कार्य एक मानव वार्तालापकर्ता की नकल करना है, चैटजीपीटी बहुमुखी है। यह कंप्यूटर प्रोग्राम लिख और डिबग कर सकता है, सेलिब्रिटी सीईओ की शैली की नकल कर सकता है और बिजनेस पिच लिख सकता है, संगीत, टेलीप्ले, परी कथाएं और छात्र निबंध लिख सकता है, उत्तर दे सकता है परीक्षण प्रश्न (कभी-कभी, परीक्षण के आधार पर, औसत मानव परीक्षार्थी से ऊपर के स्तर पर), कविता और गीत के बोल लिखें, लिनक्स सिस्टम का अनुकरण करें। पूरे चैट रूम का अनुकरण करें, टिक-टैक-टो जैसे गेम खेलें और एक एटीएम का अनुकरण करें ।");
+
+create_slide();set_background_color("green");
+choose_content();insert_text("उन लोगों के साथ समय बिताने के लिए जीवन बहुत छोटा है जो आपकी खुशियाँ चूस लेते हैं।");set_line_space(1.5);
+set_font_style("Verdana");set_font_size(20);
+set_font_underline();set_font_color("yellow");
+
+create_slide();set_background_color("blue");choose_title();insert_text("मशीन लर्निंग");
+choose_content();insert_text("मशीन लर्निंग कृत्रिम बुद्धिमत्ता (एआई) का एक अनुप्रयोग है जो सिस्टम को स्पष्ट रूप से प्रोग्राम किए बिना अनुभव से स्वचालित रूप से सीखने और सुधार करने की क्षमता प्रदान करता है। मशीन लर्निंग कंप्यूटर प्रोग्राम के विकास पर केंद्रित है जो एक्सेस कर सकता है डेटा और इसका उपयोग स्वयं सीखने के लिए करें।");
+set_font_size(20);set_font_style("Verdana");
+set_font_style("Times New Roman");text_align_right();
+choose_title();set_font_color("red");set_font_size(40);
+set_font_color("blue");
+insert_picture("machine_learning");align_slide_left();
+set_height(1.2);set_width(1.2);
+choose_content();insert_star();set_fill_color("green");
+
+create_slide();choose_title();insert_text("मार्केटिंग रणनीतियाँ");
+choose_content();insert_bullet_point("Search Engine Optimization (SEO)");insert_bullet_point("Social Media Marketing (SMM)");insert_bullet_point("Email Marketing");insert_bullet_point("Content Marketing");insert_bullet_point("Pay-Per-Click Advertising (PPC)");
+insert_picture("marketing");set_height(1);set_width(1);
+insert_pie_chart([35, 25, 15, 10, 15], ["Apple", "Samsung", "Huawei", "Xiaomi", "Others"]);insert_table(2, 2);
+choose_chart();set_chart_title("मार्केटिंग");choose_table();choose_table_cell(0, 0);insert_text("MT1");choose_table_cell(0, 1);insert_text("MT2");choose_table_cell(1, 0);insert_text("ST1");choose_table_cell(1, 1);insert_text("ST2")
+choose_content();align_slide_bottom();
+create_slide();insert_pie_chart([35, 25, 15, 10, 15],["Apple", "Samsung", "Huawei", "Xiaomi", "Other"]);set_chart_title("Marketing");
+choose_table();insert_table(2, 2);insert_table_row(["MT1", "MT2"]);insert_table_row(["ST1", "ST2"])
+
+create_slide();choose_title();insert_text("डेटा विज़ुअलाइज़ेशन");
+insert_bar_chart([8.4, 4.0, 2.7, 2.3, 1.7], ["न्यूयॉर्क", "लॉस एंजिल्स", "शिकागो", "ह्यूस्टन", "फीनिक्स"]);align_slide_left();
+insert_textbox();insert_text("डेटा विज़ुअलाइज़ेशन एक सचित्र या ग्राफ़िकल प्रारूप में डेटा की प्रस्तुति है। यह निर्णय लेने वालों को विश्लेषिकी को दृश्य रूप से देखने में सक्षम बनाता है, ताकि वे कठिन अवधारणाओं को समझ सकें या नए पैटर्न की पहचान कर सकें।");
+set_font_color("green");
+create_slide();choose_content();insert_text("यह दलिया चिपचिपा चावल, ब्राउन शुगर और अठारह प्रकार के सूखे मेवों को एक साथ पकाकर बनाया जाता है।");
+
+create_slide();choose_title();insert_text("लाबा दलिया");
+choose_content();insert_text("जब से मुझे याद है, हर साल बारहवें चंद्र माह के आठवें दिन, मेरी माँ हमारे लिए लाबा दलिया पकाती थी।");
+set_font_color("yellow");set_font_bold();
+insert_table(2, 1);align_slide_right();
+choose_table_cell(0, 0);insert_text("इतिहास");choose_table_cell(1, 0);insert_text("आधुनिक");
+set_background_color("light red");
+
+set_background_color("yellow");
+set_background_color("green");
+choose_title();insert_text("बड़ी कंपनी");
+set_font_size(28);set_font_style("Futura");
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("संख्या");choose_table_cell(0, 1);insert_text("कर्मचारी के नाम")
+insert_picture("company1");insert_picture("company2");insert_picture("company3");
+choose_table();choose_table_cell(0,0);set_font_color("yellow");choose_table_cell(0,1);set_font_color("yellow");
+
+create_slide();choose_title();insert_text("कृत्रिम तंत्रिका नेटवर्क");
+choose_content();insert_text("कृत्रिम तंत्रिका नेटवर्क (एएनएन) जैविक तंत्रिका नेटवर्क से प्रेरित कंप्यूटिंग सिस्टम हैं जो जानवरों के मस्तिष्क का निर्माण करते हैं। ऐसे सिस्टम उदाहरणों पर विचार करके कार्य करना सीखते हैं, आमतौर पर किसी भी कार्य-विशिष्ट नियमों के साथ प्रोग्राम किए बिना एएनएन सीखने और नए इनपुट को अपनाने में सक्षम हैं, जो उन्हें छवि पहचान, भाषण पहचान और प्राकृतिक भाषा प्रसंस्करण सहित अनुप्रयोगों की एक विस्तृत श्रृंखला के लिए उपयोगी बनाता है।");
+set_font_size(24);
+set_font_style("Calibri");set_background_color("light orange");
+text_align_center();choose_title();text_align_left();
+set_background_color("blue");
+insert_picture("artificial_neural_networks");
+set_width(5.5);
+align_slide_right();
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("1");choose_table_cell(0, 1);insert_text("2");choose_table_cell(0, 2);insert_text("3")
+insert_table_row(["वीडियो गेम", "स्विच", "टीवी श्रृंखला"])
+
+create_slide();set_background_color("red");create_slide();set_background_color("red");
+move_to_slide(0);choose_title();insert_text("चुनौतियाँ");set_font_style("Calibri");
+choose_content();insert_text("कार्यस्थल में एआई को लागू करने की चुनौतियों में विशेषज्ञता की कमी, लागत और परिवर्तन के प्रतिरोध शामिल हैं।");
+set_font_color("green");
+move_to_slide(1);insert_picture("AI");align_slide_center();
+
+create_slide();choose_title();insert_text("परिचय");
+choose_content();insert_text("वीडियो गेम के इतिहास पर मेरी प्रस्तुति में आपका स्वागत है। 1950 के दशक में पहले इलेक्ट्रॉनिक गेम के आविष्कार के बाद से वीडियो गेम ने एक लंबा सफर तय किया है। आज, वीडियो गेम एक अरबों डॉलर का उद्योग है जो दुनिया भर के लोगों द्वारा इसका आनंद लिया जाता है।");
+insert_picture("first_electronic_game");
+align_bottom_right_corner();
+choose_title();set_font_color("blue");
+insert_textbox();choose_textbox();insert_text("जॉन स्मिथ द्वारा प्रस्तुत");
+
+create_slide();choose_title();insert_text("न्यूरल नेटवर्क्स");
+choose_content();insert_text("तंत्रिका नेटवर्क एल्गोरिदम का एक सेट है जो मानव मस्तिष्क के कामकाज की नकल करता है। उनका उपयोग विभिन्न प्रकार के अनुप्रयोगों जैसे छवि पहचान, भाषण मान्यता और प्राकृतिक भाषा प्रसंस्करण के लिए किया जाता है।");
+set_font_style("Arial");
+insert_triangle();align_top_left_corner();
+insert_picture("neutral_network");
+set_height(1.2);set_width(1.2);
+create_slide();insert_right_arrow();set_fill_color("blue");align_slide_right();
+insert_line_chart([120,140,110,90], ["जनवरी", "फरवरी", "मार्च", "अप्रैल"]);set_chart_title("Chatgpt");
+choose_content();insert_textbox();insert_text("टेंसरफ़्लो");
+choose_title();set_font_color("blue");set_background_color("light blue");
+
+choose_content();insert_text("शब्दकोश का उपयोग शब्दों के अर्थ, उच्चारण, वर्तनी और नए शब्दों को खोजने के लिए किया जा सकता है।");
+insert_circle();set_top("circle","content");
+insert_text("संज्ञा वाक्यांश");
+choose_content();set_font_color("red");set_font_style("Impact");
+
+create_slide();choose_title();insert_text("परिचय");create_slide();choose_title();insert_text("कार्यप्रणाली");create_slide();choose_title();insert_text("परिणाम");
+move_to_slide(0);choose_content();insert_text("यह प्रस्तुति हमारे शोध प्रोजेक्ट का परिचय देगी और इसके महत्व को बताएगी।");move_to_slide(1);choose_content();insert_text("हमारी शोध पद्धति में विभिन्न स्रोतों से डेटा एकत्र करना और निष्कर्ष निकालने के लिए सांख्यिकीय विश्लेषण का उपयोग करना शामिल है।");
+choose_content();text_align_left();
+move_to_slide(0);set_background_color("light blue");move_to_slide(1);set_background_color("light blue");move_to_slide(2);set_background_color("light blue");
+insert_picture("graph");set_height(6.5);
+move_to_slide(0);insert_note("2022/1/1");move_to_slide(1);insert_note("2022/1/1");move_to_slide(2);insert_note("2022/1/1");
+
+create_slide();choose_title();insert_text("उत्पाद अवलोकन");create_slide();choose_title();insert_text("विशेषताएं");
+move_to_slide(0);insert_picture("product");
+choose_content();insert_text("हमारा उत्पाद हमारे लक्षित बाजार की समस्याओं का सरल और कुशल समाधान प्रदान करके उनकी जरूरतों को पूरा करने के लिए डिज़ाइन किया गया है।");
+move_to_slide(1);insert_table(5, 2);
+choose_table_cell(4, 1);insert_text("डिंगटॉक");
+choose_table_cell(4, 1);set_font_style("Times New Roman");
+move_to_slide(0);insert_note("वर्तमान समय दोपहर 12:00 बजे है");move_to_slide(1);insert_note("वर्तमान समय दोपहर 12:00 बजे है");move_to_slide(2);
+
+create_slide();choose_title();insert_text("बिक्री रिपोर्ट");text_align_center();
+insert_pie_chart([120, 220, 180], ["उत्पाद ए", "उत्पाद बी", "उत्पाद सी"]);
+choose_title();set_font_size(28);
+insert_picture("company_logo");align_top_right_corner();
+choose_content();insert_text("यह रिपोर्ट 2023 की पहली तिमाही में हमारे उत्पादों के बिक्री प्रदर्शन को दिखाती है।");
+set_font_style("Times New Roman");
+text_align_center();
+
+create_slide();choose_title();insert_text("मार्केटिंग रणनीतियाँ");
+choose_title();set_font_style("Calibri");set_font_size(36);
+choose_content();insert_picture("marketing_campaign");
+rotate_element(45);align_slide_right();
+create_slide();choose_title();insert_text("पावरफुल एमटी");
+set_font_style("Arial");set_font_size(24);
+insert_textbox();insert_bullet_point("SEO");insert_bullet_point("Email Marketing");insert_bullet_point("PPC");set_bottom("textbox","title");
+set_background_color("blue");
+insert_bar_chart([27, 30, 29], ["आइटम ए", "आइटम बी", "आइटम सी"]);align_slide_left();
+set_chart_title("Marketing Budget");
+insert_table(4, 2);
+choose_table_cell(0, 0);insert_text("दिनांक");choose_table_cell(0, 1);insert_text("सोमवार");choose_table_cell(1, 0);insert_text("मंगलवार");choose_table_cell(1, 1);insert_text("बुधवार");choose_table_cell(2, 0);insert_text("गुरुवार");choose_table_cell(2, 1);insert_text("शुक्रवार");choose_table_cell(3, 0);insert_text("शनिवार");choose_table_cell(3, 1);insert_text("रविवार");
+choose_table();set_right("table","chart");
+
+create_slide();set_background_color("yellow");
+choose_title();insert_text("मूल्यांकन मेट्रिक्स");
+choose_content();insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("मीट्रिक");choose_table_cell(0, 1);insert_text("फ़ॉर्मूला");choose_table_cell(1, 0);insert_text("सटीकता");choose_table_cell(1, 1);insert_text("(टीपी+टीएन)/(टीपी+टीएन+एफपी+एफएन)");choose_table_cell(2, 0);insert_text("परिशुद्धता");choose_table_cell(2, 1);insert_text("टीपी/(टीपी+एफपी)");
+insert_line_chart([160, 170, 130], ["अक्टूबर", "नवंबर", "दिसंबर"]);set_chart_title("Time Machine");
+insert_bar_chart([160, 170, 130], ["October", "November", "December"]);
+
+create_slide();choose_title();insert_text("डेटा विज़ुअलाइज़ेशन");
+insert_bar_chart([60,70,80,90], ["आंख", "हाथ", "पैर", "घुटना"]);
+choose_chart();set_height(4);set_width(4);
+set_chart_title("Sales by Region");
+insert_right_arrow();set_fill_color("green");
+
+create_slide();choose_title();insert_text("विपणन अभियान");
+choose_content();insert_picture("product");set_right("picture","content");
+set_width(5);
+choose_content();insert_text("यूरोपीय भाषा परिवार जो पश्चिमी, जर्मन और डच (बेल्जियम में फ्लेमिश कहा जाता है) भाषाओं से निकटता से संबंधित है।");
+insert_circle();set_fill_color("red");align_bottom_right_corner();
+set_background_color("green");
+set_background_color("light blue");
+create_slide();choose_title();insert_text("बिक्री डेटा");
+insert_table(1, 4);
+choose_table();choose_table_cell(0, 0);insert_text("विक्रेता का नाम");choose_table_cell(0, 1);insert_text("कुल बिक्री");choose_table_cell(0, 2);insert_text("कमीशन दर");choose_table_cell(0, 3);insert_text("कमीशन राशि")
+create_slide();set_background_color("light blue");
+
+create_slide();choose_title();insert_text("बिक्री रिपोर्ट");set_font_size(25);
+choose_content();insert_text("यहां हमारी कंपनी की त्रैमासिक बिक्री रिपोर्ट है:");
+set_font_size(16);set_font_color("purple");
+insert_rectangle();set_width(8);set_height(5);
+set_background_color("green");
+
+create_slide();choose_title();insert_text("कृत्रिम तंत्रिका नेटवर्क");
+choose_content();insert_text("कृत्रिम तंत्रिका नेटवर्क (एएनएन) कंप्यूटिंग प्रणालियाँ हैं जो जानवरों के मस्तिष्क का निर्माण करने वाले जैविक तंत्रिका नेटवर्क से प्रेरित हैं, लेकिन उनके समान नहीं हैं। ऐसी प्रणालियाँ उदाहरणों पर विचार करके कार्य करना सीखती हैं, आमतौर पर बिना प्रोग्राम किए कार्य-विशिष्ट नियमों के साथ।");
+set_font_size(24);set_font_style("Arial");
+choose_title();set_font_color("purple");
+insert_picture("brain");set_width(6.5);
+rotate_element(90);
+insert_textbox();insert_text("एएनएन के अनुप्रयोग");
+choose_title();set_font_size(36);set_font_style("Calibri");
+insert_table(2, 1);
+choose_table_cell(0, 0);insert_text("छवि पहचान");choose_table_cell(1, 0);insert_text("प्राकृतिक भाषा प्रसंस्करण");
+
+choose_title();insert_text("मशीन अनुवाद गुणवत्ता मूल्यांकन");
+insert_textbox();insert_text("रिपोर्टर: ईवा।");set_bottom("textbox","title");
+choose_title();set_font_size(66);
+set_background_color("blue");choose_title();set_font_color("red");choose_textbox();set_font_color("red");
+set_background_color("red");choose_title();set_font_color("blue");choose_textbox();set_font_color("blue");
+
+create_slide();choose_title();insert_text("न्यूरल नेटवर्क्स");
+choose_content();insert_text("तंत्रिका नेटवर्क एल्गोरिदम का एक सेट है जो मानव मस्तिष्क के कार्य की नकल करता है। उन्हें पैटर्न पहचानने, डेटा वर्गीकृत करने और भविष्यवाणियां करने के लिए डिज़ाइन किया गया है।");
+set_font_size(24);
+set_font_style("Arial");text_align_center();
+choose_title();set_font_color("blue");
+set_font_color("green");
+insert_picture("brain");set_width(1.5);set_height(1.5);
+choose_content();insert_text("मानव मस्तिष्क ने तंत्रिका नेटवर्क के विकास को प्रेरित किया");
+insert_note("कन्वेंशनल न्यूरल नेटवर्क");
+create_slide();set_background_color("yellow");
+
+create_slide();choose_title();insert_text("व्यक्तिगत वित्त");insert_note("व्यक्तिगत वित्त");
+choose_title();set_font_size(24);set_font_underline();
+choose_content();insert_text("व्यक्तिगत वित्त व्यक्तिगत और पारिवारिक वित्त के प्रबंधन, आपकी वर्तमान और भविष्य की वित्तीय स्थिति की जिम्मेदारी लेने और वित्तीय लक्ष्य निर्धारित करने के पूरे ब्रह्मांड को शामिल करता है। इसमें व्यक्तिगत वित्तीय कार्यों को संभालना और आपात स्थिति के लिए बचत करना भी शामिल है। ");
+set_font_color("orange");
+insert_picture("corporate_finance_book");
+set_width(6.5);
+set_background_color("blue");
+set_background_color("light blue");
+create_slide();set_background_color("light blue");create_slide();set_background_color("light blue");
+move_to_slide(1);insert_table(1, 2);
+
+choose_content();insert_text("Microsoft अद्यतन कैटलॉग साइट पर आपका स्वागत है।");
+set_font_color("orange");set_background_color("dark blue");
+insert_picture("computer");align_slide_bottom();
+align_slide_left();
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("बुनियादी अवधारणाएँ");choose_table_cell(0, 1);insert_text("उत्पत्ति");choose_table_cell(0, 2);insert_text("श्रेणियाँ");choose_table_cell(0, 3);insert_text("विकास")
+create_slide();insert_star();set_fill_color("red");
+insert_pie_chart([10, 12, 14], ["Q1", "Q2", "Q3"]);choose_shape("star");align_bottom_left_corner();
+choose_chart();set_height(10);set_width(10);
+
+create_slide();set_background_color("blue");
+choose_title();insert_text("परिचय");
+choose_content();insert_text("लोग प्लस पैसा व्यक्तिगत वित्त के बराबर है।");
+set_font_italic();set_font_underline();
+set_font_color("green");
+insert_picture("person_grasping_money");align_bottom_right_corner();
+set_width(8);set_height(7);
+create_slide();choose_content();insert_text("पैसा सब कुछ नहीं है, लेकिन कोई भी पैसा असंभव नहीं है");
+set_font_style("Futura");set_font_color("blue");
+set_font_color("purple");
+insert_pie_chart([1, 2, 3, 4, 5])], ["1", "2", "3", "4", "5"]);set_right("chart", "content");
+choose_title();insert_text("पैसे का प्रभाव");
+
+create_slide();choose_title();insert_text("व्यक्तिगत और कॉर्पोरेट वित्त के बीच अंतर");
+insert_table(2, 3);
+insert_picture("company_logo");set_left("picture", "table");
+choose_table();choose_table_cell(0,0);insert_text("बॉर्डरलैंड्स 2");choose_table_cell(0,1);insert_text("दिव्यता: मूल पाप 2");choose_table_cell(0,2);insert_text("अंतिम काल्पनिक VII");choose_table_cell(1,0);insert_text("असैसिन्स क्रीड IV: ब्लैक फ्लैग");choose_table_cell(1,1);insert_text("मेगा मैन 3");choose_table_cell(1,2);insert_text("मेगा मैन 3");
+insert_cloud();align_slide_right();
+insert_note("2023/4/23");
+
+set_background_color("orange");
+create_slide();choose_title();insert_text("ब्रिजेट फोंडा");set_background_color("orange");
+set_font_italic();set_font_size(18);
+insert_picture("bridget_fonda");align_top_right_corner();
+choose_picture();set_width(8);set_height(7);
+create_slide();
+choose_content();insert_text("लॉस एंजिल्स में जन्मी ब्रिजेट फोंडा एक सम्मानित अभिनय परिवार से आती हैं, जिसमें हेनरी फोंडा, पीटर फोंडा और जेन फोंडा शामिल हैं। वह हार्वे के एक स्कूल प्रोडक्शन में दिखाई देने और बाद में पार्टनर्स में एक मूक भूमिका निभाने के बाद थिएटर से जुड़ीं। 1988 में, वह स्कैंडल में दिखाई दीं, जो उनकी पहली बोलने वाली भूमिका थी, इसके बाद उन्होंने कुछ छोटी भूमिकाएँ निभाईं।");
+set_font_size(12);set_font_italic();
+choose_title();insert_text("मूवी सूची");
+insert_table(3, 3);choose_table_cell(0,0);insert_text("1");choose_table_cell(0,1);insert_text("2");choose_table_cell(0,2);insert_text("3");choose_table_cell(1,0);insert_text("4");choose_table_cell(1,1);insert_text("5");choose_table_cell(1,2);insert_text("6");choose_table_cell(2,0);insert_text("7");choose_table_cell(2,1);insert_text("8");choose_table_cell(2,2);insert_text("9");
+choose_table();align_slide_right();
+
+create_slide();
+choose_title();insert_text("घोस्ट बियर");set_font_underline();
+choose_content();insert_text("सबसे दुर्लभ भालू जिसके बारे में आपने शायद कभी नहीं सुना होगा");
+insert_picture("ghost_bear");
+choose_title();set_font_style("Arial");set_font_size(20);choose_content();set_font_style("Arial");set_font_size(20);
+choose_picture();set_right("picture","content");
+create_slide();insert_picture("treemap_about_bears");
+align_slide_center();
+set_width(4);
+choose_content();insert_text("जब मैं डंगऑन और ड्रेगन के लिए भूखा था, दिव्यता: मूल पाप 2 ने मेरे लिए वह शून्य भर दिया।");
+choose_title();insert_text("मेरा पसंदीदा गेम");
+insert_table(2, 2);
+choose_table();choose_table_cell(0,0);insert_text("एसएमएस");choose_table_cell(0,1);insert_text("वीचैट");choose_table_cell(1,0);insert_text("क्यूक्यू");choose_table_cell(1,1);insert_text("डिंगटॉक");
+
+create_slide();set_background_color("blue");
+insert_picture("universe");align_bottom_left_corner();
+set_width(6.5);set_height(13);
+choose_content();insert_text("यह कहा जा सकता है कि मैं थोड़ा नकचढ़ा हूं। मुझे बहुत अधिक मीठा खाना पसंद नहीं है, जैसे कैंडी, चॉकलेट वगैरह।");
+choose_title();insert_text("मेरा पसंदीदा भोजन");
+set_font_color("yellow");choose_content();set_font_color("yellow");
+choose_title();set_font_underline();set_font_size(24);choose_content();set_font_size(22);
+insert_cloud();align_slide_right();
+
+choose_title();insert_text("आइडल");set_font_underline();
+insert_rectangle();set_fill_color("red");set_bottom("rectangle","title");
+choose_content();insert_text("मैं तुम्हें चाहता हूँ! (मैं तुम्हें चाहता हूँ!) मुझे तुम्हारी ज़रूरत है! (मुझे तुम्हारी ज़रूरत है!) मैं तुमसे प्यार करता हूँ! (मैं तुमसे प्यार करता हूँ!)");text_align_left();
+set_font_size(24);
+set_font_size(48);
+insert_picture("AKB48");
+set_height(6.5);set_width(13);
+insert_table(2,1);choose_table_cell(0,0);insert_text("एक मूर्ति का समय कम होता है। हमेशा एक नया ताज़ा चेहरा होता है और वे गुड़िया जैसी यथास्थिति से शायद ही कभी भटकते हैं।");
+choose_table();choose_table_cell(0,0);set_font_color("blue");set_font_style("Futura");
+choose_table_cell(1,0);insert_text("मूर्तियों की महाकाव्य यात्रा, सिल्वी वार्टन से लेकर स्टेडियमों को बेचने वाली मूर्तियों तक, सवाल उठाती है: मूर्तियों और उनके द्वारा शुरू की गई संस्कृति के लिए आगे क्या है?");
+insert_note("2023/05/17");
+
+choose_content();insert_text("सामग्री");text_align_center();
+choose_content();insert_text("1। पृष्ठभूमि");insert_text("2. मूल्यांकन मिशन");insert_text("3. मॉडल");insert_text("4. अनुप्रयोग");
+set_font_size(80);set_font_color("green");
+set_font_underline();set_font_style("Pecita");
+
+set_background_color("orange");choose_title();insert_text("सर्वश्रेष्ठ सॉफ़्टवेयर");
+set_font_italic();set_font_size(24);
+choose_content();insert_text("आप शक्तिशाली सॉफ़्टवेयर चाहते हैं? आपको इसके लिए भुगतान नहीं करना पड़ेगा। आपके पीसी पर उत्पादक और सुरक्षित होने के लिए आपको जो कुछ भी चाहिए वह इस सूची में है, और यह सब पूरी तरह से मुफ़्त है।");
+set_font_color("yellow");
+set_background_color("dark blue");
+choose_content();set_font_underline();set_font_style("Arial");
+insert_right_arrow();align_slide_bottom();
+insert_note("2023/4/25");
+
+create_slide();choose_title();insert_text("जय चाउ");
+choose_content();insert_text("जय चाउ एक ताइवानी संगीतकार, गायक-गीतकार, मल्टी-इंस्ट्रूमेंटलिस्ट, अभिनेता और निर्देशक हैं।");
+create_slide();choose_title();insert_text("मोजिटो");
+set_font_underline();set_font_size(20);
+set_font_size(48);
+choose_content();insert_text(''मोजिटो'' को आम जनता से लेकर अंतरराष्ट्रीय समुदाय तक ने खूब सराहा। क्यूबाई धूप, उष्णकटिबंधीय शर्ट, प्राचीन कारें और जीवंत धड़कनें गाने को न केवल आकर्षक बनाती हैं, बल्कि दृश्य आनंद भी देती हैं। कृपया सवाल न पूछें।');
+set_font_style("Futura");set_background_color("green");
+insert_picture("mojito_cover");align_slide_right();
+
+choose_title();insert_text("मेरा कॉलेज जीवन");
+insert_picture("collegue");insert_textbox();insert_text("कॉलेज");
+choose_content();insert_text("कॉलेज के छात्रों में विदेश में पढ़ाई का क्रेज");
+set_font_color("red");set_font_underline();
+set_font_style("Futura");choose_title();set_font_size(22);
+choose_content();text_align_left();
+insert_table(1, 3);
+choose_table_cell(0, 0);insert_text("प्रथम श्रेणी");choose_table_cell(0, 1);insert_text("द्वितीय श्रेणी");choose_table_cell(0, 2);insert_text("तृतीय श्रेणी");
+create_slide();choose_content();insert_text("पेकिंग विश्वविद्यालय में मिशेल ओबामा का भाषण");
+insert_picture("logo");align_top_right_corner();
+set_height(6.5);
+
+create_slide();choose_title();insert_text("लर्निंग पायथन");
+set_font_italic();set_font_size(26);set_font_style("Times New Roman");
+set_background_color("green");
+create_slide();set_background_color("green");create_slide();set_background_color("green");
+insert_rectangle();align_slide_bottom();
+insert_table(1, 1);
+choose_table_cell(0, 0);insert_text("उदाहरण नहीं दिए गए हैं, कृपया तालिका भरें");
+
+create_slide();set_background_color("green");choose_title();insert_text("मशीन अनुवाद");
+choose_content();insert_text("मशीन अनुवाद एक भाषा से दूसरी भाषा में पाठ का अनुवाद करने के लिए कंप्यूटर तकनीक का उपयोग है।");
+set_font_size(20);
+set_font_size(40);
+set_font_color("green");text_align_right();
+insert_picture("trados");
+set_height(2);set_width(2);
+align_slide_bottom();
+insert_rectangle();align_slide_bottom();
+
+choose_title();insert_text("पृष्ठभूमि");insert_note("पृष्ठभूमि");
+choose_content();insert_text("अनुवाद मशीन की अनुवाद गुणवत्ता को समझने की आवश्यकताएं");insert_text("प्रत्येक दिनांक बिंदु की विश्वसनीयता पर ध्यान दें।");
+insert_cloud();set_width(6.5);align_slide_bottom();
+choose_title();set_font_size(30);choose_content();set_font_size(20);set_font_italic();
+
+insert_circle();align_slide_left();set_fill_color("green");
+set_width(10);set_height(10);
+choose_content();insert_text("फ़ीचर लर्निंग मॉड्यूल");insert_text("गुणवत्ता मूल्यांकन मॉड्यूल");
+choose_title();insert_text("बेसिक फ्रेमवर्क");
+insert_note("2023/4");choose_shape("circle");insert_text("2023/4");
+
+choose_title();insert_text("मार्च में पेरोल");set_font_color("green");
+insert_table(1, 3);
+choose_table_cell(0, 0);insert_text("कर्मचारी आईडी");choose_table_cell(0, 1);insert_text("राशि");choose_table_cell(0, 2);insert_text("नोट");
+insert_textbox();insert_text("कर्मचारी को अपना बैंक आईडी और पहचान पत्र प्रदान करना होगा।");set_bottom("textbox","table");
+insert_picture("company_brand_name");align_top_right_corner();
+create_slide();set_background_color("yellow");
+choose_title();insert_text("अध्याय 2");choose_content();insert_text("कर्मचारी बोनस");
+choose_title();set_font_italic();set_font_size(44);set_font_color("green");
+choose_content();set_font_style("Verdana");set_font_color("light green");
+insert_note("2023/4");
+
+create_slide();choose_title();insert_text("गहन शिक्षा की विशेषताएं");set_font_underline();
+set_font_size(26);set_font_color("light blue");
+insert_circle();
+choose_content();insert_text("डीप लर्निंग एक मशीन लर्निंग तकनीक है जो कंप्यूटर को वह करना सिखाती है जो मनुष्यों के लिए स्वाभाविक रूप से आता है।");
+set_font_style("Arial");
+insert_triangle();align_slide_left();
+align_slide_right();
+set_fill_color("red");set_width(5);
+choose_content();insert_bullet_point("Sunday");insert_bullet_point("Monday");insert_bullet_point("Tuesday");
+move_to_next_slide();set_background_color("yellow");
+choose_title();insert_text("तटस्थ नेटवर्क");set_font_underline();set_font_italic();insert_note("तटस्थ नेटवर्क");
+
+choose_title();insert_text("कला का इतिहास");
+set_font_bold();set_font_style("Times New Roman");
+choose_content();insert_text("कला दृश्य, श्रवण या प्रदर्शन कलाकृतियों को बनाने, लेखक के कल्पनाशील, वैचारिक विचारों या तकनीकी कौशल को व्यक्त करने में मानवीय गतिविधियों की एक विविध श्रृंखला है, जिसका उद्देश्य मुख्य रूप से उनकी सुंदरता या भावनात्मक शक्ति के लिए सराहना की जाती है।");
+set_font_italic();set_font_style("Arial");
+insert_bullet_point("");
+insert_bullet_point("painting");insert_bullet_point("sculpture");insert_bullet_point("architecture");insert_bullet_point("music");insert_bullet_point("literature");
+insert_picture("Mona Lisa");align_slide_bottom();
+align_top_left_corner();
+insert_note("लियोनार्डो दा विंची द्वारा मोना लिसा");
+
+insert_star();set_fill_color("yellow");
+choose_title();insert_text("सितारे");set_font_size(24);
+choose_content();insert_text("तारों वाली रात में आपका स्वागत है");
+insert_picture("universe");set_bottom("picture","content");
+insert_note("चमकता सितारा, चमकता सितारा, झिलमिलाता सितारा");choose_title();delete_text();insert_text("चमकता सितारा, चमकता सितारा, झिलमिलाता सितारा");
+
+create_slide();choose_title();insert_text("ग्राहक प्रतिक्रिया");
+insert_picture("happy_customer");align_slide_bottom();
+choose_title();delete_text();insert_text("हमारे ग्राहक हमसे प्यार करते हैं!");set_font_color("red");
+delete_text();insert_text("!!");
+choose_content();insert_text("ग्राहक समीक्षाएँ");
+set_font_style("Times New Roman");set_font_color("green");
+set_background_color("red");
+set_background_color("green");
+
+create_slide();choose_title();insert_text("मार्केटिंग प्लान");
+insert_text("परिचय");set_font_underline();set_font_style("Calibri");
+insert_picture("company_logo");align_bottom_left_corner();
+set_height(5);set_width(3);align_slide_right();
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("श्रेणी");choose_table_cell(0, 1);insert_text("सूचना");choose_table_cell(1, 0);insert_text("आयु");choose_table_cell(1, 1);insert_text("25")
+create_slide();set_background_color("blue");
+choose_title();insert_text("मोबाइल ब्रांड");
+insert_line_chart([120, 140, 150], ["Huawei", "Apple", "Xiaomi"]);
+set_chart_title("Sales in April");
+
+create_slide();choose_title();insert_text("Q2 वित्तीय रिपोर्ट");
+set_font_style("Arial");set_font_size(20);
+insert_table(1, 3);choose_table_cell(0, 0);insert_text("मीट्रिक");choose_table_cell(0, 1);insert_text("क्यू2");choose_table_cell(0, 2);insert_text("क्यू3")
+insert_picture("financial report");set_top("picture","table");
+choose_content();insert_text("दूसरी तिमाही की वित्तीय रिपोर्ट मजबूत राजस्व वृद्धि और बेहतर लाभप्रदता दर्शाती है, जो सफल लागत अनुकूलन उपायों और हमारे उत्पादों और सेवाओं के लिए बढ़ी हुई बाजार मांग से प्रेरित है।");
+set_font_italic();set_font_bold();
+insert_bullet_point("");
+set_background_color("light blue");
+
+create_slide();set_background_color("green");
+choose_title();insert_text("नारीवाद");
+set_font_color("green");set_font_size(26);
+choose_content();insert_text("नारीवाद पुरुषों के समानांतर महिलाओं के लिए समान अधिकारों, शक्ति और अवसरों की धारणा और खोज है।");
+set_font_color("green");set_font_italic();
+create_slide();choose_title();insert_text("नारीवाद आंदोलन की तीसरी लहर");set_font_color("green");
+set_font_bold();set_font_style("Times New Roman");set_font_color("blue");set_font_size(28);
+insert_picture("war");align_slide_bottom();
+insert_pie_chart([40, 30, 30], ["अमेरिका", "रूस", "फ़्रांस"]);
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("स्थान");choose_table_cell(0, 1);insert_text("विश्व के विभिन्न शहर")
+
+create_slide();choose_title();insert_text("उत्पाद लॉन्च");
+choose_content();insert_text("उद्देश्य");insert_note("उद्देश्य");
+set_font_underline();set_font_style("Times New Roman");
+insert_picture("Apple_Pencil");align_bottom_left_corner();
+align_top_right_corner();
+
+choose_title();insert_text("टीम प्रोग्रेस");
+choose_content();insert_text("उद्देश्य");
+choose_content();insert_text("संगठन का उद्देश्य अनुभवी फ्रीलांसरों के मार्गदर्शन के माध्यम से इस पीढ़ी के युवाओं और हाशिए पर रहने वाले समूहों को बढ़ावा देना है।");
+set_font_size(18);set_font_underline();
+insert_picture("team_group");set_right("picture", "content");
+
+choose_title();insert_text("नवाचार की शक्ति");
+set_font_style("Arial");set_font_bold();
+choose_content();insert_text("आज की तेजी से बदलती दुनिया में, नवाचार आर्थिक विकास को आगे बढ़ाने, राजनीतिक परिदृश्य को आकार देने और सांस्कृतिक मानदंडों को बदलने में महत्वपूर्ण भूमिका निभाता है। यह प्रगति को बढ़ावा देता है, प्रतिस्पर्धात्मकता को बढ़ावा देता है, और व्यक्तियों और समाजों के लिए नई संभावनाएं खोलता है।");
+set_font_color("dark blue");set_line_space(2);
+insert_picture("cityscape");align_slide_left();
+insert_rectangle();align_slide_right();
+set_background_color("dark blue");
+create_slide();choose_content();insert_text("यह सामाजिक नैतिकता और बाहरी मानकों की उपेक्षा करते हुए तर्कसंगतता के बिना संचालित होता है।");
+set_font_bold();set_font_underline();choose_title();insert_text("फेयरी टेल्स");
+
+choose_title();insert_text("शहरी जीवन");
+set_background_color("light blue");
+choose_table();insert_table(3, 2);choose_table_cell(0, 1);delete_text();insert_text("मात्रा");choose_table_cell(1, 1);delete_text();insert_text("गुणवत्ता");choose_table_cell(2, 1);delete_text();insert_text("स्तर");
+insert_triangle();insert_rectangle();set_top("triangle", "rectangle");
+choose_shape("triangle");set_bottom("triangle", "rectangle");
+insert_picture("Shanghai");align_bottom_left_corner();
+
+choose_table();insert_table(4, 6);
+choose_table_cell(0, 0);insert_text("वर्ष");choose_table_cell(0, 1);insert_text("मित्र");choose_table_cell(0, 2);insert_text("ब्रेकिंग बैड");choose_table_cell(0, 3);insert_text("गेम ऑफ थ्रोन्स");choose_table_cell(0, 4);insert_text("स्ट्रेंजर थिंग्स");choose_table_cell(0, 5);insert_text("द क्राउन")
+insert_star();
+insert_picture("Friends");set_right("picture", "star");
+choose_shape("star");set_top("star", "picture");
+choose_title();insert_text("टीवी श्रृंखला");set_font_italic();set_font_underline();
+insert_note("2023-2025");
+
+insert_triangle();rotate_element(45);
+insert_rectangle();set_right("rectangle","triangle");
+insert_star();set_right("star","rectangle");
+insert_circle();set_right("circle","star");
+insert_callout();set_right("callout","circle");rotate_element(-45);
+choose_shape("triangle");insert_text("आकार");choose_shape("rectangle");insert_text("आकार");choose_shape("star");insert_text("आकार");choose_shape("circle");insert_text("आकार");choose_shape("callout");insert_text("आकार");
+
+insert_picture("globe");
+choose_title();insert_text("वैश्विक विस्तार रणनीति");
+choose_picture();align_top_left_corner();
+choose_content();insert_text("शांति और प्रेम");
+
+insert_pie_chart([40, 45, 5], ["शंघाई", "बीजिंग", "अन्य"]);
+choose_title();insert_text("योगदान");
+choose_content();insert_text("बीजिंग का वार्षिक सकल घरेलू उत्पाद 2021 में पहली बार 4 ट्रिलियन युआन ($630 बिलियन) से अधिक हो गया");
+set_font_style("Arial");
+insert_line_chart([6.7, 6.9, 6.6, 6.1, 2.3, 8.1], ["2016", "2017", "2018", "2019", "2020", "2021"]);
+choose_title();insert_text("जीडीपी ग्रोथ");
+insert_bar_chart([6.5, 6.3, 6.1, 5.9, 5.7, 5.5], ["2022", "2023", "2024", "2025", "2026", "2027"]);
+
+create_slide();choose_title();insert_text("मार्केटिंग प्लान");
+set_background_color("red");
+insert_picture("company_logo");set_top("picture", "title");
+set_width(3);
+
+create_slide();choose_title();insert_text("क्वीनकार्ड");
+set_font_italic();set_font_bold();set_font_color("purple");
+set_background_color("light blue");
+insert_picture("Poker");set_right("picture", "title");
+align_top_right_corner();
+insert_circle();align_bottom_right_corner();
+set_width(6);set_height(4);
+create_slide();choose_title();insert_text("किंग");
+insert_picture("King");align_slide_right();
+
+create_slide();choose_title();insert_text("प्रोजेक्ट टाइमलाइन");
+insert_table(1, 4);
+choose_table_cell(0, 0);insert_text("जनवरी");choose_table_cell(0, 1);insert_text("फरवरी");choose_table_cell(0, 2);insert_text("मार्च");choose_table_cell(0, 3);insert_text("अप्रैल")
+choose_content();insert_text("उदा., \"सॉफ़्टवेयर लॉन्च\", \"विपणन अभियान प्रारंभ\"");
+insert_picture("project_team");set_bottom("picture", "table");
+insert_right_arrow();set_left("right_arrow", "picture");
+set_width(3);set_height(3);
+
+insert_pie_chart([40, 60], ["महिला", "पुरुष"]);
+set_chart_title("Class 1");
+insert_picture("team_of_students");
+insert_rectangle();set_bottom("rectangle", "chart");
+choose_title();insert_text("ग्रेड 1");
+choose_content();insert_text("निम्नलिखित प्रत्येक कक्षा में लिंग प्रतिशत दर्शाता है");
+set_font_underline();set_font_size(20);
+insert_note("सिद्धांत：ईवा");
+create_slide();insert_pie_chart([40, 60],["Female", "Male"]);set_chart_title("Class 1");
+insert_picture("team_of_students");
+insert_rectangle();set_bottom("rectangle", "chart");
+
+create_slide();choose_title();insert_text("ग्राहक प्रशंसापत्र");
+choose_content();insert_text("हमारे ग्राहक हमारे बारे में क्या कह रहे हैं");set_font_bold();set_font_italic();
+insert_picture("happy_customer");
+insert_triangle();set_fill_color("purple");
+align_slide_right();
+
+create_slide();choose_title();insert_text("रणनीति");
+choose_content();insert_text("हमारी मार्केटिंग रणनीति 4 पी पर आधारित है: उत्पाद, मूल्य, स्थान और प्रचार।");
+set_font_size(20);set_line_space(2);set_font_bold();choose_title();set_font_underline();
+set_font_color("red");choose_content();set_font_color("red");
+insert_rectangle();align_slide_left();
+insert_picture("Apple_company_logo");set_right("picture", "rectangle");
+choose_picture();set_top("picture", "rectangle");
+
+create_slide();choose_title();insert_text("प्रशंसक");set_font_style("Arial");set_font_size(24);
+choose_content();insert_bullet_point("Benefits of our product");insert_bullet_point("Target market");insert_bullet_point("Pricing strategy");insert_bullet_point("Marketing channels");
+insert_picture("idol");set_height(6.5);
+align_slide_bottom();
+insert_rectangle();align_slide_top();
+insert_note("प्रस्तोता：ईवा");
+
+create_slide();choose_title();insert_text("बिक्री आंकड़े");
+insert_bar_chart([20, 30], ["जनवरी", "फरवरी"]);
+insert_line_chart([10, 15], ["January", "Feburuary"]);
+set_chart_title("Sales by Month");
+insert_rectangle();align_slide_top();
+choose_content();insert_text("हमारा राजस्व भी पिछले 6 महीनों में लगातार बढ़ रहा है");
+
+create_slide();choose_title();insert_text("बिक्री रिपोर्ट");
+insert_table(2, 5);
+choose_table();insert_table_row(["उत्पाद", "बेची गई इकाइयाँ", "राजस्व", "व्यय", "लाभ"])
+insert_table_row(["कंप्यूटर", "1000", "$1000000", "$500000", "$500000"])
+insert_table_row(["प्रिंटर", "500", "$100000", "$50000", "$50000"])
+
+create_slide();insert_picture("city_skyline");align_slide_top();
+set_width(6);set_height(4);
+choose_title();insert_text("सिटी लाइफ");
+choose_picture();align_top_left_corner();
+choose_title();set_font_size(20);set_font_bold();
+
+create_slide();insert_line_chart([40, 30, 30], ["कॉन्सर्ट", "एल्बम", "पुस्तक"]);
+choose_title();insert_text("द पावर ऑफ फैन्डम");
+choose_content();insert_text("प्रशंसक फिल्मों और टीवी शो से लेकर खेल और संगीत तक मनोरंजन के विभिन्न रूपों की सफलता और प्रभाव को आकार देने में महत्वपूर्ण भूमिका निभाते हैं।");
+set_font_style("Arial");set_font_size(20);
+insert_right_arrow();align_slide_top();
+insert_textbox();align_slide_bottom();
+align_slide_top();
+
+create_slide();choose_title();insert_text("Tencent");
+insert_rectangle();align_slide_top();
+rotate_element(90);
+choose_title();set_font_style("Georgia");set_font_italic();
+choose_content();insert_text("Tencent 1998 में स्थापित एक प्रमुख चीनी बहुराष्ट्रीय समूह है। यह सोशल मीडिया, ऑनलाइन गेमिंग, ई-कॉमर्स, क्लाउड कंप्यूटिंग और कृत्रिम बुद्धिमत्ता सहित विभिन्न इंटरनेट-संबंधित सेवाओं और उत्पादों में माहिर है। ");
+set_font_size(24);set_font_style("Arial");
+
+set_background_color("green");
+insert_picture("Tencent_logo");
+set_width(6.5);
+insert_line_chart([40, 30, 30], ["मॉडल ए", "मॉडल बी", "मॉडल सी"]);
+insert_bar_chart([40, 30, 30],["Model A", "Model B", "Model C"]);
+
+create_slide();choose_title();insert_text("अंग्रेजों की उत्पत्ति");set_font_underline();
+choose_content();insert_text("यूनाइटेड किंगडम की उत्पत्ति का पता एंग्लो-सैक्सन राजा एथेलस्टन के समय से लगाया जा सकता है, जिन्होंने 10 वीं शताब्दी की शुरुआत में पड़ोसी सेल्टिक साम्राज्यों की निष्ठा हासिल की और ");
+set_font_size(20);
+set_font_size(40);set_background_color("green");
+
+insert_rectangle();align_slide_right();
+set_fill_color("yellow");
+choose_title();insert_text("विंदा");
+choose_content();insert_text("विंदा ग्रुप 1985 में स्थापित एक अग्रणी स्वच्छता उत्पाद कंपनी है। यह टिशू पेपर, डिस्पोजेबल स्वच्छता उत्पादों और व्यक्तिगत देखभाल उत्पादों के निर्माण और वितरण में माहिर है।");
+set_font_size(20);set_font_color("green");set_font_style("Vinda");
+set_line_space(2);choose_title();set_line_space(2);
+
+choose_title();insert_text("मेरे शौक");
+insert_picture("guitar");align_top_right_corner();
+choose_content();insert_text("गिटार बजाना मेरे पसंदीदा शौक में से एक है।");
+set_font_size(24);set_font_color("purple");
+
+create_slide();choose_title();insert_text("मार्केटिंग प्लान");
+choose_content();insert_text("विपणन की योजना");
+set_font_style("Calibri");
+insert_picture("vinda_logo");
+align_top_left_corner();
+
+create_slide();choose_title();insert_text("विपणन अभियान");
+insert_picture("smiling_customer");align_top_left_corner();
+set_height(5);set_width(6);
+choose_content();insert_bullet_point("Profits");insert_bullet_point("Repute");insert_bullet_point("Go listing");
+set_font_size(20);choose_title();set_font_size(20);
+
+create_slide();choose_title();insert_text("बैटरी प्रकार");
+set_font_bold();set_font_italic();
+insert_picture("Product A");
+align_slide_left();
+insert_table(4, 2);choose_table_cell(0, 0);insert_text("बैटरी का प्रकार");choose_table_cell(0, 1);insert_text("विवरण");choose_table_cell(1, 0);insert_text("लंबी शेल्फ लाइफ वाली क्षारीय और सामान्य घरेलू बैटरियां");choose_table_cell(1, 1);insert_text("इलेक्ट्रॉनिक उपकरणों में उपयोग की जाने वाली लिथियम-आयन और रिचार्जेबल बैटरियां");choose_table_cell(2, 0);insert_text("निकेल-कैडमियम");choose_table_cell(2, 1);insert_text("उच्च ऊर्जा घनत्व वाली रिचार्जेबल बैटरियां");choose_table_cell(3, 0);insert_text("");choose_table_cell(3, 1);insert_text("")
+
+insert_pie_chart([30, 25, 20, 15, 10], ["ब्रांड ए", "ब्रांड बी", "ब्रांड सी", "ब्रांड डी", "अन्य ब्रांड"]);
+set_chart_title("Air Condition Brands");
+choose_content();insert_text("इस स्लाइड में प्रत्येक ब्रांड के बारे में संक्षिप्त विवरण या मुख्य बिंदु शामिल हैं");
+insert_picture("Haier");align_slide_bottom();
+choose_content();set_font_underline();set_font_color("green");
+insert_triangle();insert_rectangle();
+choose_shape("triangle");set_bottom("triangle", "rectangle");
+choose_shape("rectangle");rotate_element(45);
+
+choose_title();insert_text("हमारी टीम");
+insert_picture("team");set_width(4);set_height(3);
+rotate_element(45);
+align_top_left_corner();
+choose_title();set_font_style("Calibri");set_font_size(28);
+
+choose_title();insert_text("पहचान पत्र");
+insert_line_chart([120, 140, 110], ["फ़ुज़ियान", "शंघाई", "बीजिंग"]);
+set_chart_title("ID Card Operation");
+insert_picture("ID_card");align_slide_right();
+choose_title();set_font_style("Verdana");set_font_size(32);
+set_background_color("purple");
+
+choose_title();insert_text("बिक्री रिपोर्ट");
+set_font_style("Arial");set_font_size(48);set_font_bold();
+insert_table(5, 3);
+choose_table_cell(0, 0);insert_text("क्षेत्र");choose_table_cell(0, 1);insert_text("बिक्री");choose_table_cell(0, 2);insert_text("विकास");choose_table_cell(1, 0);insert_text("उत्तर");choose_table_cell(1, 1);insert_text("$50,000");choose_table_cell(1, 2);insert_text("5%");choose_table_cell(2, 0);insert_text("पूर्व");choose_table_cell(2, 1);insert_text("$75,000");choose_table_cell(2, 2);insert_text("10%");choose_table_cell(3, 0);insert_text("दक्षिण");choose_table_cell(3, 1);insert_text("$45,000");choose_table_cell(3, 2);insert_text("3%");choose_table_cell(4, 0);insert_text("वेस्ट");choose_table_cell(4, 1);insert_text("$60,000");choose_table_cell(4, 2);insert_text("8%")
+set_background_color("green");
+choose_content();insert_text("नाम: जॉन डो, जन्म तिथि: 1 जनवरी, 1990, लिंग: पुरुष, आईडी संख्या: 123456789, जारीकर्ता प्राधिकारी: मोटर वाहन विभाग, समाप्ति तिथि: 31 दिसंबर, 2023");
+insert_picture("beach");
+insert_right_arrow();
+choose_picture();set_top("picture", "right_arrow");
+
+insert_rectangle();
+set_fill_color("orange");
+set_width(6);set_height(5);
+choose_title();insert_text("महत्वपूर्ण जानकारी");set_font_bold();
+set_font_size(24);set_font_color("green");
+choose_content();insert_bullet_point("pot");insert_bullet_point("scissors");insert_bullet_point("scoup");
+insert_picture("exclamatory_mark");
+align_top_left_corner();
+create_slide();insert_rectangle();align_slide_left();
+choose_title();insert_text("अतिरिक्त विवरण");
+
+choose_content();insert_text("हमारी कंपनी के विकास के बारे में कुछ आँकड़े यहाँ दिए गए हैं");
+set_font_color("purple");
+choose_table();insert_table(1, 3);
+choose_table();insert_table_row(["राजस्व", "लाभ", "कर्मचारियों की संख्या"])
+
+insert_picture("converse_shoes");
+choose_content();insert_text("कॉनवर्स एक लोकप्रिय फुटवियर ब्रांड है जो अपने प्रतिष्ठित स्नीकर्स और कैज़ुअल स्टाइल के लिए जाना जाता है।");
+set_font_size(18);set_font_color("red");
+
+choose_content();insert_text("नींबू का रस ताज़ा निचोड़े हुए नींबू से बना एक ताज़ा और तीखा पेय है। यह विटामिन सी से भरपूर है और साइट्रस स्वाद प्रदान करता है।");
+create_slide();choose_title();insert_text("नींबू का रस");
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("उत्पाद");choose_table_cell(0, 1);insert_text("मूल्य");choose_table_cell(0, 2);insert_text("विशेषताएं");choose_table_cell(1, 0);insert_text("ए");choose_table_cell(1, 1);insert_text("बी");choose_table_cell(1, 2);insert_text("सी")
+insert_picture("lemon_juice");set_right("picture","table");
+choose_content();insert_text("पेज 1");
+
+insert_picture("beach");align_top_left_corner();
+choose_content();insert_text("आज ही अपनी छुट्टियाँ बुक करें!");
+choose_title();insert_text("अवकाश का समय");
+set_font_size(18);set_font_style("Times New Roman");choose_content();set_font_size(18);set_font_style("Times New Roman");
+choose_content();insert_bullet_point("Relaxing on the beach");insert_bullet_point("Swimming in the ocean");insert_bullet_point("Eating delicious seafood");
+
+create_slide();choose_title();insert_text("चिली");
+set_background_color("red");
+insert_picture("chili");
+choose_content();insert_text("मिर्च एक मसालेदार और स्वादिष्ट व्यंजन है जो मांस, बीन्स और विभिन्न मसालों के संयोजन से बनाया जाता है। यह अपने समृद्ध स्वाद और संतोषजनक गर्मी के लिए जाना जाता है।");
+
+choose_title();insert_text("चिली");insert_picture("chili_landscape");
+insert_table(4, 3);choose_table_cell(0, 0);insert_text("घटक");choose_table_cell(0, 1);insert_text("मात्रा");choose_table_cell(0, 2);insert_text("तीखापन स्तर");choose_table_cell(0, 3);insert_text("उत्पत्ति");choose_table_cell(1, 0);insert_text("बीफ़");choose_table_cell(1, 1);insert_text("2 पाउंड");choose_table_cell(1, 2);insert_text("मीडियम");choose_table_cell(1, 3);insert_text("मेक्सिको");choose_table_cell(2, 0);insert_text("बीन्स");choose_table_cell(2, 1);insert_text("1 कैन");choose_table_cell(2, 2);insert_text("माइल्ड");choose_table_cell(2, 3);insert_text("यूनाइटेड स्टेट्स");choose_table_cell(3, 0);insert_text("टमाटर");choose_table_cell(3, 1);insert_text("3");choose_table_cell(3, 2);insert_text("हॉट");choose_table_cell(3, 3);insert_text("स्पेन")
+insert_note("पेज 2");
+
+insert_picture("eating_humburger");align_slide_bottom();
+choose_title();insert_text("Q3 के लिए बिक्री अनुमान");
+choose_content();insert_text("तीसरी तिमाही के लिए बिक्री अनुमान राजस्व और बाजार हिस्सेदारी में लगातार वृद्धि का संकेत देते हैं। लक्षित विपणन रणनीतियों और उत्पाद संवर्द्धन के साथ, हम बिक्री प्रदर्शन में उल्लेखनीय वृद्धि की उम्मीद करते हैं।");
+
+choose_title();insert_text("विपणन रणनीति");
+choose_content();insert_text("हमारी कंपनी की मार्केटिंग रणनीति सोशल मीडिया विज्ञापन और प्रभावशाली मार्केटिंग पर ध्यान केंद्रित करना है");
+insert_bullet_point("Instagram");insert_bullet_point("Facebook");insert_bullet_point("Twitter");
+insert_picture("using_smartphone");
+insert_rectangle();set_top("rectangle","picture");
+insert_table(6, 4);choose_table_cell(0, 0);insert_text("महीना");choose_table_cell(0, 1);insert_text("राजस्व");choose_table_cell(0, 2);insert_text("बेची गई इकाइयाँ");choose_table_cell(0, 3);insert_text("विकास दर")
+
+create_slide();choose_title();insert_text("उत्पाद लॉन्च");
+insert_text("हमारे नवीनतम उत्पाद का परिचय");
+insert_picture("product");
+align_slide_bottom();
+set_background_color("purple");align_slide_top();
+
+choose_title();insert_text("चीन का अन्वेषण करें");
+insert_picture("china_map");
+align_top_left_corner();
+choose_content();insert_text("चीन एक मनोरम पर्यटन स्थल है जो अपने समृद्ध इतिहास, जीवंत संस्कृति और लुभावने परिदृश्यों के लिए जाना जाता है। प्रतिष्ठित महान दीवार से लेकर शंघाई के हलचल भरे महानगर तक, इस विशाल क्षेत्र में हर यात्री के लिए कुछ न कुछ है विविध देश।");
+insert_table(8, 5);choose_table_cell(0, 0);insert_text("प्रांत");choose_table_cell(0, 1);insert_text("प्रसिद्ध आकर्षण");choose_table_cell(0, 2);insert_text("औसत तापमान");choose_table_cell(0, 3);insert_text("पर्यटक संख्या");choose_table_cell(0, 4);insert_text("अनुशंसित मौसम")
+create_slide();choose_title();insert_text("प्रोजेक्ट टाइमलाइन");
+insert_star();align_slide_right();
+align_slide_right();
+
+choose_title();insert_text("ओप्पो");set_font_color("red");set_font_size(20);set_font_underline();set_font_bold();
+choose_content();insert_text("ओप्पो एक अग्रणी स्मार्टफोन निर्माता है जो अपने इनोवेटिव डिज़ाइन और अत्याधुनिक तकनीक के लिए जाना जाता है।");
+insert_picture("oppo_smartphone");set_left("picture","content");
+create_slide();choose_title();insert_text("Xiaomi");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("उत्पाद");choose_table_cell(0, 1);insert_text("मूल्य");choose_table_cell(0, 2);insert_text("विशेषताएं");choose_table_cell(0, 3);insert_text("उपलब्धता");choose_table_cell(1, 0);insert_text("Mi 11");choose_table_cell(1, 1);insert_text("$699");choose_table_cell(1, 2);insert_text("स्नैपड्रैगन 888, 108MP कैमरा");choose_table_cell(1, 3);insert_text("ग्लोबल");choose_table_cell(2, 0);insert_text("Redmi Note 10");choose_table_cell(2, 1);insert_text("$249");choose_table_cell(2, 2);insert_text("AMOLED डिस्प्ले, 48MP कैमरा");choose_table_cell(2, 3);insert_text("वैश्विक")
+
+create_slide();choose_title();insert_text("उत्पाद अवलोकन");
+choose_table();insert_table(4, 3);choose_table_cell(0, 0);insert_text("उत्पाद का नाम");choose_table_cell(1, 0);insert_text("एसकेयू");choose_table_cell(2, 0);insert_text("मूल्य");choose_table_cell(3, 0);insert_text("मात्रा");
+set_background_color("green");
+
+set_background_color("blue");choose_title();insert_text("शोध लेखन");
+choose_content();insert_text("शोध लेखन में किसी विशेष क्षेत्र में नए ज्ञान और अंतर्दृष्टि का योगदान करने के लिए किसी विषय की व्यवस्थित जांच और दस्तावेज़ीकरण शामिल होता है।");
+set_font_color("yellow");set_font_size(18);
+set_font_size(36);
+insert_line_chart([120, 140, 160], ["2016", "2017", "2018"]);
+set_chart_title("Publications Over Time");
+insert_picture("research_writing_cover");set_background_color("light blue");
+
+create_slide();choose_title();insert_text("मार्च में शेड्यूल करें");
+set_font_size(28);set_font_color("dark blue");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("दिनांक");choose_table_cell(0, 1);insert_text("कार्य");choose_table_cell(0, 2);insert_text("प्रारंभ समय");choose_table_cell(0, 3);insert_text("अंत समय");choose_table_cell(1, 0);insert_text("मार्च 15");choose_table_cell(1, 1);insert_text("हितधारकों के साथ बैठक");choose_table_cell(1, 2);insert_text("9:00 पूर्वाह्न");choose_table_cell(1, 3);insert_text("10:30 पूर्वाह्न");choose_table_cell(2, 0);insert_text("23 मार्च");choose_table_cell(2, 1);insert_text("परियोजना समीक्षा और अद्यतन");choose_table_cell(2, 2);insert_text("दोपहर 2:00 बजे");choose_table_cell(2, 3);insert_text("4:00 अपराह्न")
+insert_picture("calendar");set_top(picture, table);
+
+create_slide();choose_title();insert_text("ध्यान के लाभ");
+insert_picture("person_meditating");align_slide_bottom();
+choose_content();insert_text("ध्यान एक सरल लेकिन शक्तिशाली तकनीक है जो आपको आंतरिक शांति और शांति की स्थिति प्राप्त करने में मदद कर सकती है।");
+set_font_size(24);set_font_style("Times New Roman");
+insert_rectangle();set_right("rectangle", "picture");
+set_fill_color("light green");
+create_slide();set_background_color("light blue");
+choose_table();insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("माइंडफुलनेस मेडिटेशन");choose_table_cell(1, 0);insert_text("ट्रान्सेंडैंटल मेडिटेशन");choose_table_cell(2, 0);insert_text("बॉडी स्कैन मेडिटेशन");choose_table_cell(0, 1);insert_text("ध्यान मन को शांत करने और तनाव के स्तर को कम करने में मदद करता है, विश्राम को बढ़ावा देता है।");choose_table_cell(1, 1);insert_text("नियमित ध्यान अभ्यास फोकस और एकाग्रता क्षमताओं को बढ़ाता है।");choose_table_cell(2, 1);insert_text("ध्यान भावनात्मक स्थिरता, दिमागीपन और समग्र कल्याण को बढ़ावा देता है।");
+
+create_slide();set_background_color("green");
+insert_picture("grassland");set_width(6.5);set_height(5.5);
+choose_title();insert_text("वनों के कार्य");set_font_color("dark red");set_font_size(40);
+insert_right_arrow();set_fill_color("yellow");
+set_right("right_arrow", "picture");
+
+insert_pie_chart([40, 20, 15, 10, 15], ["भोजन", "आवास", "परिवहन", "मनोरंजन", "अन्य"]);
+insert_table(6, 2);choose_table_cell(0, 0);insert_text("श्रेणी");choose_table_cell(0, 1);insert_text("प्रतिशत")
+set_bottom("table",pie_chart");
+choose_title();insert_text("मई 2023 में मेरा व्यय");
+set_font_italic();
+
+create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");
+move_to_slide(0);choose_title();insert_text("मेरी गर्मी की छुट्टियां");set_font_style("Microsoft JhengHei");
+move_to_slide(1);insert_picture("family");
+move_to_slide(2);insert_bar_chart([120, 80, 40, 60], ["बिक्री", "व्यय", "मुनाफा", "निवेश"]);
+move_to_slide(3);choose_content();insert_text("अपनी गर्मी की छुट्टियों के दौरान, मैं एक अविस्मरणीय साहसिक यात्रा पर निकला। मैंने नए गंतव्यों की खोज की, सुनहरे सूर्यास्त की गर्मी का आनंद लिया और रेतीले समुद्र तटों पर आराम किया।");
+move_to_slide(4);choose_table();insert_table(2, 1);choose_table_cell(0,0);insert_text("बिक्री");set_font_size(26);choose_table_cell(1,0);insert_text("व्यय");set_font_size(26);
+
+create_slide();choose_title();insert_text("बिजनेस प्लान");
+insert_picture("light_bulb");align_slide_left();
+choose_content();insert_text("उद्यमिता एक नए व्यवसाय को डिजाइन करने, लॉन्च करने और चलाने की प्रक्रिया है, जो अक्सर शुरुआत में एक छोटा व्यवसाय होता है। जो लोग इन व्यवसायों को बनाते हैं उन्हें उद्यमी कहा जाता है।");
+set_font_style("Georgia");set_font_size(10);
+set_background_color("green");
+insert_circle();
+align_slide_right();
+move_to_slide(0);choose_content();insert_text("मार्केटिंग रणनीति");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("सोशल मीडिया कैंपेन");choose_table_cell(1, 0);insert_text("इन्फ्लुएंसर पार्टनरशिप्स");choose_table_cell(2, 0);insert_text("ईमेल मार्केटिंग")
+choose_table_cell(0,3);insert_text("$10000");choose_table_cell(1,3);insert_text("$15000");choose_table_cell(2,3);insert_text("$5000");
+insert_note("2023/5");
+
+choose_title();insert_text("लक्षित दर्शक");set_font_style("Arial");
+align_top_right_corner();
+insert_picture("Gen_Z");set_width(4);
+align_bottom_left_corner();
+choose_content();insert_text("अनुरूपित संदेश देने और विपणन प्रयासों के प्रभाव को अधिकतम करने के लिए सही दर्शकों को समझना और प्रभावी ढंग से लक्षित करना महत्वपूर्ण है।");
+
+choose_title();insert_text("बड़े पैमाने पर मॉडलिंग की अनिवार्यताएं");set_font_size(24);
+insert_picture("neutral_network");align_slide_bottom();
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("संख्या");choose_table_cell(0, 1);insert_text("नोट")
+align_slide_top();
+
+insert_picture("tower");align_top_right_corner();
+choose_title();insert_text("द अल्टीमेट हीस्ट");
+insert_rectangle();set_top("rectangle", "title");
+choose_title();set_font_color("dark green");set_font_size(28);
+set_font_style("Microsoft New Tai Lue");
+set_background_color("light blue");
+
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("कार्य");choose_table_cell(0, 1);insert_text("प्राथमिकता");choose_table_cell(0, 2);insert_text("प्रारंभ समय");choose_table_cell(0, 3);insert_text("समाप्ति समय");choose_table_cell(1, 0);insert_text("प्रोजेक्ट प्लानिंग");choose_table_cell(1, 1);insert_text("उच्च");choose_table_cell(1, 2);insert_text("9:00 पूर्वाह्न");choose_table_cell(1, 3);insert_text("10:30 पूर्वाह्न")
+choose_content();insert_text("प्रभावी समय प्रबंधन व्यक्तिगत और व्यावसायिक दोनों सेटिंग्स में सफलता के लिए एक महत्वपूर्ण कौशल है");
+set_font_italic();
+choose_table();set_bottom("table","content");
+insert_picture("clock");
+insert_note("प्रस्तुतकर्ता: ईवा");
+
+create_slide();choose_title();insert_text("कंपनी प्रोफ़ाइल");
+choose_content();insert_text("हमारी कंपनी की स्थापना 2005 में हमारे ग्राहकों को उच्च गुणवत्ता वाले उत्पाद और सेवाएँ प्रदान करने के उद्देश्य से की गई थी। तब से, हम उद्योगों की एक विस्तृत श्रृंखला के लिए नवीन समाधानों के अग्रणी प्रदाता के रूप में विकसित हुए हैं। . हमारे विशेषज्ञों की टीम हमारे हर काम में उत्कृष्टता प्रदान करने के लिए प्रतिबद्ध है।");
+choose_title();set_font_style("Calibri Light");set_font_size(40);
+insert_picture("company_logo");align_slide_right();
+set_height(2);set_width(3);align_slide_left();
+align_bottom_left_corner();
+create_slide();set_background_color("blue");
+choose_content();insert_text("नवाचार और स्थिरता में अग्रणी बनना, हमारे हितधारकों को मूल्य प्रदान करना और दुनिया पर सकारात्मक प्रभाव डालना।");
+set_font_underline();set_line_space(2);
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("ए-72");choose_table_cell(0, 1);insert_text("सी-71")
+insert_table(1, 2);insert_table_row(["बी-72", "डी-71"])
+
+create_slide();choose_title();insert_text("बिक्री डेटा");
+insert_table(15, 6);
+choose_table();choose_table_cell(0, 0);insert_text("उत्पाद");choose_table_cell(0, 1);insert_text("जनवरी बिक्री");choose_table_cell(0, 2);insert_text("फरवरी बिक्री");choose_table_cell(0, 3);insert_text("मार्च बिक्री");choose_table_cell(0, 4);insert_text("कुल बिक्री");choose_table_cell(0, 5);insert_text("औसत बिक्री");choose_table_cell(1, 0);insert_text("आईफोन");choose_table_cell(1, 1);insert_text("22");choose_table_cell(1, 2);insert_text("13");choose_table_cell(1, 3);insert_text("15");choose_table_cell(1, 4);insert_text("17");choose_table_cell(1, 5);insert_text("12")
+align_top_left_corner();
+insert_note("डेटा स्रोत: बिक्री विभाग");
+create_slide();insert_table(15, 6);insert_table_row(["Product", "January Sales", "February Sales", "March Sales", "Total Sales", "Average Sales"]);insert_table_row(["iPhone", "22", "13", "15", "17", "12"]);align_top_left_corner()
+
+choose_title();insert_text("विपणन रणनीतियाँ");
+set_font_style("Arial Black");
+choose_content();insert_text("खोज इंजन अनुकूलन (एसईओ)");insert_text(", ");insert_text(", ");insert_text(", और ");
+set_font_color("dark blue");
+set_font_color("green");
+insert_picture("thumb");set_width(5);set_bottom("picture", "content");
+
+choose_title();insert_text("द ग्रांड कैन्यन");set_font_italic();
+set_font_size(30);
+set_font_style("Times New Roman");
+insert_picture("GrandCanyon");
+set_right("picture","title");
+set_height(4);set_width(6);
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("गुआंगडोंग");choose_table_cell(0, 1);insert_text("बीजिंग");choose_table_cell(0, 2);insert_text("शंघाई");choose_table_cell(0, 3);insert_text("हैनान");choose_table_cell(1, 0);insert_text("34%");choose_table_cell(1, 1);insert_text("36%");choose_table_cell(1, 2);insert_text("20%");choose_table_cell(1, 3);insert_text("10%")
+insert_pie_chart([34, 36, 20, 10], ["गुआंग्डोंग", "बीजिंग", "शंघाई", "हैनान"]);
+choose_chart();set_bottom("chart", "table");
+insert_bar_chart([34, 36, 20, 10],["Guangdong","Beijing", "Shanghai", "Hainan"]);
+insert_note("छवि स्रोत: राष्ट्रीय उद्यान सेवा");
+
+create_slide();choose_title();insert_text("उत्पाद तुलना");
+insert_table(5, 2);choose_table_cell(0, 0);insert_text("स्मार्टफ़ोन (Apple iPhone 13)");choose_table_cell(0, 1);insert_text("लैपटॉप (Dell EOS R5)");choose_table_cell(1, 0);insert_text("टेलीविजन (सैमसंग QLED Q90T)");choose_table_cell(1, 1);insert_text("गेमिंग कंसोल (प्लेस्टेशन 5)");choose_table_cell(2, 0);insert_text("फिटनेस ट्रैकर (फिटबिट चार्ज 4)");choose_table_cell(2, 1);insert_text("वायरलेस ईयरबड्स (एयरपॉड्स प्रो)");choose_table_cell(3, 0);insert_text("टैबलेट (आईपैड प्रो)")
+choose_title();align_bottom_right_corner();
+set_background_color("light blue");
+
+create_slide();choose_title();insert_text("मासिक बिक्री रिपोर्ट");
+choose_content();insert_bar_chart([10000, 12000, 15000, 18000, 20000, 25000, 28000, 30000, 32000, 35000, 40000, 45000], ["जनवरी", "फरवरी", "मार्च", "अप्रैल", "मई", "जून", "जुलाई", "अगस्त", "सितंबर", "अक्टूबर", "नवंबर", "दिसंबर"]);
+set_chart_title("My Monthly Sales in 2023");
+align_slide_top();
+choose_content();insert_text("मासिक बिक्री रिपोर्ट राजस्व में उल्लेखनीय वृद्धि दर्शाती है।");
+insert_note("प्रस्तुतकर्ता: xxx");
+
+set_background_color("light red");insert_picture("strawberry");
+create_slide();choose_title();insert_text("प्रोजेक्ट स्कोप");create_slide();choose_title();insert_text("प्रोजेक्ट टाइमलाइन");create_slide();choose_title();insert_text("प्रोजेक्ट बजट");
+move_to_slide(1);set_background_color("light green");move_to_slide(2);set_background_color("light blue");move_to_slide(3);set_background_color("purple");
+move_to_slide(1);choose_content();insert_text("हमारे प्रोजेक्ट में हमारे ग्राहकों के लिए एक नया सॉफ़्टवेयर एप्लिकेशन विकसित करना शामिल है। एप्लिकेशन उनकी व्यावसायिक प्रक्रियाओं को सुव्यवस्थित करेगा और उनकी निचली रेखा में सुधार करेगा।");
+move_to_slide(2);choose_content();insert_table(2, 6);choose_table_cell(0, 0);insert_text("माह");choose_table_cell(0, 1);insert_text("कार्य");choose_table_cell(0, 2);insert_text("प्रारंभ तिथि");choose_table_cell(0, 3);insert_text("समाप्ति तिथि");choose_table_cell(0, 4);insert_text("प्रगति");choose_table_cell(0, 5);insert_text("टिप्पणियाँ")
+insert_line_chart([10, 12, 15, 11], [10, 12, 15, 11]);set_left("chart","table");
+insert_star();align_top_right_corner();
+move_to_slide(2);choose_title();set_font_underline();
+move_to_slide(3);choose_content();insert_text("कार्मिक व्यय: इसमें परियोजना टीम के सदस्यों से जुड़ी लागतें शामिल हैं, जैसे वेतन, वेतन, लाभ और प्रशिक्षण व्यय।");
+choose_content();set_font_style("Arial");
+insert_note("धन्यवाद!");
+
+choose_title();insert_text("कंपनी टाइमलाइन");
+insert_rectangle();rotate_element(45);
+align_bottom_right_corner();
+set_background_color("light blue");
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("1980");choose_table_cell(0, 1);insert_text("1990");choose_table_cell(0, 2);insert_text("2000");choose_table_cell(0, 3);insert_text("2010")
+choose_table();insert_table_row(["कंपनी की स्थापना", "कंपनी नई इमारत में चली गई", "कंपनी सार्वजनिक हो गई", "प्रतियोगी द्वारा कंपनी का अधिग्रहण"])
+
+insert_picture("google_logo");align_slide_bottom();
+choose_title();insert_text("निष्कर्ष");set_font_italic();
+choose_content();insert_text("हम तेजी से एक हो रहे हैं, दुनिया भर में आबादी - स्वतंत्र रूप से मिश्रण कर रहे हैं। यह संकरों की दुनिया बनाएगा - हल्के भूरे रंग की त्वचा वाले, काले बालों वाले, अफ्रीकी-यूरो-ऑस्ट्रेलियाई-अमेरिकी-एशियाई, उनकी त्वचा का रंग और चेहरे की विशेषताएं वैश्विक औसत की ओर।");
+text_align_right();
+insert_rectangle();set_height(5);
+align_slide_bottom();
+
+create_slide();choose_title();insert_text("नैतिक साहित्यिक आलोचना");set_font_bold();
+set_font_color("blue");
+choose_content();insert_text("नैतिक साहित्यिक आलोचना की पद्धति साहित्यिक आलोचना की एक नई पद्धति है जिसे सेंट्रल चाइना नॉर्मल यूनिवर्सिटी के प्रोफेसर नी झेंझाओ ने चीनी और पश्चिमी साहित्यिक आलोचना के इतिहास और वर्तमान स्थिति की तुलनात्मक जांच, बारीकी से जांच और पुनर्विचार के बाद सामने रखा है। सिद्धांत और तरीके।");
+insert_picture("book_cover");
+align_slide_left();
+insert_rectangle();align_slide_right();
+set_background_color("light yellow");
+
+create_slide();choose_title();insert_text("चार्लोट ब्रोंटे द्वारा जेन आयर");set_font_italic();
+choose_content();insert_text("प्रतीत होता है सुखद अंत में, चार्लोट कथानक के निर्माण के लिए विरासत और आग का उपयोग करती है।");set_font_bold();
+set_font_color("dark red");set_font_style("Arial");
+insert_right_arrow();set_right("right_arrow", "content");
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("श्रेणी");choose_table_cell(0, 1);insert_text("जानकारी");choose_table_cell(1, 0);insert_text("प्रकाशन वर्ष");choose_table_cell(1, 1);insert_text("1847")
+insert_picture("Charlotte_Bronte's_portrait");set_bottom("picture", "table");
+set_top("picture", "table");
+
+set_background_color("blue");
+choose_title();insert_text("डेविड कॉपरफील्ड में आईडी");set_font_italic();
+choose_content();insert_text("आईडी एक प्रकार का पशु सहज आवेग है, यह तर्कसंगतता के बिना भ्रमित है, और यह आँख बंद करके संतुष्टि का पीछा करता है और विचलन के अवसरों को जमा करता है। एक। आईडी सामाजिक नैतिक या बाहरी व्यवहार मानक की परवाह नहीं करता है। आईडी वृत्ति को संग्रहित करने का स्थान है।");
+insert_picture("book");set_top("book","content");
+set_height(5);set_width(6);
+insert_star();set_right("star","picture");
+choose_content();insert_bullet_point("");
+
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("स्थान, दुनिया भर के विभिन्न शहर");choose_table_cell(1, 0);insert_text("जातीयता, चीनी समुदाय और संस्कृति");choose_table_cell(2, 0);insert_text("विशेषताएं, चीनी वास्तुकला, व्यवसाय, व्यंजन, सांस्कृतिक उत्सव")
+choose_title();insert_text("चाइना टाउन");set_font_bold();
+insert_pie_chart([40, 30, 30], ["Chinese Restaurants", "Chinese Retail Stores", "Cultural Festivals and Events"]);
+insert_picture("China_town");
+align_slide_bottom();
+insert_star();align_slide_right();
+insert_note("चाइना टाउन");
+
+create_slide();set_background_color("green");
+choose_title();insert_text("नारीवाद");set_font_color("green");
+choose_content();insert_text("नारीवाद यह विश्वास और उद्देश्य है कि महिलाओं को पुरुषों के समान अधिकार, शक्ति और अवसर मिलने चाहिए");
+set_font_color("yellow");set_font_italic();
+
+choose_title();insert_text("नारीवाद आंदोलन की तीसरी लहर");set_font_bold();
+set_font_style("Times New Roman");set_font_color("blue");set_font_size(28);
+choose_content();insert_text("यह बहु-नस्लीय धार्मिक मान्यताओं, जातीय रीति-रिवाजों, बहुसंस्कृतिवाद, पर्यावरण संरक्षण, उपभोक्तावाद, विविधता अभिविन्यास पर केंद्रित है");
+insert_picture("female_portrait");set_top("picture","content");
+
+create_slide();choose_title();insert_text("प्राइड एंड प्रेजुडिस का फिल्म रूपांतरण");
+set_font_size(24);set_font_italic();
+choose_content();insert_text("इसके पहले प्रसारण के चौदह साल बाद, स्क्रीन लेखक एंड्रयू डेविस का 1995 में जेन ऑस्टेन के उपन्यास प्राइड एंड प्रेजुडिस का रूपांतरण एक बेंचमार्क बना हुआ है जिसके खिलाफ ऑस्टेन अनुकूलन को लोकप्रिय रूप से मापा जाता है। पीरियड ड्रामा के 'सेक्सिंग अप' के लिए प्रसिद्ध है , अनुकूलन स्पष्ट रूप से आधुनिक संवेदनाओं और समकालीन नाटकीय अपेक्षाओं को संबोधित करता है। डेविस की व्याख्यात्मक पसंद कामुकता पर जोर देती है और डार्सी की इच्छाओं पर ध्यान केंद्रित करती है। ");
+insert_bullet_point("");
+set_font_size(20);set_line_space(2);
+insert_picture("web_image");
+insert_rectangle();align_top_right_corner();
+set_background_color("light orange");
+
+insert_table(3, 2);
+choose_table();choose_table_cell(0, 0);insert_text("स्थान");choose_table_cell(1, 0);insert_text("जातीयता")
+choose_content();insert_text("एलिजाबेथ बेनेट और मिस्टर डार्सी पूरे उपन्यास में महत्वपूर्ण चरित्र विकास से गुजरते हैं, अपने और समाज के बारे में महत्वपूर्ण सबक सीखते हैं।");
+insert_picture("Elizabeth_Bennet_and_Mr. Darcy");set_bottom("picture", "table");
+align_slide_right();
+insert_rectangle();align_top_left_corner();
+create_slide();choose_title();insert_text("गौरव और पूर्वाग्रह में सामाजिक वर्ग की भूमिका");set_font_underline();
+choose_content();insert_text("सामाजिक वर्ग उपन्यास में एक महत्वपूर्ण भूमिका निभाता है, जो पात्रों के रिश्तों, निर्णयों और आत्म-धारणाओं को प्रभावित करता है।");
+insert_circle();align_bottom_right_corner();set_fill_color("orange");
+set_background_color("orange");
+
+create_slide();choose_title();insert_text("आकृतियाँ");
+insert_rectangle();set_fill_color("red");align_slide_left();
+insert_circle();set_fill_color("blue");align_slide_right();
+insert_triangle();set_fill_color("green");align_slide_left();
+insert_callout();set_fill_color("yellow");align_slide_right();
+
+insert_picture("19th-century_marriage_scene");align_slide_right();
+insert_triangle();set_right("triangle", "picture");
+choose_title();insert_text("19वीं सदी का विवाह");
+set_font_italic();set_font_bold();
+
+insert_pie_chart([30, 25, 15, 10, 10, 10], ["वेनिला", "चॉकलेट", "स्ट्रॉबेरी", "मिंट चॉकलेट चिप", "कुकीज़ और क्रीम", "बटर पेकन"]);
+insert_picture("strawberry");set_bottom("picture", "chart");
+choose_content();insert_text("उच्च परिचालन लागत और विपणन पहल में निवेश में वृद्धि के कारण पिछली तिमाही में व्यय में उल्लेखनीय वृद्धि हुई।");
+set_font_style("Times New Roman");set_font_size(18);
+
+create_slide();choose_title();insert_text("पीपीटी बनाना");insert_note("पीपीटी बनाना");
+choose_content();insert_text("आकर्षक और प्रभावशाली पावरपॉइंट प्रस्तुतियाँ बनाने के लिए सावधानीपूर्वक योजना और कार्यान्वयन की आवश्यकता होती है।");
+choose_content();set_font_underline();set_font_color("dark red");
+choose_title();set_font_bold();set_font_italic();
+insert_note("पीपीटी");
+
+create_slide();choose_title();insert_text("न्यूरल नेटवर्क्स");
+choose_content();insert_bullet_point("Neural networks are a type of machine learning algorithm that are modeled after the structure of the human brain. They consist of layers of interconnected nodes that process information and learn to recognize patterns.");
+choose_title();set_font_color("red");
+insert_picture("neural_network_architecture");
+insert_cloud();set_right("cloud","picture");
+set_background_color("yellow");
+
+create_slide();insert_cloud();set_fill_color("red");align_slide_right();
+choose_content();insert_text("स्पष्ट निष्कर्ष प्रदान करें");
+choose_title();set_font_color("orange");create_slide();choose_title();insert_text("डेटा प्रीप्रोसेसिंग");
+set_background_color("red");
+
+create_slide();choose_title();insert_text("ट्रांसफर लर्निंग");
+set_font_size(28);set_font_bold();choose_content();set_font_size(28);
+set_font_style("Times New Roman");set_font_color("red");
+set_background_color("red");
+choose_content();insert_text("सुदृढीकरण सीखना एक प्रकार की मशीन लर्निंग है जिसमें एल्गोरिदम परीक्षण और त्रुटि के माध्यम से सीखता है। इसका उपयोग अक्सर मशीनों को जटिल वातावरण में निर्णय लेने के तरीके सिखाने के लिए किया जाता है।");
+
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("मॉडल नाम");choose_table_cell(0, 1);insert_text("चैटजीपीटी");choose_table_cell(1, 0);insert_text("आर्किटेक्चर");choose_table_cell(1, 1);insert_text("जीपीटी (जेनरेटिव प्री-ट्रेंड ट्रांसफार्मर)");choose_table_cell(2, 0);insert_text("प्रशिक्षण डेटा आकार");choose_table_cell(2, 1);insert_text("विविध पाठ डेटा के कई टेराबाइट्स")
+choose_title();insert_text("GPT");set_font_bold();
+choose_content();insert_text("जेनरेटिव प्री-ट्रेंड ट्रांसफार्मर 3 (जीपीटी-3) 2020 में जारी किया गया एक ऑटोरेग्रेसिव भाषा मॉडल है जो मानव-जैसे पाठ का निर्माण करने के लिए गहन शिक्षण का उपयोग करता है।");
+set_font_underline();set_font_color("dark red");choose_title();set_font_color("dark red");
+insert_picture("gpt-3_architecture");set_right("picture","content");
+
+create_slide();choose_title();insert_text("वुथरिंग हाइट");set_font_italic();
+choose_content();insert_text("कहानी एक उदासीन पक्ष लॉकवुड द्वारा सुनाई गई है, जिसकी कथा एक हाउसकीपर एलेन डीन द्वारा पूर्वव्यापी छोटी कहानियों की एक श्रृंखला के लिए फ्रेम के रूप में कार्य करती है।");set_font_bold();
+set_font_color("red");choose_title();set_font_color("red");
+insert_right_arrow();
+set_width(6);set_height(4);
+create_slide();insert_cloud();
+insert_picture("wuthering_height_bookcover");
+choose_content();insert_text("वुथरिंग हाइट्स, एमिली ब्रोंटे का उपन्यास, 1847 में छद्म नाम एलिस बेल के तहत प्रकाशित");
+set_font_style("Times New Roman");set_font_size(18);
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("श्रेणी");choose_table_cell(0, 1);insert_text("सूचना")
+insert_note("Microsoft");
+
+create_slide();choose_title();insert_text("जेन ऑस्टेन द्वारा प्राइड एंड प्रेजुडिस");
+choose_content();insert_text("उपन्यास ब्रिटिश कुलीनों के बीच प्रेम, विवाह और सामाजिक अपेक्षाओं के विषयों की पड़ताल करता है");set_font_bold();set_font_underline();
+insert_right_arrow();set_left("right_arrow", "content");
+set_fill_color("light orange");choose_content();set_font_color("dark green");
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("श्रेणी");choose_table_cell(0, 1);insert_text("जानकारी");choose_table_cell(1, 0);insert_text("लेखिका");choose_table_cell(1, 1);insert_text("जेन ऑस्टेन")
+insert_picture("jane_austen_portrait");
+set_height(6);align_top_right_corner();
+
+create_slide();choose_title();insert_text("सिरसा की जीवन यात्रा");set_font_bold();
+set_font_size(24);
+insert_table(4, 3);choose_table_cell(0, 0);insert_text("बचपन");choose_table_cell(0, 1);insert_text("0-10 वर्ष");choose_table_cell(0, 2);insert_text("स्कूली शिक्षा");choose_table_cell(1, 0);insert_text("किशोरावस्था");choose_table_cell(1, 1);insert_text("11-18 वर्ष");choose_table_cell(1, 2);insert_text("हाई स्कूल")
+insert_picture("school");
+set_left("picture","table");
+
+create_slide();choose_title();insert_text("एक्सप्लोरिंग द यूनिवर्स");set_font_underline();
+insert_picture("galaxy");
+choose_content();insert_bullet_point("Stars");insert_bullet_point("Planets");insert_bullet_point("Nebulae");insert_bullet_point("Black Holes");insert_bullet_point("Dark Matter");
+set_font_bold();set_font_italic();
+set_font_color("dark red");
+insert_pie_chart([35, 25, 40], ["शिक्षण भवन", "स्टेडियम", "खेल का मैदान"]);
+align_slide_top();
+insert_line_chart([20, 30, 40, 10], ["First Year", "Second Year", "Third Year", "Fourth Year"]);
+insert_bar_chart([20, 30, 40, 10], ["1st year", "2nd year", "3rd year", "4th year"]);
+set_background_color("blue");
+
+create_slide();choose_title();insert_text("परिचय");
+choose_content();insert_text("इस पेपर में, हम यह पता लगाते हैं कि लंबी अवधि में एकाधिक और पूरक तरीकों का उपयोग कैसे संभावित और नुकसान, साथ ही जटिलताएं और अनिश्चितताएं दोनों लाता है।");
+set_font_color("red");
+set_font_size(20);
+set_background_color("light blue");choose_content();set_font_size(40);
+
+choose_content();insert_text("नानयांग एक राष्ट्रीय ऐतिहासिक और सांस्कृतिक शहर है, जिसमें गहन ऐतिहासिक विरासत और समृद्ध सांस्कृतिक संचय है।");
+insert_bullet_point("");
+set_font_size(18);set_font_italic();set_font_style("Arial");
+choose_title();insert_text("माई सिटी- नानजिंग");
+insert_picture("Nanjing");align_slide_right();
+create_slide();choose_title();insert_text("कैटलॉग");insert_note("कैटलॉग");
+set_font_italic();set_font_size(24);
+choose_content();insert_text("एक कैटलॉग एक व्यापक और देखने में आकर्षक संसाधन के रूप में कार्य करता है, जो उत्पादों या सेवाओं की एक विविध श्रृंखला को प्रदर्शित करता है।");
+set_font_color("green");set_background_color("dark blue");
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("उत्पाद");choose_table_cell(0, 1);insert_text("कीमत");choose_table_cell(1, 0);insert_text("शर्ट");choose_table_cell(1, 1);insert_text("$29.99");choose_table_cell(2, 0);insert_text("पोशाक");choose_table_cell(2, 1);insert_text("$59.99")
+insert_pie_chart([40, 30, 30], ["शर्ट", "ड्रेस", "पैंट"]);
+insert_line_chart([40, 30, 30], ["shirt", "dress", "pants"]);
+insert_bar_chart([40, 30, 30], ["shirt", "dress", "pants"]);
+
+choose_title();insert_text("खुशहाल जीवन का आनंद लें");
+insert_star();set_top("star","title");
+set_font_style("Arial Black");
+choose_content();insert_text("खुशहाल जीवन का आनंद लेने में छोटे क्षणों में खुशी ढूंढना, सार्थक रिश्तों का पोषण करना, जुनून का पीछा करना, स्वस्थ कार्य-जीवन संतुलन बनाए रखना और आत्म-देखभाल का अभ्यास करना शामिल है।");set_line_space(2);
+insert_picture("happy_person");align_top_right_corner();
+set_height(4);set_width(5);align_bottom_left_corner();
+
+choose_table();insert_table(5, 1);choose_table_cell(0, 0);insert_text("मैराथन संपन्न");choose_table_cell(1, 0);insert_text("पहली पुस्तक प्रकाशित");choose_table_cell(2, 0);insert_text("प्रबंधक के रूप में पदोन्नत");choose_table_cell(3, 0);insert_text("स्वयंसेवा 100+ घंटे");choose_table_cell(4, 0);insert_text("सफल व्यवसाय शुरू किया");
+choose_title();insert_text("2023 में मेरी महान उपलब्धि");
+choose_content();insert_text("2023 में, मैंने उल्लेखनीय मील के पत्थर हासिल किए जो मेरी अपेक्षाओं से अधिक थे। मैराथन पूरा करने से लेकर अपनी पहली पुस्तक प्रकाशित करने और पदोन्नति हासिल करने तक, ये सफलताएँ आगे बढ़ने के लिए मेरी ड्राइव को बढ़ावा देती हैं और मुझे यहाँ तक पहुँचने के लिए प्रेरित करती हैं अधिक ऊँचाइयाँ।");
+insert_picture("book");align_slide_top();
+insert_pie_chart([30, 25, 45], ["मैराथन", "पुस्तक", "स्वयंसेवक"]);
+insert_rectangle();set_left("rectangle","chart");
+insert_note("2023");
+
+choose_title();insert_text("नैतिक साहित्यिक आलोचना");
+set_font_bold();set_font_color("blue");align_slide_bottom();
+insert_picture("mountain_landscape");align_slide_right();
+choose_content();insert_text("नैतिक साहित्यिक आलोचना की पद्धति सेंट्रल चाइना नॉर्मल यूनिवर्सिटी के प्रोफेसर नी झेंझाओ द्वारा प्रस्तावित एक नया दृष्टिकोण है।");
+set_font_underline();set_font_style("Times New Roman");set_font_size(24);set_line_space(2);
+set_font_color("dark blue");
+insert_rectangle();align_slide_left();
+set_fill_color("green");insert_text("हरा");
+align_top_right_corner();
+insert_right_arrow();set_right("right_arrow","content");
+
+create_slide();choose_title();insert_text("टीम सदस्य");
+insert_picture("team_member");align_slide_bottom();
+set_width(6.5);
+insert_note("टीम के सदस्य");choose_title();set_font_bold();
+
+create_slide();choose_title();insert_text("बिक्री प्रदर्शन");
+set_font_color("blue");set_font_size(24);set_font_underline();set_background_color("green");
+choose_content();insert_text("बिक्री प्रदर्शन राजस्व उत्पन्न करने में कंपनी की सफलता का एक प्रमुख संकेतक है। यह बिक्री टीम की प्रभावशीलता और उत्पादों या सेवाओं के लिए समग्र बाजार मांग को दर्शाता है।");
+set_font_color("dark red");set_font_size(18);
+insert_table(3, 5);choose_table_cell(1, 1);insert_text("वर्ष");choose_table_cell(1, 2);insert_text("तिमाही");choose_table_cell(1, 3);insert_text("आय");choose_table_cell(2, 1);insert_text("2018");choose_table_cell(2, 2);insert_text("Q1");choose_table_cell(2, 3);insert_text("$500,000");
+set_font_size(18);
+
+create_slide();choose_title();insert_text("बिक्री रिपोर्ट");
+insert_line_chart(["Product A","Product B","Product C"], ["उत्पाद ए", "उत्पाद बी", "उत्पाद सी"]);
+set_chart_title("Revenue Trend");
+insert_picture("T-shirt");insert_textbox();insert_text("टी-शर्ट");
+insert_star();set_right("star","picture");
+create_slide();choose_title();insert_text("संगठनात्मक संरचना");
+insert_table(4,2);choose_table_cell(0,0);insert_text("सीईओ");choose_table_cell(0,1);insert_text("जॉन स्मिथ");choose_table_cell(1,0);insert_text("सीएफओ");choose_table_cell(1,1);insert_text("जेन डोए");choose_table_cell(2,0);insert_text("सीओओ");choose_table_cell(2,1);insert_text("टॉम जोन्स");choose_table_cell(3,0);insert_text("सीएमओ");choose_table_cell(3,1);insert_text("सारा ली");
+choose_title();set_font_underline();move_to_previous_slide();choose_title();set_font_underline();
+set_font_size(20);set_font_color("purple");
+insert_note("संगठनात्मक संरचना");
+set_background_color("green");
+
+create_slide();choose_title();insert_text("परिचय");
+choose_content();insert_text("आज हमसे जुड़ने के लिए धन्यवाद। हम इसके लिए उत्साहित हैं।");
+insert_text("क्या आप यहां हैं और मैं आपके साथ कुछ रोमांचक समाचार साझा करने के लिए उत्सुक हूं।");
+set_font_style("Times New Roman");set_font_size(20);
+insert_picture("landscape");set_height(3);set_width(5);
+insert_triangle();insert_rectangle();set_right("rectangle","triangle");
+set_background_color("purple");insert_note("2023");
+
+choose_title();insert_text("उत्पाद लॉन्च");set_font_bold();set_font_color("red");
+insert_picture("computer");
+set_height(2);set_width(2);
+choose_content();insert_text("हमारा नया उत्पाद एक अत्याधुनिक मोबाइल डिवाइस है जो नवीनतम तकनीक को एक आकर्षक और उपयोगकर्ता के अनुकूल डिज़ाइन के साथ जोड़ता है।");
+set_font_bold();set_font_color("red");
+create_slide();choose_title();insert_text("उत्पाद सुविधाएँ");
+insert_table(2, 5);choose_table_cell(0, 0);insert_text("विशेषता");choose_table_cell(0, 1);insert_text("विवरण");
+insert_bar_chart([0.25,0.50,0.25], ["उत्पाद ए", "उत्पाद बी", "उत्पाद सी"]);
+set_chart_title("Feature Importance");
+set_background_color("light blue");insert_note("सुविधा का महत्व");
+
+create_slide();choose_title();insert_text("त्रैमासिक वित्तीय परिणाम");
+set_font_style("Arial");
+choose_content();insert_text("हमारी कंपनी ने इस तिमाही में $1.5 मिलियन का राजस्व और $500,000 का लाभ हासिल किया।");
+set_font_bold();set_font_underline();
+insert_table(4, 5);
+choose_table();insert_table_row(["महीना", "राजस्व", "व्यय", "लाभ"])
+insert_bar_chart([50, 60, 55, 70], ["Q1 2022", "Q2 2022", "Q3 2022", "Q4 2022"]);
+set_chart_title("Quarterly Financial Results in 2022");
+set_background_color("red");
+create_slide();choose_title();insert_text("वित्तीय विश्लेषण");
+insert_picture("company_logo");
+choose_content();insert_text("आपके ध्यान के लिए धन्यवाद!");set_font_underline();set_font_italic();set_font_size(26);
+
+create_slide();choose_title();insert_text("बिक्री डेटा");
+insert_bar_chart([500000, 400000, 600000, 450000], ["क्षेत्र ए", "क्षेत्र बी", "क्षेत्र सी", "क्षेत्र डी"]);
+set_chart_title("Regional Sales");
+choose_title();set_font_underline();insert_note("डेटा स्रोत: बिक्री रिपोर्ट 2023");
+
+create_slide();choose_title();insert_text("ग्राहक सर्वेक्षण");
+insert_pie_chart([0.4, 0.3, 0.2, 0.05, 0.05], ["बहुत संतुष्ट", "संतुष्ट", "तटस्थ", "असंतुष्ट", "बहुत असंतुष्ट"]);
+align_slide_bottom();
+insert_picture("questionnaire");align_slide_top();
+insert_note("2023/5");
+
+choose_title();insert_text("भाषाविज्ञान का आकर्षण");set_background_color("light blue");
+choose_title();set_font_style("Arial");set_font_color("red");set_font_size(36);
+insert_text("भाषाविज्ञान भाषा और उसकी संरचना का वैज्ञानिक अध्ययन है। यह ध्वन्यात्मकता और वाक्यविन्यास से लेकर शब्दार्थ और व्यावहारिकता तक मानव संचार की जटिलताओं का पता लगाता है।");
+set_font_style("Verdana");set_font_color("yellow");set_font_size(18);set_line_space(2);
+create_slide();choose_title();insert_text("भाषाविज्ञान की शाखाएँ");
+insert_table(3, 4);
+choose_table();insert_table_row(["भाषाविज्ञान की शाखाएँ", "विवरण", "उदाहरण"]);insert_table_row(["ध्वनिविज्ञान", "वाक् ध्वनियों का अध्ययन", "अभिव्यंजक ध्वन्यात्मकता, ध्वनिक ध्वन्यात्मकता, श्रवण ध्वन्यात्मकता"])
+insert_picture("book_about_linguistics");align_slide_bottom();
+set_height(6);set_width(5);
+move_to_slide(0);set_background_color("purple");move_to_slide(1);set_background_color("purple");
+
+set_background_color("light green");choose_title();insert_text("भाषा परिवार");
+set_font_bold();set_font_italic();
+insert_bar_chart([445, 1526,1290, 452], ["इंडो-यूरोपीय", "नाइजर-कांगो", "ऑस्ट्रोनेशियन", "चीन-तिब्बती"]);
+set_chart_title("Language familiy and its number of languages");
+create_slide();choose_title();insert_text("भाषा अधिग्रहण");set_font_bold();set_font_italic();
+choose_content();insert_text(" ");
+set_font_style("Times New Roman");set_font_color("red");set_font_size(22);
+set_font_underline();set_font_bold();choose_title();set_font_color("red");
+insert_picture("English book");
+insert_rectangle();align_slide_right();
+choose_picture();align_slide_top();
+
+create_slide();choose_title();insert_text("निष्कर्ष");
+choose_title();set_font_style("bold");set_font_style("underline");set_font_color("red");
+choose_content();insert_text(" ");
+set_font_style("Verdana");set_font_color("yellow");
+create_slide();set_background_color("purple");create_slide();set_background_color("purple");create_slide();set_background_color("purple");create_slide();set_background_color("purple");
+move_to_slide(1);choose_title();insert_text("चीन में रियल एस्टेट नीतियों का अवलोकन");insert_picture("China_map");
+move_to_slide(2);choose_title();insert_text("हाल के परिवर्तन");set_font_style("italic");set_font_style("Verdana");
+choose_content();insert_text("चीन में हाल के परिवर्तनों ने तेजी से आर्थिक विकास, तकनीकी प्रगति और सामाजिक परिवर्तन देखे हैं, जिससे देश एक वैश्विक शक्ति के रूप में स्थापित हुआ है और विभिन्न क्षेत्रों में वैश्विक गतिशीलता प्रभावित हुई है।");
+move_to_slide(3);choose_title();insert_text("आवास की कीमतों को नियंत्रित करने के प्रयास,");insert_triangle();
+align_top_right_corner();
+move_to_slide(4);choose_title();insert_text("किफायती आवास बढ़ाने की पहल,");set_font_color("red");
+choose_content();insert_text("किफायती आवास को बढ़ाने की पहल लागू की गई है, जिसमें सरकारी सब्सिडी, सुव्यवस्थित अनुमोदन प्रक्रिया और सार्वजनिक-निजी भागीदारी शामिल है, जिसका उद्देश्य आवास सामर्थ्य संकट को संबोधित करना और सभी के लिए सभ्य आवास तक पहुंच सुनिश्चित करना है।");set_font_underline();set_font_italic();
+choose_chart();insert_pie_chart([0.35, 0.25, 0.20, 0.10, 0.10], ["सरकारी सब्सिडी", "सुव्यवस्थित अनुमोदन प्रक्रियाएं", "सार्वजनिक-निजी भागीदारी", "भूमि उपयोग नीतियां", "किराया सहायता कार्यक्रम"]);
+create_slide();choose_title();insert_text("संपत्ति डेवलपर्स का विनियमन।");insert_note("संपत्ति डेवलपर्स का विनियमन।");
+choose_content();insert_text("इस स्लाइड में, संपत्ति डेवलपर्स को विनियमित करने के लिए चीन के प्रमुख उपायों और धोखाधड़ी को रोकने और सतत विकास प्रथाओं को बढ़ावा देने के लिए सरकार के कार्यों का संक्षिप्त विवरण दें।");
+choose_title();set_font_italic();choose_content();set_font_bold();
+move_to_slide(0);insert_note("चीन के बारे में जानकारी");move_to_slide(1);insert_note("चीन के बारे में जानकारी");move_to_slide(2);insert_note("चीन के बारे में जानकारी");move_to_slide(3);insert_note("चीन के बारे में जानकारी");move_to_slide(4);insert_note("चीन के बारे में जानकारी");move_to_slide(5);insert_note("चीन के बारे में जानकारी");
+
+move_to_slide(8);choose_title();insert_text("मेडिकल इमेजिंग उपकरण का सीमांत विकास");choose_title();set_font_size(24);
+insert_line_chart([0.15, 0.12, 0.18, 0.20], ['Q1', 'Q2', 'Q3', 'Q4']);
+choose_chart();set_chart_title("Revenue Growth");
+insert_table(5, 2);choose_table_cell(0, 0);insert_text("फ़ीचर 1");choose_table_cell(0, 1);insert_text("उच्च-रिज़ॉल्यूशन इमेजिंग");
+set_background_color("light blue");
+insert_triangle();
+choose_content();insert_text("मेडिकल इमेजिंग उपकरण का अग्रणी विकास उच्च-रिज़ॉल्यूशन इमेजिंग, उन्नत एआई एल्गोरिदम, वास्तविक समय डेटा विश्लेषण, उन्नत रोगी आराम, बहु-मोडैलिटी एकीकरण और सुव्यवस्थित वर्कफ़्लो के साथ स्वास्थ्य देखभाल में क्रांति ला रहा है, जो अभूतपूर्व नैदानिक ​​क्षमताओं के साथ चिकित्सा पेशेवरों को सशक्त बना रहा है।");
+set_font_bold();set_line_space(2);set_font_underline();set_font_italic();
+insert_note("मीडियाकल इक्विपमेंट");
+
+set_background_color("blue");insert_rectangle();
+create_slide();choose_title();insert_text("मानवविज्ञान में तरीके और दृष्टिकोण");set_font_size(20);
+choose_content();insert_text("मानवविज्ञान एक सामाजिक विज्ञान है जो विभिन्न शोध विधियों का उपयोग करके मानव व्यवहार, संस्कृति और समाज का अध्ययन करता है।");set_line_space(2);
+insert_circle();align_slide_right();
+set_width(4);
+
+create_slide();choose_title();insert_text("उचित जलयोजन का महत्व");
+set_font_style("underline");set_font_style("italic");
+set_font_size(24);set_font_style("Arial");
+insert_picture("person_drinking_water");align_slide_right();
+set_width(6.5);insert_textbox();insert_text("पानी प");set_bottom("textbox", "picture");
+set_background_color("purple");create_slide();set_background_color("purple");
+insert_picture("folder");set_width(6.5);set_height(5.5);
+choose_title();insert_text("स्मार्टआर्ट के उपयोग के लाभ");set_font_color("red");set_font_size(40);
+set_font_style("Arial");set_font_style("italic");
+
+choose_title();insert_text("अपने ब्रांड का निर्माण");set_background_color("light green");
+choose_content();insert_text("ब्रांड बनाना किसी भी सफल व्यवसाय का एक महत्वपूर्ण घटक है। फ़ॉन्ट शैली को ");set_font_style("Arial");set_font_size(14);
+insert_rectangle();align_slide_right();
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("ब्रांड पहचान");choose_table_cell(0, 1);insert_text("ब्रांड मैसेजिंग");choose_table_cell(0, 2);insert_text("ब्रांड वॉयस");choose_table_cell(0, 3);insert_text("ब्रांड रणनीति")
+choose_table();insert_table(3, 4);insert_table_row(["Brand Identity", "Brand Messaging", "Brand Voice", "Brand Strategy"])
+choose_content();set_font_size(14);set_font_style("Times New Roman");
+
+create_slide();choose_title();insert_text("प्रभावी संचार के बुनियादी सिद्धांत");set_font_style("Times New Roman");
+choose_content();insert_text("मुख्य बिंदु");insert_text("विवरण");
+set_font_size(24);set_font_underline();set_font_bold();
+set_background_color("light orange");
+
+set_background_color("light blue");
+choose_title();insert_text("टेनसेंट मीटिंग");choose_content();insert_text("टेनसेंट मीटिंग");
+set_font_underline();set_font_color("dark red");
+choose_content();delete_text();insert_text("Tencent मीटिंग एक शक्तिशाली वीडियो कॉन्फ्रेंसिंग प्लेटफ़ॉर्म है जो टीमों और व्यक्तियों के बीच निर्बाध सहयोग और संचार को सक्षम बनाता है। यह स्क्रीन शेयरिंग, चैट और रिकॉर्डिंग सहित प्रभावी आभासी बैठकों के लिए कई सुविधाएँ प्रदान करता है।");
+set_font_bold();set_font_italic();choose_title();set_font_bold();set_font_italic();
+insert_picture("tencent_meeting");
+
+insert_table(2, 3);
+choose_table_cell(0, 0);insert_text("विशेषताएं");choose_table_cell(0, 1);insert_text("विवरण");choose_table_cell(0, 2);insert_text("लाभ")
+insert_note("एपीपी");set_background_color("purple");
+
+set_background_color("blue");choose_title();insert_text("गुणवत्ता मूल्यांकन");
+choose_content();insert_text("गुणवत्ता मूल्यांकन उत्पादों या सेवाओं के प्रदर्शन और मानकों के मूल्यांकन में एक महत्वपूर्ण प्रक्रिया है। इसमें गुणवत्ता मानकों का पालन और निरंतर सुधार सुनिश्चित करने के लिए गहन विश्लेषण, माप और तुलना शामिल है।");
+insert_picture("checklist");
+set_left("picture","content");
+insert_pie_chart([0.40, 0.15, 0.25, 0.20], ["उत्कृष्ट", "अच्छा", "उचित", "खराब"]);
+set_chart_title("Quality Ratings Distribution");
+align_slide_bottom();
+create_slide();insert_pie_chart([0.40, 0.15, 0.25, 0.20], ["Excellent", "Good", "Fair", "Poor"]);set_chart_title("Quality Ratings Distribution");align_slide_bottom();
+
+create_slide();choose_title();insert_text("किसी प्रोजेक्ट को पूरा करने के लिए मार्गदर्शिका");
+insert_right_arrow();align_top_right_corner();
+rotate_element(90);
+move_to_slide(0);choose_title();insert_text("परिचय");set_font_bold();move_to_slide(1);choose_title();set_font_bold();
+move_to_slide(0);insert_note("2022/6/10");
+set_background_color("light blue");insert_cloud();
+
+set_background_color("yellow");
+choose_content();insert_text("ट्रेडोस स्टूडियो एसडीएल द्वारा विकसित एक शक्तिशाली कंप्यूटर-सहायता अनुवाद (सीएटी) उपकरण है। यह कई प्रकार की सुविधाएं और कार्यात्मकता प्रदान करता है जो अनुवाद प्रक्रिया को सुव्यवस्थित करता है, जिसमें अनुवाद मेमोरी, शब्दावली प्रबंधन शामिल है , और परियोजना प्रबंधन उपकरण।");set_line_space(2);
+insert_note("ईवा द्वारा निर्मित");choose_title();insert_text("ट्रेडोस स्टूडियो");
+set_font_color("dark green");set_font_size(30);
+insert_picture("Trados_Studio_logo");align_slide_right();
+set_width(4);set_height(3);
+choose_picture();rotate_element(-15);
+set_background_color("purple");
+
+insert_table(2, 3);
+choose_table();choose_table_cell(0, 0);insert_text("वर्ष");choose_table_cell(0, 1);insert_text("विवरण");choose_table_cell(0, 2);insert_text("परिवर्तन")
+choose_title();insert_text("पिछले दशक में महान परिवर्तन");
+set_font_bold();set_font_italic();
+set_background_color("light blue");
+
+choose_title();insert_text("क्या आपको विदेश में अध्ययन करने पर विचार करना चाहिए?");set_font_bold();set_font_underline();
+insert_picture("students_studying_abroad");align_slide_bottom();
+set_width(5);set_height(3);
+set_background_color("purple");insert_note("क्या आपको विदेश में अध्ययन करने पर विचार करना चाहिए?");
+
+insert_bar_chart([0.45,0.35,0.20], ["पूर्णकालिक अनुवादक", "फ्रीलांसर", "अनुवाद एजेंसियां"]);
+set_chart_title("Trados Studio Usage Statistics");
+create_slide();choose_title();insert_text("ABBYY FineReader");
+set_font_bold();set_font_underline();set_font_size(30);
+choose_content();insert_text("एबीबीवाई फाइनरीडर एक ऑप्टिकल कैरेक्टर रिकग्निशन (ओसीआर) सॉफ्टवेयर है जो उपयोगकर्ताओं को स्कैन किए गए दस्तावेज़ों, पीडीएफ फाइलों और छवियों को संपादन योग्य और खोजने योग्य प्रारूपों में परिवर्तित करने की अनुमति देता है। उन्नत पाठ पहचान और दस्तावेज़ रूपांतरण क्षमताओं के साथ, यह दस्तावेज़ प्रसंस्करण को सरल बनाता है और उत्पादकता बढ़ाता है।");
+set_line_space(2);set_font_italic();
+insert_picture("ABBYY_FineReader_logo");insert_textbox();insert_text("एबीबीवाई फाइनरीडर");
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("सुविधा");choose_table_cell(0, 1);insert_text("विवरण");choose_table_cell(0, 2);insert_text("लाभ")
+choose_picture();set_right("picture","table");
+insert_pie_chart([0.45,0.45,0.05], ["High Accuracy", "Medium Accuracy", "Low Accuracy"]);
+set_chart_title("Document Conversion Accuracy");
+insert_note("पेज 2");
+
+create_slide();choose_title();insert_text("विपणन अभियान");
+set_font_bold();set_font_underline();set_font_size(26);
+choose_content();insert_text("हमारे मार्केटिंग अभियान का उद्देश्य ब्रांड जागरूकता बढ़ाना, हमारे लक्षित दर्शकों के साथ जुड़ना और बिक्री बढ़ाना है। ऑनलाइन और ऑफलाइन मार्केटिंग चैनलों के रणनीतिक मिश्रण के साथ, हम प्रभावशाली संदेश और मापने योग्य परिणाम देने पर केंद्रित हैं ।");
+align_slide_left();
+insert_picture("promotional_banner");insert_textbox();insert_text("प्रचार_बैनर");
+set_width(5);set_height(5);
+set_background_color("green");
+
+choose_title();insert_text("सस्टेनेबल एनर्जी");set_font_color("red");
+insert_picture("wind_turbine");set_width(6);
+insert_table(4, 3);choose_table_cell(0,0);insert_text("हवा");choose_table_cell(1,0);insert_text("सौर");choose_table_cell(2,0);insert_text("हाइड्रो");choose_table_cell(3,0);insert_text("भूतापीय");choose_table_cell(0,1);insert_text("कम लागत");choose_table_cell(1,1);insert_text("कम पर्यावरणीय प्रभाव");choose_table_cell(2,1);insert_text("उच्च उपलब्धता");choose_table_cell(0,2);insert_text("उच्च प्रारंभिक निवेश");choose_table_cell(1,2);insert_text("रुक-रुक कर उपलब्धता");choose_table_cell(2,2);insert_text("भूमि उपयोग विवाद");
+set_top("picture", "table");
+create_slide();choose_title();insert_text("ऑनलाइन शॉपिंग");set_font_color("red");
+choose_content();insert_text("ऑनलाइन शॉपिंग इंटरनेट पर व्यापारियों से सामान और सेवाएं खरीदने की प्रक्रिया है। यह अपनी सुविधा और पहुंच के कारण तेजी से लोकप्रिय हो गई है।");
+choose_title();set_font_color("blue");set_font_bold();set_line_space(2);
+create_slide();insert_picture("TV_series");set_width(6);
+set_background_color("blue");insert_note("टीवी सीरीज़ के बारे में");
+
+choose_title();insert_text("स्वस्थ भोजन की आदतें");set_background_color("dark blue");
+choose_content();insert_text("वीडियो शुरू करने के लिए प्ले दबाएँ");set_font_style("Verdana");
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("खाद्य समूह");choose_table_cell(0, 1);insert_text("अनुशंसित सर्विंग्स")
+align_slide_bottom();
+insert_picture("laptop");
+insert_rectangle();set_height(2);
+rotate_element(-45);
+
+choose_content();insert_text("निष्कर्षतः, टीवी सेवाओं ने हमारे मनोरंजन उपभोग के तरीके में क्रांति ला दी है, सामग्री विकल्प और सुविधा की एक विस्तृत श्रृंखला प्रदान की है।");
+set_font_style("Futura");
+choose_title();insert_text("निष्कर्ष");set_font_bold();
+insert_picture("colorful_plate");
+align_slide_bottom();
+set_background_color("green");
+
+create_slide();set_background_color("purple");
+choose_title();insert_text("नुकसान");
+set_font_bold();set_font_size(24);set_font_style("Arial");
+insert_note("2023/3/9");
+insert_pie_chart([0.30, 0.25, 0.15, 0.5, 0.25], ["फल", "सब्जियां", "अनाज", "प्रोटीन", "डेयरी"]);
+align_slide_bottom();
+insert_textbox();insert_text("ज्यादा खाना खाने का नुकसान यह है कि यह आपको मोटा बना देगा।");set_bottom("textbox", "chart");
+choose_chart();set_chart_title("Daily Food Group Servings");
+
+insert_right_arrow();set_width(3.5);
+rotate_element(-90);
+align_slide_right();
+
+choose_title();insert_text("प्रौद्योगिकी रुझान");set_font_underline();
+set_font_color("green");set_font_size(26);
+choose_content();insert_text("आज के तेजी से विकसित हो रहे डिजिटल परिदृश्य में नवीनतम प्रौद्योगिकी रुझानों को बनाए रखना आवश्यक है। कृत्रिम बुद्धिमत्ता और ब्लॉकचेन से लेकर क्लाउड कंप्यूटिंग और इंटरनेट ऑफ थिंग्स तक, ये रुझान उद्योगों को आकार दे रहे हैं और हमारे तरीके में क्रांति ला रहे हैं।");
+set_background_color("green");
+insert_picture("interconnected_networks");
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("प्रौद्योगिकी रुझान");choose_table_cell(0, 1);insert_text("विवरण");choose_table_cell(0, 2);insert_text("प्रभाव")
+insert_line_chart([15,10,7,6,24], ["मोबाइल डिवाइस", "इंटरनेट उपयोगकर्ता", "एआई एप्लिकेशन", "क्लाउड सर्विसेज", "स्मार्ट होम डिवाइसेस"]);
+set_chart_title("Technology Values");
+insert_pie_chart([15,10,7,6,24], ["Mobile Devices", "Internet Users", "AI Applications", "Cloud Services", "Smart Home Devices"]);set_chart_title("Technology Values");
+
+set_background_color("green");
+choose_title();insert_text("सस्टेनेबल लिविंग");set_font_italic();
+insert_picture("solar_panel");align_slide_left();
+choose_content();insert_text("स्थायी जीवन पर्यावरण की रक्षा के लिए जिम्मेदार उपभोग, नवीकरणीय ऊर्जा और पर्यावरण-अनुकूल प्रथाओं को बढ़ावा देता है और आने वाली पीढ़ियों के लिए बेहतर भविष्य सुनिश्चित करता है। अपने दैनिक जीवन में जागरूक विकल्प बनाकर, हम कम कर सकते हैं हमारा कार्बन पदचिह्न और एक अधिक टिकाऊ दुनिया का निर्माण करेगा।");
+set_font_color("dark orange");
+insert_line_chart([1.6, 2.4, 4.8, 11], ["2013", "2014", "2015", "2016"]);
+set_chart_title("Renewable Energy Consumption Trend");
+set_bottom("chart","title");
+insert_cloud();rotate_element(-30);
+
+insert_table(3, 4);
+choose_table_cell(0,0);insert_text("संतुलित आहार,");choose_table_cell(1,0);insert_text("भाग नियंत्रण,");choose_table_cell(2,0);insert_text("हाइड्रेशन।");
+insert_picture("green_city");
+align_slide_top();
+choose_table();align_slide_bottom();
+
+choose_title();insert_text("प्रोजेक्ट प्रबंधन");
+insert_picture("team");
+choose_title();set_font_underline();set_font_italic();
+choose_picture();align_top_left_corner();
+
+create_slide();choose_title();insert_text("परियोजना प्रगति रिपोर्ट।");
+insert_table(5, 3);choose_table_cell(0, 0);insert_text("कार्य के नाम");choose_table_cell(0, 1);insert_text("समय सीमा");choose_table_cell(0, 2);insert_text("प्रगति की स्थिति")
+set_background_color("purple");choose_title();set_font_color("green");
+
+choose_title();insert_text("विश्वविद्यालय और व्यावसायिक स्कूल");
+set_font_size(36);set_font_underline();
+choose_content();insert_text("विश्वविद्यालय और पेशेवर स्कूल छात्रों को सफल करियर के लिए आवश्यक ज्ञान और कौशल से लैस करने के लिए उच्च शिक्षा और विशेष प्रशिक्षण प्रदान करते हैं। ये संस्थान शैक्षणिक कार्यक्रमों, अनुसंधान अवसरों और पेशेवर विकास की एक विस्तृत श्रृंखला प्रदान करते हैं। व्यक्तिगत विकास और करियर में उन्नति को बढ़ावा देना।");
+set_line_space(2);
+set_background_color("purple");
+
+insert_picture("professional_school");
+align_slide_right();
+insert_triangle();align_slide_left();
+set_width(10);set_height(15);
+set_bottom("picture","triangle");
+
+create_slide();set_background_color("blue");
+choose_title();insert_text("एनएफसी");set_font_bold();
+choose_content();insert_text("एनएफसी (नियर फील्ड कम्युनिकेशन) निकटवर्ती उपकरणों के बीच निर्बाध वायरलेस संचार को सक्षम बनाता है।");
+set_font_color("dark green");set_font_size(20);
+insert_picture("nfc_logo");
+set_background_color("purple");
+choose_picture();set_right("picture","slide");
+
+insert_table(2, 4);choose_table();choose_table_cell(0, 0);insert_text("उत्पाद");choose_table_cell(0, 1);insert_text("राजस्व");choose_table_cell(0, 2);insert_text("बेची गई इकाइयाँ");choose_table_cell(0, 3);insert_text("लाभ मार्जिन")
+set_background_color("light blue");
+
+insert_line_chart([500000, 1300000, 2500000, 4000000], series=["2018", "2019", "2020", "2021"]);
+set_chart_title("NFC Device Growth");
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("संपर्क रहित");choose_table_cell(0, 1);insert_text("स्पर्श-आधारित लेनदेन सक्षम");choose_table_cell(1, 0);insert_text("सुविधाजनक");choose_table_cell(1, 1);insert_text("तेज़ भुगतान सक्षम")
+insert_star();set_width(6.5);set_height(6.5);
+align_slide_top();
+align_slide_right();
+
+choose_title();insert_text("विघटन को गले लगाना");set_font_bold();
+set_font_size(20);set_font_style("Times New Roman");
+insert_picture("futuristic_cityscape");
+align_slide_bottom();
+insert_note("[आपका नाम] द्वारा बनाया गया।");set_background_color("purple");
+set_background_color("light blue");
+
+choose_title();insert_text("पावर बैंक");align_top_left_corner();
+set_font_size(24);set_font_italic();
+choose_content();insert_text("पावर बैंक एक पोर्टेबल डिवाइस है जो स्मार्टफोन, टैबलेट और अन्य इलेक्ट्रॉनिक उपकरणों के लिए ऑन-द-गो चार्जिंग प्रदान करता है।");
+set_font_underline();set_line_space(2);set_font_size(24);set_font_color("orange");
+insert_picture("yoobao_power_bank");align_slide_bottom();
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("ब्रांड");choose_table_cell(0, 1);insert_text("क्षमता (एमएएच)");choose_table_cell(0, 2);insert_text("आउटपुट पोर्ट");choose_table_cell(0, 3);insert_text("मूल्य ($)")
+insert_pie_chart([0.40, 0.30, 0.20, 0.10], ["Brand A", "Brand B", "Brand C", "Others"]);
+set_chart_title("Power Bank Market Share");
+insert_note("2023");
+insert_callout();align_slide_right();
+
+choose_title();insert_text("एनबीए");set_font_color("red");
+choose_content();insert_text("नेशनल बास्केटबॉल एसोसिएशन (एनबीए) एक पेशेवर बास्केटबॉल लीग है जिसमें उत्तरी अमेरिका की 30 टीमें शामिल हैं।");
+set_font_size(20);
+align_bottom_left_corner();
+
+insert_picture("basketball_court");
+align_slide_top();
+insert_textbox();insert_text("बास्केटबॉल प्रांगण");set_background_color("blue");
+insert_table(4,3);
+choose_table();choose_table_cell(0, 0);insert_text("टीम");choose_table_cell(0, 1);insert_text("शहर");choose_table_cell(0, 2);insert_text("चैंपियनशिप");choose_table_cell(1, 0);insert_text("लॉस एंजिल्स");choose_table_cell(1, 1);insert_text("लेकर्स");choose_table_cell(1, 2);insert_text("17");choose_table_cell(2, 0);insert_text("बोस्टन");choose_table_cell(2, 1);insert_text("सेल्टिक्स");choose_table_cell(2, 2);insert_text("17");choose_table_cell(3, 0);insert_text("शिकागो");choose_table_cell(3, 1);insert_text("बुल्स");choose_table_cell(3, 2);insert_text("6")
+insert_bar_chart([17, 17, 6], ["Lakers", "Celtics", "Bulls"]);
+set_chart_title("NBA Championships Distribution");
+create_slide();choose_title();insert_text("स्वायत्त ड्राइविंग का परिचय");set_font_underline();
+insert_picture("futuristic_self-driving_car");set_height(7);
+choose_content();insert_text("स्वायत्त ड्राइविंग, जिसे स्व-ड्राइविंग या ड्राइवर रहित तकनीक के रूप में भी जाना जाता है, मानव इनपुट के बिना नेविगेट करने और संचालित करने में सक्षम वाहनों को संदर्भित करता है।");
+align_bottom_left_corner();
+insert_right_arrow();set_left("right_arrow", "content");
+set_right("right_arrow", "content");
+
+choose_content();insert_text("स्वायत्त ड्राइविंग बेहतर सुरक्षा, सुविधा और दक्षता प्रदान करके परिवहन उद्योग में क्रांति ला रही है।");
+set_font_size(18);set_font_bold();set_font_italic();
+set_font_underline();set_line_space(2);
+insert_table(2, 5);choose_table_cell(0, 0);insert_text("सेंसर प्रकार");choose_table_cell(0, 1);insert_text("लिडार");choose_table_cell(0, 2);insert_text("रडार");choose_table_cell(0, 3);insert_text("कैमरा");choose_table_cell(0, 4);insert_text("कुल")
+choose_content();set_font_style("Times New Roman");
+insert_pie_chart([0.40, 0.30, 0.30], ["Lidar", "Radar", "Cameras"]);
+set_chart_title("Sensor Types in Autonomous Driving");
+insert_note("स्वायत्त ड्राइविंग में सेंसर प्रकार");
+
+choose_title();insert_text("स्वायत्त ड्राइविंग");
+insert_picture("company_logo");align_bottom_left_corner();
+set_width(6.5);set_height(6);
+create_slide();choose_title();insert_text("क्षेत्र के अनुसार स्वायत्त ड्राइविंग अपनाना।");
+set_font_style("Calibri");set_font_size(32);
+choose_content();insert_text("स्वायत्त ड्राइविंग प्रौद्योगिकियाँ परिवहन परिदृश्य को बदल रही हैं, उद्योगों में क्रांति ला रही हैं, और सुरक्षा और दक्षता बढ़ा रही हैं।");
+set_font_color("dark orange");
+
+create_slide();choose_title();insert_text("रोपण की शक्ति।");set_font_style("Calibri");set_font_size(36);
+set_background_color("green");
+choose_content();insert_text("पौधे लगाना न केवल हमारे परिवेश को सुंदर बनाता है बल्कि पर्यावरणीय स्थिरता को भी बढ़ावा देता है और कई स्वास्थ्य लाभ प्रदान करता है।");
+set_font_color("green");choose_title();set_font_color("green");
+insert_picture("lush_garden");
+insert_pie_chart([0.40, 0.30, 0.30], ["पर्यावरण", "स्वास्थ्य", "समुदाय"]);
+set_chart_title("Planting Benefits");
+set_bottom("chart", "picture");
+insert_right_arrow();rotate_element(60);
+set_height(2);set_width(4);insert_note("पेज 2");
+
+insert_table(3, 4);
+choose_table();choose_table_cell(0, 0);insert_text("रोपण लाभ");choose_table_cell(0, 1);insert_text("पर्यावरण");choose_table_cell(0, 2);insert_text("स्वास्थ्य");choose_table_cell(0, 3);insert_text("समुदाय")
+set_background_color("green");
+choose_title();insert_text("अन्य जानकारी");
+set_font_color("dark orange");set_font_underline();
+choose_title();align_top_left_corner();
+
+insert_picture("GoogleLogo");insert_textbox();insert_text("गूगल");
+choose_content();insert_text("Google और Microsoft Edge दो लोकप्रिय वेब ब्राउज़र हैं जो अद्वितीय सुविधाएँ और कार्यक्षमताएँ प्रदान करते हैं। जबकि Google Chrome अपनी गति और व्यापक पारिस्थितिकी तंत्र के साथ बाज़ार पर हावी है, Microsoft Edge का लक्ष्य एक सहज ब्राउज़िंग अनुभव और चुस्त प्रदान करना है। विंडोज़ ऑपरेटिंग सिस्टम के साथ एकीकरण।");
+set_font_size(16);
+choose_title();insert_text("Google बनाम Microsoft Edge");set_font_color("red");
+choose_picture();align_bottom_left_corner();
+insert_table(3, 3);choose_table_cell(0, 0);insert_text("फीचर्स");choose_table_cell(0, 1);insert_text("गूगल क्रोम");choose_table_cell(0, 2);insert_text("माइक्रोसॉफ्ट एज");choose_table_cell(1, 0);insert_text("स्पीड");choose_table_cell(1, 1);insert_text("हाई");choose_table_cell(1, 2);insert_text("मॉडरेट");choose_table_cell(2, 0);insert_text("इकोसिस्टम");choose_table_cell(2, 1);insert_text("एक्सटेंसिव");choose_table_cell(2, 2);insert_text("इंटीग्रेटेड")
+insert_bar_chart([0.50, 0.25, 0.25], ["Google Chrome", "Microsoft Edge", "Others"]);
+set_chart_title("Web Browser Market Share");insert_note("पृष्ठ 1");
+
+set_background_color("blue");choose_title();insert_text("नेटवर्किंग और लिंक्डइन");
+choose_content();insert_text("नेटवर्किंग कैरियर के विकास में एक महत्वपूर्ण भूमिका निभाती है, और लिंक्डइन पेशेवर नेटवर्किंग के लिए एक शक्तिशाली मंच है। दुनिया भर में लाखों उपयोगकर्ताओं के साथ, लिंक्डइन पेशेवरों से जुड़ने, कौशल दिखाने के लिए कई सुविधाएँ प्रदान करता है। नौकरी के अवसर खोजें।");
+choose_title();set_font_color("dark red");choose_content();set_font_color("light red");
+choose_title();set_font_style("Arial");choose_content();set_font_style("Arial");
+choose_title();set_font_underline();choose_content();set_font_italic();set_font_size(24);
+insert_pie_chart([0.30,0.20,0.15,0.10,0.25], ["प्रौद्योगिकी", "वित्त", "हेल्थकेयर", "मार्केटिंग", "अन्य"]);
+set_chart_title("LinkedIn User Distribution");
+insert_line_chart([0.30,0.20,0.15,0.10,0.25],["Technology", "Finance", "Healthcare", "Marketing", "Others"]);
+insert_bar_chart([0.30,0.20,0.15,0.10,0.25],["Technology", "Finance", "Healthcare", "Marketing", "Others"]);
+
+create_slide();choose_title();insert_text("विभिन्न कुकर");
+choose_content();insert_text("विभिन्न प्रकार के कुकर उपलब्ध हैं जो खाना पकाने की विभिन्न आवश्यकताओं को पूरा करते हैं। पारंपरिक स्टोवटॉप से ​​लेकर उन्नत इलेक्ट्रिक कुकर और आधुनिक इंडक्शन कुकटॉप तक, प्रत्येक प्रकार अद्वितीय विशेषताएं और लाभ प्रदान करता है।");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("कुकर का प्रकार");choose_table_cell(0, 1);insert_text("विशेषताएं");choose_table_cell(0, 2);insert_text("लाभ");choose_table_cell(1, 0);insert_text("स्टोवटॉप");choose_table_cell(1, 1);insert_text("गैस या इलेक्ट्रिक बर्नर");choose_table_cell(1, 2);insert_text("सटीक ताप नियंत्रण")
+insert_pie_chart([0.40, 0.25, 0.20, 0.10, 0.5], ["Stovetop", "Electric Cooker", "Induction Cooktop", "Slow Cooker", "Air Fryer"]);
+set_chart_title("Cooker Type Popularity");
+insert_picture("stovetop");
+set_width(7);set_height(6);
+align_slide_right();
+align_slide_left();
+move_to_slide(0);set_background_color("green");
+
+choose_title();insert_text("डिस्कवर द डिलाइट ऑफ ओरियो");
+set_font_bold();set_font_italic();
+set_font_size(30);
+choose_content();insert_text("ओरियो, प्रतिष्ठित सैंडविच कुकी, सभी उम्र के लोगों के लिए एक पसंदीदा व्यंजन रहा है। चॉकलेट वेफर्स और क्रीमी फिलिंग के अपने अनूठे संयोजन के साथ, ओरियो एक आनंददायक स्नैकिंग अनुभव प्रदान करता है जो हर किसी को खुशी देता है काटना।");
+set_font_color("dark blue");
+insert_picture("Oreo");
+align_top_right_corner();
+insert_star();align_top_left_corner();
+insert_pie_chart([0.40,0.10,0.50], ["मूल", "मिंट", "पीनट बटर"]);insert_line_chart([0.40,0.10,0.50],["Original","Mint","Peanut Butter"]);
+insert_bar_chart([0.40,0.10,0.50],["Original","Mint","Peanut Butter"]);set_chart_title("Oreo Flavor Popularity");
+
+set_background_color("purple");
+choose_title();insert_text("मौसमी बदलाव");set_font_bold();set_font_italic();
+choose_content();insert_text("मौसमी विविधताएं हमारे जीवन में एक अलग आकर्षण लाती हैं। वसंत के जीवंत रंगों से लेकर गर्मियों के गर्म रंगों, शरद ऋतु के आरामदायक माहौल और सर्दियों के शांत परिदृश्य तक, प्रत्येक मौसम एक प्रदान करता है अद्वितीय अनुभव। पूरे वर्ष प्रकृति के परिवर्तन की सुंदरता को अपनाएं।");
+set_font_style("Arial");set_font_size(18);
+insert_table(4, 4);choose_table_cell(0, 0);insert_text("मौसम");choose_table_cell(0, 1);insert_text("औसत तापमान");choose_table_cell(0, 2);insert_text("मुख्य विशेषताएं");choose_table_cell(0, 3);insert_text("गतिविधियाँ")
+insert_callout();align_slide_left();
+
+choose_title();insert_text("ग्वांगडोंग में मौसम: विविधता का माहौल");
+align_top_left_corner();
+choose_content();insert_text("ग्वांगडोंग पूरे वर्ष मौसम की एक विस्तृत श्रृंखला का अनुभव करता है। गर्म और धूप वाले दिनों से लेकर कभी-कभी बारिश, धुंधली सुबह और बादल आसमान तक, ग्वांगडोंग में जलवायु विविध और गतिशील है। इस जीवंत क्षेत्र में विभिन्न मौसमों और मौसम के पैटर्न का अन्वेषण करें।");set_line_space(2);
+insert_picture("beach");align_top_right_corner();
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("मौसम");choose_table_cell(0, 1);insert_text("औसत तापमान");choose_table_cell(1, 0);insert_text("स्प्रिंग");choose_table_cell(1, 1);insert_text("20-28℃")
+set_background_color("purple");
+choose_table();align_slide_bottom();
+insert_cloud();align_slide_left();
+
+insert_picture("sunrise");
+set_width(6);set_height(6);
+choose_title();insert_text("सकारात्मक सोच की शक्ति: आशावाद को अपनाना");set_font_italic();set_font_bold();
+choose_content();insert_text("सकारात्मक सोच एक मानसिकता है जो आशावाद, लचीलापन और आत्म-विश्वास पर केंद्रित है। सकारात्मक विचारों और दृष्टिकोणों को विकसित करके, हम अपनी भलाई बढ़ा सकते हैं, चुनौतियों पर काबू पा सकते हैं , और एक खुशहाल और अधिक संतुष्टिदायक जीवन बनाएं। सकारात्मक सोच की शक्ति को अपनाएं और अपनी वास्तविक क्षमता को अनलॉक करें।");set_font_italic();set_font_bold();
+set_font_color("purple");set_font_size(20);
+insert_note("सकारात्मक सोच");
+
+insert_table(4, 3);choose_table_cell(0, 0);insert_text("लाभ");choose_table_cell(0, 1);insert_text("विवरण");choose_table_cell(0, 2);insert_text("उदाहरण");choose_table_cell(1, 0);insert_text("बेहतर कल्याण")
+choose_content();insert_text("सकारात्मक सोच एक मानसिकता है जो आशावाद, लचीलापन और आत्म-विश्वास पर केंद्रित है। सकारात्मक विचारों और दृष्टिकोणों को विकसित करके, हम अपनी भलाई को बढ़ा सकते हैं, चुनौतियों पर काबू पा सकते हैं और एक खुशहाल और खुशहाल माहौल बना सकते हैं।");
+set_font_italic();set_font_color("light blue");
+set_background_color("light green");
+choose_title();insert_text("परिभाषा");set_font_bold();
+align_top_left_corner();
+insert_picture("laugh");align_slide_right();
+
+choose_title();insert_text("कचरा वर्गीकरण: सतत अपशिष्ट प्रबंधन को बढ़ावा देना");choose_content();insert_text("कचरा वर्गीकरण टिकाऊ अपशिष्ट प्रबंधन को बढ़ावा देने में एक महत्वपूर्ण अभ्यास है। कचरे की उचित छँटाई और निपटान करके, हम पर्यावरण प्रदूषण को कम कर सकते हैं, संसाधनों का संरक्षण कर सकते हैं , और एक स्वच्छ और स्वस्थ ग्रह में योगदान दें। कचरा वर्गीकरण की जिम्मेदारी को स्वीकार करें और हमारे पर्यावरण पर सकारात्मक प्रभाव डालें।");
+set_font_color("orange");set_font_underline();
+set_font_size(18);
+choose_title();set_font_style("Times New Roman");choose_content();set_font_style("Times New Roman");
+insert_right_arrow();align_bottom_right_corner();
+set_width(4.0);set_height(3.0);
+rotate_element(-90);
+insert_bar_chart([60, 50, 45, 40, 40], ["कागज", "प्लास्टिक", "ग्लास", "धातु", "जैविक अपशिष्ट"]);set_chart_title("Waste Material Recycling Rates.");
+insert_picture("recycling_bin");
+create_slide();set_background_color("purple");
+choose_title();insert_text("जैविक अपशिष्ट");set_font_size(18);
+choose_content();insert_text("जैविक कचरा टिकाऊ जीवन में महत्वपूर्ण भूमिका निभाता है। खाद्य स्क्रैप, यार्ड अपशिष्ट और कृषि अवशेषों जैसे कार्बनिक पदार्थों को खाद बनाकर, हम लैंडफिल अपशिष्ट को कम कर सकते हैं, मिट्टी की गुणवत्ता को समृद्ध कर सकते हैं, और पोषक तत्व चक्र को बंद कर सकते हैं . कंपोस्ट बनाने की प्रथा को अपनाएं और हरित भविष्य में योगदान दें।");
+
+create_slide();choose_title();insert_text("ओल्ड्रोयड की लेडी मैकबेथ की फिल्म");set_font_bold();
+set_font_size(28);set_font_underline();
+choose_content();insert_text("बिर्च की पटकथा लेसकोव कथा में कुछ बड़े बदलाव पेश करती है। उदाहरण के लिए, बिर्च और ओल्ड्रोयड ने साइबेरिया प्रकरणों को पूरी तरह से खत्म कर दिया और कैथरीन की आत्महत्या को खत्म करने का विकल्प चुना।");
+set_font_size(20);set_font_bold();
+choose_title();set_font_color("red");choose_content();set_font_color("yellow");
+insert_picture("Lady Macbeth");
+set_width(8);set_height(8);
+set_right("picture","content");
+set_left("picture","content");
+insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("फिल्म चरित्र");choose_table_cell(0, 1);insert_text("अभिनेता/अभिनेत्री");choose_table_cell(1, 0);insert_text("लेडी मैकबेथ");choose_table_cell(1, 1);insert_text("फ़्लोरेंस पुघ");choose_table_cell(2, 0);insert_text("मैकबेथ");choose_table_cell(2, 1);insert_text("कॉस्मो जार्विस")
+insert_note("1 मई");
+set_background_color("purple");
+
+create_slide();choose_title();insert_text("व्यायाम का महत्व");set_font_underline();
+set_font_size(24);set_font_color("green");
+choose_content();insert_text("नियमित व्यायाम हृदय स्वास्थ्य में सुधार कर सकता है, मूड को बढ़ावा दे सकता है और ऊर्जा के स्तर को बढ़ा सकता है।");
+set_font_size(20);set_font_bold();
+set_font_color("red");
+insert_picture("exercise");
+insert_pie_chart([0.10,0.30,0.50,0.10], ["हृदय स्वास्थ्य", "मांसपेशियों की ताकत", "मानसिक स्वास्थ्य", "बीमारी की रोकथाम"]);
+insert_table(5,2);choose_table_cell(0,0);insert_text("व्यायाम के प्रकार");choose_table_cell(0,1);insert_text("फ़ायदे");
+set_right("table","picture");
+insert_star();set_background_color("purple");
+align_bottom_left_corner();
+set_width(8);set_height(4);
+
+create_slide();choose_title();insert_text("पढ़ने के फायदे");set_font_size(24);set_font_underline();
+choose_content();insert_text("पढ़ने से संज्ञानात्मक कार्य में सुधार हो सकता है, सहानुभूति बढ़ सकती है और तनाव कम हो सकता है।");
+set_font_bold();set_font_italic();
+set_font_style("Arial");set_font_color("green");
+insert_picture("person_reading");
+insert_bar_chart([1400, 992, 400, 661, 234], ["फिक्शन", "नॉन-फिक्शन", "आत्मकथाएं", "स्वयं सहायता", "फंतासी"]);
+set_chart_title("Book sales");
+insert_table(3, 3);
+choose_table_cell(0, 0);insert_text("पढ़ने के लाभ");choose_table_cell(1, 0);insert_text("ज्ञान वृद्धि");choose_table_cell(2, 0);insert_text("शब्दावली विस्तार");
+set_background_color("red");
+insert_note("किताबें पढ़ना");
+create_slide();set_background_color("red");insert_picture("clock");
+set_width(10);set_height(15);
+insert_note("पढ़ने के बारे में");
+
+create_slide();choose_title();insert_text("स्वयंसेवा के लाभ");set_font_underline();
+choose_title();set_font_color("dark red");set_font_size(30);
+choose_content();insert_text("स्वयंसेवा खुशी बढ़ा सकती है, सामाजिक कौशल में सुधार कर सकती है और उद्देश्य की भावना प्रदान कर सकती है।");
+set_font_color("green");
+set_font_bold();set_font_size(18);
+align_bottom_left_corner();
+insert_picture("volunteers");
+align_bottom_left_corner();
+insert_table(3, 3);choose_table_cell(0, 0);insert_text("फ़ायदे");choose_table_cell(1, 0);insert_text("व्यक्तिगत विकास");choose_table_cell(2, 0);insert_text("सामाजिक संबंध");
+choose_content();set_font_bold();set_font_size(20);
+insert_bar_chart([25, 45, 10, 15, 5], ["सामुदायिक सेवा", "शिक्षा", "स्वास्थ्य देखभाल", "पर्यावरण संरक्षण", "आपदा राहत"]);
+set_chart_title("Volunteergin Importance");
+
+set_background_color("purple");
+choose_title();insert_text("सीएजे प्रारूप");set_font_underline();set_font_italic();
+set_font_color("purple");
+choose_content();insert_text("सीएजे प्रारूप चीन में अकादमिक पत्रों और अनुसंधान दस्तावेजों के लिए व्यापक रूप से उपयोग किया जाने वाला फ़ाइल प्रारूप है। यह कुशल साझाकरण और प्रकाशन के लिए एक मानकीकृत संरचना और लेआउट प्रदान करता है।");
+set_line_space(2);
+set_font_style("Arial");set_font_bold();
+set_font_color("green");
+align_slide_top();
+insert_picture("sample_caj");
+align_top_right_corner();
+insert_table(2,3);
+choose_table_cell(0, 0);insert_text("अनुभाग");choose_table_cell(0, 1);insert_text("शीर्षक");choose_table_cell(0, 2);insert_text("सामग्री")
+create_slide();insert_bar_chart([30, 25, 20, 15, 10], ["सीएजे", "पीडीएफ", "डीओसी", "पीपीटी", "एक्सएलएस"]);
+set_chart_title("File Format Usage");
+insert_note("फ़ाइल फ़ॉर्मेट");set_background_color("purple");
+
+choose_content();insert_text("जर्नलिंग तनाव को कम कर सकती है, याददाश्त में सुधार कर सकती है और आत्म-जागरूकता बढ़ा सकती है।");
+set_font_underline();set_font_size(18);set_font_color("purple");
+choose_title();insert_text("जर्नलिंग");
+set_font_italic();set_font_style("Arial");
+insert_picture("person_writing");
+align_slide_bottom();
+insert_star();align_slide_right();
+rotate_element(60);
+
+create_slide();choose_title();insert_text("बागवानी के लाभ");set_font_size(28);set_font_bold();
+choose_content();insert_text("बागवानी तनाव को कम कर सकती है, शारीरिक स्वास्थ्य में सुधार कर सकती है और रचनात्मकता बढ़ा सकती है।");
+set_font_italic();set_font_style("Arial");
+insert_cloud();align_slide_right();
+set_left("cloud","title");
+insert_picture("person_working_in_garden");set_width(10);
+create_slide();set_background_color("light blue");
+insert_triangle();align_slide_left();
+set_height(15);rotate_element(45);
+
+create_slide();choose_title();insert_text("आईटी कंपनियां");
+set_font_style("Times");set_font_bold();set_font_size(32);
+insert_picture("Apple Company Logo");set_height(2);set_width(2);
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("2020");choose_table_cell(0, 1);insert_text("2021");choose_table_cell(0, 2);insert_text("2022");choose_table_cell(1, 0);insert_text("274बी");choose_table_cell(1, 1);insert_text("365बी");choose_table_cell(1, 2);insert_text("394बी")
+

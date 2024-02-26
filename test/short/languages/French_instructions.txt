@@ -1,0 +1,1876 @@
+Déplacez la partie titre dans le coin inférieur et remplissez-la avec "Human Assessment". ## 0, title, slide, bottom corner
+Remplissez le contenu avec "En général, la traduction est notée de manière anonyme par plusieurs relecteurs, puis la note finale est donnée en combinant les résultats d'évaluation de tous les relecteurs".
+Insérez un tableau avec deux lignes et deux colonnes.
+Ajoutez "Avantages" et "Inconvénients" dans les deux blancs de gauche. Ajoutez "Reflètent avec précision la qualité de la traduction des phrases, la plus fiable, la plus haute crédibilité et "Évaluation de longue date" dans les deux bons blancs.
+Ajustez la taille de la police du contenu à 20. Changez le style de police en "Arial".
+Insérez une image d'un café sur la diapositive de gauche. ## 0, picture, slide, left
+Déplacez l'image vers la droite de la diapositive. ## 0, picture, slide, right
+Créez une nouvelle diapositive. Faites le titre de la nouvelle diapositive "Norme de notation" et la partie du corps "Évaluation directe" et "Classement relatif".
+Changez la couleur de la police du titre en vert et ajoutez deux puces.
+Changez la taille de la police du titre en 24 et celle du contenu en 20.
+
+Insérez une image de la tour. Déplacez-le vers le bas de la diapositive. ## 0, picture, slide, bottom
+Remplissez le titre avec "Contents" et déplacez-le en haut de l'image. ## 0, title, picture, top
+Créez un rectangle vert.
+Changez la couleur du titre dans la couleur du triangle.
+Modifiez la taille de la police du titre en 24.
+Changez le style de police du titre en "Arial" et doublez la taille de la police.
+Emm, changez le style de police du titre en "Microsoft New Tai Lue".
+
+Donnez à la diapositive une couleur d'arrière-plan verte.
+Créez une forme de nuage. Déplacez-le vers le bas de la diapositive. ## 0, cloud, slide, bottom
+Remplissez le contenu avec "Vous courez si lentement".
+Insérez une image de lapin. Déplacez l'image du lapin vers la droite de la diapositive. ## 0, picture, slide, right
+Insérez le contenu, "Un jour, il y a une course entre un lapin et une tortue".
+Créez une nouvelle diapositive et le contenu est "Je gagnerai un jour". Déplacez le contenu vers le haut. ## 1, content, slide, top
+
+Insérez une image sur l'étude au milieu de la diapositive. ## 0, picture, slide, center
+Créez un carré. Déplacez-le au milieu de la diapositive. ## 0, rectangle, slide, center
+Nommez le titre "League of Legends". Insérez le texte suivant dans la partie contenu, "League of Legends est un jeu d'équipe avec plus de 140 champions avec lesquels faire des parties épiques. Jouez maintenant gratuitement. Jouez gratuitement."
+Le style de police et la taille de police du titre doivent être "Times New Roman" et 24.
+Ajustez la largeur et la hauteur de l'image à 6 pouces et 5 pouces.
+Faites pivoter l'image d'environ 15 degrés.
+Créez une nouvelle diapositive et insérez une image d'un garçon tenant un livre.
+Déplacez l'image au milieu de la diapositive. ## 1, picture, slide, center
+Faire le titre "Comment mieux performer à l'école".
+
+Insérez un nuage. Faites-le sur le côté gauche. ## 0, cloud, slide, left.
+Insérez une horloge. Faites-le sur le côté droit. ## 0, picture, slide, right.
+Rendre la couleur de fond bleu clair. Nommez le titre de la diapositive comme "Intelligence Artificielle".
+Insérez le contenu suivant dans la partie contenu : "L'impact de l'intelligence artificielle sur la société est largement débattu. Beaucoup soutiennent que l'IA améliore la qualité de la vie quotidienne en effectuant des tâches routinières et même compliquées mieux que les humains, rendant la vie plus simple, plus sûre et plus efficace . "
+Changez la couleur de la police du contenu en vert clair.
+
+Créez une nouvelle diapositive et ajoutez un titre rouge à la diapositive indiquant "Planifier en mars".
+Faites la taille de la police du titre 28 et la couleur bleu foncé.
+Insérez un tableau avec une ligne et trois colonnes et remplissez la première ligne avec "étudier du 1er au 10", "travailler du 11 au 20" et "voyager du 21 au 31".
+Changez le style de police du titre en "Arial" .
+Insérez une photo d'un garçon heureux. Déplacez-le vers la droite du tableau. ## 1, picture, table, right
+Appliquez un arrière-plan bleu à la diapositive.
+Définissez l'image sur 6,5 pouces de largeur et 5 pouces de hauteur.
+Emm, maintenant la couleur de fond n'est pas bonne. Changez-le en jaune.
+
+Créez une nouvelle diapositive et nommez-la "Les bienfaits de la méditation".
+Insérez une image d'une personne en train de méditer et placez-la au centre de la diapositive. ## 1, picture, slide, center
+Écrivez "La méditation est une technique simple mais puissante qui peut vous aider à atteindre un état de paix intérieure et de calme." dans la partie contenu.
+Modifiez la taille de la police du contenu en 24 et définissez la couleur de la police sur bleu foncé.
+Insérez un rectangle. Mettez-le sur le côté droit du contenu. ## 1, rectangle, content, right
+Changez la couleur de l'arrière-plan en vert clair.
+Créez une nouvelle diapositive avec le même fond de page et insérez le titre "Types de méditation".
+Changez le style de police du titre en "Arial".
+Insérez un tableau avec deux colonnes et trois lignes.
+Dans la première colonne, écrivez "Mindfulness Meditation", "Méditation Transcendantale" et "Body Scan Meditation".
+
+Créez une nouvelle diapositive et donnez-lui un fond vert.
+Insérez une image d'un morceau de prairie sur le côté gauche de la diapositive. ## 1, picture, slide, left.
+Et changez la largeur et la hauteur de l'image à 6,5 et 5,5 pouces. Ajoutez un titre à la diapositive et faites-en "Les fonctions des forêts".
+Changez la couleur de la police en orange et la taille de la police en 40.
+Insérez une forme de "flèche". Déplacez-le vers le haut de la diapositive. ## 1, right_arrow, slide, top
+
+Ajoutez une nouvelle diapositive et insérez un tableau avec deux colonnes et deux lignes.
+Remplissez la première ligne avec "Type d'arbre" et "Utilisations" respectivement. Remplissez les deux colonnes suivantes avec "différents types d'arbres" et "différentes couleurs de feuilles".
+Insérez le contenu qui lit "N'oubliez pas de planter un arbre aujourd'hui !"
+Faites la taille de la police du contenu 20 et la couleur de la police verte. Soulignez-le.
+
+Créez cinq diapositives et faites en sorte qu'elles aient toutes un fond jaune.
+Dans la première diapositive, insérez le titre "Happy Family" et créez le style de police "Microsoft JhengHei".
+Dans la deuxième diapositive, insérez une photo d'une famille.
+Dans la troisième diapositive, insérez un tableau avec deux colonnes et deux lignes.
+Remplissez le tableau avec "Père", "Mère", "Grand-père", "Enfants"
+
+Créez une diapositive et insérez le titre "Business Plan".
+Insérez une image d'une ampoule sur le côté gauche de la diapositive. ## 1, picture, slide, left
+Redimensionnez-le à 3 pouces de large. Type "L'entrepreneuriat est le processus de conception, de lancement et de gestion d'une nouvelle entreprise, qui est souvent initialement une petite entreprise. Les personnes qui créent ces entreprises sont appelées entrepreneurs." dans la partie contenu.
+Définissez la taille de la police du contenu sur 20 et la couleur de la police sur le vert.
+Faites en sorte que la couleur de fond de la diapositive soit bleu foncé.
+Ajoutez une forme de cercle rouge sur la diapositive.
+Insérez le contenu suivant, "Un plan d'affaires est un document écrit qui décrit en détail comment une entreprise, généralement une nouvelle, va atteindre ses objectifs."
+Modifiez la taille de la police de la diapositive à 18.
+Insérez un tableau de 3 lignes et 4 colonnes.
+Remplissez la première ligne du tableau avec "Marketing Mix", "Target Market", "Price" et "Promotion".
+
+Créez une nouvelle diapositive et donnez-lui une couleur d'arrière-plan bleu clair.
+Tapez le contenu suivant : "L'image de marque d'un produit est le développement d'une marque distinctive pour un produit donné dans le but d'atteindre les consommateurs cibles d'une marque."
+Mettez le contenu en italique. Faites la taille de police 18.
+Déplacez le contenu vers le bas de la diapositive. ## 1, content, slide, bottom
+Insérez une image du logo Lancôme sur le dessus. ## 1, picture, slide, top
+
+Créez une nouvelle diapositive et nommez le titre "L'essentiel de la modélisation à grande échelle" et définissez la taille de la police sur 24.
+Changez le style de police du titre en "Arial".
+Insérez un tableau avec deux colonnes et une ligne.
+Pour la première colonne, remplissez-la avec "Importance" et définissez la taille de la police sur 18 et la couleur sur bleu clair.
+Ajouter une image d'un ordinateur. Déplacez-le au centre de la diapositive. ## 1, picture, slide, center
+Tapez "Modélisation à grande échelle" dans la partie contenu.
+Définissez la taille de police de la diapositive sur 14 et la couleur sur vert.
+
+Insérez une image de la tour sur la diapositive de gauche. L'image doit être celle d'une tour robuste et menaçante. ## 0, picture, slide, left
+Le titre de la diapositive devrait être "The Ultimate Heist".
+Créez le style de police du titre "Times New Roman". Changez la couleur du titre en vert.
+Créez un triangle. Déplacez-le vers la droite de la diapositive. ## 0, triangle, slide, right
+Donnez à la diapositive un fond bleu clair.
+
+Insérez un tableau avec trois colonnes et trois lignes. Remplissez le tableau avec "'violet', 'bleu', 'bleu clair', 'bleu foncé', 'vert', 'vert clair', 'vert foncé', 'jaune', 'jaune clair'"
+Donnez à la diapositive une couleur d'arrière-plan verte.
+Emm, la couleur n'est pas bonne. Changez-le en bleu foncé.
+Nommez le titre "Types de couleur". Ajouter une image d'une horloge.
+Créez une nouvelle diapositive et donnez-lui une couleur d'arrière-plan jaune.
+Insérez le contenu suivant dans la diapositive : "Véronique, également appelée herbe à vol d'oiseau ou herbe gitane, est une plante vivace rustique originaire d'Europe."
+
+Créez une diapositive et insérez une image d'un homme et d'une femme se disputant.
+Veuillez nommer le titre " Qu'est-ce que le mariage apporte aux hommes et aux femmes ? "
+Créez une nouvelle diapositive et insérez une photo d'une femme portant un kimono japonais et une autre photo d'une femme africaine mariée avec ses enfants.
+Ajouter " Facteurs déterminant différents régimes matrimoniaux " comme titre.
+Ensuite, créez trois autres diapositives et faites-leur un fond rouge.
+Passez à la diapositive 2 et nommez le titre "Bénéfices communs du mariage pour les hommes et les femmes".
+Eh bien, je veux souligner le titre et s'il vous plaît changer la couleur de la police du titre en jaune.
+Insérez une photo d'une famille heureuse de trois personnes au centre de la diapositive.
+Insérez trois rectangles rouges.
+créez une nouvelle diapositive et intitulez-la "L'évolution de l'institution du mariage en Chine".
+insérez une image d'une horloge et définissez sa largeur sur 6,5.
+Déplacez l'horloge sur le côté gauche de la diapositive. ## 3, picture, slide, left
+Créez maintenant une nouvelle diapositive et nommez le titre "Difficultés rencontrées par les femmes dans le monde". Insérez une photo d'une mère à plein temps.
+Veuillez définir la hauteur de l'image d'une mère à plein temps de 5 pouces.
+
+Définissez le titre de la nouvelle diapositive sur "Réseau de neurones"
+Ensuite, insérez le contenu de la diapositive "Les réseaux de neurones sont un ensemble d'algorithmes qui imitent la fonction d'un cerveau humain. Ils sont conçus pour reconnaître des modèles, classer des données et faire des prédictions."
+Changez la taille de la police en 12 et changez la couleur de la police en orange. Changez l'arrière-plan de la diapositive en rouge.
+
+veuillez nommer le titre "Quotation Mark"
+Soulignez le titre et faites sa taille de police 24.
+insérez le contenu de cette diapositive comme suit : "Le symbole des guillemets est un type de ponctuation utilisé pour séparer les mots et les passages du reste du texte."
+changer la couleur de la police du contenu en vert. emmm, la taille de la police est trop grande, veuillez la réduire
+insérer une image d'un grand guillemet. Déplacez la marque sur le côté gauche de la diapositive. ## 0, picture, slide, left
+maintenant, créez une nouvelle diapositive et donnez-lui un fond bleu.
+puis ajoutez un rectangle sur la droite. ## 1, rectangle, slide, right
+insérer un tableau avec deux lignes et une colonne.
+remplissez le tableau avec '"Comment allez-vous?" dit le monsieur. dans la première cellule et "L'une des utilisations les plus courantes des guillemets est d'indiquer une citation directe, un passage copié textuellement d'une autre source. " dans la deuxième cellule.
+
+veuillez créer une nouvelle diapositive et lui donner un fond vert foncé
+emm, il n'y a pas de titre. Aidez-moi à ajouter le titre "Fields and Branches of Anthropology" et à définir la taille de la police sur 18
+Je veux insérer le contenu avec la même taille de police, "Il existe deux grands domaines de l'anthropologie."
+Oui, c'est ce que je veux. Veuillez aligner le contenu à droite.
+
+Dans la diapositive, euh, ajoutez une flèche dans le côté gauche
+définissez la largeur de la flèche sur 4,0 et sa hauteur sur 3,0
+insérez le contenu suivant, "De vastes étendues d'Asie centrale semblent étrangement inhabitées."
+agrandissez la flèche pour qu'elle ait une largeur de 5,0 et une hauteur de 4,0, et faites-la pivoter de 90 degrés.
+enfin, appliquez un double espace au contenu
+
+Insérer "Éducation/Enseignement/Représentation PPT" comme titre.
+Insérer "L'effet néfaste du réchauffement climatique" dans le contenu,
+rendre la couleur de la police du titre bleu foncé et le contenu violet.
+Insérez un rectangle de la même couleur que le contenu.
+Déplacez le rectangle en haut à gauche de la diapositive. ## 0, rectangles, slide, left top
+Insérez un tableau à quatre colonnes et deux lignes, et remplissez la première ligne avec "donner", "donner", "donner" et "donner".
+Modifiez la couleur de la police du contenu pour qu'elle soit cohérente avec le titre.
+
+Rendre le fond orange.
+Insérez une image de chat et définissez sa largeur et sa hauteur sur 5 pouces.
+Créez trois autres diapositives et donnez-leur la même couleur d'arrière-plan orange.
+Nommez le titre "DingTalk Information"
+Insérez un tableau avec trois lignes et cinq colonnes.
+Remplissez la première ligne avec "Méthodes de téléchargement", "Comment rejoindre l'organisation", "Comment trouver des amis", "Avantages" et "Remarque" dans chaque espace.
+Insérez une étoile sur la partie droite de la diapositive. ## 3, star, slide, right
+Insérez le contenu suivant dans la partie contenu, "prévenir fait référence à empêcher ou entraver en faisant quelque chose à l'avance"
+Maintenant, le fond orange n'est pas bon. Changez-le en bleu.
+Alignez le contenu à gauche.
+
+Insérez une flèche (à droite) et coloriez-la en jaune.
+Nommez le titre aligné à gauche comme "Jour de semaine à l'école"
+rendre la couleur de la police du titre bleu foncé. italique et souligner le titre.
+Insérez le contenu suivant dans la partie contenu, "prévenir signifie acheter (des biens) à l'avance afin d'augmenter le prix lors de la revente"
+Insérez une image d'un badge scolaire. Définissez-le comme un carré de 2,5 x 2,5.
+Créez une nouvelle diapositive et définissez la couleur d'arrière-plan sur le vert.
+Donnez à la diapositive le titre aligné à droite, "Note"
+Changez la couleur du titre en vert clair et la taille de la police en 26.
+insérer trois puces.
+ajouter une note "2023/4/9" et "2023/4/8" à la diapositive précédente.
+
+Insérez une étoile et positionnez-la vers le côté droit de la diapositive. ## 0, star, slide, right
+Remplissez l'étoile de couleur bleue.
+Ajoutez une flèche rouge sur le côté gauche de la diapositive. ## 0, arrow, slide, left
+Nommez la diapositive "Prendre une décision"
+Insérez le contenu, "La pandémie mondiale actuelle a perturbé notre vie quotidienne et remodelé le monde d'une manière que nous n'aurions jamais pu imaginer."
+Soulignez le contenu et définissez la taille de la police du titre sur 24.
+Définissez à la fois le style de police du contenu et du titre sur "Times New Roman"
+
+Créez cinq diapositives.
+Ajoutez le contenu suivant dans la partie titre de chaque diapositive respectivement, "Introduction", "Développement", "Évaluation", "Analyse" et "Conclusion".
+Définissez l'arrière-plan de toutes les diapositives sur jaune.
+Dans le premier côté, changez le style de police de "Introduction" en "Microsoft JhengHei"，
+Dans la deuxième diapositive, insérez une image d'une horloge.
+Dans la troisième diapositive, insérez un graphique à barres. Les données horizontalement sont octobre, novembre, décembre et 160 170 130 verticalement.
+Dans la quatrième diapositive, insérez un tableau à trois colonnes et deux lignes.
+Insérez le contenu suivant dans la première ligne, "toIPA","Avantages" et "Inconvénients"
+Dans la dernière diapositive, créez le style de police "Times New Roman",
+Insérez un nuage dans la dernière diapositive.
+Insérez également une note "Créé par Eva" dans chaque diapositive.
+
+Créez un cercle. Colorie les cercles en violet.
+Insérez une image d'une bouteille d'eau avec une légende "bouteille".
+Insérez "QUALITY" comme titre.
+Changez la couleur "QUALITY" en rouge.
+Insérez un tableau avec deux lignes et deux colonnes.
+Remplissez chaque cellule avec "Machine Assessment", "Human Assessment", "Automatic Assessment 1", et "Automatic Assessment 2",
+Créez une nouvelle diapositive et nommez-la "Réalisation", rendez la couleur cohérente des cercles.
+
+veuillez créer une nouvelle diapositive et nommer le titre "Marketing Strategies for Q2"
+donnez à la diapositive une couleur de fond bleue.
+Créez une nouvelle diapositive et nommez le titre "Augmenter les ventes et la notoriété de la marque".
+emm, veuillez changer la taille de la police du titre en 60.
+Maintenant, donnez à la diapositive 2 un fond vert.
+Créez trois autres diapositives et assurez-vous qu'elles ont toutes le même arrière-plan vert.
+Bon travail. Passez maintenant à la troisième diapositive. Ajouter le titre "Tendances du marché et analyse des concurrents"
+Insérez une image d'une mer bleue.
+Eh bien, veuillez ajuster la hauteur de l'image à 4 et la largeur à 5, et placez-la à gauche du titre. ## 2, picture, title, left
+OK, c'est juste ce que je veux. Passez maintenant à la quatrième diapositive. Ajoutez le titre "Notre mission et nos valeurs".
+Insérez le contenu "VISION.Toutes les personnes vivant longtemps en pleine santé.MISSION.IHME fournit au monde des preuves opportunes, pertinentes et scientifiquement valides pour améliorer les politiques et les pratiques de santé."
+Cela semble un peu désordonné, essayez d'ajuster l'espacement des lignes à 1,5.
+Pas mal, mais essayez de régler la taille de la police du contenu sur 40. Changez le style de police du contenu en "Times New Roman".
+
+Veuillez créer une nouvelle diapositive et appliquer un fond jaune.
+Quant au titre, aidez-moi à ajouter le titre " Comparaison de l'éducation en Chine et en Amérique ".
+emm, changez le titre en "Explorez les différences et les similitudes" .
+Oh non, je veux changer le titre en "Les différences et les similitudes".
+Maintenant, créez cinq nouvelles diapositives.
+Faites en sorte que les cinq nouvelles diapositives aient le même fond jaune.
+Passez à la deuxième diapositive et ajoutez le titre "Les systèmes éducatifs".
+Insérer le contenu "L'éducation en Chine est principalement gérée par le système d'enseignement public géré par l'État, qui relève du ministère de l'Éducation. Tous les citoyens doivent fréquenter l'école pendant au moins neuf ans, connus sous le nom d'enseignement obligatoire de neuf ans, qui est financé par le gouvernement."
+Passez à la diapositive suivante et nommez le titre " Différents styles et méthodes d'enseignement ".
+Nommez le titre de la quatrième diapositive "Relation enseignant-élève". Intitulez la cinquième diapositive " Évaluation du rendement des élèves ".
+Insérez une image d'une forêt dans la cinquième diapositive.
+Insérer le contenu "En 2014, Jonathan Kaiman de The Guardian a écrit que les parents et les éducateurs chinois" considèrent leur propre système comme corrompu, déshumanisant, sous pression et injuste". que "de nombreux parents considèrent le test exténuant de neuf heures comme un mécanisme de tri qui déterminera la trajectoire de la vie de leurs enfants." et assurez-vous qu'il est souligné par des guillemets et définissez la couleur de la police sur le rouge.
+Maintenant, passez à la dernière diapositive et insérez un tableau avec une ligne. Insérez "Responsabilité" dans le tableau.
+
+Créez une nouvelle diapositive et insérez une image de l'application DingTalk.
+Intitulez cette diapositive "Introduction à ChatGPT". Faites en sorte que la couleur de la police du titre soit verte.
+Créez maintenant cinq nouvelles diapositives avec le même titre, "Libérer la puissance des modèles de langage IA". et alignez les titres à gauche.
+Changez le style de police du contenu en "Arial".
+Dans la section du corps, insérez le contenu "ChatGPT est un chatbot d'intelligence artificielle (IA) développé par OpenAI et publié en novembre 2022. Il est construit sur les familles GPT-3.5 et GPT-4 d'OpenAI de grands modèles de langage (LLM) et a été affiné (une approche d'apprentissage par transfert) en utilisant à la fois des techniques d'apprentissage supervisé et par renforcement."
+Eh bien, définissez la taille de la police sur 30 et l'interligne sur 2.
+Insérez un tableau avec une colonne et une ligne, et remplissez le tableau avec "Comment télécharger DingTalk".
+Bien. Passons à la diapositive suivante.
+Veuillez ajouter le texte "Caractéristiques et limitations" comme titre et alignez-le au centre.
+Insérez le contenu. "Bien que la fonction principale d'un chatbot soit d'imiter un causeur humain, ChatGPT est polyvalent. Il peut écrire et déboguer des programmes informatiques, imiter le style de PDG célèbres et rédiger des argumentaires commerciaux, composer de la musique, des téléplays, des contes de fées et des essais d'étudiants, répondre des questions de test (parfois, selon le test, à un niveau supérieur au candidat humain moyen), écrire de la poésie et des paroles de chansons, émuler un système Linux, simuler des salles de chat entières, jouer à des jeux comme le tic-tac-toe et simuler un guichet automatique ."
+
+créer une nouvelle diapositive, définir un fond vert pour la diapositive,
+insérez le contenu suivant : "La vie est trop courte pour passer du temps avec des gens qui aspirent votre bonheur." et définissez un point cinq fois l'espace.
+changez le style de police du contenu en Verdana et définissez la taille de la police sur 20.
+Enfin, soulignez le contenu et définissez la couleur du contenu sur jaune.
+
+﻿Veuillez créer une nouvelle diapositive et lui donner un fond bleu. Ajouter le titre "Machine Learning"
+Insérez le texte suivant dans la partie contenu : "L'apprentissage automatique est une application de l'intelligence artificielle (IA) qui permet aux systèmes d'apprendre automatiquement et de s'améliorer à partir de l'expérience sans être explicitement programmés. L'apprentissage automatique se concentre sur le développement de programmes informatiques qui peuvent accéder données et les utiliser pour apprendre par eux-mêmes."
+La taille de la police du contenu est trop petite. Veuillez l'augmenter à 20. Changez le style de police du contenu en Verdana
+Le style de police n'est pas bon. Changez-le en "Times New Roman" et alignez le contenu à droite.
+Changez la couleur de la police du titre en rouge et la taille à deux fois le contenu
+Le rouge n'est pas bon, veuillez changer la couleur du titre en bleu.
+Cela semble beaucoup mieux. Ajoutez une image liée à l'apprentissage automatique dans la diapositive de gauche. ## 1, picture, slide, left
+Réglez sa hauteur et sa largeur sur 1,2
+Enfin, insérez une étoile verte.
+
+Créez une nouvelle diapositive et ajoutez le titre "Stratégies marketing"
+Insérez la partie contenu : "Search Engine Optimization (SEO)", "Social Media Marketing (SMM)", "Email Marketing", "Content Marketing" et "Pay-Per-Click Advertising (PPC)" et placez des puces avant chacun d'eux.
+Ajoutez une image liée au marketing à la diapositive avec une taille de 1*1.
+Ajouter un camembert selon les données : Apple : 35 %, Samsung : 25 %, Huawei : 15 %, Xiaomi : 10 % Autre : 15 %. Et insérez un tableau avec deux colonnes et deux lignes.
+Insérez "Marketing" comme titre du graphique. Insérez "MT1", "MT2", "ST1" et "ST2" dans le tableau.
+Déplacez la partie contenu vers le bas de la diapositive. ##1, content, slide, bottom
+Créez une diapositive et copiez le graphique à secteurs.
+Copiez maintenant le tableau.
+
+Veuillez créer une nouvelle diapositive et ajouter le titre "Visualisation des données"
+Insérez un graphique à barres en fonction des données : le " X " horizontal correspond à New York, Los Angeles, Chicago, Houston et Phoenix, tandis que le " Y " vertical correspond à 8,4, 4,0, 2,7, 2,3 et 1,7. Et déplacez le graphique vers le côté gauche de la diapositive. ##1, bar chart, slide, left
+Insérez une zone de texte et tapez "La visualisation des données est la présentation des données dans un format pictural ou graphique. Elle permet aux décideurs de voir les analyses présentées visuellement, afin qu'ils puissent saisir des concepts difficiles ou identifier de nouveaux modèles."
+Changez la couleur de la police de la zone de texte en vert.
+Maintenant, passez à la diapositive suivante. Et insérez le contenu suivant : "Cette bouillie est préparée en cuisant ensemble du riz gluant, de la cassonade et dix-huit sortes de fruits secs."
+
+Veuillez créer une nouvelle diapositive et nommer le titre "Laba Porridge"
+Insérez le texte suivant dans la partie contenu : "Depuis que je me souvienne, chaque année, le huitième jour du douzième mois lunaire, ma mère nous cuisinait de la bouillie de Laba."
+rendre la couleur de la police jaune et mettre en gras le contenu.
+Maintenant, ajoutez un tableau avec deux lignes et une colonne à la diapositive de droite. ## 1, table, slide, right
+Insérez "Historique" dans la première cellule de la première ligne et "Moderne" dans la deuxième ligne.
+Donnez à la diapositive une couleur rouge clair.
+
+Donnez à la diapositive une couleur jaune.
+Le fond n'est pas bon. Veuillez définir un arrière-plan vert pour cette diapositive et toutes les autres diapositives
+Ça a l'air bien. veuillez définir le titre de la diapositive sur "Grande entreprise"
+Ajustez la taille de la police du titre à 28 et aidez-moi à changer le style de police en "Futura".
+Veuillez ajouter un tableau avec une ligne et deux colonnes. Et insérez "Numéro", "Noms des employés" .
+Ajoutez les logos des entreprises dans la diapositive
+Changez la couleur de la police du contenu du tableau en jaune.
+
+Veuillez créer une nouvelle diapositive et nommer le titre "Réseaux de neurones artificiels"
+Insérez le texte suivant dans la partie contenu : "Les réseaux de neurones artificiels (RNA) sont des systèmes informatiques inspirés des réseaux de neurones biologiques qui constituent le cerveau des animaux. De tels systèmes apprennent à effectuer des tâches en considérant des exemples, généralement sans être programmés avec des règles spécifiques à la tâche Les ANN sont capables d'apprendre et de s'adapter à de nouvelles entrées, ce qui les rend utiles pour un large éventail d'applications, notamment la reconnaissance d'images, la reconnaissance vocale et le traitement du langage naturel.
+La taille de la police du contenu est trop petite. Veuillez l'augmenter à 24
+Changez ensuite le style de police du contenu en "Calibri". Définissez la couleur d'arrière-plan de la diapositive sur orange clair.
+Aligner le contenu au centre et le titre à gauche
+Changez la couleur d'arrière-plan de la diapositive en bleu.
+Insérer une image liée aux réseaux de neurones artificiels dans la diapositive
+Ajustez la taille de l'image à 5,5 pouces de largeur.
+Déplacez l'image vers la droite de la diapositive. ## 1, picture, slide, right
+Insérez un tableau avec trois colonnes et deux lignes. Et remplissez la première ligne avec "1","2","3".
+Et insérez "jeux vidéo", "Switch", "séries TV" dans la deuxième ligne.
+
+Veuillez créer deux nouvelles diapositives rouges pour moi
+Nommez le titre de la diapositive 0 "Challenges" et faites le style de police du titre "Calibri"
+Insérez le texte suivant dans la partie contenu de la première diapositive : "Les défis de la mise en œuvre de l'IA sur le lieu de travail incluent le manque d'expertise, le coût et la résistance au changement."
+Changer la couleur de la police du contenu en vert
+Passez à la deuxième diapositive et ajoutez une image liée à l'IA à la diapositive. Centrez l'image sur la diapositive. ## 1, picture, slide, center
+
+Veuillez créer une nouvelle diapositive et ajouter le titre "Introduction"
+Insérez le texte suivant dans la partie contenu : "Bienvenue dans ma présentation sur l'histoire des jeux vidéo. Les jeux vidéo ont parcouru un long chemin depuis l'invention du premier jeu électronique dans les années 1950. Aujourd'hui, les jeux vidéo sont une industrie de plusieurs milliards de dollars qui est apprécié par les gens du monde entier."
+Ajoutez une image du premier jeu électronique à la diapositive.
+placez l'image en bas à droite de la diapositive. ##1, picture, slide, right bottom
+Changer la couleur de la police du titre en bleu
+Ajoutez une zone de texte à la diapositive et insérez le texte : "Présenté par John Smith".
+
+Veuillez créer une nouvelle diapositive intitulée "Réseaux de neurones"
+Insérez le texte suivant dans la section de contenu : "Les réseaux de neurones sont un ensemble d'algorithmes qui imitent le fonctionnement du cerveau humain. Ils sont utilisés pour une variété d'applications telles que la reconnaissance d'images, la reconnaissance de la parole et le traitement du langage naturel."
+Changer le style de police du contenu en Arial
+Insérez un triangle vert. Et déplacez-le dans le coin gauche. ##1, triangle, slide, left corner
+Ajouter une image d'un réseau de neurones à la diapositive
+Réglez sa hauteur et sa largeur sur 1,2
+Créez une nouvelle diapositive. Insérez une flèche bleue à droite. ## 2, right arrow, slide, right
+Ajoutez un graphique en courbes. Le " X " horizontal est janvier, février, mars, avril. Le "Y" vertical est 120,140,110 et 90. Donnez-lui le titre, "Chatgpt"
+Insérez une zone de texte contenant le nom d'une bibliothèque de réseaux de neurones populaire (par exemple, TensorFlow, PyTorch, Keras)
+Changez la couleur de la police du titre en bleu. et la couleur de fond de la diapositive en bleu clair.
+
+Insérez ceci dans la partie contenu : "Le dictionnaire peut être utilisé pour trouver des significations de mots, des prononciations, des orthographes et rechercher de nouveaux mots."
+Créez un cercle au-dessus de la partie contenu. ## 0, circle, content, top
+Insérer "phrase nominale" dans le cercle
+Changez la couleur de la police du contenu en rouge, le style en "Impact"
+
+Veuillez créer 3 nouvelles diapositives et leurs titres sont respectivement " Introduction ", " Méthodologie " et " Résultats ".
+Dans la diapositive "Introduction", insérez le texte suivant dans la partie contenu : "Cette présentation présentera notre projet de recherche et expliquera son importance." Dans la diapositive "Méthodologie", insérez le texte suivant dans la partie contenu : "Notre méthodologie de recherche impliquait la collecte de données provenant de diverses sources et l'utilisation d'analyses statistiques pour tirer des conclusions."
+Alignez le texte à gauche.
+Changer la couleur d'arrière-plan de toutes les diapositives en bleu clair
+Ajoutez une image d'un graphique à la diapositive "Résultats". Définissez l'image à 6,5 pouces de hauteur.
+Ajoutez une note sur chaque diapositive avec la date d'aujourd'hui 2022/1/1.
+
+Veuillez créer 2 nouvelles diapositives et leurs titres sont respectivement "Présentation du produit" et "Caractéristiques"
+Dans la diapositive "Présentation du produit", insérez une image du produit
+Insérez le texte suivant dans la partie contenu : "Notre produit est conçu pour répondre aux besoins de notre marché cible en apportant une solution simple et efficace à leur problème."
+Dans la diapositive "Caractéristiques", insérez un tableau de 5 lignes et 2 colonnes.
+Insérez "DingTalk" dans la dernière cellule.
+Changez le style de police de "DingTalk" en "Times New Roman"
+Ajoutez une note sur chaque diapositive avec l'heure actuelle 12h00.
+
+Créez une nouvelle diapositive et attribuez le titre aligné au centre "Sales Report" à la diapositive 1.
+Insérez un graphique à secteurs avec les données suivantes : Produit A : 120, Produit B : 220, Produit C : 180.
+changez la taille de la police du titre en 28.
+Ajoutez une image du logo de l'entreprise dans le coin supérieur droit de la diapositive
+Insérez le texte suivant dans la partie contenu : "Ce rapport présente les performances des ventes de nos produits au cours du premier trimestre 2023."
+Changez le style de police du texte en "Times New Roman".
+Le contenu doit s'aligner de la même manière avec le titre.
+
+Créez une nouvelle diapositive et ajoutez le titre "Stratégies marketing"
+Changez le style de police du titre en "Calibri" et la taille de la police en 36
+Insérer une image d'une campagne marketing dans la partie contenu
+Faites pivoter l'image de 45 degrés et alignez-la sur le côté droit. ## 1, picture, slide, right
+créez une nouvelle diapositive et insérez le titre "Powerful MT"
+Changez le style de police du titre en "Arial" et la taille de la police en 24
+Ajoutez une nouvelle zone de texte sous le sous-titre, ajoutez-y des puces et tapez "SEO", "Email Marketing" et "PPC"
+Définissez la couleur d'arrière-plan sur bleu.
+Insérez un graphique à barres en fonction des données : élémentA 27, élémentB 30, élémentC 29. Et déplacez le graphique vers le côté gauche de la diapositive. ##1, bar chart, slide, left
+Remplacez le titre du graphique par "Budget marketing".
+Insérez un tableau avec quatre lignes et deux colonnes.
+Insérez le contenu suivant dans le tableau, "Date","Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday".
+Déplacez le tableau vers la droite du graphique. ##1, table, chart, right
+
+Créez une nouvelle diapositive et donnez-lui un fond jaune
+Ajouter un titre "Métriques d'évaluation"
+Ajouter un tableau avec deux colonnes et trois lignes
+Ajoutez le contenu suivant à la première ligne : "Metric", "Formula". Ajoutez le contenu suivant à la deuxième ligne : "Précision", "(TP+TN)/(TP+TN+FP+FN)". Ajoutez le contenu suivant à la troisième ligne : "Précision", "TP/(TP+FP)"
+Ajoutez un graphique en courbes. Les données sont octobre, novembre, décembre car le X horizontal, 160, 170 et 130 sont les données en Y vertical. Donnez-lui le titre, "Time Machine"
+Ajouter un graphique à barres avec les mêmes données.
+
+Ajoutez une nouvelle diapositive et ajoutez le titre "Visualisation des données"
+Insérez un graphique à barres avec les données suivantes : "Eye", "Hand" "Leg" et "Knee" comme X horizontal et 60,70,80,90 comme Y vertical
+Redimensionnez le graphique pour qu'il soit de 4 pouces sur 4 pouces
+Ajouter un titre "Ventes par région" au graphique
+Insérez une flèche verte dans la diapositive.
+
+Créez une nouvelle diapositive et ajoutez le titre "Campagne marketing"
+Insérez une image d'un produit à droite de la partie contenu. ## 1, picture, content, right
+Définissez l'image 5 pouces de largeur.
+Insérez le contenu suivant dans la partie contenu, "Famille de langues européennes étroitement liée aux langues frisonne, allemande et néerlandaise (en Belgique appelées flamandes)".
+Ajoutez un cercle rouge en bas à droite de la diapositive. ## 1, circle, slide, bottom right
+Donnez à l'arrière-plan une couleur verte.
+Changer la couleur d'arrière-plan de la diapositive en bleu clair
+Ensuite, créez une nouvelle diapositive et ajoutez le titre "Sales Data"
+Insérer un tableau avec 4 colonnes et une ligne
+Entrez les données suivantes dans le tableau : nom du vendeur, ventes totales, taux de commission et montant de la commission
+Passez à la diapositive suivante. Faites en sorte que la couleur d'arrière-plan soit la même que celle de la dernière diapositive.
+
+Créez une nouvelle diapositive et ajoutez un titre "Sales Report". Définissez la taille de la police du titre sur 25
+Insérez le texte suivant dans la partie contenu : "Voici le rapport trimestriel des ventes de notre société :"
+Définissez sa taille de police sur 16 et changez sa couleur en violet.
+Ajoutez un rectangle 8*5 à la diapositive.
+Changez la couleur d'arrière-plan de la diapositive en vert.
+
+Veuillez créer une nouvelle diapositive et ajouter le titre "Réseaux de neurones artificiels
+Insérez le texte suivant dans le contenu : "Les réseaux de neurones artificiels (RNA) sont des systèmes informatiques qui s'inspirent, mais ne sont pas identiques, des réseaux de neurones biologiques qui constituent le cerveau des animaux. De tels systèmes apprennent à effectuer des tâches en considérant des exemples, généralement sans être programmés avec des règles spécifiques à la tâche."',
+Augmentez la taille de la police du contenu à 24. Appliquez également le style de police " Arial " au contenu.
+Changez la couleur de la police du titre en violet.
+Ajoutez une image d'un cerveau à la diapositive et redimensionnez sa largeur à 6,5
+Faire pivoter l'image de 90 degrés dans le sens des aiguilles d'une montre
+Ajoutez une nouvelle zone de texte et écrivez-y "Applications des ANN".
+Changez la taille de la police du titre en 36 et le style de police en Calibri
+insérer un tableau avec seulement deux lignes et une colonne.
+insérer le contenu suivant dans le tableau : "Reconnaissance d'image" et "Traitement du langage naturel"
+
+Nommez le titre "Évaluation de la qualité de la traduction automatique"
+Ajoutez une note sous le titre "Reporter : Eva". ## 0, textbox, title, bottom
+Définissez la taille de la police du titre sur 66.
+Définissez l'arrière-plan avec une couleur bleue et une police rouge.
+Hum, ce n'est pas bon. Changez la couleur d'arrière-plan en rouge et faites en sorte que la couleur de la police soit bleue.
+
+Veuillez créer une nouvelle diapositive et ajouter le titre "Réseaux de neurones"
+Insérez le texte suivant dans la partie contenu : "Les réseaux de neurones sont un ensemble d'algorithmes qui imitent la fonction d'un cerveau humain. Ils sont conçus pour reconnaître des modèles, classer des données et faire des prédictions."
+La taille de la police du contenu est trop petite. Veuillez l'augmenter à 24
+Changez ensuite le style de police du contenu en Arial. Aligner le contenu au centre
+Changer la couleur de la police du titre en bleu
+Le bleu n'est pas bon... veuillez changer la couleur du titre en vert
+Ajoutez une image d'un cerveau à la diapositive et définissez sa hauteur et sa largeur sur 1,5.
+Insérer "Le cerveau humain a inspiré le développement des réseaux de neurones" dans le contenu.
+Enfin, ajoutez une note sur l'architecture de réseau neuronal la plus couramment utilisée, comme le réseau neuronal convolutif (CNN) ou le réseau neuronal récurrent (RNN)
+Passez maintenant à la diapositive suivante. et changez la couleur de fond des deux diapositives en jaune.
+
+﻿veuillez créer une nouvelle diapositive et nommer son titre "Finances personnelles". Faites la même note avec le titre.
+Soulignez le titre et augmentez sa taille de police à 24.
+Ensuite, insérez ceci dans la partie contenu : "Les finances personnelles englobent tout l'univers de la gestion des finances individuelles et familiales, de la responsabilité de votre situation financière actuelle et future et de la définition d'objectifs financiers. Cela comprend également la gestion des tâches financières individuelles et l'épargne en cas d'urgence. "
+Oui, changez maintenant la couleur de la police en orange.
+Insérez une image d'un livre de finance d'entreprise.
+Définissez la largeur de l'image sur 6,5 pouces.
+oui, et donnez maintenant à cette diapositive un fond bleu
+attendez! le bleu n'est pas bon, changez la couleur de fond en bleu clair.
+créez deux autres diapositives et faites en sorte que les autres diapositives aient le même fond bleu clair.
+Insérez un tableau avec deux colonnes et une ligne dans la deuxième diapositive.
+
+Insérez le contenu, "Bienvenue sur le site du catalogue Microsoft Update. "
+Changez la couleur de la police du contenu en orange tandis que la diapositive est en bleu foncé.
+Insérez une image d'un ordinateur. Déplacez-le vers le bas de la diapositive. ## 0, picture, slide, bottom
+Hum, ce n'est pas bon. déplacer l'image sur le côté gauche de la diapositive. ## 0, picture, slide, left
+Créez maintenant un tableau avec deux lignes et quatre colonnes. Et insérez "Concepts de base", "Origine", "Catégories" et "Développement" dans la première ligne.
+Créez une nouvelle diapositive et insérez une étoile rouge.
+Insérez un graphique circulaire selon les données, Q1 10 millions ; Q2, 12 millions ; Q3 14 millions. Et déplacez l'étoile dans le coin inférieur du graphique. ## 1, star, pie chart, bottom corner
+Agrandissez le graphique à 10*10.
+
+Créez une nouvelle diapositive et donnez-lui une couleur d'arrière-plan bleue.
+veuillez ajouter le titre "Introduction".
+Et insérez les mots dans le contenu : "People Plus Money équivaut à des finances personnelles."
+Italique et soulignez le contenu.
+Changez la couleur de la police du contenu en vert.
+Ajoutez une photo d'une personne saisissant de l'argent. Déplacez l'image vers le coin inférieur. ## 1, picture, slide, bottom corner
+définir l'image 8 pouces de largeur et 7 pouces de hauteur.
+Créez une nouvelle diapositive. veuillez écrire les mots dans la partie contenu : "L'argent n'est pas tout, mais pas d'argent, c'est impossible"
+changez le style de police en "Futura", coloriez en bleu.
+Le bleu n'est pas si bon. Le violet serait mieux.
+Insérez un graphique à secteurs avec data:1,2,3,4,5. Et déplacez-le sur le côté droit du contenu. ## 2, pie chart, content, right
+Nommez la diapositive "Les effets de l'argent"
+
+veuillez créer une nouvelle diapositive et nommer son titre "La différence entre les finances personnelles et d'entreprise"
+puis insérez un tableau à deux lignes et trois colonnes,
+Insérez une image d'un logo d'entreprise sur le côté gauche du tableau. ## 1, picture, table, left
+Insérez le tableau avec les données suivantes, "Borderlands 2", "Divinity : Original Sin 2", "Final Fantasy VII", "Assassin's Creed IV : Black Flag", "Mega Man 3", "Mega Man 3".
+Insérez un nuage et déplacez-le vers la droite du tableau. ## 1, cloud, table, right
+Ensuite, ajoutez une note "2023/4/23" dans cette diapositive.
+
+Donnez à la diapositive une couleur d'arrière-plan orange.
+et créez une nouvelle diapositive avec le même arrière-plan, insérez le titre : "Bridget Fonda"
+mettre le titre en italique et définir la taille de la police sur 18
+ajoutez une photo de Bridget Fonda dans le coin supérieur droit. ## 1, picture, slide, top right
+définir l'image 8 pouces de largeur et 7 pouces de hauteur.
+oui, et créez une nouvelle diapositive.
+veuillez insérer le contenu : "Née à Los Angeles, Bridget Fonda est issue d'une famille d'acteurs respectés, qui comprend Henry Fonda, Peter Fonda et Jane Fonda. Elle s'est impliquée dans le théâtre après avoir joué dans une production scolaire de Harvey, et plus tard avoir un rôle muet dans Partners. En 1988, elle apparaît dans Scandal, son premier rôle parlant, ayant quelques petits rôles par la suite."
+emmm, la taille de la police du contenu est trop grande, veuillez faire sa taille à 12. et mettre le contenu en italique
+nommez le titre de la diapositive, "Liste de films"
+insérez le tableau avec trois lignes et trois colonnes, et insérez les nombres, 1,2,3,4,5,6,7,8,9 dans le tableau.
+Déplacez le tableau vers la droite de la diapositive. ##1, table, slide, right
+
+créer une nouvelle diapositive
+puis ajoutez le titre "Ghost Bear" et soulignez-le
+insérez le contenu : " L'ours le plus rare dont vous n'avez probablement jamais entendu parler"
+et insérez une photo de Ghost Bear.
+Changez le style de police en "Arial" et la taille de police en 20.
+Déplacez la photo vers la droite du contenu. ## 1, photo, content, right
+puis créez une nouvelle diapositive et insérez un treemap sur les ours,
+déplacer le treemap au centre, ## 2, treemap, slide, center
+définir la photo 4 pouces de largeur.
+Insérez le contenu, "Quand j'étais affamé de Donjons et Dragons, Divinity : Original Sin 2 a comblé ce vide pour moi."
+nommez son titre comme "Mon jeu préféré"
+insérez maintenant un tableau avec deux lignes et deux colonnes
+Insérez les données suivantes dans le tableau, "SMS", "WeChat", "QQ" et "DingTalk".
+
+Créez une nouvelle diapositive. Définissez un arrière-plan bleu pour la diapositive.
+Insérez une image de l'univers dans le coin inférieur gauche. ## 1, picture, slide, bottom left
+Définissez la largeur de l'image sur 6,5 pouces et la hauteur sur deux fois la largeur.
+Tapez ce qui suit dans la partie contenu, "On peut dire que je suis un peu difficile. Je n'aime pas les aliments trop sucrés, comme les bonbons, le chocolat, etc."
+Nommez la diapositive "Mon plat préféré"
+changer la couleur du titre et du contenu en jaune.
+souligner le titre. changez la taille de la police du titre en 24 et celle du contenu en 22.
+Insérez un nuage et déplacez-le vers la droite de l'image. ## 1, cloud, picture, right
+
+faites le titre souligné "Idol"
+insérez un rectangle rouge et déplacez-le au bas du titre. ## 0, rectangle, title, bottom
+et insérez le contenu aligné à gauche : "Je te veux ! (Je te veux !) J'ai besoin de toi ! (J'ai besoin de toi !) Je t'aime ! (Je t'aime !)"
+pour rendre les mots attrayants, définissez la taille de la police sur 24
+Non, doublez la taille de la police.
+s'il vous plaît insérer une image de AKB48
+définir l'image 6,5 pouces de hauteur et deux fois de largeur.
+insérez un tableau avec une colonne et deux lignes et insérez "Le temps d'une idole est court. Il y a toujours un nouveau visage frais et ils s'éloignent rarement du statu quo de poupée." dans la table.
+changez la couleur de la police en bleu, le style de police en "Futura"
+insérer "Le parcours épique des idoles, de Sylvie Vartan aux idoles qui remplissent les stades, pose la question : quelle est la prochaine étape pour les idoles et la culture qu'elles ont suscitée ?" dans la deuxième cellule.
+ajouter une note "2023/05/17" dans le fichier.
+
+Insérez le "CONTENU" au centre de la diapositive.
+Insérez le contenu suivant dans une rangée sous "CONTENU", Contexte, Missions d'évaluation, Modèle et Applications, numérotez-les également.
+Définissez la taille de police du "CONTENU" sur 80 et la couleur sur vert.
+Soulignez le contenu. Définissez le style de police du contenu sur "Pecita".
+
+donner à la diapositive une couleur d'arrière-plan orange. et insérez le titre "Meilleur logiciel"
+Mettez le titre en italique et faites sa taille de police 24.
+Insérez le contenu suivant, "Vous voulez un logiciel puissant ? Vous n'avez pas à payer pour cela. Tout ce dont vous avez besoin pour être productif et sécurisé sur votre PC se trouve sur cette liste, et tout est totalement gratuit."
+définissez la couleur de la police du contenu sur jaune.
+maintenant la couleur de fond n'est pas bonne, changez-la en bleu foncé.
+souligner le contenu et faire son style de police "Arial"
+insérez une flèche et déplacez-la au bas de la diapositive. ## 0, arrow, slide, bottom
+ensuite, ajoutez une note "2023/4/25" dans cette diapositive.
+
+veuillez créer une nouvelle diapositive et nommer son titre "Jay Chou"
+puis ajoutez les informations de base de Jay Chou dans le contenu comme suit, " Jay Chou est un musicien taïwanais, auteur-compositeur-interprète, multi-instrumentiste, acteur et réalisateur. "
+créez une nouvelle diapositive et nommez : "Mojito"
+soulignez le titre et définissez sa taille de police sur 20
+emmm, fais doubler la taille de la police
+veuillez insérer le contenu : ""Mojito" a été bien accueilli par le grand public de la communauté internationale. Le soleil cubain, les chemises tropicales, les voitures anciennes et les rythmes entraînants font de la chanson non seulement un ver d'oreille accrocheur, mais aussi un grand plaisir visuel."
+changez le style de police en "Futura". Changez la couleur de l'arrière-plan en vert.
+ok, insérez maintenant une image de la couverture de la chanson dans le côté droit. ## 2, picture, slide, right
+
+Nommez la diapositive "Ma vie universitaire"
+insérez une photo d'un collègue dans la diapositive avec la légende "collège".
+Je veux insérer le contenu, "l'engouement pour les études à l'étranger chez les collégiens"
+rendre la couleur de la police du contenu rouge et souligner le contenu.
+définissez le style de police du contenu sur "Futura" et définissez la taille de la police du titre sur 22
+bien, puis alignez le contenu à gauche.
+insérer un tableau avec une ligne et trois colonnes.
+remplissez le tableau avec "First Grade", "Second Grade","Third Grade"
+ok, créez une nouvelle diapositive et insérez le contenu : "Discours de Michelle Obama à l'Université de Pékin"
+oh, insérez le logo de l'Université de Pékin et déplacez-vous en haut à droite de la diapositive. ## 1, picture, slide, right top
+définir le logo 6,5 pouces de hauteur.
+
+créez une nouvelle diapositive et nommez-la "Learning Python"
+Mettez le titre en italique et définissez la taille de la police sur 26, puis changez le style de police en "Times New Roman"
+et définissez la couleur de fond verte
+veuillez créer deux autres diapositives et faire en sorte que les autres diapositives aient le même arrière-plan.
+Ajoutez un rectangle et déplacez-le vers le bas de la diapositive2.## 2, rectangles, slide, bottom
+insérer un tableau avec une ligne et une colonne.
+Remplir le tableau avec "Les exemples ne sont pas donnés, veuillez remplir le tableau"
+
+Veuillez créer une nouvelle diapositive et lui donner un fond vert. Insérez le titre "Traduction automatique"
+Insérez le texte suivant dans la partie contenu : "La traduction automatique est l'utilisation de la technologie informatique pour traduire un texte d'une langue à une autre."
+La taille de la police du contenu est trop petite. Veuillez l'augmenter à 20
+Non, le double.
+La couleur de la police n'est pas bonne. Changez-le en vert et alignez le contenu à droite.
+Cela semble beaucoup mieux. Ajoutez une image du logo trados.
+Réglez sa hauteur et sa largeur sur 2 pouces
+Déplacez l'image vers le bas de la diapositive. ## 1, picture, slide, bottom
+Insérez un rectangle et déplacez-le vers la droite de l'image. ## 1, rectangle, picture, right
+
+Insérez le titre et notez "Contexte" .
+Insérez le contenu "Les exigences pour comprendre la qualité de traduction de la machine de traduction", et ajoutez cette phrase sous le contenu, "Concentrez-vous sur la fiabilité de chaque point de date".
+Créez un nuage dans la partie inférieure et définissez sa largeur sur 6,5 pouces. ## 0, cloud, slide, bottom
+Veuillez faire la taille du titre 30 et la taille du contenu 20. Italique la police dans le contenu.
+
+Insérez un cercle à gauche et définissez sa couleur sur vert. ## 0, circle, slide, left
+Définissez la largeur et la hauteur du cercle sur 10.
+Ajouter "Module d'apprentissage des fonctionnalités" et "Module d'évaluation de la qualité" dans le contenu.
+Nommez la diapositive "Cadre de base".
+Ajoutez une note "2023/4" dans ce fichier également le cercle.
+
+Nommez le titre " Paie en mars " en vert.
+Créez un tableau avec une ligne et trois colonnes.
+Ajoutez "ID d'employé", "Montant" et "Remarque" dans la première ligne respectivement.
+Ajoutez les informations sous le tableau, "L'employé doit fournir son identifiant bancaire et sa carte d'identité." ## 0, textbox, table, bottom
+Insérez une image du nom de marque d'une entreprise et déplacez-la dans le coin droit de la diapositive. ##0, picture, slide, right corner
+créez une nouvelle diapositive et l'arrière-plan doit être jaune,
+le titre écrit "Chapitre 2"，et le contenu écrit "The Employee Bonus".
+Mettez le titre en italique et changez la taille de la police en 44. Conservez la même couleur des titres sur chaque diapositive.
+changez le style de police du contenu en Verdana et la couleur plus claire.
+Ajoutez une note "2023/4" dans cette diapositive.
+
+Créez une nouvelle diapositive, nommez le titre "Les fonctionnalités de l'apprentissage en profondeur" et aidez à souligner le titre.
+Définissez la taille de la police du titre sur 26 et la couleur sur bleu clair.
+Insérez un petit cercle.
+Insérez le texte suivant dans la partie contenu, "L'apprentissage en profondeur est une technique d'apprentissage automatique qui enseigne aux ordinateurs à faire ce qui vient naturellement aux humains."
+définissez le style de police du contenu sur "Arial".
+Insérez un triangle à gauche. ## 1, triangle, slide, left
+Déplacez le triangle vers la droite du texte. ## 1, triangle, text, right
+Changez la couleur du triangle en rouge et sa largeur en 5.
+Insérez trois puces et écrivez " dimanche ", " lundi " et " mardi " après chaque puce.
+Passez à la diapositive suivante et faites-en une diapositive jaune.
+nommez le titre ainsi que la note "Réseaux neutres". Souligner et mettre en italique le titre.
+
+Le titre de la diapositive doit être défini comme "L'histoire de l'art".
+Changez la police du titre en Times New Roman et mettez-la en gras.
+Tapez "L'art est une gamme variée d'activités humaines dans la création d'artefacts visuels, auditifs ou performants, exprimant l'imagination, les idées conceptuelles ou les compétences techniques de l'auteur, destinées à être appréciées principalement pour leur beauté ou leur pouvoir émotionnel."
+Changez le style de police du texte en Arial et mettez-le en italique.
+Ajoutez une puce à la diapositive.
+Énumérez les éléments suivants : peinture, sculpture, architecture, musique et littérature.
+Trouvez une image de "Mona Lisa" et insérez-la sur le côté inférieur. ## 0, picture, slide, bottom
+Déplacez l'image vers le coin supérieur de la diapositive. ## 0, picture, slide, top corner
+Ajoutez une note indiquant "Mona Lisa de Léonard de Vinci".
+
+Choisissez une forme d'étoile jaune dans le menu et dessinez-la sur la diapositive.
+Nommez la diapositive "Stars" et définissez la taille de la police du titre sur 24.
+Insérez un texte qui dit "Bienvenue dans la nuit étoilée" dans la partie contenu.
+Trouvez une image de l'univers et insérez-la sous le contenu. ## 0, picture, content, bottom
+Ajoutez une note indiquant "Étoile brillante, étoile brillante, étoile scintillante" à la diapositive. Changez le titre en note.
+
+Veuillez créer une nouvelle diapositive et la nommer "Commentaires des clients".
+Insérez une photo d'un client satisfait et déplacez-la vers le bas de la diapositive. ## 1, picture, slide, bottom
+Changez le titre en rouge "Nos clients nous adorent !"
+Ajouter "!!" jusqu'à la fin du titre.
+Tapez "Avis clients" dans le contenu.
+Définissez le style de police du contenu sur "Times New Roman" et la couleur de la police sur le vert,
+faites en sorte que la diapositive ait la couleur du titre.
+euh, c'est pas bon. Remplacez la couleur d'arrière-plan par la couleur du contenu.
+
+Veuillez créer une nouvelle diapositive et la nommer "Plan marketing".
+Tapez ensuite "Introduction" dans la partie titre. soulignez le titre et changez sa police en Calibri.
+Ensuite, insérez une image du logo d'une entreprise dans le coin inférieur gauche. ## 1, picture, slide, bottom left
+Définissez la largeur et la hauteur de l'image sur 5 pouces et 3 pouces et déplacez-vous vers la droite. ## 1, picture, slide, right
+Insérez un tableau avec deux colonnes et deux lignes : Catégorie et Information, Âge et 25.
+Créez une nouvelle diapositive et définissez un arrière-plan bleu pour cette diapositive.
+Nommez la diapositive "Marques mobiles"
+insérez un graphique linéaire avec Huawei, Apple, Xiaomi dans le X, 120, 140 et 150 dans le Y.
+Nommez le graphique "Ventes en avril"
+
+Veuillez créer une diapositive et la nommer "Rapport financier Q2".
+changez le style de police du titre en Arial et la taille de la police en 20.
+Insérez un tableau à trois colonnes et une ligne et insérez les données suivantes : "Metric", "Q2", "Q3".
+Insérer une image d'un rapport financier. Déplacez l'image vers le haut du tableau. ## 1, picture, table, top
+Insérez le contenu suivant : "Le rapport financier du deuxième trimestre présente une forte croissance des revenus et une amélioration de la rentabilité, grâce à des mesures d'optimisation des coûts réussies et à une demande accrue du marché pour nos produits et services."
+Mettez le contenu en italique et en gras.
+Insérez une puce dans le contenu.
+Changez la couleur d'arrière-plan de la diapositive en bleu clair.
+
+Créez une nouvelle diapositive et donnez-lui une couleur d'arrière-plan verte
+faire le titre: Féminisme
+Définissez la couleur de la police du titre sur l'arrière-plan et la taille de la police sur 26
+Insérez le contenu suivant : "Le féminisme est la croyance et la poursuite de l'égalité des droits, du pouvoir et des opportunités pour les femmes, parallèlement à ceux des hommes."
+Définissez la couleur de la police du contenu de la même manière que le titre, mettez le contenu en italique
+Créez une nouvelle diapositive et nommez le titre " 3e vague du mouvement féministe ", de la même couleur que la diapositive précédente.
+Mettez le titre en gras et définissez le style de police sur "Times New Roman". Définissez la couleur du titre sur bleu et la taille sur 28
+Insérez une image d'une guerre et déplacez-la vers le bas de la diapositive. ## 2, picture, slide, bottom
+Insérez un graphique circulaire avec les données suivantes : États-Unis (40 %), Russie (30 %), France (30 %).
+Insérez un tableau avec trois lignes et deux colonnes. La première ligne insère Emplacement, Diverses villes du monde.
+
+Veuillez créer une nouvelle diapositive et la nommer "Lancement de produit".
+Insérez le contenu qui dit "Objectif". Insérer une note avec le même contenu.
+Soulignez le contenu et changez son style de police en Times New Roman.
+Insérez une image d'un Apple Pencil en bas à gauche. ## 1, picture, slide, left bottom
+Déplacez l'image en haut à droite de la diapositive. ## 1, picture, slide, right top
+
+Veuillez nommer la diapositive "Progrès de l'équipe".
+Insérez "Objectif" dans la partie contenu.
+Insérez le contenu suivant : "Le but de l'organisation est de promouvoir les jeunes et les groupes marginalisés de cette génération grâce au mentorat de pigistes expérimentés."
+changer la taille de la police du contenu en 18, et souligner le contenu,
+Insérez une image d'un groupe d'équipe sur la droite. ## 0, picture, content, right
+
+Nommez la diapositive "Le pouvoir de l'innovation"
+Définissez le style de police du titre sur Arial et mettez le titre en gras.
+insérer le contenu suivant : "Dans le monde d'aujourd'hui en rapide évolution, l'innovation joue un rôle crucial pour stimuler la croissance économique, façonner les paysages politiques et transformer les normes culturelles. Elle alimente le progrès, favorise la compétitivité et ouvre de nouvelles possibilités pour les individus et les sociétés."
+définissez la couleur du contenu sur bleu foncé et doublez l'espace,
+Insérez l'image d'un paysage urbain futuriste représentant l'innovation et le progrès sur la diapositive de gauche. ## 0, picture, slide, left
+Insérez un petit rectangle sur la diapositive de droite. ## 0, rectangle, slide, right
+Définissez la couleur de fond du contenu,
+Créez une nouvelle diapositive et insérez le contenu, " Il opère sans rationalité, au mépris de la morale sociétale et des normes externes. "
+gras et souligner le contenu, Nommez la diapositive "Fairy Tales"
+
+Définissez le titre comme : Urban Living
+Définissez la couleur d'arrière-plan sur bleu clair
+insérer un tableau avec trois lignes et deux colonnes. Dans la deuxième colonne, insérez "Quantité", "Qualité","Niveau"
+insérez un triangle et un rectangle dans la diapositive. Le triangle doit être sur le dessus du rectangle. ## 0, triangle, rectangle, top
+déplacer le triangle vers le bas du rectangle. ## 0, triangle, rectangle, bottom
+insérez une image de Shanghai dans le coin inférieur gauche de la diapositive. ## 0, picture, slide, left bottom
+
+insérer un tableau à six colonnes et quatre lignes.
+insérez Année, Amis, Breaking Bad, Game of Thrones, Stranger Things, La Couronne dans la première rangée,
+Insérez une étoile sur la diapositive.
+Insérez une image d'amis à droite de la vedette. ## 0, picture, star, right
+Déplacez l'étoile vers le haut de l'image. ## 0, star, picture, top
+nommez la diapositive "série télévisée". mettre le titre en italique et souligner le titre,
+Ajoutez une note "2023-2025" sur la diapositive.
+
+insérez un triangle tourné à 45 degrés.
+Insérez un rectangle à sa droite. ## 0, rectangle, triangle, right
+Insérez une étoile à droite du rectangle. ## 0, star, rectangle, right
+Insérez un cercle à droite de l'étoile. ## 0, circle, star, right
+Insérez une légende pivotée de -45 degrés à droite du cercle. ## 0, callout, circle, right
+Insérez des "formes" à tous les éléments.
+
+Insérer une image d'un globe,
+Nommez la diapositive "Stratégie d'expansion mondiale".
+Déplacez l'image en haut à gauche de la diapositive. ## 0, picture, slide, left top
+Insérez le contenu suivant, "Peace and Love"
+
+Insérez un graphique circulaire avec les données suivantes : Shanghai 40 %, Pékin 45 %, Autres 5 %.
+Nommez la diapositive "Contribution",
+insérer le contenu suivant : "Le produit intérieur brut annuel de Pékin a dépassé 4 000 milliards de yuans (630 milliards de dollars) pour la première fois en 2021"
+changer le style de police du contenu en Arial,
+Insérez un graphique linéaire avec les données suivantes, 2016 6,7 %, 2017 6,9 %, 2018 6,6 %, 2019 6,1 %, 2020 2,3 %, 2021 8,1 %.
+Nommez la diapositive "Croissance du PIB",
+Insérez un graphique à barres avec les données suivantes, 2022 6,5 %, 2023 6,3 %, 2024 6,1 %, 2025 5,9 %, 2026 5,7 %, 2027 5,5 %.
+
+Veuillez créer une nouvelle diapositive et la nommer "Plan marketing".
+Donnez à la diapositive une couleur d'arrière-plan rouge.
+Veuillez insérer une image du logo de l'entreprise au-dessus du titre. ## 0, picture, title, top
+Veuillez faire la largeur de l'image 3 pouces.
+
+Insérez le titre "Queencard"
+Ialique le titre et gras le titre. changer la couleur de la police du titre en violet.
+donner à la diapositive un fond bleu clair.
+insérer une image d'un poker à droite du titre, ## 1, picture, title, right
+déplacer l'image vers le coin supérieur de la diapositive, ## 0, picture, slide, top corner
+insérez un cercle et déplacez-le vers le coin droit de la diapositive, ## 0, circle, slide, right corner
+définir la largeur du cercle à 6 pouces et la hauteur à 4 pouces
+créez une nouvelle diapositive et nommez-la "King"
+insérez une image d'un roi dans la diapositive de droite. ## 1, picture, slide, right
+
+Veuillez créer une nouvelle diapositive et la nommer "Project Timeline".
+Insérer un tableau avec une ligne et quatre colonnes,
+Insérez Jan, Fév, Mar, Avril dans le tableau,
+Insérez "par exemple, "Lancement du logiciel", "Début de la campagne marketing""dans la diapositive,
+Insérez une photo de l'équipe du projet sous le tableau, ## 1, picture, table, bottom
+Ajoutez une forme de flèche, déplacez-la vers la gauche de l'image. ## 1, arrow, picture, left
+Ajustez la hauteur et la largeur de la flèche à 3 pouces et 3 pouces.
+
+Insérez un graphique à secteurs avec les données suivantes, Femme 40 % et Homme 60 %
+Donnez au graphique à secteurs un titre "Classe 1"
+Ajoutez une photo d'une équipe d'étudiants travaillant ensemble,
+insérez un rectangle dans la diapositive, déplacez le rectangle vers le bas du graphique à secteurs. ## 0, rectangle, pie chart, bottom
+Nommez la diapositive "Grade 1"
+insérez le contenu suivant, "ce qui suit montre le pourcentage de genre dans chaque classe"
+soulignez le contenu et faites une taille de police de 20.
+ajoutez une note "Principe：Eva" dans la diapositive.
+Créez une diapositive et copiez le graphique.
+Copiez l'image.
+Copiez le rectangle.
+
+Veuillez créer une nouvelle diapositive et la nommer "Témoignages de clients".
+Insérez "Ce que nos clients disent de nous" dans la partie contenu, en gras et en italique le contenu,
+Insérer une photo d'un client satisfait,
+Ajoutez un triangle et remplissez-le de couleur violette.
+Déplacez le triangle vers la droite de la diapositive, ## 1, triangle, slide, right
+
+Veuillez créer une nouvelle diapositive et la nommer "Stratégie".
+Tapez "Notre stratégie marketing est basée sur les 4 P : produit, prix, emplacement et promotion". dans la partie contenu,
+Modifiez la taille de la police du contenu en 20 pt et faites-en un espace double. souligner le titre et mettre en gras le contenu,
+définir la couleur de la police du titre et du contenu en rouge,
+Ajoutez une forme rectangulaire et déplacez-la vers la gauche de la diapositive. ## 1, rectangle, slide, left
+insérez une image du logo de la société Apple à droite du rectangle.## 1, picture, rectangle, right
+Déplacez l'image vers le haut du rectangle. ## 1, picture, rectangle, top
+
+nommez la diapositive "Fans" et changez le style et la taille en Arial, taille 24pt.
+Ajoutez des puces avec 4 éléments : "Avantages de notre produit", "Marché cible", "Stratégie de prix", "Canaux marketing".
+Ajoutez une image d'une idole et définissez la hauteur de l'image à 6,5 pouces
+déplacer l'image vers le bas de la diapositive, ## 0, picture, slide, bottom
+ajouter un rectangle en haut de la diapositive, ## 0, rectangle, slide, top
+ajoutez une note "Présentatrice：Eva" dans la diapositive.
+
+Veuillez créer une nouvelle diapositive et la nommer "Chiffres des ventes".
+Ajoutez un graphique à barres avec les données "Janvier ： 20, Février ： 30" sur le côté gauche de la diapositive.
+Ajoutez un graphique linéaire avec les données "Janvier：10, Février：15" sur le côté droit de la diapositive.
+Ajoutez un titre au graphique linéaire en tant que "Ventes par mois".
+Ajoutez une forme de rectangle, déplacez-la vers le haut de la diapositive. ## 1, rectangle, slide, top
+tapez "Nos revenus ont également augmenté régulièrement au cours des 6 derniers mois" dans la partie contenu,
+
+Veuillez créer une nouvelle diapositive et insérer le titre "Sales Report",
+insérer un tableau à deux lignes et cinq colonnes.
+Ajoutez les données suivantes au tableau : "Produit", "Unités vendues", "Revenu", "Dépenses", "Bénéfice".
+Insérez les données suivantes dans le tableau : "Ordinateur", "1000", "$1000000", "$500000", "$500000".
+Un autre tableau 1*5 avec des données : "Imprimante", "500", "$100000", "$50000", "$50000".
+
+insérez une image d'un horizon de la ville en haut. ## 0, picture, slide, top
+définir la largeur de l'image à 6 pouces et la hauteur à 4 pouces
+Maintenant, ajoutez le titre "City Life".
+déplacer l'image vers le coin gauche de la diapositive. ## 0, picture, slide, left corner
+Modifiez la taille de la police du titre à 20 et mettez le titre en gras.
+
+Insérez un graphique linéaire basé sur les données suivantes, Concert 40 %, Album 30 %, Livre 30 %.
+Nommez la diapositive comme "Le pouvoir de Fandom"
+Insérez "Les fans jouent un rôle essentiel dans le succès et l'impact de diverses formes de divertissement, des films et des émissions de télévision aux sports et à la musique." dans la partie contenu,
+définissez le style de police du contenu sur Arial, modifiez la taille de la police du contenu en 20,
+Ajoutez une flèche à la diapositive et déplacez-la vers le haut de la diapositive.## 0, arrow, slide, top
+Ajoutez un cercle à la diapositive et déplacez-le vers le bas de la diapositive.## 0, circle, slide, bottom
+Déplacer vers le haut. ## 0, circle, slide, top
+
+Définissez le thème de la diapositive sur "Tencent".
+insérez un rectangle, déplacez-le vers le haut de la diapositive, ## 0, rectangle, slide, top
+faire pivoter le rectangle de 90 degrés,
+Changez la police du titre en Géorgie et mettez-la en italique.
+Insérez le texte suivant dans la partie contenu : "Tencent est un conglomérat multinational chinois de premier plan fondé en 1998. Il est spécialisé dans divers services et produits liés à Internet, notamment les médias sociaux, les jeux en ligne, le commerce électronique, l'informatique en nuage et l'intelligence artificielle. "
+Ajustez la taille de la police du contenu à 24 pour une meilleure visibilité. Changez le style de police du contenu en "Arial".
+
+Appliquez un arrière-plan vert à la diapositive pour correspondre à la marque de Tencent.
+Insérez le logo Tencent en tant qu'image dans la diapositive.
+Réglez l'image sur 6,5 pouces de largeur,
+Insérez un graphique linéaire avec les performances des modèles : Modèle A 40 %, Modèle B 30 %, Modèle C 30 %.
+également un graphique à barres pour cela.
+
+veuillez créer une nouvelle diapositive et nommer son titre "L'origine des Britanniques" et souligner le titre.
+OK, alors insérez ceci dans la partie contenu : "Les origines du Royaume-Uni remontent à l'époque du roi anglo-saxon Athelstan, qui au début du 10ème siècle a obtenu l'allégeance des royaumes celtiques voisins et est devenu" le premier pour gouverner ce que de nombreux rois partageaient auparavant entre eux ",
+Ça a l'air bien. Mais la taille de la police des mots est trop petite. Changez-le en 20.
+Changez la couleur de l'arrière-plan de la diapositive en vert et doublez la taille de la police.
+
+Maintenant, insérez une forme rectangulaire, déplacez-la vers la droite de la diapositive. ## 0, rectangle, slide, right
+Veuillez changer la couleur de remplissage du rectangle en jaune.
+Définissez le titre de la diapositive sur "Vinda".
+Insérez le texte suivant dans la partie contenu :"Vinda Group est une entreprise leader dans le domaine des produits d'hygiène fondée en 1985. Elle se spécialise dans la fabrication et la distribution de papier de soie, de produits d'hygiène jetables et de produits de soins personnels."
+Veuillez changer la taille de la police du texte en 20 et sa couleur en vert. Faites en sorte que le style de police soit identique au titre.
+appliquer un double espace à cette diapositive.
+
+Maintenant, ajoutez le titre de la diapositive "Mes loisirs".
+Veuillez insérer une photo d'une guitare en haut à droite. ## 0, picture, slide, right top
+Tapez "Jouer de la guitare est l'un de mes passe-temps préférés." dans la partie contenu.
+Veuillez changer la taille de la police du texte en 24 et sa couleur en violet.
+
+Veuillez créer une nouvelle diapositive et la nommer "Plan marketing".
+Veuillez insérer le titre dans la partie contenu.
+Changez le style de police du contenu en une police propre et professionnelle telle que "Calibri".
+Insérez le logo Vinda en tant qu'image dans la diapositive.
+Déplacez l'image vers le coin gauche de la diapositive. ## 1, picture, slide, left corner
+
+Veuillez créer une nouvelle diapositive et ajouter le titre "Campagne marketing" de taille 20.
+OK, insérez maintenant une photo d'un client souriant. Déplacez l'image en haut à gauche de la diapositive. ## 1, picture, slide, left top
+C'est bien, mais la photo est trop grande. Veuillez le redimensionner à 5 pouces de hauteur et 6 pouces de largeur.
+Génial, ajoutez maintenant des puces sur les avantages de la campagne de marketing, y compris les bénéfices, la réputation, la liste de diffusion.
+veuillez augmenter la taille de la police de tout le contenu de la diapositive à 20.
+
+Nommez la diapositive "Types de batterie".
+Le titre doit être en gras et en italique.
+Ajoutez maintenant une image du "Produit A".
+C'est bien, déplacez maintenant l'image sur le côté gauche de la diapositive. ## 0, picture, slide, left
+Insérez un tableau à deux colonnes et quatre lignes, avec les données suivantes : Type de batterie, Description dans la première ligne, Piles alcalines et courantes à usage domestique à longue durée de vie dans la deuxième ligne, Batteries lithium-ion et rechargeables utilisées dans les appareils électroniques dans le troisième rangée, et nickel-cadmium, piles rechargeables à haute densité d'énergie dans la quatrième rangée.
+
+Insérez un graphique à secteurs en utilisant les données suivantes :Marque A : 30 % ;Marque B : 25 %;Marque C : 20 %;Marque D : 15 %;Autres marques : 10 %
+Nommez le graphique à secteurs "Marques de climatisation"
+Insérez "cette diapositive comprend une brève description ou des points clés sur chaque marque" dans la partie contenu,
+insérez une image de Haier dans la diapositive du bas, ## 0, picture, slide, bottom
+souligner le contenu, et changer la couleur de la police du contenu en vert,
+insérer un triangle et un rectangle dans la diapositive,
+déplacer le triangle vers le bas du rectangle. ## 0, triangle, rectangle, bottom
+faire pivoter le rectangle de 45 degrés.
+
+Tapez "Notre équipe" comme titre.
+Insérez une image d'une équipe et redimensionnez-la à 4 pouces de large et 3 pouces de haut.
+Faites pivoter l'image de 45 degrés.
+déplacer l'image en haut à gauche de la diapositive. ## 0, picture, slide, left top
+Changez le style de police du titre en Calibri et augmentez la taille de la police à 28.
+
+Définissez le thème de la diapositive sur "Carte d'identité"
+Insérez un nouveau graphique et choisissez le type de graphique linéaire avec les données suivantes, Fujian, Shanghai, Pékin dans le X et 120, 140, 110 dans le Y.
+Nommez le titre du tableau "Opération de carte d'identité".
+Insérez une image d'une carte d'identité dans la diapositive, déplacez-la vers la droite. ## 0, picture, slide, right
+Changez le style de police du titre de la diapositive en Verdana et augmentez la taille de la police à 32.
+Donnez à la diapositive une couleur d'arrière-plan violette.
+
+Écrivez "Sales Report" comme titre.
+Changez la police du titre en Arial. Faites la taille de la police du titre 48 points. Définissez le titre en gras.
+Ajoutez un nouveau tableau avec trois colonnes et cinq lignes.
+Ajoutez les informations suivantes à la première ligne : "Région", "Ventes", "Croissance". Ajoutez les informations suivantes aux quatre lignes suivantes : "Nord", "50 000 $", "5 %", "Est", "75 000 $", "10 %", "Sud", "45 000 $", "3 %", " Ouest", "60 000 $", "8 %".
+Définissez la couleur d'arrière-plan de la diapositive sur le vert.
+Insérez le texte suivant dans la partie contenu : "Nom : John Doe, Date de naissance : 1er janvier 1990, Sexe : Masculin, Numéro d'identification : 123456789, Autorité émettrice : Département des véhicules à moteur, Date d'expiration : 31 décembre 2023"
+Insérez une image d'une plage dans la diapositive.
+insérer une flèche dans la diapositive.
+Déplacez l'image vers le haut de la flèche. ## 0, picture, arrow, top
+
+ajouter une nouvelle forme de rectangle.
+Changez la couleur de remplissage du rectangle en orange.
+définir la largeur du rectangle à 6 pouces et la hauteur à 5 pouces
+Tapez "Informations importantes" en gras comme titre.
+Ajustez la taille de la police du titre à 24 et changez la couleur de la police en vert.
+Ajoutez une liste à puces avec ces articles, pot, ciseaux, scoup.
+Ajouter une image d'une marque d'excalmatoire dans la diapositive.
+déplacer l'image vers le coin supérieur de la diapositive. ## 0, picture, slide, top corner
+Créez une nouvelle diapositive et insérez un rectangle à gauche. ## 1, rectangle, slide, left
+Nommez la nouvelle diapositive "Détails supplémentaires".
+
+Tapez "Voici quelques statistiques sur la croissance de notre entreprise" dans la partie contenu.
+Changez la couleur de la police du contenu en violet.
+Ajoutez un nouveau tableau avec trois colonnes sur une ligne.
+Ajoutez "les revenus, les bénéfices et le nombre d'employés" dans le tableau.
+
+Insérez une image de chaussures Converse dans la diapositive.
+Ajoutez le contenu suivant à la diapositive : "Converse est une marque de chaussures populaire connue pour ses baskets emblématiques et son style décontracté."
+Changez la taille de la police du contenu en 18 et la couleur de la police en rouge.
+
+Ajoutez le contenu suivant à la diapositive : "Le jus de citron est une boisson rafraîchissante et acidulée à base de citrons fraîchement pressés. Il est riche en vitamine C et offre une explosion de saveurs d'agrumes."
+Nommez la nouvelle diapositive "Jus de citron".
+Créez un tableau avec 3 colonnes et 2 lignes. Entrez "Produit", "Prix" et "Caractéristiques" dans la première ligne. Entrez "A", "B", "C" dans la deuxième ligne.
+Insérez une image de jus de citron fraîchement pressé à droite du tableau. ## 0, picture, table, right
+Ajoutez "Page 1" dans la diapositive.
+
+Insérez une photo d'une plage en haut à gauche. ## 0, picture, slide, top left
+Ajoutez "Réservez vos vacances aujourd'hui!" dans la partie contenu.
+Ajoutez le titre "Temps de vacances".
+Modifiez la taille de la police et le style de tous en 18 et Times New Roman.
+Ajoutez une liste à puces avec les éléments suivants : "Se détendre sur la plage", "Nager dans l'océan", "Manger de délicieux fruits de mer".
+
+Veuillez créer une nouvelle diapositive et la nommer "Chili".
+Changez la couleur d'arrière-plan de la diapositive en rouge.
+Insérez une image d'un délicieux bol de chili dans la diapositive.
+Ajoutez le contenu suivant à la diapositive : "Le chili est un plat épicé et savoureux composé d'une combinaison de viande, de haricots et de diverses épices. Il est connu pour son goût riche et sa chaleur satisfaisante."
+
+Nommez la diapositive "Chili". Insérez une image du paysage du Chili dans la diapositive.
+Créez un tableau avec 4 colonnes et 3 lignes. Entrez " Ingrédient ", " Quantité ", " Niveau de piquant " et " Origine " dans la première ligne. Entrez " Beef ", " 2 lbs ", " Medium " et " Mexico " dans la deuxième rangée. Entrez " Haricots ", " 1 boîte ", " Mild " et " États-Unis " dans la troisième rangée. Entrez " Tomates ", " 3 ", " Hot " et " Spain " dans la quatrième ligne.
+Ajoutez une note "Page 2" pour indiquer le numéro de la diapositive.
+
+insérez une image de quelqu'un qui mange un hamburger en bas. ## 0, picture, slide, bottom
+Faites en sorte que le titre de la diapositive soit "Sales Projections for Q3".
+Ajoutez le contenu suivant à la diapositive : "Les projections de ventes pour le troisième trimestre indiquent une croissance régulière des revenus et de la part de marché. Grâce à des stratégies de marketing ciblées et à des améliorations de produits, nous prévoyons une augmentation significative des performances de vente."
+
+Le titre n'est pas assez descriptif, veuillez le remplacer par "Stratégie marketing".
+Parfait, saisissez "La stratégie marketing de notre entreprise consiste à se concentrer sur la publicité sur les réseaux sociaux et le marketing d'influence".
+Ensuite, ajoutez une liste à puces d'Instagram, Facebook et Twitter.
+Veuillez insérer une photo d'une personne utilisant un smartphone.
+Ajouter une forme de rectangle au-dessus de l'image. ## 0, rectangle, picture, top
+Créez un tableau avec 4 colonnes et 6 lignes. Entrez "Mois", "Revenu", "Unités vendues" et "Taux de croissance" dans la première ligne.
+
+Veuillez créer une nouvelle diapositive et la nommer "Lancement de produit".
+Ajoutez un titre à la diapositive, "Présentation de notre nouveau produit".
+Insérer une photo du produit,
+Déplacez l'image vers le bas de la diapositive, ## 1, picture, slide, bottom
+donnez à la diapositive un fond violet et l'image doit être au-dessus. ## 1, picture, slide, top
+
+Nommez la diapositive "Explorez la Chine".
+Insérez une carte de la Chine pour présenter les diverses destinations touristiques du pays.
+Déplacez l'image de la Chine dans le coin gauche de la diapositive. ## 0, picture, slide, left corner
+Ajoutez le contenu suivant à la diapositive : "La Chine est une destination touristique captivante connue pour sa riche histoire, sa culture dynamique et ses paysages à couper le souffle. De l'emblématique Grande Muraille à la métropole animée de Shanghai, il y a quelque chose pour chaque voyageur dans ce vaste et pays diversifié."
+Créez un tableau avec 5 colonnes et 8 lignes. Entrez " Province ", " Attractions célèbres ", " Température moyenne ", " Nombre de touristes " et " Saison recommandée " dans la première ligne.
+Veuillez créer une nouvelle diapositive et la nommer "Project Timeline".
+insérer une étoile dans la diapositive à gauche après le titre. ## 1, star, slide, left
+Déplacez l'étoile sur le côté droit de la diapositive. ## 1, star, slide, right
+
+Nommez le titre "OPPO". Définissez la couleur de la police sur rouge, la taille de la police sur 20, et soulignez et mettez le titre en gras.
+Insérez le contenu suivant dans la partie contenu : "OPPO est un fabricant leader de smartphones connu pour ses conceptions innovantes et sa technologie de pointe.
+Insérez une image d'un smartphone OPPO pour mettre en valeur la marque, cela devrait être laissé au contenu. ## 0, picture, content, left
+créez une nouvelle diapositive et nommez-la "Xiaomi"
+Créez un tableau avec 4 colonnes et 3 lignes. Dans la première ligne, entrez " Produit ", " Prix ", " Caractéristiques " et " Disponibilité " dans la première ligne. Dans la deuxième ligne, entrez les données suivantes pour les produits Xiaomi : "Mi 11", "$699", "Snapdragon 888, appareil photo 108MP", "Global". Dans la troisième ligne, entrez les données suivantes pour les produits Xiaomi : "Redmi Note 10", "$249", "Écran AMOLED, appareil photo 48MP ", "Mondial".
+
+Veuillez créer une nouvelle diapositive et la nommer "Présentation du produit".
+Insérez un tableau avec 3 colonnes et 4 lignes sur la diapositive. Dans la première colonne, saisissez "Nom du produit", "SKU", "Prix" et "Quantité".
+Définissez la couleur d'arrière-plan sur vert.
+
+Définissez une couleur d'arrière-plan bleue pour cette diapositive. Définissez le titre sur "Rédaction de recherche".
+Insérez le contenu suivant dans la diapositive : "La rédaction de recherche implique l'investigation et la documentation systématiques d'un sujet afin d'apporter de nouvelles connaissances et perspectives à un domaine particulier."
+Changez la couleur de police du contenu en jaune et la taille de police en 18.
+Doublez la taille de la police.
+Créez un graphique linéaire en utilisant les données suivantes, 2016, 2017,2018 comme données dans X, 120,140,160 comme données dans Y.
+Nommez le graphique linéaire "Publications au fil du temps".
+Insérez une image d'une couverture d'un écrit de recherche. Changez la couleur d'arrière-plan pour qu'elle soit identique à la précédente.
+
+Créez une nouvelle diapositive et ajoutez un titre à la diapositive indiquant "Planifier en mars".
+Formatez la taille de la police du titre sur 28 et la couleur sur bleu foncé.
+Insérez un tableau avec quatre colonnes et trois lignes. La première ligne est "Date","Tâche","Heure de début","Heure de fin". La deuxième ligne indique "15 mars", "Rencontre avec les parties prenantes", "9h00" et "10h30". La dernière ligne est "23 mars", "Examen et mise à jour du projet", "14h00" et "16h00".
+Insérer une image d'un calendrier. Déplacez-le sur le côté supérieur de la table.
+
+Créez une nouvelle diapositive et nommez-la "Les bienfaits de la méditation".
+Insérez une image d'une personne en train de méditer. Déplacez-le en bas de la diapositive. ## 1, image, slide, bottom
+Écrivez "La méditation est une technique simple mais puissante qui peut vous aider à atteindre un état de paix intérieure et de calme." dans la partie contenu.
+Modifiez la taille de la police du contenu en 24 et définissez le style de police sur Times New Roman.
+Insérez un rectangle. Déplacez-le sur le côté droit de l'image. ## 1, rectangle, image, right
+Changez la couleur du rectangle en vert clair.
+Créez une autre diapositive et la couleur d'arrière-plan doit être bleu clair.
+Insérez un tableau avec deux colonnes et trois lignes.
+Dans la première colonne, écrivez "Mindfulness Meditation", "Méditation Transcendantale" et "Body Scan Meditation". Dans la deuxième colonne, insérez "La méditation aide à calmer l'esprit et à réduire les niveaux de stress, favorisant la relaxation.", "La pratique régulière de la méditation améliore les capacités de concentration et de concentration.", et "La méditation favorise la stabilité émotionnelle, la pleine conscience et le bien-être général. "
+
+Créez une nouvelle diapositive et donnez-lui un fond vert.
+Insérez une image d'un morceau de prairie et faites la largeur et la hauteur 6,5 et 5,5.
+Ajoutez un titre à la diapositive et appelez-le "Les fonctions des forêts". Changez la couleur de la police en rouge foncé et la taille de la police en 40.
+Insérez une forme de "flèche" jaune.
+Déplacez la flèche vers la droite de l'image. ## 1, arrow, picture, right
+
+Insérez un graphique à secteurs. "nourriture, logement, transport, divertissement, autres" sont la catégorie, et 40 %, 20 %, 15 %, 10 %, 15 % sont le pourcentage.
+Insérez un tableau avec deux colonnes et six lignes. La première ligne indique Catégorie et Pourcentage.
+Déplacez le tableau vers le bas du graphique à secteurs. ## 0, table, pie chart, bottom
+Nommez la diapositive "Mes dépenses en mai 2023"
+Italique du titre.
+
+Créez cinq diapositives et appliquez chacune un arrière-plan jaune.
+Dans la première diapositive, nommez le titre "Mes vacances d'été" et changez le style de police en "Microsoft JhengHei".
+Dans la deuxième diapositive, insérez une photo d'une famille.
+Dans la troisième diapositive, insérez un graphique à barres. "Ventes", "Dépenses", "Profits", "Investissement" sont des données sur X, 120, 80,40,60 sont des données sur Y.
+Dans la quatrième diapositive, insérez le contenu suivant : "Pendant mes vacances d'été, je me suis lancé dans une aventure inoubliable. J'ai exploré de nouvelles destinations, profitant de la chaleur de couchers de soleil dorés et me relaxant sur des plages de sable."
+Dans la cinquième diapositive, insérez un tableau avec deux lignes et une colonne. Remplissez le tableau avec "Ventes" et "Dépenses". La taille de la police doit être 26.
+
+Créez une diapositive et donnez-lui un titre "Business Plan".
+Insérez une image d'une ampoule. Déplacez-le vers la gauche de la diapositive. ## 1, picture, slide, left
+Type "L'entrepreneuriat est le processus de conception, de lancement et de gestion d'une nouvelle entreprise, qui est souvent initialement une petite entreprise. Les personnes qui créent ces entreprises sont appelées entrepreneurs." dans la partie contenu.
+Définissez le style de police sur "Géorgie" et la taille de police sur 10.
+Changez la couleur d'arrière-plan de la diapositive en vert.
+Ajoutez une forme de cercle sur la diapositive.
+Déplacez le cercle vers la droite de la diapositive. ## 1, picture, slide, right
+Passez à la diapositive 0 et tapez "Stratégie marketing" dans la partie contenu.
+Insérez un tableau de 3 lignes et 4 colonnes. La première colonne indique "Campagne sur les réseaux sociaux", "Partenariats d'influence" et "Marketing par e-mail".
+La quatrième colonne écrit 10 000 $, 15 000 $, 5 000 $.
+Ajouter une note "2023/5".
+
+Nommez la diapositive "Audience cible" et donnez-lui le style de police "Arial"
+Déplacez le titre vers le coin droit de la diapositive. ## 0, title, slide, right corner
+Insérez une image sur la génération Z et définissez sa largeur 4.
+Déplacez l'image en bas à gauche de la diapositive. ## 0, picture, slide, left bottom
+Insérez le contenu suivant dans la partie contenu, "Comprendre et cibler efficacement le bon public est crucial pour diffuser des messages personnalisés et maximiser l'impact des efforts de marketing."
+
+Insérez le titre "L'essentiel de la modélisation à grande échelle" et réglez la taille de la police sur 24.
+Insérez une image d'un réseau neutre. Déplacez-le vers le bas de la diapositive. ## 0, picture, slide, bottom
+Insérez un tableau avec deux colonnes et une ligne. Remplissez le tableau avec "Numéro" et "Note".
+Déplacez le tableau vers le haut. ## 0, table, slide, top
+
+Insérez une image d'une tour robuste et menaçante. Déplacez-le en haut à droite de la diapositive. ## 0, picture, slide, right top
+Le titre de la diapositive devrait être "The Ultimate Heist".
+Créez un rectangle. Déplacez le rectangle en haut du titre. ## 0, rectangle, title, top
+Changez la couleur de police du titre en vert foncé et la taille de police en 28.
+Changez le style de police en "Microsoft New Tai Lue".
+Donnez à la diapositive une couleur de fond bleu clair.
+
+Insérez un tableau avec 4 colonnes et 2 lignes. La première ligne indique Tâche,Priorité,Heure de début,Heure de fin. La deuxième ligne indique Planification de projet,Élevée,9h00,10h30
+Tapez le contenu "La gestion efficace du temps est une compétence cruciale pour réussir dans le cadre personnel et professionnel." dans la partie contenu.
+Souligner et mettre en italique le contenu.
+Déplacez le tableau vers le bas du contenu. ## 0, table, content, bottom
+Insérez une image d'une horloge dans la diapositive.
+Ajoutez la note "Présentatrice : Eva".
+
+Créez une nouvelle diapositive et ajoutez un titre "Profil de l'entreprise"
+Insérez le texte suivant dans la partie contenu : "Notre société a été fondée en 2005 dans le but de fournir des produits et services de haute qualité à nos clients. Depuis lors, nous sommes devenus l'un des principaux fournisseurs de solutions innovantes pour un large éventail d'industries . Notre équipe d'experts s'engage à offrir l'excellence dans tout ce que nous faisons."
+Changez le style de police du titre en "Calibri Light" et la taille de la police en 40
+Ajoutez une image du logo de l'entreprise à la diapositive de droite ## 1, picture, slide, right
+Redimensionnez l'image pour que sa hauteur soit de 2 pouces et sa largeur de 3 pouces. Déplacez-le vers la diapositive de gauche. ## 1, picture, slide, left
+Déplacez l'image vers le coin gauche de la diapositive.## 1, picture, slide, left corner
+Créez une nouvelle diapositive et donnez-lui une couleur d'arrière-plan bleue.
+Ajoutez le texte suivant dans la partie contenu : "Être un leader en matière d'innovation et de développement durable, apporter de la valeur à nos parties prenantes et avoir un impact positif sur le monde."
+Soulignez le contenu et définissez le double espace du contenu.
+Insérez un tableau avec deux colonnes et une ligne. Insérez les données suivantes dans le tableau, "A-72", "C-71"
+Insérez un tableau avec deux colonnes et une ligne. Insérez les données suivantes dans le tableau, "B-72", "D-71"
+
+Veuillez créer une nouvelle diapositive et la nommer "Données de vente"
+Insérer un tableau avec 6 colonnes et 15 lignes dans la partie contenu de la diapositive
+Remplissez le tableau avec les données suivantes : "Produit", "Ventes de janvier", "Ventes de février", "Ventes de mars", "Ventes totales" et "Ventes moyennes" dans la première ligne, et "iPhone", "22" , "13","15","17","12" dans la deuxième ligne.
+Déplacez le tableau vers le coin supérieur gauche de la diapositive. ## 1, table, slide, left corner
+Enfin, ajoutez une note "Source de données : service commercial" à la diapositive.
+Créez une nouvelle diapositive et copiez le tableau.
+
+Ajouter un titre "Stratégies marketing"
+Changez la police du titre en "Arial Black"
+Ajoutez la partie de contenu suivante : "Search Engine Optimization (SEO)", Social Media Marketing (SMM)", "EmailMarketing", "Content Marketing" et "Pay-Per-Click Advertising (PPC)".
+Changer la couleur de la police du contenu en bleu foncé
+Le contenu n'est pas visible. Changez la couleur du contenu en vert.
+Insérez une image d'un pouce sous le contenu. Définissez sa largeur sur 5 pouces. ## 0, picture, content, bottom
+
+Insérez le titre "Le Grand Canyon" et mettez-le en italique.
+Agrandissez la police. Peut-être que la taille de la police devrait être de 30.
+Changez le style de police du titre en "Times New Roman"
+Insérez une image du Grand Canyon dans la partie contenu de la diapositive
+Déplacez l'image vers la droite du titre. ## 0, picture, title, right
+Redimensionnez l'image pour qu'elle mesure 4 pouces de haut et 6 pouces de large
+Créez un tableau avec quatre colonnes et 2 lignes. Insérez " Guangdong ", " Pékin ", " Shanghai " et " Hainan " dans la première ligne. Insérez "34 %", "36 %", "20 %", "10 %" dans la deuxième ligne.
+Insérez un graphique à secteurs en fonction des données du tableau, c'est-à-dire ["Guangdong","Pékin", "Shanghai" et "Hainan"], ["34 %", "36 %", "20 %", "10 %"]
+Déplacez le diagramme circulaire vers le bas du tableau. ## 0, pie chart, table, bottom
+Insérez un graphique à barres avec les mêmes données.
+Enfin, ajoutez une note "Source de l'image : National Park Service" .
+
+Veuillez créer une nouvelle diapositive et la nommer "Comparaison de produits"
+Insérez un tableau avec 2 colonnes et 5 lignes. Insérez les données suivantes dans le tableau, "Smartphone (Apple iPhone 13)", "Ordinateur portable (Dell XPS 13)", "Smartwatch (Apple Watch Series 7)", "Casque (Sony WH-1000XM4)", "Appareil photo (Canon EOS R5) ", " Télévision (Samsung QLED Q90T) ", " Console de jeu (PlayStation 5) ", " Fitness Tracker (Fitbit Charge 4) ", " Écouteurs sans fil (AirPods Pro) ", " Tablette (iPad Pro) "
+Déplacez le titre dans le coin inférieur de la diapositive. ## 1, title, slide, bottom corner
+Enfin, donnez à la diapositive une couleur de fond bleu clair.
+
+Veuillez créer une nouvelle diapositive et la nommer "Rapport mensuel des ventes"
+Insérez un graphique à barres dans la partie contenu de la diapositive avec les données suivantes : "Janvier : 10 000 $", "Février : 12 000 $", "Mars : 15 000 $", "Avril : 18 000 $", "Mai : 20 000 $", "Juin : 25 000 $ ", "Juillet : 28 000 $", "Août : 30 000 $", "Septembre : 32 000 $", "Octobre : 35 000 $", "Novembre : 40 000 $", "Décembre : 45 000 $"
+Nommez le graphique "Mes ventes mensuelles en 2023"
+Déplacez le graphique vers le haut de la diapositive. ## 1, chart, slide, top
+Insérez le texte suivant dans la partie contenu : "Le rapport mensuel sur les ventes présente une augmentation significative des revenus."
+Enfin, ajoutez une note "Présenté par : xxx" à la diapositive.
+
+Changez la couleur de fond en rouge clair et insérez une image de fraise.
+Créez trois nouvelles diapositives. Et nommez leurs titres : "Portée du projet", "Chronologie du projet" et "Budget du projet" respectivement.
+Appliquez respectivement du vert clair, du bleu clair et du violet sur chaque diapositive.
+Ajoutez le texte suivant à la partie contenu de la diapositive 1 : "Notre projet consiste à développer une nouvelle application logicielle pour nos clients. L'application rationalisera leurs processus métier et améliorera leurs résultats."
+Insérez un tableau avec 6 colonnes et 2 lignes sur la deuxième diapositive. Et ajoutez les données suivantes au tableau : Mois, Tâche, Date de début, Date de fin, Progression et Commentaires dans la première ligne.
+Faites un graphique linéaire et les données sont [2016,2017,2018,2019], [10,12,15,11]. Déplacez-le sur le côté gauche de la table. ## 1, line chart, table, left
+Insérez une forme d'étoile dans la diapositive. Déplacez-le dans le coin supérieur de la diapositive. ## 1, star, slide, top corner
+Passez à la diapositive 2 et soulignez son titre "Chronologie du projet"
+Passez à la diapositive 3, insérez le contenu suivant, "Dépenses de personnel : cela inclut les coûts associés aux membres de l'équipe de projet, tels que les salaires, les traitements, les avantages sociaux et les dépenses de formation."
+Changez le style de police du contenu en "Arial"
+Ajoutez une note "Merci !" au dossier.
+
+Nommez la diapositive "Chronologie de l'entreprise"
+Insérez un rectangle puis faites-le pivoter à droite de 45 degrés
+Déplacez le rectangle en bas à droite de la diapositive. ## 0, rectangle, slide, right bottom
+Rendre la couleur de fond de la diapositive bleu clair
+Insérez un tableau avec quatre colonnes et deux lignes. Ajoutez les quatre dates suivantes : "1980", "1990", "2000", "2010" dans la première ligne.
+Ajoutez les quatre événements suivants : "Entreprise créée", "Entreprise déménagée dans un nouveau bâtiment", "Entreprise devenue publique", "Entreprise acquise par un concurrent" dans la deuxième ligne.
+
+Insérez une image d'un logo d'entreprise Google en bas. ## 0, picture, slide, bottom
+Ensuite, nommez le titre "Conclusion" et mettez-le en italique
+Ça a l'air bien. Insérez le contenu, "Nous sommes de plus en plus une population mondiale - se mélangeant librement. Cela créera un monde d'hybrides - peau châtain clair, cheveux noirs, Afro-Euro-Australo-Americo-Asiatiques, leur couleur de peau et leurs traits faciaux tendant vers une moyenne mondiale."
+Aligner le contenu à droite
+Insérez un rectangle dans la diapositive et définissez sa hauteur sur 5.
+Ensuite, déplacez le rectangle vers le bas de la diapositive. ## 0, rectangle, slide, bottom
+
+veuillez créer une nouvelle diapositive et définir le titre comme "Critique littéraire éthique" et le mettre en gras
+La couleur du titre n'est pas très accrocheuse, alors définissez la couleur du titre sur bleu
+puis insérer le texte : "La méthode de critique littéraire éthique est une nouvelle méthode de critique littéraire proposée par le professeur Nie Zhenzhao de l'Université normale de Chine centrale après une enquête comparative, un peignage fin et repensé de l'histoire et de la situation actuelle de la critique littéraire chinoise et occidentale théories et méthodes."
+alors s'il vous plaît insérer une image de la couverture du livre Introduction à la critique littéraire éthique par Nie Zhenzhao
+pour être précis, déplacez l'image sur le côté gauche de la diapositive. ## 1, picture, slide, left
+puis insérez un rectangle à droite. ## 1, rectangle, slide, right
+L'arrière-plan n'est pas bon, alors changez la couleur d'arrière-plan en jaune clair
+
+créez une nouvelle diapositive et définissez le titre comme "Jane Eyre par Charlotte Bronte" et mettez le titre en italique
+puis insérez du texte : "Dans la fin apparemment heureuse, Charlotte utilise un héritage et un feu pour construire l'intrigue." et audacieux
+changez la couleur de la police en rouge foncé, puis changez le style de police du texte en "Arial"
+insérer une flèche à droite du texte. ## 1, arrow, text, right
+insérer un tableau avec deux colonnes et deux lignes, la première ligne écrit la catégorie, les informations ; la deuxième rangée indique l'année de publication, 1847.
+puis insérez une image du portrait de Charlotte Brontë sous le tableau. ## 1, picture, table, bottom
+déplacer l'image en haut du tableau. ## 1, picture, table, top
+
+définir un fond bleu pour cette diapositive
+définissez le titre sur "Id in David Copperfield" et mettez en italique David Copperfield
+puis insérez ceci dans la partie contenu : " Id est une sorte d'impulsion instinctive animale, il est confondu sans rationalité, et il recherche aveuglément la satisfaction et accumule des chances d'abréaction. un. Id ne se soucie pas de la morale sociale ou de la norme de comportement externe. Id est l'endroit où stocker l'instinct."
+alors s'il vous plaît ajouter une image du livre David Copperfield au-dessus du contenu. ## 0, picture, content, top
+l'image est trop petite, veuillez donc l'agrandir, avec 5 pouces de hauteur et 6 pouces de largeur.
+insérez une étoile, déplacez-la vers la droite de l'image. ## 0, star, image, right
+enfin, ajoutez une puce pour le texte dans la partie contenu.
+
+Insérez un tableau avec trois lignes et deux colonnes. Insérez Emplacement, Diverses villes du monde, dans la première rangée, Ethnie, Communauté et culture chinoises, dans la deuxième rangée et Caractéristiques, Architecture chinoise, entreprises, cuisine, célébrations culturelles, dans la troisième rangée.
+ajouter un titre "China Town" et mettre le titre en gras.
+Insérez un graphique à secteurs, les données suivantes sont les restaurants chinois, 40 % ; Magasins de détail chinois, 30 % ; Festivals et événements culturels 30 %
+Insérez une image d'une ville chinoise dans la diapositive.
+Déplacez l'image vers le bas de la diapositive. ## 0, picture, slide, bottom
+Insérez une étoile dans la diapositive de droite. ## 0, star, slide, bottom
+Ajoutez une note "China Town" dans la diapositive.
+
+créez une nouvelle diapositive et donnez-lui une couleur d'arrière-plan verte.
+créez le titre de la diapositive "féminisme" et définissez la couleur de la police du titre de la même manière que la couleur d'arrière-plan.
+puis insérez le contenu "Le féminisme est la croyance et le but que les femmes devraient avoir les mêmes droits, pouvoir et opportunités que les hommes"
+la couleur de la police n'est pas attrayante, veuillez définir la couleur de la police sur jaune et mettre le contenu en italique.
+
+définir le titre comme "3e vague du mouvement féministe" et le mettre en gras
+changer le style de police du titre en "Times New Roman". définir la couleur du titre en bleu et la taille en 28
+puis insérez le contenu "Il se concentre sur les croyances religieuses multiraciales, les coutumes ethniques, le multiculturalisme, la protection de l'environnement, le consumérisme, l'orientation vers la diversité"
+Insérez un portrait féminin au-dessus du contenu. ## 0, picture, content, top
+
+veuillez créer une nouvelle diapositive et définir le titre comme "adaptation cinématographique de Pride and Prejudice"
+puis définissez la taille de la police sur 24 et mettez le titre en italique.
+Insérez ceci dans la partie contenu : "Quatorze ans après sa première diffusion, l'adaptation du scénariste Andrew Davies en 1995 du roman Pride and Prejudice de Jane Austen reste une référence par rapport à laquelle l'adaptation d'Austen est généralement mesurée. ", l'adaptation répond ostensiblement aux sensibilités modernes et aux attentes dramatiques contemporaines. Les choix d'interprétation de Davies mettent l'accent sur la sensualité et mettent l'accent sur les désirs de Darcy. "
+Ajoutez des puces à la partie contenu.
+faites la taille de la police du contenu 20 et définissez un double espace
+veuillez insérer une image Web du film Orgueil et préjugés de 1995
+insérer un rectangle, se déplacer dans le coin droit de la diapositive, ## 1, rectangle, slide, right corner
+emm, changez la couleur de fond en orange clair
+
+Insérez un tableau avec trois lignes et deux colonnes.
+Remplissez le tableau avec "Lieu", "Ethnie" dans la première colonne.
+insérer le texte suivant : "Elizabeth Bennet et M. Darcy subissent un développement significatif du personnage tout au long du roman, apprenant des leçons importantes sur eux-mêmes et sur la société.
+insérez une image d'Elizabeth Bennet et de M. Darcy au bas du tableau. ## 0, picture, table, bottom
+déplacer l'image vers la droite de la diapositive. ## 0, picture, slide, right
+tracez un rectangle. Déplacez-le vers le coin gauche de la diapositive. ## 0, rectangle, slide, left corner
+puis créez une nouvelle diapositive et nommez le titre "Le rôle de la classe sociale dans l'orgueil et les préjugés" et soulignez le titre
+insérer ce texte : "La classe sociale joue un rôle important dans le roman, influençant les relations, les décisions et la perception de soi des personnages."
+dessinez un petit cercle dans le coin inférieur droit et définissez sa couleur sur orange
+changer la couleur d'arrière-plan de la diapositive du bleu clair à l'orange.
+
+créez une nouvelle diapositive et faites le titre "Formes"
+Insérez un rectangle rouge sur la diapositive de gauche. ## 0, rectangle, slide, left
+Insérez un cercle bleu sur la diapositive de droite. ## 0, circle, slide, right
+Insérez un triangle vert sur la diapositive de gauche. ## 0, triangle, slide, left
+Insérez une légende jaune sur la diapositive de droite. ## 0, callout, slide, right
+
+insérez une image représentant une scène de mariage du XIXe siècle sur le côté droit de la diapositive. ## 0, picture, slide, right
+ajouter un triangle. Déplacez le triangle vers la droite de l'image. ## 0, triangle, picture, right
+Nommez le titre "mariage du 19ème siècle"
+italique et gras le titre. Changez la couleur de la police en orange foncé.
+
+Insérez un graphique à secteurs basé sur les données suivantes, Vanille : 30 %, Chocolat : 25 %, Fraise : 15 %, Pépites de chocolat à la menthe : 10 %, Cookies et crème : 10 %, Beurre de noix de pécan : 10 %
+trouver une image d'une fraise. Déplacez l'image vers le bas du graphique à secteurs. ## 0, picture, pie chart, bottom
+insérer le contenu suivant : "Les dépenses ont considérablement augmenté au dernier trimestre en raison de la hausse des coûts opérationnels et de l'augmentation des investissements dans les initiatives de marketing."
+Modifiez le style de police en Times New Roman et la taille de la police en 18.
+
+veuillez créer une nouvelle diapositive et nommer le titre et la note de bas de page "PPT making"
+insérez le contenu suivant : "La création de présentations PowerPoint attrayantes et percutantes nécessite une planification et une exécution minutieuses."
+soulignez le contenu et mettez la couleur de la police en rouge foncé.
+mettre le titre de la diapositive en gras et en italique
+ajoutez une note "PPT" dans la diapositive.
+
+créez une nouvelle diapositive et nommez le titre "Réseaux de neurones"
+écrivez le contenu à puces suivant : "Les réseaux de neurones sont un type d'algorithme d'apprentissage automatique qui s'inspire de la structure du cerveau humain. Ils se composent de couches de nœuds interconnectés qui traitent les informations et apprennent à reconnaître les modèles."
+changer la couleur de la police du titre en rouge
+ajouter une image d'une architecture de réseau neuronal à la diapositive
+insérer un nuage à droite de l'image. ## 1, cloud, picture, right
+enfin, rendre la couleur de fond jaune
+
+créez une nouvelle diapositive et à droite insérez une forme de nuage rouge. ## 0, cloud, slide, right
+insérez "Fournir des plats à emporter clairs" dans la partie contenu.
+changer la couleur de la police du titre en orange. puis créez une nouvelle diapositive et nommez-la "Prétraitement des données"
+la couleur d'arrière-plan actuelle ne convient pas à cette diapositive. Veuillez le changer en couleur de nuage.
+
+créez une nouvelle diapositive et nommez-la "Transfer Learning"
+définissez la taille de la police sur la diapositive à 28 et mettez-la en gras
+changer le style de police du titre en "Times New Roman". changer la couleur de la police du titre en rouge
+Faites en sorte que la diapositive ait la même couleur d'arrière-plan.
+écrivez le contenu suivant : "L'apprentissage par renforcement est un type d'apprentissage automatique dans lequel l'algorithme apprend par essais et erreurs. Il est souvent utilisé pour apprendre aux machines à prendre des décisions dans des environnements complexes."
+
+insérez un tableau avec 3 lignes et 2 colonnes, remplissez la première ligne avec Model Name,ChatGPT ; la deuxième rangée avec Architecture, GPT (Generative Pre-trained Transformer); la troisième ligne avec la taille des données d'entraînement, plusieurs téraoctets de données textuelles diverses.
+créez le titre "GPT" et mettez le titre en gras.
+insérer le contenu, "Generative Pre-trained Transformer 3 (GPT-3) est un modèle de langage autorégressif publié en 2020 qui utilise l'apprentissage en profondeur pour produire un texte de type humain."
+soulignez le contenu et faites en sorte que la couleur de la police de cette diapositive soit rouge foncé.
+ajouter une image de l'architecture GPT-3 à droite du contenu. ## 0, picture, content, right
+
+créez une nouvelle diapositive et définissez le titre sur "Wuthering Height" et mettez-le en italique
+Ajouter le texte "L'histoire est racontée par Lockwood, un parti désintéressé, dont le récit sert de cadre à une série de récits rétrospectifs plus courts d'Ellen Dean, une femme de ménage." Et mettre le texte en gras
+changer la couleur de la police du titre et du texte en rouge
+insérer une forme de flèche,
+la flèche est un peu petite, veuillez l'agrandir, avec une largeur de 6 et une hauteur de 4
+Créez une nouvelle diapositive et insérez un nuage,
+Insérer une image de la couverture de Wuthering Height
+Insérer le texte "Wuthering Heights, roman d'Emily Brontë, publié en 1847 sous le pseudonyme d'Ellis Bell",
+définissez la police sur Times New Roman et la taille de la police sur 18
+Insérez un tableau avec une ligne et deux colonnes. Remplissez le tableau avec "Catégorie" et "Informations" dans le tableau.
+ajoutez une note "Microsoft" dans la diapositive.
+
+créez une nouvelle diapositive et définissez le titre sur "Pride and Prejudice by Jane Austen"
+insérer le texte : "Le roman explore les thèmes de l'amour, du mariage et des attentes sociales parmi la noblesse britannique", mettez le texte en gras et soulignez
+insérer une flèche. Déplacez la flèche vers la gauche du texte. ## 1, arrow, text, left
+veuillez changer la couleur du texte en vert foncé. changer la couleur de la flèche en orange clair
+insérer un tableau avec deux colonnes et deux lignes, la première ligne écrit la catégorie, les informations ; la deuxième rangée écrit l'auteur, Jane Austen.
+insérer une image du portrait de Jane Austen
+définissez la hauteur de l'image sur 6 et déplacez-la vers le coin droit de la diapositive. ## 1, image, slide, right corner
+
+veuillez créer une nouvelle diapositive et insérer le titre "Le parcours de vie de Sirsa" et le mettre en gras
+la police est un peu petite, veuillez régler la police sur 24
+créer un tableau avec trois colonnes et quatre lignes. Insérer Enfance,0-10 ans,Scolarité au premier rang, Adolescence,11-18 ans,Lycée au deuxième rang.
+insérer une image d'une école dans la diapositive.
+déplacer l'image vers la gauche du tableau. ## 1, image, table, left
+
+Créez une nouvelle diapositive et nommez le titre "Exploring the Universe" et soulignez le titre.
+insérer une image d'une galaxie,
+Créez une liste à puces avec 5 éléments dans la partie contenu. Les éléments sont "Etoiles", "Planètes", "Nébuleuses", "Trous Noirs" et "Matière Noire".
+gras et italique le contenu,
+changer la couleur de la police du contenu en rouge foncé,
+insérez un camembert, Bâtiment d'enseignement 35%, Stade 25%, Aire de jeux 40%.
+déplacer le graphique à secteurs vers le haut de la diapositive. ## 1, pie chart, slide, top
+insérer un graphique linéaire, 1ère année 20%, 2ème année 30%, 3ème année 40%, 4ème année 10%.
+insérer un graphique à barres avec les mêmes données.
+donner à la diapositive un fond bleu.
+
+créez une nouvelle diapositive et insérez le titre "introduction"
+insérer le contenu qui Dans cet article, nous explorons comment l'utilisation de méthodes multiples et complémentaires sur une longue période de temps présente à la fois des potentiels et des pièges, ainsi que des complexités et des incertitudes.
+définir la couleur de la police du contenu en rouge
+la taille de la police du contenu est trop petite, veuillez la définir sur 20
+rendre la couleur de fond bleu clair. Doubler la taille de la police du contenu
+
+ajouter "Nanyang est une ville historique et culturelle nationale, avec un héritage historique profond et une riche accumulation culturelle." dans la partie contenu.
+ajouter une puce au contenu
+et faites la taille de la police du contenu 18. et italiquez le contenu, faites le style de police du contenu "Arial"
+Nommez la diapositive "Ma ville - Nanjing"
+Insérez une image sur Nanjing. Déplacez-le vers la droite de la diapositive. ## 0, picture, slide, right
+Maintenant, créez une nouvelle diapositive et nommez-la "Catalogue", appliquez le nom à la note.
+Mettez le titre en italique et augmentez sa taille de police à 24.
+Insérez le contenu suivant dans la partie contenu, "Un catalogue sert de ressource complète et visuellement attrayante, présentant une gamme diversifiée de produits ou de services."
+Changez la couleur de la police du contenu en vert. Donnez à la diapositive une couleur de fond bleu foncé.
+insérer un tableau avec trois lignes et deux colonnes. Écrivez Produit, Prix dans la première rangée, chemise, 29,99 $ dans la deuxième rangée, robe, 59,99 $ dans la dernière rangée.
+puis insérez un camembert, "chemise, robe, pantalon" sont la catégorie, 40%, 30% et 30% sont le pourcentage.
+utiliser un graphique linéaire pour illustrer
+Ajouter un graphique à barres avec les mêmes données.
+
+Insérez un titre : "profitez de la vie heureuse"
+Insérez une étoile en haut du titre.## 0, star, title, top
+puis définissez le style de police du titre sur "Arial Black"
+insérez le contenu suivant à double interligne : "Profiter d'une vie heureuse implique de trouver de la joie dans les petits moments, d'entretenir des relations significatives, de poursuivre des passions, de maintenir un équilibre sain entre vie professionnelle et vie privée et de prendre soin de soi."
+Insérez une image d'une personne heureuse. Déplacez l'image en haut à droite de la diapositive. ## 0, picture, slide, right top
+Définissez l'image 4 pouces de hauteur et 5 pouces de largeur. Déplacez-le en bas à gauche. ## 0, picture, slide, left bottom
+
+insérer un tableau avec une colonne et cinq lignes. La première rangée est Marathon terminé, la deuxième est Premier livre publié, la troisième rangée est Promu au poste de gestionnaire et la quatrième rangée est Plus de 100 heures de bénévolat et la dernière rangée est Entreprise réussie.
+nommer la diapositive comme "Ma grande réussite en 2023"
+insérez le texte suivant dans la partie contenu, "En 2023, j'ai franchi des étapes remarquables qui ont dépassé mes attentes. De la réalisation d'un marathon à la publication de mon premier livre et à l'obtention d'une promotion, ces succès alimentent ma volonté de croissance et m'inspirent pour atteindre même des hauteurs plus élevées."
+Insérer une image d'un livre. Déplacez-le vers le haut de la diapositive. ## 0, picture, slide, top
+Insérez un graphique circulaire et les données sont marathon 30 %, livre 25 % et bénévolat 45 %.
+Insérez un rectangle dans la diapositive. Déplacez-le vers la gauche du graphique circulaire. ## 0, rectangle, pie chart, left
+ajouter une note "2023" dans la diapositive.
+
+Définissez le titre comme : Critique littéraire éthique
+Le titre doit être en gras et bleu, se déplacer vers le bas. ## 0, title, slide, bottom
+Trouvez une image d'un paysage de montagne et insérez-la à droite. ## 0, picture, slide, right
+Insérez le contenu suivant : "La méthode de critique littéraire éthique est une nouvelle approche proposée par le professeur Nie Zhenzhao de l'Université normale de Chine centrale."
+soulignez le contenu et définissez-le dans la police Times New Roman avec une taille de police de 24 et un double interligne.
+définir la couleur de la police du contenu en bleu foncé,
+Choisissez une forme de rectangle dans le menu et dessinez-la sur la diapositive de gauche. ## 0, rectangle, slide, left
+Changez la couleur de la forme en vert et insérez "vert".
+Déplacez le rectangle vers le coin supérieur droit de la diapositive. ## 0, rectangle, slide, right corner
+Insérez une flèche et déplacez-la vers la droite du contenu. ## 0, arrow, content, right
+
+Créez une nouvelle diapositive avec le titre "Membres de l'équipe"
+Insérez une image d'un membre de l'équipe et déplacez l'image vers le bas de la diapositive. ## 0, picture, slide, bottom
+régler la largeur de l'image à 6,5 cm
+Ajoutez une note identique au titre dans la diapositive. Mettez la police du titre en gras.
+
+Créez une nouvelle diapositive et donnez-lui le titre "Performance des ventes"
+Définissez la couleur de la police sur le bleu, la taille de la police sur 24 et soulignez le titre. Définissez une couleur d'arrière-plan verte pour cette diapositive.
+Insérez le contenu suivant dans la diapositive : "La performance des ventes est un indicateur clé du succès d'une entreprise à générer des revenus. Elle reflète l'efficacité de l'équipe de vente et la demande globale du marché pour les produits ou services."
+Changez la couleur de police du contenu en rouge foncé et la taille de police en 18.
+Créez un tableau avec trois colonnes et cinq lignes. Dans la première ligne, insérez "Année, Trimestre, Chiffre d'affaires". Dans la deuxième rangée, insérez " 2018. Q1, 500 000 $ ".
+Appliquer la taille de police du contenu au titre
+
+Créez une nouvelle diapositive et ajoutez le titre "Sales Report"
+Ajoutez un graphique en courbes basé sur les données suivantes : "Produit A : 2 000 $", "Produit B : 1 500 $", "Produit C : 1 000 $".
+Nommez le graphique linéaire "Tendance des revenus".
+Insérez l'image d'un t-shirt dans la diapositive et ajoutez une légende nommée "T-shirt".
+Ajoutez une forme d'étoile et déplacez-la vers la droite de l'image. ## 1, star, image, right
+Créez une autre diapositive et nommez-la "Structure organisationnelle"
+Insérez un tableau avec deux colonnes et quatre lignes, insérez les données suivantes, PDG, John Smith dans la première ligne, CFO, Jane Doe dans la deuxième ligne, COO : Tom Jones dans la troisième ligne et CMO : Sarah Lee" dans la quatrième rangée
+souligner tous les titres.
+changez la taille de la police du contenu du titre en 20. et changez la couleur de la police en violet,
+Ajoutez une note identique au titre dans la diapositive.
+Donnez à la diapositive une couleur d'arrière-plan verte.
+
+Créez une nouvelle diapositive et nommez-la "Introduction"
+Ajoutez le texte suivant à la partie contenu : "Merci de nous avoir rejoints aujourd'hui. Nous sommes ravis de
+continuez avec "vous êtes ici et j'ai hâte de partager des nouvelles passionnantes avec vous."
+Modifiez le style de police du contenu en Times New Roman et la taille de police en 20.
+Ajoutez une photo d'un paysage de Guangdong. Redimensionnez l'image pour que sa hauteur soit de 3 pouces et sa largeur de 5 pouces
+Insérez un triangle dans la diapositive. Insérez un rectangle dans la diapositive. Faites le rectangle sur le côté droit du rectangle. ## 1, rectangle, triangle, right
+Donnez à la diapositive une couleur d'arrière-plan violette. Ajoutez une note "2023" dans la diapositive.
+
+Nommez la diapositive "Lancement de produit" et mettez le titre en gras et mettez-le en rouge.
+Insérer une image d'un ordinateur dans la diapositive
+Redimensionnez l'image et faites-lui hauteur et largeur à 2 cm
+Ajoutez le texte suivant à la partie contenu : "Notre nouveau produit est un appareil mobile à la pointe de la technologie qui associe les dernières technologies à un design élégant et convivial."
+Donnez au contenu le même style que le titre.
+Insérez une nouvelle diapositive et nommez-la "Caractéristiques du produit"
+Insérez un tableau avec 2 colonnes et 5 lignes sur la diapositive Ajoutez les données suivantes dans la première ligne : Caractéristique, Description.
+Créez un graphique à barres selon les données suivantes, Produit A 25 %, Produit B 50 %, Produit C 25 %.
+Nommez le graphique à barres " Importance des fonctionnalités ".
+Changez la couleur d'arrière-plan en bleu clair et faites en sorte que la note soit identique au titre du graphique.
+
+Créez une nouvelle diapositive et ajoutez le titre "Résultats financiers trimestriels"
+Changer le style de police du titre en Arial
+Ajoutez le texte suivant dans la partie contenu : "Notre société a réalisé un chiffre d'affaires de 1,5 million de dollars et un bénéfice de 500 000 $ ce trimestre."
+Appliquer un effet gras et souligné à la partie contenu
+Insérer un tableau avec 4 colonnes et 5 lignes sur la diapositive
+Ajoutez les données suivantes à la première ligne du tableau : Mois, Revenu, Dépenses et Bénéfice
+Insérez un graphique à barres avec les données suivantes, Q1 2022, Q2 2022, Q3 2022, Q4 2022 en X, 50, 60,55, 70 en Y.
+Nommez le graphique à barres "Résultats financiers trimestriels en 2022".
+Donnez à la diapositive une couleur d'arrière-plan rouge.
+Insérez une nouvelle diapositive et ajoutez le titre "Analyse financière"
+Insérer une image d'un logo d'entreprise dans la diapositive
+Insérer "Merci pour votre attention !" à la partie contenu. Souligner et mettre en italique le contenu. Augmentez la taille de la police du contenu à 26.
+
+Créez une nouvelle diapositive et nommez-la "Sales Data"
+Insérez un graphique à barres avec les données suivantes : "Région A : 500 000 USD ; Région B : 400 000 USD ; Région C : 600 000 USD ; Région D : 450 000 USD"
+Assurez-vous que le graphique a un titre "Regional Sales"
+Soulignez le titre de la diapositive. Ajouter une note "Source des données : Rapport sur les ventes 2023"
+
+Créez une nouvelle diapositive et assurez-vous que son titre est "Enquête client"
+Insérez un graphique à secteurs avec les données suivantes :""Très satisfait | 40%", "Satisfait | 30%", "Neutre | 20%", "Insatisfait | 5%", "Très insatisfait | 5%"
+Déplacez le graphique à secteurs vers le bas de la diapositive. ## 1, chart, slide, bottom
+Insérez une image d'un questionnaire dans la diapositive. Déplacez-le vers le haut de la diapositive. ## 1, picture, slide, top
+Ajoutez une note "2023/5" dans la diapositive.
+
+Ajoutez un nom de titre à la diapositive 0, " Le charme de la linguistique ". Définissez le fond bleu clair,
+définissez le style de police du titre sur Arial, la couleur de police sur rouge et la taille de police sur 36.
+Insérez "Salut" dans le contenu, oh non, ça devrait être " "La linguistique est l'étude scientifique du langage et de sa structure. Il explore les subtilités de la communication humaine, de la phonétique et de la syntaxe à la sémantique et à la pragmatique." jusqu'à la partie contenu.
+définissez le style de police du contenu sur Verdana, la couleur de police sur jaune, la taille de police sur 18. double espace.
+Créez une nouvelle diapositive et nommez-la "Branches of Linguistics"
+Insérer un tableau de 3 colonnes et 4 lignes,
+insérer Branches de linguistique, description, exemples dans la première rangée. " Phonétique ", " L'étude des sons de la parole ", " Phonétique articulatoire, Phonétique acoustique, Phonétique auditive " en deuxième rangée.
+Insérez une image d'un livre sur la linguistique dans la diapositive. Déplacez l'image vers le bas de la diapositive. ## 1, picture, slide, bottom
+Réglez l'image à 6 cm de hauteur et 5 cm de largeur.
+Faites en sorte que toutes les diapositives soient sur fond violet.
+
+Définissez le fond vert clair, nommez le titre "Language Families"
+Italique et gras du titre,
+insérez un graphique à barres basé sur les données, Indo-Européen, Niger-Congo, Austronésien, Sino-Tibétain comme données dans X, 445, 1526,1290, 452 comme données dans Y.
+Nommez l'histogramme "Famille de langues et son nombre de langues"
+Créez une nouvelle diapositive et nommez-la "Acquisition de la langue". Même style de titre que la diapositive précédente.
+Insérez le contenu suivant, " "L'acquisition du langage est le processus par lequel les humains acquièrent la capacité de percevoir, de comprendre et de produire le langage. Elle implique des mécanismes innés et appris et est influencée par divers facteurs tels que l'environnement et l'interaction sociale.""
+Choisissez le style de police Times New Roman, la couleur de police rouge et la taille de police 22.
+Soulignez et mettez en gras le contenu, faites en sorte que le titre et le contenu soient de la même couleur.
+insérer une image d'un livre en anglais dans la diapositive,
+insérer un carré dans la diapositive de droite, ## 1, rectangle, slide, right
+déplacer l'image vers le haut du carré. ## 1, picture, rectangle, top
+
+Nommez la diapositive "Conclusion"
+Mettez le titre en gras et soulignez-le, et mettez la couleur de la police en rouge.
+Insérer " "La linguistique est un domaine fascinant qui dévoile les complexités du langage humain. De l'étude des structures linguistiques à l'analyse des familles linguistiques et de l'acquisition, il offre un aperçu approfondi de la nature de la communication et de la cognition humaine."dans la partie contenu.
+Changez le style de police du contenu en Verdana, la couleur de la police en jaune.
+Créez quatre autres diapositives, appliquez-leur une couleur d'arrière-plan violette.
+Intitulez la diapositive 1 "Aperçu des politiques immobilières en Chine" et insérez une image de la carte de la Chine dans la diapositive.
+Diapositive de titre 2 "Modifications récentes" et mettre le titre en italique. Même style de police avec les titres précédents.
+insérer "Les changements récents en Chine ont vu une croissance économique rapide, des progrès technologiques et des transformations sociales, positionnant le pays comme une puissance mondiale et influençant la dynamique mondiale dans divers domaines." dans le contenu.
+Intitulez la diapositive 3 " Efforts pour contrôler les prix des logements " et insérez un triangle dans la diapositive.
+déplacer le triangle en haut à droite de la diapositive. ## 3, triangle, slide, right top
+Intitulez la diapositive 4 "Initiatives pour augmenter le logement abordable", et changez la couleur de la police du titre en rouge,
+insérer "Des initiatives visant à augmenter le nombre de logements abordables ont été mises en œuvre, notamment des subventions gouvernementales, des processus d'approbation simplifiés et des partenariats public-privé, visant à résoudre la crise de l'abordabilité du logement et à garantir l'accès à un logement décent pour tous." comme contenu. et souligner et mettre en italique le contenu.
+créez un diagramme circulaire en fonction des données, Subventions gouvernementales : 35 %, Processus d'approbation rationalisés : 25 %, Partenariats public-privé : 20 %, Politiques d'utilisation des terres : 10 %, Programmes d'aide à la location : 10 %.
+Créez une nouvelle diapositive et intitulez-la " Réglementation des promoteurs immobiliers ". ajouter les mêmes phrases à noter.
+Insérer "Dans cette diapositive, présentez les principales mesures prises par la Chine pour réglementer les promoteurs immobiliers et les actions du gouvernement pour prévenir la fraude et promouvoir les pratiques de développement durable." comme contenu.
+gras la partie contenu et italique le titre.
+ajouter une note "Informations sur la Chine" dans toutes les diapositives.
+
+Nommez le titre " Frontier Development of Medical Imaging Equipment ". Augmentez la taille de la police du titre à 24.
+Insérez un graphique en courbes. Les données sont : Q1 : 15 %, Q2 : 12 %, Q3 : 18 %, Q4 : 20 % et Q1, Q2, Q3, Q4 sont en X.
+Nommez le graphique "Croissance des revenus"
+Insérez un tableau avec cinq lignes et deux colonnes, insérez Fonction 1, Imagerie haute résolution dans la première ligne.
+Réglez la couleur d'arrière-plan sur bleu clair.
+Insérez un rectangle, oh non, un triangle dans la diapositive
+insérer "Le développement d'avant-garde de l'équipement d'imagerie médicale révolutionne les soins de santé avec une imagerie haute résolution, des algorithmes d'IA avancés, une analyse de données en temps réel, un confort amélioré pour le patient, une intégration multimodale et un flux de travail rationalisé, offrant aux professionnels de la santé des capacités de diagnostic sans précédent." dans le contenu.
+mettre le contenu en gras et définir le contenu avec un double espace. souligner et mettre en italique le contenu.
+ajouter une note "Équipement Médiacal" dans la diapositive.
+
+Rendre la couleur de fond bleue. Insérez un rectangle.
+Ajoutez le titre "Méthodes et approches en anthropologie" et faites en sorte que sa taille de police soit 20.
+Insérez le contenu "L'anthropologie est une science sociale qui étudie le comportement humain, la culture et les sociétés en utilisant une variété de méthodes de recherche." dans la partie contenu et définissez-le avec un double espace.
+Ajoutez une forme de cercle et déplacez-la vers la droite de la diapositive. ## 0, circle, slide, right
+définir la largeur du cercle à 4 cm.
+
+Créez une nouvelle diapositive et intitulez-la "L'importance d'une bonne hydratation".
+souligner et mettre en italique le titre.
+Changez la taille de police du titre en 24 et le style de police en Arial.
+Insérez une image d'une personne buvant de l'eau et déplacez-la sur le côté droit de la diapositive. ## 1, picture, slide, right
+Faire l'image de 6,5 cm de largeur. Ajoutez une légende sous l'image et intitulez-la "Boire de l'eau". ## 1, textbox, picture, bottom
+donnez à la diapositive une couleur d'arrière-plan violette. Créez une nouvelle diapositive et donnez-lui le même arrière-plan.
+Insérez une image d'un dossier dans la diapositive. Réglez la largeur et la hauteur de l'image sur 6,5 et 5,5.
+Ajoutez un titre à la diapositive et nommez-la "Les avantages de l'utilisation de SmartArt.". Changez la couleur de la police du titre en rouge et la taille de la police en 40 .
+Changez le style de police du titre en Arial et mettez-le en italique.
+
+Nommez le titre "Construire votre marque". et donnez à la diapositive une couleur de fond vert clair.
+Dans la section de contenu, écrivez "La création d'une marque est un élément essentiel de toute entreprise prospère. Définissez le style de police sur "Arial" et la taille de police sur 14.
+Ajoutez une forme de rectangle et déplacez-la vers la droite de la diapositive. ## 0, rectangle, slide, right
+Insérez un tableau de 3 lignes et 4 colonnes. Remplissez la première ligne du tableau avec " Brand Identity ", " Brand Messaging ", " Brand Voice " et " Brand Strategy ".
+Copiez le tableau.
+Changez la taille de la police du contenu et changez le style de police en "Times New Roman"
+
+Créez une nouvelle diapositive et insérez le titre "Les principes fondamentaux d'une communication efficace" et définissez le style de police sur Times New Roman.
+insérer les éléments suivants, "Points clés" et "Description".
+Augmentez la taille de la police des éléments à 24. Soulignez et gras les éléments.
+Définissez la couleur d'arrière-plan de la diapositive sur orange clair.
+
+Définissez la couleur d'arrière-plan sur bleu clair.
+Insérez "Tencent Meeting" dans le titre et le contenu.
+Soulignez le titre et définissez la couleur de la police sur rouge foncé.
+Renouvelez la partie contenu avec : "Tencent Meeting est une puissante plate-forme de visioconférence qui permet une collaboration et une communication transparentes entre les équipes et les individus. Elle offre une gamme de fonctionnalités pour des réunions virtuelles efficaces, notamment le partage d'écran, le chat et l'enregistrement."
+Gras et italique le contenu, idem pour le titre.
+Insérez une image de l'interface Tencent Meeting.
+
+Insérez un tableau avec trois colonnes et deux lignes.
+Entrez " Caractéristiques ", " Description " et " Avantages " dans la première ligne.
+Ajoutez une note "APP" dans la diapositive et donnez à la diapositive une couleur de fond violette.
+
+Donnez la diapositive "Quality Assessment" avec une couleur de fond bleue.
+Insérez le texte suivant dans la partie contenu : "L'évaluation de la qualité est un processus crucial pour évaluer les performances et les normes des produits ou services. Elle implique une analyse, une mesure et une comparaison approfondies pour garantir le respect des critères de qualité et l'amélioration continue."
+Insérez une image d'une liste de contrôle.
+Déplacez l'image vers la gauche du contenu, ## 0, picture, content, left
+Créez un diagramme circulaire illustrant la répartition des cotes de qualité. Incluez des catégories de données telles que " Excellent ", " Bon ", " Passable " et " Médiocre ", et la proportion est de 40 %, 15 %, 25 %, 20 %.
+Nommez le graphique à secteurs "Répartition des notes de qualité".
+Déplacez le graphique à secteurs vers le bas de la diapositive. ## 0, chart, slide, bottom
+Copiez le graphique à secteurs sur la diapositive suivante.
+
+Créez une nouvelle diapositive et donnez-lui le titre "Guide pour terminer un projet".
+Insérez une flèche dans la diapositive et déplacez-la dans le coin supérieur de la diapositive. ## 1, right_arrow, slide, top corner
+faites pivoter la flèche de 90 degrés.
+passez à la diapositive 0 et nommez la diapositive "Introduction". Gras les deux titres.
+ajoutez une note "2022/6/10" à la diapositive 0.
+donner à la diapositive une couleur de fond bleu clair. Insérez une forme de nuage dans la diapositive.
+
+Définissez la couleur d'arrière-plan sur jaune.
+Insérez le texte suivant dans la partie contenu avec un double espace :"Trados Studio est un puissant outil de traduction assistée par ordinateur (TAO) développé par SDL. Il offre une gamme de fonctions et de fonctionnalités qui rationalisent le processus de traduction, y compris la mémoire de traduction, la gestion terminologique , et des outils de gestion de projet."
+Insérer la note "Créé par Eva". Insérez le titre "Trados Studio".
+Définissez la couleur de police du titre sur vert foncé. Définissez la taille de la police sur 30.
+Insérez une image du logo Trados Studio dans la diapositive. Déplacez l'image vers la droite du contenu. ## 0, image, content, right
+Ajustez la largeur et la hauteur de l'image à 4 et 3 cm.
+Faites pivoter l'image de 15 degrés dans le sens inverse des aiguilles d'une montre.
+changer la couleur de fond en violet.
+
+Insérez un tableau avec trois colonnes et deux lignes.
+Entrez " Année ", " Description " et " Modifications " dans la première ligne du tableau.
+Nommez la diapositive "Grands changements au cours de la dernière décennie"
+gras et italique le titre.
+Définissez la couleur d'arrière-plan sur bleu clair.
+
+Ajoutez le titre " Devez-vous envisager d'étudier à l'étranger ? ", souligné et en gras.
+Insérez une photo d'étudiants qui étudient dans un pays étranger. Déplacez-le vers le bas de la diapositive. ## 0, picture, slide, bottom
+Réglez la largeur de l'image à 5 cm et la hauteur à 3 cm.
+Donnez à la diapositive une couleur d'arrière-plan violette. Ajoutez le titre à la note.
+
+Créez un graphique à barres illustrant les statistiques d'utilisation de Trados Studio parmi les traducteurs. Inclure des catégories de données telles que "Traducteurs à temps plein", "Indépendants" et "Agences de traduction" et leurs pourcentages correspondants sont de 45 %, 35 %, 20 %,
+Nommez le graphique à barres "Statistiques d'utilisation de Trados Studio".
+Créez une nouvelle diapositive et insérez le titre "ABBYY FineReader".
+soulignez le titre et mettez-le en gras, définissez la taille de la police du titre sur 30.
+Insérez le texte suivant dans la partie contenu :"ABBYY FineReader est un logiciel de reconnaissance optique de caractères (OCR) qui permet aux utilisateurs de convertir des documents numérisés, des fichiers PDF et des images dans des formats modifiables et interrogeables. Avec des capacités avancées de reconnaissance de texte et de conversion de documents, il simplifie le traitement des documents et améliore la productivité."
+définissez le contenu avec un double espace et mettez le contenu en italique.
+Insérez une image représentant ABBYY FineReader, telle que le logo ABBYY FineReader avec une légende " ABBYY FineReader ".
+Insérez un tableau avec trois colonnes et deux lignes. Entrez " Fonctionnalité ", " Description " et " Avantages " dans la première ligne.
+Déplacez l'image vers la droite du tableau. ## 1, picture, table, right
+créez un graphique à secteurs basé sur les données suivantes : "Haute précision" 45 %, "Moyenne précision" 45 % et "Faible précision" 5 %
+Nommez le graphique à secteurs "Précision de conversion de document".
+Ajoutez la note "Page 2" à la diapositive.
+
+Insérez un titre "Campagne marketing".
+souligner et mettre en gras le titre, définir sa taille de police sur 26.
+Insérez le texte suivant dans la partie contenu : "Notre campagne marketing vise à accroître la notoriété de la marque, à interagir avec notre public cible et à stimuler les ventes. Avec une combinaison stratégique de canaux marketing en ligne et hors ligne, nous nous concentrons sur la fourniture de messages percutants et de résultats mesurables ."
+Déplacez le contenu vers la gauche de la diapositive. ## 0, content, slide, left
+Insérez une image d'une bannière promotionnelle, donnez le nom de l'image ci-dessous. ## 1, textbox, picture, bottom
+régler la largeur de l'image à 5cm de hauteur,
+donner à la diapositive une couleur de fond verte.
+
+Donnez à la diapositive un titre rouge nommé "Énergie durable".
+Insérez une image liée à l'énergie durable comme une éolienne ou des panneaux solaires. Ang a fixé sa taille à 6 cm de large.
+Créez un tableau avec 3 colonnes et 4 lignes. Dans la première colonne, indiquez les énergies éolienne, solaire, hydroélectrique et géothermique. Dans la deuxième colonne, indiquez le faible coût, le faible impact sur l'environnement et la haute disponibilité. Dans la troisième colonne, indiquez les investissements initiaux élevés, la disponibilité intermittente et les conflits d'utilisation des terres.
+Déplacez l'image vers le haut du tableau. ## 0, picture, table, top
+Créez une autre diapositive et nommez son titre "Achats en ligne", de la même couleur que le titre précédent.
+Ajoutez le contenu suivant dans la partie contenu : "Les achats en ligne sont le processus d'achat de biens et de services auprès de marchands sur Internet. Il est devenu de plus en plus populaire en raison de sa commodité et de son accessibilité."
+Mettez le titre en gras et changez la couleur de la police en bleu. Faites le contenu avec un double espace.
+Créez une autre diapositive et insérez une image sur les séries télévisées. Définissez sa largeur de la même manière que l'image de la diapositive précédente.
+Donnez à la diapositive une couleur d'arrière-plan bleue. Ajoutez une note "À propos des séries télévisées" dans la diapositive.
+
+Mettez "Saines habitudes alimentaires" dans le titre. Changez l'arrière-plan de la diapositive en bleu foncé.
+Insérez le contenu "Appuyez sur lecture pour démarrer la vidéo". Faites le style de police du contenu Verdana.
+Insérez un tableau avec deux colonnes et deux lignes. Entrez "Groupe d'aliments", "Portions recommandées" dans la première ligne.
+Déplacez le tableau vers le bas du contenu. ## 0, table, content, bottom
+Insérez une image d'une personne utilisant un ordinateur portable.
+Insérez un carré dans la diapositive. Réglez sa hauteur à 2 cm.
+Ensuite, faites-le pivoter à gauche de 45 degrés.
+
+Insérez le contenu : "En conclusion, les services de télévision ont révolutionné la façon dont nous consommons le divertissement, offrant un large éventail d'options de contenu et de commodité. "
+Changez le style de police du contenu en "Futura".
+Nommez le titre "Conclusion" et mettez-le en gras.
+Insérez l'image d'une assiette colorée remplie de fruits et de légumes.
+Déplacez l'image vers le coin inférieur de la diapositive. ## 0, picture, slide, bottom corner
+changer la couleur de l'arrière-plan de la diapositive en vert.
+
+Veuillez créer une nouvelle diapositive et lui donner une couleur de fond violette,
+insérer son titre "Inconvénient",
+mettre le titre en gras et faire en sorte que la taille de la police du titre soit 24, style de police Arial.
+Ajoutez une note "2023/3/9" dans ce fichier.
+Créez un graphique à secteurs, incluant "Fruits"30 %, "Légumes"25 %, "Céréales"15 %, "Protéines"5 % et "Laits25 %".
+déplacer le graphique à secteurs vers le bas de la diapositive. ## 1, chart, slide, bottom
+Insérez une zone de texte sous le graphique à secteurs et écrivez "L'inconvénient de manger trop de nourriture est que cela vous fera grossir". dans la zone de texte. ## 1, textbox, chart, bottom
+Nommez le graphique à secteurs "Portions quotidiennes du groupe d'aliments".
+
+Insérez une flèche dans la diapositive. Définissez sa largeur sur 3,5,
+faites-le pivoter à gauche de 90 degrés.
+déplacez-le vers la droite de la diapositive. ## 0, right_arrow, slide, right
+
+Insérez le titre "Tendances technologiques" et soulignez-le.
+Définissez la couleur de la police sur vert.Définissez la taille de la police sur 26.
+Insérez le texte suivant dans la partie contenu : "Se tenir au courant des dernières tendances technologiques est essentiel dans le paysage numérique en évolution rapide d'aujourd'hui. De l'intelligence artificielle et de la blockchain au cloud computing et à l'Internet des objets, ces tendances façonnent les industries et révolutionnent la façon dont nous vivre, travailler et se connecter au monde."
+Définissez la même couleur d'arrière-plan que la couleur de police du titre.
+Insérez une image de réseaux interconnectés.
+Insérez un tableau avec trois colonnes et deux lignes. Insérez " Tendance technologique ", " Description " et " Impact " dans la première ligne.
+Créez un graphique linéaire illustrant la croissance de l'adoption de la technologie au fil du temps. Incluez les catégories de données dans X telles que "Mobile Devices", "Internet Users", "AI Applications", "Cloud Services" et "Smart Home Devices", et les valeurs correspondantes dans Y : 15,10,7,6 24 millions.
+Nommez le graphique linéaire "Valeurs technologiques".
+Insérez un graphique à secteurs avec les mêmes données et le même titre.
+
+Définissez l'arrière-plan de la diapositive avec une couleur verte.
+Insérez un titre "Sustainable Living" et mettez-le en italique.
+Ajoutez une image d'une source d'énergie renouvelable, telle qu'un panneau solaire, et déplacez-la vers la gauche de la diapositive. ## 0, picture, slide, left
+Insérez le texte suivant dans la partie contenu : "Un mode de vie durable favorise la consommation responsable, les énergies renouvelables et les pratiques respectueuses de l'environnement pour protéger l'environnement et assurer un avenir meilleur aux générations à venir. En faisant des choix conscients dans notre vie quotidienne, nous pouvons réduire notre empreinte carbone et créer un monde plus durable."
+Définissez la couleur de la police sur orange foncé.
+Créez un graphique linéaire présentant la croissance de la consommation d'énergie renouvelable au fil du temps. Inclure 2013, 2014, 2015, 2016 dans X, et les données correspondantes dans Y sont 1,6, 2,4, 4,8 et 11 millions.
+Nommez le graphique linéaire "Tendance de la consommation d'énergie renouvelable".
+Déplacez le graphique en courbes vers le bas du titre. ## 0, chart, title, bottom
+Insérez une forme de nuage dans la diapositive. Faites pivoter le nuage de 30 degrés dans le sens inverse des aiguilles d'une montre.
+
+Insérez un tableau avec quatre colonnes et trois lignes.
+Insérez trois éléments dans la première colonne "Régime équilibré", "Contrôle des portions" et "Hydratation".
+Insérez une image d'une ville verte dans la diapositive.
+Déplacez l'image vers le haut de la diapositive.## 0, picture, slide, top
+Déplacez le tableau vers le bas de la diapositive.## 0, table, slide, bottom
+
+Insérez un titre "Gestion de projet" .
+Ajoutez une image d'une équipe collaborant sur un projet.
+Souligner et mettre en italique le titre.
+Déplacez l'image en haut à gauche de la diapositive. ## 0, image, slide, left top
+
+Insérez le titre " Rapport d'avancement du projet ".
+Créez un tableau avec trois colonnes et cinq lignes, insérez les noms des tâches, les délais et l'état d'avancement dans la première ligne.
+Définissez la couleur d'arrière-plan sur violet, le titre sur vert.
+
+Insérer le titre "Université et Ecole Professionnelle"
+Ajustez la taille de la police à 36, et soulignez le titre,
+Insérez le texte suivant dans la partie contenu : "Les écoles universitaires et professionnelles offrent un enseignement supérieur et une formation spécialisée pour doter les étudiants des connaissances et des compétences nécessaires pour réussir leur carrière. Ces établissements offrent un large éventail de programmes universitaires, d'opportunités de recherche et de développement professionnel pour favoriser l'épanouissement personnel et l'avancement professionnel."
+Définissez le contenu avec un double espace.
+Donnez à la diapositive une couleur d'arrière-plan verte. Umm, changez-le en violet.
+
+Insérez une image d'un environnement scolaire professionnel.
+Déplacez l'image sur le côté droit de la diapositive. ## 0, picture, slide, right
+Insérez un triangle dans la diapositive et déplacez-le vers le côté gauche de la diapositive. ## 0, triangle, slide, left
+Augmentez la largeur du triangle à 10 cm et la hauteur à 15 cm.
+Assurez-vous que l'image se trouve sous le triangle. ## 0, picture, triangle, below
+
+Créez une nouvelle diapositive et donnez-lui un fond bleu.
+Insérez le titre "NFC" et mettez le titre en gras.
+Insérez le texte suivant dans la partie contenu : "NFC (Near Field Communication) permet une communication sans fil transparente entre des appareils à proximité."
+Définissez la couleur de la police sur vert foncé, définissez la taille de la police sur 20.
+Insérez une image d'un logo NFC dans la diapositive.
+Définissez la couleur d'arrière-plan sur violet.
+déplacer l'image vers la droite du contenu. ## 1, picture, slide, right
+
+Insérez un tableau avec quatre colonnes et deux lignes. Insérez " Produit ", " Revenu ", " Unités vendues " et " Marge bénéficiaire ". dans la première rangée.
+Donnez à la diapositive une couleur de fond bleu clair.
+
+Créez un graphique linéaire illustrant la croissance des appareils compatibles NFC au fil du temps. Les données sur X sont 2018. 2019,2020 et 2021. Les données correspondantes sont 500000 ; 1300000,2500000,4000000 représentant le nombre d'appareils compatibles NFC.
+Nommez le graphique linéaire "NFC Device Growth".
+Insérez un tableau avec trois colonnes et deux lignes. Insérez sans contact, permet des transactions tactiles, des paiements pratiques et plus rapides dans la deuxième rangée.
+Insérez une étoile et faites sa largeur et sa hauteur à 6,5 cm.
+Déplacez l'étoile vers le haut du tableau. ## 0, star, table, top
+Déplacez l'étoile vers la droite du tableau. ## 0, star, table, right
+
+Insérez un titre et mettez-le en gras : "Embracing Disruption"
+Faites la taille de police du titre 20 et le style de police "Times New Roman"
+Insérez une image d'un paysage urbain futuriste pour représenter la transformation numérique et l'innovation.
+Déplacez l'image vers le bas de la diapositive. ## 0, picture, slide, bottom
+ajouter la note "Créé par [Votre nom]." à la diapositive. Donnez à la diapositive un fond violet.
+Pas si bon. Changez la couleur de fond en bleu clair.
+
+Insérez le titre "Power Bank" et déplacez-le dans le coin gauche de la diapositive. ## 0, title, slide, left corner
+augmentez la taille de la police du titre en 24 et mettez-le en italique.
+Insérez le texte suivant dans la partie contenu : "Une banque d'alimentation est un appareil portable qui permet de recharger en déplacement des smartphones, des tablettes et d'autres appareils électroniques."
+souligner le contenu, et le faire avec un double espace, même taille du titre, et définir sa couleur de police en orange,
+Insérez une image de la banque d'alimentation Yoobao dans la diapositive. Déplacez-le vers le bas de la diapositive. ## 0, picture, slide, bottom
+Insérez un tableau avec quatre colonnes et trois lignes. Entrez les données suivantes dans le tableau : marque, capacité (mAh), ports de sortie, prix ($) dans la première ligne.
+Créez un diagramme circulaire illustrant la part de marché des différentes marques de banque d'alimentation. Les données sont la marque A, 40 % ; Marque B 30 %, Marque C 20 % et Autres 10 %.
+Insérez le graphique à secteurs "Part de marché de Power Bank".
+Ajoutez une note "2023" dans cette diapositive.
+Insérez une forme de légende dans le côté droit de la diapositive. ## 0, callout, slide, right
+
+Insérez le titre "NBA" et définissez la couleur de la police sur rouge.
+Insérez le texte suivant dans la partie contenu : "La National Basketball Association (NBA) est une ligue de basket-ball professionnelle composée de 30 équipes d'Amérique du Nord."
+la taille de la police des mots est trop petite, réglez la taille de la police sur 20.
+Déplacez le contenu vers le coin inférieur de la diapositive. ## 0, content, slide, bottom corner.
+
+Insérez une image d'un terrain de basket dans la diapositive.
+Déplacez l'image vers le haut de la diapositive. ## 0, picture, slide, top
+Ajoutez une zone de texte indiquant le nom de l'image. Changez l'arrière-plan en bleu.
+Insérez un tableau avec quatre lignes et trois colonnes.
+Entrez les données suivantes dans le tableau : Équipe, Ville, Championnats au premier rang, Los Angeles, Lakers, 17 au deuxième rang, Boston, Celtics, 17 au troisième rang et Chicago, Bulls, 6 au quatrième rang.
+Créez un graphique à barres en fonction des données du tableau, les données X sont les Lakers, les Celtics et les Bulls, les données Y sont 17, 17 et 6.
+Nommez le graphique à secteurs "Répartition des championnats NBA".
+Créez une nouvelle diapositive et soulignez le titre "Introduction à la conduite autonome".
+Insérez une image d'une voiture autonome futuriste sur la diapositive. Réglez la hauteur de l'image sur 7 cm.
+Insérez le texte suivant dans la partie contenu : "La conduite autonome, également connue sous le nom de technologie de conduite autonome ou sans conducteur, fait référence à des véhicules capables de naviguer et de fonctionner sans intervention humaine."
+Déplacez le contenu vers le coin inférieur de la diapositive. ## 1, content, slide, bottom corner
+insérer une flèche dans la diapositive. Déplacez-le à gauche du contenu. ## 1, right_arrow, content, left
+Oh, déplacez la flèche à droite du contenu. ## 1, right_arrow, content, right
+
+Insérez le contenu suivant : "La conduite autonome révolutionne l'industrie du transport en offrant une sécurité, une commodité et une efficacité accrues."
+Augmentez la taille de la police du contenu à 18 et mettez le contenu en gras et en italique.
+Soulignez également le contenu et définissez-le avec un double espace.
+Insérez un tableau avec cinq colonnes et deux lignes. La première ligne indique Types de capteurs, Lidar, Radar, Caméras, Total.
+Changez le style de police du contenu en "Times New Roman".
+Créez un diagramme circulaire illustrant la répartition des types de capteurs utilisés dans les systèmes de conduite autonome. Les données sont Lidar 40 %, Radar 30 %, Caméras 30 %.
+Nommez le graphique à secteurs "Types de capteurs dans la conduite autonome".
+Ajoutez une note du nom du graphique à secteurs dans la diapositive.
+
+Nommez la diapositive "Conduite autonome"
+Insérez une image du logo d'une entreprise et déplacez-la en bas à gauche de la diapositive. ## 0, picture, slide, left bottom
+Définissez la largeur et la hauteur du logo sur 6,5 cm et 6 cm respectivement.
+Créez une nouvelle diapositive et insérez le titre "Adoption de la conduite autonome par région".
+Définissez la police du titre sur "Calibri" et la taille de la police sur 32.
+Tapez la déclaration suivante : "Les technologies de conduite autonome transforment le paysage des transports, révolutionnent les industries et améliorent la sécurité et l'efficacité."
+Changez la couleur de la police du contenu en orange foncé.
+
+Créez une nouvelle diapositive. Tapez le titre comme "Le pouvoir de planter". Définissez la police du titre sur "Calibri" avec une taille de police de 36.
+Appliquez un arrière-plan de couleur verte.
+Inclure le contenu suivant : "La plantation non seulement embellit notre environnement, mais favorise également la durabilité environnementale et offre une multitude d'avantages pour la santé." dans la partie contenu.
+Faites en sorte que le contenu et le titre soient verts.
+Insérez une image d'un jardin luxuriant dans la diapositive,
+Créez un diagramme circulaire en fonction des données, Environnement 40 %, Santé 30 % et Communauté 30 %.
+Nommez le graphique à secteurs "Bénéfices de la plantation".
+Déplacez le graphique à secteurs vers le bas de l'image. ## 1, chart, image, bottom
+Insérez une flèche dans la diapositive. Faites-le pivoter de 60 degrés.
+Réglez sa hauteur à 2 cm et sa largeur à 4 cm. Tapez "Page 2" comme note dans la diapositive.
+
+Insérez un tableau avec quatre colonnes et trois lignes.
+Entrez les données suivantes dans la première ligne du tableau, Planting Benefits, Environmental, Health, Community.
+Définissez la couleur d'arrière-plan de la diapositive sur le vert.
+Nommez align_slide_center comme "Autres informations",
+souligner le titre et définir sa couleur de police en orange foncé,
+déplacer le titre dans le coin supérieur de la diapositive. ## 0, title, slide, top corner
+
+Insérez une image du logo Google dans la diapositive avec une boîte de légende "Google".
+Insérez le texte suivant dans la partie contenu : "Google et Microsoft Edge sont deux navigateurs Web populaires qui offrent des caractéristiques et des fonctionnalités uniques. Alors que Google Chrome domine le marché avec sa vitesse et son écosystème étendu, Microsoft Edge vise à fournir une expérience de navigation transparente et une intégration avec les systèmes d'exploitation Windows."
+Définissez le contenu avec un double espace et faites la taille de police 16.
+Insérez le titre "Google vs Microsoft Edge". Définissez la couleur de la police sur rouge.
+Déplacez l'image vers le coin inférieur de la diapositive. ## 0, picture, slide, bottom corner
+Insérez un tableau avec trois colonnes et trois lignes. La première ligne écrit Fonctionnalités, Google Chrome, Microsoft Edge. La deuxième indique Vitesse, Élevé, Modéré, la troisième ligne indique Écosystème, Étendu, Intégré.
+Créez un graphique à barres comparant la part de marché de Google Chrome et de Microsoft Edge. Google Chrome est à 50 %, Microsoft Edge à 25 % et Autres à 25 %.
+Nommez le graphique à barres "Part de marché du navigateur Web". Ajoutez "Page 1" comme note dans la diapositive.
+
+Donnez à la diapositive une couleur d'arrière-plan bleue. Insérez le titre "Réseautage et LinkedIn"
+Insérez le texte suivant dans la partie contenu : "Le réseautage joue un rôle crucial dans le développement de carrière, et LinkedIn est une plate-forme puissante pour le réseautage professionnel. Avec des millions d'utilisateurs dans le monde, LinkedIn offre une gamme de fonctionnalités pour se connecter avec des professionnels, mettre en valeur les compétences et découvrir les opportunités d'emploi."
+Définissez la couleur de la police du titre sur rouge foncé et le contenu sur rouge clair.
+définissez le style de police du titre et du contenu sur Arial.
+Soulignez le titre et mettez en italique le contenu. Augmentez la taille de la police du contenu à 24.
+Créez un graphique à secteurs illustrant la répartition des utilisateurs de LinkedIn par secteur, sur la base des données suivantes : Technologie 30 %, Finance 20 %, Santé 15 %, Marketing 10 %, Autres 25 %
+Nommez le graphique à secteurs "Répartition des utilisateurs LinkedIn".
+insérez le graphique linéaire avec les mêmes données.
+insérez le graphique à barres avec les mêmes données.
+
+Créez une nouvelle diapositive et insérez le titre "Different Cookers"
+Insérez le texte suivant dans la partie contenu : "Il existe différents types de cuisinières disponibles qui répondent à différents besoins de cuisson. Des cuisinières traditionnelles aux cuisinières électriques avancées et aux tables de cuisson à induction modernes, chaque type offre des caractéristiques et des avantages uniques."
+Insérez un tableau avec quatre colonnes et trois lignes. Insérez Type de cuisinière, Caractéristiques, Avantages dans la première rangée. Insérez la cuisinière, les brûleurs à gaz ou électriques, le contrôle précis de la chaleur dans la deuxième rangée.
+Créez un graphique à secteurs basé sur les données suivantes, Cuisinière 40 % ; Cuisinière électrique 25 % ; Table de cuisson à induction 20 % ; Mijoteuse 10 % ; Friteuse à air 5%.
+insérez le titre du diagramme à secteurs " Popularité du type de cuisinière ".
+Insérez une image d'une cuisinière dans la diapositive.
+Réglez la largeur de l'image sur 7 cm et sa hauteur sur 6 cm.
+déplacer l'image vers la droite de la diapositive. ## 1, picture, slide, right
+déplacer l'image sur le côté gauche de la diapositive. ## 1, picture, slide, left
+Passez à la diapositive 0 et donnez-lui une couleur d'arrière-plan verte.
+
+Insérez le titre "Découvrez le délice d'Oreo"
+Gras et italique du titre.
+Définissez la taille de la police sur 30.
+Insérez le texte suivant dans la partie contenu : "Oreo, le biscuit sandwich emblématique, est un régal préféré pour les personnes de tous âges. Avec sa combinaison irrésistible de gaufrettes au chocolat et de garniture crémeuse, Oreo offre une délicieuse expérience de collation qui apporte de la joie à tous mordre."
+Définissez la couleur de police du contenu sur bleu foncé.
+Insérez une image de biscuits Oreo dans la diapositive,
+déplacer l'image vers le coin droit de la diapositive. ## 0, picture, slide, right corner
+insérez une forme d'étoile dans la diapositive. déplacer l'étoile vers le coin gauche de la diapositive. ## 0, star, slide, left corner
+insérez un graphique circulaire et linéaire dans la diapositive, les données sont Original 40 %, Menthe 10 %, Beurre de cacahuète 50 %.
+Je veux un graphique à barres avec les mêmes informations mais avec "Oreo Flavor Popularity".
+
+Définissez une couleur d'arrière-plan violette sur la diapositive.
+Définissez le titre de la diapositive sur "Variations saisonnières" et mettez-le en gras et en italique .
+Insérez le texte suivant dans la partie contenu : "Les variations saisonnières apportent un charme distinct à nos vies. Des couleurs vibrantes du printemps aux teintes chaudes de l'été, en passant par l'ambiance chaleureuse de l'automne et les paysages sereins de l'hiver, chaque saison offre un expérience unique. Embrassez la beauté de la transformation de la nature tout au long de l'année."
+Changez le style de police du contenu en Arial. changer la taille de la police du contenu en 18.
+Insérez un tableau avec quatre colonnes et quatre lignes. Insérez la saison, la température moyenne, les principales caractéristiques, les activités dans la première ligne.
+Insérez une forme de légende dans la diapositive. Déplacez-le vers la gauche de la diapositive. ## 0, callout, slide, left
+
+Insérer le titre "Météo dans le Guangdong : un climat de diversité"
+déplacer le titre dans le coin gauche de la diapositive. ## 0, title, slide, left corner
+Insérez le texte suivant dans la partie de contenu à double interligne : "Le Guangdong connaît un large éventail de conditions météorologiques tout au long de l'année. Des journées chaudes et ensoleillées aux pluies occasionnelles, aux matins brumeux et au ciel nuageux, le climat du Guangdong est diversifié et dynamique. Explorez les différentes saisons et conditions météorologiques dans cette région dynamique."
+Insérez une image d'une plage ensoleillée dans la diapositive et déplacez-la dans le coin droit de la diapositive. ## 0, picture, slide, right corner
+Insérez un tableau avec deux colonnes et deux lignes. Dans la première ligne, insérez Saison et Température moyenne. dans la deuxième rangée, insérez le ressort 20-28℃.
+donnez à la diapositive une couleur d'arrière-plan violette.
+déplacer le tableau vers le bas de la diapositive. ## 0, table, slide, bottom
+insérez une forme de nuage dans la diapositive et déplacez-la vers la gauche du tableau. ## 0, cloud, table, left
+
+insérez une image d'un lever de soleil dans la diapositive.
+réglez la largeur de l'image à 6 cm. Faites-le carré.
+Insérez le titre "Le pouvoir de la pensée positive : Adopter l'optimisme", en italique et en gras.
+Insérez le texte suivant dans la partie contenu avec le même style que le titre : "La pensée positive est un état d'esprit qui se concentre sur l'optimisme, la résilience et la confiance en soi. En cultivant des pensées et des attitudes positives, nous pouvons améliorer notre bien-être, surmonter les défis , et créez une vie plus heureuse et plus épanouissante. Embrassez le pouvoir de la pensée positive et libérez votre véritable potentiel."
+rendre la couleur de police du contenu violet et la taille de police 20.
+ajoutez une note "pensée positive" dans la diapositive.
+
+Insérez un tableau avec trois colonnes et quatre lignes. Saisissez les données suivantes dans le tableau : Avantages,Description,Exemples dans la première ligne. Insérez " Amélioration du bien-être " dans la première cellule de la deuxième ligne.
+Insérez le texte suivant dans la partie contenu : "La pensée positive est un état d'esprit qui se concentre sur l'optimisme, la résilience et la confiance en soi. En cultivant des pensées et des attitudes positives, nous pouvons améliorer notre bien-être, surmonter les défis et créer une vie plus heureuse et une vie plus épanouissante. Embrassez le pouvoir de la pensée positive et libérez votre véritable potentiel."
+Mettez le contenu en italique et changez la couleur de la police en bleu clair.
+donner à la diapositive une couleur de fond vert clair.
+Insérez et mettez en gras le titre "Définition" dans la diapositive.
+Déplacez le titre dans le coin supérieur de la diapositive. ## 0, title, slide, top corner
+Insérez une image d'un groupe de personnes en train de rire dans la diapositive de droite. ## 0, picture, slide, right
+
+Insérer le titre " Classification des ordures : Promouvoir la gestion durable des déchets " Insérer le texte suivant dans la partie contenu : "La classification des ordures est une pratique cruciale dans la promotion de la gestion durable des déchets. En triant et en éliminant correctement les déchets, nous pouvons réduire la pollution de l'environnement, préserver les ressources , et contribuez à une planète plus propre et plus saine. Assumez la responsabilité de la classification des déchets et ayez un impact positif sur notre environnement."
+souligner le contenu et définir sa couleur de police en orange,
+changer la taille de la police du contenu en 18.
+changer le style de police du titre et du contenu en Times New Roman.
+insérer une flèche dans la diapositive. Déplacez-le vers le coin droit de la diapositive. ## 0, arrow, slide, right corner
+Définissez la largeur de la flèche sur 4,0 et la hauteur sur 3,0.
+Tourner à gauche de 90 degrés.
+Créer un graphique à barres illustrant les taux de recyclage des différents déchets. Incluez les catégories de données en tant que données sur l'axe X, telles que "Papier", "Plastiques", "Verre", "Métaux" et "Déchets organiques". Inclure les taux de recyclage correspondants sur l'axe Y avec 60 %, 50 %, 45 %, 40 %, 40 %. Nommez le graphique à barres "Taux de recyclage des déchets".
+Insérez une image d'un bac de recyclage dans la diapositive.
+créez une nouvelle diapositive et donnez-lui une couleur d'arrière-plan violette.
+nommez la nouvelle diapositive "Déchets organiques", de la même taille que le contenu de la diapositive précédente.
+Insérez le texte suivant dans la partie contenu : "Les déchets organiques jouent un rôle important dans la vie durable. En compostant les matières organiques telles que les restes de nourriture, les déchets de jardin et les résidus agricoles, nous pouvons réduire les déchets d'enfouissement, enrichir la qualité du sol et fermer le cycle des nutriments . Adoptez la pratique du compostage et contribuez à un avenir plus vert.
+
+Créez une nouvelle diapositive et insérez le titre "Oldroyd's film of Lady Macbeth" en caractères gras
+Veuillez souligner le titre et définir la taille sur 28
+Insérer du contenu "Le scénario de Birch introduit quelques changements majeurs dans le récit de Leskov. Par exemple, Birch et Oldroyd éliminent entièrement les épisodes de Sibérie et choisissent de supprimer le suicide de Katherine."
+Définissez la taille de la police du contenu sur 20 et mettez le contenu en gras.
+changer la couleur de la police du contenu en jaune, la couleur du titre en rouge.
+insérer une image du film de Lady Macbeth par Oldroyd à la diapositive,
+définir la largeur de l'image au carré 8cm,
+déplacez-le vers la droite du contenu, ## 1, picture, content, right
+Non, déplacez-le vers la gauche du contenu, ## 1, picture, content, left
+Insérez un tableau avec trois lignes et deux colonnes.
+Dans la première ligne, insérez Film Character, Actor/Actress. Dans la deuxième rangée, insérez Lady Macbeth,Florence Pugh. Dans le troisième, insérez Macbeth, Cosmo Jarvis.
+ajoutez une note "1er mai" dans la diapositive.
+Changez la couleur de fond en violet.
+
+Créez une nouvelle diapositive et faites le titre "L'importance de l'exercice" et soulignez le titre,
+Veuillez définir la taille de la police du titre sur 24 et la couleur de la police sur le vert.
+Insérer du texte : "L'exercice régulier peut améliorer la santé cardiovasculaire, stimuler l'humeur et augmenter les niveaux d'énergie."
+Définissez la taille de la police du contenu 20 et mettez le contenu en gras,
+changer la couleur de la police du contenu en rouge,
+Insérez une image liée à l'exercice, comme une personne faisant du jogging ou du yoga.
+Créer un diagramme circulaire basé sur les données, santé cardiovasculaire, 10 % ; force musculaire 30 %, bien-être mental 50 % et prévention des maladies 10 %.
+Insérez un tableau avec cinq lignes et deux colonnes. Insérez les types d'exercices (par exemple, cardio, musculation, flexibilité) dans la première colonne et les avantages (par exemple, amélioration de l'endurance, augmentation du tonus musculaire, amélioration de la flexibilité) dans la deuxième colonne.
+déplacer le tableau vers la droite de l'image. ## 1, table, picture, right
+insérez une forme d'étoile dans la diapositive et donnez à la diapositive une couleur de fond violette.
+déplacer l'étoile en bas à droite de la diapositive. ## 1, star, slide, right bottom
+régler la largeur de l'étoile 8cm, hauteur 4cm.
+
+Créez une nouvelle diapositive et donnez-lui le titre "Les avantages de la lecture", veuillez souligner le titre et définir la taille de la police sur 24
+Insérer du texte : "La lecture peut améliorer la fonction cognitive, augmenter l'empathie et réduire le stress."
+gras et italique le contenu,
+Changez le style de police du contenu en Arial. Changez la couleur de la police en vert.
+Veuillez insérer l'image d'une personne lisant un livre sur un banc de parc
+Créez un graphique à barres, y compris les catégories de données fiction, non-fiction, biographies, auto-assistance et fantaisie dans X, montant de publication 1400 992 400 661, 234 dans Y en conséquence.
+Nommez le graphique à barres "Ventes de livres"
+Insérez un tableau avec trois colonnes et trois lignes.
+Incluez les informations suivantes dans le tableau, les avantages de la lecture, l'amélioration des connaissances, l'expansion du vocabulaire dans la première colonne.
+donner à la diapositive une couleur de fond rouge,
+ajouter une note "Lire des livres" dans la diapositive.
+créez une nouvelle diapositive avec le même arrière-plan et insérez une image d'une horloge dans la diapositive.
+Ajustez la taille de l'image à 10 cm de largeur et 15 cm de hauteur.
+ajoutez une note "À PROPOS DE LA LECTURE" dans la diapositive.
+
+Créez une nouvelle diapositive et insérez le titre "Les avantages du bénévolat" et soulignez-le
+Veuillez définir la couleur de la police du titre sur rouge foncé et définir la taille sur 30
+Tapez "Le bénévolat peut augmenter le bonheur, améliorer les compétences sociales et donner un sens à l'action."
+changer la couleur de la police du contenu en vert,
+mettre le contenu en gras et changer la taille de la police du contenu en 18.
+déplacer le contenu vers le coin inférieur de la diapositive. ## 1, content, slide, bottom corner
+Veuillez insérer l'image d'un groupe de bénévoles travaillant ensemble sur un projet communautaire
+déplacer l'image en bas à gauche de la diapositive. ## 1, picture, slide, left bottom
+Insérez un tableau avec trois colonnes et trois lignes. insérez Avantages, croissance personnelle, liens sociaux dans la première colonne.
+mettre le contenu en gras et augmenter sa taille de police à 20.
+Créez un graphique à barres illustrant les différents domaines du bénévolat. Incluez des catégories de données telles que données dans X, service communautaire, éducation, soins de santé, conservation de l'environnement et secours en cas de catastrophe. Inclure la proportion dans Y, 25 %, 45 %, 10 %, 15 %, 5 %.
+Nommez le graphique à barres "Importance du bénévolat"
+
+Définissez la couleur d'arrière-plan sur violet.
+Insérez le titre "Format CAJ". souligner le titre et mettre le titre en italique,
+Définissez la couleur de la police du titre sur la couleur d'arrière-plan.
+Insérez le texte suivant dans la partie contenu : "Le format CAJ est un format de fichier largement utilisé en Chine pour les articles universitaires et les documents de recherche. Il fournit une structure et une mise en page normalisées pour un partage et une publication efficaces."
+définissez le contenu avec un double espace.
+changez le style de police du texte en "Arial" et mettez le texte en gras.
+Définissez la couleur de police du contenu sur vert.
+Déplacez le contenu vers le haut de la diapositive. ## 0, content, slide, top
+Insérez une image d'un exemple de document au format CAJ.
+Déplacez l'image vers le coin supérieur de la diapositive. ## 0, picture, slide, top corner
+Insérez un tableau avec trois colonnes et deux lignes.
+Entrez "Section", "Titre" et "Contenu" dans la première ligne.
+Créez une nouvelle diapositive et créez un graphique à barres pour illustrer l'utilisation de différents formats de fichiers. Incluez les catégories de données sur l'axe X, telles que "CAJ", "PDF", "DOC", "PPT" et "XLS". Incluez la proportion d'utilisation sur l'axe Y, par exemple 30 %, 25 % , 20 %, 15 % et 10 %.
+Nommez le graphique à barres "Utilisation du format de fichier".
+Ajoutez une note "Format de fichier" dans la diapositive et faites en sorte que l'arrière-plan soit identique aux autres diapositives.
+
+Insérer du texte : "La tenue d'un journal peut réduire le stress, améliorer la mémoire et augmenter la conscience de soi."
+Soulignez le contenu et changez la taille de la police du contenu en violet,
+nommez la diapositive "Journaling"
+Mettez le titre en italique et transformez le style de police du titre en Arial,
+Veuillez insérer l'image d'une personne écrivant dans un journal
+déplacer l'image vers le bas de la diapositive, ## 0, picture, slide, bottom
+insérez une forme d'étoile dans la diapositive sur le côté droit de la diapositive. ## 0, star, slide, right
+faire pivoter l'étoile de 60 degrés.
+
+Créez une nouvelle diapositive et nommez le titre "Les avantages du jardinage". Veuillez définir la taille de la police du titre sur 28 et mettre le titre en gras
+Insérer du texte : "Le jardinage peut réduire le stress, améliorer la santé physique et augmenter la créativité."
+Mettez le texte en italique et changez le style de police du texte en "Arial"
+Insérez une forme de nuage dans la diapositive de droite. ## 1, cloud, slide, right
+déplacez la forme du nuage vers la gauche du titre. ## 1, cloud, title, left
+Veuillez insérer l'image d'une personne travaillant dans un jardin. Définissez la largeur de l'image sur 10 cm.
+Créez une nouvelle diapositive et donnez-lui un arrière-plan bleu clair.
+Insérez un triangle dans la diapositive de gauche. ## 2, cloud, slide, left
+faites la hauteur du triangle de 15 cm et faites pivoter le triangle de 45 degrés.
+
+Veuillez créer une nouvelle diapositive avec le titre "Sociétés informatiques".
+Emmm, il est préférable d'utiliser la police Times en gras et la taille du titre doit être de 32.
+Oui, je veux une image du logo de la société Apple avec une hauteur et une largeur réglées sur 2.
+Créez un tableau sur les revenus annuels d'Apple avec 2 lignes et 3 colonnes. La première ligne est "2020", "2021", "2022". La deuxième ligne est "274B", "365B", "394B".

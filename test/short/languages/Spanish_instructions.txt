@@ -1,0 +1,1876 @@
+Mueva la parte del título a la esquina inferior y rellénela con "Evaluación humana". ## 0, title, slide, bottom corner
+Rellene el contenido con "Generalmente, la traducción es calificada de forma anónima por varios revisores, y luego la puntuación final se obtiene combinando los resultados de la evaluación de todos los revisores".
+Inserta una tabla con dos filas y dos columnas.
+Agregue "Ventajas" y "Desventajas" en los dos espacios en blanco de la izquierda. Agregue "Refleje con precisión la calidad de traducción de las oraciones, la más autorizada, la más alta credibilidad y "Evaluación a largo plazo" en los dos espacios en blanco correctos.
+Ajuste el tamaño de fuente del contenido a 20. Cambie el estilo de fuente a "Arial".
+Inserte una imagen de un café en la diapositiva izquierda. ## 0, picture, slide, left
+Mueva la imagen al lado derecho de la diapositiva. ## 0, picture, slide, right
+Crea una nueva diapositiva. Haga que el título de la nueva diapositiva sea "Estándar de calificación" y la parte del cuerpo "Evaluación directa" y "Clasificación relativa".
+Cambie el color de fuente del título a verde y agregue dos viñetas.
+Cambia el tamaño de fuente del título a 24 y el del contenido a 20.
+
+Inserta una imagen de la torre. Muévalo a la parte inferior de la diapositiva. ## 0, picture, slide, bottom
+Complete el título con "Contenido" y muévalo a la parte superior de la imagen. ## 0, title, picture, top
+Crea un rectángulo verde.
+Cambia el color del título al color del triángulo.
+Cambie el tamaño de fuente del título a 24.
+Cambie el estilo de fuente del título a "Arial" y duplique el tamaño de fuente.
+Emm, cambia el estilo de fuente del título a "Microsoft New Tai Lue".
+
+Dale a la diapositiva un color de fondo verde.
+Crea una forma de nube. Muévalo a la parte inferior de la diapositiva. ## 0, cloud, slide, bottom
+Complete el contenido con "Corres tan lento".
+Inserta una imagen de conejo. Mueva la imagen del conejo al lado derecho de la diapositiva. ## 0, picture, slide, right
+Inserte el contenido, "Un día, hay una carrera entre un conejo y una tortuga".
+Crea una nueva diapositiva y el contenido es "Algún día ganaré". Mover el contenido a la parte superior. ## 1, content, slide, top
+
+Inserte una imagen sobre el estudio en el medio de la diapositiva. ## 0, picture, slide, center
+Crea un cuadrado. Muévalo al centro de la diapositiva. ## 0, rectangle, slide, center
+Nombra el título como "League of Legends". Inserta el siguiente texto en la parte del contenido, "League of Legends es un juego basado en equipos con más de 140 campeones para hacer jugadas épicas. Juega ahora gratis. Juega gratis".
+El estilo de fuente y tamaño de fuente del título debe ser "Times New Roman" y 24.
+Ajuste el ancho y la altura de la imagen a 6 pulgadas y 5 pulgadas.
+Gire la imagen unos 15 grados.
+Cree una nueva diapositiva e inserte una imagen de un niño sosteniendo un libro.
+Mueva la imagen al centro de la diapositiva. ## 1, picture, slide, center
+Haga el título "Cómo desempeñarse mejor en la escuela".
+
+Inserta una nube. Hazlo en el lado izquierdo. ## 0, cloud, slide, left.
+Inserte un reloj. Hazlo en el lado derecho. ## 0, picture, slide, right.
+Haz que el color de fondo sea azul claro. Nombre el título de la diapositiva como "Inteligencia artificial".
+Inserte el siguiente contenido en la parte de contenido, "El impacto de la inteligencia artificial en la sociedad es ampliamente debatido. Muchos argumentan que la IA mejora la calidad de la vida cotidiana al realizar tareas rutinarias e incluso complicadas mejor que los humanos, haciendo la vida más simple, segura y eficiente. . "
+Cambie el color de fuente del contenido a verde claro.
+
+Cree una nueva diapositiva y agregue un título rojo a la diapositiva que diga "Programar en marzo".
+Haz que el tamaño de fuente del título sea 28 y el color azul oscuro.
+Inserte una tabla con una fila y tres columnas, y complete la primera fila con "estudio del 1 al 10", "trabajo del 11 al 20" y "viaje del 21 al 31".
+Cambia el estilo de fuente del título a "Arial".
+Inserta una foto de un niño feliz. Muévelo al lado derecho de la mesa. ## 1, picture, table, right
+Aplica un fondo azul a la diapositiva.
+Establecer la imagen de 6,5 pulgadas de ancho y 5 pulgadas de alto.
+Emm, ahora el color de fondo no es bueno. Cámbialo a amarillo.
+
+Cree una nueva diapositiva y asígnele el nombre "Los beneficios de la meditación".
+Inserte una imagen de una persona meditando y colóquela en el centro de la diapositiva. ## 1, picture, slide, center
+Escribe "La meditación es una técnica simple pero poderosa que puede ayudarte a lograr un estado de paz interior y tranquilidad". en la parte de contenido.
+Cambie el tamaño de fuente del contenido a 24 y establezca el color de fuente en azul oscuro.
+Inserta un rectángulo. Póngalo en el lado derecho del contenido. ## 1, rectangle, content, right
+Cambia el color del fondo a verde claro.
+Cree una nueva diapositiva con el mismo fundamento e inserte el título "Tipos de meditación".
+Cambie el estilo de fuente del título a "Arial".
+Inserta una tabla con dos columnas y tres filas.
+En la primera columna, escriba "Meditación de atención plena", "Meditación trascendental" y "Meditación de escaneo corporal".
+
+Crea una nueva diapositiva y dale un fondo verde.
+Inserte una imagen de un pastizal en el lado izquierdo de la diapositiva. ## 1, picture, slide, left.
+Y cambie el ancho y alto de la imagen a 6,5 ​​y 5,5 pulgadas. Agregue un título a la diapositiva y conviértalo en "Las funciones de los bosques".
+Cambie el color de fuente a naranja y el tamaño de fuente a 40.
+Inserta una forma de "flecha". Muévalo a la parte superior de la diapositiva. ## 1, right_arrow, slide, top
+
+Agregue una nueva diapositiva e inserte una tabla con dos columnas y dos filas.
+Complete la primera fila con "Tipo de árbol" y "Usos" respectivamente. Complete las siguientes dos columnas con "diferentes tipos de árboles" y "Diferentes colores de hojas".
+Inserta el contenido que dice "¡Recuerda plantar un árbol hoy!"
+Haga que el tamaño de fuente del contenido sea 20 y el color de fuente verde. Subrayarlo.
+
+Crea cinco diapositivas y haz que todas tengan un fondo amarillo.
+En la primera diapositiva, inserte el título "Familia feliz" y haga el estilo de fuente "Microsoft JhengHei".
+En la segunda diapositiva, inserte una imagen de una familia.
+En la tercera diapositiva, inserte una tabla con dos columnas y dos filas.
+Llene la tabla con "Padre", "Madre", "Abuelo", "Hijos"
+
+Cree una diapositiva e inserte el título "Plan de negocios".
+Inserte una imagen de una bombilla en el lado izquierdo de la diapositiva. ## 1, picture, slide, left
+Cambie el tamaño para que tenga 3 pulgadas de ancho. Escriba "El espíritu empresarial es el proceso de diseño, lanzamiento y gestión de una nueva empresa, que suele ser inicialmente una pequeña empresa. Las personas que crean estas empresas se denominan empresarios". en la parte de contenido.
+Establezca el tamaño de fuente del contenido en 20 y el color de fuente en verde.
+Haz que el color de fondo de la diapositiva sea azul oscuro.
+Agregue una forma de círculo rojo en la diapositiva.
+Inserte el siguiente contenido, "Un plan de negocios es un documento escrito que describe en detalle cómo un negocio, generalmente uno nuevo, va a lograr sus objetivos".
+Cambie el tamaño de fuente de la diapositiva a 18.
+Inserta una tabla con 3 filas y 4 columnas.
+Complete la primera fila de la tabla con "Mezcla de marketing", "Mercado objetivo", "Precio" y "Promoción".
+
+Crea una nueva diapositiva y dale un color de fondo azul claro.
+Escriba el siguiente contenido: "La marca del producto es el desarrollo de una marca distintiva para un producto determinado con la intención de llegar a los consumidores objetivo de una marca".
+cursiva el contenido. Haz el tamaño de fuente 18.
+Mueve el contenido a la parte inferior de la diapositiva. ## 1, content, slide, bottom
+Inserte una imagen del logotipo de Lancome en la parte superior. ## 1, picture, slide, top
+
+Crea una nueva diapositiva y nombra el título "Lo esencial del modelado a gran escala" y establece el tamaño de fuente en 24.
+Cambie el estilo de fuente del título a "Arial".
+Inserta una tabla con dos columnas y una fila.
+Para la primera columna, rellénela con "Importancia" y establezca el tamaño de fuente en 18 y el color en azul claro.
+Agrega una imagen de una computadora. Muévalo al centro de la diapositiva. ## 1, picture, slide, center
+Escriba "Modelado a gran escala" en la parte de contenido.
+Establezca el tamaño de fuente de la diapositiva en 14 y el color en verde.
+
+Inserte una imagen de torre en la diapositiva izquierda. La imagen debe ser de una torre robusta y de aspecto amenazante. ## 0, picture, slide, left
+El título de la diapositiva debe ser "The Ultimate Heist".
+Haz que el estilo de fuente del título sea "Times New Roman". Cambia el color del título a verde.
+Crea un triángulo. Muévalo al lado derecho de la diapositiva. ## 0, triangle, slide, right
+Dale a la diapositiva un fondo azul claro.
+
+Inserta una tabla con tres columnas y tres filas. Llena la tabla con "'morado', 'azul', 'azul claro', 'azul oscuro', 'verde', 'verde claro', 'verde oscuro', 'amarillo', 'amarillo claro'"
+Dale a la diapositiva un color de fondo verde.
+Emm, el color no es bueno. Cámbialo a color azul oscuro.
+Nombra el título "Tipos de color". Añade una imagen de un reloj.
+Crea una nueva diapositiva y dale un color de fondo amarillo.
+Inserte el siguiente contenido en la diapositiva, "La verónica, también llamada ojo de pájaro o hierba gitana, es una planta perenne resistente originaria de Europa".
+
+Cree una diapositiva e inserte una imagen de un hombre y una mujer discutiendo entre sí.
+Por favor nombre el título "¿Qué aporta el matrimonio tanto a los hombres como a las mujeres?"
+Cree una nueva diapositiva e inserte una imagen de una mujer con un kimono japonés y otra imagen de una mujer africana casada con sus hijos.
+Agregar "Factores que determinan diferentes regímenes matrimoniales" como título.
+Luego, crea otras tres diapositivas y haz que tengan el fondo rojo.
+Pase a la diapositiva 2 y nombre el título "Beneficios comunes del matrimonio para hombres y mujeres".
+Bueno, quiero subrayar el título y cambiar el color de fuente del título a amarillo.
+Inserte una imagen de una familia feliz de tres en el centro de la diapositiva.
+Inserta tres rectángulos rojos.
+cree una nueva diapositiva y llámela "La evolución de la institución matrimonial en China".
+inserte una imagen de un reloj y establezca su ancho en 6.5.
+Mueve el reloj al lado izquierdo de la diapositiva. ## 3, picture, slide, left
+Ahora cree una nueva diapositiva y nombre el título como "Dificultades que enfrentan las mujeres en el mundo". Inserte una imagen de una madre a tiempo completo.
+Establezca la altura de la imagen de una madre a tiempo completo en 5 pulgadas.
+
+Establezca el título de la nueva diapositiva como "Red neuronal"
+Luego, inserte el contenido de la diapositiva "Las redes neuronales son un conjunto de algoritmos que imitan la función de un cerebro humano. Están diseñados para reconocer patrones, clasificar datos y hacer predicciones".
+Cambie el tamaño de fuente a 12 y cambie el color de fuente a naranja. Cambia el fondo de la diapositiva a rojo.
+
+nombre el título "Comillas"
+Subraya el título y haz que su tamaño de fuente sea 24.
+inserte el contenido en esta diapositiva de la siguiente manera, "El símbolo de comillas es un tipo de puntuación que se usa para separar palabras y pasajes del resto del texto".
+cambie el color de fuente del contenido a verde. emmm, el tamaño de la fuente es demasiado grande, por favor hágalo más pequeño
+inserte una imagen de una comilla grande. Mueva la marca al lado izquierdo de la diapositiva. ## 0, picture, slide, left
+ahora, cree una nueva diapositiva y asígnele un fondo azul.
+luego agrega un rectángulo a la derecha. ## 1, rectangle, slide, right
+insertar una tabla con dos filas y una columna.
+llena la tabla con '¿Cómo estás?' dijo el caballero. en la primera celda y "Uno de los usos más comunes de las comillas es para indicar una cita directa, un pasaje que se copia textualmente de otra fuente". en la segunda celda.
+
+por favor crea una nueva diapositiva y dale un fondo verde oscuro
+emm, no hay título. Ayúdame a agregar el título "Campos y ramas de la antropología" y establecer el tamaño de fuente en 18
+Quiero insertar el contenido con el mismo tamaño de letra, "Hay dos grandes campos de la antropología".
+Sí, eso es lo que quiero. Alinee el contenido a la derecha.
+
+En la diapositiva, eh, agregue una flecha en el lado izquierdo
+establezca el ancho de la flecha en 4.0 y la altura en 3.0
+inserte el siguiente contenido, "Grandes extensiones de Asia central se sienten inquietantemente deshabitadas".
+haga que la flecha sea más grande para que tenga un ancho de 5,0 y una altura de 4,0, y gírela 90 grados.
+finalmente, aplica doble espacio al contenido
+
+Inserte "Educación/Enseñanza/Representación PPT" como título.
+Insertar "El efecto perjudicial del calentamiento global" en el contenido,
+haga que el color de fuente del título sea azul oscuro y el contenido púrpura.
+Inserte un rectángulo en el mismo color del contenido.
+Mueva el rectángulo a la parte superior izquierda de la diapositiva. ## 0, rectangles, slide, left top
+Inserte una tabla con cuatro columnas y dos filas, y complete la primera fila con "dar", "dar", "dar" y "dar".
+Cambie el color de fuente del contenido para que sea coherente con el título.
+
+Haz el fondo naranja.
+Inserte una imagen de gato y establezca su ancho y alto en 5 pulgadas.
+Crea tres diapositivas más y haz que tengan el mismo color de fondo naranja.
+Nombra el título como "Información de DingTalk"
+Inserta una tabla con tres filas y cinco columnas.
+Complete la primera fila con "Métodos de descarga", "Cómo unirse a la organización", "Cómo encontrar amigos", "Ventajas" y "Nota" en cada espacio en blanco.
+Inserte una estrella en la parte derecha de la diapositiva. ## 3, star, slide, right
+Inserte el siguiente contenido en la parte de contenido, "prevenir se refiere a prevenir u obstaculizar haciendo algo antes de tiempo"
+Ahora el fondo naranja no es bueno. Cámbialo por uno azul.
+Haga que el contenido se alinee a la izquierda.
+
+Inserta una flecha (a la derecha) y coloréala de amarillo.
+Nombre el título alineado a la izquierda como "Día de la semana en la escuela"
+haga que el color de fuente del título sea azul oscuro. cursiva y subrayar el título.
+Inserte el siguiente contenido en la parte de contenido, "prevenir significa comprar (bienes) por adelantado para aumentar el precio cuando se revendan"
+Inserte una imagen de una insignia de la escuela. Establecer su como 2,5 x 2,5 cuadrados.
+Cree una nueva diapositiva y establezca el color de fondo en verde.
+Asigne a la diapositiva el título alineado a la derecha, "Nota".
+Cambia el color del título a verde claro y el tamaño de fuente a 26.
+inserte tres viñetas.
+agregue una nota "2023/4/9" y "2023/4/8" a la diapositiva anterior.
+
+Inserte una estrella y colóquela hacia el lado derecho de la diapositiva. ## 0, star, slide, right
+Rellena la estrella con color azul.
+Agregue una flecha roja en el lado izquierdo de la diapositiva. ## 0, arrow, slide, left
+Nombra la diapositiva "Tomar una decisión"
+Inserte el contenido, "La pandemia global actual ha interrumpido nuestra vida diaria y ha remodelado el mundo de una manera que nunca podríamos haber imaginado".
+Subraye el contenido y establezca el tamaño de fuente del título en 24.
+Establezca tanto el estilo de fuente del contenido como el título como "Times New Roman"
+
+Crea cinco diapositivas.
+Agregue el siguiente contenido en la parte del título de cada diapositiva, respectivamente, "Introducción", "Desarrollo", "Evaluación", "Análisis" y "Conclusión".
+Establezca el fondo de todas las diapositivas en amarillo.
+En el primer lado, haga que el estilo de fuente de "Introducción" cambie a "Microsoft JhengHei",
+En la segunda diapositiva, inserte una imagen de un reloj.
+En la tercera diapositiva, inserte un gráfico de barras. Los datos en horizontal son octubre, noviembre, diciembre y 160,170,130 en vertical.
+En la cuarta diapositiva, inserte una tabla con tres columnas y dos filas.
+Inserte el siguiente contenido en la primera fila, "toIPA","Ventajas" y "Desventajas"
+En la última diapositiva, haga el estilo de fuente "Times New Roman",
+Inserta una nube en la última diapositiva.
+Además, inserte una nota "Creado por Eva" en cada diapositiva.
+
+Crea un círculo. Colorea los círculos de morado.
+Inserte una imagen de una botella de agua con el título "botella".
+Inserte "CALIDAD" como título.
+Cambia el color de "CALIDAD" a rojo.
+Inserta una tabla con dos filas y dos columnas.
+Rellene cada celda con "Evaluación de máquina", "Evaluación humana", "Evaluación automática 1" y "Evaluación automática 2",
+Cree una nueva diapositiva y asígnele el nombre "Logro", haga que el color sea consistente con los círculos.
+
+cree una nueva diapositiva y nombre el título como "Estrategias de marketing para el segundo trimestre"
+Dale a la diapositiva un color de fondo azul.
+Cree una nueva diapositiva y nombre el título como "Aumento de las ventas y el conocimiento de la marca".
+emm, cambie el tamaño de fuente del título a 60.
+Ahora, dale a la diapositiva 2 un fondo verde.
+Cree otras tres diapositivas y asegúrese de que todas tengan el mismo fondo verde.
+Buen trabajo. Ahora pase a la tercera diapositiva. Agregue el título "Tendencias del mercado y análisis de la competencia"
+Inserta una imagen de un mar azul.
+Bueno, ajusta la altura de la imagen a 4 y el ancho a 5, y colócala a la izquierda del título. ## 2, picture, title, left
+Está bien, eso es justo lo que quiero. Ahora pase a la cuarta diapositiva. Agregue el título "Nuestra misión y valores".
+Inserte el contenido "VISIÓN. Todas las personas vivan una larga vida con plena salud. MISIÓN. El IHME entrega al mundo evidencia oportuna, relevante y científicamente válida para mejorar las políticas y prácticas de salud".
+Se ve un poco desordenado, intente ajustar el espacio entre líneas para que sea 1.5.
+No está mal, pero intente establecer el tamaño de fuente del contenido en 40. Cambie el estilo de fuente del contenido a "Times New Roman".
+
+Cree una nueva diapositiva y aplique un fondo amarillo.
+En cuanto al título, ayúdenme a agregar el título "Comparación de la educación en China y Estados Unidos".
+emm, cambia el título a "Explora las diferencias y similitudes".
+Oh no, quiero cambiar el título a "Las diferencias y similitudes".
+Ahora, crea cinco diapositivas nuevas.
+Haz que las cinco nuevas diapositivas tengan el mismo fondo amarillo.
+Pase a la segunda diapositiva y agregue el título "Los sistemas educativos".
+Insertar el contenido "La educación en China está administrada principalmente por el sistema de educación pública estatal, que depende del Ministerio de Educación. Todos los ciudadanos deben asistir a la escuela durante un mínimo de nueve años, lo que se conoce como educación obligatoria de nueve años, que está financiada por el Gobierno."
+Pase a la siguiente diapositiva y nombre el título "Diferentes estilos y métodos de enseñanza".
+Nombre el título de la cuarta diapositiva "Relación maestro-alumno". Titule la quinta diapositiva "Evaluación del desempeño del estudiante".
+Inserte una imagen de un bosque en la quinta diapositiva.
+Insertar el contenido "En 2014, Jonathan Kaiman de The Guardian escribió que los padres y educadores chinos "ven su propio sistema como corrupto, deshumanizante, presionado e injusto". Luego habló sobre el examen de admisión a la universidad del país (llamado gaokao), escribiendo que "muchos padres consideran que la extenuante prueba de nueve horas es un mecanismo de clasificación que determinará la trayectoria de la vida de sus hijos" y asegúrese de que esté subrayado entre comillas y que el color de la fuente sea rojo.
+Ahora, vaya a la última diapositiva e inserte una tabla con una fila. Inserte "Responsabilidad" en la tabla.
+
+Cree una nueva diapositiva e inserte una imagen de la aplicación DingTalk.
+Titula esta diapositiva "Introducción a ChatGPT". Haz que el color de fuente del título sea verde.
+Ahora cree cinco diapositivas nuevas con el mismo título, "Liberar el poder de los modelos de lenguaje de IA". y alinear los títulos a la izquierda.
+Cambie el estilo de fuente del contenido a "Arial".
+En la sección del cuerpo, inserte el contenido "ChatGPT es un chatbot de inteligencia artificial (IA) desarrollado por OpenAI y lanzado en noviembre de 2022. Está construido sobre las familias GPT-3.5 y GPT-4 de OpenAI de modelos de lenguaje grande (LLM) y ha sido perfeccionado (un enfoque para el aprendizaje por transferencia) utilizando técnicas de aprendizaje tanto supervisadas como de refuerzo".
+Bueno, establezca el tamaño de fuente en 30 y el espacio entre líneas en 2.
+Inserte una tabla con una columna y una fila, y complete la tabla con "Cómo descargar DingTalk".
+Bien. Pasemos a la siguiente diapositiva.
+Agregue el texto "Características y limitaciones" como título y alinéelo al centro.
+Inserta el contenido. "Aunque la función principal de un chatbot es imitar a un conversador humano, ChatGPT es versátil. Puede escribir y depurar programas informáticos, imitar el estilo de los directores ejecutivos famosos y escribir presentaciones comerciales, componer música, teleplays, cuentos de hadas y ensayos de estudiantes, responder preguntas de prueba (a veces, según la prueba, a un nivel superior al del examinado humano promedio), escribir poesía y letras de canciones, emular un sistema Linux, simular salas de chat completas, jugar juegos como tres en raya y simular un cajero automático ."
+
+crear una nueva diapositiva, establecer un fondo verde para la diapositiva,
+inserte el siguiente contenido: "La vida es demasiado corta para pasar el tiempo con personas que le quitan la felicidad". Y establezca un punto cinco veces el espacio.
+cambie el estilo de fuente del contenido a Verdana y establezca el tamaño de fuente en 20.
+Por último, subraye el contenido y establezca el color del contenido en amarillo.
+
+﻿Cree una nueva diapositiva y asígnele un fondo azul. Agregue el título "Aprendizaje automático"
+Inserte el siguiente texto en la parte de contenido: "El aprendizaje automático es una aplicación de inteligencia artificial (IA) que proporciona a los sistemas la capacidad de aprender y mejorar automáticamente a partir de la experiencia sin estar programados explícitamente. El aprendizaje automático se centra en el desarrollo de programas informáticos que pueden acceder datos y usarlos para aprender por sí mismos".
+El tamaño de fuente del contenido es demasiado pequeño. Por favor, auméntelo a 20. Cambie el estilo de fuente del contenido a Verdana.
+El estilo de letra no es bueno. Cámbielo a "Times New Roman" y alinee el contenido a la derecha.
+Cambie el color de fuente del título a rojo y el tamaño al doble del contenido
+El rojo no es bueno, cambie el color del título a azul.
+Eso parece mucho mejor. Agregue una imagen relacionada con el aprendizaje automático en la diapositiva izquierda. ## 1, picture, slide, left
+Establezca su alto y ancho en 1.2
+Finalmente, inserte una estrella verde.
+
+Cree una nueva diapositiva y agregue el título "Estrategias de marketing"
+Inserte la parte de contenido: "Optimización de motores de búsqueda (SEO)", "Marketing de redes sociales (SMM)", "Marketing de correo electrónico", "Marketing de contenido" y "Publicidad de pago por clic (PPC)" y coloque viñetas antes cada uno de ellos.
+Agregue una imagen relacionada con el marketing a la diapositiva con un tamaño de 1*1.
+Agregue un gráfico circular según los datos: Apple: 35 %, Samsung: 25 %, Huawei: 15 %, Xiaomi: 10 % Otros: 15 %. E inserte una tabla con dos columnas y dos filas.
+Inserte "Marketing" como título del gráfico. Inserte "MT1", "MT2", "ST1" y "ST2" en la tabla.
+Mueva la parte de contenido al lado inferior de la diapositiva. ##1, content, slide, bottom
+Cree una diapositiva y copie el gráfico circular.
+Ahora copia la tabla.
+
+Cree una nueva diapositiva y agregue el título "Visualización de datos"
+Inserte un gráfico de barras de acuerdo con los datos: la "X" horizontal es Nueva York, Los Ángeles, Chicago, Houston y Phoenix y, mientras que la "Y" vertical es 8.4, 4.0, 2.7, 2.3 y 1.7. Y mueva el gráfico al lado izquierdo de la diapositiva. ##1, bar chart, slide, left
+Inserte un cuadro de texto y escriba "La visualización de datos es la presentación de datos en un formato pictórico o gráfico. Permite a los responsables de la toma de decisiones ver los análisis presentados visualmente, para que puedan comprender conceptos difíciles o identificar nuevos patrones".
+Cambie el color de fuente del cuadro de texto a verde.
+Ahora, pase a la siguiente diapositiva. E inserte el siguiente contenido: "Esta papilla se prepara cocinando juntos arroz glutinoso, azúcar moreno y dieciocho tipos de frutas secas".
+
+Cree una nueva diapositiva y nombre el título "Laba Porridge"
+Inserte el siguiente texto en la parte del contenido: "Desde que tengo memoria, todos los años, en el octavo día del duodécimo mes lunar, mi madre nos cocinaba gachas de Laba".
+haga que la fuente sea de color amarillo y ponga en negrita el contenido.
+Ahora, agregue una tabla con dos filas y una columna a la diapositiva derecha. ## 1, table, slide, right
+Inserte "Historial" en la primera celda de la primera fila y "Moderno" en la segunda fila.
+Dale a la diapositiva un color rojo claro.
+
+Dale a la diapositiva un color amarillo.
+El fondo no es bueno. Establezca un fondo verde para esta diapositiva y todas las demás diapositivas.
+Eso parece bueno. establezca el título de la diapositiva como "Gran empresa"
+Ajusta el tamaño de fuente del título a 28 y ayúdame a cambiar el estilo de fuente a "Futura".
+Agregue una tabla con una fila y dos columnas. E inserte "Número", "Nombres de los empleados".
+Añade los logos de las empresas en la diapositiva.
+Cambie el color de fuente del contenido de la tabla a amarillo.
+
+Cree una nueva diapositiva y nombre el título "Redes neuronales artificiales"
+Inserte el siguiente texto en la parte de contenido: "Las redes neuronales artificiales (ANN) son sistemas informáticos inspirados en las redes neuronales biológicas que constituyen los cerebros de los animales. Dichos sistemas aprenden a realizar tareas considerando ejemplos, generalmente sin estar programados con ninguna regla específica de tareas. Las ANN son capaces de aprender y adaptarse a nuevas entradas, lo que las hace útiles para una amplia gama de aplicaciones, incluido el reconocimiento de imágenes, el reconocimiento de voz y el procesamiento del lenguaje natural".
+El tamaño de fuente del contenido es demasiado pequeño. Por favor, aumente a 24
+Luego cambie el estilo de fuente del contenido a "Calibri". Establezca el color de fondo de la diapositiva en naranja claro.
+Alinee el contenido al centro y el título a la izquierda
+Cambia el color de fondo de la diapositiva a azul.
+Inserte una imagen relacionada con las redes neuronales artificiales en la diapositiva
+Ajuste el tamaño de la imagen a 5,5 pulgadas de ancho.
+Mueve la imagen al lado derecho de la diapositiva. ## 1, picture, slide, right
+Inserta una tabla con tres columnas y dos filas. Y rellene la primera fila con "1","2","3".
+E inserte "videojuegos", "Switch", "serie de TV" en la segunda fila.
+
+Crea dos nuevas diapositivas rojas para mí.
+Nombre el título de la diapositiva 0 "Desafíos" y haga el estilo de fuente del título "Calibri"
+Inserte el siguiente texto en la parte de contenido de la primera diapositiva: "Los desafíos de implementar IA en el lugar de trabajo incluyen la falta de experiencia, el costo y la resistencia al cambio".
+Cambiar el color de fuente del contenido a verde
+Pase a la segunda diapositiva y agregue una imagen relacionada con la IA a la diapositiva. Centre la imagen en la diapositiva. ## 1, picture, slide, center
+
+Cree una nueva diapositiva y agregue el título "Introducción"
+Inserte el siguiente texto en la parte de contenido: "Bienvenido a mi presentación sobre la historia de los videojuegos. Los videojuegos han recorrido un largo camino desde que se inventó el primer juego electrónico en la década de 1950. Hoy en día, los videojuegos son una industria multimillonaria que es disfrutado por personas de todo el mundo".
+Agregue una imagen del primer juego electrónico a la diapositiva.
+coloque la imagen en la parte inferior derecha de la diapositiva. ##1, picture, slide, right bottom
+Cambiar el color de fuente del título a azul
+Agregue un cuadro de texto a la diapositiva e inserte el texto: "Presentado por John Smith".
+
+Cree una nueva diapositiva titulada "Redes neuronales".
+Inserte el siguiente texto en la sección de contenido: "Las redes neuronales son un conjunto de algoritmos que imitan el funcionamiento del cerebro humano. Se utilizan para una variedad de aplicaciones, como reconocimiento de imágenes, reconocimiento de voz y procesamiento de lenguaje natural".
+Cambiar el estilo de fuente del contenido a Arial
+Inserta un triángulo verde. Y muévelo en la esquina izquierda. ##1, triangle, slide, left corner
+Agregue una imagen de una red neuronal a la diapositiva
+Establezca su alto y ancho en 1.2
+Crea una nueva diapositiva. Inserte una flecha azul a la derecha. ## 2, right arrow, slide, right
+Agregar un gráfico de líneas. La "X" horizontal es enero, febrero, marzo, abril. La "Y" vertical es 120,140,110 y 90. Dale el título, "Chatgpt"
+Inserte un cuadro de texto que contenga el nombre de una biblioteca de redes neuronales popular (por ejemplo, TensorFlow, PyTorch, Keras)
+Cambia el color de fuente del título a azul. y el color de fondo de la diapositiva a un azul claro.
+
+Inserte esto en la parte de contenido: "El diccionario se puede usar para encontrar significados de palabras, pronunciaciones, ortografías y buscar nuevas palabras".
+Cree un círculo sobre la parte de contenido. ## 0, circle, content, top
+Inserte "sintagma nominal" en el círculo
+Cambie el color de fuente del contenido a rojo, estilo a "Impacto"
+
+Cree 3 diapositivas nuevas y sus títulos son "Introducción", "Metodología" y "Resultados" respectivamente.
+En la diapositiva "Introducción", inserte el siguiente texto en la parte de contenido: "Esta presentación presentará nuestro proyecto de investigación y explicará su importancia". En la diapositiva "Metodología", inserte el siguiente texto en la parte de contenido: "Nuestra metodología de investigación involucró la recopilación de datos de varias fuentes y el uso de análisis estadísticos para sacar conclusiones".
+Alinea el texto a la izquierda.
+Cambiar el color de fondo de todas las diapositivas a azul claro
+Agregue una imagen de un gráfico a la diapositiva "Resultados". Establecer la imagen de 6,5 pulgadas de altura.
+Agregue una nota en cada diapositiva con la fecha de hoy 2022/1/1.
+
+Cree 2 nuevas diapositivas y sus títulos sean "Descripción general del producto" y "Características" respectivamente.
+En la diapositiva "Descripción general del producto", inserte una imagen del producto
+Inserte el siguiente texto en la parte de contenido: "Nuestro producto está diseñado para satisfacer las necesidades de nuestro mercado objetivo al proporcionar una solución simple y eficiente a su problema".
+En la diapositiva "Características", inserte una tabla con 5 filas y 2 columnas.
+Inserta "DingTalk" en la última celda.
+Cambie el estilo de fuente de "DingTalk" a "Times New Roman"
+Agregue una nota en cada diapositiva con la hora actual 12:00 p. m.
+
+Cree una nueva diapositiva y asigne el título alineado al centro "Informe de ventas" a la diapositiva 1.
+Inserte un gráfico circular con los siguientes datos: Producto A: 120, Producto B: 220, Producto C: 180.
+cambie el tamaño de fuente del título a 28.
+Agregue una imagen del logotipo de la empresa en la esquina superior derecha de la diapositiva.
+Inserte el siguiente texto en la parte de contenido: "Este informe muestra el rendimiento de las ventas de nuestros productos en el primer trimestre de 2023".
+Cambia el estilo de fuente del texto a "Times New Roman".
+El contenido debe alinearse de la misma manera con el título.
+
+Cree una nueva diapositiva y agregue el título "Estrategias de marketing"
+Cambia el estilo de fuente del título a "Calibri" y el tamaño de fuente a 36
+Inserte una imagen de una campaña de marketing en la parte de contenido
+Gire la imagen 45 grados y alinéela al lado derecho. ## 1, picture, slide, right
+cree una nueva diapositiva e inserte el título "Powerful MT"
+Cambia el estilo de fuente del título a "Arial" y el tamaño de fuente a 24
+Agregue un nuevo cuadro de texto debajo del subtítulo, agregue viñetas y escriba "SEO", "Marketing por correo electrónico" y "PPC".
+Establezca el color de fondo en azul.
+Inserte un gráfico de barras según los datos: elemento A 27, elemento B 30, elemento C 29. Y mueva el gráfico al lado izquierdo de la diapositiva. ##1, bar chart, slide, left
+Cambie el título del gráfico a "Presupuesto de marketing".
+Inserta una tabla con cuatro filas y dos columnas.
+Inserte el siguiente contenido en la tabla, "Fecha","Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", "Domingo".
+Mueva la tabla al lado derecho del gráfico. ##1, table, chart, right
+
+Crea una nueva diapositiva y dale un fondo amarillo.
+Agregue un título "Métricas de evaluación"
+Agregar una tabla con dos columnas y tres filas
+Agregue el siguiente contenido a la primera fila: "Métrica", "Fórmula". Agregue el siguiente contenido a la segunda fila: "Precisión", "(TP+TN)/(TP+TN+FP+FN)". Agregue el siguiente contenido a la tercera fila: "Precisión", "TP/(TP+FP)"
+Agregar un gráfico de líneas. Los datos son octubre, noviembre y diciembre como X horizontal, 160, 170 y 130 son los datos en Y vertical. Déle el título, "Máquina del tiempo".
+Agregue un gráfico de barras con los mismos datos.
+
+Agregue una nueva diapositiva y agregue el título "Visualización de datos"
+Inserte un gráfico de barras con los siguientes datos: "Ojo", "Mano", "Pierna" y "Rodilla" como X horizontal y 60,70,80,90 como Y vertical
+Cambiar el tamaño del gráfico para que sea de 4 pulgadas por 4 pulgadas
+Agregue un título "Ventas por región" al gráfico
+Inserte una flecha verde en la diapositiva.
+
+Cree una nueva diapositiva y agregue el título "Campaña de marketing"
+Inserte una imagen de un producto a la derecha de la parte del contenido. ## 1, picture, content, right
+Establecer la imagen de 5 pulgadas de ancho.
+Inserte el siguiente contenido en la parte de contenido, "Familia de idiomas europeos que está estrechamente relacionada con los idiomas frisón, alemán y holandés (en Bélgica llamado flamenco)".
+Agregue un círculo rojo en la parte inferior derecha de la diapositiva. ## 1, circle, slide, bottom right
+Dale al fondo un color verde.
+Cambiar el color de fondo de la diapositiva a un color azul claro
+Luego, cree una nueva diapositiva y agregue el título "Datos de ventas"
+Insertar una tabla con 4 columnas y una fila
+Ingrese los siguientes datos en la tabla: nombre del vendedor, ventas totales, tasa de comisión y monto de la comisión
+Pase a la siguiente diapositiva. Haga que el color de fondo sea el mismo que el de la última diapositiva.
+
+Cree una nueva diapositiva y agregue un título "Informe de ventas". Establezca el tamaño de fuente del título en 25
+Inserte el siguiente texto en la parte de contenido: "Aquí está el informe de ventas trimestrales de nuestra empresa:"
+Establezca su tamaño de fuente en 16 y cambie su color a púrpura.
+Agregue un rectángulo de 8 x 5 a la diapositiva.
+Cambia el color de fondo de la diapositiva a verde.
+
+Cree una nueva diapositiva y agregue el título "Redes neuronales artificiales
+Inserte el siguiente texto en el contenido: "Las redes neuronales artificiales (ANN) son sistemas informáticos que están inspirados en las redes neuronales biológicas que constituyen los cerebros de los animales, pero no son idénticos a ellos. Estos sistemas aprenden a realizar tareas considerando ejemplos, generalmente sin ser programados. con reglas específicas de la tarea."',
+Aumente el tamaño de fuente del contenido a 24. Además, aplique el estilo de fuente "Arial" al contenido.
+Cambia el color de fuente del título a morado.
+Agregue una imagen de un cerebro a la diapositiva y cambie el tamaño de su ancho a 6.5
+Girar la imagen 90 grados en el sentido de las agujas del reloj
+Agregue un nuevo cuadro de texto y escriba "Aplicaciones de ANN" en él.
+Cambia el tamaño de fuente del título a 36 y el estilo de fuente a Calibri
+inserte una tabla con solo dos filas y una columna.
+inserte el siguiente contenido en la tabla: "Reconocimiento de imágenes" y "Procesamiento del lenguaje natural"
+
+Nombre el título como "Evaluación de la calidad de la traducción automática"
+Agrega una nota debajo del título "Reportera: Eva". ## 0, textbox, title, bottom
+Establezca el tamaño de fuente del título en 66.
+Establezca el fondo con un color azul y fuente roja.
+Emm, eso no es bueno. Cambie el color de fondo a rojo y haga que el color de la fuente sea azul.
+
+Cree una nueva diapositiva y agregue el título "Redes neuronales".
+Inserte el siguiente texto en la parte de contenido: "Las redes neuronales son un conjunto de algoritmos que imitan la función de un cerebro humano. Están diseñados para reconocer patrones, clasificar datos y hacer predicciones".
+El tamaño de fuente del contenido es demasiado pequeño. Por favor, aumente a 24
+Luego cambie el estilo de fuente del contenido a Arial. Alinear el contenido al centro
+Cambiar el color de fuente del título a azul
+El azul no es bueno... cambie el color del título a verde.
+Agregue una imagen de un cerebro a la diapositiva y establezca su alto y ancho en 1.5.
+Insertar "El cerebro humano inspiró el desarrollo de redes neuronales" en el contenido.
+Finalmente, agregue una nota sobre la arquitectura de red neuronal más utilizada, como la red neuronal convolucional (CNN) o la red neuronal recurrente (RNN)
+Ahora pase a la siguiente diapositiva. y Cambie el color de fondo de ambas diapositivas a amarillo.
+
+﻿cree una nueva diapositiva y nombre su título como "Finanzas personales". Haga la nota igual que el título.
+Subraya el título y aumenta su tamaño de fuente a 24.
+Luego, inserte esto en la parte del contenido: "Las finanzas personales abarcan todo el universo de administrar las finanzas individuales y familiares, asumir la responsabilidad de su situación financiera actual y futura y establecer metas financieras. También incluye el manejo de las tareas financieras individuales y el ahorro para emergencias. "
+Sí, ahora cambia el color de la fuente a naranja.
+Inserte una imagen de un libro de finanzas corporativas.
+Establezca el ancho de la imagen en 6,5 pulgadas.
+sí, y ahora dale a esta diapositiva un fondo azul
+¡esperar! el azul no es bueno, cambie el color de fondo a azul claro.
+cree dos diapositivas más y haga que otras diapositivas tengan el mismo fondo azul claro.
+Inserte una tabla con dos columnas y una fila en la segunda diapositiva.
+
+Inserte el contenido, "Bienvenido al sitio del catálogo de actualizaciones de Microsoft".
+Cambie el color de fuente del contenido a naranja mientras la diapositiva azul oscuro.
+Inserta una imagen de una computadora. Muévalo a la parte inferior de la diapositiva. ## 0, picture, slide, bottom
+Emm, no es bueno. reubique la imagen al lado izquierdo de la diapositiva. ## 0, picture, slide, left
+Ahora crea una tabla con dos filas y cuatro columnas. E inserte "Conceptos básicos", "Origen", "Categorías" y "Desarrollo" en la primera fila.
+Cree una nueva diapositiva e inserte una estrella roja.
+Inserte un gráfico circular de acuerdo con los datos, Q1 10 millones; Q2, 12 millones; Q3 14 millones. Y mueva la estrella en el lado de la esquina inferior del gráfico. ## 1, star, pie chart, bottom corner
+Haz el gráfico más grande a 10*10.
+
+Crea una nueva diapositiva y dale un color de fondo azul.
+agregue el título "Introducción".
+E inserte las palabras en el contenido: "Personas más dinero equivale a finanzas personales".
+Cursiva y subrayar el contenido.
+Cambia el color de fuente del contenido a verde.
+Agregue una imagen de una persona agarrando algo de dinero. Mueva la imagen a la esquina inferior. ## 1, picture, slide, bottom corner
+establezca la imagen de 8 pulgadas de ancho y 7 pulgadas de alto.
+Crea una nueva diapositiva. escriba las palabras en la parte del contenido: "El dinero no lo es todo, pero el dinero no es imposible"
+cambie el estilo de fuente a "Futura", coloréelo en azul.
+El azul no es tan bueno. Morado sería mejor.
+Inserte un gráfico circular con datos: 1,2,3,4,5. Y muévalo al lado derecho del contenido. ## 2, pie chart, content, right
+Nombra la diapositiva "Los efectos del dinero"
+
+cree una nueva diapositiva y nombre su título como "La diferencia entre finanzas personales y corporativas"
+luego, inserte una tabla con dos filas y tres columnas,
+Inserte una imagen del logotipo de una empresa en el lado izquierdo de la tabla. ## 1, picture, table, left
+Inserta la tabla con los siguientes datos, "Borderlands 2", "Divinity: Original Sin 2", "Final Fantasy VII", "Assassin's Creed IV: Black Flag", "Mega Man 3", "Mega Man 3".
+Inserte una nube y muévala al lado derecho de la tabla. ## 1, cloud, table, right
+A continuación, agregue una nota "2023/4/23" en esta diapositiva.
+
+Dale a la diapositiva un color de fondo naranja.
+y cree una nueva diapositiva con el mismo fondo, inserte el título: "Bridget Fonda"
+poner en cursiva el título y establecer el tamaño de fuente en 18
+agregue una foto de Bridget Fonda en la esquina superior derecha. ## 1, picture, slide, top right
+establezca la imagen de 8 pulgadas de ancho y 7 pulgadas de alto.
+sí, y crea una nueva diapositiva.
+inserte el contenido: "Nacida en Los Ángeles, Bridget Fonda proviene de una respetada familia de actores, que incluye a Henry Fonda, Peter Fonda y Jane Fonda. Se involucró en el teatro después de aparecer en una producción escolar de Harvey, y luego tuvo una papel silencioso en Partners. En 1988, apareció en Scandal, su primer papel de habla, teniendo algunos papeles pequeños después ".
+emmm, el tamaño de fuente del contenido es demasiado grande, haga que su tamaño sea 12. y ponga el contenido en cursiva
+nombre el título de la diapositiva, "Lista de películas"
+inserte la tabla con tres filas y tres columnas, e inserte números, 1,2,3,4,5,6,7,8,9 en la tabla.
+Mueva la tabla al lado derecho de la diapositiva. ##1, table, slide, right
+
+crear una nueva diapositiva
+luego agrega el título "Ghost Bear" y subráyalo
+inserte el contenido: "El oso más raro del que probablemente nunca haya oído hablar"
+e inserta una foto de Ghost Bear.
+Cambie el estilo de fuente a "Arial" y el tamaño de fuente a 20.
+Mueve la foto al lado derecho del contenido. ## 1, photo, content, right
+luego crea una nueva diapositiva e inserta un diagrama de árbol sobre osos,
+mover el diagrama de árbol al centro, ## 2, treemap, slide, center
+establecer la foto de 4 pulgadas de ancho.
+Inserte el contenido, "Cuando estaba hambriento de Dungeons and Dragons, Divinity: Original Sin 2 llenó ese vacío para mí".
+nombra su título como "Mi juego favorito"
+ahora inserte una tabla con dos filas y dos columnas
+Inserte los siguientes datos en la tabla, "SMS", "WeChat", "QQ" y "DingTalk".
+
+Crea una nueva diapositiva. Establezca un fondo azul para la diapositiva.
+Inserta una imagen del universo en la esquina inferior izquierda. ## 1, picture, slide, bottom left
+Establezca el ancho de la imagen en 6,5 pulgadas y la altura en el doble del ancho.
+Escriba lo siguiente en la parte del contenido: "Se puede decir que soy un poco quisquilloso. No me gusta la comida demasiado dulce, como los dulces, el chocolate, etc."
+Nombra la diapositiva "Mi comida favorita"
+cambie el color del título y el contenido a amarillo.
+subrayar el título. cambie el tamaño de fuente del título a 24 y el contenido a 22.
+Inserta una nube y muévela al lado derecho de la imagen. ## 1, cloud, picture, right
+
+hacer el título como subrayado "Idol"
+inserte un rectángulo rojo y muévalo a la parte inferior del título. ## 0, rectangle, title, bottom
+e inserte el contenido alineado a la izquierda: "¡Te quiero! (¡Te quiero!) ¡Te necesito! (¡Te necesito!) ¡Te amo! (¡Te amo!)"
+para que las palabras sean atractivas, establezca el tamaño de fuente en 24
+No, duplica el tamaño de la fuente.
+por favor inserte una imagen de AKB48
+establecer la imagen de 6,5 pulgadas de alto y dos veces de ancho.
+inserta una tabla con una columna y dos filas e inserta "El tiempo de un ídolo es corto. Siempre hay una cara nueva y rara vez se desvían del status quo de muñeca". en la mesa.
+cambie el color de la fuente a azul, el estilo de fuente a "Futura"
+insertar "El viaje épico de los ídolos, desde Sylvie Vartan hasta los ídolos que llenan los estadios, plantea la pregunta: ¿Qué sigue para los ídolos y la cultura que despertaron?" en la segunda celda.
+agregue una nota "2023/05/17" en el archivo.
+
+Inserte el "CONTENIDO" en el centro de la diapositiva.
+Inserte el siguiente contenido en una fila debajo de "CONTENIDOS", Antecedentes, Misiones de Evaluación, Modelo y Aplicaciones, también numérelos.
+Establezca el tamaño de fuente de los "CONTENIDOS" en 80 y el color en verde.
+Subraya el contenido. Establezca el estilo de fuente del contenido como "Pecita".
+
+dale a la diapositiva un color de fondo naranja. e inserte el título, "Mejor software"
+Ponga en cursiva el título y haga que su tamaño de fuente sea 24.
+Inserte el siguiente contenido: "¿Quiere un software potente? No tiene que pagar por él. Todo lo que necesita para ser productivo y seguro en su PC está en esta lista, y todo es totalmente gratis".
+establezca el color de fuente del contenido en amarillo.
+ahora el color de fondo no es bueno, cámbialo a azul oscuro.
+subraye el contenido y haga que su estilo de fuente sea "Arial"
+inserte una flecha y muévala en la parte inferior de la diapositiva. ## 0, arrow, slide, bottom
+a continuación, agregue una nota "2023/4/25" en esta diapositiva.
+
+por favor crea una nueva diapositiva y nombra su título como "Jay Chou"
+luego agregue información básica de Jay Chou en el contenido de la siguiente manera: "Jay Chou es un músico, cantautor, multiinstrumentista, actor y director taiwanés".
+crea una nueva diapositiva y nómbrala: "Mojito"
+subraye el título y establezca su tamaño de fuente en 20
+emmm, haz que el tamaño de la fuente se duplique
+inserte el contenido: ""Mojito" fue bien recibido por el público en general de la comunidad internacional. El sol cubano, las camisas tropicales, los autos antiguos y los ritmos animados hacen que la canción no solo sea pegadiza sino también una gran delicia visual".
+cambie el estilo de fuente a "Futura". Cambia el color del fondo a verde.
+ok, ahora inserta una imagen de la portada de la canción en el lado derecho. ## 2, picture, slide, right
+
+Nombra la diapositiva "Mi vida universitaria"
+inserte una imagen de un colega en la diapositiva con el título "universidad".
+Quiero insertar el contenido, "locura de estudiar en el extranjero entre estudiantes universitarios"
+haga que el color de fuente del contenido sea rojo y subraye el contenido.
+haga que el estilo de fuente del contenido sea "Futura" y establezca el tamaño de fuente del título en 22
+bien, luego alinee el contenido a la izquierda.
+insertar una tabla con una fila y tres columnas.
+llene la tabla con "Primer grado", "Segundo grado", "Tercer grado"
+ok, cree una nueva diapositiva e inserte el contenido: "Discurso de Michelle Obama en la Universidad de Pekín"
+oh, inserte el logotipo de la Universidad de Pekín y muévase en la parte superior derecha de la diapositiva. ## 1, picture, slide, right top
+establecer el logotipo de 6,5 pulgadas de altura.
+
+cree una nueva diapositiva y asígnele el nombre "Learning Python"
+cursiva el título y establezca el tamaño de fuente en 26, luego cambie el estilo de fuente a "Times New Roman"
+y establecer el color de fondo verde
+cree dos diapositivas más y haga que otras diapositivas tengan el mismo fondo.
+Agregue un rectángulo y muévalo al lado inferior de la diapositiva 2. ## 2, rectangles, slide, bottom
+insertar una tabla con una fila y una columna.
+Complete la tabla con "No se dan ejemplos, complete la tabla"
+
+Cree una nueva diapositiva y asígnele un fondo verde. Inserte el título "Traducción automática"
+Inserte el siguiente texto en la parte de contenido: "La traducción automática es el uso de tecnología informática para traducir texto de un idioma a otro".
+El tamaño de fuente del contenido es demasiado pequeño. Por favor, aumente a 20
+No, duplícalo.
+El color de la fuente no es bueno. Cámbielo a verde y alinee el contenido a la derecha.
+Eso parece mucho mejor. Agregue una imagen del logotipo de trados.
+Establezca su alto y ancho en 2 pulgadas
+Mueva la imagen a la parte inferior de la diapositiva. ## 1, picture, slide, bottom
+Inserte un rectángulo y muévalo al lado derecho de la imagen. ## 1, rectangle, picture, right
+
+Inserte el título y la nota "Antecedentes".
+Inserte el contenido "Los requisitos para comprender la calidad de traducción de la máquina de traducción" y agregue esta oración debajo del contenido, "Enfóquese en la confiabilidad de cada punto de fecha".
+Cree una nube en la parte inferior y establezca su ancho en 6,5 pulgadas. ## 0, cloud, slide, bottom
+Haga que el título tenga un tamaño de 30 y el contenido un tamaño de 20. La fuente del contenido debe estar en cursiva.
+
+Inserte un círculo a la izquierda y establezca el color verde. ## 0, circle, slide, left
+Establezca el ancho y la altura del círculo en 10.
+Agregue "Módulo de aprendizaje de características" y "Módulo de evaluación de calidad" en el contenido.
+Nombra la diapositiva como "Marco básico".
+Agregue una nota "2023/4" en este archivo también el círculo.
+
+Nombre el título como "Nómina en marzo" en verde.
+Crea una tabla con una fila y tres columnas.
+Agregue "ID de empleado", "Cantidad" y "Nota" en la primera fila, respectivamente.
+Agregue la información debajo de la tabla, "El explotado deberá proporcionar su identificación bancaria y tarjeta de identificación". ## 0, textbox, table, bottom
+Inserte una imagen de la marca de una empresa y muévala a la esquina derecha de la diapositiva. ##0, picture, slide, right corner
+crea una nueva diapositiva y el fondo debe ser amarillo,
+el título escribe "Capítulo 2" y el contenido escribe "La bonificación del empleado".
+Ponga en cursiva el título y cambie el tamaño de fuente a 44. Mantenga el mismo color de los títulos en cada diapositiva.
+cambie el estilo de fuente del contenido a Verdana y el color más claro.
+Agregue una nota "2023/4" en esta diapositiva.
+
+Cree una nueva diapositiva, nombre el título "Las características del aprendizaje profundo" y ayude a subrayar el título.
+Establezca el tamaño de fuente del título en 26 y el color en azul claro.
+Inserta un círculo pequeño.
+Inserte el siguiente texto en la parte de contenido, "El aprendizaje profundo es una técnica de aprendizaje automático que enseña a las computadoras a hacer lo que es natural para los humanos".
+establezca el estilo de fuente del contenido como "Arial".
+Inserta un triángulo a la izquierda. ## 1, triangle, slide, left
+Mueva el triángulo al lado derecho del texto. ## 1, triangle, text, right
+Cambia el color del triángulo a rojo y su ancho a 5.
+Inserta tres viñetas y escribe "Domingo", "Lunes" y "Martes" después de cada viñeta.
+Pase a la siguiente diapositiva y conviértala en una diapositiva amarilla.
+nombre el título así como la nota como "Redes neutrales". Subrayado y cursiva el título.
+
+El título de la diapositiva debe establecerse como "La historia del arte".
+Cambia la fuente del título a Times New Roman y ponla en negrita.
+Escriba "El arte es una gama diversa de actividades humanas en la creación de artefactos visuales, auditivos o escénicas, que expresan las ideas imaginativas, conceptuales o la habilidad técnica del autor, destinadas a ser apreciadas principalmente por su belleza o poder emocional".
+Cambie el estilo de fuente del texto a Arial y póngalo en cursiva.
+Agregue una viñeta a la diapositiva.
+Haz una lista de los siguientes elementos: pintura, escultura, arquitectura, música y literatura.
+Encuentra una imagen de "Mona Lisa" e insértala en la parte inferior. ## 0, picture, slide, bottom
+Mueva la imagen a la esquina superior de la diapositiva. ## 0, picture, slide, top corner
+Añade una nota que diga "Mona Lisa de Leonardo da Vinci".
+
+Elija una forma de estrella amarilla del menú y dibújela en la diapositiva.
+Nombre la diapositiva "Estrellas" y establezca el tamaño de fuente del título en 24.
+Inserte un texto que diga "Bienvenido a la noche estrellada" en la parte de contenido.
+Encuentre una imagen del universo e insértela debajo del contenido. ## 0, picture, content, bottom
+Agregue una nota que diga "Estrella brillante, estrella brillante, estrella brillante" a la diapositiva. Cambia el título a nota.
+
+Cree una nueva diapositiva y asígnele el nombre "Comentarios del cliente".
+Inserte una imagen de un cliente feliz y muévala a la parte inferior de la diapositiva. ## 1, picture, slide, bottom
+Cambiar título rojo "¡Nuestros clientes nos aman!"
+Agregar "!!" hasta el final del título.
+Escribe "Reseñas de clientes" en el contenido.
+Establezca el estilo de fuente del contenido en "Times New Roman" y el color de fuente en verde,
+hacer que la diapositiva tenga el color del título.
+emm, no es bueno. Cambia el color de fondo al color del contenido.
+
+Cree una nueva diapositiva y asígnele el nombre "Plan de marketing".
+Luego escriba "Introducción" en la parte del título. subraye el título y cambie su fuente a Calibri.
+A continuación, inserte una imagen del logotipo de una empresa en la esquina inferior izquierda. ## 1, picture, slide, bottom left
+Establezca el ancho y la altura de la imagen en 5 pulgadas y 3 pulgadas y muévase hacia el lado derecho. ## 1, picture, slide, right
+Inserte una tabla con dos columnas y dos filas: Categoría e Información, Edad y 25.
+Cree una nueva diapositiva y establezca un fondo azul para esta diapositiva.
+Nombra la diapositiva "Marcas móviles"
+inserte un gráfico de líneas con Huawei, Apple, Xiaomi en la X, 120,140 y 150 en la Y.
+Nombra el gráfico "Ventas en abril"
+
+Cree una diapositiva y asígnele el nombre "Informe financiero del segundo trimestre".
+cambie el estilo de fuente del título a Arial y el tamaño de fuente a 20.
+Inserte una tabla con tres columnas y una fila e inserte los siguientes datos: "Metric", "Q2", "Q3".
+Inserte una imagen de un informe financiero. Mueva la imagen al lado superior de la mesa. ## 1, picture, table, top
+Inserte el siguiente contenido: "El informe financiero del segundo trimestre muestra un fuerte crecimiento de los ingresos y una mayor rentabilidad, impulsados ​​por medidas exitosas de optimización de costos y una mayor demanda del mercado de nuestros productos y servicios".
+Haz el contenido en cursiva y negrita.
+Inserte una viñeta en el contenido.
+Cambia el color de fondo de la diapositiva a azul claro.
+
+Crea una nueva diapositiva y dale un color de fondo verde.
+hacer el título: Feminismo
+Establezca el color de la fuente del título en el fondo y el tamaño de la fuente en 26
+Inserte el siguiente contenido: "El feminismo es la creencia y la búsqueda de la igualdad de derechos, poder y oportunidades para las mujeres, paralelas a las de los hombres".
+Establezca el color de la fuente del contenido igual que el título, ponga el contenido en cursiva
+Crea una nueva diapositiva y nombra el título "Movimiento de la tercera ola de feminismo", del mismo color que la diapositiva anterior.
+Ponga el título en negrita y establezca el estilo de fuente en "Times New Roman". Establezca el color del título en azul y el tamaño en 28
+Inserte una imagen de una guerra y muévala al final de la diapositiva. ## 2, picture, slide, bottom
+Inserte un gráfico circular con los siguientes datos: EE. UU. (40 %), Rusia (30 %), Francia (30 %).
+Inserta una tabla con tres filas y dos columnas. La primera fila inserta Ubicación, Varias ciudades alrededor del mundo.
+
+Cree una nueva diapositiva y asígnele el nombre "Lanzamiento del producto".
+Inserta el contenido que dice "Objetivo". Insertar nota con el mismo contenido.
+Subraya el contenido y cambia su estilo de fuente a Times New Roman.
+Inserte una imagen de un Apple Pencil en la parte inferior izquierda. ## 1, picture, slide, left bottom
+Mueva la imagen al lado superior derecho de la diapositiva. ## 1, picture, slide, right top
+
+Nombre la diapositiva "Progreso del equipo".
+Inserte "Objetivo" en la parte de contenido.
+Inserte el siguiente contenido: "El objetivo de la organización es promover a los jóvenes y grupos marginados de esta generación a través de la tutoría de autónomos experimentados".
+cambie el tamaño de fuente del contenido a 18 y subraye el contenido,
+Inserte una imagen de un grupo de equipo a la derecha. ## 0, picture, content, right
+
+Nombre la diapositiva "El poder de la innovación"
+Establezca el estilo de fuente del título como Arial y ponga el título en negrita.
+inserte el siguiente contenido: "En el mundo actual que cambia rápidamente, la innovación desempeña un papel crucial en el impulso del crecimiento económico, la configuración de los paisajes políticos y la transformación de las normas culturales. Impulsa el progreso, fomenta la competitividad y abre nuevas posibilidades para las personas y las sociedades".
+establece el color del contenido como azul oscuro y haz que sea doble espacio,
+Inserte la imagen de un paisaje urbano futurista que representa la innovación y el progreso en la diapositiva izquierda. ## 0, picture, slide, left
+Inserte un pequeño rectángulo en la diapositiva derecha. ## 0, rectangle, slide, right
+Establecer el color del contenido de fondo,
+Cree una nueva diapositiva e inserte el contenido, "Opera sin racionalidad, sin tener en cuenta la moral social y los estándares externos".
+negrita y subraya el contenido, nombra la diapositiva "Cuentos de hadas"
+
+Establecer el título como: Urban Living
+Establecer el color de fondo como azul claro
+insertar una tabla con tres filas y dos columnas. En la segunda columna, inserte "Cantidad", "Calidad", "Nivel"
+inserte un triángulo y un rectángulo en la diapositiva. El triángulo debe estar en la parte superior del rectángulo. ## 0, triangle, rectangle, top
+mueve el triángulo a la parte inferior del rectángulo. ## 0, triangle, rectangle, bottom
+inserte una imagen de Shanghái en la esquina inferior izquierda de la diapositiva. ## 0, picture, slide, left bottom
+
+inserte una tabla con seis columnas y cuatro filas.
+inserte Year, Friends, Breaking Bad, Game of Thrones, Stranger Things, The Crown en la primera fila,
+Inserta una estrella en la diapositiva.
+Inserta una imagen de Friends directamente a la estrella. ## 0, picture, star, right
+Mueva la estrella al lado superior de la imagen. ## 0, star, picture, top
+nombra la diapositiva "serie de televisión". poner en cursiva el título y subrayar el título,
+Agregue una nota "2023-2025" en la diapositiva.
+
+inserte un triángulo rotado de 45 grados.
+Inserta un rectángulo a su derecha. ## 0, rectangle, triangle, right
+Inserta una estrella a la derecha del rectángulo. ## 0, star, rectangle, right
+Inserta un círculo a la derecha de la estrella. ## 0, circle, star, right
+Inserte una llamada girada -45 grados a la derecha del círculo. ## 0, callout, circle, right
+Inserte "formas" a todos los elementos.
+
+Inserta una imagen de un globo terráqueo,
+Nombra la diapositiva como "Estrategia de expansión global".
+Mueva la imagen a la parte superior izquierda de la diapositiva. ## 0, picture, slide, left top
+Inserte el siguiente contenido, "Paz y Amor"
+
+Inserte un gráfico circular con los siguientes datos, Shanghai 40%, Beijing 45%, Otros 5%.
+Nombra la diapositiva "Contribución",
+inserte el siguiente contenido, "El producto interno bruto anual de Beijing superó los 4 billones de yuanes ($ 630 mil millones) por primera vez en 2021"
+cambiar el estilo de fuente del contenido a Arial,
+Inserte un gráfico de líneas con los siguientes datos, 2016 6,7 %, 2017 6,9 %, 2018 6,6 %, 2019 6,1 %, 2020 2,3 %, 2021 8,1 %.
+Nombre la diapositiva "Crecimiento del PIB",
+Inserte un gráfico de barras con los siguientes datos, 2022 6,5 %, 2023 6,3 %, 2024 6,1 %, 2025 5,9 %, 2026 5,7 %, 2027 5,5 %.
+
+Cree una nueva diapositiva y asígnele el nombre "Plan de marketing".
+Dale a la diapositiva un color de fondo rojo.
+Inserte una imagen del logotipo de la empresa encima del título. ## 0, picture, title, top
+Por favor, haga que el ancho de la imagen sea de 3 pulgadas.
+
+Inserte el título "Queencard"
+Cursiva el título y negrita el título. cambie el color de fuente del título a púrpura.
+Dale a la diapositiva un fondo azul claro.
+insertar una imagen de un póquer a la derecha del título, ## 1, picture, title, right
+mover la imagen a la esquina superior de la diapositiva, ## 0, picture, slide, top corner
+inserte un círculo y muévalo a la esquina derecha de la diapositiva, ## 0, circle, slide, right corner
+establezca el ancho del círculo en 6 pulgadas y la altura en 4 pulgadas
+crea una nueva diapositiva y nombra la diapositiva como "Rey"
+inserte una imagen de un rey en la diapositiva derecha. ## 1, picture, slide, right
+
+Cree una nueva diapositiva y asígnele el nombre "Línea de tiempo del proyecto".
+Inserta una tabla con una fila y cuatro columnas,
+Inserte Jan, Feb, Mar, April en la tabla,
+Inserte "por ejemplo, "Lanzamiento de software", "Comienza la campaña de marketing"" en la diapositiva,
+Inserte una imagen del equipo del proyecto debajo de la mesa, ## 1, picture, table, bottom
+Agregue una forma de flecha, muévala hacia el lado izquierdo de la imagen. ## 1, arrow, picture, left
+Ajuste la altura y el ancho de la flecha a 3 pulgadas y 3 pulgadas.
+
+Inserte un gráfico circular con los siguientes datos, Mujer 40% y Hombre 60%
+Asigne al gráfico circular un título "Clase 1"
+Agregue una imagen de un equipo de estudiantes trabajando juntos,
+inserte un rectángulo en la diapositiva, mueva el rectángulo a la parte inferior del gráfico circular. ## 0, rectangle, pie chart, bottom
+Nombra la diapositiva "Grado 1"
+inserte el siguiente contenido, "a continuación se muestra el porcentaje de género en cada clase"
+subraye el contenido y haga un tamaño de fuente 20.
+agregue una nota "Principio: Eva" en la diapositiva.
+Cree una diapositiva y copie el gráfico.
+Copia la imagen.
+Copia el rectángulo.
+
+Cree una nueva diapositiva y asígnele el nombre "Testimonios de clientes".
+Inserte "Lo que dicen nuestros clientes sobre nosotros" en la parte del contenido, negrita y cursiva el contenido,
+Inserta una foto de un cliente feliz,
+Agrega un triángulo y rellénalo con color púrpura.
+Mueva el triángulo al lado derecho de la diapositiva, ## 1, triangle, slide, right
+
+Cree una nueva diapositiva y asígnele el nombre "Estrategia".
+Escriba "Nuestra estrategia de marketing se basa en las 4 P: producto, precio, plaza y promoción". en la parte de contenido,
+Cambia el tamaño de fuente del contenido a 20 puntos y haz que tenga doble espacio. subrayar el título y negrita el contenido,
+establezca el color de fuente del título y el contenido en rojo,
+Agregue una forma de rectángulo y muévala hacia el lado izquierdo de la diapositiva.## 1, rectangle, slide, left
+inserte una imagen del logotipo de la empresa Apple a la derecha del rectángulo.## 1, picture, rectangle, right
+Mueva la imagen al lado superior del rectángulo. ## 1, picture, rectangle, top
+
+nombre la diapositiva "Fans" y cambie el estilo y el tamaño a Arial, tamaño 24pt.
+Agregue viñetas con 4 elementos: "Beneficios de nuestro producto", "Mercado objetivo", "Estrategia de precios", "Canales de comercialización".
+Agregue una imagen de un ídolo y establezca la altura de la imagen en 6.5 pulgadas
+mover la imagen al lado inferior de la diapositiva, ## 0, picture, slide, bottom
+agregue un rectángulo al lado superior de la diapositiva, ## 0, rectangle, slide, top
+agregue una nota "Presentadora: Eva" en la diapositiva.
+
+Cree una nueva diapositiva y asígnele el nombre "Cifras de ventas".
+Agregue un gráfico de barras con datos "20 de enero, 30 de febrero" en el lado izquierdo de la diapositiva.
+Agregue un gráfico de líneas con los datos "10 de enero, 15 de febrero" en el lado derecho de la diapositiva.
+Agregue un título al gráfico de líneas como "Ventas por mes".
+Agregue una forma de rectángulo, muévala a la parte superior de la diapositiva. ## 1, rectangle, slide, top
+escriba "Nuestros ingresos también han aumentado constantemente durante los últimos 6 meses" en la parte de contenido,
+
+Cree una nueva diapositiva e inserte el título "Informe de ventas",
+insertar una tabla con dos filas y cinco columnas.
+Agregue los siguientes datos a la tabla: "Producto", "Unidades vendidas", "Ingresos", "Gastos", "Beneficio".
+Inserte los siguientes datos en la tabla: "Computadora", "1000", "$1000000", "$500000", "$500000".
+Otra tabla 1*5 con datos: "Impresora", "500", "$100000", "$50000", "$50000".
+
+inserte una imagen del horizonte de una ciudad en la parte superior. ## 0, picture, slide, top
+establezca el ancho de la imagen en 6 pulgadas y la altura en 4 pulgadas
+Ahora, agregue el título "Vida de la ciudad".
+mueva la imagen a la esquina izquierda de la diapositiva. ## 0, picture, slide, left corner
+Cambia el tamaño de fuente del título a 20 y ponlo en negrita.
+
+Inserte un gráfico de líneas basado en los siguientes datos, Concierto 40%, Álbum 30%, Libro 30%.
+Nombra la diapositiva como "El poder del fandom".
+Inserte "Los fanáticos juegan un papel vital en la configuración del éxito y el impacto de varias formas de entretenimiento, desde películas y programas de televisión hasta deportes y música". en la parte de contenido,
+establezca el estilo de fuente del contenido como Arial, cambie el tamaño de fuente del contenido a 20,
+Agregue una flecha a la diapositiva y muévala al lado superior de la diapositiva.## 0, arrow, slide, top
+Agregue un círculo a la diapositiva y muévalo a la parte inferior de la diapositiva.## 0, circle, slide, bottom
+Mover a la parte superior. ## 0, circle, slide, top
+
+Establezca el tema de la diapositiva en "Tencent".
+inserte un rectángulo, muévalo al lado superior de la diapositiva, ## 0, rectangle, slide, top
+girar el rectángulo 90 grados,
+Cambie la fuente del título a Georgia y póngala en cursiva.
+Inserte el siguiente texto en la parte del contenido: "Tencent es un conglomerado multinacional chino líder fundado en 1998. Se especializa en varios servicios y productos relacionados con Internet, que incluyen redes sociales, juegos en línea, comercio electrónico, computación en la nube e inteligencia artificial. "
+Ajuste el tamaño de fuente del contenido a 24 para una mejor visibilidad. Cambie el estilo de fuente del contenido a "Arial".
+
+Aplique un fondo verde a la diapositiva para que coincida con la marca de Tencent.
+Inserte el logotipo de Tencent como una imagen en la diapositiva.
+Establezca la imagen en 6,5 pulgadas de ancho,
+Inserte un gráfico de líneas con el rendimiento de los modelos: Modelo A 40%, Modelo B 30%, Modelo C 30%.
+también un gráfico de barras para esto.
+
+cree una nueva diapositiva y nombre su título como "El origen de los británicos" y subraye el título.
+Bien, inserte esto en la parte del contenido: "Los orígenes del Reino Unido se remontan a la época del rey anglosajón Athelstan, quien a principios del siglo X d. C. aseguró la lealtad de los reinos celtas vecinos y se convirtió en "el primer para gobernar lo que antes muchos reyes repartieron entre ellos,"
+Eso parece bueno. Pero el tamaño de fuente de las palabras es demasiado pequeño. Cámbialo a 20.
+Cambie el color del fondo de la diapositiva a verde y duplique el tamaño de la fuente.
+
+Ahora, inserte una forma de rectángulo, muévala hacia el lado derecho de la diapositiva. ## 0, rectangle, slide, right
+Cambie el color de relleno del rectángulo a amarillo.
+Establezca el título de la diapositiva en "Vinda".
+Inserte el siguiente texto en la parte de contenido: "Vinda Group es una empresa líder en productos de higiene fundada en 1985. Se especializa en la fabricación y distribución de papel tisú, productos de higiene desechables y productos para el cuidado personal".
+Cambie el tamaño de fuente del texto a 20 y su color a verde. Haga que el estilo de fuente sea el mismo que el del título.
+aplicar doble espacio a esta diapositiva.
+
+Ahora, agregue el título de la diapositiva "Mis pasatiempos".
+Inserte una imagen de una guitarra en la parte superior derecha. ## 0, picture, slide, right top
+Escribe "Tocar la guitarra es uno de mis pasatiempos favoritos". en la parte de contenido.
+Cambie el tamaño de fuente del texto a 24 y su color a morado.
+
+Cree una nueva diapositiva y asígnele el nombre "Plan de marketing".
+Por favor, inserte el título en la parte de contenido.
+Cambie el estilo de fuente del contenido a una fuente limpia y profesional como "Calibri".
+Inserte el logotipo de Vinda como una imagen en la diapositiva.
+Mueva la imagen a la esquina izquierda de la diapositiva. ## 1, picture, slide, left corner
+
+Cree una nueva diapositiva y agregue el título "Campaña de marketing" de tamaño 20.
+Bien, ahora inserte una imagen de un cliente sonriente. Mueva la imagen a la parte superior izquierda de la diapositiva. ## 1, picture, slide, left top
+Eso es bueno, pero la imagen es demasiado grande. Cambie el tamaño para que tenga 5 pulgadas de alto y 6 pulgadas de ancho.
+Genial, ahora agregue viñetas de los beneficios de la campaña de marketing, incluidas las ganancias, la reputación y la cotización.
+aumente el tamaño de fuente de todo el contenido de la diapositiva a 20.
+
+Nombra la diapositiva como "Tipos de batería".
+El título debe estar en negrita y en cursiva.
+Ahora agregue una imagen del "Producto A".
+Eso es bueno, ahora mueva la imagen al lado izquierdo de la diapositiva. ## 0, picture, slide, left
+Inserte una tabla de dos columnas y cuatro filas, con los siguientes datos: Tipo de batería, Descripción en la primera fila, Baterías alcalinas y Comunes de uso doméstico de larga duración en la segunda fila, Baterías de iones de litio y Recargables utilizadas en dispositivos electrónicos en la tercera fila, y Niquel-cadmio, Baterías recargables de alta densidad de energía en la cuarta fila.
+
+Inserte un gráfico circular utilizando los siguientes datos: Marca A: 30 %; Marca B: 25 %; Marca C: 20 %; Marca D: 15 %; Otras marcas: 10 %
+Nombra el gráfico circular "Marcas de aire acondicionado"
+Inserte "esta diapositiva incluye una breve descripción o puntos clave sobre cada marca" en la parte de contenido,
+inserte una imagen de Haier en la diapositiva inferior, ## 0, picture, slide, bottom
+subrayar el contenido y cambiar el color de fuente del contenido a verde,
+insertar un triángulo y un rectángulo en la diapositiva,
+mueve el triángulo al lado inferior del rectángulo. ## 0, triangle, rectangle, bottom
+gira el rectángulo 45 grados.
+
+Escriba "Nuestro equipo" como título.
+Inserte una imagen de un equipo y cambie su tamaño a 4 pulgadas de ancho y 3 pulgadas de alto.
+Gire la imagen 45 grados.
+mueva la imagen a la parte superior izquierda de la diapositiva. ## 0, picture, slide, left top
+Cambie el estilo de fuente del título a Calibri y aumente el tamaño de fuente a 28.
+
+Establezca el tema de la diapositiva en "Tarjeta de identificación"
+Inserte un nuevo gráfico y elija el tipo de gráfico de líneas con los siguientes datos, Fujian, Shanghai, Beijing en la X y 120, 140, 110 en la Y.
+Asigne al título del gráfico "Operación de tarjeta de identificación".
+Inserte una imagen sobre una tarjeta de identificación en la diapositiva, muévala hacia la derecha. ## 0, picture, slide, right
+Cambie el estilo de fuente del título de la diapositiva a Verdana y aumente el tamaño de fuente a 32.
+Dale a la diapositiva un color de fondo morado.
+
+Escribe "Informe de ventas" como título.
+Cambia la fuente del título a Arial. Haz que el tamaño de letra del título sea de 48 puntos. Establece el título en negrita.
+Agregue una nueva tabla con tres columnas y cinco filas.
+Agregue la siguiente información a la primera fila: "Región", "Ventas", "Crecimiento". Agregue la siguiente información a las siguientes cuatro filas: "Norte", "$50 000", "5 %", "Este", "$75 000", "10 %", "Sur", "$45 000", "3 %", " Oeste", "$60,000", "8%".
+Establezca el color de fondo de la diapositiva en verde.
+Inserte el siguiente texto en la parte del contenido: "Nombre: John Doe, Fecha de nacimiento: 1 de enero de 1990, Género: Masculino, Número de identificación: 123456789, Autoridad emisora: Departamento de Vehículos Motorizados, Fecha de vencimiento: 31 de diciembre de 2023"
+Inserte una imagen de una playa en la diapositiva.
+inserte una flecha en la diapositiva.
+Mueva la imagen al lado superior de la flecha. ## 0, picture, arrow, top
+
+agregue una nueva forma de rectángulo.
+Cambia el color de relleno del rectángulo a naranja.
+establezca el ancho del rectángulo en 6 pulgadas y la altura en 5 pulgadas
+Escriba "Información importante" en negrita como título.
+Ajuste el tamaño de fuente del título a 24 y cambie el color de fuente a verde.
+Agregue una lista de viñetas con estos artículos, olla, tijeras, pala.
+Agregue una imagen de una marca excalmatoria en la diapositiva.
+mueva la imagen a la esquina superior de la diapositiva. ## 0, picture, slide, top corner
+Cree una nueva diapositiva e inserte un rectángulo a la izquierda. ## 1, rectangle, slide, left
+Nombra la nueva diapositiva como "Detalles adicionales".
+
+Escriba "Aquí hay algunas estadísticas sobre el crecimiento de nuestra empresa" en la parte de contenido.
+Cambia el color de fuente del contenido a morado.
+Agregue una nueva tabla con tres columnas una fila.
+Agregue "ingresos, ganancias y número de empleados" a la tabla.
+
+Inserte una imagen de los zapatos Converse en la diapositiva.
+Agregue el siguiente contenido a la diapositiva: "Converse es una marca de calzado popular conocida por sus zapatillas icónicas y su estilo informal".
+Cambie el tamaño de fuente del contenido a 18 y el color de fuente a rojo.
+
+Agregue el siguiente contenido a la diapositiva: "El jugo de limón es una bebida refrescante y ácida hecha con limones recién exprimidos. Es rico en vitamina C y proporciona una explosión de sabor cítrico".
+Nombra la nueva diapositiva como "Jugo de limón".
+Crea una tabla con 3 columnas y 2 filas. Ingrese "Producto", "Precio" y "Características" en la primera fila. Introduzca "A", "B", "C" en la segunda fila.
+Inserte una imagen de jugo de limón recién exprimido a la derecha de la tabla. ## 0, picture, table, right
+Agregue "Página 1" en la diapositiva.
+
+Inserte una imagen de una playa en la parte superior izquierda. ## 0, picture, slide, top left
+Agregue "¡Reserve sus vacaciones hoy!" en la parte de contenido.
+Agregue el título "Tiempo de vacaciones".
+Cambie el tamaño de fuente y el estilo de todos a 18 y Times New Roman.
+Agregue una lista con viñetas con los siguientes elementos: "Relajarse en la playa", "Nadar en el océano", "Comer deliciosos mariscos".
+
+Cree una nueva diapositiva y asígnele el nombre "Chili".
+Cambia el color de fondo de la diapositiva a rojo.
+Inserte una imagen de un plato delicioso de chili en la diapositiva.
+Agregue el siguiente contenido a la diapositiva: "El chile es un plato picante y sabroso hecho con una combinación de carne, frijoles y varias especias. Es conocido por su rico sabor y su picante picante".
+
+Nombra la diapositiva "Chili". Inserte una imagen del paisaje de Chile en la diapositiva.
+Crea una tabla con 4 columnas y 3 filas. Ingrese "Ingrediente", "Cantidad", "Nivel de picante" y "Origen" en la primera fila. Ingrese "Carne de res", "2 libras", "Mediano" y "México" en la segunda fila. Ingrese "Frijoles", "1 lata", "Suave" y "Estados Unidos" en la tercera fila. Ingrese "Tomates", "3", "Hot" y "Spain" en la cuarta fila.
+Agregue una nota "Página 2" para indicar el número de diapositiva.
+
+inserte una imagen de alguien comiendo hamburguesa en la parte inferior. ## 0, picture, slide, bottom
+Haga que el título de la diapositiva sea "Proyecciones de ventas para el tercer trimestre".
+Agregue el siguiente contenido a la diapositiva: "Las proyecciones de ventas para el tercer trimestre indican un crecimiento constante en los ingresos y la participación de mercado. Con estrategias de marketing dirigidas y mejoras de productos, anticipamos un aumento significativo en el rendimiento de las ventas".
+
+El título no es lo suficientemente descriptivo, cámbielo a "Estrategia de marketing".
+Genial, escribe "La estrategia de marketing de nuestra empresa es centrarse en la publicidad en las redes sociales y el marketing de influencers".
+A continuación, agregue una lista de viñetas de Instagram, Facebook y Twitter.
+Inserte una imagen de una persona usando un teléfono inteligente.
+Agregue una forma de rectángulo sobre la imagen. ## 0, rectangle, picture, top
+Crea una tabla con 4 columnas y 6 filas. Ingrese "Mes", "Ingresos", "Unidades vendidas" y "Tasa de crecimiento" en la primera fila.
+
+Cree una nueva diapositiva y asígnele el nombre "Lanzamiento del producto".
+Agregue un título a la diapositiva, "Presentamos nuestro producto más nuevo".
+Inserte una imagen del producto,
+Mover la imagen al lado inferior de la diapositiva, ## 1, picture, slide, bottom
+dé a la diapositiva un fondo morado y la imagen debe estar en la parte superior. ## 1, picture, slide, top
+
+Nombra la diapositiva como "Explorar China".
+Inserte un mapa de China para mostrar los diversos destinos turísticos del país.
+Mueva la imagen de China a la esquina izquierda de la diapositiva. ## 0, picture, slide, left corner
+Agregue el siguiente contenido a la diapositiva: "China es un destino turístico cautivador conocido por su rica historia, cultura vibrante y paisajes impresionantes. Desde la icónica Gran Muralla hasta la bulliciosa metrópolis de Shanghái, hay algo para cada viajero en este vasto y país diverso".
+Crea una tabla con 5 columnas y 8 filas. Ingrese "Provincia", "Atracciones famosas", "Temperatura promedio", "Número de turistas" y "Temporada recomendada" en la primera fila.
+Cree una nueva diapositiva y asígnele el nombre "Línea de tiempo del proyecto".
+inserte una estrella en la diapositiva a la izquierda después del título. ## 1, star, slide, left
+Mueve la estrella al lado derecho de la diapositiva. ## 1, star, slide, right
+
+Nombra el título como "OPPO". Establezca el color de fuente en rojo, el tamaño de fuente en 20 y subraye y ponga en negrita el título.
+Inserte el siguiente contenido en la parte de contenido: "OPPO es un fabricante líder de teléfonos inteligentes conocido por sus diseños innovadores y tecnología de punta.
+Inserte una imagen de un teléfono inteligente OPPO para mostrar la marca, debe dejarse en el contenido. ## 0, picture, content, left
+crea una nueva diapositiva y llámala "Xiaomi"
+Cree una tabla con 4 columnas y 3 filas. En la primera fila, ingrese "Producto", "Precio", "Características" y "Disponibilidad" en la primera fila. En la segunda fila, ingrese los siguientes datos para los productos Xiaomi: "Mi 11", "$699", "Snapdragon 888, cámara de 108MP", "Global". En la tercera fila, ingrese los siguientes datos para los productos Xiaomi: "Redmi Note 10", "$249", "Pantalla AMOLED, cámara de 48MP ", "Global".
+
+Cree una nueva diapositiva y asígnele el nombre "Descripción general del producto".
+Inserte una tabla con 3 columnas y 4 filas en la diapositiva. En la primera columna, escriba "Nombre del producto", "SKU", "Precio" y "Cantidad".
+Establezca el color de fondo como verde.
+
+Establezca un color de fondo azul para esta diapositiva. Establezca el título como "Escritura de investigación".
+Inserte el siguiente contenido en la diapositiva: "La escritura de investigación implica la investigación y documentación sistemáticas de un tema para contribuir con nuevos conocimientos e ideas a un campo en particular".
+Cambie el color de fuente del contenido a amarillo y el tamaño de fuente a 18.
+Duplica el tamaño de la fuente.
+Cree un gráfico de líneas usando los siguientes datos, 2016, 2017,2018 como datos en X, 120,140,160 como datos en Y.
+Nombre el gráfico de líneas "Publicaciones a lo largo del tiempo".
+Inserta una imagen de la portada de un escrito de investigación. Cambia el color de fondo al mismo que el anterior.
+
+Cree una nueva diapositiva y agregue un título a la diapositiva que diga "Programar en marzo".
+Formatee el tamaño de fuente del título a 28 y el color a azul oscuro.
+Inserta una tabla con cuatro columnas y tres filas. La primera fila es "Fecha","Tarea","Hora de inicio","Hora de finalización". La segunda fila es "15 de marzo", "Reunión con las partes interesadas", "9:00 AM" y "10:30 AM". La última fila es "23 de marzo", "Revisión y actualización del proyecto", "2:00 p. m." y "4:00 p. m."
+Inserta una imagen de un calendario. Muévelo en el lado superior de la mesa.
+
+Cree una nueva diapositiva y asígnele el nombre "Los beneficios de la meditación".
+Inserta una imagen de una persona meditando. Muévelo en la parte inferior de la diapositiva. ## 1, image, slide, bottom
+Escribe "La meditación es una técnica simple pero poderosa que puede ayudarte a lograr un estado de paz interior y tranquilidad". en la parte de contenido.
+Cambie el tamaño de fuente del contenido a 24 y establezca el estilo de fuente en Times New Roman.
+Inserta un rectángulo. Muévelo al lado derecho de la imagen. ## 1, rectangle, image, right
+Cambia el color del rectángulo a verde claro.
+Cree otra diapositiva y el color de fondo debe ser azul claro.
+Inserta una tabla con dos columnas y tres filas.
+En la primera columna, escriba "Meditación de atención plena", "Meditación trascendental" y "Meditación de escaneo corporal". En la segunda columna, inserte "La meditación ayuda a calmar la mente y reducir los niveles de estrés, promoviendo la relajación", "La práctica regular de meditación mejora las habilidades de enfoque y concentración" y "La meditación fomenta la estabilidad emocional, la atención plena y el bienestar general". "
+
+Crea una nueva diapositiva y dale un fondo verde.
+Inserte una imagen de un pastizal y haga que el ancho y la altura sean 6.5 y 5.5.
+Agregue un título a la diapositiva y llámelo "Las funciones de los bosques". Cambie el color de fuente a rojo oscuro y el tamaño de fuente a 40.
+Inserta una forma de "flecha" amarilla.
+Mueva la flecha hacia el lado derecho de la imagen. ## 1, arrow, picture, right
+
+Inserta un gráfico circular. "comida, vivienda, transporte, entretenimiento, otros" son la categoría, y 40%, 20%, 15%, 10%, 15% son el porcentaje.
+Inserta una tabla con dos columnas y seis filas. La primera fila escribe Categoría y Porcentaje.
+Mueva la tabla al lado inferior del gráfico circular. ## 0, table, pie chart, bottom
+Nombra la diapositiva "Mis gastos en mayo de 2023"
+Cursiva el título.
+
+Cree cinco diapositivas y a cada una aplique un fondo amarillo.
+En la primera diapositiva, nombre el título "Mis vacaciones de verano" y cambie el estilo de fuente a "Microsoft JhengHei".
+En la segunda diapositiva, inserte una imagen de una familia.
+En la tercera diapositiva, inserte un gráfico de barras. "Ventas", "Gastos", "Beneficios", "Inversión" son datos en X, 120, 80,40,60 son datos en Y.
+En la cuarta diapositiva, inserte el siguiente contenido: "Durante mis vacaciones de verano, me embarqué en una aventura inolvidable. Exploré nuevos destinos, me sumergí en la calidez de los atardeceres dorados y me relajé en las playas de arena".
+En la quinta diapositiva, inserte una tabla con dos filas y una columna. Llene la tabla con "Ventas" y "Gastos". El tamaño de letra debe ser 26.
+
+Cree una diapositiva y asígnele el título "Plan de negocios".
+Inserta una imagen de una bombilla. Muévalo al lado izquierdo de la diapositiva. ## 1, picture, slide, left
+Escriba "El espíritu empresarial es el proceso de diseño, lanzamiento y gestión de una nueva empresa, que suele ser inicialmente una pequeña empresa. Las personas que crean estas empresas se denominan empresarios". en la parte de contenido.
+Establezca el estilo de fuente como "Georgia" y el tamaño de fuente como 10.
+Cambia el color de fondo de la diapositiva a verde.
+Agregue una forma de círculo en la diapositiva.
+Mueve el círculo al lado derecho de la diapositiva. ## 1, picture, slide, right
+Vaya a la diapositiva 0 y escriba "Estrategia de marketing" en la parte de contenido.
+Inserta una tabla con 3 filas y 4 columnas. La primera columna escribe "Campaña de redes sociales", "Asociaciones de influenciadores" y "Marketing por correo electrónico".
+La cuarta columna escribe $10000, $15000, $5000.
+Agregue una nota "2023/5".
+
+Asigne a la diapositiva el nombre "Público objetivo" y conviértalo en el estilo de fuente "Arial".
+Mueva el título a la esquina derecha de la diapositiva. ## 0, title, slide, right corner
+Inserte una imagen sobre Gen Z y establezca su ancho 4.
+Mueva la imagen a la parte inferior izquierda de la diapositiva.## 0, picture, slide, left bottom
+Inserte el siguiente contenido en la parte de contenido, "Comprender y dirigirse de manera efectiva a la audiencia correcta es crucial para entregar mensajes personalizados y maximizar el impacto de los esfuerzos de marketing".
+
+Inserte el título "Lo esencial del modelado a gran escala" y establezca el tamaño de fuente en 24.
+Inserte una imagen de una red neutral. Muévalo a la parte inferior de la diapositiva. ## 0, picture, slide, bottom
+Inserta una tabla con dos columnas y una fila. Llene la tabla con "Número" y "Nota".
+Mueva la mesa a la parte superior. ## 0, table, slide, top
+
+Inserte una imagen de una torre resistente y de aspecto amenazante. Muévalo a la parte superior derecha de la diapositiva. ## 0, picture, slide, right top
+El título de la diapositiva debe ser "The Ultimate Heist".
+Crea un rectángulo. Mueva el rectángulo a la parte superior del título. ## 0, rectangle, title, top
+Cambia el color de fuente del título a verde oscuro y el tamaño de fuente a 28.
+Cambie el estilo de fuente a "Microsoft New Tai Lue".
+Dale a la diapositiva un color de fondo azul claro.
+
+Inserta una tabla con 4 columnas y 2 filas. La primera fila escribe Tarea, Prioridad, Hora de inicio, Hora de finalización. La segunda fila escribe Planificación del proyecto, Alta, 9:00 a. m., 10:30 a. m.
+Escriba el contenido "La gestión eficaz del tiempo es una habilidad crucial para el éxito tanto en el ámbito personal como profesional". en la parte de contenido.
+Subraya y cursiva el contenido.
+Mueva la tabla al final del contenido. ## 0, table, content, bottom
+Inserte una imagen de un reloj en la diapositiva.
+Añade la nota "Presentadora: Eva".
+
+Cree una nueva diapositiva y agregue un título "Perfil de la empresa"
+Inserte el siguiente texto en la parte del contenido: "Nuestra empresa se fundó en 2005 con el objetivo de proporcionar productos y servicios de alta calidad a nuestros clientes. Desde entonces, nos hemos convertido en un proveedor líder de soluciones innovadoras para una amplia gama de industrias. Nuestro equipo de expertos está comprometido a brindar excelencia en todo lo que hacemos".
+Cambie el estilo de fuente del título a "Calibri Light" y el tamaño de fuente a 40
+Agregue una imagen del logotipo de la empresa a la diapositiva derecha ## 1, picture, slide, right
+Cambie el tamaño de la imagen para que su altura sea de 2 pulgadas y su ancho de 3 pulgadas. Muévelo a la diapositiva izquierda. ## 1, picture, slide, left
+Mueva la imagen a la esquina izquierda de la diapositiva.## 1, picture, slide, left corner
+Crea una nueva diapositiva y dale un color de fondo azul.
+Agregue el siguiente texto en la parte de contenido: "Ser un líder en innovación y sostenibilidad, entregando valor a nuestros grupos de interés e impactando positivamente en el mundo".
+Subraye el contenido y establezca el contenido a doble espacio.
+Inserta una tabla con dos columnas y una fila. Inserte los siguientes datos en la tabla, "A-72", "C-71"
+Inserta una tabla con dos columnas y una fila. Inserte los siguientes datos en la tabla, "B-72", "D-71"
+
+Cree una nueva diapositiva y asígnele el nombre "Datos de ventas".
+Inserte una tabla con 6 columnas y 15 filas en la parte de contenido de la diapositiva
+Complete la tabla con los siguientes datos: "Producto", "Ventas de enero", "Ventas de febrero", "Ventas de marzo", "Ventas totales" y "Ventas promedio" en la primera fila, y "iPhone", "22" , "13","15","17","12" en la segunda fila.
+Mueva la tabla a la esquina superior izquierda de la diapositiva. ## 1, table, slide, left corner
+Finalmente, agregue una nota "Fuente de datos: departamento de ventas" a la diapositiva.
+Cree una nueva diapositiva y copie la tabla.
+
+Agregue un título "Estrategias de marketing"
+Cambia la fuente del título a "Arial Black"
+Agregue la siguiente parte de contenido: "Optimización de motores de búsqueda (SEO)", Marketing de medios sociales (SMM)", "Marketing de correo electrónico", "Marketing de contenido" y "Publicidad de pago por clic (PPC)".
+Cambia el color de fuente del contenido a azul oscuro
+El contenido no es visible. Cambia el color del contenido a verde.
+Inserte una imagen de un pulgar debajo del contenido. Establezca su ancho en 5 pulgadas. ## 0, picture, content, bottom
+
+Inserte el título "El Gran Cañón" y póngalo en cursiva.
+Haz la fuente más grande. Tal vez el tamaño de fuente debería ser 30.
+Cambia el estilo de fuente del título a "Times New Roman"
+Inserte una imagen del Gran Cañón en la parte de contenido de la diapositiva.
+Mueva la imagen al lado derecho del título. ## 0, picture, title, right
+Cambie el tamaño de la imagen para que tenga 4 pulgadas de alto y 6 pulgadas de ancho
+Crea una tabla con cuatro columnas y 2 filas. Inserte "Guangdong","Beijing", "Shanghai" y "Hainan" en la primera fila. Inserte "34%", "36%", "20%", "10%" en la segunda fila.
+Inserte un gráfico circular según los datos de la tabla, es decir, ["Guangdong","Beijing", "Shanghai" y "Hainan"], ["34 %", "36 %", "20 %", "10 %"]
+Mueva el gráfico circular a la parte inferior de la tabla. ## 0, pie chart, table, bottom
+Inserte un gráfico de barras con los mismos datos.
+Finalmente, agregue una nota "Fuente de la imagen: Servicio de Parques Nacionales".
+
+Cree una nueva diapositiva y asígnele el nombre "Comparación de productos".
+Inserta una tabla con 2 columnas y 5 filas. Inserte los siguientes datos en la tabla, "Teléfono inteligente (Apple iPhone 13)", "Laptop (Dell XPS 13)", "Smartwatch (Apple Watch Series 7)", "Auriculares (Sony WH-1000XM4)", "Cámara (Canon EOS R5)", "Televisor (Samsung QLED Q90T)", "Consola de juegos (PlayStation 5)", "Rastreador de actividad física (Fitbit Charge 4)", "Auriculares inalámbricos (AirPods Pro)", "Tableta (iPad Pro)".
+Mueva el título a la esquina inferior de la diapositiva. ## 1, title, slide, bottom corner
+Finalmente, dale a la diapositiva un color de fondo azul claro.
+
+Cree una nueva diapositiva y asígnele el nombre "Informe de ventas mensuales"
+Inserte un gráfico de barras en la parte de contenido de la diapositiva con los siguientes datos: "Enero: $10 000", "Febrero: $12 000", "Marzo: $15 000", "Abril: $18 000", "Mayo: $20 000", "Junio: $25 000". ", "julio: $28 000", "agosto: $30 000", "septiembre: $32 000", "octubre: $35 000", "noviembre: $40 000", "diciembre: $45 000"
+Nombra el gráfico como "Mis ventas mensuales en 2023"
+Mueva el gráfico al lado superior de la diapositiva. ## 1, chart, slide, top
+Inserte el siguiente texto en la parte de contenido: "El informe de ventas mensual muestra un aumento significativo en los ingresos".
+Finalmente, agregue una nota "Presentado por: xxx" a la diapositiva.
+
+Cambie el color de fondo a rojo claro e inserte una imagen de fresa.
+Crea tres diapositivas nuevas. Y nombre sus títulos: "Alcance del proyecto", "Cronología del proyecto" y "Presupuesto del proyecto", respectivamente.
+Aplique verde claro, azul claro y morado a cada portaobjetos, respectivamente.
+Agregue el siguiente texto a la parte de contenido en la diapositiva 1: "Nuestro proyecto consiste en desarrollar una nueva aplicación de software para nuestros clientes. La aplicación agilizará sus procesos comerciales y mejorará sus resultados".
+Inserte una tabla con 6 columnas y 2 filas en la segunda diapositiva. Y agregue los siguientes datos a la tabla: Mes, Tarea, Fecha de inicio, Fecha de finalización, Progreso y Comentarios en la primera fila.
+Haz un gráfico de líneas y los datos son [2016,2017,2018,2019], [10,12,15,11]. Muévelo al lado izquierdo de la mesa. ## 1, line chart, table, left
+Inserte una forma de estrella en la diapositiva. Muévelo a la esquina superior de la diapositiva. ## 1, star, slide, top corner
+Vaya a la diapositiva 2 y subraye su título "Línea de tiempo del proyecto".
+Pase a la diapositiva 3, inserte el siguiente contenido, "Gastos de personal: Esto incluye los costos asociados con los miembros del equipo del proyecto, como sueldos, salarios, beneficios y gastos de capacitación".
+Cambia el estilo de fuente del contenido a "Arial"
+Agregue una nota "¡Gracias!" al archivo
+
+Nombra la diapositiva "Línea de tiempo de la empresa"
+Inserte un rectángulo y luego gírelo a la derecha con 45 grados
+Mueva el rectángulo a la parte inferior derecha de la diapositiva. ## 0, rectangle, slide, right bottom
+Haz que el color de fondo de la diapositiva sea azul claro
+Inserta una tabla con cuatro columnas y dos filas. Agregue las siguientes cuatro fechas: "1980", "1990", "2000", "2010" en la primera fila.
+Agregue los siguientes cuatro eventos: "Empresa fundada", "Empresa trasladada a un nuevo edificio", "Empresa se hizo pública", "Empresa adquirida por un competidor" en la segunda fila.
+
+Inserte una imagen del logotipo de una empresa de Google en la parte inferior. ## 0, picture, slide, bottom
+Luego, nombra el título como "Conclusión" y ponlo en cursiva.
+Eso se ve bien. Inserte el contenido, "Somos cada vez más una población mundial, mezclándonos libremente. Eso creará un mundo de híbridos: piel morena clara, cabello oscuro, afro-euro-australo-americano-asiáticos, su color de piel y rasgos faciales tienden a hacia un promedio mundial".
+Alinear el contenido a la derecha
+Inserte un rectángulo en la diapositiva y establezca su altura en 5.
+Luego, mueva el rectángulo a la parte inferior de la diapositiva. ## 0, rectangle, slide, bottom
+
+cree una nueva diapositiva y establezca el título como "Crítica literaria ética" y en negrita
+El color del título no es muy llamativo, así que establezca el color del título en azul.
+luego inserte el texto: "El método de la crítica literaria ética es un nuevo método de crítica literaria presentado por el profesor Nie Zhenzhao de la Universidad Normal de China Central después de una investigación comparativa, una combinación fina y un replanteamiento de la historia y la situación actual de la crítica literaria china y occidental teorías y métodos".
+luego inserte una imagen de la portada del libro Introducción a la crítica literaria ética de Nie Zhenzhao
+para ser específicos, mueva la imagen al lado izquierdo de la diapositiva.## 1, picture, slide, left
+luego inserte un rectángulo a la derecha. ## 1, rectangle, slide, right
+El fondo no es bueno, así que cambie el color de fondo a amarillo claro.
+
+cree una nueva diapositiva y establezca el título como "Jane Eyre de Charlotte Bronte" y ponga el título en cursiva
+luego, inserte el texto: "En el final aparentemente feliz, Charlotte usa un legado y un fuego para construir la trama". y en negrita
+cambie el color de fuente a rojo oscuro, luego cambie el estilo de fuente del texto a "Arial"
+inserte una flecha al lado derecho del texto. ## 1, arrow, text, right
+inserte una tabla con dos columnas y dos filas, la primera fila escribe categoría, información; la segunda fila escribe el año de publicación, 1847.
+luego inserte una imagen del retrato de Charlotte Bronte debajo de la mesa. ## 1, picture, table, bottom
+mueva la imagen una en la parte superior de la tabla. ## 1, picture, table, top
+
+establecer un fondo azul para esta diapositiva
+establezca el título como "Id en David Copperfield" y ponga en cursiva David Copperfield
+luego inserte esto en la parte del contenido: "Id es una especie de impulso instintivo animal, se confunde sin racionalidad, y busca la satisfacción ciegamente y acumula posibilidades de abreacción. Uno. Id no se preocupa por la moral social o el estándar de comportamiento externo. Id es el lugar para almacenar el instinto".
+luego agregue una imagen del libro David Copperfield arriba del contenido. ## 0, picture, content, top
+la imagen es demasiado pequeña, así que por favor hágala más grande, con 5 pulgadas de alto y 6 pulgadas de ancho.
+inserte una estrella, muévala al lado derecho de la imagen. ## 0, star, image, right
+finalmente, agregue una viñeta para el texto en la parte de contenido.
+
+Inserta una tabla con tres filas y dos columnas. Inserte Ubicación, Varias ciudades alrededor del mundo, en la primera fila, Etnicidad, comunidad y cultura china, en la segunda fila y Características, arquitectura china, negocios, cocina, celebraciones culturales, en la tercera fila.
+agregue un título "China Town" y negrita el título.
+Inserte un gráfico circular, los siguientes son datos, Restaurantes chinos, 40%; tiendas minoristas chinas, 30 %; festivales y eventos culturales, 30 %
+Inserte una imagen de un pueblo de China en la diapositiva.
+Mueva la imagen al lado inferior de la diapositiva. ## 0, picture, slide, bottom
+Inserta una estrella en la diapositiva derecha. ## 0, star, slide, bottom
+Agrega una nota "China Town" en la diapositiva.
+
+crea una nueva diapositiva y dale un color de fondo verde.
+haga que el título de la diapositiva sea "feminismo" y configure el color de fuente del título como el color de fondo.
+luego inserte el contenido "El feminismo es la creencia y el objetivo de que las mujeres deben tener los mismos derechos, poder y oportunidades que los hombres"
+el color de la fuente no es atractivo, establezca el color de la fuente en amarillo y ponga el contenido en cursiva.
+
+establece el título como "3.ª ola del movimiento feminista" y ponlo en negrita
+cambie el estilo de fuente del título a "Times New Roman". establezca el color del título en azul y el tamaño en 28
+luego inserte el contenido "Se enfoca en creencias religiosas multirraciales, costumbres étnicas, multiculturalismo, protección ambiental, consumismo, orientación a la diversidad"
+Inserta un retrato femenino encima del contenido. ## 0, picture, content, top
+
+cree una nueva diapositiva y establezca el título como "adaptación cinematográfica de Orgullo y prejuicio"
+luego establezca el tamaño de fuente en 24 y ponga el título en cursiva.
+inserte esto en la parte del contenido: "Catorce años después de su primera emisión, la adaptación de 1995 del guionista Andrew Davies de la novela Orgullo y prejuicio de Jane Austen sigue siendo un punto de referencia contra el cual se mide popularmente la adaptación de Austen. Destaca por su 'sexo' del drama de época ", la adaptación aparentemente aborda las sensibilidades modernas y las expectativas dramáticas contemporáneas. Las elecciones interpretativas de Davies ponen énfasis en la sensualidad y enfocan los deseos de Darcy".
+Agregue viñetas a la parte de contenido.
+haga el tamaño de fuente del contenido 20 y establezca doble espacio
+inserte una imagen web de la película de 1995 de Orgullo y prejuicio
+inserte un rectángulo, acceda a la esquina derecha de la diapositiva, ## 1, rectangle, slide, right corner
+emm, cambia el color de fondo a naranja claro
+
+Inserta una tabla con tres filas y dos columnas.
+Llene la tabla con "Ubicación", "Etnicidad" en la primera columna.
+inserte el siguiente texto: "Elizabeth Bennet y el Sr. Darcy experimentan un desarrollo de carácter significativo a lo largo de la novela, aprendiendo lecciones importantes sobre ellos mismos y la sociedad.
+inserte una imagen de Elizabeth Bennet y el Sr. Darcy en la parte inferior de la tabla. ## 0, picture, table, bottom
+mover la imagen al lado derecho de la diapositiva. ## 0, picture, slide, right
+dibujar un rectángulo. Muévalo a la esquina izquierda de la diapositiva. ## 0, rectangle, slide, left corner
+luego cree una nueva diapositiva y nombre el título "El papel de la clase social en el orgullo y el prejuicio" y subraye el título
+inserte este texto: "La clase social juega un papel importante en la novela, influyendo en las relaciones, decisiones y autopercepciones de los personajes".
+dibuja un pequeño círculo en la esquina inferior derecha y establece su color en naranja
+cambie el color de fondo de la diapositiva de azul claro a naranja.
+
+crea una nueva diapositiva y haz que el título sea "Formas"
+Inserte un rectángulo rojo en la diapositiva izquierda. ## 0, rectangle, slide, left
+Inserte un círculo azul en la diapositiva derecha. ## 0, circle, slide, right
+Inserte un triángulo verde en la diapositiva izquierda. ## 0, triangle, slide, left
+Inserte una llamada amarilla en la diapositiva derecha. ## 0, callout, slide, right
+
+inserte una imagen que represente una escena de matrimonio del siglo XIX en el lado derecho de la diapositiva. ## 0, picture, slide, right
+añade un triángulo. Mueva el triángulo al lado derecho de la imagen. ## 0, triangle, picture, right
+Nombra el título "matrimonio del siglo XIX"
+cursiva y negrita el título. Cambie el color de fuente a naranja oscuro.
+
+Inserte un gráfico circular basado en los siguientes datos, Vainilla: 30 %, Chocolate: 25 %, Fresa: 15 %, Chispas de chocolate con menta: 10 %, Galletas y crema: 10 %, Mantequilla de pecanas: 10 %
+encontrar una imagen de una fresa. Mueva la imagen al lado inferior del gráfico circular. ## 0, picture, pie chart, bottom
+inserte el siguiente contenido: "Los gastos aumentaron significativamente el último trimestre debido a mayores costos operativos y una mayor inversión en iniciativas de marketing".
+Cambie el estilo de fuente a Times New Roman y el tamaño de fuente a 18.
+
+cree una nueva diapositiva y nombre el título y la nota al pie "Creación de PPT"
+inserte el siguiente contenido: "La creación de presentaciones de PowerPoint atractivas e impactantes requiere una planificación y ejecución cuidadosas".
+subraya el contenido y haz que el color de la fuente sea rojo oscuro.
+poner el título de la diapositiva en negrita y cursiva
+agregue una nota "PPT" en la diapositiva.
+
+crea una nueva diapositiva y nombra el título "Redes neuronales"
+escriba el siguiente contenido con viñetas: "Las redes neuronales son un tipo de algoritmo de aprendizaje automático que se modelan a partir de la estructura del cerebro humano. Consisten en capas de nodos interconectados que procesan información y aprenden a reconocer patrones".
+cambiar el color de fuente del título a rojo
+agregue una imagen de una arquitectura de red neuronal a la diapositiva
+inserte una nube a la derecha de la imagen. ## 1, cloud, picture, right
+finalmente, haz que el color de fondo sea amarillo
+
+cree una nueva diapositiva y, a la derecha, inserte una forma de nube roja. ## 0, cloud, slide, right
+inserte "Proporcionar conclusiones claras" en la parte de contenido.
+cambie el color de fuente del título a naranja. luego cree una nueva diapositiva y asígnele el nombre "Preprocesamiento de datos"
+el color de fondo actual no es adecuado para esta diapositiva. Cámbielo al color de la nube.
+
+cree una nueva diapositiva y asígnele el nombre "Transferir aprendizaje"
+establezca el tamaño de fuente en la diapositiva como 28 y en negrita
+cambie el estilo de fuente del título a "Times New Roman". cambiar el color de fuente del título a rojo
+Haz que la diapositiva tenga el mismo color de fondo.
+escribe el siguiente contenido: "El aprendizaje por refuerzo es un tipo de aprendizaje automático en el que el algoritmo aprende a través de prueba y error. A menudo se usa para enseñar a las máquinas cómo tomar decisiones en entornos complejos".
+
+inserte una tabla con 3 filas y 2 columnas, complete la primera fila con Nombre del modelo, ChatGPT; la segunda fila con Arquitectura,GPT (Transformador Generativo Pre-entrenado); la tercera fila con Tamaño de datos de entrenamiento, Múltiples terabytes de diversos datos de texto.
+haz que el título sea "GPT" y ponlo en negrita.
+inserte el contenido, "Generative Pre-trained Transformer 3 (GPT-3) es un modelo de lenguaje autorregresivo lanzado en 2020 que utiliza el aprendizaje profundo para producir texto similar al humano".
+subraye el contenido y haga que el color de la fuente en esta diapositiva sea rojo oscuro.
+agregue una imagen de la arquitectura GPT-3 a la derecha del contenido. ## 0, picture, content, right
+
+cree una nueva diapositiva y establezca el título como "Cumbre borrascosa" y póngalo en cursiva
+Agregue el texto "La historia es contada por Lockwood, una parte desinteresada, cuya narración sirve como marco para una serie de narraciones retrospectivas más cortas de Ellen Dean, una ama de llaves". Y negrita el texto
+cambiar el color de fuente del título y el texto a rojo
+insertar una forma de flecha,
+la flecha es un poco pequeña, hazla más grande, con un ancho de 6 y una altura de 4
+Crea una nueva diapositiva e inserta una nube,
+Insertar una imagen de la portada del libro Cumbre Borrascosa
+Insertar el texto "Cumbres Borrascosas, novela de Emily Brontë, publicada en 1847 bajo el seudónimo de Ellis Bell",
+establezca la fuente en Times New Roman y el tamaño de fuente en 18
+Inserta una tabla con una fila y dos columnas. Llene la tabla con "Categoría" e "Información" en la tabla.
+agregue una nota "Microsoft" en la diapositiva.
+
+cree una nueva diapositiva y establezca el título en "Orgullo y prejuicio de Jane Austen"
+insertar texto: "La novela explora temas de amor, matrimonio y expectativas sociales entre la nobleza británica", ponga el texto en negrita y subrayado
+insertar una flecha. Mueve la flecha al lado izquierdo del texto. ## 1, arrow, text, left
+cambie el color del texto a verde oscuro. cambiar el color de la flecha a naranja claro
+inserte una tabla con dos columnas y dos filas, la primera fila escribe categoría, información; la segunda fila escribe autor, Jane Austen.
+inserta una imagen del retrato de Jane Austen
+establezca la altura de la imagen en 6 y muévala a la esquina derecha de la diapositiva. ## 1, image, slide, right corner
+
+cree una nueva diapositiva e inserte el título "El viaje de la vida de Sirsa" y póngalo en negrita
+la fuente es un poco pequeña, configure la fuente en 24
+crear una tabla con tres columnas y cuatro filas. Insertar Infancia, 0-10 años, Escolaridad en primera fila, Adolescencia, 11-18 años, Bachillerato en segunda fila.
+insertar una imagen de una escuela en la diapositiva.
+mueva la imagen al lado izquierdo de la tabla. ## 1, image, table, left
+
+Crea una nueva diapositiva y nombra el título "Explorando el Universo" y subraya el título.
+insertar una imagen de una galaxia,
+Cree una lista de viñetas con 5 elementos en la parte de contenido. Los elementos son "Estrellas", "Planetas", "Nebulosas", "Agujeros negros" y "Materia oscura".
+negrita y cursiva el contenido,
+cambiar el color de fuente del contenido a rojo oscuro,
+inserte un gráfico circular, edificio de enseñanza 35%, estadio 25%, patio de recreo 40%.
+mueva el gráfico circular a la parte superior de la diapositiva. ## 1, pie chart, slide, top
+inserte un gráfico de líneas, 1er año 20%, 2do año 30%, 3er año 40%, 4to año 10%.
+inserte un gráfico de barras con los mismos datos.
+Dale a la diapositiva un fondo azul.
+
+crea una nueva diapositiva e inserta el título "introducción"
+inserte el contenido que En este documento, exploramos cómo el uso de métodos múltiples y complementarios durante un período de tiempo más largo trae tanto potencial como obstáculos, así como complejidades e incertidumbres.
+establecer el color de fuente del contenido como rojo
+el tamaño de fuente del contenido es demasiado pequeño, configúrelo en 20
+hacer que el color de fondo sea azul claro. Duplicar el tamaño de fuente del contenido
+
+agregue "Nanyang es una ciudad histórica y cultural nacional, con un profundo patrimonio histórico y una rica acumulación cultural". en la parte de contenido.
+añadir una viñeta al contenido
+y haga el tamaño de fuente del contenido 18. y ponga en cursiva el contenido, haga que el estilo de fuente del contenido sea "Arial"
+Nombra la diapositiva "Mi ciudad: Nanjing"
+Inserta una foto sobre Nanjing. Muévalo al lado derecho de la diapositiva. ## 0, picture, slide, right
+Ahora, cree una nueva diapositiva y asígnele el nombre "Catálogo", aplique el nombre a la nota.
+Ponga en cursiva el título y aumente su tamaño de fuente a 24.
+Inserte el siguiente contenido en la parte de contenido, "Un catálogo sirve como un recurso integral y visualmente atractivo, que muestra una amplia gama de productos o servicios".
+Cambie el color de fuente del contenido a verde. Dale a la diapositiva un color de fondo azul oscuro.
+insertar una tabla con tres filas y dos columnas. Escriba Producto, Precio en la primera fila, camisa, $29,99 en la segunda fila, vestido, $59,99 en la última fila.
+luego inserte un gráfico circular, "camisa, vestido, pantalones" son la categoría, 40%, 30% y 30% son el porcentaje.
+use un gráfico de líneas para ilustrar
+Agregue un gráfico de barras con los mismos datos.
+
+Inserta un título: "disfruta de una vida feliz"
+Inserte una estrella en la parte superior del título.## 0, star, title, top
+luego configure el estilo de fuente del título como "Arial Black"
+inserte el siguiente contenido a doble espacio, "Disfrutar de una vida feliz implica encontrar alegría en los pequeños momentos, fomentar relaciones significativas, perseguir pasiones, mantener un equilibrio saludable entre el trabajo y la vida y practicar el cuidado personal".
+Inserta una imagen sobre una persona feliz. Mueva la imagen a la parte superior derecha de la diapositiva. ## 0, picture, slide, right top
+Establecer la imagen de 4 pulgadas de alto y 5 pulgadas de ancho. Muévelo hacia abajo a la izquierda. ## 0, picture, slide, left bottom
+
+inserte una tabla con una columna y cinco filas. La primera fila es Maratón completado, la segunda es Primer libro publicado, la tercera fila es Ascendido a gerente y la cuarta fila es Voluntario de más de 100 horas y la última fila es Negocio iniciado con éxito.
+nombra la diapositiva como "Mi gran logro en 2023"
+inserte el siguiente texto en la parte de contenido: "En 2023, logré hitos notables que superaron mis expectativas. Desde completar un maratón hasta publicar mi primer libro y lograr una promoción, estos éxitos impulsan mi impulso para un mayor crecimiento y me inspiran a alcanzar incluso mayores alturas".
+Inserta una imagen de un libro. Muévalo a la parte superior de la diapositiva.## 0, picture, slide, top
+Inserte un gráfico circular y los datos son maratón 30%, libro 25% y voluntario 45%.
+Inserta un rectángulo en la diapositiva. Muévalo al lado izquierdo del gráfico circular. ## 0, rectangle, pie chart, left
+agregue una nota "2023" en la diapositiva.
+
+Fijar el título como: Crítica literaria ética
+El título debe estar en negrita y azul, moverse hacia abajo. ## 0, title, slide, bottom
+Encuentre una imagen de un paisaje de montaña e insértela a la derecha. ## 0, picture, slide, right
+Inserte el siguiente contenido: "El método de la crítica literaria ética es un enfoque novedoso propuesto por el profesor Nie Zhenzhao de la Universidad Normal de China Central".
+subraye el contenido y colóquelo en fuente Times New Roman con un tamaño de fuente de 24 y doble espacio.
+establecer el color de fuente del contenido como azul oscuro,
+Elija una forma de rectángulo del menú y dibújela en la diapositiva izquierda. ## 0, rectangle, slide, left
+Cambia el color de la forma a verde e inserta "verde".
+Mueva el rectángulo a la esquina superior derecha de la diapositiva. ## 0, rectangle, slide, right corner
+Inserte una flecha y muévala hacia el lado derecho del contenido. ## 0, arrow, content, right
+
+Cree una nueva diapositiva con el título "Miembros del equipo"
+Inserte una imagen de un miembro del equipo y mueva la imagen al lado inferior de la diapositiva. ## 0, picture, slide, bottom
+establecer el ancho de la imagen a 6,5 ​​cm
+Agregue una nota igual al título en la diapositiva. Haz que la fuente del título esté en negrita.
+
+Cree una nueva diapositiva y asígnele el título "Rendimiento de ventas"
+Establezca el color de fuente en azul, el tamaño de fuente en 24 y subraye el título. Establezca un color de fondo verde para esta diapositiva.
+Inserte el siguiente contenido en la diapositiva: "El rendimiento de las ventas es un indicador clave del éxito de una empresa en la generación de ingresos. Refleja la eficacia del equipo de ventas y la demanda general del mercado de los productos o servicios".
+Cambie el color de fuente del contenido a rojo oscuro y el tamaño de fuente a 18.
+Crea una tabla con tres columnas y cinco filas. En la primera fila, inserte "Año, trimestre, ingresos". En la segunda fila, inserte "2018. Q1, $500,000".
+Aplicar el tamaño de fuente del contenido al título
+
+Cree una nueva diapositiva y agregue el título "Informe de ventas"
+Agregue un gráfico de líneas basado en los siguientes datos, "Producto A: $2000", "Producto B: $1500", "Producto C: $1000".
+Nombre el gráfico de líneas "Tendencia de ingresos".
+Inserte una imagen de una camiseta en la diapositiva y agregue un título llamado "Camiseta".
+Agrega una forma de estrella y muévela al lado derecho de la imagen. ## 1, star, image, right
+Cree una diapositiva más y asígnele el nombre "Estructura organizativa"
+Inserte una tabla con dos columnas y cuatro filas, inserte los siguientes datos, CEO, John Smith en la primera fila, CFO, Jane Doe en la segunda fila, COO: Tom Jones en la tercera fila y CMO: Sarah Lee" en la cuarta fila
+subrayar todos los títulos.
+cambie el tamaño de fuente del contenido en el título a 20 y cambie el color de fuente a púrpura,
+Agregue una nota igual al título en la diapositiva.
+Dale a la diapositiva un color de fondo verde.
+
+Cree una nueva diapositiva y asígnele el nombre "Introducción"
+Agregue el siguiente texto a la parte del contenido: "Gracias por unirse a nosotros hoy. Estamos emocionados de
+Continúe con "lo tengo aquí y espero poder compartir algunas noticias emocionantes con usted".
+Cambia el estilo de fuente del contenido a Times New Roman y el tamaño de fuente a 20.
+Agrega una foto de un paisaje en Guangdong. Cambie el tamaño de la imagen para que su altura sea de 3 pulgadas y su ancho de 5 pulgadas.
+Inserta un triángulo en la diapositiva. Inserta un rectángulo en la diapositiva. Haz el rectángulo en el lado derecho del rectángulo. ## 1, rectangle, triangle, right
+Dale a la diapositiva un color de fondo morado. Agregue una nota "2023" en la diapositiva.
+
+Nombra la diapositiva "Lanzamiento del producto" y pon el título en negrita y hazlo rojo.
+Insertar una imagen de una computadora en la diapositiva
+Cambia el tamaño de la imagen y haz que tenga una altura y un ancho de 2 cm.
+Agregue el siguiente texto a la parte de contenido: "Nuestro nuevo producto es un dispositivo móvil de última generación que combina la última tecnología con un diseño elegante y fácil de usar".
+Haz que el contenido tenga el mismo estilo que el título.
+Inserte una nueva diapositiva y asígnele el nombre "Características del producto"
+Inserte una tabla con 2 columnas y 5 filas en la diapositiva Agregue los siguientes datos en la primera fila: Característica, Descripción.
+Cree un gráfico de barras de acuerdo con los siguientes datos, Producto A 25%, Producto B 50%, Producto C 25%.
+Nombra el gráfico de barras "Importancia de la función".
+Cambie el color de fondo a azul claro y haga la misma nota del título del gráfico.
+
+Cree una nueva diapositiva y agregue el título "Resultados financieros trimestrales"
+Cambiar el estilo de fuente del título a Arial
+Agregue el siguiente texto a la parte de contenido: "Nuestra empresa logró un ingreso de $1,5 millones y una ganancia de $500 000 este trimestre".
+Aplique un efecto de negrita y subrayado a la parte de contenido
+Inserta una tabla con 4 columnas y 5 filas en la diapositiva
+Agregue los siguientes datos a la primera fila de la tabla: Mes, Ingresos, Gastos y Ganancia
+Inserte un gráfico de barras con los siguientes datos, Q1 2022, Q2 2022, Q3 2022, Q4 2022 en X, 50, 60,55, 70 en Y.
+Nombre el gráfico de barras "Resultados financieros trimestrales en 2022".
+Dale a la diapositiva un color de fondo rojo.
+Inserte una nueva diapositiva y agregue el título "Análisis financiero"
+Inserte una imagen del logotipo de una empresa en la diapositiva
+Inserte "¡Gracias por su atención!" a la parte de contenido. Subraya y cursiva el contenido. Aumente el tamaño de fuente del contenido a 26.
+
+Cree una nueva diapositiva y asígnele el nombre "Datos de ventas"
+Inserte un gráfico de barras con los siguientes datos: "Región A: $500 000; Región B: $400 000; Región C: $600 000; Región D: $450 000"
+Asegúrese de que el gráfico tenga el título "Ventas regionales".
+Subraya el título de la diapositiva. Agregar una nota "Fuente de datos: Informe de ventas 2023"
+
+Cree una nueva diapositiva y asegúrese de que su título sea "Encuesta de clientes"
+Inserta un gráfico circular con los siguientes datos:""Muy Satisfecho | 40%", "Satisfecho | 30%", "Neutro | 20%", "Insatisfecho | 5%", "Muy insatisfecho | 5%"
+Mueva el gráfico circular al lado inferior de la diapositiva. ## 1, chart, slide, bottom
+Inserte una imagen de un cuestionario en la diapositiva. Muévelo al lado superior de la diapositiva. ## 1, picture, slide, top
+Agregue una nota "2023/5" en la diapositiva.
+
+Agregue un título a la diapositiva 0, "El encanto de la lingüística". Establecer el fondo azul claro,
+establezca el estilo de fuente del título en Arial, el color de fuente en rojo y el tamaño de fuente en 36.
+Inserte "Hola" en el contenido, oh no, debería ser " "La lingüística es el estudio científico del lenguaje y su estructura. Explora las complejidades de la comunicación humana, desde la fonética y la sintaxis hasta la semántica y la pragmática, hasta la parte del contenido.
+establezca el estilo de fuente del contenido como Verdana, el color de fuente como amarillo, el tamaño de fuente como 18. doble espacio.
+Cree una nueva diapositiva y asígnele el nombre "Ramas de la lingüística".
+Inserta una tabla con 3 columnas y 4 filas,
+inserte Ramas de Lingüística, Descripción, Ejemplos en la primera fila. "Fonética", "El estudio de los sonidos del habla", "Fonética articulatoria, Fonética acústica, Fonética auditiva" en segunda fila.
+Inserte una imagen de un libro sobre Lingüística en la diapositiva. Mueva la imagen al lado inferior de la diapositiva. ## 1, picture, slide, bottom
+Establecer la imagen de 6 cm de altura y 5 cm de ancho.
+Haz que todas las diapositivas tengan un fondo morado.
+
+Establezca el fondo verde claro, nombre el título "Familias de idiomas"
+Cursiva y negrita el título,
+inserte un gráfico de barras basado en los datos, indoeuropeo, niger-congo, austronesio, chino-tibetano como datos en X, 445, 1526,1290, 452 como datos en Y.
+Nombra el gráfico de barras "Familia lingüística y su número de idiomas"
+Cree una nueva diapositiva y asígnele el nombre "Adquisición del lenguaje". Mismo estilo de título con la diapositiva anterior.
+Inserte el siguiente contenido, " "La adquisición del lenguaje es el proceso mediante el cual los humanos adquieren la capacidad de percibir, comprender y producir el lenguaje. Implica mecanismos innatos y aprendidos y está influenciado por varios factores, como el entorno y la interacción social".
+Haga que el estilo de fuente sea Times New Roman, el color de fuente rojo y el tamaño de fuente 22.
+Subraye y ponga en negrita el contenido, haga que el título y el contenido sean del mismo color.
+insertar una imagen de un libro en inglés en la diapositiva,
+inserte un cuadrado en la diapositiva derecha, ## 1, rectangle, slide, right
+mueve la imagen al lado superior del cuadrado. ## 1, picture, rectangle, top
+
+Nombra la diapositiva "Conclusión"
+Ponga negrita y subraye el título, y haga que la fuente sea de color rojo.
+Insertar " "La lingüística es un campo fascinante que desentraña las complejidades del lenguaje humano. Desde el estudio de las estructuras del lenguaje hasta el análisis de las familias y la adquisición de idiomas, ofrece una visión profunda de la naturaleza de la comunicación y la cognición humana.
+Cambie el estilo de fuente del contenido a Verdana, el color de fuente a amarillo.
+Cree otras cuatro diapositivas, aplíqueles un color de fondo morado.
+Titule la diapositiva 1 "Resumen de las políticas inmobiliarias en China" e inserte una imagen del mapa de China en la diapositiva.
+Título de la diapositiva 2 "Cambios recientes" y el título en cursiva. Mismo estilo de fuente con títulos anteriores.
+insertar "Los cambios recientes en China han visto un rápido crecimiento económico, avances tecnológicos y transformaciones sociales, posicionando al país como una potencia mundial e influyendo en la dinámica global en varias esferas". en el contenido.
+Titule la diapositiva 3 "Esfuerzos para controlar los precios de la vivienda" e inserte un triángulo en la diapositiva.
+mueva el triángulo a la parte superior derecha de la diapositiva. ## 3, triangle, slide, right top
+Titule la diapositiva 4 "Iniciativas para aumentar la vivienda asequible" y cambie el color de fuente del título a rojo,
+insertar "Se han implementado iniciativas para aumentar la vivienda asequible, incluidos subsidios gubernamentales, procesos de aprobación simplificados y asociaciones público-privadas, con el objetivo de abordar la crisis de asequibilidad de la vivienda y garantizar el acceso a una vivienda digna para todos". como contenido. y subrayar y cursiva el contenido.
+cree un gráfico circular de acuerdo con los datos, Subsidios gubernamentales: 35 %, Procesos de aprobación simplificados: 25 %, Asociaciones público-privadas: 20 %, Políticas de uso de suelo: 10 %, Programas de asistencia de alquiler: 10 %.
+Cree una nueva diapositiva y llámela "Reglamento de promotores inmobiliarios". agregue las mismas oraciones a la nota.
+Inserte "En esta diapositiva, informe las medidas clave de China para regular a los promotores inmobiliarios y las acciones del gobierno para prevenir el fraude y promover prácticas de desarrollo sostenible". como el contenido.
+negrita la parte del contenido y cursiva el título.
+agregue una nota "Información sobre China" en todas las diapositivas.
+
+Nombre el título "Frontier Development of Medical Imaging Equipment". Aumente el tamaño de fuente del título a 24.
+Insertar un gráfico de líneas. Los datos son: Q1: 15 %, Q2: 12 %, Q3: 18 %, Q4: 20 % y Q1, Q2, Q3, Q4 están en X.
+Nombra el gráfico "Crecimiento de ingresos"
+Inserte una tabla con cinco filas y dos columnas, inserte Característica 1, Imágenes de alta resolución en la primera fila.
+Ajuste el color de fondo a azul claro.
+Inserta un rectángulo, oh no, un triángulo en la diapositiva
+insertar "El desarrollo de vanguardia de los equipos de imágenes médicas está revolucionando el cuidado de la salud con imágenes de alta resolución, algoritmos avanzados de IA, análisis de datos en tiempo real, mayor comodidad para el paciente, integración multimodal y flujo de trabajo optimizado, lo que otorga a los profesionales médicos capacidades de diagnóstico sin precedentes". en el contenido.
+negrita el contenido y establezca el contenido con doble espacio. subrayar y poner en cursiva el contenido.
+agregue una nota "Equipo médico" en la diapositiva.
+
+Haz que el color de fondo sea azul. Inserta un rectángulo.
+Agregue el título "Métodos y enfoques en antropología" y haga que su tamaño de fuente sea 20.
+Insertar el contenido "La antropología es una ciencia social que estudia el comportamiento humano, la cultura y las sociedades utilizando una variedad de métodos de investigación". en la parte de contenido y colóquelo con doble espacio.
+Agregue una forma de círculo y muévala hacia el lado derecho de la diapositiva. ## 0, circle, slide, right
+establece el ancho del círculo en 4 cm.
+
+Cree una nueva diapositiva y llámela "La importancia de la hidratación adecuada".
+subrayar y cursiva el título.
+Cambia el tamaño de fuente del título a 24 y el estilo de fuente a Arial.
+Inserte una imagen de una persona bebiendo agua y muévala al lado derecho de la diapositiva. ## 1, picture, slide, right
+Haz la imagen de 6,5 cm de ancho. Agregue un título debajo de la imagen y llámelo "Beber agua". ## 1, textbox, picture, bottom
+dale a la diapositiva un color de fondo morado. Crea una nueva diapositiva y dale el mismo fondo.
+Inserta una imagen de una carpeta en la diapositiva. Ajuste el ancho y alto de la imagen a 6.5 y 5.5.
+Agregue un título a la diapositiva y asígnele el nombre "Los beneficios de usar SmartArt". Cambia el color de fuente del título a rojo y el tamaño de fuente a 40 .
+Cambia el estilo de fuente del título a Arial y ponlo en cursiva.
+
+Nombra el título "Construyendo tu marca". y dale a la diapositiva un color de fondo verde claro.
+En la sección de contenido, escribe "Crear una marca es un componente crítico de cualquier negocio exitoso. Establece el estilo de fuente en "Arial" y el tamaño de fuente en 14.
+Agregue una forma de rectángulo y muévala hacia el lado derecho de la diapositiva. ## 0, rectangle, slide, right
+Inserta una tabla con 3 filas y 4 columnas. Complete la primera fila de la tabla con "Identidad de marca", "Mensajes de marca", "Voz de marca" y "Estrategia de marca".
+Copia la tabla.
+Cambie el tamaño de fuente del contenido y cambie el estilo de fuente a "Times New Roman"
+
+Cree una nueva diapositiva e inserte el título "Los fundamentos de la comunicación efectiva" y establezca el estilo de fuente en Times New Roman.
+inserte los siguientes elementos, "Puntos clave" y "Descripción".
+Aumente el tamaño de fuente de los elementos a 24. Subraye y ponga en negrita los elementos.
+Establezca el color de fondo de la diapositiva en naranja claro.
+
+Establezca el color de fondo en azul claro.
+Inserte "Reunión de Tencent" en el título y el contenido.
+Subraye el título y establezca el color de fuente en rojo oscuro.
+Renueve la parte de contenido con: "Tencent Meeting es una poderosa plataforma de videoconferencia que permite una colaboración y comunicación fluidas entre equipos e individuos. Ofrece una variedad de funciones para reuniones virtuales efectivas, que incluyen compartir pantalla, chatear y grabar".
+Negrita y cursiva el contenido, lo mismo que el título.
+Inserte una imagen de la interfaz de Tencent Meeting.
+
+Inserta una tabla con tres columnas y dos filas.
+Ingrese "Características", "Descripción" y "Beneficios" en la primera fila.
+Agrega una nota "APP" en la diapositiva y dale a la diapositiva un color de fondo morado.
+
+Dé a la diapositiva "Evaluación de la calidad" con un color de fondo azul.
+Inserte el siguiente texto en la parte del contenido: "La evaluación de la calidad es un proceso crucial para evaluar el rendimiento y los estándares de los productos o servicios. Implica un análisis, una medición y una comparación exhaustivos para garantizar el cumplimiento de los puntos de referencia de calidad y la mejora continua".
+Inserte una imagen de una lista de verificación.
+Mover la imagen al lado izquierdo del contenido, ## 0, picture, content, left
+Cree un gráfico circular que ilustre la distribución de las calificaciones de calidad. Incluya categorías de datos como "Excelente", "Bueno", "Regular" y "Deficiente", y la proporción es 40%, 15%, 25%, 20%.
+Nombre el gráfico circular "Distribución de calificaciones de calidad".
+Mueva el gráfico circular al lado inferior de la diapositiva. ## 0, chart, slide, bottom
+Copie el gráfico circular en la siguiente diapositiva.
+
+Cree una nueva diapositiva y asígnele el título "Guía para completar un proyecto".
+Inserte una flecha en la diapositiva y muévala a la esquina superior de la diapositiva. ## 1, right_arrow, slide, top corner
+gire la flecha con 90 grados.
+muévase a la diapositiva 0 y asígnele el nombre "Introducción". Ambos títulos en negrita.
+agregue una nota "2022/6/10" a la diapositiva 0.
+dale a la diapositiva un color de fondo azul claro. Inserte una forma de nube en la diapositiva.
+
+Establezca el color de fondo en amarillo.
+Inserte el siguiente texto en la parte de contenido con doble espacio: "Trados Studio es una poderosa herramienta de traducción asistida por computadora (TAO) desarrollada por SDL. Ofrece una gama de características y funcionalidades que agilizan el proceso de traducción, incluida la memoria de traducción, la gestión de terminología y herramientas de gestión de proyectos".
+Insertar nota "Creado por Eva". Inserte el título "Trados Studio".
+Establezca el color de fuente del título en verde oscuro. Establezca el tamaño de fuente en 30.
+Inserte una imagen del logotipo de Trados Studio en la diapositiva. Mueve la imagen al lado derecho del contenido. ## 0, image, content, right
+Ajusta el ancho y alto de la imagen a 4 y 3 cm.
+Gire la imagen 15 grados en sentido contrario a las agujas del reloj.
+cambie el color de fondo a púrpura.
+
+Inserta una tabla con tres columnas y dos filas.
+Ingrese "Año", "Descripción" y "Cambios" en la primera fila de la tabla.
+Nombre la diapositiva "Grandes cambios en la última década"
+negrita y cursiva el título.
+Establezca el color de fondo en azul claro.
+
+Agrega el título "¿Deberías considerar estudiar en el extranjero?", subrayado y en negrita.
+Inserta una foto de estudiantes estudiando en un país extranjero. Muévalo a la parte inferior de la diapositiva. ## 0, picture, slide, bottom
+Establezca el ancho de la imagen en 5 cm y la altura en 3 cm.
+Dale a la diapositiva un color de fondo morado. Agregue el título a la nota.
+
+Cree un gráfico de barras que ilustre las estadísticas de uso de Trados Studio entre los traductores. Incluya categorías de datos como "Traductores a tiempo completo", "Trabajadores autónomos" y "Agencias de traducción" y sus porcentajes correspondientes son 45%, 35%, 20%,
+Nombre el gráfico de barras "Estadísticas de uso de Trados Studio".
+Cree una nueva diapositiva e inserte el título "ABBYY FineReader".
+subraye el título y póngalo en negrita. Establezca el tamaño de fuente del título en 30.
+Inserte el siguiente texto en la parte del contenido: "ABBYY FineReader es un software de reconocimiento óptico de caracteres (OCR) que permite a los usuarios convertir documentos escaneados, archivos PDF e imágenes en formatos editables y con capacidad de búsqueda. Con funciones avanzadas de reconocimiento de texto y conversión de documentos, simplifica el procesamiento de documentos y mejora la productividad".
+establezca el contenido con doble espacio y ponga el contenido en cursiva.
+Inserte una imagen que represente a ABBYY FineReader, como el logotipo de ABBYY FineReader con la leyenda "ABBYY FineReader".
+Inserta una tabla con tres columnas y dos filas. Ingrese "Característica", "Descripción" y "Beneficios" en la primera fila.
+Mueva la imagen al lado derecho de la tabla. ## 1, picture, table, right
+cree un gráfico circular basado en los siguientes datos, "Precisión alta" 45 %, "Precisión media" 45 % y "Precisión baja" 5 %
+Nombre el gráfico circular "Precisión de conversión de documentos".
+Agregue la nota "Página 2" a la diapositiva.
+
+Inserte un título "Campaña de marketing".
+subraye y ponga en negrita el título, establezca su tamaño de fuente en 26.
+Inserte el siguiente texto en la parte de contenido: "Nuestra campaña de marketing tiene como objetivo aumentar el conocimiento de la marca, interactuar con nuestro público objetivo e impulsar las ventas. Con una combinación estratégica de canales de marketing en línea y fuera de línea, nos enfocamos en brindar mensajes impactantes y resultados medibles. ."
+Mueva el contenido al lado izquierdo de la diapositiva. ## 0, content, slide, left
+Inserte una imagen de un banner promocional, proporcione el nombre de la imagen a continuación. ## 1, textbox, picture, bottom
+establecer el ancho de la imagen a 5 cm de altura,
+Dale a la diapositiva un color de fondo verde.
+
+Asigne a la diapositiva un título rojo llamado "Energía sostenible".
+Inserte una imagen relacionada con la energía sostenible, como una turbina eólica o paneles solares. Ang fijó su tamaño en 6 cm de ancho.
+Crea una tabla con 3 columnas y 4 filas. En la primera columna, enumere la energía eólica, solar, hidráulica y geotérmica. En la segunda columna, enumere bajo costo, bajo impacto ambiental y alta disponibilidad. En la tercera columna, enumere la inversión inicial alta, la disponibilidad intermitente y los conflictos de uso de la tierra.
+Mueva la imagen al lado superior de la tabla. ## 0, picture, table, top
+Cree una diapositiva más y nombre su título como "Compras en línea", del mismo color que el título anterior.
+Agregue el siguiente contenido en la parte de contenido: "Las compras en línea son el proceso de comprar bienes y servicios de comerciantes a través de Internet. Se ha vuelto cada vez más popular debido a su conveniencia y accesibilidad".
+Ponga el título en negrita y cambie el color de la fuente a azul. Haz el contenido con doble espacio.
+Cree una diapositiva más e inserte una imagen sobre series de televisión. Establezca su ancho igual que la imagen en la diapositiva anterior.
+Dale a la diapositiva un color de fondo azul. Agregue una nota "Acerca de la serie de TV" en la diapositiva.
+
+Ponga "Hábitos alimenticios saludables" en el título. Cambia el fondo de la diapositiva a un color azul oscuro.
+Insertar contenido "Presiona play para iniciar el video". Haz el estilo de fuente del contenido Verdana.
+Inserta una tabla con dos columnas y dos filas. Ingrese "Grupo de alimentos", "Porciones recomendadas" en la primera fila.
+Mueva la tabla al lado inferior del contenido. ## 0, table, content, bottom
+Inserte una imagen de una persona usando una computadora portátil.
+Inserta un cuadrado en la diapositiva. Establezca su altura en 2 cm.
+Luego gírelo a la izquierda con 45 grados.
+
+Inserte el contenido: "En conclusión, los servicios de TV han revolucionado la forma en que consumimos entretenimiento, brindando una amplia gama de opciones de contenido y comodidad".
+Cambia el estilo de fuente del contenido a "Futura".
+Nombra el título como "Conclusión" y ponlo en negrita.
+Inserte una imagen de un plato colorido lleno de frutas y verduras.
+Mueva la imagen a la esquina inferior de la diapositiva. ## 0, picture, slide, bottom corner
+cambie el color del fondo de la diapositiva a verde.
+
+Crea una nueva diapositiva y dale un color de fondo morado,
+inserte su título "Desventaja",
+negrita el título y haga que el tamaño de fuente del título sea 24, estilo de fuente Arial.
+Agregue una nota "2023/3/9" en este archivo.
+Cree un gráfico circular que incluya "Frutas" 30 %, "Verduras" 25 %, "Granos" 15 %, "Proteínas" 5 % y "Lácteos 25 %"
+mueva el gráfico circular al lado inferior de la diapositiva. ## 1, chart, slide, bottom
+Inserte un cuadro de texto debajo del gráfico circular y escriba "La desventaja de comer demasiada comida es que te hará engordar". en el cuadro de texto. ## 1, textbox, chart, bottom
+Nombre el gráfico circular "Porciones diarias de grupos de alimentos".
+
+Inserte una flecha en la diapositiva. Establezca su ancho en 3.5,
+gírelo a la izquierda con 90 grados.
+muévalo al lado derecho de la diapositiva. ## 0, right_arrow, slide, right
+
+Inserte el título "Tendencias tecnológicas" y subráyelo.
+Establezca el color de fuente en verde. Establezca el tamaño de fuente en 26.
+Inserte el siguiente texto en la parte del contenido: "Mantenerse al día con las últimas tendencias tecnológicas es esencial en el panorama digital en rápida evolución actual. Desde inteligencia artificial y blockchain hasta computación en la nube e Internet de las cosas, estas tendencias están dando forma a las industrias y revolucionando la forma en que Vive, trabaja y conéctate con el mundo".
+Establezca el color de fondo igual que el color de fuente del título.
+Inserte una imagen de redes interconectadas.
+Inserta una tabla con tres columnas y dos filas. Inserte "Tendencia tecnológica", "Descripción" e "Impacto" en la primera fila.
+Cree un gráfico de líneas que ilustre el crecimiento de la adopción de tecnología a lo largo del tiempo. Incluya categorías de datos en X, como "Dispositivos móviles", "Usuarios de Internet", "Aplicaciones de IA", "Servicios en la nube" y "Dispositivos domésticos inteligentes", y los valores correspondientes en Y: 15,10,7,6 24 millones.
+Nombre el gráfico de líneas "Valores tecnológicos".
+Inserte un gráfico circular con los mismos datos y título.
+
+Establezca el fondo de la diapositiva con un color verde.
+Inserte un título "Vida sostenible" y póngalo en cursiva.
+Agregue una imagen de una fuente de energía renovable, como un panel solar, y muévala al lado izquierdo de la diapositiva. ## 0, picture, slide, left
+Inserte el siguiente texto en la parte del contenido: "La vida sostenible promueve el consumo responsable, la energía renovable y las prácticas ecológicas para proteger el medio ambiente y garantizar un futuro mejor para las generaciones venideras. Al tomar decisiones conscientes en nuestra vida diaria, podemos reducir nuestra huella de carbono y crear un mundo más sostenible".
+Establezca el color de la fuente en naranja oscuro.
+Cree un gráfico de líneas que muestre el crecimiento del consumo de energía renovable a lo largo del tiempo. Incluya 2013, 2014, 2015, 2016 en X, y los datos correspondientes en Y son 1,6, 2,4, 4,8 y 11 millones.
+Nombre el gráfico de líneas "Tendencia de consumo de energía renovable".
+Mueva el gráfico de líneas al lado inferior del título. ## 0, chart, title, bottom
+Inserte una forma de nube en la diapositiva. Gira la nube 30 grados en sentido contrario a las agujas del reloj.
+
+Inserta una tabla con cuatro columnas y tres filas.
+Inserte tres elementos en la primera columna "Dieta equilibrada", "Control de porciones" e "Hidratación".
+Inserte una imagen de una ciudad verde en la diapositiva.
+Mueva la imagen al lado superior de la diapositiva.## 0, picture, slide, top
+Mueve la tabla al lado inferior de la diapositiva.## 0, table, slide, bottom
+
+Inserte un título "Gestión de proyectos".
+Añade una imagen de un equipo colaborando en un proyecto.
+Subrayado y cursiva el título.
+Mueva la imagen a la parte superior izquierda de la diapositiva. ## 0, image, slide, left top
+
+Inserte el título, "Informe de progreso del proyecto".
+Cree una tabla con tres columnas y cinco filas, inserte nombres de tareas, fechas límite y estado de progreso en la primera fila.
+Establezca el color de fondo en púrpura, el título en verde.
+
+Insertar el título "Escuela Universitaria y Profesional"
+Ajuste el tamaño de fuente a 36 y subraye el título,
+Inserte el siguiente texto en la parte de contenido: "Las escuelas universitarias y profesionales brindan educación superior y capacitación especializada para equipar a los estudiantes con el conocimiento y las habilidades necesarias para carreras exitosas. Estas instituciones ofrecen una amplia gama de programas académicos, oportunidades de investigación y desarrollo profesional para fomentar el crecimiento personal y la promoción profesional".
+Establezca el contenido con doble espacio.
+Dale a la diapositiva un color de fondo verde. Umm, cámbialo a morado.
+
+Inserta una imagen de un entorno escolar profesional.
+Mueva la imagen al lado derecho de la diapositiva.## 0, picture, slide, right
+Inserte un triángulo en la diapositiva y muévalo hacia el lado izquierdo de la diapositiva. ## 0, triangle, slide, left
+Aumenta el ancho del triángulo a 10 cm y la altura a 15 cm.
+Asegúrate de que la imagen esté debajo del triángulo.## 0, picture, triangle, below
+
+Crea una nueva diapositiva y dale un fondo azul.
+Inserta el título "NFC" y ponlo en negrita.
+Inserte el siguiente texto en la parte del contenido: "NFC (Comunicación de campo cercano) permite una comunicación inalámbrica perfecta entre dispositivos muy próximos".
+Establezca el color de fuente en verde oscuro, establezca el tamaño de fuente en 20.
+Inserte una imagen de un logotipo de NFC en la diapositiva.
+Establezca el color de fondo en púrpura.
+mover la imagen al lado derecho del contenido. ## 1, picture, slide, right
+
+Inserta una tabla con cuatro columnas y dos filas. Inserte "Producto", "Ingresos", "Unidades vendidas" y "Margen de beneficio". en la primera fila.
+Dale a la diapositiva un color de fondo azul claro.
+
+Cree un gráfico de líneas que ilustre el crecimiento de los dispositivos habilitados para NFC a lo largo del tiempo. Los datos de X son 2018, 2019,2020 y 2021. Los datos correspondientes son 500000; 1300000,2500000,4000000 que representa la cantidad de dispositivos habilitados para NFC.
+Nombre el gráfico de líneas "Crecimiento del dispositivo NFC".
+Inserta una tabla con tres columnas y dos filas. Inserte sin contacto, permite transacciones táctiles, pagos convenientes y más rápidos en la segunda fila.
+Inserta una estrella y haz que su ancho y alto sean 6,5 cm.
+Mueve la estrella al lado superior de la mesa. ## 0, star, table, top
+Mueve la estrella al lado derecho de la mesa. ## 0, star, table, right
+
+Inserta un título y ponlo en negrita: "Abrazando la disrupción"
+Haga que el tamaño de fuente del título sea 20 y el estilo de fuente "Times New Roman"
+Inserte una imagen de un paisaje urbano futurista para representar la transformación digital y la innovación.
+Mueva la imagen al lado inferior de la diapositiva. ## 0, picture, slide, bottom
+agregue la nota "Creado por [su nombre]". a la diapositiva. Dale a la diapositiva un fondo morado.
+No tan bien. Cambia el color de fondo a azul claro.
+
+Inserte el título "Power Bank" y muévalo a la esquina izquierda de la diapositiva. ## 0, title, slide, left corner
+aumente el tamaño de fuente del título a 24 y póngalo en cursiva.
+Inserte el siguiente texto en la parte del contenido: "Un banco de energía es un dispositivo portátil que proporciona carga sobre la marcha para teléfonos inteligentes, tabletas y otros dispositivos electrónicos".
+subraye el contenido, y hágalo con doble espacio, del mismo tamaño que el título, y establezca su color de fuente en naranja,
+Inserte una imagen del banco de energía Yoobao en la diapositiva. Muévalo a la parte inferior de la diapositiva. ## 0, picture, slide, bottom
+Inserta una tabla con cuatro columnas y tres filas. Ingrese los siguientes datos en la tabla: Marca, Capacidad (mAh), Puertos de salida, Precio ($) en la primera fila.
+Cree un gráfico circular que ilustre la participación de mercado de diferentes marcas de bancos de energía. Los datos son Marca A, 40%; Marca B 30%, Marca C 20% y Otros 10%.
+Inserte el gráfico circular "Cuota de mercado de Power Bank".
+Agregue una nota "2023" en esta diapositiva.
+Inserte una forma de llamada en el lado derecho de la diapositiva. ## 0, callout, slide, right
+
+Inserte el título "NBA" y establezca el color de fuente en rojo.
+Inserte el siguiente texto en la parte de contenido: "La Asociación Nacional de Baloncesto (NBA) es una liga de baloncesto profesional que consta de 30 equipos de América del Norte".
+el tamaño de fuente de las palabras es demasiado pequeño, establezca el tamaño de fuente en 20.
+Mueva el contenido a la esquina inferior de la diapositiva. ## 0, content, slide, bottom corner.
+
+Inserte una imagen de una cancha de baloncesto en la diapositiva.
+Mueva la imagen al lado superior de la diapositiva. ## 0, picture, slide, top
+Agregue un cuadro de texto que muestre el nombre de la imagen. Cambia el fondo a un color azul.
+Inserta una tabla con cuatro filas y tres columnas.
+Ingrese los siguientes datos en la tabla: Equipo, Ciudad, Campeonatos en la primera fila, Los Ángeles, Lakers, 17 en la segunda fila, Boston, Celtics, 17 en la tercera fila y Chicago, Bulls, 6 en la cuarta fila.
+Cree un gráfico de barras de acuerdo con los datos de la tabla, los datos X son Lakers, Celtics y Bulls, los datos Y son 17, 17 y 6.
+Nombra el gráfico circular "Distribución de campeonatos de la NBA".
+Cree una nueva diapositiva y subraye el título "Introducción a la conducción autónoma".
+Inserte una imagen de un automóvil autónomo futurista en la diapositiva. Establezca la altura de la imagen en 7 cm.
+Inserte el siguiente texto en la parte de contenido: "La conducción autónoma, también conocida como tecnología autónoma o sin conductor, se refiere a vehículos capaces de navegar y operar sin intervención humana".
+Mueva el contenido a la esquina inferior de la diapositiva. ## 1, content, slide, bottom corner
+inserte una flecha en la diapositiva. Muévelo a la izquierda del contenido. ## 1, right_arrow, content, left
+Oh, mueve la flecha a la derecha del contenido. ## 1, right_arrow, content, right
+
+Inserte el siguiente contenido: "La conducción autónoma está revolucionando la industria del transporte al ofrecer mayor seguridad, comodidad y eficiencia".
+Aumente el tamaño de fuente del contenido a 18 y haga que el contenido esté en negrita y cursiva.
+También subraye el contenido y colóquelo con doble espacio.
+Inserta una tabla con cinco columnas y dos filas. La primera fila escribe Tipos de sensor, Lidar, Radar, Cámaras, Total.
+Cambie el estilo de fuente del contenido a "Times New Roman".
+Cree un gráfico circular que ilustre la distribución de los tipos de sensores utilizados en los sistemas de conducción autónomos. Los datos son Lidar 40%, Radar 30%, Cámaras 30%.
+Nombre el gráfico circular "Tipos de sensores en la conducción autónoma".
+Agregue una nota del nombre del gráfico circular en la diapositiva.
+
+Nombra la diapositiva "Conducción autónoma"
+Inserte una imagen del logotipo de una empresa y muévala a la parte inferior izquierda de la diapositiva. ## 0, picture, slide, left bottom
+Establezca el ancho y la altura del logotipo en 6,5 cm y 6 cm respectivamente.
+Cree una nueva diapositiva e inserte el título "Adopción de conducción autónoma por región".
+Establezca la fuente del título en "Calibri" y el tamaño de fuente en 32.
+Escriba la siguiente declaración: "Las tecnologías de conducción autónoma están transformando el panorama del transporte, revolucionando las industrias y mejorando la seguridad y la eficiencia".
+Cambie el color de fuente del contenido a naranja oscuro.
+
+Crea una nueva diapositiva. Escriba el título como "El poder de plantar". Establezca la fuente del título en "Calibri" con un tamaño de fuente de 36.
+Aplicar un fondo con un color verde.
+Incluya el siguiente contenido: "Plantar no solo embellece nuestro entorno, sino que también promueve la sostenibilidad ambiental y proporciona una multitud de beneficios para la salud".
+Haz que el contenido y el título sean verdes.
+Inserte una imagen de un exuberante jardín en la diapositiva,
+Cree un gráfico circular de acuerdo con los datos, Medio ambiente 40 %, Salud 30 % y Comunidad 30 %.
+Nombra el gráfico circular "Beneficios de la plantación".
+Mueva el gráfico circular al lado inferior de la imagen. ## 1, chart, image, bottom
+Inserta una flecha en la diapositiva. Gírelo con 60 grados.
+Establezca su altura en 2 cm y su ancho en 4 cm. Escribe "Página 2" como nota en la diapositiva.
+
+Inserta una tabla con cuatro columnas y tres filas.
+Ingrese los siguientes datos en la primera fila de la tabla, Beneficios de plantación, Ambiental, Salud, Comunidad.
+Establezca el color de fondo de la diapositiva en verde.
+Nombre el align_slide_center como "Otra información",
+subraye el título y establezca su color de fuente en naranja oscuro,
+mueva el título a la esquina superior de la diapositiva. ## 0, title, slide, top corner
+
+Inserte una imagen del logotipo de Google en la diapositiva con un cuadro de título "Google".
+Inserte el siguiente texto en la parte del contenido: "Google y Microsoft Edge son dos navegadores web populares que ofrecen características y funcionalidades únicas. Mientras que Google Chrome domina el mercado con su velocidad y ecosistema extenso, Microsoft Edge tiene como objetivo brindar una experiencia de navegación fluida y integración con los sistemas operativos Windows".
+Establezca el contenido con doble espacio y haga que el tamaño de fuente sea 16.
+Inserte el título "Google vs Microsoft Edge". Establezca el color de fuente en rojo.
+Mueva la imagen a la esquina inferior de la diapositiva. ## 0, picture, slide, bottom corner
+Inserta una tabla con tres columnas y tres filas. La primera fila escribe Funciones, Google Chrome, Microsoft Edge. El segundo escribe Velocidad,Alto,Moderado, la tercera fila escribe Ecosistema,Extensivo,Integrado.
+Cree un gráfico de barras que compare la cuota de mercado de Google Chrome y Microsoft Edge. Google Chrome es 50%, Microsoft Edge es 25% y Otros es 25%.
+Asigne al gráfico de barras el nombre "Cuota de mercado de navegador web". Agregue "Página 1" como nota en la diapositiva.
+
+Dale a la diapositiva un color de fondo azul. Inserte el título "Networking y LinkedIn"
+Inserte el siguiente texto en la parte de contenido: "La creación de redes juega un papel crucial en el desarrollo profesional, y LinkedIn es una plataforma poderosa para las redes profesionales. Con millones de usuarios en todo el mundo, LinkedIn ofrece una gama de funciones para conectarse con profesionales, mostrar habilidades y descubrir oportunidades de trabajo".
+Establezca el color de fuente del título en rojo oscuro y el contenido en rojo claro.
+establezca el estilo de fuente del título y el contenido en Arial.
+Subraya el título y cursiva el contenido. Aumente el tamaño de fuente del contenido a 24.
+Cree un gráfico circular que ilustre la distribución de los usuarios de LinkedIn por industria, según los siguientes datos: Tecnología 30 %, Finanzas 20 %, Salud 15 %, Marketing 10 %, Otros 25 %
+Nombre el gráfico circular "Distribución de usuarios de LinkedIn".
+inserte el gráfico de líneas con los mismos datos.
+inserte el gráfico de barras con los mismos datos.
+
+Cree una nueva diapositiva e inserte el título "Distintas cocinas"
+Inserte el siguiente texto en la parte del contenido: "Hay varios tipos de cocinas disponibles que se adaptan a las diferentes necesidades de cocción. Desde estufas tradicionales hasta cocinas eléctricas avanzadas y modernas estufas de inducción, cada tipo ofrece características y beneficios únicos".
+Inserta una tabla con cuatro columnas y tres filas. Inserte Tipo de cocina, Características, Beneficios en la primera fila. Inserte quemadores de estufa, gas o eléctricos, control de calor preciso en la segunda fila.
+Cree un gráfico circular basado en los siguientes datos, Estufa 40 %; Cocina eléctrica 25 %; Estufa de inducción 20 %; olla de cocción lenta 10%; Freidora de aire 5%.
+inserte el título del gráfico circular "Popularidad del tipo de cocina".
+Inserte una imagen de una estufa en la diapositiva.
+Establezca el ancho de la imagen en 7 cm y la altura en 6 cm.
+mover la imagen al lado derecho de la diapositiva. ## 1, picture, slide, right
+mover la imagen al lado izquierdo de la diapositiva. ## 1, picture, slide, left
+Muévete a la diapositiva 0 y dale un color de fondo verde.
+
+Insertar el título "Descubre la Delicia de Oreo"
+Negrita y cursiva el título.
+Establezca el tamaño de fuente en 30.
+Inserte el siguiente texto en la parte del contenido: "Oreo, la galleta sándwich icónica, ha sido un regalo favorito para personas de todas las edades. Con su irresistible combinación de obleas de chocolate y relleno cremoso, Oreo ofrece una deliciosa experiencia de refrigerio que trae alegría a cada morder."
+Establezca el color de fuente del contenido en azul oscuro.
+Inserte una imagen de galletas Oreo en la diapositiva,
+mover la imagen a la esquina derecha de la diapositiva. ## 0, picture, slide, right corner
+inserte una forma de estrella en la diapositiva. mueva la estrella a la esquina izquierda de la diapositiva. ## 0, star, slide, left corner
+inserte un gráfico circular y de líneas en la diapositiva, los datos son Original 40%, Mint 10%, Peanut Butter 50%.
+Quiero un gráfico de barras con la misma información pero con "Popularidad del sabor de Oreo".
+
+Establece un color de fondo morado para la diapositiva.
+Establezca el título de la diapositiva como "Variaciones estacionales" y póngalo en negrita y cursiva.
+Inserte el siguiente texto en la parte del contenido: "Las variaciones estacionales aportan un encanto distintivo a nuestras vidas. Desde los colores vibrantes de la primavera hasta los tonos cálidos del verano, el ambiente acogedor del otoño y los paisajes serenos del invierno, cada estación ofrece una experiencia única Abrace la belleza de la transformación de la naturaleza durante todo el año ".
+Cambie el estilo de fuente del contenido a Arial. cambie el tamaño de fuente del contenido a 18.
+Inserta una tabla con cuatro columnas y cuatro filas. Inserte Temporada, Temperatura promedio, Características clave, Actividades en la primera fila.
+Inserte una forma de llamada en la diapositiva. Muévalo al lado izquierdo de la diapositiva. ## 0, callout, slide, left
+
+Inserte el título "Tiempo en Guangdong: un clima de diversidad"
+mueva el título a la esquina izquierda de la diapositiva. ## 0, title, slide, left corner
+Inserte el siguiente texto en la parte de contenido a doble espacio: "Guangdong experimenta una amplia gama de condiciones climáticas durante todo el año. Desde días cálidos y soleados hasta lluvias ocasionales, mañanas con niebla y cielos nublados, el clima en Guangdong es diverso y dinámico. Explore las diferentes estaciones y patrones climáticos en esta vibrante región".
+Inserte una imagen de una playa soleada en la diapositiva y muévala a la esquina derecha de la diapositiva. ## 0, picture, slide, right corner
+Inserta una tabla con dos columnas y dos filas. En la primera fila, inserte Temporada y Temperatura promedio. en la segunda fila, inserte el resorte 20-28 ℃.
+dale a la diapositiva un color de fondo morado.
+mueva la mesa al lado inferior de la diapositiva. ## 0, table, slide, bottom
+inserte una forma de nube en la diapositiva y muévala hacia el lado izquierdo de la tabla. ## 0, cloud, table, left
+
+inserte una imagen de un amanecer en la diapositiva.
+establecer el ancho de la imagen a 6 cm. Hazlo cuadrado.
+Inserte el título "El poder del pensamiento positivo: Aceptando el optimismo", en cursiva y negrita.
+Inserte el siguiente texto en la parte de contenido con el mismo estilo que el título: "El pensamiento positivo es una mentalidad que se enfoca en el optimismo, la resiliencia y la confianza en uno mismo. Al cultivar pensamientos y actitudes positivas, podemos mejorar nuestro bienestar y superar desafíos. , y crea una vida más feliz y satisfactoria. Adopta el poder del pensamiento positivo y desbloquea tu verdadero potencial".
+haga que el color de fuente del contenido sea púrpura y el tamaño de fuente 20.
+agregue una nota "pensamiento positivo" en la diapositiva.
+
+Inserta una tabla con tres columnas y cuatro filas. Ingrese los siguientes datos en la tabla: Beneficios, Descripción, Ejemplos en la primera fila. Inserte "Bienestar mejorado" en la primera celda de la segunda fila.
+Inserte el siguiente texto en la parte de contenido: "El pensamiento positivo es una mentalidad que se enfoca en el optimismo, la resiliencia y la confianza en uno mismo. Al cultivar pensamientos y actitudes positivas, podemos mejorar nuestro bienestar, superar desafíos y crear una vida más feliz y feliz". una vida más satisfactoria. Aproveche el poder del pensamiento positivo y desbloquee su verdadero potencial".
+poner el contenido en cursiva y cambiar el color de la fuente a azul claro.
+dale a la diapositiva un color de fondo verde claro.
+Inserte y ponga en negrita el título "Definición" en la diapositiva.
+Mueva el título a la esquina superior de la diapositiva. ## 0, title, slide, top corner
+Inserte una imagen de un grupo de personas riéndose en la diapositiva derecha. ## 0, picture, slide, right
+
+Inserte el título "Clasificación de basura: Promoción de la gestión sostenible de los desechos" Inserte el siguiente texto en la parte del contenido: "La clasificación de la basura es una práctica fundamental para promover la gestión sostenible de los desechos. Al clasificar y eliminar adecuadamente los desechos, podemos reducir la contaminación ambiental y conservar los recursos , y contribuir a un planeta más limpio y saludable. Asumir la responsabilidad de clasificar la basura y tener un impacto positivo en nuestro medio ambiente".
+subrayar el contenido y establecer su color de fuente como naranja,
+cambie el tamaño de fuente del contenido a 18.
+cambie el estilo de fuente del título y el contenido a Times New Roman.
+inserte una flecha en la diapositiva. Muévalo a la esquina derecha de la diapositiva. ## 0, arrow, slide, right corner
+Establezca el ancho de la flecha en 4,0 y la altura en 3,0.
+Gire a la izquierda 90 grados.
+Cree un gráfico de barras que ilustre las tasas de reciclaje de diferentes materiales de desecho. Incluya categorías de datos como datos en el eje X, como "Papel", "Plásticos", "Vidrio", "Metales" y "Residuos orgánicos". Incluya las tasas de reciclaje correspondientes en el eje Y con 60 %, 50 %, 45 %, 40 %, 40 %. Nombra el gráfico de barras "Tasas de reciclaje de materiales de desecho".
+Inserte una imagen de una papelera de reciclaje en la diapositiva.
+crea una nueva diapositiva y dale un color de fondo morado.
+nombre la nueva diapositiva "Residuos orgánicos", del mismo tamaño que el contenido de la diapositiva anterior.
+Inserte el siguiente texto en la parte del contenido: "Los desechos orgánicos desempeñan un papel importante en la vida sostenible. Al compostar materiales orgánicos como restos de comida, desechos de jardín y residuos agrícolas, podemos reducir los desechos de los vertederos, enriquecer la calidad del suelo y cerrar el ciclo de nutrientes Adopte la práctica del compostaje y contribuya a un futuro más verde".
+
+Cree una nueva diapositiva e inserte el título "La película de Lady Macbeth de Oldroyd" en negrita
+Subraye el título y establezca el tamaño en 28
+Insertar contenido "El guión de Birch introduce algunos cambios importantes en la narrativa de Leskov. Por ejemplo, Birch y Oldroyd eliminan por completo los episodios de Siberia y optan por eliminar el suicidio de Katherine".
+Establece el tamaño de fuente del contenido en 20 y ponlo en negrita.
+cambie el color de fuente del contenido a amarillo, el color del título a rojo.
+insertar una imagen de la película de Lady Macbeth de Oldroyd en la diapositiva,
+establecer el ancho de la imagen cuadrada de 8 cm,
+muévalo al lado derecho del contenido, ## 1, picture, content, right
+No, muévalo al lado izquierdo del contenido, ## 1, picture, content, left
+Inserta una tabla con tres filas y dos columnas.
+En la primera fila, inserte Personaje de película, Actor/Actriz. En la segunda fila, inserte Lady Macbeth, Florence Pugh. En el tercero, inserte Macbeth, Cosmo Jarvis.
+agregue una nota "1 de mayo" en la diapositiva.
+Cambia el color de fondo a morado.
+
+Cree una nueva diapositiva y haga que el título sea "La importancia del ejercicio" y subraye el título,
+Establezca el tamaño de fuente del título en 24 y establezca el color de fuente en verde.
+Insertar texto: "El ejercicio regular puede mejorar la salud cardiovascular, mejorar el estado de ánimo y aumentar los niveles de energía".
+Establezca el tamaño de fuente del contenido 20 y negrita el contenido,
+cambiar el color de fuente del contenido a rojo,
+Inserta una imagen relacionada con el ejercicio, como una persona corriendo o haciendo yoga.
+Cree un gráfico circular basado en los datos, salud cardiovascular, 10 %; fuerza muscular 30%, bienestar mental 50% y prevención de enfermedades 10%.
+Inserta una tabla con cinco filas y dos columnas. Inserte Tipos de ejercicio (p. ej., cardio, entrenamiento de fuerza, flexibilidad) en la primera columna y Beneficios (p. ej., resistencia mejorada, aumento del tono muscular, mayor flexibilidad) en la segunda columna.
+mueva la tabla al lado derecho de la imagen. ## 1, table, picture, right
+inserte una forma de estrella en la diapositiva y dele a la diapositiva un color de fondo morado.
+mueva la estrella al lado inferior derecho de la diapositiva. ## 1, star, slide, right bottom
+establece el ancho de la estrella 8 cm, altura 4 cm.
+
+Cree una nueva diapositiva y asígnele el título "Los beneficios de la lectura". Subraye el título y establezca el tamaño de fuente en 24.
+Insertar texto: "La lectura puede mejorar la función cognitiva, aumentar la empatía y reducir el estrés".
+negrita y cursiva el contenido,
+Cambie el estilo de fuente del contenido a Arial. Cambia el color de la fuente a verde.
+Inserte la imagen de una persona leyendo un libro en un banco del parque
+Cree un gráfico de barras que incluya las categorías de datos ficción, no ficción, biografías, autoayuda y fantasía en X, cantidad de publicación 1400,992,400,661, 234 en Y correspondiente.
+Nombra el gráfico de barras "Ventas de libros"
+Inserta una tabla con tres columnas y tres filas.
+Incluya la siguiente información en la tabla, Beneficios de la lectura, mejora del conocimiento, expansión del vocabulario en la primera columna.
+dar a la diapositiva un color de fondo rojo,
+agregue una nota "Leyendo libros" en la diapositiva.
+cree una nueva diapositiva con el mismo fondo e inserte una imagen de un reloj en la diapositiva.
+Ajusta el tamaño de la imagen a 10 cm de ancho y 15 cm de alto.
+agregue una nota "ACERCA DE LA LECTURA" en la diapositiva.
+
+Crea una nueva diapositiva e inserta el título "Los beneficios del voluntariado" y subráyalo
+Establezca el color de fuente del título en rojo oscuro y establezca el tamaño en 30
+Escriba "El voluntariado puede aumentar la felicidad, mejorar las habilidades sociales y proporcionar un sentido de propósito".
+cambiar el color de fuente del contenido a verde,
+negrita el contenido y cambie el tamaño de fuente del contenido a 18.
+mueva el contenido a la esquina inferior de la diapositiva. ## 1, content, slide, bottom corner
+Inserte la imagen de un grupo de voluntarios trabajando juntos en un proyecto comunitario
+mueva la imagen a la parte inferior izquierda de la diapositiva. ## 1, picture, slide, left bottom
+Inserta una tabla con tres columnas y tres filas. inserte Beneficios, crecimiento personal, conexiones sociales en la primera columna.
+negrita el contenido y aumente su tamaño de fuente a 20.
+Cree un gráfico de barras que ilustre las diferentes áreas del voluntariado. Incluya categorías de datos como datos en X, servicio comunitario, educación, atención médica, conservación ambiental y ayuda en casos de desastre. Incluir proporción en Y, 25%, 45%, 10%, 15%,5%.
+Nombra el gráfico de barras "Importancia del voluntariado"
+
+Establezca el color de fondo en púrpura.
+Inserte el título "Formato CAJ". subrayar el título y poner en cursiva el título,
+Establece el color de la fuente del título al color del fondo.
+Inserte el siguiente texto en la parte de contenido: "El formato CAJ es un formato de archivo ampliamente utilizado en China para trabajos académicos y documentos de investigación. Proporciona una estructura y un diseño estandarizados para compartir y publicar de manera eficiente".
+establecer el contenido con doble espacio.
+cambie el estilo de fuente del texto a "Arial" y ponga el texto en negrita.
+Establezca el color de fuente del contenido en verde.
+Mueva el contenido al lado superior de la diapositiva. ## 0, content, slide, top
+Inserte una imagen de un documento de muestra en formato CAJ.
+Mueva la imagen a la esquina superior de la diapositiva. ## 0, picture, slide, top corner
+Inserta una tabla con tres columnas y dos filas.
+Ingrese "Sección", "Título" y "Contenido" en la primera fila.
+Cree una nueva diapositiva y cree un gráfico de barras para ilustrar el uso de diferentes formatos de archivo. Incluya categorías de datos en el eje X, como "CAJ", "PDF", "DOC", "PPT" y "XLS". Incluya la proporción de uso en el eje Y, como 30%, 25% , 20%, 15% y 10%.
+Nombre el gráfico de barras "Uso de formato de archivo".
+Agregue una nota "Formato de archivo" en la diapositiva y haga que el fondo sea el mismo que el de otras diapositivas.
+
+Insertar texto: "Escribir en un diario puede reducir el estrés, mejorar la memoria y aumentar la autoconciencia".
+Subraye el contenido y cambie el tamaño de fuente del contenido a morado,
+nombre de la diapositiva "Diario"
+Ponga en cursiva el título y cambie el estilo de fuente del título a Arial,
+Por favor inserte la imagen de una persona escribiendo en un diario
+mover la imagen al lado inferior de la diapositiva, ## 0, picture, slide, bottom
+inserte una forma de estrella en la diapositiva al lado derecho de la diapositiva. ## 0, star, slide, right
+girar la estrella con 60 grados.
+
+Crea una nueva diapositiva y nombra el título "Los beneficios de la jardinería". Establece el tamaño de fuente del título en 28 y ponlo en negrita.
+Insertar texto: "La jardinería puede reducir el estrés, mejorar la salud física y aumentar la creatividad".
+Ponga el texto en cursiva y cambie el estilo de fuente del texto a "Arial"
+Inserte una forma de nube en la diapositiva derecha. ## 1, cloud, slide, right
+mueva la forma de la nube al lado izquierdo del título. ## 1, cloud, title, left
+Por favor inserte la imagen de una persona trabajando en un jardín. Establezca el ancho de la imagen en 10 cm.
+Crea una nueva diapositiva y dale un fondo azul claro.
+Inserta un triángulo en la diapositiva izquierda. ## 2, cloud, slide, left
+haga que la altura del triángulo sea de 15 cm y gírelo 45 grados.
+
+Cree una nueva diapositiva con el título "Empresas de TI".
+Emmm, es mejor usar la fuente Times en negrita y el tamaño del título debe ser 32.
+Sí, quiero una imagen del logotipo de la empresa Apple con el alto y el ancho configurados en 2.
+Cree una tabla sobre los ingresos anuales de Apple con 2 filas y 3 columnas. La primera fila es "2020", "2021", "2022". La segunda fila es "274B","365B","394B".

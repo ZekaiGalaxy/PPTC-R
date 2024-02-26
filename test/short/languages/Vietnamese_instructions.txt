@@ -1,0 +1,1876 @@
+Di chuyển phần tiêu đề vào góc dưới cùng và điền vào đó là "Đánh giá con người". ## 0, title, slide, bottom corner
+Điền vào nội dung "Nói chung, bản dịch được cho điểm ẩn danh bởi nhiều người đánh giá, sau đó điểm cuối cùng được đưa ra bằng cách kết hợp kết quả đánh giá của tất cả những người đánh giá".
+Chèn một bảng có hai hàng và hai cột.
+Thêm "Ưu điểm" và "Nhược điểm" vào hai chỗ trống bên trái. Thêm "Phản ánh chính xác chất lượng bản dịch của câu, có thẩm quyền nhất, độ tin cậy cao nhất" và "Đánh giá trong thời gian dài" vào hai chỗ trống bên phải.
+Điều chỉnh kích thước phông chữ nội dung thành 20. Thay đổi kiểu phông chữ thành "Arial".
+Chèn hình ảnh một ly cà phê vào slide bên trái. ## 0, picture, slide, left
+Di chuyển ảnh sang bên phải của trang chiếu. ## 0, picture, slide, right
+Tạo một slide mới. Đặt tiêu đề của trang chiếu mới là "Tiêu chuẩn chấm điểm" và phần nội dung là "Đánh giá trực tiếp" và "Xếp hạng tương đối".
+Thay đổi màu phông chữ của tiêu đề thành màu xanh lá cây và thêm hai dấu đầu dòng.
+Thay đổi cỡ chữ của tiêu đề thành 24 và của nội dung thành 20.
+
+Chèn một hình ảnh tháp. Di chuyển nó xuống dưới cùng của slide. ## 0, picture, slide, bottom
+Điền tiêu đề với "Contents" và di chuyển nó lên trên cùng của hình ảnh. ## 0, title, picture, top
+Tạo một hình chữ nhật màu xanh lá cây.
+Thay đổi màu của tiêu đề thành màu tam giác.
+Thay đổi kích thước phông chữ của tiêu đề thành 24.
+Thay đổi kiểu phông chữ của tiêu đề thành "Arial" và tăng gấp đôi kích thước phông chữ.
+Emm, đổi kiểu chữ của tiêu đề thành "Microsoft New Tai Lue".
+
+Tạo cho slide một màu nền xanh lá cây.
+Tạo hình đám mây. Di chuyển nó đến phía dưới cùng của slide. ## 0, cloud, slide, bottom
+Điền nội dung "Bạn chạy chậm quá".
+Chèn một hình ảnh con thỏ. Di chuyển hình con thỏ sang bên phải của slide. ## 0, picture, slide, right
+Chèn nội dung "Một ngày nọ, có cuộc đua giữa thỏ và rùa".
+Tạo một slide mới và nội dung là "Một ngày nào đó tôi sẽ thắng." Di chuyển nội dung lên trên cùng. ## 1, content, slide, top
+
+Chèn một hình ảnh về nghiên cứu ở giữa slide. ## 0, picture, slide, center
+Tạo một hình vuông. Di chuyển nó vào giữa slide. ## 0, rectangle, slide, center
+Đặt tên tiêu đề là "Liên minh huyền thoại". Chèn văn bản sau vào phần nội dung,"Liên minh huyền thoại là một trò chơi dựa trên đội với hơn 140 nhà vô địch để thực hiện các trận đấu hoành tráng. Chơi miễn phí ngay bây giờ. Chơi miễn phí."
+Kiểu phông chữ và cỡ chữ của tiêu đề phải là "Times New Roman" và 24.
+Điều chỉnh chiều rộng và chiều cao của hình ảnh thành 6 inch và 5 inch.
+Xoay hình khoảng 15 độ.
+Tạo một slide mới và chèn hình ảnh một cậu bé đang cầm một cuốn sách.
+Di chuyển ảnh vào giữa trang chiếu. ## 1, picture, slide, center
+Đặt tiêu đề "Làm thế nào để học tốt hơn ở trường".
+
+Chèn một đám mây. Làm cho nó ở phía bên trái. ## 0, cloud, slide, left.
+Chèn một đồng hồ. Làm cho nó ở phía bên phải. ## 0, picture, slide, right.
+Làm cho màu nền có màu xanh nhạt. Đặt tên tiêu đề của slide là "Trí tuệ nhân tạo".
+Chèn nội dung sau vào phần nội dung,"Tác động của trí tuệ nhân tạo đối với xã hội đang được tranh luận rộng rãi. Nhiều người cho rằng AI cải thiện chất lượng cuộc sống hàng ngày bằng cách thực hiện các công việc thường ngày và thậm chí phức tạp tốt hơn con người có thể làm, giúp cuộc sống đơn giản hơn, an toàn hơn và hiệu quả hơn ."
+Thay đổi màu phông chữ của nội dung thành màu xanh lục nhạt.
+
+Tạo một trang chiếu mới và thêm tiêu đề màu đỏ vào trang chiếu có nội dung "Lên lịch vào tháng 3".
+Đặt cỡ chữ của tiêu đề là 28 và màu xanh đậm.
+Chèn một bảng có một hàng và ba cột, đồng thời điền vào hàng đầu tiên "học từ ngày 1 đến ngày 10", "làm việc từ ngày 11 đến ngày 20" và "du lịch từ ngày 21 đến ngày 31".
+Thay đổi kiểu phông chữ của tiêu đề thành "Arial" .
+Chèn một hình ảnh của một cậu bé hạnh phúc. Di chuyển nó sang phía bên phải của bảng. ## 1, picture, table, right
+Áp dụng nền màu xanh lam cho trang chiếu.
+Đặt hình ảnh có chiều rộng 6,5 inch và chiều cao 5 inch.
+Emm, bây giờ màu nền không đẹp. Thay đổi nó thành màu vàng.
+
+Tạo một slide mới và đặt tên là "Lợi ích của thiền định".
+Chèn một hình ảnh của một người đang thiền và đặt nó ở giữa trang chiếu. ## 1, picture, slide, center
+Viết "Thiền là một kỹ thuật đơn giản nhưng mạnh mẽ có thể giúp bạn đạt được trạng thái bình yên và tĩnh lặng bên trong." trong phần nội dung.
+Thay đổi kích thước phông chữ của nội dung thành 24 và đặt màu phông chữ thành màu xanh đậm.
+Chèn một hình chữ nhật. Đặt nó ở phía bên phải của nội dung. ## 1, rectangle, content, right
+Thay đổi màu nền thành màu xanh lục nhạt.
+Tạo một slide mới với cùng một nền tảng và chèn tiêu đề "Các loại thiền định".
+Thay đổi kiểu phông chữ của tiêu đề thành "Arial".
+Chèn một bảng có hai cột và ba hàng.
+Trong cột đầu tiên, viết "Thiền chánh niệm", "Thiền siêu việt" và "Thiền quét cơ thể".
+
+Tạo một slide mới và đặt nền xanh cho nó.
+Chèn hình ảnh của một mảnh đồng cỏ ở phía bên trái của trang chiếu. ## 1, picture, slide, left.
+Và thay đổi chiều rộng và chiều cao của hình ảnh thành 6,5 và 5,5 inch. Thêm tiêu đề vào trang chiếu và biến nó thành "Chức năng của rừng".
+Thay đổi màu phông chữ thành màu cam và cỡ chữ thành 40.
+Chèn một hình "mũi tên". Di chuyển nó đến phía trên cùng của slide. ## 1, right_arrow, slide, top
+
+Thêm một trang chiếu mới và chèn một bảng có hai cột và hai hàng.
+Điền vào hàng đầu tiên với "Type of Tree" và "Uses" tương ứng. Điền vào hai cột tiếp theo với "các loại cây khác nhau" và "Màu sắc khác nhau của lá".
+Chèn nội dung có nội dung "Hôm nay nhớ trồng cây!"
+Đặt cỡ chữ của nội dung là 20 và màu phông chữ là xanh lục. Gạch dưới nó.
+
+Tạo năm slide và làm cho tất cả chúng có nền màu vàng.
+Trong slide đầu tiên, chèn tiêu đề "Gia đình hạnh phúc" và tạo kiểu phông chữ "Microsoft JhengHei".
+Trong slide thứ hai, hãy chèn một bức ảnh về một gia đình.
+Trong trang chiếu thứ ba, hãy chèn một bảng có hai cột và hai hàng.
+Điền vào bảng "Cha", "Mẹ", "Ông", "Các con"
+
+Tạo một slide và chèn tiêu đề "Kế hoạch kinh doanh".
+Chèn hình ảnh bóng đèn vào phía bên trái của trang chiếu. ## 1, picture, slide, left
+Thay đổi kích thước nó rộng 3 inch. Loại "Khởi nghiệp là quá trình thiết kế, ra mắt và điều hành một doanh nghiệp mới, ban đầu thường là một doanh nghiệp nhỏ. Những người tạo ra các doanh nghiệp này được gọi là doanh nhân." trong phần nội dung.
+Đặt kích thước phông chữ của nội dung thành 20 và màu phông chữ thành màu xanh lá cây.
+Đặt màu nền của trang chiếu là màu lam đậm.
+Thêm hình dạng của một vòng tròn màu đỏ trên trang chiếu.
+Chèn nội dung sau, "Kế hoạch kinh doanh là một tài liệu bằng văn bản mô tả chi tiết cách thức một doanh nghiệp, thường là một doanh nghiệp mới, sẽ đạt được mục tiêu của mình."
+Thay đổi kích thước phông chữ của slide thành 18.
+Chèn một bảng có 3 hàng và 4 cột.
+Điền vào hàng đầu tiên của bảng với "Tiếp thị hỗn hợp", "Thị trường mục tiêu", "Giá" và "Khuyến mãi".
+
+Tạo một slide mới và đặt cho nó một màu nền xanh lam nhạt.
+Nhập nội dung sau, "Thương hiệu sản phẩm là sự phát triển của một thương hiệu đặc biệt cho một sản phẩm nhất định với mục đích tiếp cận người tiêu dùng mục tiêu của thương hiệu."
+In nghiêng nội dung. Đặt cỡ chữ 18.
+Di chuyển nội dung xuống dưới cùng của slide. ## 1, content, slide, bottom
+Chèn hình logo Lancôme lên trên cùng. ## 1, picture, slide, top
+
+Tạo một slide mới và đặt tên là "The essentials of large-scale modelling" và đặt cỡ chữ là 24.
+Thay đổi kiểu phông chữ của tiêu đề thành "Arial".
+Chèn một bảng có hai cột và một hàng.
+Đối với cột đầu tiên, hãy tô nó bằng "Importance" và đặt cỡ chữ thành 18 và màu xanh lam nhạt.
+Thêm một hình ảnh của một máy tính. Di chuyển nó vào giữa trang chiếu. ## 1, picture, slide, center
+Nhập "Mô hình quy mô lớn" trong phần nội dung.
+Đặt kích thước phông chữ của trang chiếu thành 14 và màu xanh lá cây.
+
+Chèn một hình ảnh tháp vào slide bên trái. Hình ảnh phải là một tòa tháp gồ ghề, trông có vẻ đe dọa. ## 0, picture, slide, left
+Tiêu đề của slide phải là "The Ultimate Heist".
+Tạo kiểu phông chữ cho tiêu đề "Times New Roman". Thay đổi màu của tiêu đề thành màu xanh lục.
+Tạo một hình tam giác. Di chuyển nó sang phía bên phải của slide. ## 0, triangle, slide, right
+Đặt cho slide một nền màu xanh nhạt.
+
+Chèn một bảng có ba cột và ba hàng. Điền vào bảng với "'tím', 'xanh dương', 'xanh nhạt', 'xanh đậm', 'xanh lục', 'xanh nhạt', 'xanh đậm', 'vàng', 'vàng nhạt'"
+Tạo cho slide một màu nền xanh lá cây.
+Emm, màu không đẹp. Thay đổi nó thành màu xanh đậm.
+Đặt tên tiêu đề là "Types of Color". Thêm một hình ảnh của một chiếc đồng hồ.
+Tạo một slide mới và đặt cho nó một màu nền vàng.
+Chèn nội dung sau vào trang chiếu,"Speedwell, còn được gọi là cỏ mắt chim hoặc cỏ dại gypsy, là một loại cây lâu năm khỏe mạnh có nguồn gốc từ Châu Âu."
+
+Tạo một slide và chèn hình ảnh một người đàn ông và một người phụ nữ đang tranh cãi với nhau.
+Vui lòng đặt tên cho tiêu đề Hôn nhân mang lại gì cho cả nam và nữ?
+Tạo một trang chiếu mới và chèn một hình ảnh của một người phụ nữ mặc một bộ kimono Nhật Bản, và một hình ảnh khác của một người phụ nữ châu Phi đã lập gia đình và các con của cô ấy.
+Thêm "Các yếu tố quyết định các chế độ hôn nhân khác nhau" làm tiêu đề.
+Tiếp theo, tạo ba slide khác và làm cho chúng có nền màu đỏ.
+Chuyển sang slide 2 và đặt tiêu đề là "Lợi ích chung của hôn nhân giữa nam và nữ."
+Chà, tôi muốn gạch dưới tiêu đề và vui lòng thay đổi màu phông chữ của tiêu đề thành màu vàng.
+Chèn hình ảnh một gia đình ba người hạnh phúc vào giữa trang chiếu.
+Chèn ba hình chữ nhật màu đỏ.
+tạo một slide mới và đặt tiêu đề là "Sự phát triển của thể chế hôn nhân ở Trung Quốc".
+chèn hình ảnh đồng hồ và đặt chiều rộng của nó là 6,5.
+Di chuyển đồng hồ sang phía bên trái của slide. ## 3, picture, slide, left
+Bây giờ hãy tạo một trang chiếu mới và đặt tiêu đề là "Những khó khăn mà phụ nữ trên thế giới phải đối mặt". Chèn một hình ảnh của một người mẹ toàn thời gian.
+Vui lòng đặt chiều cao của bức tranh của một người mẹ toàn thời gian là 5 inch.
+
+Đặt tiêu đề của slide mới là "Mạng thần kinh"
+Sau đó, chèn nội dung của trang chiếu "Mạng lưới thần kinh là một tập hợp các thuật toán bắt chước chức năng của bộ não con người. Chúng được thiết kế để nhận dạng các mẫu, phân loại dữ liệu và đưa ra dự đoán."
+Thay đổi kích thước phông chữ thành 12 và thay đổi màu phông chữ thành màu cam. Thay đổi nền của slide thành màu đỏ.
+
+vui lòng đặt tên tiêu đề là "Dấu ngoặc kép"
+Gạch dưới tiêu đề và đặt cỡ chữ 24.
+chèn nội dung vào slide này như sau, "Biểu tượng dấu ngoặc kép là một loại dấu chấm câu được sử dụng để phân biệt các từ và đoạn văn với phần còn lại của văn bản."
+thay đổi màu phông chữ của nội dung thành màu xanh lá cây. emmm, kích thước phông chữ quá lớn, vui lòng làm cho nó nhỏ hơn
+chèn một hình ảnh của một dấu ngoặc kép lớn. Di chuyển dấu sang bên trái của trang chiếu. ## 0, picture, slide, left
+Bây giờ, vui lòng tạo một slide mới và đặt nền màu xanh cho nó.
+sau đó thêm một hình chữ nhật ở bên phải. ## 1, rectangle, slide, right
+chèn một bảng có hai hàng và một cột.
+điền vào bảng với 'Bạn làm thế nào? quý ông nói.' trong ô đầu tiên và "Một trong những cách sử dụng phổ biến nhất của dấu ngoặc kép là để chỉ ra một lời trích dẫn trực tiếp, một đoạn văn được sao chép nguyên văn từ một nguồn khác." trong ô thứ hai.
+
+vui lòng tạo một trang trình bày mới và đặt cho nó nền màu xanh đậm
+emm, không có tiêu đề. Giúp tôi thêm tiêu đề "Lĩnh vực và ngành Nhân học" và đặt cỡ chữ là 18
+Tôi muốn chèn nội dung có cùng kích thước phông chữ, "Có hai lĩnh vực nhân chủng học rộng lớn."
+Vâng, đó là những gì tôi muốn. Vui lòng căn chỉnh nội dung cho đúng.
+
+Trong slide, uh, thêm một mũi tên ở phía bên trái
+đặt chiều rộng của mũi tên là 4.0 và chiều cao là 3.0
+chèn nội dung sau,"Những dải đất rộng lớn của Trung Á cảm thấy không có người ở một cách kỳ lạ."
+làm cho mũi tên lớn hơn có chiều rộng 5.0 và chiều cao 4.0, đồng thời xoay nó 90 độ.
+cuối cùng, áp dụng không gian kép cho nội dung
+
+Chèn "Giáo dục/Dạy học/Đại diện PPT" làm tiêu đề.
+Chèn "Tác động bất lợi của sự nóng lên toàn cầu" trong nội dung,
+làm cho màu phông chữ của tiêu đề có màu xanh đậm và nội dung có màu tím.
+Chèn một hình chữ nhật có cùng màu nội dung.
+Di chuyển hình chữ nhật sang phía trên bên trái của slide. ## 0, rectangles, slide, left top
+Chèn một bảng có bốn cột và hai hàng và điền vào hàng đầu tiên bằng "give","given","given"và "given".
+Thay đổi màu chữ của nội dung để phù hợp với tiêu đề.
+
+Làm cho nền màu cam.
+Chèn một hình ảnh con mèo và đặt chiều rộng và chiều cao của nó là 5 inch.
+Tạo thêm ba slide và làm cho chúng có cùng màu nền cam.
+Đặt tiêu đề là "Thông tin DingTalk"
+Chèn một bảng có ba hàng và năm cột.
+Điền vào hàng đầu tiên với "Phương pháp tải xuống", "Cách tham gia tổ chức", "Cách tìm bạn bè", "Ưu điểm" và "Ghi chú" vào mỗi chỗ trống.
+Chèn một ngôi sao vào phần bên phải của slide. ## 3, star, slide, right
+Chèn nội dung sau vào phần nội dung, "forestall đề cập đến việc ngăn chặn hoặc cản trở bằng cách làm điều gì đó trước thời hạn"
+Bây giờ nền màu cam là không tốt. Thay đổi nó thành một màu xanh.
+Căn trái nội dung.
+
+Chèn một mũi tên (phải) và tô màu nó bằng màu vàng.
+Đặt tên cho tiêu đề căn trái là "Các ngày trong tuần ở trường"
+làm cho màu phông chữ của tiêu đề có màu xanh đậm. in nghiêng và gạch chân tiêu đề.
+Chèn nội dung sau vào phần nội dung, "chặn trước có nghĩa là mua trước (hàng hóa) để tăng giá khi bán lại"
+Chèn một hình ảnh của một huy hiệu trường học. Đặt nó là hình vuông 2,5 x 2,5.
+Tạo một slide mới và đặt màu nền là xanh lá cây.
+Đặt cho trang chiếu tiêu đề được căn phải, "Ghi chú"
+Thay đổi màu của tiêu đề thành màu xanh lục nhạt và cỡ chữ thành 26.
+chèn ba gạch đầu dòng.
+thêm ghi chú "2023/4/9" và "2023/4/8" vào trang trình bày trước đó.
+
+Chèn một ngôi sao và đặt nó về phía bên phải của trang chiếu. ## 0, star, slide, right
+Tô màu xanh cho ngôi sao.
+Thêm một mũi tên màu đỏ ở phía bên trái của slide. ## 0, arrow, slide, left
+Đặt tên slide là "Ra quyết định"
+Chèn nội dung, "Đại dịch toàn cầu hiện nay đã làm gián đoạn cuộc sống hàng ngày của chúng ta và định hình lại thế giới theo cách mà chúng ta không bao giờ có thể tưởng tượng được."
+Gạch dưới nội dung và đặt cỡ chữ của tiêu đề là 24.
+Đặt cả kiểu phông chữ của nội dung và tiêu đề là "Times New Roman"
+
+Tạo năm slide.
+Thêm nội dung sau vào phần tiêu đề của mỗi slide lần lượt là "Giới thiệu", "Phát triển", "Đánh giá", "Phân tích" và "Kết luận".
+Đặt nền tất cả các slide thành màu vàng.
+Ở mặt đầu tiên, thay đổi kiểu phông chữ của "Giới thiệu" thành "Microsoft JhengHei",，
+Trong slide thứ hai, hãy chèn hình ảnh của một chiếc đồng hồ.
+Trong slide thứ ba, chèn một biểu đồ thanh. Dữ liệu theo chiều ngang là tháng 10, tháng 11, tháng 12 và 160,170,130 theo chiều dọc.
+Trong trang chiếu thứ tư, hãy chèn một bảng có ba cột và hai hàng.
+Chèn nội dung sau vào hàng đầu tiên, "toIPA","Ưu điểm" và "Nhược điểm"
+Trong slide cuối cùng, tạo kiểu phông chữ "Times New Roman",
+Chèn một đám mây vào slide cuối cùng.
+Ngoài ra, hãy chèn ghi chú "Được tạo bởi Eva" trong mỗi trang chiếu.
+
+Tạo một vòng tròn. Tô màu các vòng tròn màu tím.
+Chèn hình ảnh chai nước với chú thích "chai".
+Chèn "CHẤT LƯỢNG" làm tiêu đề.
+Thay đổi màu "QUALITY" thành màu đỏ.
+Chèn một bảng có hai hàng và hai cột.
+Điền vào từng ô với "Đánh giá máy","Đánh giá con người", "Đánh giá tự động 1" và "Đánh giá tự động 2",
+Tạo một trang chiếu mới và đặt tên là "Thành tích", tạo màu nhất quán cho các vòng tròn.
+
+hãy tạo một slide mới và đặt tiêu đề là "Chiến lược tiếp thị cho quý 2"
+cung cấp cho slide một màu nền xanh lam.
+Tạo một trang trình bày mới và đặt tiêu đề là "Tăng doanh số bán hàng và nhận thức về thương hiệu".
+emm, vui lòng thay đổi kích thước phông chữ của tiêu đề thành 60.
+Bây giờ, tạo nền xanh cho slide 2.
+Tạo ba trang trình bày khác và đảm bảo rằng tất cả chúng đều có cùng nền màu xanh lá cây.
+Làm tốt lắm. Bây giờ chuyển sang slide thứ ba. Thêm tiêu đề "Xu hướng thị trường và phân tích đối thủ cạnh tranh"
+Chèn một hình ảnh của một biển xanh.
+Vâng, xin vui lòng điều chỉnh chiều cao của hình ảnh là 4 và chiều rộng là 5, và đặt nó ở bên trái của tiêu đề. ## 2, picture, title, left
+OK, đó chỉ là những gì tôi muốn. Bây giờ chuyển sang slide thứ tư. Thêm tiêu đề "Sứ mệnh và giá trị của chúng tôi."
+Chèn nội dung "TẦM NHÌN.Tất cả mọi người sống lâu trong tình trạng sức khỏe đầy đủ.SỨ MỆNH.IHME cung cấp cho thế giới bằng chứng kịp thời, phù hợp và có giá trị khoa học để cải thiện chính sách và thực hành y tế."
+Có vẻ hơi lộn xộn, hãy thử điều chỉnh khoảng cách dòng thành 1,5.
+Không tệ, nhưng hãy thử đặt kích thước phông chữ của nội dung thành 40. Thay đổi kiểu phông chữ của nội dung thành "Times New Roman".
+
+Vui lòng tạo một slide mới và áp dụng nền màu vàng.
+Về tiêu đề, giúp tôi thêm tiêu đề "So sánh giáo dục ở Trung Quốc và Mỹ."
+emm, đổi tiêu đề thành "Khám phá sự khác biệt và tương đồng" .
+Ohno, tôi muốn đổi tiêu đề thành "Sự khác biệt và tương đồng".
+Bây giờ, tạo năm slide mới.
+Làm cho năm trang trình bày mới có cùng một nền màu vàng.
+Chuyển sang trang chiếu thứ hai và thêm tiêu đề "Hệ thống giáo dục".
+Chèn nội dung "Giáo dục ở Trung Quốc chủ yếu được quản lý bởi hệ thống giáo dục công lập do nhà nước điều hành, trực thuộc Bộ Giáo dục. Mọi công dân phải đi học tối thiểu 9 năm, được gọi là giáo dục bắt buộc 9 năm, được tài trợ bởi chính phủ."
+Chuyển sang trang chiếu tiếp theo và đặt tên là "Các phương pháp và phong cách giảng dạy khác nhau."
+Đặt tiêu đề của slide thứ tư là "Mối quan hệ giữa giáo viên và học sinh." Đặt tiêu đề cho slide thứ năm "Đánh giá hiệu suất của học sinh."
+Chèn hình ảnh của một khu rừng vào slide thứ năm.
+Chèn nội dung "Vào năm 2014, Jonathan Kaiman của The Guardian đã viết rằng các bậc cha mẹ và các nhà giáo dục Trung Quốc "coi hệ thống của chính họ là tham nhũng, mất nhân tính, gây áp lực và không công bằng". rằng "nhiều bậc cha mẹ coi bài kiểm tra kéo dài 9 tiếng mệt mỏi là một cơ chế phân loại sẽ quyết định quỹ đạo cuộc đời của con cái họ." và đảm bảo rằng bài kiểm tra đó được gạch chân bằng dấu ngoặc kép và đặt màu phông chữ thành màu đỏ.
+Bây giờ, di chuyển đến trang trình bày cuối cùng và chèn một bảng có một hàng. Chèn "Trách nhiệm" vào bảng.
+
+Tạo slide mới và chèn ảnh của ứng dụng DingTalk.
+Đặt tiêu đề cho slide này là "Giới thiệu về ChatGPT". Đặt màu phông chữ của tiêu đề thành màu xanh lá cây.
+Bây giờ hãy tạo năm trang trình bày mới có cùng tiêu đề, "Giải phóng sức mạnh của các mô hình ngôn ngữ AI". và căn chỉnh các tiêu đề sang bên trái.
+Thay đổi kiểu phông chữ của nội dung thành "Arial".
+Trong phần nội dung, hãy chèn nội dung "ChatGPT là một chatbot trí tuệ nhân tạo (AI) do OpenAI phát triển và phát hành vào tháng 11 năm 2022. Nó được xây dựng dựa trên các họ mô hình ngôn ngữ lớn (LLM) GPT-3.5 và GPT-4 của OpenAI và đã được tinh chỉnh (một cách tiếp cận để chuyển đổi học tập) bằng cách sử dụng cả kỹ thuật học tập có giám sát và tăng cường."
+Chà, đặt cỡ chữ là 30 và khoảng cách dòng là 2.
+Chèn một bảng có một cột và một hàng rồi điền vào bảng bằng "Cách tải xuống DingTalk".
+Tốt. Hãy chuyển sang slide tiếp theo.
+Vui lòng thêm văn bản "Tính năng và Hạn chế" làm tiêu đề và căn chỉnh văn bản đó vào giữa.
+Chèn nội dung. "Mặc dù chức năng cốt lõi của chatbot là bắt chước người đối thoại với con người, nhưng ChatGPT rất linh hoạt. Nó có thể viết và gỡ lỗi các chương trình máy tính, bắt chước phong cách của các CEO nổi tiếng và viết bài thuyết trình kinh doanh, soạn nhạc, dịch chuyển từ xa, truyện cổ tích và bài luận của sinh viên, trả lời câu hỏi kiểm tra (đôi khi, tùy thuộc vào bài kiểm tra, ở trình độ cao hơn mức trung bình của người làm bài kiểm tra), viết thơ và lời bài hát, mô phỏng hệ thống Linux. ."
+
+tạo slide mới, đặt nền xanh cho slide,
+chèn nội dung sau: "Cuộc sống quá ngắn để dành thời gian với những người hút mất hạnh phúc của bạn." và đặt một điểm năm lần khoảng cách.
+thay đổi kiểu phông chữ của nội dung thành Verdana và đặt cỡ chữ là 20.
+Cuối cùng, gạch chân nội dung và đặt màu của nội dung là màu vàng.
+
+﻿Hãy tạo một trang trình bày mới và đặt nền màu xanh cho trang trình bày đó. Thêm tiêu đề "Machine Learning"
+Chèn văn bản sau vào phần nội dung: "Học máy là một ứng dụng của trí tuệ nhân tạo (AI) cung cấp cho các hệ thống khả năng tự động học hỏi và cải thiện từ kinh nghiệm mà không cần lập trình rõ ràng. Học máy tập trung vào việc phát triển các chương trình máy tính có thể truy cập dữ liệu và sử dụng nó để tự học."
+Cỡ chữ của nội dung quá nhỏ. Vui lòng tăng nó lên 20. Thay đổi kiểu phông chữ của nội dung thành Verdana
+Kiểu chữ không đẹp. Thay đổi nó thành "Times New Roman" và Căn chỉnh nội dung sang phải.
+Thay đổi màu chữ của tiêu đề thành màu đỏ và kích thước gấp đôi nội dung
+Màu đỏ là không tốt, vui lòng thay đổi màu tiêu đề thành màu xanh lam.
+Điều đó có vẻ tốt hơn nhiều. Thêm hình ảnh liên quan đến máy học vào trang trình bày bên trái. ## 1, picture, slide, left
+Đặt chiều cao và chiều rộng của nó thành 1,2
+Cuối cùng, chèn một ngôi sao màu xanh lá cây.
+
+Tạo một trang trình bày mới và thêm tiêu đề "Chiến lược tiếp thị"
+Chèn phần nội dung: "Search Engine Optimization (SEO)", "Social Media Marketing (SMM)", "Email Marketing", "Content Marketing" và "Pay-Per-Click Advertising (PPC)" và đặt gạch đầu dòng trước mỗi người trong số họ.
+Thêm một hình ảnh liên quan đến marketing vào slide với kích thước 1*1.
+Thêm một biểu đồ hình tròn theo dữ liệu: Apple: 35%,Samsung: 25%,Huawei: 15%, Xiaomi: 10% Other: 15%. Và chèn một bảng có hai cột và hai hàng.
+Chèn "Tiếp thị" làm tiêu đề biểu đồ. Chèn "MT1" , "MT2", "ST1" và "ST2" vào bảng.
+Di chuyển phần nội dung xuống phía dưới cùng của trang trình bày. ##1, content, slide, bottom
+Tạo một slide và sao chép biểu đồ hình tròn.
+Bây giờ sao chép bảng.
+
+Vui lòng tạo một slide mới và thêm tiêu đề "Trực quan hóa dữ liệu"
+Chèn biểu đồ thanh theo dữ liệu: "X" nằm ngang là New York,Los Angeles,Chicago,Houston và Phoenixand, trong khi chữ "Y" dọc là 8,4, 4,0, 2,7, 2,3 và 1,7. Và di chuyển biểu đồ sang bên trái của slide. ##1, bar chart, slide, left
+Chèn hộp văn bản và nhập "Trực quan hóa dữ liệu là cách trình bày dữ liệu ở định dạng hình ảnh hoặc đồ họa. Nó cho phép những người ra quyết định xem các phân tích được trình bày một cách trực quan để họ có thể nắm bắt các khái niệm khó hoặc xác định các mẫu mới."
+Thay đổi màu phông chữ của hộp văn bản thành màu xanh lá cây.
+Bây giờ, chuyển sang slide tiếp theo. Và chèn nội dung sau, "Cháo này được nấu bằng cách nấu gạo nếp, đường nâu và mười tám loại trái cây khô với nhau."
+
+Bạn hãy tạo slide mới và đặt tiêu đề là "Cháo Laba"
+Chèn đoạn văn sau vào phần nội dung: "Từ khi tôi còn nhớ, cứ đến ngày 8 tháng 12 âm lịch hàng năm, mẹ tôi lại nấu cháo Laba cho chúng tôi ăn".
+làm cho phông chữ có màu vàng và in đậm nội dung.
+Bây giờ, hãy thêm một bảng có hai hàng và một cột vào trang trình bày bên phải. ## 1, table, slide, right
+Chèn "Lịch sử" vào ô đầu tiên ở hàng đầu tiên và "Hiện đại" vào hàng thứ hai.
+Tạo cho slide một màu đỏ nhạt.
+
+Tạo cho slide một màu vàng.
+Nền không tốt. Vui lòng đặt nền xanh cho trang trình bày này và tất cả các trang trình bày khác
+Điều đó có vẻ tốt. vui lòng đặt tiêu đề slide là "Công ty lớn"
+Điều chỉnh kích thước phông chữ của tiêu đề thành 28 và giúp tôi thay đổi kiểu phông chữ thành "Futura".
+Vui lòng thêm một bảng có một hàng và hai cột. Và chèn "Số", "Tên nhân viên" .
+Thêm logo của các công ty trong slide
+Đổi màu chữ của nội dung trong bảng thành màu vàng.
+
+Hãy tạo một slide mới và đặt tiêu đề là "Artificial Neural Networks"
+Chèn văn bản sau vào phần nội dung: "Mạng nơ-ron nhân tạo (ANN) là các hệ thống máy tính lấy cảm hứng từ mạng nơ-ron sinh học cấu thành bộ não động vật. Các hệ thống như vậy học cách thực hiện các tác vụ bằng cách xem xét các ví dụ, thường không được lập trình với bất kỳ quy tắc cụ thể nào cho tác vụ . ANN có khả năng học hỏi và thích ứng với đầu vào mới, giúp chúng trở nên hữu ích cho nhiều ứng dụng, bao gồm nhận dạng hình ảnh, nhận dạng giọng nói và xử lý ngôn ngữ tự nhiên."
+Cỡ chữ của nội dung quá nhỏ. Hãy tăng nó lên 24
+Sau đó thay đổi kiểu phông chữ của nội dung thành "Calibri". Đặt màu nền của trang chiếu thành màu cam nhạt.
+Căn nội dung vào giữa và tiêu đề sang trái
+Thay đổi màu nền của slide thành màu xanh lam.
+Chèn hình ảnh liên quan đến mạng nơ ron nhân tạo vào slide
+Điều chỉnh kích thước của hình ảnh thành 5,5 inch chiều rộng.
+Di chuyển hình ảnh sang bên phải của trang chiếu. ## 1, picture, slide, right
+Chèn một bảng có ba cột và hai hàng. Và điền vào hàng đầu tiên với "1","2","3".
+Và chèn "trò chơi điện tử", "Chuyển đổi", "phim truyền hình" vào hàng thứ hai.
+
+Vui lòng tạo hai slide màu đỏ mới cho tôi
+Đặt tên cho tiêu đề của slide 0 là "Thách thức" và tạo kiểu phông chữ cho tiêu đề là "Calibri"
+Chèn văn bản sau vào phần nội dung của trang trình bày đầu tiên: "Những thách thức khi triển khai AI tại nơi làm việc bao gồm thiếu chuyên môn, chi phí và khả năng chống lại sự thay đổi."
+Thay đổi màu phông chữ của nội dung thành màu xanh lá cây
+Di chuyển đến trang chiếu thứ hai và thêm ảnh liên quan đến AI vào trang chiếu. Căn giữa hình ảnh trên trang chiếu. ## 1, picture, slide, center
+
+Hãy tạo một slide mới và thêm tiêu đề "Giới thiệu"
+Chèn đoạn văn bản sau vào phần nội dung: "Chào mừng đến với phần trình bày của tôi về lịch sử trò chơi điện tử. Trò chơi điện tử đã đi một chặng đường dài kể từ khi trò chơi điện tử đầu tiên được phát minh vào những năm 1950. Ngày nay, trò chơi điện tử là một ngành công nghiệp trị giá hàng tỷ đô la được mọi người trên khắp thế giới yêu thích."
+Thêm hình ảnh trò chơi điện tử đầu tiên vào slide.
+định vị ảnh ở dưới cùng bên phải của trang chiếu. ##1, picture, slide, right bottom
+Thay đổi màu phông chữ của tiêu đề thành màu xanh lam
+Thêm một hộp văn bản vào trang chiếu và chèn văn bản: "Được trình bày bởi John Smith".
+
+Vui lòng tạo một trang trình bày mới có tiêu đề "Mạng lưới thần kinh"
+Chèn văn bản sau vào phần nội dung: "Mạng lưới thần kinh là một tập hợp các thuật toán bắt chước hoạt động của bộ não con người. Chúng được sử dụng cho nhiều ứng dụng như nhận dạng hình ảnh, nhận dạng giọng nói và xử lý ngôn ngữ tự nhiên."
+Thay đổi kiểu phông chữ của nội dung thành Arial
+Chèn một hình tam giác màu xanh lá cây. Và di chuyển nó ở góc bên trái. ##1, triangle, slide, left corner
+Thêm hình ảnh của một mạng lưới thần kinh vào slide
+Đặt chiều cao và chiều rộng của nó thành 1,2
+Tạo một slide mới. Chèn một mũi tên màu xanh bên phải. ## 2, right arrow, slide, right
+Thêm một biểu đồ đường. Chữ "X" nằm ngang là tháng 1, tháng 2, tháng 3, tháng 4. Chữ "Y" dọc là 120,140,110 và 90. Đặt tên cho nó là "Chatgpt"
+Chèn một hộp văn bản chứa tên của thư viện mạng thần kinh phổ biến (ví dụ: TensorFlow, PyTorch, Keras)
+Thay đổi màu phông chữ của tiêu đề thành màu xanh lam. và màu nền của trang chiếu thành màu lam nhạt.
+
+Chèn phần này vào phần nội dung:"Từ điển có thể được sử dụng để tìm nghĩa của từ, cách phát âm, cách viết và tra cứu từ mới."
+Tạo một vòng tròn phía trên phần nội dung. ## 0, circle, content, top
+Chèn "cụm danh từ" vào vòng tròn
+Thay đổi màu phông chữ của nội dung thành màu đỏ, kiểu thành "Tác động"
+
+Hãy tạo 3 slide mới và tiêu đề của chúng lần lượt là "Introduction", "Methodology" và "Results".
+Trong slide "Giới thiệu", chèn dòng chữ sau vào phần nội dung: "Bài thuyết trình này sẽ giới thiệu dự án nghiên cứu của chúng tôi và giải thích tầm quan trọng của nó." Trong trang chiếu "Phương pháp", hãy chèn đoạn văn bản sau vào phần nội dung: "Phương pháp nghiên cứu của chúng tôi liên quan đến việc thu thập dữ liệu từ nhiều nguồn khác nhau và sử dụng phân tích thống kê để đưa ra kết luận."
+Căn chỉnh văn bản sang trái.
+Thay đổi màu nền của tất cả các slide thành màu xanh lam nhạt
+Thêm hình ảnh của đồ thị vào trang chiếu "Kết quả". Đặt hình ảnh có chiều cao 6,5 inch.
+Thêm ghi chú trên mỗi trang chiếu với ngày hôm nay là 1/1/2022.
+
+Hãy tạo 2 slide mới với tiêu đề lần lượt là "Product Overview" và "Features"
+Trong slide "Tổng quan về sản phẩm", hãy chèn ảnh của sản phẩm
+Chèn đoạn văn bản sau vào phần nội dung: "Sản phẩm của chúng tôi được thiết kế để đáp ứng nhu cầu của thị trường mục tiêu bằng cách cung cấp giải pháp đơn giản và hiệu quả cho vấn đề của họ."
+Trong trang chiếu "Tính năng", hãy chèn một bảng có 5 hàng và 2 cột.
+Chèn "DingTalk" vào ô cuối cùng.
+Thay đổi kiểu chữ của "DingTalk" thành "Times New Roman"
+Thêm một ghi chú trên mỗi slide với thời gian hiện tại là 12:00 PM.
+
+Tạo một trang chiếu mới và đặt tiêu đề căn giữa là "Báo cáo bán hàng" cho trang chiếu 1.
+Chèn biểu đồ hình tròn với dữ liệu sau: Sản phẩm A: 120, Sản phẩm B: 220, Sản phẩm C: 180.
+thay đổi kích thước phông chữ của tiêu đề thành 28.
+Thêm hình ảnh logo công ty vào góc trên cùng bên phải của slide
+Chèn văn bản sau vào phần nội dung: "Báo cáo này cho thấy hiệu suất bán hàng của các sản phẩm của chúng tôi trong quý đầu tiên của năm 2023."
+Thay đổi kiểu chữ của văn bản thành "Times New Roman".
+Nội dung phải phù hợp với tiêu đề.
+
+Tạo một trang trình bày mới và thêm tiêu đề "Chiến lược tiếp thị"
+Thay đổi kiểu phông chữ của tiêu đề thành "Calibri" và cỡ chữ thành 36
+Chèn hình ảnh chiến dịch marketing vào phần nội dung
+Xoay hình ảnh 45 độ và căn chỉnh nó sang bên phải. ## 1, picture, slide, right
+tạo một slide mới và chèn tiêu đề "MT mạnh mẽ"
+Thay đổi kiểu phông chữ của tiêu đề thành "Arial" và cỡ chữ thành 24
+Thêm một hộp văn bản mới dưới tiêu đề và thêm các dấu đầu dòng vào đó và nhập "SEO", "Email Marketing" và "PPC"
+Đặt màu nền thành màu xanh lam.
+Chèn biểu đồ thanh theo dữ liệu: mục A 27, mục B 30, mục C 29. Và di chuyển biểu đồ sang bên trái của trang chiếu. ##1, bar chart, slide, left
+Thay đổi tiêu đề biểu đồ thành "Ngân sách tiếp thị".
+Chèn một bảng có bốn hàng và hai cột.
+Chèn nội dung sau vào bảng, "Ngày","Thứ hai", "Thứ ba", "Thứ tư", "Thứ năm", "Thứ sáu", "Thứ bảy", "Chủ nhật".
+Di chuyển bảng sang bên phải của biểu đồ. ##1, table, chart, right
+
+Tạo một slide mới và đặt nền màu vàng cho nó
+Thêm tiêu đề "Số liệu đánh giá"
+Thêm một bảng có hai cột và ba hàng
+Thêm nội dung sau vào hàng đầu tiên: "Số liệu", "Công thức". Thêm nội dung sau vào hàng thứ hai: "Độ chính xác", "(TP+TN)/(TP+TN+FP+FN)". Thêm nội dung sau vào hàng thứ ba: "Precision", "TP/(TP+FP)"
+Thêm một biểu đồ đường. Dữ liệu là tháng 10, tháng 11, tháng 12 theo chiều ngang X, 160,170 và 130 là dữ liệu theo chiều dọc Y. Đặt cho nó tiêu đề, "Cỗ máy thời gian"
+Thêm biểu đồ thanh có cùng dữ liệu.
+
+Thêm một trang trình bày mới và thêm tiêu đề "Trực quan hóa dữ liệu"
+Chèn biểu đồ thanh với dữ liệu sau: "Mắt" , "Tay" "Chân" và "Đầu gối" làm X nằm ngang và 60,70,80,90 làm Y dọc
+Định cỡ lại biểu đồ thành 4 inch x 4 inch
+Thêm tiêu đề "Doanh số theo khu vực" vào biểu đồ
+Chèn một mũi tên màu xanh lá cây vào slide.
+
+Tạo một slide mới và thêm tiêu đề "Chiến dịch tiếp thị"
+Chèn ảnh sản phẩm vào bên phải phần nội dung. ## 1, picture, content, right
+Đặt hình ảnh có chiều rộng 5 inch.
+Chèn nội dung sau vào phần nội dung, "Ngữ hệ châu Âu có quan hệ gần gũi với các ngôn ngữ Frisia, Đức và Hà Lan (ở Bỉ được gọi là tiếng Flemish)."
+Thêm một vòng tròn màu đỏ vào dưới cùng bên phải của trang trình bày. ## 1, circle, slide, bottom right
+Cung cấp cho nền một màu xanh lá cây.
+Thay đổi màu nền của slide thành màu xanh lam nhạt
+Sau đó, tạo một slide mới và thêm tiêu đề "Dữ liệu bán hàng"
+Chèn một bảng có 4 cột và một hàng
+Nhập dữ liệu sau vào bảng: tên nhân viên bán hàng, tổng doanh số, tỷ lệ hoa hồng và số tiền hoa hồng
+Di chuyển đến slide tiếp theo. Tạo màu nền giống với trang chiếu cuối cùng.
+
+Tạo một slide mới và thêm tiêu đề "Báo cáo bán hàng". Đặt kích thước phông chữ tiêu đề thành 25
+Chèn đoạn văn bản sau vào phần nội dung: "Đây là báo cáo bán hàng hàng quý của công ty chúng tôi:"
+Đặt kích thước phông chữ của nó thành 16 và thay đổi màu của nó thành màu tím.
+Thêm một hình chữ nhật 8*5 vào trang chiếu.
+Thay đổi màu nền của slide thành màu xanh lục.
+
+Vui lòng tạo một trang trình bày mới và thêm tiêu đề "Mạng lưới thần kinh nhân tạo
+Chèn văn bản sau vào nội dung: "Mạng nơ-ron nhân tạo (ANN) là các hệ thống máy tính được lấy cảm hứng từ, nhưng không giống với mạng nơ-ron sinh học cấu thành bộ não động vật. Các hệ thống như vậy học cách thực hiện các tác vụ bằng cách xem xét các ví dụ, nói chung là không được lập trình với các quy tắc dành riêng cho nhiệm vụ."',
+Tăng kích thước phông chữ của nội dung lên 24. Ngoài ra, hãy áp dụng kiểu phông chữ "Arial" cho nội dung.
+Thay đổi màu phông chữ của tiêu đề thành màu tím.
+Thêm hình ảnh bộ não vào trang chiếu và thay đổi kích thước chiều rộng của nó thành 6,5
+Xoay hình ảnh 90 độ theo chiều kim đồng hồ
+Thêm một hộp văn bản mới và viết "Ứng dụng của ANN" trong đó.
+Thay đổi kích thước phông chữ của tiêu đề thành 36 và kiểu phông chữ thành Calibri
+chèn một bảng chỉ có hai hàng và một cột.
+chèn nội dung sau vào bảng: "Nhận dạng hình ảnh" và "Xử lý ngôn ngữ tự nhiên"
+
+Đặt tiêu đề là "Đánh giá chất lượng dịch máy"
+Thêm ghi chú dưới tiêu đề, "Phóng viên: Eva." ## 0, textbox, title, bottom
+Đặt kích thước phông chữ của tiêu đề là 66.
+Đặt nền với màu xanh lam và phông chữ màu đỏ.
+Emm, điều đó không tốt. Thay đổi màu nền thành màu đỏ và phông chữ màu xanh lam.
+
+Vui lòng tạo một trang trình bày mới và thêm tiêu đề "Mạng lưới thần kinh"
+Chèn văn bản sau vào phần nội dung: "Mạng lưới thần kinh là một tập hợp các thuật toán bắt chước chức năng của bộ não con người. Chúng được thiết kế để nhận dạng các mẫu, phân loại dữ liệu và đưa ra dự đoán."
+Cỡ chữ của nội dung quá nhỏ. Hãy tăng nó lên 24
+Sau đó thay đổi kiểu phông chữ của nội dung thành Arial. Căn chỉnh nội dung vào giữa
+Thay đổi màu phông chữ của tiêu đề thành màu xanh lam
+Màu xanh không đẹp...vui lòng thay đổi màu tiêu đề thành màu xanh lá cây
+Thêm hình ảnh bộ não vào trang chiếu và đặt chiều cao và chiều rộng thành 1,5.
+Chèn "Bộ não con người đã truyền cảm hứng cho sự phát triển của mạng lưới thần kinh" vào nội dung.
+Cuối cùng, thêm một lưu ý về kiến ​​trúc mạng thần kinh được sử dụng phổ biến nhất, chẳng hạn như mạng thần kinh tích chập (CNN) hoặc mạng thần kinh hồi quy (RNN)
+Bây giờ chuyển sang slide tiếp theo. và Thay đổi màu nền của cả hai trang chiếu thành màu vàng.
+
+﻿vui lòng tạo một trang trình bày mới và đặt tiêu đề là "Tài chính cá nhân". Làm cho ghi chú giống với tiêu đề.
+Gạch dưới tiêu đề và tăng cỡ chữ lên 24.
+Sau đó, chèn đoạn này vào phần nội dung: "Tài chính cá nhân bao gồm toàn bộ việc quản lý tài chính cá nhân và gia đình, chịu trách nhiệm về tình hình tài chính hiện tại và tương lai của bạn, đồng thời đặt ra các mục tiêu tài chính. Nó cũng bao gồm xử lý các nhiệm vụ tài chính cá nhân và tiết kiệm cho những trường hợp khẩn cấp. "
+Vâng, bây giờ hãy thay đổi màu phông chữ thành màu cam.
+Chèn hình ảnh của một cuốn sách tài chính doanh nghiệp.
+Đặt chiều rộng của hình ảnh là 6,5 inch.
+vâng, và bây giờ đặt nền màu xanh lam cho slide này
+Chờ đợi! màu xanh không đẹp, thay đổi màu nền thành màu xanh nhạt.
+tạo thêm hai trang chiếu và vui lòng làm cho các trang chiếu khác có cùng nền màu xanh lam nhạt.
+Chèn một bảng có hai cột và một hàng vào trang chiếu thứ hai.
+
+Chèn nội dung "Chào mừng bạn đến với trang Danh mục Microsoft Update."
+Thay đổi màu phông chữ của nội dung thành màu cam trong khi slide màu xanh đậm.
+Chèn một hình ảnh của một máy tính. Di chuyển nó xuống dưới cùng của slide. ## 0, picture, slide, bottom
+Emm, không ổn rồi. di chuyển hình ảnh sang phía bên trái của slide. ## 0, picture, slide, left
+Bây giờ hãy tạo một bảng có hai hàng và bốn cột. Và chèn "Khái niệm cơ bản", "Xuất xứ", "Danh mục" và "Phát triển" vào hàng đầu tiên.
+Tạo một slide mới và chèn một ngôi sao màu đỏ.
+Chèn biểu đồ hình tròn theo dữ liệu, Q1 10 triệu; quý 2, 12 triệu; Quý 3 14 triệu. Và di chuyển ngôi sao ở góc dưới cùng của biểu đồ. ## 1, star, pie chart, bottom corner
+Làm cho biểu đồ lớn hơn đến 10 * 10.
+
+Tạo một slide mới và đặt cho nó một màu nền xanh lam.
+vui lòng thêm tiêu đề "Giới thiệu".
+Và chèn dòng chữ vào nội dung: "People Plus Money ngang bằng với tài chính cá nhân."
+In nghiêng và gạch dưới nội dung.
+Thay đổi màu phông chữ của nội dung thành màu xanh lá cây.
+Thêm một hình ảnh của một người nắm giữ một số tiền. Di chuyển hình ảnh đến góc dưới cùng. ## 1, picture, slide, bottom corner
+đặt bức tranh có chiều rộng 8 inch và chiều cao 7 inch.
+Tạo một slide mới. hãy viết lời vào phần nội dung: "Tiền không phải là tất cả, nhưng không có tiền là không thể"
+thay đổi kiểu phông chữ thành "Futura", màu thành màu xanh lam.
+Màu xanh không tốt lắm. Màu tím sẽ đẹp hơn.
+Chèn biểu đồ hình tròn với dữ liệu: 1,2,3,4,5. Và di chuyển nó sang bên phải của nội dung. ## 2, pie chart, content, right
+Đặt tên cho slide "Tác động của đồng tiền"
+
+hãy tạo một slide mới và đặt tiêu đề là "Sự khác biệt giữa tài chính cá nhân và doanh nghiệp"
+sau đó, chèn một bảng có hai hàng và ba cột,
+Chèn hình ảnh logo của công ty vào phía bên trái của bảng. ## 1, picture, table, left
+Chèn bảng với dữ liệu sau, "Borderlands 2", "Divinity: Original Sin 2", "Final Fantasy VII", "Assassin's Creed IV: Black Flag", "Mega Man 3", "Mega Man 3".
+Chèn một đám mây và di chuyển nó sang bên phải của bảng. ## 1, cloud, table, right
+Tiếp theo, thêm ghi chú "2023/4/23" vào trang trình bày này.
+
+Tạo cho slide một màu nền cam.
+và tạo một slide mới với cùng một nền, chèn tiêu đề: "Bridget Fonda"
+in nghiêng tiêu đề và đặt cỡ chữ là 18
+thêm một hình ảnh của Bridget Fonda vào góc trên cùng bên phải. ## 1, picture, slide, top right
+đặt bức tranh có chiều rộng 8 inch và chiều cao 7 inch.
+có, và tạo một slide mới.
+xin chèn nội dung: "Sinh ra ở Los Angeles, Bridget Fonda xuất thân từ một gia đình diễn xuất được kính trọng, bao gồm Henry Fonda, Peter Fonda và Jane Fonda. Cô bén duyên với nhà hát sau khi xuất hiện trong vở kịch Harvey của trường học, và sau đó có một vai im lặng trong Partners. Năm 1988, cô xuất hiện trong Scandal, vai diễn nói đầu tiên của cô, có một vài vai nhỏ sau đó."
+emmm, kích thước phông chữ của nội dung quá lớn, vui lòng đặt kích thước của nó thành 12. và in nghiêng nội dung
+đặt tên cho tiêu đề của trang chiếu, "Danh sách phim"
+chèn bảng có ba hàng và ba cột, đồng thời chèn các số 1,2,3,4,5,6,7,8,9 vào bảng.
+Di chuyển bảng sang bên phải của trang trình bày. ##1, table, slide, right
+
+tạo một slide mới
+sau đó thêm tiêu đề "Gấu ma" và gạch dưới nó
+chèn nội dung : "Loài Gấu Hiếm Nhất Có Thể Bạn Chưa Từng Nghe Đến"
+và chèn một bức ảnh của Ghost Bear.
+Thay đổi kiểu phông chữ thành "Arial" và cỡ chữ thành 20.
+Di chuyển ảnh sang bên phải của nội dung. ## 1, photo, content, right
+sau đó tạo một trang chiếu mới và chèn sơ đồ cây về gấu,
+di chuyển sơ đồ cây vào giữa, ## 2, treemap, slide, center
+đặt ảnh có chiều rộng 4 inch.
+Chèn nội dung, "Khi tôi say mê Dungeons and Dragons, Divinity: Original Sin 2 đã lấp đầy khoảng trống đó cho tôi."
+đặt tên tiêu đề của nó là "Trò chơi yêu thích của tôi"
+bây giờ hãy chèn một bảng có hai hàng và hai cột
+Chèn dữ liệu sau vào bảng, "SMS", "WeChat", "QQ" và "DingTalk".
+
+Tạo một slide mới. Đặt nền màu xanh lam cho slide.
+Chèn hình ảnh vũ trụ vào góc dưới cùng bên trái. ## 1, picture, slide, bottom left
+Đặt chiều rộng của ảnh là 6,5 inch và chiều cao gấp đôi chiều rộng.
+Phần nội dung thì gõ như sau, "Có thể nói là mình hơi kén ăn. Mình không thích đồ ăn quá ngọt, như bánh kẹo, sô cô la, v.v."
+Đặt tên cho slide "Món ăn yêu thích của tôi"
+thay đổi màu của tiêu đề và nội dung sang màu vàng.
+gạch dưới tiêu đề. thay đổi kích thước phông chữ của tiêu đề thành 24 và nội dung thành 22.
+Chèn một đám mây và di chuyển nó sang bên phải của bức tranh. ## 1, cloud, picture, right
+
+đặt tiêu đề là "Thần tượng" được gạch chân
+chèn một hình chữ nhật màu đỏ và di chuyển nó vào dưới cùng của tiêu đề. ## 0, rectangle, title, bottom
+và chèn nội dung căn trái: "Anh muốn em! (Anh muốn em!) Anh cần em! (Anh cần em!) Anh yêu em! (Anh yêu em!)"
+để làm cho các từ hấp dẫn, hãy đặt cỡ chữ là 24
+Không, tăng gấp đôi kích thước phông chữ.
+xin vui lòng chèn một hình ảnh của AKB48
+đặt bức tranh có chiều cao 6,5 inch và chiều rộng gấp đôi.
+chèn một bảng có một cột và hai hàng và chèn "Thời gian của một thần tượng rất ngắn. Luôn có một gương mặt mới tươi tắn và họ hiếm khi đi lạc khỏi hiện trạng giống như búp bê." trong bàn.
+thay đổi màu phông chữ thành màu xanh lam, kiểu phông chữ thành "Futura"
+chèn "Hành trình hoành tráng của các thần tượng, từ Sylvie Vartan đến những thần tượng cháy vé ở các sân vận động, đặt ra câu hỏi: Điều gì tiếp theo cho các thần tượng và nền văn hóa mà họ khơi dậy?" trong ô thứ hai.
+thêm ghi chú "2023/05/17" vào tệp.
+
+Chèn "NỘI DUNG" vào giữa trang chiếu.
+Chèn nội dung sau vào một hàng bên dưới "NỘI DUNG", Bối cảnh, Nhiệm vụ Đánh giá, Mô hình và Ứng dụng, đồng thời đánh số chúng.
+Đặt kích thước phông chữ của "NỘI DUNG" là 80 và màu là xanh lá cây.
+Gạch dưới nội dung. Đặt kiểu phông chữ của nội dung là "Pecita".
+
+cung cấp cho slide một màu nền cam. và chèn tiêu đề, "Phần mềm tốt nhất"
+In nghiêng tiêu đề và để cỡ chữ 24.
+Chèn nội dung sau, "Bạn muốn có phần mềm mạnh mẽ? Bạn không phải trả tiền cho phần mềm đó. Mọi thứ bạn cần để làm việc hiệu quả và an toàn trên PC của mình đều có trong danh sách này và tất cả đều hoàn toàn miễn phí."
+đặt màu phông chữ của nội dung thành màu vàng.
+bây giờ màu nền không đẹp, hãy đổi nó thành màu xanh đậm.
+gạch chân nội dung và đặt kiểu phông chữ của nó là "Arial"
+chèn một mũi tên và di chuyển nó ở cuối trang chiếu. ## 0, arrow, slide, bottom
+tiếp theo, thêm ghi chú "2023/4/25" vào trang trình bày này.
+
+hãy tạo một slide mới và đặt tiêu đề là "Jay Chou"
+thì thêm thông tin cơ bản của Jay Chou vào nội dung như sau "Jay Chou là một nhạc sĩ, ca sĩ kiêm nhạc sĩ, nghệ sĩ đa nhạc cụ, diễn viên và đạo diễn người Đài Loan."
+tạo một slide mới và đặt tên: "Mojito"
+gạch chân tiêu đề và đặt cỡ chữ là 20
+emmm, làm cho kích thước phông chữ tăng gấp đôi
+xin chèn nội dung: ""Mojito" được đông đảo công chúng quốc tế đón nhận. Ánh nắng Cuba, áo sơ mi nhiệt đới, xe cổ và nhịp điệu sôi động khiến bài hát không chỉ bắt tai mà còn tạo cảm giác thích thú về mặt thị giác."
+thay đổi kiểu phông chữ thành "Futura". Thay đổi màu nền thành màu xanh lục.
+ok, bây giờ hãy chèn ảnh bìa của bài hát vào bên phải. ## 2, picture, slide, right
+
+Đặt tên cho slide "Cuộc sống đại học của tôi"
+chèn hình ảnh của một đồng nghiệp vào trang chiếu với chú thích "đại học".
+Tôi muốn chèn nội dung "cơn sốt du học của sinh viên đại học"
+tô màu phông chữ của nội dung thành màu đỏ và gạch dưới nội dung.
+đặt kiểu phông chữ của nội dung thành "Futura" và đặt cỡ chữ của tiêu đề là 22
+tốt, sau đó căn chỉnh nội dung sang trái.
+chèn một bảng có một hàng và ba cột.
+điền vào bảng với "Lớp một", "Lớp hai","Lớp ba"
+ok, tạo slide mới và chèn nội dung: "Bài phát biểu của Michelle Obama tại Đại học Bắc Kinh"
+ồ, hãy chèn logo của Đại học Bắc Kinh và di chuyển vào phía trên bên phải của trang trình bày. ## 1, picture, slide, right top
+đặt logo có chiều cao 6,5 inch.
+
+tạo một slide mới và đặt tên là "Học Python"
+in nghiêng tiêu đề và đặt cỡ chữ là 26, sau đó thay đổi kiểu phông chữ thành "Times New Roman"
+và đặt màu nền là xanh lục
+vui lòng tạo thêm hai trang trình bày và làm cho các trang trình bày khác có nền giống nhau.
+Thêm một hình chữ nhật và di chuyển nó đến phía dưới cùng của trang chiếu2.## 2, rectangles, slide, bottom
+chèn một bảng với một hàng và một cột.
+Điền vào bảng với "Ví dụ không được đưa ra, vui lòng điền vào bảng"
+
+Vui lòng tạo một slide mới và đặt nền màu xanh lá cây cho nó. Chèn tiêu đề "Dịch máy"
+Chèn văn bản sau vào phần nội dung: "Dịch máy là việc sử dụng công nghệ máy tính để dịch văn bản từ ngôn ngữ này sang ngôn ngữ khác."
+Cỡ chữ của nội dung quá nhỏ. Hãy tăng nó lên 20
+Không, gấp đôi nó.
+Màu chữ không đẹp. Thay đổi nó thành màu xanh lá cây và Căn chỉnh nội dung sang phải.
+Điều đó có vẻ tốt hơn nhiều. Thêm hình logo trados.
+Đặt chiều cao và chiều rộng của nó thành 2 inch
+Di chuyển hình ảnh xuống dưới cùng của slide. ## 1, picture, slide, bottom
+Chèn một hình chữ nhật và di chuyển nó sang bên phải của hình ảnh. ## 1, rectangle, picture, right
+
+Chèn tiêu đề và ghi chú "Nền" .
+Chèn nội dung "Các yêu cầu để hiểu chất lượng bản dịch của máy dịch", và thêm câu này dưới nội dung "Tập trung vào độ tin cậy của từng mốc thời gian".
+Tạo một đám mây ở phần dưới cùng và đặt chiều rộng của nó là 6,5 inch. ## 0, cloud, slide, bottom
+Vui lòng đặt kích thước tiêu đề 30 và kích thước nội dung 20. In nghiêng phông chữ trong nội dung.
+
+Chèn một vòng tròn ở bên trái và đặt màu của nó là xanh lục. ## 0, circle, slide, left
+Đặt chiều rộng và chiều cao của vòng tròn là 10.
+Bổ sung "Mô-đun học tập tính năng" và "Mô-đun đánh giá chất lượng" trong nội dung.
+Đặt tên cho slide là "Khung cơ bản".
+Thêm ghi chú "2023/4" vào tệp này cũng như hình tròn.
+
+Đặt tên tiêu đề là "Bảng lương tháng 3" màu xanh.
+Tạo một bảng có một hàng và ba cột.
+Thêm "ID nhân viên", "Số tiền" và "Ghi chú" tương ứng vào hàng đầu tiên.
+Bổ sung thông tin dưới bảng "Người lao động phải cung cấp ID ngân hàng và chứng minh nhân dân của mình". ## 0, textbox, table, bottom
+Chèn hình ảnh tên thương hiệu của công ty và di chuyển nó vào góc bên phải của slide. ##0, picture, slide, right corner
+tạo một slide mới và nền sẽ có màu vàng,
+tiêu đề ghi "Chương 2", nội dung ghi "Thưởng cho nhân viên".
+In nghiêng tiêu đề và thay đổi kích thước phông chữ thành 44. Giữ nguyên màu của tiêu đề trên mỗi trang chiếu.
+thay đổi kiểu phông chữ của nội dung thành Verdana và màu nhạt hơn.
+Thêm ghi chú "2023/4" trong slide này.
+
+Tạo một trang trình bày mới, đặt tên tiêu đề là "Các tính năng của học sâu" và giúp gạch dưới tiêu đề.
+Đặt kích thước phông chữ của tiêu đề là 26 và màu xanh lam nhạt.
+Chèn một vòng tròn nhỏ.
+Chèn văn bản sau vào phần nội dung, "Học sâu là một kỹ thuật học máy dạy máy tính làm những gì con người tự nhiên có được."
+đặt kiểu phông chữ của nội dung là "Arial".
+Chèn một hình tam giác ở bên trái. ## 1, triangle, slide, left
+Di chuyển hình tam giác sang bên phải của văn bản. ## 1, triangle, text, right
+Thay đổi màu của hình tam giác thành màu đỏ và chiều rộng của nó thành 5.
+Chèn ba dấu đầu dòng và viết "Chủ Nhật", "Thứ Hai" và "Thứ Ba" sau mỗi dấu đầu dòng.
+Di chuyển đến trang chiếu tiếp theo và biến nó thành trang chiếu màu vàng.
+đặt tên tiêu đề cũng như ghi chú là "Mạng trung lập". Gạch dưới và in nghiêng tiêu đề.
+
+Tiêu đề của slide cần được đặt là"Lịch sử nghệ thuật".
+Thay đổi phông chữ của tiêu đề thành Times New Roman và in đậm.
+Nhập vào "Nghệ thuật là một loạt các hoạt động đa dạng của con người trong việc tạo ra các tạo tác thị giác, thính giác hoặc biểu diễn, thể hiện trí tưởng tượng, ý tưởng khái niệm hoặc kỹ năng kỹ thuật của tác giả, nhằm mục đích được đánh giá cao chủ yếu nhờ vẻ đẹp hoặc sức mạnh cảm xúc."
+Thay đổi kiểu phông chữ của văn bản thành Arial và in nghiêng.
+Thêm dấu đầu dòng vào trang chiếu.
+Liệt kê các mục sau: hội họa, điêu khắc, kiến ​​trúc, âm nhạc và văn học.
+Tìm một bức ảnh của "Mona Lisa" và chèn nó vào bên dưới. ## 0, picture, slide, bottom
+Di chuyển ảnh đến góc trên cùng của trang chiếu. ## 0, picture, slide, top corner
+Thêm một ghi chú có nội dung "Mona Lisa của Leonardo da Vinci".
+
+Chọn một hình ngôi sao màu vàng từ menu và vẽ nó trên trang chiếu.
+Đặt tên cho trang chiếu là "Stars" và đặt kích thước phông chữ của tiêu đề thành 24.
+Chèn dòng chữ "Welcome to the Starry Night" vào phần nội dung.
+Tìm một hình ảnh của vũ trụ và chèn nó dưới nội dung. ## 0, picture, content, bottom
+Thêm ghi chú có nội dung "Ngôi sao tỏa sáng, Ngôi sao sáng, Ngôi sao lấp lánh" vào trang chiếu. Thay đổi tiêu đề để lưu ý.
+
+Hãy tạo một slide mới và đặt tên là "Phản hồi của khách hàng".
+Chèn hình ảnh của một khách hàng hài lòng và di chuyển nó xuống cuối trang trình bày. ## 1, picture, slide, bottom
+Thay đổi tiêu đề thành màu đỏ "Khách hàng của chúng tôi yêu chúng tôi!"
+Thêm vào "!!" đến cuối tiêu đề.
+Nhập "Nhận xét của khách hàng" vào nội dung.
+Đặt kiểu phông chữ của nội dung thành "Times New Roman" và màu phông chữ thành màu xanh lục,
+làm cho slide có màu tiêu đề.
+emm, nó không tốt. Thay đổi màu nền thành màu nội dung.
+
+Hãy tạo một slide mới và đặt tên là "Kế hoạch tiếp thị".
+Sau đó gõ "Giới thiệu" vào phần tiêu đề. gạch dưới tiêu đề và đổi phông chữ thành Calibri.
+Tiếp theo, chèn hình ảnh logo của công ty vào góc dưới cùng bên trái. ## 1, picture, slide, bottom left
+Đặt chiều rộng và chiều cao của hình ảnh là 5 inch và 3 inch và di chuyển sang bên phải. ## 1, picture, slide, right
+Chèn một bảng có hai cột và hai hàng: Danh mục và Thông tin, Tuổi và 25.
+Tạo một trang chiếu mới và đặt nền màu xanh lam cho trang chiếu này.
+Đặt tên cho slide "Thương hiệu di động"
+chèn biểu đồ đường với Huawei, Apple, Xiaomi vào X, 120,140 và 150 vào Y.
+Đặt tên cho biểu đồ "Doanh số tháng 4"
+
+Hãy tạo một slide và đặt tên là "Báo cáo tài chính quý 2".
+thay đổi kiểu phông chữ của tiêu đề thành Arial và cỡ chữ thành 20.
+Chèn một bảng có ba cột và một hàng và chèn dữ liệu sau: "Số liệu", "Q2", "Q3".
+Chèn một hình ảnh của một báo cáo tài chính. Di chuyển hình ảnh đến phía trên cùng của bảng. ## 1, picture, table, top
+Chèn nội dung sau,"Báo cáo tài chính quý 2 cho thấy mức tăng trưởng doanh thu mạnh mẽ và khả năng sinh lời được cải thiện nhờ các biện pháp tối ưu hóa chi phí thành công và nhu cầu thị trường ngày càng tăng đối với các sản phẩm và dịch vụ của chúng tôi."
+Làm cho nội dung in nghiêng và in đậm.
+Chèn một dấu đầu dòng vào nội dung.
+Thay đổi màu nền của slide thành màu xanh lam nhạt.
+
+Tạo một slide mới và đặt cho nó một màu nền xanh lá cây
+đặt tiêu đề: Nữ quyền
+Đặt màu phông chữ tiêu đề thành nền và cỡ chữ thành 26
+Chèn nội dung sau, "Nữ quyền là niềm tin và theo đuổi các quyền, quyền lực và cơ hội bình đẳng cho phụ nữ, song song với nam giới."
+Đặt màu chữ nội dung giống với tiêu đề, in nghiêng nội dung
+Tạo một slide mới và đặt tên là "Làn sóng thứ 3 của phong trào nữ quyền", cùng màu với slide trước.
+In đậm tiêu đề và đặt kiểu phông chữ thành "Times New Roman". Đặt màu tiêu đề thành màu xanh lam và kích thước thành 28
+Chèn hình ảnh chiến tranh và di chuyển nó xuống cuối trang chiếu. ## 2, picture, slide, bottom
+Chèn biểu đồ hình tròn với dữ liệu sau: Mỹ (40%), Nga (30%), Pháp (30%).
+Chèn một bảng có ba hàng và hai cột. Hàng đầu tiên chèn Vị trí, Các thành phố khác nhau trên thế giới.
+
+Hãy tạo một slide mới và đặt tên là "Product Launch".
+Chèn nội dung có nội dung "Mục tiêu". Chèn ghi chú có cùng nội dung.
+Gạch dưới nội dung và thay đổi kiểu chữ thành Times New Roman.
+Chèn hình ảnh Apple Pencil ở dưới cùng bên trái. ## 1, picture, slide, left bottom
+Di chuyển ảnh sang phía trên cùng bên phải của trang chiếu. ## 1, picture, slide, right top
+
+Vui lòng đặt tên cho slide là "Tiến độ nhóm".
+Chèn "Mục tiêu" vào phần nội dung.
+Chèn nội dung sau, "Mục đích của tổ chức là thúc đẩy giới trẻ và các nhóm yếu thế của thế hệ này thông qua sự cố vấn của các dịch giả tự do có kinh nghiệm."
+thay đổi kích thước phông chữ của nội dung thành 18 và gạch dưới nội dung,
+Chèn hình ảnh của một nhóm đội ở bên phải. ## 0, picture, content, right
+
+Đặt tên cho slide là "Sức mạnh của Đổi mới"
+Đặt kiểu phông chữ tiêu đề là Arial và in đậm tiêu đề.
+chèn nội dung sau, "Trong thế giới đang thay đổi nhanh chóng ngày nay, đổi mới đóng một vai trò quan trọng trong việc thúc đẩy tăng trưởng kinh tế, định hình bối cảnh chính trị và chuyển đổi các chuẩn mực văn hóa. Nó thúc đẩy tiến bộ, thúc đẩy khả năng cạnh tranh và mở ra những khả năng mới cho các cá nhân và xã hội."
+đặt màu nội dung là màu xanh đậm và làm cho nó tăng gấp đôi không gian,
+Chèn hình ảnh cảnh quan thành phố trong tương lai thể hiện sự đổi mới và tiến bộ vào trang trình bày bên trái. ## 0, picture, slide, left
+Chèn một hình chữ nhật nhỏ trên slide bên phải. ## 0, rectangle, slide, right
+Đặt màu nội dung nền,
+Tạo một slide mới và chèn nội dung " Nó hoạt động không có lý trí, coi thường đạo đức xã hội và các tiêu chuẩn bên ngoài."
+in đậm và gạch dưới nội dung, Đặt tên cho trang chiếu là "Truyện cổ tích"
+
+Đặt tiêu đề là: Cuộc sống đô thị
+Đặt màu nền là xanh nhạt
+chèn một bảng có ba hàng và hai cột. Trong cột thứ hai, chèn "Số lượng", "Chất lượng","Mức độ"
+chèn một hình tam giác và một hình chữ nhật vào slide. Hình tam giác phải ở trên cùng của hình chữ nhật. ## 0, triangle, rectangle, top
+di chuyển hình tam giác xuống dưới cùng của hình chữ nhật. ## 0, triangle, rectangle, bottom
+chèn một hình ảnh của Thượng Hải vào góc dưới cùng bên trái của slide. ## 0, picture, slide, left bottom
+
+chèn một bảng có sáu cột và bốn hàng.
+chèn Year,Friends,Breaking Bad,Game of Thrones,Stranger Things,The Crown vào hàng đầu tiên,
+Chèn một ngôi sao trên slide.
+Chèn hình ảnh Bạn bè ngay để gắn dấu sao. ## 0, picture, star, right
+Di chuyển ngôi sao lên phía trên cùng của hình ảnh. ## 0, star, picture, top
+đặt tên cho trang chiếu là "phim truyền hình". in nghiêng tiêu đề và gạch dưới tiêu đề,
+Thêm ghi chú "2023-2025" trên trang trình bày.
+
+chèn một hình tam giác xoay 45 độ.
+Chèn một hình chữ nhật vào bên phải của nó. ## 0, rectangle, triangle, right
+Chèn một ngôi sao vào bên phải của hình chữ nhật. ## 0, star, rectangle, right
+Chèn một vòng tròn ở bên phải của ngôi sao. ## 0, circle, star, right
+Chèn chú thích xoay -45 độ ở bên phải của vòng tròn. ## 0, callout, circle, right
+Chèn "hình dạng" vào tất cả các phần tử.
+
+Chèn một hình ảnh của một quả địa cầu,
+Đặt tên cho slide là "Chiến lược mở rộng toàn cầu".
+Di chuyển ảnh lên trên cùng bên trái của trang chiếu. ## 0, picture, slide, left top
+Chèn nội dung sau, "Hòa bình và tình yêu"
+
+Chèn biểu đồ hình tròn với dữ liệu sau, Thượng Hải 40%, Bắc Kinh 45%, Khác 5%.
+Đặt tên cho slide là "Đóng góp",
+chèn nội dung sau, "Tổng sản phẩm quốc nội hàng năm của Bắc Kinh lần đầu tiên vượt quá 4 nghìn tỷ nhân dân tệ (630 tỷ USD) vào năm 2021"
+thay đổi kiểu phông chữ của nội dung thành Arial,
+Chèn biểu đồ đường với dữ liệu sau, 2016 6,7%, 2017 6,9%, 2018 6,6%, 2019 6,1%, 2020 2,3%, 2021 8,1%.
+Đặt tên cho slide "Tăng trưởng GDP",
+Chèn biểu đồ thanh với dữ liệu sau, 2022 6,5%, 2023 6,3%, 2024 6,1%, 2025 5,9%, 2026 5,7%, 2027 5,5%.
+
+Hãy tạo một slide mới và đặt tên là "Kế hoạch tiếp thị".
+Tạo nền màu đỏ cho slide.
+Vui lòng chèn một hình ảnh logo của công ty phía trên tiêu đề. ## 0, picture, title, top
+Vui lòng làm cho chiều rộng của hình ảnh là 3 inch.
+
+Chèn tiêu đề "Queencard"
+Ialic tiêu đề và in đậm tiêu đề. thay đổi màu phông chữ của tiêu đề thành màu tím.
+cung cấp cho slide một nền màu xanh nhạt.
+chèn ảnh Poker vào ngay tiêu đề, ## 1, picture, title, right
+di chuyển ảnh lên góc trên cùng của trang chiếu, ## 0, picture, slide, top corner
+chèn một vòng tròn và di chuyển nó đến góc bên phải của trang chiếu, ## 0, circle, slide, right corner
+đặt chiều rộng của hình tròn là 6 inch và chiều cao là 4 inch
+tạo một slide mới và đặt tên slide là "King"
+chèn hình ảnh của một vị vua vào slide bên phải. ## 1, picture, slide, right
+
+Hãy tạo một slide mới và đặt tên là "Project Timeline".
+Chèn một bảng có một hàng và bốn cột,
+Chèn Jan, Feb, Mar, April vào bảng,
+Chèn "ví dụ: "Khởi chạy phần mềm", "Chiến dịch tiếp thị bắt đầu""vào trang trình bày,
+Chèn hình ảnh của nhóm dự án dưới bảng, ## 1, picture, table, bottom
+Thêm một hình dạng mũi tên, di chuyển nó sang phía bên trái của hình ảnh. ## 1, arrow, picture, left
+Điều chỉnh chiều cao và chiều rộng của mũi tên thành 3 inch và 3 inch.
+
+Chèn biểu đồ hình tròn với dữ liệu sau, Nữ 40% và Nam 60%
+Đặt cho biểu đồ hình tròn một tiêu đề "Lớp 1"
+Thêm hình ảnh một nhóm sinh viên làm việc cùng nhau,
+chèn một hình chữ nhật vào trang chiếu, di chuyển hình chữ nhật xuống dưới cùng của biểu đồ hình tròn. ## 0, rectangle, pie chart, bottom
+Đặt tên slide là "Lớp 1"
+chèn nội dung sau, "phần sau hiển thị tỷ lệ phần trăm giới tính trong mỗi lớp"
+hủy xóa nội dung và đặt cỡ chữ 20.
+thêm ghi chú "Principle：Eva" vào slide.
+Tạo một slide và sao chép biểu đồ.
+Sao chép hình ảnh.
+Sao chép hình chữ nhật.
+
+Hãy tạo một slide mới và đặt tên là "Lời chứng thực của khách hàng".
+Chèn "Khách hàng nói gì về chúng tôi" vào phần nội dung, in đậm và in nghiêng nội dung,
+Chèn hình ảnh của một khách hàng hài lòng,
+Thêm một hình tam giác và tô màu tím.
+Di chuyển hình tam giác sang bên phải của trang chiếu, ## 1, triangle, slide, right
+
+Hãy tạo một slide mới và đặt tên là "Strategy".
+Nhập "Chiến lược tiếp thị của chúng tôi dựa trên 4P: Sản phẩm, Giá cả, Địa điểm và Quảng cáo." trong phần nội dung,
+Thay đổi kích thước phông chữ của nội dung thành 20pt và làm cho nó có khoảng cách gấp đôi. gạch dưới tiêu đề và in đậm nội dung,
+đặt màu phông chữ của tiêu đề và nội dung thành màu đỏ,
+Thêm một hình chữ nhật và di chuyển nó sang bên trái của trang chiếu.## 1, rectangle, slide, left
+chèn hình logo công ty Apple vào bên phải hình chữ nhật.## 1, picture, rectangle, right
+Di chuyển hình ảnh đến phía trên cùng của hình chữ nhật. ## 1, picture, rectangle, top
+
+đặt tên cho trang chiếu là "Người hâm mộ" và thay đổi kiểu và kích thước thành Arial, kích thước 24pt.
+Thêm gạch đầu dòng với 4 mục: "Lợi ích của sản phẩm", "Thị trường mục tiêu", "Chiến lược giá", "Kênh tiếp thị".
+Thêm hình ảnh của một thần tượng và đặt chiều cao của hình ảnh là 6,5 inch
+di chuyển ảnh xuống phía dưới cùng của trang chiếu, ## 0, picture, slide, bottom
+thêm một hình chữ nhật vào phía trên cùng của trang chiếu, ## 0, rectangle, slide, top
+thêm ghi chú "Người thuyết trình：Eva" vào trang chiếu.
+
+Hãy tạo một slide mới và đặt tên là "Sales Figures".
+Thêm biểu đồ thanh với dữ liệu "Tháng 1：20, Tháng 2：30" ở phía bên trái của trang trình bày.
+Thêm biểu đồ đường với dữ liệu "Tháng 1：10, Tháng 2：15" ở bên phải của trang trình bày.
+Thêm tiêu đề cho biểu đồ đường là "Doanh số bán hàng theo tháng".
+Thêm một hình chữ nhật, di chuyển nó lên trên cùng của slide. ## 1, rectangle, slide, top
+nhập "Doanh thu của chúng tôi cũng tăng đều trong 6 tháng qua" vào phần nội dung,
+
+Vui lòng tạo một slide mới và chèn tiêu đề "Báo cáo bán hàng",
+chèn một bảng có hai hàng và năm cột.
+Thêm dữ liệu sau vào bảng: "Sản phẩm", "Số lượng bán được", "Doanh thu", "Chi phí", "Lợi nhuận".
+Chèn dữ liệu sau vào bảng: "Máy tính", "1000", "$1000000", "$500000", "$500000".
+Một bảng khác 1*5 với dữ liệu: "Máy in", "500", "$100000", "$50000", "$50000".
+
+chèn hình ảnh đường chân trời của thành phố lên trên cùng. ## 0, picture, slide, top
+đặt chiều rộng của ảnh là 6 inch và chiều cao là 4 inch
+Bây giờ, thêm tiêu đề "Cuộc sống thành phố".
+di chuyển hình ảnh sang góc bên trái của slide. ## 0, picture, slide, left corner
+Thay đổi kích thước phông chữ của tiêu đề thành 20 và in đậm tiêu đề.
+
+Chèn biểu đồ đường dựa trên dữ liệu sau, Hòa nhạc 40%, Album 30%, Sách 30%.
+Đặt tên cho slide là "Sức mạnh của Fandom"
+Chèn "Người hâm mộ đóng một vai trò quan trọng trong việc định hình thành công và tác động của nhiều hình thức giải trí khác nhau, từ phim ảnh và chương trình truyền hình đến thể thao và âm nhạc." vào phần nội dung,
+đặt kiểu phông chữ của nội dung là Arial, Thay đổi kích thước phông chữ của nội dung thành 20,
+Thêm một mũi tên vào trang chiếu và di chuyển mũi tên đó lên phía trên cùng của trang chiếu.## 0, arrow, slide, top
+Thêm một vòng tròn vào trang chiếu và di chuyển vòng tròn đó xuống cuối trang chiếu.## 0, circle, slide, bottom
+Di chuyển lên trên cùng. ## 0, circle, slide, top
+
+Đặt chủ đề trang chiếu thành "Tencent".
+chèn một hình chữ nhật, di chuyển nó lên phía trên cùng của trang chiếu, ## 0, rectangle, slide, top
+xoay hình chữ nhật với 90 độ,
+Thay đổi phông chữ của tiêu đề thành Georgia và in nghiêng.
+Chèn văn bản sau vào phần nội dung:"Tencent là tập đoàn đa quốc gia hàng đầu của Trung Quốc được thành lập vào năm 1998. Tập đoàn này chuyên về các sản phẩm và dịch vụ liên quan đến internet, bao gồm mạng xã hội, trò chơi trực tuyến, thương mại điện tử, điện toán đám mây và trí tuệ nhân tạo. "
+Điều chỉnh kích thước phông chữ của nội dung thành 24 để hiển thị tốt hơn. Thay đổi kiểu phông chữ của nội dung thành "Arial".
+
+Áp dụng nền màu lục cho trang chiếu để phù hợp với thương hiệu của Tencent.
+Chèn logo Tencent dưới dạng hình ảnh trong trang trình bày.
+Đặt hình ảnh có chiều rộng 6,5 inch,
+Chèn biểu đồ đường với hiệu suất của các mô hình: Mô hình A 40%, Mô hình B 30%, Mô hình C 30%.
+cũng là một biểu đồ thanh cho việc này.
+
+vui lòng tạo một trang trình bày mới và đặt tên tiêu đề là "Nguồn gốc của người Anh" và hủy xóa tiêu đề.
+OK, sau đó chèn phần này vào phần nội dung:"Nguồn gốc của Vương quốc Anh có thể bắt nguồn từ thời của vua Anglo-Saxon Athelstan, người vào đầu thế kỷ thứ 10 sau Công Nguyên đã giành được lòng trung thành của các vương quốc Celtic lân cận và trở thành "quốc gia đầu tiên để cai trị những gì trước đây nhiều vị vua đã chia sẻ giữa họ,"
+Điều đó có vẻ tốt. Nhưng cỡ chữ của từ quá nhỏ. Thay đổi nó thành 20.
+Thay đổi màu nền của trang chiếu thành màu xanh lá cây và tăng gấp đôi kích thước phông chữ.
+
+Bây giờ, hãy chèn một hình chữ nhật, di chuyển nó sang bên phải của trang chiếu.## 0, rectangle, slide, right
+Hãy thay đổi màu tô của hình chữ nhật thành màu vàng.
+Đặt tiêu đề trang chiếu thành "Vinda".
+Chèn đoạn văn bản sau vào phần nội dung:"Tập đoàn Vinda là công ty sản phẩm vệ sinh hàng đầu được thành lập vào năm 1985. Tập đoàn chuyên sản xuất và phân phối khăn giấy, sản phẩm vệ sinh dùng một lần và sản phẩm chăm sóc cá nhân."
+Vui lòng thay đổi cỡ chữ của văn bản thành 20 và màu của văn bản thành xanh lục. Tạo kiểu phông chữ giống với tiêu đề.
+áp dụng khoảng cách gấp đôi cho trang trình bày này.
+
+Bây giờ, hãy thêm tiêu đề của trang chiếu "Sở thích của tôi".
+Vui lòng chèn một hình ảnh của một cây đàn guitar trên cùng bên phải. ## 0, picture, slide, right top
+Nhập "Chơi ghi-ta là một trong những sở thích yêu thích của tôi." trong phần nội dung.
+Vui lòng thay đổi cỡ chữ của văn bản thành 24 và màu của văn bản thành màu tím.
+
+Vui lòng tạo một slide mới và đặt tên là "Kế hoạch tiếp thị".
+Vui lòng chèn tiêu đề vào phần nội dung.
+Thay đổi kiểu phông chữ của nội dung thành phông chữ rõ ràng và chuyên nghiệp, chẳng hạn như "Calibri".
+Chèn logo Vinda dưới dạng hình ảnh trong slide.
+Di chuyển hình ảnh sang góc bên trái của slide. ## 1, picture, slide, left corner
+
+Vui lòng tạo một slide mới và thêm tiêu đề "Chiến dịch tiếp thị" cỡ 20.
+OK, bây giờ hãy chèn hình ảnh của một khách hàng đang mỉm cười. Di chuyển ảnh sang phía trên bên trái của trang chiếu. ## 1, picture, slide, left top
+Hay đấy nhưng hình to quá. Vui lòng đổi kích thước thành chiều cao 5 inch và chiều rộng 6 inch.
+Tuyệt vời, bây giờ hãy thêm các gạch đầu dòng về lợi ích của chiến dịch tiếp thị, bao gồm lợi nhuận, danh tiếng, đưa vào danh sách.
+vui lòng tăng kích thước phông chữ của tất cả nội dung trong trang chiếu lên 20.
+
+Đặt tên cho slide là "Các loại pin".
+Tiêu đề nên được in đậm và in nghiêng.
+Bây giờ thêm hình ảnh của "Sản phẩm A".
+Tốt lắm, bây giờ hãy di chuyển hình ảnh sang phía bên trái của trang trình bày. ## 0, picture, slide, left
+Chèn một bảng có hai cột và bốn hàng, với các dữ liệu sau: Loại pin, Mô tả ở hàng đầu tiên, Pin kiềm và pin gia dụng thông thường có thời hạn sử dụng dài ở hàng thứ hai, Pin lithium-ion và Pin sạc được sử dụng trong các thiết bị điện tử ở hàng thứ ba và Niken-cadmium, Pin sạc có mật độ năng lượng cao ở hàng thứ tư.
+
+Chèn biểu đồ tròn bằng cách sử dụng dữ liệu sau: Nhãn hiệu A: 30%; Nhãn hiệu B: 25%; Nhãn hiệu C: 20%; Nhãn hiệu D: 15%; Nhãn hiệu khác: 10%
+Đặt tên cho biểu đồ tròn là "Nhãn hiệu điều hòa"
+Chèn "trang trình bày này bao gồm một mô tả ngắn gọn hoặc các điểm chính về từng thương hiệu" vào phần nội dung,
+chèn ảnh Haier vào slide dưới cùng, ## 0, picture, slide, bottom
+gạch chân nội dung và đổi màu chữ của nội dung thành màu xanh lục,
+chèn một hình tam giác và một hình chữ nhật vào slide,
+di chuyển hình tam giác đến cạnh dưới cùng của hình chữ nhật. ## 0, triangle, rectangle, bottom
+xoay hình chữ nhật với 45 độ.
+
+Nhập "Nhóm của chúng tôi" làm tiêu đề.
+Chèn ảnh của một đội và thay đổi kích thước thành rộng 4 inch và cao 3 inch.
+Xoay hình ảnh 45 độ.
+di chuyển ảnh sang phía trên bên trái của trang chiếu. ## 0, picture, slide, left top
+Thay đổi kiểu phông chữ của tiêu đề thành Calibri và tăng cỡ chữ lên 28.
+
+Đặt chủ đề trang chiếu thành "Thẻ nhận dạng"
+Chèn một biểu đồ mới và chọn loại biểu đồ đường với dữ liệu sau, Phúc Kiến, Thượng Hải, Bắc Kinh trong X và 120, 140, 110 trong Y.
+Đặt tên tiêu đề biểu đồ là "ID Card Operation".
+Chèn hình ảnh về chứng minh thư vào slide, di chuyển nó sang bên phải. ## 0, picture, slide, right
+Thay đổi kiểu phông chữ của tiêu đề trang chiếu thành Verdana và tăng cỡ chữ lên 32.
+Tạo cho slide một màu nền tím.
+
+Viết "Báo cáo bán hàng" làm tiêu đề.
+Thay đổi phông chữ của tiêu đề thành Arial. Đặt cỡ chữ của tiêu đề là 48 point. Đặt tiêu đề thành đậm.
+Thêm một bảng mới có ba cột và năm hàng.
+Thêm thông tin sau vào hàng đầu tiên: "Khu vực", "Bán hàng", "Tăng trưởng". Thêm thông tin sau vào bốn hàng tiếp theo: "Bắc", "$50.000", "5%", "Đông", "$75.000", "10%", "Nam", "$45.000", "3%", " Tây", "60.000 USD", "8%".
+Đặt màu nền trang chiếu thành màu xanh lục.
+Chèn đoạn văn bản sau vào phần nội dung:"Tên: John Doe,Ngày sinh: 1 tháng 1 năm 1990,Giới tính: Nam,Số CMND: 123456789,Cơ quan cấp: Cục Xe cơ giới,Ngày hết hạn: 31 tháng 12 năm 2023"
+Chèn hình ảnh bãi biển vào slide.
+chèn một mũi tên vào slide.
+Di chuyển hình ảnh đến phía trên cùng của mũi tên. ## 0, picture, arrow, top
+
+thêm một hình chữ nhật mới.
+Thay đổi màu tô của hình chữ nhật thành màu cam.
+đặt chiều rộng của hình chữ nhật là 6 inch và chiều cao là 5 inch
+Nhập "Thông tin quan trọng" in đậm làm tiêu đề.
+Điều chỉnh kích thước phông chữ của tiêu đề thành 24 và thay đổi màu phông chữ thành màu xanh lá cây.
+Thêm một danh sách gạch đầu dòng với những vật dụng này, nồi, kéo, muỗng.
+Thêm hình ảnh dấu chấm than vào trang chiếu.
+di chuyển hình ảnh đến góc trên cùng của slide. ## 0, picture, slide, top corner
+Tạo một slide mới và chèn một hình chữ nhật vào bên trái. ## 1, rectangle, slide, left
+Đặt tên cho trang chiếu mới là "Chi tiết bổ sung".
+
+Nhập "Đây là một số thống kê về sự phát triển của công ty chúng tôi" trong phần nội dung.
+Thay đổi màu phông chữ của nội dung thành màu tím.
+Thêm một bảng mới với ba cột một hàng.
+Thêm "doanh thu, lợi nhuận và số lượng nhân viên" vào bảng.
+
+Chèn hình ảnh giày Converse vào slide.
+Thêm nội dung sau vào trang chiếu: "Converse là một thương hiệu giày dép phổ biến được biết đến với giày thể thao mang tính biểu tượng và phong cách giản dị."
+Thay đổi kích thước phông chữ của nội dung thành 18 và màu phông chữ thành màu đỏ.
+
+Thêm nội dung sau vào trang chiếu: "Nước chanh là một loại nước giải khát có vị ngọt và sảng khoái được làm từ những quả chanh mới vắt. Nó rất giàu vitamin C và cung cấp một loạt hương vị cam quýt."
+Đặt tên cho slide mới là "Nước chanh".
+Tạo một bảng có 3 cột và 2 hàng. Nhập "Sản phẩm", "Giá" và "Tính năng" vào hàng đầu tiên. Nhập "A", "B", "C" vào hàng thứ hai.
+Chèn một hình ảnh nước chanh mới vắt vào bên phải của bảng. ## 0, picture, table, right
+Thêm "Trang 1" vào trang chiếu.
+
+Chèn hình ảnh bãi biển ở phía trên bên trái. ## 0, picture, slide, top left
+Thêm "Đặt kỳ nghỉ của bạn ngay hôm nay!" vào phần nội dung.
+Thêm tiêu đề "Thời gian nghỉ".
+Thay đổi cỡ chữ và kiểu của tất cả thành 18 và Times New Roman.
+Thêm một gạch đầu dòng với các mục sau: "Thư giãn trên bãi biển", "Tắm biển", "Ăn hải sản ngon".
+
+Hãy tạo một slide mới và đặt tên là "Ớt".
+Thay đổi màu nền của slide thành màu đỏ.
+Chèn hình ảnh bát ớt thơm ngon vào slide.
+Thêm nội dung sau vào trang chiếu: "Ớt là một món ăn cay và có hương vị được chế biến từ sự kết hợp của thịt, đậu và nhiều loại gia vị khác nhau. Nó được biết đến với hương vị đậm đà và tính giải nhiệt."
+
+Đặt tên cho slide là "Chili". Chèn ảnh phong cảnh Ớt vào slide.
+Tạo một bảng có 4 cột và 3 hàng. Nhập "Thành phần", "Số lượng", "Mức độ cay" và "Xuất xứ" vào hàng đầu tiên. Nhập "Beef", "2 lbs", "Medium" và "Mexico" vào hàng thứ hai. Nhập "Đậu", "1 lon", "Nhẹ" và "Hoa Kỳ" vào hàng thứ ba. Nhập "Tomatoes", "3", "Hot" và "Spain" vào hàng thứ tư.
+Thêm ghi chú "Page 2" để cho biết số slide.
+
+chèn hình ảnh ai đó đang ăn bánh hamburger ở dưới cùng. ## 0, picture, slide, bottom
+Đặt tiêu đề của trang trình bày là "Dự báo doanh số cho quý 3".
+Thêm nội dung sau vào trang trình bày: "Dự báo doanh số bán hàng cho Quý 3 cho thấy doanh thu và thị phần tăng trưởng ổn định. Với các chiến lược tiếp thị có mục tiêu và cải tiến sản phẩm, chúng tôi dự đoán hiệu suất bán hàng sẽ tăng đáng kể."
+
+Tiêu đề không đủ mô tả, vui lòng đổi thành "Chiến lược tiếp thị".
+Tuyệt vời, hãy nhập "Chiến lược tiếp thị của công ty chúng tôi là tập trung vào quảng cáo trên mạng xã hội và tiếp thị có ảnh hưởng".
+Tiếp theo, thêm một danh sách dấu đầu dòng của Instagram, Facebook và Twitter.
+Vui lòng chèn hình ảnh của một người đang sử dụng điện thoại thông minh.
+Thêm một hình chữ nhật phía trên hình ảnh. ## 0, rectangle, picture, top
+Tạo một bảng có 4 cột và 6 hàng. Nhập "Tháng", "Doanh thu", "Số lượng đã bán" và "Tỷ lệ tăng trưởng" vào hàng đầu tiên.
+
+Hãy tạo một slide mới và đặt tên là "Product Launch".
+Thêm tiêu đề vào slide, "Giới thiệu sản phẩm mới nhất của chúng tôi".
+Chèn một hình ảnh của sản phẩm,
+Di chuyển hình ảnh xuống phía dưới cùng của trang chiếu, ## 1, picture, slide, bottom
+đặt nền màu tím cho trang chiếu và hình ảnh phải ở trên cùng. ## 1, picture, slide, top
+
+Đặt tên slide là "Khám phá Trung Quốc".
+Chèn một bản đồ của Trung Quốc để giới thiệu các điểm du lịch đa dạng của đất nước.
+Di chuyển hình ảnh của Trung Quốc sang góc bên trái của slide. ## 0, picture, slide, left corner
+Thêm nội dung sau vào trang chiếu: "Trung Quốc là một điểm đến du lịch hấp dẫn được biết đến với lịch sử phong phú, văn hóa rực rỡ và phong cảnh ngoạn mục. Từ Vạn Lý Trường Thành mang tính biểu tượng đến đô thị nhộn nhịp của Thượng Hải, có điều gì đó cho mọi du khách ở quốc gia rộng lớn và đất nước đa dạng."
+Tạo một bảng có 5 cột và 8 hàng. Nhập "Tỉnh", "Danh lam thắng cảnh nổi tiếng", "Nhiệt độ trung bình", "Số lượng khách du lịch" và "Mùa được đề xuất" vào hàng đầu tiên.
+Hãy tạo một slide mới và đặt tên là "Project Timeline".
+chèn một ngôi sao vào slide còn lại sau tiêu đề. ## 1, star, slide, left
+Di chuyển ngôi sao vào phía bên phải của slide. ## 1, star, slide, right
+
+Đặt tiêu đề là "OPPO". Đặt màu phông chữ thành màu đỏ, cỡ chữ thành 20, gạch chân và in đậm tiêu đề.
+Chèn nội dung sau vào phần nội dung: "OPPO là nhà sản xuất điện thoại thông minh hàng đầu được biết đến với thiết kế sáng tạo và công nghệ tiên tiến.
+Chèn một hình ảnh của điện thoại thông minh OPPO để giới thiệu thương hiệu, nó nên để lại nội dung. ## 0, picture, content, left
+tạo một slide mới và đặt tên là "Xiaomi"
+Tạo bảng có 4 cột và 3 hàng. Ở hàng đầu tiên, nhập "Sản phẩm", "Giá", "Tính năng" và "Tình trạng còn hàng" vào hàng đầu tiên. Ở hàng thứ hai, nhập dữ liệu sau cho các sản phẩm Xiaomi: "Mi 11", "$699", "Snapdragon 888, camera 108MP", "Global". Ở hàng thứ ba, nhập dữ liệu sau cho các sản phẩm Xiaomi: "Redmi Note 10", "$249", "Màn hình AMOLED, camera 48MP ", "Toàn cầu".
+
+Hãy tạo một trang trình bày mới và đặt tên là "Tổng quan về sản phẩm".
+Chèn một bảng có 3 cột và 4 hàng vào trang chiếu. Trong cột đầu tiên, nhập "Tên sản phẩm", "SKU", "Giá" và "Số lượng".
+Đặt màu nền là xanh lục.
+
+Đặt màu nền xanh lam cho trang chiếu này. Đặt tiêu đề là "Research Writing".
+Chèn nội dung sau vào trang chiếu: "Viết nghiên cứu liên quan đến việc điều tra có hệ thống và tài liệu về một chủ đề để đóng góp kiến ​​thức và hiểu biết mới cho một lĩnh vực cụ thể."
+Thay đổi màu chữ của nội dung thành màu vàng và cỡ chữ thành 18.
+Nhân đôi kích thước phông chữ.
+Tạo biểu đồ đường, sử dụng dữ liệu sau, 2016, 2017,2018 làm dữ liệu trong X, 120,140,160 làm dữ liệu trong Y.
+Đặt tên cho biểu đồ đường là "Publications Over Time".
+Chèn hình ảnh trang bìa của một bài viết nghiên cứu. Thay đổi màu nền giống với màu trước đó.
+
+Tạo một trang chiếu mới và thêm tiêu đề vào trang chiếu có nội dung "Lên lịch vào tháng 3".
+Định dạng cỡ chữ của tiêu đề thành 28 và màu xanh đậm.
+Chèn một bảng có bốn cột và ba hàng. Hàng đầu tiên là "Ngày","Nhiệm vụ","Thời gian bắt đầu","Thời gian kết thúc". Hàng thứ hai là "Ngày 15 tháng 3","Cuộc họp với các bên liên quan","9:00 sáng" và "10:30 sáng". Hàng cuối cùng là "23 tháng 3","Đánh giá và cập nhật dự án","2:00 chiều" và "4:00 chiều"
+Chèn một hình ảnh của lịch. Di chuyển nó ở phía trên cùng của bảng.
+
+Tạo một slide mới và đặt tên là "Lợi ích của thiền định".
+Chèn một hình ảnh của một người thiền định. Di chuyển nó ở dưới cùng của slide. ## 1, image, slide, bottom
+Viết "Thiền là một kỹ thuật đơn giản nhưng mạnh mẽ có thể giúp bạn đạt được trạng thái bình yên và tĩnh lặng bên trong." trong phần nội dung.
+Thay đổi kích thước phông chữ của nội dung thành 24 và đặt kiểu phông chữ thành Times New Roman.
+Chèn một hình chữ nhật. Di chuyển nó ở phía bên phải của hình ảnh. ## 1, rectangle, image, right
+Thay đổi màu của hình chữ nhật thành màu xanh nhạt.
+Tạo một trang trình bày khác và màu nền phải là màu xanh lam nhạt.
+Chèn một bảng có hai cột và ba hàng.
+Trong cột đầu tiên, viết "Thiền chánh niệm", "Thiền siêu việt" và "Thiền quét cơ thể". Trong cột thứ hai, chèn "Thiền định giúp làm dịu tâm trí và giảm mức độ căng thẳng, thúc đẩy thư giãn.","Thiền định thường xuyên giúp tăng cường khả năng tập trung và tập trung.",và "Thiền định thúc đẩy sự ổn định cảm xúc, chánh niệm và sức khỏe tổng thể. "
+
+Tạo một slide mới và đặt nền xanh cho nó.
+Chèn hình ảnh của một mảnh đồng cỏ và tạo chiều rộng và chiều cao là 6,5 và 5,5.
+Thêm tiêu đề vào trang chiếu và đặt tên là "Chức năng của rừng". Thay đổi màu phông chữ thành màu đỏ đậm và cỡ chữ thành 40.
+Chèn hình " mũi tên " màu vàng.
+Di chuyển mũi tên sang bên phải của hình ảnh. ## 1, arrow, picture, right
+
+Chèn một biểu đồ hình tròn. "thực phẩm, nhà ở, giao thông, giải trí, khác" là danh mục và 40%,20%,15%,10%,15% là tỷ lệ phần trăm.
+Chèn một bảng có hai cột và sáu hàng. Hàng đầu tiên viết Danh mục và Tỷ lệ phần trăm.
+Di chuyển bảng đến phía dưới cùng của biểu đồ hình tròn. ## 0, table, pie chart, bottom
+Đặt tên cho trang chiếu là "Chi tiêu của tôi vào tháng 5 năm 2023"
+In nghiêng tiêu đề.
+
+Tạo năm slide và mỗi slide áp dụng một nền màu vàng.
+Trong slide đầu tiên, hãy đặt tiêu đề là "Kỳ nghỉ hè của tôi" và thay đổi kiểu phông chữ thành "Microsoft JhengHei".
+Trong slide thứ hai, hãy chèn một bức ảnh về một gia đình.
+Trong slide thứ ba, chèn một biểu đồ thanh. "Doanh thu", "Chi phí","Lợi nhuận", "Đầu tư" là dữ liệu trên X, 120, 80,40,60 là dữ liệu trên Y.
+Trong slide thứ tư, hãy chèn nội dung sau, "Trong kỳ nghỉ hè, tôi đã dấn thân vào một cuộc phiêu lưu khó quên. Tôi đã khám phá những điểm đến mới, đắm mình trong sự ấm áp của hoàng hôn vàng và thư giãn trên những bãi biển đầy cát."
+Trong trang chiếu thứ năm, hãy chèn một bảng có hai hàng và một cột. Điền vào bảng với "Doanh thu" và "Chi phí". Kích thước phông chữ phải là 26.
+
+Tạo một slide và đặt cho nó một tiêu đề "Kế hoạch kinh doanh".
+Chèn một hình ảnh của một bóng đèn. Di chuyển nó sang phía bên trái của slide. ## 1, picture, slide, left
+Loại "Khởi nghiệp là quá trình thiết kế, ra mắt và điều hành một doanh nghiệp mới, ban đầu thường là một doanh nghiệp nhỏ. Những người tạo ra các doanh nghiệp này được gọi là doanh nhân." trong phần nội dung.
+Đặt kiểu phông chữ là "Georgia" và cỡ chữ là 10.
+Thay đổi màu nền của slide thành màu xanh lục.
+Thêm hình dạng của một vòng tròn trên trang chiếu.
+Di chuyển vòng tròn sang bên phải của slide. ## 1, picture, slide, right
+Di chuyển đến slide 0 và nhập "Chiến lược tiếp thị" trong phần nội dung.
+Chèn một bảng có 3 hàng và 4 cột. Cột đầu tiên viết "Chiến dịch truyền thông xã hội","Đối tác có ảnh hưởng" và "Tiếp thị qua email"
+Cột thứ tư viết $10000, $15000, $5000.
+Thêm một ghi chú "2023/5".
+
+Đặt tên cho trang chiếu là "Đối tượng mục tiêu" và đặt kiểu chữ là "Arial"
+Di chuyển tiêu đề sang góc bên phải của slide. ## 0, title, slide, right corner
+Chèn một hình ảnh về Gen Z và đặt chiều rộng của nó là 4.
+Di chuyển ảnh xuống dưới cùng bên trái của trang chiếu.## 0, picture, slide, left bottom
+Chèn nội dung sau vào phần nội dung, "Hiểu và nhắm mục tiêu hiệu quả đến đúng đối tượng là rất quan trọng để truyền tải thông điệp phù hợp và tối đa hóa tác động của các nỗ lực tiếp thị."
+
+Chèn tiêu đề "Các yếu tố cần thiết của mô hình quy mô lớn" và đặt cỡ chữ thành 24.
+Chèn một hình ảnh của một mạng trung lập. Di chuyển nó đến phía dưới cùng của slide. ## 0, picture, slide, bottom
+Chèn một bảng có hai cột và một hàng. Điền vào bảng với "Số" và "Ghi chú".
+Di chuyển bảng lên trên cùng. ## 0, table, slide, top
+
+Chèn hình ảnh của một tòa tháp trông gồ ghề, đầy đe dọa. Di chuyển nó lên trên cùng bên phải của slide. ## 0, picture, slide, right top
+Tiêu đề của slide phải là "The Ultimate Heist".
+Tạo một hình chữ nhật. Di chuyển hình chữ nhật lên đầu tiêu đề. ## 0, rectangle, title, top
+Thay đổi màu phông chữ của tiêu đề thành màu xanh đậm và cỡ chữ thành 28.
+Thay đổi kiểu chữ thành "Microsoft New Tai Lue".
+Tạo cho slide một màu nền xanh nhạt.
+
+Chèn một bảng có 4 cột và 2 hàng. Hàng đầu tiên ghi Nhiệm vụ,Mức độ ưu tiên,Thời gian bắt đầu,Thời gian kết thúc.Hàng thứ hai ghi Lập kế hoạch dự án,Cao,9:00 sáng,10:30 sáng
+Nhập nội dung "Quản lý thời gian hiệu quả là một kỹ năng quan trọng để thành công trong cả môi trường cá nhân và nghề nghiệp."trong phần nội dung.
+Gạch dưới và in nghiêng nội dung.
+Di chuyển bảng xuống dưới cùng của nội dung. ## 0, table, content, bottom
+Chèn hình ảnh chiếc đồng hồ vào slide.
+Thêm ghi chú "Người trình bày: Eva".
+
+Tạo một trang trình bày mới và thêm tiêu đề "Hồ sơ công ty"
+Chèn đoạn văn bản sau vào phần nội dung: "Công ty chúng tôi được thành lập năm 2005 với mục đích cung cấp các sản phẩm và dịch vụ chất lượng cao cho khách hàng. Kể từ đó, chúng tôi đã phát triển thành nhà cung cấp giải pháp sáng tạo hàng đầu cho nhiều ngành công nghiệp . Đội ngũ chuyên gia của chúng tôi cam kết mang lại sự xuất sắc trong mọi việc chúng tôi làm."
+Thay đổi kiểu phông chữ của tiêu đề thành "Calibri Light" và cỡ chữ thành 40
+Thêm hình ảnh logo công ty vào slide bên phải ## 1, picture, slide, right
+Thay đổi kích thước ảnh sao cho chiều cao của ảnh là 2 inch và chiều rộng là 3 inch. Di chuyển nó sang slide bên trái. ## 1, picture, slide, left
+Di chuyển hình ảnh đến góc bên trái của slide.## 1, picture, slide, left corner
+Tạo một slide mới và đặt cho nó một màu nền xanh lam.
+Thêm văn bản sau vào phần nội dung: "Trở thành người dẫn đầu về đổi mới và bền vững, mang lại giá trị cho các bên liên quan của chúng tôi và tác động tích cực đến thế giới."
+Gạch dưới nội dung và đặt khoảng cách gấp đôi nội dung.
+Chèn một bảng có hai cột và một hàng. Chèn dữ liệu sau vào bảng, "A-72", "C-71"
+Chèn một bảng có hai cột và một hàng. Chèn dữ liệu sau vào bảng, "B-72", "D-71"
+
+Vui lòng tạo một slide mới và đặt tên là "Dữ liệu bán hàng"
+Chèn một bảng có 6 cột và 15 hàng vào phần nội dung của trang chiếu
+Điền vào bảng dữ liệu sau: "Sản phẩm", "Doanh số tháng 1", "Doanh số tháng 2", "Doanh số tháng 3", "Tổng doanh số" và "Doanh số trung bình" ở hàng đầu tiên và "iPhone", "22" , "13","15","17","12"ở hàng thứ hai.
+Di chuyển bảng đến góc trên cùng bên trái của trang trình bày. ## 1, table, slide, left corner
+Cuối cùng, thêm ghi chú "Nguồn dữ liệu: Bộ phận bán hàng" vào slide.
+Tạo một slide mới và sao chép bảng.
+
+Thêm tiêu đề "Chiến lược tiếp thị"
+Thay đổi phông chữ của tiêu đề thành "Arial Black"
+Thêm phần nội dung sau: "Search Engine Optimization (SEO)", Social Media Marketing (SMM)", "EmailMarketing", "Content Marketing" và "Pay-Per-Click Advertising (PPC)".
+Thay đổi màu chữ của nội dung thành màu xanh đậm
+Nội dung không hiển thị. Thay đổi màu của nội dung thành màu xanh lá cây.
+Chèn hình ảnh ngón tay cái bên dưới nội dung. Đặt chiều rộng của nó là 5 inch. ## 0, picture, content, bottom
+
+Chèn tiêu đề "The Grand Canyon" và in nghiêng.
+Làm cho phông chữ lớn hơn. Có lẽ cỡ chữ nên là 30.
+Thay đổi kiểu chữ của tiêu đề thành "Times New Roman"
+Chèn ảnh Grand Canyon vào phần nội dung của slide
+Di chuyển hình ảnh sang bên phải của tiêu đề. ## 0, picture, title, right
+Thay đổi kích thước hình ảnh để nó cao 4 inch và rộng 6 inch
+Tạo một bảng có 4 cột và 2 hàng. Chèn "Quảng Đông","Bắc Kinh", "Thượng Hải" và "Hải Nam" vào hàng đầu tiên. Chèn "34%", "36%", "20%", "10%" vào hàng thứ hai.
+Chèn biểu đồ hình tròn theo dữ liệu trong bảng, đó là ["Quảng Đông","Bắc Kinh", "Thượng Hải" và "Hải Nam"], ["34%", "36%", "20%", "10 %"]
+Di chuyển biểu đồ hình tròn xuống cuối bảng. ## 0, pie chart, table, bottom
+Chèn một biểu đồ thanh với cùng một dữ liệu.
+Cuối cùng, thêm ghi chú "Nguồn ảnh: National Park Service".
+
+Vui lòng tạo một slide mới và đặt tên là "So sánh sản phẩm"
+Chèn một bảng có 2 cột và 5 hàng. Chèn dữ liệu sau vào bảng, "Điện thoại thông minh (Apple iPhone 13)", "Máy tính xách tay (Dell XPS 13)", "Đồng hồ thông minh (Apple Watch Series 7)", "Tai nghe (Sony WH-1000XM4)", "Máy ảnh (Canon EOS R5)", "Truyền hình (Samsung QLED Q90T)", "Máy chơi game (PlayStation 5)", "Thiết bị theo dõi sức khỏe (Fitbit Charge 4)", "Tai nghe không dây (AirPods Pro)", "Máy tính bảng (iPad Pro)".
+Di chuyển tiêu đề đến góc dưới cùng của slide. ## 1, title, slide, bottom corner
+Cuối cùng, cung cấp cho slide một màu nền xanh nhạt.
+
+Vui lòng tạo một slide mới và đặt tên là "Báo cáo bán hàng hàng tháng"
+Chèn biểu đồ thanh vào phần nội dung của trang chiếu với dữ liệu sau: "Tháng 1: 10.000 USD", "Tháng 2: 12.000 USD", "Tháng 3: 15.000 USD", "Tháng 4: 18.000 USD", "Tháng 5: 20.000 USD", "Tháng 6: 25.000 USD ", "Tháng 7: 28.000 USD", "Tháng 8: 30.000 USD", "Tháng 9: 32.000 USD", "Tháng 10: 35.000 USD", "Tháng 11: 40.000 USD", "Tháng 12: 45.000 USD"
+Đặt tên cho biểu đồ là "Doanh số bán hàng hàng tháng của tôi vào năm 2023"
+Di chuyển biểu đồ lên phía trên cùng của trang chiếu. ## 1, chart, slide, top
+Chèn văn bản sau vào phần nội dung: "Báo cáo bán hàng hàng tháng cho thấy doanh thu tăng đáng kể."
+Cuối cùng, thêm ghi chú "Trình bày bởi: xxx" vào slide.
+
+Thay đổi màu nền thành màu đỏ nhạt và chèn hình quả dâu tây.
+Tạo ba slide mới. Và đặt tên cho tiêu đề của chúng lần lượt là: "Phạm vi dự án", "Dòng thời gian dự án" và "Ngân sách dự án".
+Áp dụng màu lục nhạt, xanh lam nhạt và tím cho mỗi trang chiếu tương ứng.
+Thêm văn bản sau vào phần nội dung trong trang chiếu 1: "Dự án của chúng tôi liên quan đến việc phát triển một ứng dụng phần mềm mới cho khách hàng của chúng tôi. Ứng dụng này sẽ hợp lý hóa các quy trình kinh doanh của họ và cải thiện lợi nhuận của họ."
+Chèn một bảng có 6 cột và 2 hàng vào trang chiếu thứ hai. Và thêm dữ liệu sau vào bảng: Tháng, Nhiệm vụ, Ngày bắt đầu, Ngày kết thúc, Tiến độ và Nhận xét ở hàng đầu tiên.
+Tạo biểu đồ đường và dữ liệu là [2016,2017,2018,2019], [10,12,15,11]. Di chuyển nó ở phía bên trái của bảng. ## 1, line chart, table, left
+Chèn hình ngôi sao vào slide. Di chuyển nó đến góc trên cùng của slide. ## 1, star, slide, top corner
+Di chuyển đến slide 2 và gạch chân tiêu đề của nó là "Project Timeline"
+Chuyển sang slide 3, chèn nội dung sau, "Chi phí nhân sự: Chi phí này bao gồm các chi phí liên quan đến các thành viên trong nhóm dự án, chẳng hạn như tiền lương, tiền công, phúc lợi và chi phí đào tạo."
+Thay đổi kiểu phông chữ của nội dung thành "Arial"
+Thêm ghi chú "Thank You!" vào tập tin.
+
+Đặt tên cho slide là "Dòng thời gian của công ty"
+Chèn một hình chữ nhật và sau đó xoay nó sang phải 45 độ
+Di chuyển hình chữ nhật xuống dưới cùng bên phải của trang chiếu.## 0, rectangle, slide, right bottom
+Làm cho màu nền của trang chiếu có màu xanh lam nhạt
+Chèn một bảng có bốn cột và hai hàng. Thêm bốn ngày sau: "1980", "1990", "2000", "2010" vào hàng đầu tiên.
+Thêm bốn sự kiện sau: "Thành lập công ty", "Công ty chuyển đến tòa nhà mới", "Công ty lên sàn", "Công ty bị đối thủ cạnh tranh mua lại" ở hàng thứ hai.
+
+Chèn hình ảnh logo của công ty Google ở ​​dưới cùng. ## 0, picture, slide, bottom
+Sau đó, đặt tiêu đề là "Kết luận" và in nghiêng nó
+Điều đó có vẻ tốt. Chèn nội dung, "Chúng ta ngày càng trở thành một, dân số trên toàn thế giới – hòa trộn tự do. Điều đó sẽ tạo ra một thế giới lai – da nâu nhạt, tóc đen, người Phi-Euro-Australo-Americo-Asian, màu da và các đặc điểm khuôn mặt của họ có xu hướng hướng tới mức trung bình toàn cầu."
+Căn chỉnh nội dung sang phải
+Chèn một hình chữ nhật vào slide và đặt chiều cao của nó là 5.
+Sau đó, di chuyển hình chữ nhật xuống đáy trang chiếu. ## 0, rectangle, slide, bottom
+
+hãy tạo một slide mới và đặt tiêu đề là "Đạo đức phê bình văn học" và bôi đậm nó
+Màu tiêu đề không bắt mắt lắm nên để màu tiêu đề là xanh
+sau đó chèn thêm dòng chữ: "Phương pháp phê bình văn học đạo đức là một phương pháp phê bình văn học mới do Giáo sư Nie Zhenzhao của Đại học Sư phạm Trung ương Trung Quốc đưa ra sau khi nghiên cứu so sánh, tổng hợp và suy nghĩ lại về lịch sử và hiện trạng của phê bình văn học Trung Quốc và phương Tây thuyết và phương pháp".
+sau đó xin chèn một hình ảnh bìa của cuốn sách Nhập môn phê bình văn học đạo đức của Nie Zhenzhao
+để cụ thể, hãy di chuyển ảnh ở phía bên trái của trang chiếu.## 1, picture, slide, left
+sau đó chèn một hình chữ nhật bên phải. ## 1, rectangle, slide, right
+Nền không đẹp nên đổi màu nền sang vàng nhạt
+
+tạo một slide mới và đặt tiêu đề là "Jane Eyre by Charlotte Bronte" và in nghiêng tiêu đề
+sau đó, chèn văn bản: "Trong một kết thúc có vẻ hạnh phúc, Charlotte sử dụng di sản và ngọn lửa để xây dựng cốt truyện." và in đậm nó
+thay đổi màu phông chữ thành màu đỏ sẫm, sau đó thay đổi kiểu phông chữ của văn bản thành "Arial"
+chèn một mũi tên vào bên phải của văn bản. ## 1, arrow, text, right
+chèn một bảng có hai cột và hai hàng, hàng đầu ghi danh mục, thông tin; hàng thứ hai ghi năm xuất bản, 1847.
+sau đó chèn một hình ảnh chân dung của Charlotte Bronte bên dưới bảng. ## 1, picture, table, bottom
+di chuyển hình ảnh lên trên cùng của bảng. ## 1, picture, table, top
+
+đặt nền màu xanh lam cho trang trình bày này
+đặt tiêu đề là "Id in David Copperfield" và in nghiêng David Copperfield
+sau đó chèn đoạn này vào phần nội dung: "Id là một loại xung động bản năng của động vật, nó bị mê muội mà không có lý trí, nó mù quáng theo đuổi sự thỏa mãn và tích lũy cơ hội để thoát ly. Id không quan tâm đến chuẩn mực đạo đức xã hội hay hành vi bên ngoài. Id là nơi cất giữ bản năng."
+sau đó vui lòng thêm một hình ảnh của cuốn sách David Copperfield trên nội dung. ## 0, picture, content, top
+hình ảnh quá nhỏ, vì vậy hãy làm cho nó lớn hơn, với chiều cao 5 inch và chiều rộng 6 inch.
+chèn một ngôi sao, di chuyển nó sang bên phải của hình ảnh. ## 0, star, image, right
+cuối cùng, thêm dấu đầu dòng cho văn bản trong phần nội dung.
+
+Chèn một bảng có ba hàng và hai cột. Chèn Vị trí, Các thành phố khác nhau trên thế giới, ở hàng đầu tiên, Dân tộc, cộng đồng và văn hóa Trung Quốc, ở hàng thứ hai và Đặc điểm, kiến ​​trúc Trung Quốc, doanh nghiệp, ẩm thực, lễ kỷ niệm văn hóa, ở hàng thứ ba.
+thêm một tiêu đề "China Town" và in đậm tiêu đề.
+Chèn một biểu đồ hình tròn, sau đây là dữ liệu, Nhà hàng Trung Quốc,40%; Cửa hàng bán lẻ Trung Quốc,30%;Lễ hội và sự kiện văn hóa 30%
+Chèn một hình ảnh của một thị trấn Trung Quốc vào slide.
+Di chuyển ảnh xuống phía dưới cùng của trang chiếu. ## 0, picture, slide, bottom
+Chèn một ngôi sao vào slide bên phải. ## 0, star, slide, bottom
+Thêm ghi chú "Phố Tàu" vào slide.
+
+tạo một slide mới và đặt cho nó một màu nền xanh lá cây.
+đặt tiêu đề trang chiếu là "chủ nghĩa nữ quyền" và đặt màu phông chữ của tiêu đề giống với màu nền.
+sau đó chèn nội dung "Nữ quyền là niềm tin và mục tiêu rằng phụ nữ nên có quyền, quyền lực và cơ hội như nam giới"
+màu phông chữ không hấp dẫn, vui lòng đặt màu phông chữ là màu vàng và đặt nội dung in nghiêng.
+
+đặt tiêu đề là "Làn sóng phong trào nữ quyền thứ 3" và in đậm nó
+thay đổi kiểu chữ của tiêu đề thành "Times New Roman". đặt màu tiêu đề là xanh lam và kích thước là 28
+sau đó chèn nội dung "Nó tập trung vào tín ngưỡng tôn giáo đa chủng tộc, phong tục dân tộc, đa văn hóa, bảo vệ môi trường, chủ nghĩa tiêu dùng, định hướng đa dạng"
+Chèn một bức chân dung nữ phía trên nội dung. ## 0, picture, content, top
+
+hãy tạo một slide mới và đặt tiêu đề là "phim chuyển thể từ Kiêu hãnh và Định kiến"
+sau đó đặt cỡ chữ là 24 và in nghiêng tiêu đề.
+chèn phần này vào phần nội dung:"Mười bốn năm sau lần phát sóng đầu tiên, tác phẩm chuyển thể từ tiểu thuyết Kiêu hãnh và Định kiến ​​của nhà biên kịch Andrew Davies năm 1995 vẫn là một tiêu chuẩn để đánh giá tác phẩm chuyển thể của Austen. , bản chuyển thể có vẻ như đề cập đến sự nhạy cảm hiện đại và những kỳ vọng về kịch tính đương thời. Các lựa chọn diễn giải của Davies nhấn mạnh vào sự gợi cảm và tập trung vào mong muốn của Darcy."
+Thêm gạch đầu dòng vào phần nội dung.
+đặt cỡ chữ của nội dung là 20 và đặt khoảng cách gấp đôi
+xin vui lòng chèn một hình ảnh web của bộ phim Kiêu hãnh và định kiến ​​năm 1995
+chèn hình chữ nhật, di chuyển vào góc bên phải của trang chiếu, ## 1, rectangle, slide, right corner
+emm, thay đổi màu nền thành màu cam nhạt
+
+Chèn một bảng có ba hàng và hai cột.
+Điền vào bảng "Vị trí", "Dân tộc" vào cột đầu tiên.
+chèn đoạn văn bản sau: "Elizabeth Bennet và Mr. Darcy trải qua quá trình phát triển nhân vật quan trọng xuyên suốt cuốn tiểu thuyết, học được những bài học quan trọng về bản thân và xã hội.
+chèn hình ảnh của Elizabeth Bennet và Mr. Darcy vào cuối bảng. ## 0, picture, table, bottom
+di chuyển hình ảnh sang phía bên phải của slide. ## 0, picture, slide, right
+vẽ một hình chữ nhật. Di chuyển nó đến góc bên trái của slide. ## 0, rectangle, slide, left corner
+sau đó tạo một slide mới và đặt tiêu đề là "Vai trò của giai cấp xã hội trong Kiêu hãnh và định kiến" và gạch dưới tiêu đề
+chèn dòng chữ này: "Tầng lớp xã hội đóng một vai trò quan trọng trong tiểu thuyết, ảnh hưởng đến các mối quan hệ, quyết định và nhận thức về bản thân của các nhân vật."
+vẽ một vòng tròn nhỏ ở góc dưới bên phải và đặt màu của nó thành màu cam
+thay đổi màu nền của slide từ xanh nhạt sang cam.
+
+tạo một trang trình bày mới và đặt tiêu đề "Hình dạng"
+Chèn một hình chữ nhật màu đỏ trên slide bên trái. ## 0, rectangle, slide, left
+Chèn một vòng tròn màu xanh vào slide bên phải. ## 0, circle, slide, right
+Chèn một hình tam giác màu xanh lá cây trên slide bên trái. ## 0, triangle, slide, left
+Chèn chú thích màu vàng trên trang trình bày bên phải. ## 0, callout, slide, right
+
+chèn một hình ảnh mô tả cảnh hôn lễ thế kỷ 19 ở phía bên phải của trang chiếu. ## 0, picture, slide, right
+thêm một hình tam giác. Di chuyển hình tam giác sang bên phải của hình ảnh. ## 0, triangle, picture, right
+Đặt tựa đề là "hôn nhân thế kỷ 19"
+nghiêng và đậm tiêu đề. Thay đổi màu phông chữ thành màu cam đậm.
+
+Chèn biểu đồ hình tròn dựa trên dữ liệu sau, Vani: 30%, Sô cô la: 25%, Dâu tây: 15%, Chip sô cô la bạc hà: 10%, Bánh quy và kem: 10%, Bơ hồ đào: 10%
+tìm một hình ảnh của một quả dâu tây. Di chuyển hình ảnh đến phía dưới cùng của biểu đồ hình tròn. ## 0, picture, pie chart, bottom
+chèn nội dung sau: "Các khoản chi tăng đáng kể trong quý trước do chi phí hoạt động cao hơn và tăng đầu tư vào các sáng kiến ​​​​tiếp thị."
+Thay đổi kiểu phông chữ thành Times New Roman và cỡ chữ thành 18.
+
+vui lòng tạo một slide mới và đặt tên tiêu đề và chú thích là "Làm PPT"
+chèn nội dung sau: "Tạo bản trình bày PowerPoint hấp dẫn và có tác động đòi hỏi phải lập kế hoạch và thực hiện cẩn thận."
+gạch dưới nội dung và để màu chữ đỏ sẫm.
+làm cho tiêu đề của slide được in đậm và in nghiêng
+thêm ghi chú "PPT" vào slide.
+
+tạo một slide mới và đặt tên là "Mạng lưới thần kinh"
+viết nội dung gạch đầu dòng như sau: "Mạng lưới thần kinh là một loại thuật toán học máy được mô phỏng theo cấu trúc của bộ não con người. Chúng bao gồm các lớp nút liên kết với nhau để xử lý thông tin và học cách nhận dạng các mẫu."
+thay đổi màu chữ của tiêu đề thành màu đỏ
+thêm hình ảnh về kiến ​​trúc mạng thần kinh vào trang trình bày
+chèn một đám mây vào bên phải của hình ảnh. ## 1, cloud, picture, right
+cuối cùng, làm cho màu nền có màu vàng
+
+tạo một slide mới và bên phải chèn hình đám mây màu đỏ. ## 0, cloud, slide, right
+chèn "Cung cấp bài học rõ ràng" vào phần nội dung.
+thay đổi màu phông chữ của tiêu đề thành màu cam. sau đó tạo một trang trình bày mới và đặt tên là "Tiền xử lý dữ liệu"
+màu nền hiện tại không phù hợp với slide này. Hãy thay đổi nó thành màu đám mây.
+
+tạo một slide mới và đặt tên là "Transfer Learning"
+đặt cỡ chữ trên trang chiếu là 28 và in đậm
+thay đổi kiểu chữ của tiêu đề thành "Times New Roman". thay đổi màu phông chữ của tiêu đề thành màu đỏ
+Làm cho slide có cùng màu nền.
+viết nội dung như sau: "Học tăng cường là một loại học máy trong đó thuật toán học thông qua thử và sai. Nó thường được dùng để dạy máy cách đưa ra quyết định trong môi trường phức tạp."
+
+chèn một bảng có 3 hàng và 2 cột, điền vào hàng đầu tiên với Model Name,ChatGPT; hàng thứ hai với Architecture,GPT (Generative Pre-training Transformer); hàng thứ ba với Kích thước dữ liệu đào tạo,Nhiều terabyte dữ liệu văn bản đa dạng.
+đặt tiêu đề là "GPT" và in đậm tiêu đề.
+chèn nội dung, "Generative Pre-training Transformer 3 (GPT-3) là một mô hình ngôn ngữ tự hồi quy được phát hành vào năm 2020, sử dụng công nghệ học sâu để tạo ra văn bản giống con người."
+gạch chân nội dung và làm cho màu phông chữ trên trang chiếu này có màu đỏ đậm.
+thêm hình ảnh về kiến ​​trúc GPT-3 vào đúng nội dung. ## 0, picture, content, right
+
+tạo một slide mới và đặt tiêu đề là "Wuthering Height" và in nghiêng nó
+Thêm dòng chữ "Câu chuyện được kể lại bởi Lockwood, một bên không quan tâm, câu chuyện của họ đóng vai trò là khung cho một loạt các câu chuyện ngắn hồi tưởng của Ellen Dean, một quản gia." Và in đậm văn bản
+thay đổi màu phông chữ của tiêu đề và văn bản thành màu đỏ
+chèn một hình mũi tên,
+mũi tên hơi nhỏ, vui lòng làm cho nó lớn hơn, với chiều rộng là 6 và chiều cao là 4
+Tạo một slide mới và chèn một đám mây,
+Chèn hình ảnh bìa sách Chiều cao gió hú
+Chèn dòng chữ "Wuthering Heights, tiểu thuyết của Emily Brontë, xuất bản năm 1847 dưới bút danh Ellis Bell",
+đặt phông chữ thành Times New Roman và cỡ chữ thành 18
+Chèn một bảng có một hàng và hai cột. Điền bảng "Thể loại" và "Thông tin" vào bảng.
+thêm ghi chú "Microsoft" vào trang chiếu.
+
+tạo một slide mới và đặt tiêu đề thành "Kiêu hãnh và định kiến ​​của Jane Austen"
+chèn văn bản: "Cuốn tiểu thuyết khám phá các chủ đề về tình yêu, hôn nhân và kỳ vọng xã hội của giới quý tộc Anh", in đậm và gạch dưới văn bản
+chèn một mũi tên. Di chuyển mũi tên sang bên trái của văn bản. ## 1, arrow, text, left
+vui lòng thay đổi màu văn bản thành màu xanh đậm. thay đổi màu mũi tên thành màu cam nhạt
+chèn một bảng có hai cột và hai hàng, hàng đầu ghi danh mục, thông tin; hàng thứ hai viết tác giả, Jane Austen.
+chèn hình ảnh chân dung của Jane Austen
+đặt chiều cao hình ảnh là 6 và di chuyển nó đến góc bên phải của trang trình bày. ## 1, image, slide, right corner
+
+hãy tạo một slide mới và chèn tiêu đề "Hành trình cuộc đời của Sirsa" và in đậm nó
+phông chữ hơi nhỏ, vui lòng đặt phông chữ thành 24
+tạo một bảng có ba cột và bốn hàng. Chèn Thời thơ ấu,0-10 tuổi,Đi học ở hàng đầu tiên,Tuổi vị thành niên,11-18 tuổi,Trung học phổ thông ở hàng thứ hai.
+chèn hình ảnh trường học vào slide.
+di chuyển hình ảnh sang phía bên trái của bảng. ## 1, image, table, left
+
+Tạo một slide mới và đặt tên tiêu đề là "Khám phá vũ trụ" và gạch dưới tiêu đề.
+chèn một hình ảnh của một thiên hà,
+Tạo một danh sách đầu dòng với 5 mục trong phần nội dung. Các vật phẩm là "Sao", "Hành tinh", "Tinh vân", "Hố đen" và "Vật chất tối".
+in đậm và in nghiêng nội dung,
+thay đổi màu phông chữ của nội dung thành màu đỏ đậm,
+chèn biểu đồ hình tròn, Công trình dạy học 35%, Sân vận động 25%, Sân chơi 40%.
+di chuyển biểu đồ hình tròn lên đầu trang chiếu. ## 1, pie chart, slide, top
+chèn biểu đồ đường, năm đầu tiên 20%, năm thứ 2 30%, năm thứ 3 40%, năm thứ 4 10%.
+chèn một biểu đồ thanh với cùng một dữ liệu.
+cung cấp cho slide một nền màu xanh lam.
+
+tạo một slide mới và chèn tiêu đề "giới thiệu"
+chèn nội dung mà Trong bài báo này, chúng tôi khám phá cách sử dụng nhiều phương pháp bổ sung và nhiều phương pháp trong một khoảng thời gian dài hơn mang lại cả tiềm năng và cạm bẫy, cũng như sự phức tạp và không chắc chắn.
+đặt màu phông chữ của nội dung thành màu đỏ
+kích thước phông chữ của nội dung quá nhỏ, vui lòng đặt nó là 20
+làm cho màu nền có màu xanh nhạt. Nhân đôi kích thước phông chữ nội dung
+
+thêm "Nanyang là một thành phố lịch sử và văn hóa quốc gia, với di sản lịch sử sâu sắc và sự tích lũy văn hóa phong phú." trong phần nội dung.
+thêm một gạch đầu dòng vào nội dung
+và đặt cỡ chữ cho nội dung là 18. và in nghiêng nội dung, đặt kiểu chữ cho nội dung là "Arial"
+Đặt tên cho slide "Thành phố của tôi- Nam Kinh"
+Chèn một hình ảnh về Nam Kinh. Di chuyển nó sang phía bên phải của slide. ## 0, picture, slide, right
+Bây giờ, tạo một slide mới và đặt tên là "Catalog", áp dụng tên cho ghi chú.
+In nghiêng tiêu đề và tăng cỡ chữ lên 24.
+Chèn nội dung sau vào phần nội dung, "Danh mục phục vụ như một nguồn tài nguyên toàn diện và hấp dẫn trực quan, giới thiệu nhiều loại sản phẩm hoặc dịch vụ."
+Thay đổi màu phông chữ của nội dung thành màu xanh lá cây. Tạo cho slide một màu nền xanh đậm.
+chèn một bảng có ba hàng và hai cột. Viết Sản phẩm, Giá ở hàng đầu tiên, áo sơ mi, $29,99 ở hàng thứ hai, váy, $59,99 ở hàng cuối cùng.
+sau đó chèn biểu đồ hình tròn, "áo sơ mi, váy, quần" là danh mục, 40%,30% và 30% là tỷ lệ phần trăm.
+sử dụng biểu đồ đường để minh họa
+Thêm biểu đồ thanh có cùng dữ liệu.
+
+Chèn tiêu đề: "tận hưởng cuộc sống hạnh phúc"
+Chèn một ngôi sao trên đầu tiêu đề.## 0, star, title, top
+sau đó đặt kiểu phông chữ của tiêu đề là "Arial Black"
+chèn nội dung khoảng cách đôi sau, "Tận hưởng cuộc sống hạnh phúc bao gồm tìm kiếm niềm vui trong những khoảnh khắc nhỏ, nuôi dưỡng các mối quan hệ có ý nghĩa, theo đuổi đam mê, duy trì sự cân bằng giữa công việc và cuộc sống lành mạnh và thực hành chăm sóc bản thân."
+Chèn một hình ảnh về một người hạnh phúc. Di chuyển ảnh lên trên cùng bên phải của trang chiếu. ## 0, picture, slide, right top
+Đặt hình ảnh có chiều cao 4 inch và chiều rộng 5 inch. Di chuyển nó xuống phía dưới bên trái. ## 0, picture, slide, left bottom
+
+chèn một bảng có một cột và năm hàng. Hàng đầu tiên là Đã hoàn thành Marathon, hàng thứ hai là Cuốn sách đầu tiên được xuất bản, hàng thứ ba là Thăng chức thành người quản lý và hàng thứ tư là Tình nguyện hơn 100 giờ và hàng cuối cùng là Bắt đầu kinh doanh thành công.
+đặt tên cho trang trình bày là "Thành tích tuyệt vời của tôi vào năm 2023"
+chèn văn bản sau vào phần nội dung, "Vào năm 2023, tôi đã đạt được những cột mốc quan trọng vượt xa mong đợi của mình. Từ việc hoàn thành cuộc chạy marathon đến xuất bản cuốn sách đầu tiên của mình và được thăng chức, những thành công này đã thúc đẩy tôi phát triển hơn nữa và truyền cảm hứng cho tôi để đạt được chiều cao lớn hơn."
+Chèn một hình ảnh của một cuốn sách. Di chuyển nó lên phía trên cùng của trang chiếu.## 0, picture, slide, top
+Chèn một biểu đồ hình tròn và dữ liệu là 30% chạy marathon, đặt trước 25% và tình nguyện 45%.
+Chèn một hình chữ nhật vào slide. Di chuyển nó sang phía bên trái của biểu đồ hình tròn. ## 0, rectangle, pie chart, left
+thêm ghi chú "2023" trong trang trình bày.
+
+Đặt nhan đề là: Đạo đức phê bình văn học
+Tiêu đề phải được in đậm và có màu xanh lam, di chuyển xuống dưới cùng. ## 0, title, slide, bottom
+Tìm một bức tranh phong cảnh núi non và chèn nó vào bên phải. ## 0, picture, slide, right
+Chèn nội dung sau, "Phương pháp phê bình văn học đạo đức là một cách tiếp cận mới do Giáo sư Nie Zhenzhao từ Đại học Sư phạm Trung ương đề xuất."
+gạch dưới nội dung và đặt nó ở phông chữ Times New Roman với cỡ chữ là 24 và khoảng trắng kép.
+đặt màu phông chữ của nội dung là màu xanh đậm,
+Chọn một hình chữ nhật từ menu và vẽ nó trên slide bên trái. ## 0, rectangle, slide, left
+Thay đổi màu của hình thành màu xanh lá cây và chèn "màu xanh lá cây".
+Di chuyển hình chữ nhật đến góc trên cùng bên phải của trang chiếu. ## 0, rectangle, slide, right corner
+Chèn một mũi tên và di chuyển nó sang bên phải của nội dung. ## 0, arrow, content, right
+
+Tạo một slide mới với tiêu đề "Thành viên nhóm"
+Chèn hình ảnh của một thành viên trong nhóm và di chuyển hình ảnh đến phía dưới cùng của trang chiếu. ## 0, picture, slide, bottom
+đặt chiều rộng của hình ảnh thành 6,5 cm
+Thêm một ghi chú giống với tiêu đề vào slide. Làm đậm phông chữ của tiêu đề.
+
+Tạo một slide mới và đặt cho nó tiêu đề "Sales Performance"
+Đặt màu phông chữ thành màu xanh lam, cỡ chữ thành 24 và gạch dưới tiêu đề. Đặt màu nền xanh lục cho trang chiếu này.
+Chèn nội dung sau vào trang trình bày: "Hiệu suất bán hàng là chỉ số chính cho sự thành công của công ty trong việc tạo doanh thu. Nó phản ánh hiệu quả của nhóm bán hàng và nhu cầu chung của thị trường đối với sản phẩm hoặc dịch vụ."
+Thay đổi màu phông chữ của nội dung thành màu đỏ đậm và cỡ chữ thành 18.
+Tạo một bảng có ba cột và năm hàng. Ở hàng đầu tiên, điền "Năm, Quý, Doanh thu". Ở hàng thứ hai, hãy chèn "2018. Q1, $500.000".
+Áp dụng cỡ chữ của nội dung cho tiêu đề
+
+Tạo một slide mới và thêm tiêu đề "Báo cáo bán hàng"
+Thêm biểu đồ đường dựa trên dữ liệu sau, "Sản phẩm A: $2.000", "Sản phẩm B: $1.500", "Sản phẩm C: $1.000"
+Đặt tên cho biểu đồ đường là "Xu hướng doanh thu".
+Chèn hình ảnh áo phông vào trang trình bày và thêm chú thích có tên "T-shirt".
+Thêm một hình ngôi sao và di chuyển nó sang bên phải của hình ảnh. ## 1, star, image, right
+Tạo thêm một trang trình bày và đặt tên là "Cấu trúc tổ chức"
+Chèn một bảng có hai cột và bốn hàng, chèn dữ liệu sau, CEO, John Smith ở hàng đầu tiên, CFO, Jane Doe ở hàng thứ hai, COO: Tom Jones ở hàng thứ ba và CMO: Sarah Lee" ở hàng thứ tư hàng ngang
+gạch chân tất cả các tiêu đề.
+thay đổi kích thước phông chữ của nội dung trong tiêu đề thành 20. và thay đổi màu phông chữ thành màu tím,
+Thêm một ghi chú giống như tiêu đề vào slide.
+Tạo cho slide một màu nền xanh lá cây.
+
+Tạo một slide mới và đặt tên là "Giới thiệu"
+Thêm văn bản sau vào phần nội dung: "Cảm ơn bạn đã tham gia cùng chúng tôi hôm nay. Chúng tôi rất vui mừng được
+tiếp tục với "có bạn ở đây và mong được chia sẻ một số tin tức thú vị với bạn."
+Thay đổi kiểu chữ của nội dung thành Times New Roman và cỡ chữ thành 20.
+Thêm một bức tranh phong cảnh ở Quảng Đông. Thay đổi kích thước ảnh sao cho chiều cao của ảnh là 3 inch và chiều rộng là 5 inch
+Chèn một hình tam giác vào slide. Chèn một hình chữ nhật vào slide. Tạo hình chữ nhật ở phía bên phải của hình chữ nhật. ## 1, rectangle, triangle, right
+Tạo cho slide một màu nền tím. Thêm ghi chú "2023" vào trang trình bày.
+
+Đặt tên cho trang chiếu là "Ra mắt sản phẩm" và in đậm tiêu đề và làm cho nó có màu đỏ.
+Chèn hình ảnh máy tính vào slide
+Thay đổi kích thước hình ảnh và làm cho nó có chiều cao và chiều rộng thành 2 cm
+Thêm dòng chữ sau vào phần nội dung: "Sản phẩm mới của chúng tôi là thiết bị di động hiện đại kết hợp công nghệ mới nhất với kiểu dáng đẹp và thân thiện với người dùng."
+Làm cho nội dung cùng phong cách với tiêu đề.
+Chèn một slide mới và đặt tên là "Tính năng sản phẩm"
+Chèn một bảng có 2 cột và 5 hàng vào trang chiếu Thêm dữ liệu sau vào hàng đầu tiên: Tính năng, Mô tả.
+Tạo biểu đồ thanh theo dữ liệu sau, Sản phẩm A 25%, Sản phẩm B 50%, Sản phẩm C 25%.
+Đặt tên cho biểu đồ thanh là "Tầm quan trọng của Tính năng".
+Thay đổi màu nền thành màu xanh lam nhạt và đặt ghi chú giống với tiêu đề biểu đồ.
+
+Tạo một slide mới và thêm tiêu đề "Kết quả tài chính hàng quý"
+Thay đổi kiểu phông chữ của tiêu đề thành Arial
+Thêm đoạn văn bản sau vào phần nội dung: "Công ty chúng tôi đạt doanh thu 1,5 triệu đô la và lợi nhuận 500.000 đô la trong quý này."
+Áp dụng hiệu ứng in đậm và gạch chân cho phần nội dung
+Chèn một bảng có 4 cột và 5 hàng vào trang chiếu
+Thêm dữ liệu sau vào hàng đầu tiên của bảng: Tháng, Doanh thu, Chi phí và Lợi nhuận
+Chèn biểu đồ thanh có dữ liệu sau, Q1 2022, Q2 2022, Q3 2022, Q4 2022 in X, 50, 60,55, 70 in Y.
+Đặt tên cho biểu đồ thanh là "Kết quả tài chính hàng quý năm 2022".
+Tạo nền màu đỏ cho slide.
+Chèn một slide mới và thêm tiêu đề "Phân tích tài chính"
+Chèn ảnh logo công ty vào slide
+Chèn "Cảm ơn bạn đã quan tâm!" đến phần nội dung. Gạch dưới và in nghiêng nội dung. Tăng cỡ chữ của nội dung lên 26.
+
+Tạo một slide mới và đặt tên là "Dữ liệu bán hàng"
+Chèn biểu đồ thanh với dữ liệu sau: "Khu vực A: 500.000 đô la; Khu vực B: 400.000 đô la; Khu vực C: 600.000 đô la; Khu vực D: 450.000 đô la"
+Đảm bảo biểu đồ có tiêu đề "Bán hàng theo khu vực"
+Gạch dưới tiêu đề slide. Thêm ghi chú "Nguồn dữ liệu: Báo cáo bán hàng 2023"
+
+Tạo một slide mới và đảm bảo tiêu đề của nó là "Khảo sát khách hàng"
+Chèn biểu đồ hình tròn với dữ liệu sau:""Rất hài lòng | 40%", "Hài lòng | 30%", "Trung lập | 20%", "Không hài lòng | 5%", "Rất không hài lòng | 5%"
+Di chuyển biểu đồ hình tròn đến phía dưới cùng của trang chiếu. ## 1, chart, slide, bottom
+Chèn một hình ảnh của một qustionnaire vào slide. Di chuyển nó lên phía trên cùng của slide. ## 1, picture, slide, top
+Thêm ghi chú "2023/5" vào trang trình bày.
+
+Thêm tên tiêu đề vào slide 0, "Sự quyến rũ của ngôn ngữ học". Đặt nền màu xanh nhạt,
+đặt kiểu phông chữ của tiêu đề là Arial, màu phông chữ là đỏ, cỡ chữ là 36.
+Chèn "Xin chào" vào nội dung, ohno, nó phải là " "Linguistics là nghiên cứu khoa học về ngôn ngữ và cấu trúc của nó. Nó khám phá những điều phức tạp trong giao tiếp của con người, từ ngữ âm và cú pháp đến ngữ nghĩa và ngữ dụng."đến phần nội dung.
+đặt kiểu phông chữ của nội dung là Verdana, màu phông chữ là màu vàng, cỡ chữ là 18. khoảng cách đôi.
+Tạo một slide mới và đặt tên là "Branches of Linguistics"
+Chèn một bảng có 3 cột và 4 hàng,
+chèn các nhánh Ngôn ngữ học, Mô tả, Ví dụ vào hàng đầu tiên. "Ngữ âm", "Nghiên cứu về âm thanh lời nói", "Ngữ âm phát âm, Ngữ âm âm thanh, Ngữ âm thính giác"vào hàng thứ hai.
+Chèn hình ảnh một cuốn sách về Ngôn ngữ học vào slide. Di chuyển ảnh xuống phía dưới cùng của trang chiếu. ## 1, picture, slide, bottom
+Đặt bức tranh có chiều cao 6 cm và chiều rộng 5 cm.
+Tạo nền màu tím cho tất cả các slide.
+
+Đặt nền màu xanh nhạt, đặt tên tiêu đề là "Các họ ngôn ngữ"
+In nghiêng và đậm tiêu đề,
+chèn biểu đồ thanh dựa trên dữ liệu, Indo-European, Niger-Congo,Austronesian, Sino-Tibetan làm dữ liệu trong X, 445, 1526,1290, 452 làm dữ liệu trong Y.
+Đặt tên cho biểu đồ thanh"Gia đình ngôn ngữ và số lượng ngôn ngữ"
+Tạo một trang trình bày mới và đặt tên là "Học ngôn ngữ". Cùng kiểu tiêu đề với slide trước.
+Chèn nội dung sau, " "Tiếp thu ngôn ngữ là quá trình con người có được khả năng nhận thức, hiểu và tạo ra ngôn ngữ. Nó liên quan đến các cơ chế bẩm sinh và học được, đồng thời bị ảnh hưởng bởi nhiều yếu tố khác nhau như môi trường và tương tác xã hội."
+Tạo kiểu phông chữ Times New Roman, màu phông chữ đỏ và cỡ chữ 22.
+Gạch chân và in đậm nội dung, đồng màu tiêu đề và nội dung.
+chèn hình ảnh sách tiếng anh vào slide,
+chèn hình vuông vào trang chiếu bên phải, ## 1, rectangle, slide, right
+di chuyển hình ảnh đến phía trên cùng của hình vuông. ## 1, picture, rectangle, top
+
+Đặt tên cho slide là "Kết luận"
+In đậm và gạch chân tiêu đề, đồng thời đặt màu phông chữ thành màu đỏ.
+Phụ trang " "Ngôn ngữ học là một lĩnh vực hấp dẫn làm sáng tỏ sự phức tạp của ngôn ngữ loài người. Từ việc nghiên cứu cấu trúc ngôn ngữ đến phân tích các họ ngôn ngữ và quá trình tiếp thu, nó mang đến những hiểu biết sâu sắc về bản chất của giao tiếp và nhận thức của con người."vào phần nội dung.
+Thay đổi kiểu phông chữ của nội dung thành Verdana, màu phông chữ thành màu vàng.
+Tạo bốn slide khác, áp dụng màu nền tím cho chúng.
+Tiêu đề slide 1 "Tổng quan về chính sách bất động sản ở Trung Quốc", và chèn hình ảnh bản đồ Trung Quốc vào slide.
+Tiêu đề slide 2 "Những thay đổi gần đây" và in nghiêng tiêu đề. Kiểu phông chữ tương tự với các tiêu đề trước đó.
+chèn "Những thay đổi gần đây ở Trung Quốc đã chứng kiến ​​sự tăng trưởng kinh tế nhanh chóng, tiến bộ công nghệ và chuyển đổi xã hội, đưa quốc gia này trở thành một cường quốc toàn cầu và ảnh hưởng đến động lực toàn cầu trong các lĩnh vực khác nhau." vào nội dung.
+Tiêu đề Trang chiếu 3 "Nỗ lực Kiểm soát Giá Nhà ở" và chèn một hình tam giác vào trang chiếu.
+di chuyển hình tam giác lên trên cùng bên phải của trang chiếu. ## 3, triangle, slide, right top
+Tiêu đề Slide 4 "Các sáng kiến ​​để tăng cường nhà ở hợp túi tiền" và thay đổi màu phông chữ của tiêu đề thành màu đỏ,
+chèn "Các sáng kiến ​​​​để tăng nhà ở giá rẻ đã được thực hiện, bao gồm trợ cấp của chính phủ, quy trình phê duyệt hợp lý và quan hệ đối tác công tư, nhằm giải quyết cuộc khủng hoảng khả năng chi trả nhà ở và đảm bảo khả năng tiếp cận nhà ở tử tế cho tất cả mọi người." là nội dung. và gạch chân, in nghiêng nội dung.
+tạo biểu đồ hình tròn theo dữ liệu, Trợ cấp của Chính phủ: 35%, Quy trình phê duyệt đơn giản hóa: 25%, Quan hệ đối tác công tư: 20%, Chính sách sử dụng đất: 10%, Chương trình hỗ trợ cho thuê: 10%.
+Tạo một trang trình bày mới và đặt tiêu đề là "Quy định của Nhà phát triển bất động sản.". thêm các câu tương tự cần lưu ý.
+Chèn "Trong slide này, tóm tắt các biện pháp chính của Trung Quốc để điều chỉnh các nhà phát triển bất động sản và hành động của chính phủ để ngăn chặn gian lận và thúc đẩy các hoạt động phát triển bền vững." như nội dung.
+in đậm phần nội dung và in nghiêng tiêu đề.
+thêm ghi chú "Thông tin về Trung Quốc" vào tất cả các slide.
+
+Đặt tên cho tiêu đề "Frontier Development of Medical Imaging Equipment". Tăng cỡ chữ của tiêu đề lên 24.
+Chèn biểu đồ đường. Dữ liệu là: Q1: 15%,Q2: 12%,Q3: 18%,Q4: 20% và Q1,Q2,Q3,Q4 nằm trong X.
+Đặt tên cho biểu đồ là "Tăng trưởng doanh thu"
+Chèn một bảng có năm hàng và hai cột, chèn Tính năng 1, Hình ảnh độ phân giải cao vào hàng đầu tiên.
+Điều chỉnh màu nền thành màu xanh nhạt.
+Chèn hình chữ nhật, ohno, hình tam giác vào slide
+chèn "Sự phát triển vượt bậc của thiết bị hình ảnh y tế đang cách mạng hóa hoạt động chăm sóc sức khỏe với hình ảnh độ phân giải cao, thuật toán AI tiên tiến, phân tích dữ liệu thời gian thực, nâng cao sự thoải mái cho bệnh nhân, tích hợp đa phương thức và quy trình làm việc hợp lý, trao quyền cho các chuyên gia y tế với khả năng chẩn đoán chưa từng có." vào nội dung.
+in đậm nội dung và đặt nội dung với dấu cách kép. gạch dưới và in nghiêng nội dung.
+thêm ghi chú "Thiết bị y tế" vào trang chiếu.
+
+Tạo màu nền xanh lam. Chèn một hình chữ nhật.
+Thêm tiêu đề "Phương pháp và cách tiếp cận trong nhân chủng học" và đặt cỡ chữ 20.
+Chèn nội dung "Nhân học là một ngành khoa học xã hội nghiên cứu hành vi, văn hóa và xã hội của con người bằng nhiều phương pháp nghiên cứu." trong phần nội dung và đặt nó với khoảng cách gấp đôi.
+Thêm một hình tròn và di chuyển nó sang bên phải của trang chiếu. ## 0, circle, slide, right
+đặt chiều rộng của hình tròn thành 4cm.
+
+Tạo một slide mới và đặt tiêu đề là "Tầm quan trọng của việc hydrat hóa thích hợp".
+gạch chân và in nghiêng tiêu đề.
+Thay đổi kích thước phông chữ của tiêu đề thành 24 và kiểu phông chữ thành Arial.
+Chèn hình ảnh một người đang uống nước và di chuyển hình ảnh đó sang bên phải của trang chiếu. ## 1, picture, slide, right
+Làm cho hình ảnh có chiều rộng 6,5 cm. Thêm chú thích bên dưới hình ảnh và đặt tên là "Uống nước". ## 1, textbox, picture, bottom
+cung cấp cho slide một màu nền màu tím. Tạo một slide mới và tạo cho nó cùng một nền.
+Chèn hình ảnh của một thư mục vào slide. Điều chỉnh chiều rộng và chiều cao của hình ảnh thành 6.5 và 5.5.
+Thêm tiêu đề vào trang chiếu và đặt tên là "Lợi ích của việc sử dụng SmartArt.". Thay đổi màu phông chữ của tiêu đề thành màu đỏ và cỡ chữ thành 40 .
+Thay đổi kiểu phông chữ của tiêu đề thành Arial và in nghiêng.
+
+Đặt tiêu đề là "Building Your Brand." và cung cấp cho slide một màu nền xanh nhạt.
+Trong phần nội dung, viết "Xây dựng thương hiệu là một thành phần quan trọng của bất kỳ doanh nghiệp thành công nào. Đặt kiểu phông chữ thành "Arial" và cỡ chữ thành 14.
+Thêm một hình chữ nhật và di chuyển nó sang bên phải của slide. ## 0, rectangle, slide, right
+Chèn một bảng có 3 hàng và 4 cột. Điền vào hàng đầu tiên của bảng với "Nhận diện thương hiệu", "Thông điệp thương hiệu", "Tiếng nói thương hiệu" và "Chiến lược thương hiệu".
+Sao chép bảng.
+Thay đổi kích thước phông chữ của nội dung và thay đổi kiểu chữ thành "Times New Roman"
+
+Tạo một trang chiếu mới và chèn tiêu đề "Nguyên tắc cơ bản của giao tiếp hiệu quả" và đặt kiểu phông chữ thành Times New Roman.
+chèn các mục sau, "Điểm chính" và "Mô tả".
+Tăng kích thước phông chữ của các mục lên 24. Gạch chân và in đậm các mục.
+Đặt màu nền của trang chiếu là màu cam nhạt.
+
+Đặt màu nền thành màu xanh nhạt.
+Chèn "Cuộc họp Tencent" vào tiêu đề và nội dung.
+Gạch dưới tiêu đề và đặt màu phông chữ thành màu đỏ sẫm.
+Làm mới phần nội dung với: "Tencent Meet là một nền tảng hội nghị truyền hình mạnh mẽ cho phép cộng tác và liên lạc liền mạch giữa các nhóm và cá nhân. Nền tảng này cung cấp nhiều tính năng cho các cuộc họp ảo hiệu quả, bao gồm chia sẻ màn hình, trò chuyện và ghi âm."
+In đậm và in nghiêng nội dung, giống với tiêu đề.
+Chèn một hình ảnh của giao diện Cuộc họp Tencent.
+
+Chèn một bảng có ba cột và hai hàng.
+Nhập "Tính năng", "Mô tả" và "Lợi ích" vào hàng đầu tiên.
+Thêm ghi chú "APP" vào trang chiếu và tạo cho trang chiếu một màu nền tím.
+
+Cho slide "Đánh giá chất lượng" với màu nền xanh lam.
+Chèn văn bản sau vào phần nội dung: "Đánh giá chất lượng là một quy trình quan trọng trong việc đánh giá hiệu suất và tiêu chuẩn của sản phẩm hoặc dịch vụ. Nó bao gồm phân tích, đo lường và so sánh kỹ lưỡng để đảm bảo tuân thủ các tiêu chuẩn chất lượng và cải tiến liên tục."
+Chèn một hình ảnh của một danh sách kiểm tra.
+Di chuyển hình ảnh sang bên trái nội dung, ## 0, picture, content, left
+Tạo biểu đồ hình tròn minh họa sự phân bổ xếp hạng chất lượng. Bao gồm các loại dữ liệu như "Xuất sắc", "Tốt", "Khá" và "Kém" và tỷ lệ là 40%,15%,25%,20%.
+Đặt tên cho biểu đồ hình tròn là "Phân phối xếp hạng chất lượng".
+Di chuyển biểu đồ hình tròn đến phía dưới cùng của trang chiếu. ## 0, chart, slide, bottom
+Sao chép biểu đồ hình tròn sang trang chiếu tiếp theo.
+
+Tạo một trang trình bày mới và đặt cho nó tiêu đề "Hướng dẫn Hoàn thành Dự án".
+Chèn một mũi tên vào trang chiếu và di chuyển mũi tên đó lên góc trên cùng của trang chiếu. ## 1, right_arrow, slide, top corner
+xoay mũi tên với 90 độ.
+di chuyển đến trang chiếu 0 và đặt tên cho trang chiếu là "Giới thiệu". In đậm cả hai tiêu đề.
+thêm ghi chú "2022/6/10" vào trang trình bày 0.
+cung cấp cho slide một màu nền xanh nhạt. Chèn hình đám mây vào slide.
+
+Đặt màu nền thành màu vàng.
+Chèn văn bản sau vào phần nội dung với khoảng cách gấp đôi:"Trados Studio là một công cụ dịch thuật hỗ trợ máy tính (CAT) mạnh mẽ được phát triển bởi SDL. Nó cung cấp một loạt các tính năng và chức năng giúp hợp lý hóa quy trình dịch thuật, bao gồm bộ nhớ dịch thuật, quản lý thuật ngữ và các công cụ quản lý dự án."
+Chèn ghi chú "Được tạo bởi Eva". Chèn tiêu đề "Trados Studio".
+Đặt màu phông chữ của tiêu đề thành màu xanh đậm. Đặt kích thước phông chữ thành 30.
+Chèn hình ảnh logo Trados Studio vào slide. Di chuyển hình ảnh sang bên phải của nội dung. ## 0, image, content, right
+Điều chỉnh chiều rộng và chiều cao của hình ảnh là 4 và 3 cm.
+Xoay hình ảnh 15 độ ngược chiều kim đồng hồ.
+thay đổi màu nền thành màu tím.
+
+Chèn một bảng có ba cột và hai hàng.
+Nhập "Năm", "Mô tả" và "Thay đổi" vào hàng đầu tiên của bảng.
+Đặt tên cho slide "Những thay đổi lớn trong thập kỷ qua"
+đậm và nghiêng tiêu đề.
+Đặt màu nền thành màu xanh nhạt.
+
+Thêm tiêu đề "Bạn có Nên Cân nhắc Du học?", được gạch chân và in đậm.
+Chèn hình ảnh sinh viên đang học tập ở nước ngoài. Di chuyển nó xuống dưới cùng của slide. ## 0, picture, slide, bottom
+Đặt chiều rộng của hình ảnh là 5 cm và chiều cao là 3 cm.
+Tạo cho slide một màu nền tím. Thêm tiêu đề cần lưu ý.
+
+Tạo biểu đồ thanh minh họa thống kê sử dụng Trados Studio giữa các dịch giả. Bao gồm các danh mục dữ liệu như "Dịch giả toàn thời gian", "Dịch giả tự do" và "Công ty dịch thuật" và tỷ lệ phần trăm tương ứng của chúng là 45%,35%,20%,
+Đặt tên cho biểu đồ thanh là "Thống kê sử dụng Trados Studio".
+Tạo một trang chiếu mới và chèn tiêu đề "ABBYY FineReader".
+gạch dưới tiêu đề và in đậm, Đặt cỡ chữ của tiêu đề thành 30.
+Chèn văn bản sau vào phần nội dung:"ABBYY FineReader là phần mềm nhận dạng ký tự quang học (OCR) cho phép người dùng chuyển đổi tài liệu được quét, tệp PDF và hình ảnh thành các định dạng có thể chỉnh sửa và tìm kiếm được. Với khả năng chuyển đổi tài liệu và nhận dạng văn bản nâng cao, phần mềm này đơn giản hóa việc xử lý tài liệu và nâng cao năng suất."
+đặt nội dung với khoảng trắng gấp đôi và làm cho nội dung in nghiêng.
+Chèn hình ảnh đại diện cho ABBYY FineReader, chẳng hạn như logo ABBYY FineReader với chú thích "ABBYY FineReader".
+Chèn một bảng có ba cột và hai hàng. Nhập "Tính năng", "Mô tả" và "Lợi ích" vào hàng đầu tiên.
+Di chuyển hình ảnh sang phía bên phải của bảng. ## 1, picture, table, right
+tạo biểu đồ hình tròn dựa trên dữ liệu sau, "Độ chính xác cao" 45%, "Độ chính xác trung bình"45% và "Độ chính xác thấp"5%
+Đặt tên cho biểu đồ tròn là "Độ chính xác chuyển đổi tài liệu".
+Thêm ghi chú"Trang 2" vào trang chiếu.
+
+Chèn tiêu đề "Chiến dịch tiếp thị".
+gạch chân và in đậm tiêu đề, đặt cỡ chữ thành 26.
+Chèn văn bản sau vào phần nội dung:"Chiến dịch tiếp thị của chúng tôi nhằm nâng cao nhận thức về thương hiệu, tương tác với đối tượng mục tiêu và thúc đẩy doanh số bán hàng. Với sự kết hợp chiến lược giữa các kênh tiếp thị trực tuyến và ngoại tuyến, chúng tôi tập trung vào việc truyền tải thông điệp có sức ảnh hưởng và kết quả có thể đo lường được ."
+Di chuyển nội dung sang bên trái của slide. ## 0, content, slide, left
+Chèn hình ảnh banner quảng cáo, đặt tên hình ảnh bên dưới. ## 1, textbox, picture, bottom
+đặt chiều rộng của hình ảnh thành chiều cao 5cm,
+cung cấp cho slide một màu nền xanh lá cây.
+
+Đặt tiêu đề màu đỏ cho slide là "Năng lượng bền vững".
+Chèn hình ảnh liên quan đến năng lượng bền vững như tuabin gió hoặc tấm pin mặt trời. Ang đặt kích thước của nó rộng 6 cm.
+Tạo một bảng có 3 cột và 4 hàng. Trong cột đầu tiên, liệt kê gió, mặt trời, thủy điện và địa nhiệt. Trong cột thứ hai, liệt kê chi phí thấp, tác động môi trường thấp và tính khả dụng cao. Trong cột thứ ba, liệt kê chi phí đầu tư ban đầu cao, tính khả dụng không liên tục và xung đột sử dụng đất.
+Di chuyển hình ảnh lên phía trên cùng của bảng. ## 0, picture, table, top
+Tạo thêm một trang trình bày và đặt tên cho tiêu đề là "Mua sắm trực tuyến", cùng màu với tiêu đề trước đó.
+Bổ sung nội dung sau vào phần nội dung: "Mua sắm trực tuyến là quá trình mua hàng hóa và dịch vụ từ các thương gia qua Internet. Nó ngày càng trở nên phổ biến do sự tiện lợi và khả năng tiếp cận của nó."
+In đậm tiêu đề và thay đổi màu chữ thành màu xanh lam. Tạo nội dung với không gian gấp đôi.
+Tạo thêm một trang trình bày và chèn hình ảnh về phim truyền hình. Đặt chiều rộng của nó giống như hình ảnh trong slide trước.
+Tạo cho slide một màu nền xanh lam. Thêm ghi chú "Giới thiệu về phim truyền hình" vào trang chiếu.
+
+Đặt "Thói quen ăn uống lành mạnh" trong tiêu đề. Thay đổi nền trang chiếu thành màu xanh đậm.
+Chèn nội dung "Nhấn phát để bắt đầu video". Tạo kiểu phông chữ cho nội dung Verdana.
+Chèn một bảng có hai cột và hai hàng. Nhập "Nhóm thực phẩm", "Khẩu phần khuyến nghị" vào hàng đầu tiên.
+Di chuyển bảng đến phía dưới cùng của nội dung. ## 0, table, content, bottom
+Chèn hình ảnh của một người đang sử dụng máy tính xách tay.
+Chèn một hình vuông vào slide. Đặt chiều cao của nó thành 2cm.
+Sau đó xoay nó sang trái với 45 độ.
+
+Chèn nội dung: "Tóm lại, các dịch vụ truyền hình đã cách mạng hóa cách chúng ta tiêu thụ giải trí, cung cấp nhiều lựa chọn nội dung và sự tiện lợi."
+Thay đổi kiểu phông chữ của nội dung thành "Futura".
+Đặt tiêu đề là "Kết luận" và in đậm.
+Chèn hình ảnh một chiếc đĩa đầy màu sắc chứa đầy trái cây và rau củ.
+Di chuyển hình ảnh đến góc dưới cùng của slide. ## 0, picture, slide, bottom corner
+thay đổi màu nền slide thành màu xanh lá cây.
+
+Hãy tạo một slide mới và đặt cho nó một màu nền tím,
+chèn tiêu đề "Bất lợi",
+in đậm tiêu đề, cỡ chữ tiêu đề là 24, kiểu chữ Arial.
+Thêm ghi chú "2023/3/9" vào tệp này.
+Tạo biểu đồ hình tròn, bao gồm "Trái cây"30%, "Rau"25%, "Ngũ cốc"15%, "Protein"5% và "Bơ sữa25%"
+di chuyển biểu đồ hình tròn đến phía dưới cùng của trang chiếu. ## 1, chart, slide, bottom
+Chèn một hộp văn bản dưới biểu đồ hình tròn và viết "Điều bất lợi của việc ăn quá nhiều thức ăn là nó sẽ khiến bạn béo." trong hộp văn bản. ## 1, textbox, chart, bottom
+Đặt tên cho biểu đồ hình tròn là "Khẩu phần Nhóm Thực phẩm Hàng ngày".
+
+Chèn một mũi tên vào trang chiếu. Đặt chiều rộng của mũi tên là 3,5,
+xoay nó sang trái với 90 độ.
+di chuyển nó sang bên phải của slide. ## 0, right_arrow, slide, right
+
+Chèn tiêu đề "Xu hướng công nghệ" và gạch dưới nó.
+Đặt màu phông chữ thành màu xanh lục. Đặt cỡ chữ thành 26.
+Chèn văn bản sau vào phần nội dung:"Bắt kịp các xu hướng công nghệ mới nhất là điều cần thiết trong bối cảnh kỹ thuật số đang phát triển nhanh chóng ngày nay. Từ trí tuệ nhân tạo và chuỗi khối đến điện toán đám mây và Internet vạn vật, những xu hướng này đang định hình các ngành và cách mạng hóa cách chúng ta sống, làm việc và kết nối với thế giới."
+Đặt màu nền giống với màu phông chữ của tiêu đề.
+Chèn hình ảnh của các mạng được kết nối với nhau.
+Chèn một bảng có ba cột và hai hàng. Chèn "Xu hướng công nghệ", "Mô tả" và "Tác động" vào hàng đầu tiên.
+Tạo biểu đồ đường minh họa sự phát triển của việc áp dụng công nghệ theo thời gian. Bao gồm các danh mục dữ liệu trong X như "Thiết bị di động", "Người dùng Internet", "Ứng dụng AI", "Dịch vụ đám mây" và "Thiết bị nhà thông minh" và các giá trị tương ứng trong Y: 15,10,7,6 24 triệu.
+Đặt tên cho biểu đồ đường là "Giá trị công nghệ".
+Chèn một biểu đồ hình tròn có cùng dữ liệu và tiêu đề.
+
+Đặt nền trang chiếu có màu xanh lục.
+Chèn tiêu đề "Sống bền vững" và in nghiêng.
+Thêm hình ảnh về nguồn năng lượng tái tạo, chẳng hạn như bảng điều khiển năng lượng mặt trời và di chuyển hình ảnh đó sang bên trái của trang trình bày. ## 0, picture, slide, left
+Chèn đoạn văn sau vào phần nội dung:"Sống bền vững khuyến khích tiêu dùng có trách nhiệm, sử dụng năng lượng tái tạo và thực hành thân thiện với môi trường để bảo vệ môi trường và đảm bảo một tương lai tốt đẹp hơn cho các thế hệ mai sau. Bằng cách đưa ra những lựa chọn có ý thức trong cuộc sống hàng ngày, chúng ta có thể giảm lượng khí thải carbon của chúng ta và tạo ra một thế giới bền vững hơn."
+Đặt màu phông chữ thành màu cam đậm.
+Tạo biểu đồ đường thể hiện mức tăng tiêu thụ năng lượng tái tạo theo thời gian. Bao gồm 2013, 2014 ,2015, 2016 trong X và dữ liệu tương ứng trong Y là 1.6 , 2.4,4.8 và 11 triệu.
+Đặt tên cho biểu đồ đường là "Xu hướng tiêu thụ năng lượng tái tạo".
+Di chuyển biểu đồ đường đến phía dưới cùng của tiêu đề. ## 0, chart, title, bottom
+Chèn hình đám mây vào slide. Xoay đám mây 30 độ ngược chiều kim đồng hồ.
+
+Chèn một bảng có bốn cột và ba hàng.
+Chèn ba mục vào cột đầu tiên "Chế độ ăn uống cân bằng", "Kiểm soát khẩu phần" và "Hydration".
+Chèn hình ảnh thành phố xanh vào slide.
+Di chuyển hình ảnh lên phía trên cùng của trang chiếu.## 0, picture, slide, top
+Di chuyển bảng đến phía dưới cùng của trang chiếu.## 0, table, slide, bottom
+
+Chèn tiêu đề "Quản lý dự án" .
+Thêm hình ảnh của một nhóm cộng tác trong một dự án.
+Gạch dưới và in nghiêng tiêu đề.
+Di chuyển hình ảnh lên phía trên bên trái của trang chiếu. ## 0, image, slide, left top
+
+Chèn tiêu đề, "Báo cáo tiến độ dự án."
+Tạo một bảng có ba cột và năm hàng, chèn tên nhiệm vụ, thời hạn và trạng thái tiến độ vào hàng đầu tiên.
+Đặt màu nền thành màu tím, tiêu đề thành màu xanh lục.
+
+Chèn tiêu đề "Đại học và Trung cấp chuyên nghiệp"
+Điều chỉnh cỡ chữ thành 36 và gạch dưới tiêu đề,
+Chèn văn bản sau vào phần nội dung:"Trường đại học và trường chuyên nghiệp cung cấp giáo dục đại học và đào tạo chuyên ngành để trang bị cho sinh viên kiến ​​thức và kỹ năng cần thiết cho sự nghiệp thành công. Các tổ chức này cung cấp nhiều chương trình học thuật, cơ hội nghiên cứu và phát triển chuyên môn cho sinh viên thúc đẩy sự phát triển cá nhân và thăng tiến nghề nghiệp."
+Đặt nội dung với khoảng cách gấp đôi.
+Tạo cho slide một màu nền xanh lá cây. Umm, thay đổi nó thành màu tím.
+
+Chèn hình ảnh môi trường học đường chuyên nghiệp.
+Di chuyển hình ảnh ở phía bên phải của trang chiếu.## 0, picture, slide, right
+Chèn một hình tam giác vào trang chiếu và di chuyển nó sang bên trái của trang chiếu. ## 0, triangle, slide, left
+Tăng chiều rộng của hình tam giác lên 10 cm và chiều cao lên 15 cm.
+Đảm bảo rằng hình nằm bên dưới hình tam giác.## 0, picture, triangle, below
+
+Tạo một slide mới và đặt nền màu xanh lam cho nó.
+Chèn tiêu đề "NFC" và in đậm tiêu đề.
+Chèn văn bản sau vào phần nội dung:"NFC (Giao tiếp trường gần) cho phép giao tiếp không dây liền mạch giữa các thiết bị ở gần nhau."
+Đặt màu phông chữ thành màu xanh đậm, đặt cỡ chữ thành 20.
+Chèn hình ảnh logo NFC vào trang chiếu.
+Đặt màu nền thành màu tím.
+di chuyển hình ảnh sang bên phải của nội dung. ## 1, picture, slide, right
+
+Chèn một bảng có bốn cột và hai hàng. Chèn "Sản phẩm", "Doanh thu", "Số đơn vị đã bán" và "Biên lợi nhuận". vào hàng đầu tiên.
+Tạo cho slide một màu nền xanh nhạt.
+
+Tạo biểu đồ đường minh họa sự phát triển của các thiết bị hỗ trợ NFC theo thời gian. Dữ liệu trên X là 2018. 2019,2020 và 2021. Dữ liệu tương ứng là 500000; 1300000,2500000,4000000 đại diện cho số lượng thiết bị hỗ trợ NFC.
+Đặt tên cho biểu đồ đường là "Tăng trưởng thiết bị NFC".
+Chèn một bảng có ba cột và hai hàng. Chèn Không tiếp xúc,Cho phép giao dịch dựa trên cảm ứng,Thanh toán thuận tiện và nhanh hơn vào hàng thứ hai.
+Chèn một ngôi sao và làm cho chiều rộng và chiều cao của nó là 6,5cm.
+Di chuyển ngôi sao đến phía trên cùng của bảng. ## 0, star, table, top
+Di chuyển ngôi sao sang phía bên phải của bảng. ## 0, star, table, right
+
+Chèn tiêu đề và in đậm: "Embracing Disruption"
+Đặt tiêu đề cỡ chữ 20 và kiểu chữ "Times New Roman"
+Chèn hình ảnh về cảnh quan thành phố trong tương lai để thể hiện sự đổi mới và chuyển đổi kỹ thuật số.
+Di chuyển ảnh xuống phía dưới cùng của trang chiếu. ## 0, picture, slide, bottom
+thêm ghi chú "Được tạo bởi [Tên của bạn]." đến trang trình bày. Tạo nền màu tím cho slide.
+Không tốt lắm. Thay đổi màu nền thành màu xanh nhạt.
+
+Chèn tiêu đề "Power Bank" và di chuyển nó sang góc bên trái của trang trình bày. ## 0, title, slide, left corner
+tăng kích thước phông chữ của tiêu đề thành 24 và in nghiêng nó.
+Chèn văn bản sau vào phần nội dung: "Sạc dự phòng là một thiết bị di động cung cấp khả năng sạc khi đang di chuyển cho điện thoại thông minh, máy tính bảng và các thiết bị điện tử khác."
+gạch chân nội dung và đặt nội dung đó với khoảng cách gấp đôi, cùng kích thước với tiêu đề và đặt màu phông chữ là màu cam,
+Chèn hình ảnh cục sạc dự phòng Yoobao vào slide. Di chuyển nó đến phía dưới cùng của slide. ## 0, picture, slide, bottom
+Chèn một bảng có bốn cột và ba hàng. Nhập dữ liệu sau vào bảng: Nhãn hiệu, Dung lượng (mAh), Cổng ra, Giá ($) vào hàng đầu tiên.
+Tạo biểu đồ hình tròn minh họa thị phần của các thương hiệu sạc dự phòng khác nhau. Dữ liệu là Thương hiệu A, 40%; Thương hiệu B 30%, Thương hiệu C 20% và Khác 10%.
+Chèn biểu đồ hình tròn "Thị phần Power Bank".
+Thêm ghi chú "2023" vào trang trình bày này.
+Chèn hình chú thích vào bên phải của trang chiếu. ## 0, callout, slide, right
+
+Chèn tiêu đề "NBA" và đặt màu phông chữ thành màu đỏ.
+Chèn đoạn văn bản sau vào phần nội dung:"Hiệp hội Bóng rổ Quốc gia (NBA) là giải bóng rổ chuyên nghiệp bao gồm 30 đội đến từ Bắc Mỹ."
+cỡ chữ của từ quá nhỏ, đặt cỡ chữ thành 20.
+Di chuyển nội dung đến góc dưới cùng của slide. ## 0, content, slide, bottom corner.
+
+Chèn hình ảnh sân bóng rổ vào slide.
+Di chuyển ảnh lên phía trên cùng của trang chiếu. ## 0, picture, slide, top
+Thêm một hộp văn bản hiển thị tên của hình ảnh. Thay đổi nền thành màu xanh lam.
+Chèn một bảng có bốn hàng và ba cột.
+Nhập dữ liệu sau vào bảng: Đội, Thành phố, Giải vô địch vào hàng đầu tiên, Los Angeles, Lakers, 17 vào hàng thứ hai, Boston, Celtics, 17 vào hàng thứ ba và Chicago, Bulls, 6 vào hàng thứ tư.
+Tạo biểu đồ thanh theo dữ liệu trong bảng, dữ liệu X là Lakers, Celtics và Bulls, dữ liệu Y là 17, 17 và 6.
+Đặt tên cho biểu đồ hình tròn là "Phân phối giải vô địch NBA".
+Tạo một trang trình bày mới và đặt tiêu đề được gạch chân là "Giới thiệu về lái xe tự hành".
+Chèn hình ảnh ô tô tự lái tương lai vào trang trình bày. Đặt chiều cao của hình ảnh là 7cm.
+Chèn văn bản sau vào phần nội dung:"Lái xe tự động, còn được gọi là công nghệ tự lái hoặc không người lái, đề cập đến các phương tiện có khả năng điều hướng và vận hành mà không cần con người nhập liệu."
+Di chuyển nội dung đến góc dưới cùng của slide. ## 1, content, slide, bottom corner
+chèn một mũi tên vào slide. Di chuyển nó sang bên trái của nội dung. ## 1, right_arrow, content, left
+Oh, di chuyển mũi tên sang bên phải của nội dung. ## 1, right_arrow, content, right
+
+Chèn nội dung sau, "Lái xe tự lái đang cách mạng hóa ngành vận tải bằng cách mang lại sự an toàn, tiện lợi và hiệu quả nâng cao."
+Tăng kích thước phông chữ của nội dung lên 18 và làm cho nội dung được in đậm và in nghiêng.
+Đồng thời gạch dưới nội dung và đặt nội dung đó với khoảng cách gấp đôi.
+Chèn một bảng có năm cột và hai hàng. Hàng đầu tiên ghi Loại cảm biến, Lidar, Radar, Máy ảnh, Tổng số.
+Thay đổi kiểu chữ của nội dung thành "Times New Roman".
+Tạo một biểu đồ hình tròn minh họa sự phân bố các loại cảm biến được sử dụng trong các hệ thống lái xe tự hành. Dữ liệu là Lidar 40%, Radar 30%, Camera 30%.
+Đặt tên cho biểu đồ hình tròn là "Các loại cảm biến trong Lái xe tự động".
+Thêm ghi chú tên biểu đồ hình tròn vào slide.
+
+Đặt tên cho trang chiếu là "Lái xe tự động"
+Chèn một hình ảnh logo của công ty và di chuyển nó đến dưới cùng bên trái của trang chiếu. ## 0, picture, slide, left bottom
+Đặt chiều rộng và chiều cao của logo lần lượt là 6,5 cm và 6 cm.
+Tạo một trang chiếu mới và chèn tiêu đề, "Việc áp dụng xe tự hành theo khu vực."
+Đặt phông chữ tiêu đề thành "Calibri" và cỡ chữ thành 32.
+Nhập tuyên bố sau: "Công nghệ lái xe tự động đang thay đổi cục diện giao thông, cách mạng hóa các ngành, đồng thời nâng cao tính an toàn và hiệu quả."
+Thay đổi màu phông chữ của nội dung thành màu cam đậm.
+
+Tạo một slide mới. Nhập tiêu đề là "Sức mạnh của việc trồng cây". Đặt phông chữ tiêu đề thành "Calibri" với cỡ chữ là 36.
+Áp dụng một nền với màu xanh lá cây.
+Bao gồm nội dung sau: "Trồng cây không chỉ làm đẹp môi trường xung quanh chúng ta mà còn thúc đẩy sự bền vững của môi trường và mang lại vô số lợi ích cho sức khỏe." vào phần nội dung.
+Làm cho cả nội dung và tiêu đề đều có màu xanh lục.
+Chèn hình ảnh khu vườn tươi tốt vào slide,
+Tạo biểu đồ hình tròn theo dữ liệu, Môi trường 40%, Sức khỏe 30% và Cộng đồng 30%.
+Đặt tên cho biểu đồ hình tròn là "Lợi ích trồng trọt".
+Di chuyển biểu đồ hình tròn đến phía dưới cùng của hình ảnh. ## 1, chart, image, bottom
+Chèn một mũi tên vào slide. Xoay nó với 60 độ.
+Đặt chiều cao của nó là 2cm và chiều rộng của nó là 4cm. Nhập "Trang 2" làm ghi chú vào trang trình bày.
+
+Chèn một bảng có bốn cột và ba hàng.
+Nhập dữ liệu sau vào hàng đầu tiên của bảng, Lợi ích trồng trọt,Môi trường,Sức khỏe,Cộng đồng.
+Đặt màu nền trang chiếu thành màu xanh lục.
+Đặt tên cho align_slide_center là "Thông tin khác",
+gạch dưới tiêu đề và đặt màu phông chữ của nó là màu cam đậm,
+di chuyển tiêu đề đến góc trên cùng của slide. ## 0, title, slide, top corner
+
+Chèn hình ảnh biểu trưng của Google vào trang chiếu với hộp chú thích "Google".
+Chèn đoạn văn bản sau vào phần nội dung: "Google và Microsoft Edge là hai trình duyệt web phổ biến cung cấp các tính năng và chức năng độc đáo. Trong khi Google Chrome thống trị thị trường với tốc độ và hệ sinh thái rộng lớn, Microsoft Edge nhắm đến việc cung cấp trải nghiệm duyệt web liền mạch và chặt chẽ tích hợp với hệ điều hành Windows."
+Đặt nội dung với khoảng cách gấp đôi và đặt cỡ chữ 16.
+Chèn tiêu đề "Google vs Microsoft Edge". Đặt màu phông chữ thành màu đỏ.
+Di chuyển hình ảnh đến góc dưới cùng của slide. ## 0, picture, slide, bottom corner
+Chèn một bảng có ba cột và ba hàng. Hàng đầu tiên ghi Tính năng, Google Chrome, Microsoft Edge. Hàng thứ hai ghi Tốc độ,Cao,Trung bình, hàng thứ ba ghi Hệ sinh thái,Mở rộng,Tích hợp.
+Tạo biểu đồ thanh so sánh thị phần của Google Chrome và Microsoft Edge. Google Chrome là 50%, Microsoft Edge là 25% và Khác là 25%.
+Đặt tên cho biểu đồ thanh là "Thị phần trình duyệt web". Thêm "Trang 1" làm ghi chú vào trang chiếu.
+
+Tạo cho slide một màu nền xanh lam. Chèn tiêu đề "Mạng và LinkedIn"
+Chèn văn bản sau vào phần nội dung: "Mạng lưới đóng một vai trò quan trọng trong sự phát triển nghề nghiệp và LinkedIn là một nền tảng mạnh mẽ cho mạng lưới chuyên nghiệp. Với hàng triệu người dùng trên toàn thế giới, LinkedIn cung cấp một loạt các tính năng để kết nối với các chuyên gia, giới thiệu các kỹ năng và khám phá các cơ hội việc làm."
+Đặt màu phông chữ của tiêu đề thành màu đỏ đậm và màu đỏ nhạt của nội dung.
+đặt kiểu phông chữ của tiêu đề và nội dung thành Arial.
+Gạch dưới tiêu đề và in nghiêng nội dung. Tăng cỡ chữ của nội dung lên 24.
+Tạo biểu đồ hình tròn minh họa sự phân bổ người dùng LinkedIn theo ngành, dựa trên dữ liệu sau, Công nghệ 30%, Tài chính 20%, Chăm sóc sức khỏe 15%, Tiếp thị 10%, Khác 25%
+Đặt tên cho biểu đồ hình tròn là "Phân phối Người dùng LinkedIn".
+chèn biểu đồ đường có cùng dữ liệu.
+chèn biểu đồ thanh với cùng một dữ liệu.
+
+Tạo một slide mới và chèn tiêu đề "Các loại bếp khác nhau"
+Chèn văn bản sau vào phần nội dung:"Có nhiều loại bếp đáp ứng các nhu cầu nấu nướng khác nhau. Từ bếp truyền thống đến bếp điện cao cấp và bếp cảm ứng hiện đại, mỗi loại đều có những tính năng và lợi ích riêng."
+Chèn một bảng có bốn cột và ba hàng. Chèn Loại bếp, Tính năng, Lợi ích vào hàng đầu tiên. Chèn Bếp, Đầu đốt gas hoặc điện, Kiểm soát nhiệt chính xác vào hàng thứ hai.
+Tạo biểu đồ tròn dựa trên dữ liệu sau, Bếp từ 40%;Bếp điện 25%;Bếp cảm ứng 20%; Nồi nấu chậm 10%; Nồi chiên không khí 5%.
+chèn tiêu đề biểu đồ hình tròn "Mức độ phổ biến của loại bếp".
+Chèn hình ảnh mặt bếp vào trang chiếu.
+Đặt chiều rộng của hình ảnh là 7cm và chiều cao là 6 cm.
+di chuyển hình ảnh sang bên phải của slide. ## 1, picture, slide, right
+di chuyển hình ảnh sang bên trái của slide. ## 1, picture, slide, left
+Di chuyển đến slide 0 và đặt nền màu xanh lá cây cho nó.
+
+Chèn tiêu đề "Khám phá niềm vui của Oreo"
+In đậm và in nghiêng tiêu đề.
+Đặt kích thước phông chữ thành 30.
+Chèn đoạn văn bản sau vào phần nội dung: "Oreo, loại bánh quy sandwich mang tính biểu tượng, đã là món ăn yêu thích của mọi người ở mọi lứa tuổi. Với sự kết hợp không thể cưỡng lại giữa bánh xốp sô cô la và nhân kem, Oreo mang đến trải nghiệm ăn vặt thú vị mang lại niềm vui cho mọi người cắn."
+Đặt màu phông chữ của nội dung thành màu xanh đậm.
+Chèn hình ảnh bánh quy Oreo vào slide,
+di chuyển hình ảnh đến góc bên phải của slide. ## 0, picture, slide, right corner
+chèn hình ngôi sao vào slide. di chuyển ngôi sao đến góc bên trái của slide. ## 0, star, slide, left corner
+chèn biểu đồ hình tròn và đường vào trang chiếu, dữ liệu là Original 40%, Mint 10%, Peanut Butter 50%.
+Tôi muốn một biểu đồ thanh có cùng thông tin nhưng với "Mức độ phổ biến của hương vị Oreo".
+
+Đặt màu nền tím cho trang chiếu.
+Đặt tiêu đề trang chiếu là "Các biến thể theo mùa" và làm cho nó in đậm và in nghiêng .
+Chèn đoạn văn sau vào phần nội dung:"Sự thay đổi theo mùa mang lại nét quyến rũ riêng biệt cho cuộc sống của chúng ta. Từ màu sắc rực rỡ của mùa xuân đến màu sắc ấm áp của mùa hè, bầu không khí ấm cúng của mùa thu và phong cảnh thanh bình của mùa đông, mỗi mùa mang đến một trải nghiệm độc đáo. Nắm bắt vẻ đẹp của sự biến đổi của thiên nhiên trong suốt cả năm."
+Thay đổi kiểu phông chữ của nội dung thành Arial. thay đổi kích thước phông chữ của nội dung thành 18.
+Chèn một bảng có bốn cột và bốn hàng. Chèn Mùa, Nhiệt độ Trung bình, Tính năng Chính, Hoạt động vào hàng đầu tiên.
+Chèn hình chú thích vào trang chiếu. Di chuyển nó sang phía bên trái của slide. ## 0, callout, slide, left
+
+Chèn tiêu đề "Thời tiết ở Quảng Đông: Khí hậu đa dạng"
+di chuyển tiêu đề sang góc bên trái của slide. ## 0, title, slide, left corner
+Chèn văn bản sau vào phần nội dung có khoảng cách đôi:"Quảng Đông trải qua nhiều điều kiện thời tiết khác nhau trong suốt cả năm. Từ những ngày nắng ấm cho đến thỉnh thoảng có mưa, buổi sáng có sương mù và bầu trời nhiều mây, khí hậu ở Quảng Đông rất đa dạng và năng động. Khám phá các mùa khác nhau và các kiểu thời tiết trong khu vực sôi động này."
+Chèn hình ảnh bãi biển đầy nắng vào slide và di chuyển nó vào góc bên phải của slide. ## 0, picture, slide, right corner
+Chèn một bảng có hai cột và hai hàng. Ở hàng đầu tiên, hãy nhập Mùa và Nhiệt độ trung bình. ở hàng thứ hai, chèn lò xo 20-28℃.
+cung cấp cho slide một màu nền màu tím.
+di chuyển bảng đến phía dưới cùng của slide. ## 0, table, slide, bottom
+chèn hình đám mây vào trang chiếu và di chuyển nó sang bên trái của bảng. ## 0, cloud, table, left
+
+chèn ảnh mặt trời mọc vào slide.
+đặt chiều rộng của hình là 6cm. Làm cho nó vuông.
+Chèn tiêu đề "Sức mạnh của Tư duy Tích cực: Nắm lấy Sự lạc quan", in nghiêng và in đậm.
+Chèn văn bản sau vào phần nội dung với cùng phong cách với tiêu đề:"Tư duy tích cực là tư duy tập trung vào sự lạc quan, kiên cường và tự tin. Bằng cách nuôi dưỡng những suy nghĩ và thái độ tích cực, chúng ta có thể nâng cao sức khỏe, vượt qua thử thách , và tạo ra một cuộc sống hạnh phúc và viên mãn hơn. Nắm bắt sức mạnh của suy nghĩ tích cực và khai phá tiềm năng thực sự của bạn."
+làm cho màu chữ của nội dung là màu tím và cỡ chữ 20.
+thêm ghi chú "tư duy tích cực" vào trang chiếu.
+
+Chèn một bảng có ba cột và bốn hàng. Nhập dữ liệu sau vào bảng: Lợi ích,Mô tả,Ví dụ ở hàng đầu tiên. Chèn "Cải thiện sức khỏe" vào ô đầu tiên ở hàng thứ hai.
+Chèn văn bản sau vào phần nội dung: "Tư duy tích cực là tư duy tập trung vào sự lạc quan, kiên cường và tự tin. Bằng cách nuôi dưỡng những suy nghĩ và thái độ tích cực, chúng ta có thể nâng cao sức khỏe, vượt qua thử thách và tạo ra một cuộc sống hạnh phúc và hạnh phúc hơn. cuộc sống viên mãn hơn. Hãy nắm bắt sức mạnh của suy nghĩ tích cực và mở khóa tiềm năng thực sự của bạn."
+in nghiêng nội dung và đổi màu chữ thành xanh nhạt.
+cung cấp cho slide một màu nền xanh nhạt.
+Chèn và in đậm tiêu đề "Định nghĩa" vào slide.
+Di chuyển tiêu đề đến góc trên cùng của slide. ## 0, title, slide, top corner
+Chèn hình ảnh một nhóm người đang cười vào slide bên phải. ## 0, picture, slide, right
+
+Chèn tiêu đề "Phân loại rác: Thúc đẩy quản lý chất thải bền vững" Chèn đoạn văn sau vào phần nội dung:"Phân loại rác là một thực tiễn quan trọng trong việc thúc đẩy quản lý chất thải bền vững. Bằng cách phân loại và xử lý rác đúng cách, chúng ta có thể giảm ô nhiễm môi trường, bảo tồn tài nguyên , đồng thời đóng góp cho một hành tinh sạch hơn và khỏe mạnh hơn. Hãy nắm bắt trách nhiệm phân loại rác và tạo ra tác động tích cực đến môi trường của chúng ta."
+gạch dưới nội dung và đặt màu phông chữ của nó là màu cam,
+thay đổi kích thước phông chữ của nội dung thành 18.
+thay đổi kiểu chữ của tiêu đề và nội dung thành Times New Roman.
+chèn một mũi tên vào slide. Di chuyển nó đến góc bên phải của slide. ## 0, arrow, slide, right corner
+Đặt chiều rộng của mũi tên thành 4.0 và chiều cao thành 3.0.
+Xoay trái 90 độ.
+Tạo một biểu đồ thanh minh họa tỷ lệ tái chế của các vật liệu phế thải khác nhau. Bao gồm các danh mục dữ liệu dưới dạng dữ liệu trên trục X, chẳng hạn như "Giấy", "Nhựa", "Thủy tinh", "Kim loại" và "Chất thải hữu cơ". Bao gồm tỷ lệ tái chế tương ứng trên trục Y với 60%, 50%, 45%,40% , 40%. Đặt tên cho biểu đồ thanh là "Tỷ lệ tái chế vật liệu thải".
+Chèn hình ảnh thùng rác tái chế vào trang chiếu.
+tạo một slide mới và đặt cho nó một màu nền tím.
+đặt tên cho slide mới là "Organic Waste", cùng kích thước với nội dung trên slide trước.
+Chèn văn bản sau vào phần nội dung:"Chất thải hữu cơ đóng một vai trò quan trọng trong cuộc sống bền vững. Bằng cách ủ phân hữu cơ như thức ăn thừa, rác sân vườn và phế thải nông nghiệp, chúng ta có thể giảm lượng rác chôn lấp, làm giàu chất lượng đất và khép kín chu trình dinh dưỡng . Chấp nhận thực hành ủ phân hữu cơ và đóng góp cho một tương lai xanh hơn."
+
+Tạo một slide mới và chèn tiêu đề "Oldroyd's film of Lady Macbeth" in đậm
+Vui lòng gạch dưới tiêu đề và đặt kích thước thành 28
+Chèn nội dung "Kịch bản của Birch giới thiệu một vài thay đổi lớn đối với câu chuyện của Leskov. Ví dụ: Birch và Oldroyd loại bỏ hoàn toàn các tình tiết ở Siberia và chọn cắt bỏ vụ tự sát của Katherine."
+Đặt kích thước phông chữ của nội dung thành 20 và in đậm nội dung.
+thay đổi màu chữ của nội dung thành màu vàng, màu của tiêu đề thành màu đỏ.
+chèn ảnh phim Lady Macbeth của Oldroyd vào slide,
+đặt chiều rộng của hình vuông là 8cm,
+di chuyển nó sang bên phải của nội dung, ## 1, picture, content, right
+Không, di chuyển nó sang bên trái của nội dung, ## 1, picture, content, left
+Chèn một bảng có ba hàng và hai cột.
+Ở hàng đầu tiên, chèn Nhân vật trong phim, Diễn viên/Nữ diễn viên. Ở hàng thứ hai, thêm Quý bà Macbeth,Florence Pugh. Trong phần thứ ba, chèn Macbeth, Cosmo Jarvis.
+thêm ghi chú "Ngày 1 tháng 5" vào trang chiếu.
+Thay đổi màu nền thành màu tím.
+
+Tạo một trang chiếu mới và tạo tiêu đề "Tầm quan trọng của việc tập thể dục" và gạch dưới tiêu đề,
+Vui lòng đặt kích thước phông chữ của tiêu đề thành 24 và đặt màu phông chữ thành màu xanh lá cây.
+Chèn văn bản: "Tập thể dục thường xuyên có thể cải thiện sức khỏe tim mạch, cải thiện tâm trạng và tăng mức năng lượng."
+Đặt cỡ chữ của nội dung là 20 và in đậm nội dung,
+thay đổi màu phông chữ của nội dung thành màu đỏ,
+Chèn một hình ảnh liên quan đến tập thể dục, chẳng hạn như một người đang chạy bộ hoặc tập yoga.
+Tạo biểu đồ hình tròn dựa trên dữ liệu, sức khỏe tim mạch, 10%; sức mạnh cơ bắp 30%, sức khỏe tinh thần 50% và khả năng phòng chống bệnh tật 10%.
+Chèn một bảng có năm hàng và hai cột. Chèn các loại bài tập (ví dụ: tim mạch, rèn luyện sức mạnh, tính linh hoạt) vào cột đầu tiên và Lợi ích (ví dụ: cải thiện sức bền, tăng trương lực cơ, tăng cường tính linh hoạt) vào cột thứ hai.
+di chuyển bảng sang bên phải của hình ảnh. ## 1, table, picture, right
+chèn một hình ngôi sao vào trang chiếu và tạo cho trang chiếu một màu nền tím..
+di chuyển ngôi sao đến phía dưới cùng bên phải của slide. ## 1, star, slide, right bottom
+ngôi sao có chiều ngang 8cm, chiều cao 4cm.
+
+Tạo một slide mới và đặt cho nó tiêu đề "Lợi ích của việc đọc sách", Vui lòng gạch chân tiêu đề và đặt cỡ chữ thành 24
+Chèn văn bản: "Đọc sách có thể cải thiện chức năng nhận thức, tăng sự đồng cảm và giảm căng thẳng."
+in đậm và in nghiêng nội dung,
+Thay đổi kiểu phông chữ của nội dung thành Arial. Thay đổi màu phông chữ thành màu xanh lá cây.
+Vui lòng chèn hình ảnh một người đọc sách trên ghế đá công viên
+Tạo biểu đồ thanh, bao gồm các danh mục dữ liệu hư cấu, phi hư cấu, tiểu sử, tự trợ giúp và giả tưởng trong X, số lượng xuất bản tương ứng là 1400.992.400.661, 234 trong Y.
+Đặt tên cho biểu đồ thanh là "Bán sách"
+Chèn một bảng có ba cột và ba hàng.
+Đưa các thông tin sau vào bảng, Lợi ích của việc đọc, nâng cao kiến ​​thức, mở rộng vốn từ vựng vào cột đầu tiên.
+cung cấp cho slide một màu nền đỏ,
+thêm ghi chú "Đọc sách" vào slide.
+tạo một trang chiếu mới với cùng một nền và chèn hình ảnh chiếc đồng hồ vào trang chiếu.
+Điều chỉnh kích thước của hình ảnh thành 10 cm chiều rộng và 15 cm chiều cao.
+thêm ghi chú "GIỚI THIỆU ĐỌC" vào slide.
+
+Tạo một slide mới và chèn tiêu đề "Lợi ích của việc tình nguyện" và gạch dưới nó
+Vui lòng đặt màu phông chữ của tiêu đề thành màu đỏ đậm và đặt kích thước thành 30
+Loại "Hoạt động tình nguyện có thể làm tăng hạnh phúc, cải thiện các kỹ năng xã hội và mang lại ý thức về mục đích."
+thay đổi màu phông chữ của nội dung thành màu xanh lá cây,
+in đậm nội dung và thay đổi kích thước phông chữ của nội dung thành 18.
+di chuyển nội dung đến góc dưới cùng của slide. ## 1, content, slide, bottom corner
+Vui lòng chèn hình ảnh nhóm tình nguyện viên cùng nhau thực hiện một dự án cộng đồng
+di chuyển hình ảnh xuống phía dưới bên trái của trang chiếu. ## 1, picture, slide, left bottom
+Chèn một bảng có ba cột và ba hàng. chèn Lợi ích , phát triển cá nhân, kết nối xã hội vào cột đầu tiên.
+in đậm nội dung và tăng cỡ chữ lên 20.
+Tạo biểu đồ cột minh họa các lĩnh vực hoạt động tình nguyện khác nhau. Bao gồm các loại dữ liệu dưới dạng dữ liệu trong X, dịch vụ cộng đồng, giáo dục, chăm sóc sức khỏe, bảo tồn môi trường và cứu trợ thiên tai. Bao gồm tỷ lệ trong Y, 25%, 45%, 10%, 15%,5%.
+Đặt tên cho biểu đồ thanh là "Tầm quan trọng của tình nguyện viên"
+
+Đặt màu nền thành màu tím.
+Chèn tiêu đề "Định dạng CAJ". gạch dưới tiêu đề và in nghiêng tiêu đề,
+Đặt màu phông chữ của tiêu đề thành màu nền.
+Chèn văn bản sau vào phần nội dung: "Định dạng CAJ là định dạng tệp được sử dụng rộng rãi ở Trung Quốc cho các bài báo học thuật và tài liệu nghiên cứu. Nó cung cấp cấu trúc và bố cục được tiêu chuẩn hóa để chia sẻ và xuất bản hiệu quả."
+đặt nội dung với khoảng cách gấp đôi.
+thay đổi kiểu phông chữ của văn bản thành "Arial" và in đậm văn bản.
+Đặt màu phông chữ của nội dung thành màu xanh lục.
+Di chuyển nội dung lên phía trên cùng của trang chiếu. ## 0, content, slide, top
+Chèn hình ảnh của tài liệu mẫu ở định dạng CAJ.
+Di chuyển hình ảnh đến góc trên cùng của slide. ## 0, picture, slide, top corner
+Chèn một bảng có ba cột và hai hàng.
+Nhập "Phần", "Tiêu đề" và "Nội dung" vào hàng đầu tiên.
+Tạo một trang chiếu mới và tạo biểu đồ thanh để minh họa việc sử dụng các định dạng tệp khác nhau. Bao gồm các danh mục dữ liệu trên trục X, chẳng hạn như "CAJ", "PDF", "DOC", "PPT" và "XLS". Bao gồm tỷ lệ sử dụng trên trục Y, chẳng hạn như 30%, 25% , 20%, 15% và 10%.
+Đặt tên cho biểu đồ thanh là "Sử dụng định dạng tệp".
+Thêm ghi chú "Định dạng tệp" vào trang chiếu và tạo nền giống với các trang chiếu khác.
+
+Chèn văn bản: "Ghi nhật ký có thể giảm căng thẳng, cải thiện trí nhớ và nâng cao nhận thức về bản thân."
+Gạch dưới nội dung và thay đổi kích thước phông chữ của nội dung thành màu tím,
+đặt tên cho trang chiếu là "Nhật ký"
+In nghiêng tiêu đề và đặt kiểu phông chữ của tiêu đề thành Arial,
+Vui lòng chèn hình ảnh của một người viết nhật ký
+di chuyển hình ảnh xuống phía dưới cùng của trang chiếu, ## 0, picture, slide, bottom
+chèn một hình ngôi sao vào slide ở phía bên phải của slide. ## 0, star, slide, right
+xoay ngôi sao với 60 độ.
+
+Tạo một slide mới và đặt tiêu đề là "Lợi ích của việc làm vườn". Vui lòng đặt cỡ chữ của tiêu đề là 28 và in đậm tiêu đề
+Chèn văn bản: "Làm vườn có thể giảm căng thẳng, cải thiện sức khỏe thể chất và tăng khả năng sáng tạo."
+Làm cho văn bản in nghiêng và thay đổi kiểu phông chữ của văn bản thành "Arial"
+Chèn hình đám mây vào slide bên phải. ## 1, cloud, slide, right
+di chuyển hình dạng đám mây sang bên trái của tiêu đề. ## 1, cloud, title, left
+Vui lòng chèn hình ảnh của một người làm việc trong một khu vườn. Đặt chiều rộng của hình ảnh là 10cm.
+Tạo một slide mới và đặt nền màu xanh nhạt cho nó.
+Chèn một hình tam giác vào slide bên trái. ## 2, cloud, slide, left
+làm cho chiều cao của tam giác là 15 cm và xoay tam giác với 45 độ.
+
+Vui lòng tạo một slide mới với tiêu đề "Các công ty CNTT".
+Emmm, tốt hơn là sử dụng phông chữ Times in đậm và kích thước tiêu đề nên là 32.
+Có, tôi muốn có ảnh Logo Công ty Apple với chiều cao và chiều rộng đều được đặt thành 2.
+Tạo một bảng về Doanh thu hàng năm của Apple với 2 hàng và 3 cột. Hàng đầu tiên là "2020","2021","2022". Hàng thứ hai là "274B","365B","394B".

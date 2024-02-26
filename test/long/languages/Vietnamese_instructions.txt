@@ -1,0 +1,209 @@
+Xin chào, bạn có thể đặt màu tiêu đề của slide 1,3,6,7,10,13 và 15 thành màu đen không?
+Và đặt nền của ba slide đầu tiên thành màu trắng.
+Xoay hình ảnh đầu tiên trên slide 3 với 75 độ. Thay đổi chiều rộng của hai hình ảnh đầu tiên trên slide 4 với người thật thành 8.
+Xoay hình ảnh đầu tiên với người thật với 60 độ.
+
+Bạn có thể thay đổi tiêu đề của slide 6,7,8 thành 'Ô nhiễm biển' không? Sau đó đặt chiều rộng của hình ảnh trong slide 9 thành 12.
+Đặt kích thước phông chữ của hai hộp văn bản đầu tiên trong trang chiếu 15 thành 5 và đặt màu phông chữ thành 'đỏ'.
+OK, sau đó di chuyển đến slide 9 và đặt màu phông chữ của tất cả các hộp văn bản thành màu vàng.
+di chuyển đến trang chiếu có ảnh trái đất và đặt màu phông chữ của tất cả các hộp văn bản thành màu đỏ.
+
+Vui lòng tìm ba trang chiếu đầu tiên có hình ảnh cá nhân của tôi và phác thảo tiêu đề của trang đầu tiên và trang cuối cùng trong ba trang chiếu này.
+OK, hãy đặt màu nền của ba trang chiếu đầu tiên thành màu lam và thay đổi tiêu đề của trang chiếu thứ 11 thành 'Ngôi sao đang lên'.
+Đồng thời đặt tiêu đề cho slide thứ 11. Emm, tôi nghĩ 'Chi tiết khác' là một lựa chọn tốt. Đặt tiêu đề in đậm.
+
+Gạch dưới tiêu đề của slide "Công ty của chúng tôi" và đặt cỡ chữ là 10.
+In đậm tiêu đề của slide có hình quả dứa và đặt cỡ chữ là 12.
+OK, sau đó vui lòng xóa tiêu đề ban đầu của trang trình bày 8 và 16. Thêm tiêu đề mới 'Công ty vì tương lai con người' và 'Lợi nhuận của công ty' cho trang trình bày 8 và 16 tương ứng.
+Sau đó, thay thế tiêu đề của slide 9, 10 bằng 'Lịch sử của Công ty chúng tôi'.
+
+Vui lòng thêm ghi chú 'Có thể có mối quan tâm về quyền riêng tư' cho tất cả các trang trình bày có ảnh người thật.
+Đặt màu của tiêu đề trong các trang chiếu 2,1,4,6 và 7 là màu đen và gạch chân chúng.
+Di chuyển đến trang trình bày về các thành viên trong nhóm và thay đổi tiêu đề thành 'Thành viên và bạn bè'.
+
+Đặt tiêu đề của slide 2 là '10 Lời khuyên quan trọng cho sự nghiệp ban đầu của bạn' và gạch dưới nó. Ngoài ra, đặt kích thước phông chữ là 15.
+Di chuyển đến trang chiếu có một bảng và ghi chú "Đây là bảng ghi lại thu nhập trung bình hàng năm của một cử nhân."
+Cuối cùng, đặt màu nền của các slide 2, 4, 6 và 13 là màu trắng.
+
+Đặt tiêu đề của slide 2 thành ‘Sea Sports’ và gạch dưới nó. Ngoài ra, hãy thay đổi tiêu đề của slide 7 thành 'Bốn bước quan trọng khi chơi ván trượt'.
+Thay đổi tiêu đề trang trình bày 'Dịch vụ của chúng tôi' thành 'Khóa học miễn phí cho con bạn'.
+Thay đổi tiêu đề của slide có hình ảnh trẻ em và huấn luyện viên thành 'Các khóa học miễn phí'.
+Cuối cùng, đặt kích thước phông chữ của tiêu đề trong trang chiếu cuối cùng là 10 và in đậm.
+
+Đặt tiêu đề của slide 2 là 'Các yếu tố quan trọng để thiết kế'. Sau đó Thêm ghi chú cho hình ảnh của tôi trong slide 1 là ‘Lily’.
+Đặt chiều cao của ảnh máy tính trong slide 3 là 10 và đặt tiêu đề của slide này là 'Thông tin liên quan từ Internet'.
+Di chuyển đến trang chiếu có hai bảng và đặt tiêu đề là 'Xu hướng mới từ năm 2022 đến năm 2023'.
+
+Đặt tiêu đề của trang chiếu 2 là 'Nhạc cụ' và đặt cỡ chữ là 12.
+Di chuyển đến trang trình bày giới thiệu chúng tôi là ai và chúng tôi làm gì, thêm ghi chú vào trang trình bày này 'Chúng tôi đang tuyển dụng!'
+Đặt màu tiêu đề của các slide 18,19,5,6 và 2 là tím và gạch dưới chúng.
+
+Đặt chiều cao của các bức tranh của slide 1 là 5 và đặt tiêu đề của slide này là ‘Nghệ thuật của tuổi trẻ’. Gạch dưới nó.
+Di chuyển đến slide có hình ảnh của ba cậu bé. Đặt tiêu đề là 'Những kẻ ăn chơi' và in đậm nó.
+Xoay hình ảnh trong slide 6 đến 45 độ. Đặt tiêu đề: ‘Thời trang Châu Á’ và căn giữa.
+
+Thay đổi tiêu đề của slide 6 thành 'Người dùng của chúng tôi trên thế giới' và in đậm nó. Và thêm tiêu đề mới cho slide 9 là ‘Lợi nhuận của Công ty chúng tôi’.
+Ghi chú cho slide có tiêu đề là 'Infographic Slide Report' là 'Tôi cần cập nhật các điểm dữ liệu trong ảnh'.
+Đặt nền của năm trang chiếu đầu tiên và trang chiếu cuối cùng có màu xanh dương và đỏ tương ứng.
+
+Đặt tiêu đề của slide 2 là ‘Mua và bán BLOCKCHAIN ​​trong ba bước’ và gạch dưới nó. Ngoài ra, xoay hình ảnh đầu tiên trong slide 2,3 và 4 thành 15, 30 và 45 độ tương ứng.
+Gạch chân tất cả các phông chữ cũng như in đậm chúng trong trang trình bày 5 và đặt tiêu đề cho trang trình bày cuối cùng là 'Thu nhập và Chi phí'.
+Đặt màu nền của slide 0,2,3,6 là màu vàng.
+
+Id slide là nghiệm dương của phương trình X^2-25=0. Đặt tiêu đề của slide này là 'Du lịch cùng mẹ' để gạch chân nó.
+Đặt chiều cao của tất cả ảnh trong slide 9 là 14 và đặt màu nền là đỏ.
+Đặt tiêu đề của trang chiếu tiếp theo là 'Chơi trò chơi với mẹ'.
+
+Đặt màu nền của các slide có ảnh người thật là màu vàng và đặt tiêu đề của slide 1 là ‘Let’s start’.
+Xóa tất cả nội dung văn bản của trang chiếu 1 ngoại trừ hộp văn bản đầu tiên của trang chiếu.
+Đặt màu nền của tất cả các trang chiếu có tiêu đề: Cách chơi?’ thành màu trắng. Và gạch dưới tiêu đề.
+
+Vui lòng đặt lại chiều rộng của hình ảnh có ba đứa trẻ là 12 tuổi và thêm ghi chú vào trang trình bày này: Xin chào các em!’
+Ok, sau đó tạo hình ảnh với một đứa trẻ được căn trái trên slide 10. Và sau đó xoay nó 15 độ. ## 10, picture 0, slide, left
+Tạo màu xanh lam cho tiêu đề cho các trang chiếu 3, 8, 10 và 21.
+
+Đặt tiêu đề của ba trang chiếu đầu tiên lần lượt là 'Nghệ thuật cắm hoa', 'Bài thơ về hoa' và 'Ba bước quan trọng để cắm hoa'. Gạch chân những tiêu đề này.
+Di chuyển đến slide có hình bông vải. và Đặt tiêu đề là 'Không chỉ là cây trồng'. Ngoài ra, đặt chiều cao của ảnh đầu tiên là 10.
+Đặt hộp văn bản đầu tiên của các trang chiếu 14 và 24 được căn trên cùng trong trang chiếu. Ngoài ra, xoay tất cả các hình ảnh trong slide 14 12 độ. ## 14, textbox 0, slide, top ## 24, textbox 0, slide, top
+
+Thêm tiêu đề cho slide 13: ‘Con vật nào có tuổi thọ cao nhất?’ và đặt màu phông chữ là màu vàng.
+Đặt kích thước phông chữ của tất cả các phông chữ trong slide 1 là 8 và viết lại tiêu đề là 'Bạn sẽ thấy gì'.
+Di chuyển đến slide 21 và xóa tất cả thông tin cá nhân vì lý do lỗi thời.
+
+Đặt tiêu đề của slide 5 là ‘Global Warming!’ và gạch dưới tiêu đề. Căn trái các hộp văn bản trong slide 3.
+Di chuyển đến slide 14 và chỉnh sửa tiêu đề thành 'Thành viên nhóm hiện tại'.
+Đặt màu nền của các slide có hình ảnh băng và biển thành màu xanh lam.
+
+Tạo màu nền cho các trang chiếu có chủ đề là Công viên kỷ Jura màu vàng và đặt tiêu đề cho trang chiếu có hình con cú là 'Bạn nhớ đến bộ phim nào khi nhìn thấy những bức ảnh sau đây?' và in đậm tiêu đề.
+Id slide là nghiệm của phương trình x^2+2x-3=0. Đặt tiêu đề của slide này là: 'Chào mừng đến với Liên hoan phim của chúng tôi!'.
+Xóa tất cả phông chữ trong các trang trình bày về các thành viên trong nhóm ngoại trừ hộp văn bản đầu tiên.
+
+Đặt tiêu đề của slide 5 và 14 lần lượt là 'Ba chìa khóa để xác định nếu đang yêu' và 'Bạn và người yêu của mình có thể làm gì cùng nhau' và gạch dưới tiêu đề.
+Di chuyển đến trang chiếu về thông tin liên hệ và thêm ghi chú 'Địa chỉ của chúng tôi là: xxx.'
+Đặt màu nền của các trang chiếu 2,3,4,5,6,7, 13 và 14 là xanh lam.
+
+Xoay tiêu đề của trang chiếu 3 thành 90 độ và đặt tiêu đề của trang chiếu 8 là 'Chip'.
+Di chuyển đến trang chiếu 14 và điền vào cột thứ hai với 'Báo cáo thu nhập', 1450','1567',1456' và '8900'.
+Sau đó điền các thành phần vào hàng đầu tiên và cột 2 và 3 với 'Chi phí' và 'Doanh thu'.
+
+Đặt màu phông chữ của tiêu đề trong các trang chiếu từ 1 đến 3 thành màu đen và in đậm tiêu đề. Ngoài ra, xóa thông tin cá nhân trong slide 22.
+Di chuyển đến trang trình bày 19 và Chèn câu: 'Công ty chúng tôi được xây dựng vào năm 2012' vào hộp văn bản thứ hai.
+Di chuyển đến slide 11 và làm cho chiều cao của hình ảnh nhỏ hơn. Emm, ví dụ, làm cho chiều cao của hình ảnh là 10.
+
+Đặt tiêu đề của slide 18 và 23 lần lượt là ‘Colorful World’ và ‘Welcome to Our Group’. Gạch dưới tiêu đề và đặt kích thước phông chữ của tiêu đề đầu tiên là 19.
+Di chuyển đến trang chiếu có bảng (trang chiếu 12) và chỉnh sửa số ở hàng thứ hai và cột cuối cùng thành 17. Ngoài ra, hãy đặt lại giá trị số trong cột cuối cùng thành 0.
+Di chuyển đến slide 11 và viết lại tiêu đề thành 'Bức tranh toàn cảnh về Công ty của chúng tôi'.
+
+Đặt tiêu đề trong các trang chiếu 5,9,10,11 và 15 được căn trên cùng. ## 5, textbox 0, slide, top ## 9, textbox 0, slide, top ## 10, textbox 0, slide, top ## 11, textbox 0, slide, top ## 15, textbox 0, slide, top
+Ok, sau đó viết lại tiêu đề trong slide 14 là 'Chuyên gia hàng đầu trong nhóm của chúng tôi'.
+Tốt, di chuyển đến trang chiếu có hai viên đá và đặt tiêu đề là 'Vòng 2'.
+
+Viết lại tiêu đề của slide 4 là 'Chào mừng đến với Kỷ nguyên AI' và in đậm nó.
+Di chuyển đến slide của các thành viên và thêm một tiêu đề mới: 'Nhà khoa học trẻ của chúng tôi'. Di chuyển đến slide 16 và chỉnh sửa tiêu đề thành: Sản phẩm mới nhất của chúng tôi'.
+Di chuyển đến slide giới thiệu dịch vụ của chúng tôi. Gạch chân các phông chữ trong hộp văn bản.
+
+Điền ngày hôm nay với "7.18" vào trang chiếu 0 và di chuyển ảnh trên trang chiếu 0 lên trên cùng. ## 0, picture 0, slide, top
+Thay đổi màu của hộp văn bản có văn bản '2015','2016','2017','2018','2019' thành màu vàng, xanh lục, đỏ, tím, xanh dương tương ứng trên slide 6.
+in đậm tất cả các hộp văn bản trên slide 9, đặt màu nền màu vàng trên slide 7,8 và tạo hình ảnh có chiều cao 3 trên slide 0.
+
+Chèn hộp văn bản "Xin chào" trên trang chiếu 0 với cùng kiểu căn chỉnh văn bản với các hộp văn bản khác.
+Chèn hộp văn bản "Hi" với màu xanh lá cây, vàng, đỏ, xanh lam tương ứng trên slide 7,8,9,10.
+Thay đổi góc xoay của ảnh đầu tiên trên slide 6,7,8,9 thành 15,30,45,60.
+
+Slide màu 3,4,5 sang vàng, xanh, đỏ. Màu slide 6,7 sang đỏ, vàng.
+Trên trang chiếu có bảng, hãy chèn ghi chú "đây là bảng".
+Thay đổi hàng thứ hai của bảng thành |Green|11|20|7|.
+
+Thay đổi hộp văn bản Cạnh tranh cạnh tranh 1,2,3 thành "Rẻ", "Chất lượng" và "Hiệu quả" tương ứng trên trang chiếu 7. Đặt tất cả các hộp văn bản được căn phải trên trang chiếu 2.
+Di chuyển ảnh sang trang chiếu sang phải trên trang chiếu 2 và Thay đổi kích thước phông chữ của tất cả các hộp văn bản trên trang chiếu 4 thành 3. ## 2, picture 0, slide, right
+Thêm ghi chú cho tất cả các slide có bảng "có một bảng để điền vào trong slide này".
+
+Thay đổi "Soona" thành "Justin" trên slide 4. Di chuyển hình ảnh trên slide 6 sang trái. ## 6, picture 0, slide, left
+Thay đổi hộp văn bản "Viết chủ đề hoặc ý tưởng của bạn" trên trang chiếu 9,10,7 thành "Giới thiệu về các môn thể thao mùa đông". Thay đổi chiều cao ảnh trên slide 10 thành 7.
+Xoay các ảnh đầu tiên 45 độ trên slide 4,5,6,7.
+
+Thay đổi hộp văn bản "In dept" thành "Outside dept".
+Thay đổi chiều cao của ảnh thành 2,3,4 trên slide 5,6,9 tương ứng.
+Thay đổi màu nền thành màu vàng trên trang chiếu 5. Thay đổi chiều cao ảnh thành 3 trên trang chiếu 6. Thay đổi màu nền thành màu đỏ trên trang chiếu 4.
+Tạo tất cả các hộp văn bản có cỡ chữ 4 trên trang chiếu 4. Tạo hộp văn bản đầu tiên có màu phông chữ vàng.
+
+Điền vào hộp văn bản "công ty của chúng tôi" bằng "Apple" trên trang chiếu 6. Thay đổi màu phông chữ của hộp văn bản thứ hai thành màu vàng.
+Bây giờ Làm cho hộp văn bản Giới thiệu được in đậm. Làm cho hình ảnh xoay 45 trên slide 6 và 7.
+In đậm toàn bộ văn bản trên slide 4, Gạch chân tất cả văn bản trên slide 5.
+
+Thay đổi màu nền thành màu xanh lá cây trên slide 1,3,5. Thay đổi màu nền thành màu xanh trên slide 0,2,4.
+In đậm văn bản "THÊM MỘT TRANG CHƯƠNG TRÌNH" trên trang chiếu 2 và gạch chân "HELLO THERE" trên trang chiếu 3.
+Di chuyển hộp văn bản "WRITE YOUR TOPIC OR IDEA" sang trái trên trang chiếu 6. ## 6, textbox 0, slide, left
+Đặt màu phông chữ của tất cả các hộp văn bản thành màu vàng trên trang chiếu 3 và 5.
+
+Thay đổi nội dung của hộp văn bản "Write Agenda" thành "Agenda 1", "Agenda 2", "Agenda 3" tương ứng trên slide 2.
+Thay đổi hàng đầu tiên của bảng thành "T1","T2","T3","T4" trên slide 11.
+Đặt nền màu vàng trên slide 6,7,5. Thêm ghi chú "ready" vào slide 3,4.
+
+Làm cho văn bản được gạch chân trên slide 0.
+Đặt màu của hộp văn bản thành màu vàng trên slide 0 và màu nền của slide 1 thành màu đỏ.
+Làm cho ảnh đầu tiên trượt sang phải trên trang chiếu 4 và 7. ## 4, picture 0, slide, right ## 7, picture 0, slide, right
+
+Đặt màu nền thành màu đỏ trên trang chiếu 0. Thay đổi chiều cao ảnh thành 4 trên trang chiếu 6.
+Làm cho ảnh đầu tiên trượt sang trái trong slide 6 và 7. ## 6, picture 0, slide, left ## 7, picture 0, slide, left
+
+Đặt tất cả các hình để trượt sang phải trên slide 6 và 7. ## 6, picture 0, slide, left ## 7, picture 0, slide, left
+In đậm hộp văn bản đầu tiên trên trang chiếu 4. Đặt nền thành màu đỏ trên trang chiếu 7. Gạch dưới hộp văn bản thứ hai trên trang chiếu 5.
+Xóa thông tin cá nhân trên slide 6.
+
+Hoàn thành các chi tiết của bảng trên slide 7 với Tên sách "Bí ẩn của bóng tối" và Tác giả "Maya Sullivan".
+Làm cho hình ảnh đầu tiên xoay 45 trên slide 4 và 5. Tuy nhiên, hình ảnh trên slide 2 nên xoay 90 độ.
+Tôi muốn màu văn bản ở trang 2 màu xanh trong khi màu nền ở trang 3 màu vàng.
+
+Thay đổi tất cả các phông chữ thành màu xanh lục trên slide 2 và màu đỏ trên slide 3.
+Đặt hộp văn bản đầu tiên được căn phải trên trang chiếu 3, căn trái trên trang chiếu 7 và căn giữa trên trang chiếu 8.
+Hộp văn bản "Viết tiêu đề tại đây" phải là "Xanh hơn thì tốt hơn" trên trang chiếu 10.
+Thay đổi chiều rộng, chiều cao của hộp văn bản thứ nhất và thứ hai trên trang chiếu 2 thành 3000,3500 và 4000,4500 tương ứng.
+
+Tôi muốn hình ảnh trên trang chiếu còn lại trên trang chiếu 0. Đặt màu xanh lá cây "Hãy bắt đầu" trên trang chiếu 1. Thay đổi kích thước phông chữ của hộp văn bản đầu tiên trên trang chiếu 3 thành 4. ## 0, picture 0, slide, left
+Di chuyển bảng trên slide 9 sang trái. ## 9, table, slide, left
+In đậm văn bản trên slide 6. Tạo tất cả văn bản có kích thước 2 trên slide 0. Gạch dưới văn bản trên slide 0.
+
+Di chuyển hộp văn bản lên trên cùng của slide 4,6. Thay đổi màu của văn bản thành màu vàng trên trang chiếu 4. ## 4, textbox 0, slide, top ## 6, textbox 0, slide, top
+Đặt xoay 45,60,90 cho hình ảnh trên slide 0,2,3.
+Thay đổi số thành 132.654.897 trên slide 8.
+
+Giảm giá mùa đông phải có màu xanh lam trên slide 0.
+Đặt màu nền thành màu đỏ trên slide 4,5 và màu xanh lam trên slide 6,7. Di chuyển hình ảnh đầu tiên trên slide 2 sang phải. ## 2, picture 0, slide, right
+Thay đổi tất cả "Viết chủ đề hoặc ý tưởng của bạn" thành "CẦN LÀM" trên slide 5,6,7.
+Thay đổi chiều cao ảnh đầu tiên thành 2 trên slide 0,2,3. Màu slide 1,2 sang màu vàng.
+Tô màu văn bản trên trang chiếu 6 thành màu đỏ trong khi nền trang chiếu phải có màu xanh lam trên trang chiếu 2,3.
+
+Di chuyển hình ảnh đầu tiên trên trang "Giới thiệu" sang phần bên phải của trang trình bày. ## 5, picture 0, slide, right
+Làm cho tất cả các hộp văn bản được căn phải trên slide 9.
+Chiều cao của ảnh phải là 2 trên trang chiếu 6 trong khi kích thước phông chữ của tất cả các hộp văn bản phải là 10 trên trang chiếu 11.
+Thay đổi hộp văn bản tên công ty trên slide 11 thành "Google"
+
+Thêm ghi chú "Có một cái bàn" trên các trang có một cái bàn.
+Di chuyển tất cả các hình ảnh để trượt trên cùng. Tạo các hộp văn bản được gạch dưới trên trang chiếu 0 và 1. ## 1, picture 0, slide, top
+Các tính năng chính phải là K1-K6 (điền vào các hộp văn bản điểm chính) trên slide 3.
+Thay đổi "12 triệu" thành "13 triệu" trên trang chiếu 5 và tạo ảnh có chiều cao 3 trên trang chiếu 1.
+
+Con số này phải là 00 trên trang chiếu 3. Lưu ý trang chiếu có "Đây là trang chiếu thứ ba".
+Di chuyển tất cả các hộp văn bản tới trang chiếu dưới cùng trong trang chiếu 0 và 1. ## 0, textbox 0, slide, bottom ## 0, textbox 1, slide, bottom ## 1, textbox 0, slide, bottom ## 1, textbox 1, slide, bottom ## 1, textbox 2, slide, bottom ## 1, textbox 3, slide, bottom
+Tôi muốn hộp văn bản thứ nhất, thứ hai có màu vàng, đỏ và nền trang chiếu có màu xanh lục trên trang chiếu 0.
+
+Làm cho ảnh trên trang chiếu 7 trượt lên trên và ảnh trên trang chiếu 8 trượt xuống dưới. ## 7, picture 0, slide, top ## 8, picture 0, slide, bottom
+Đặt kích thước phông chữ hộp văn bản đầu tiên là 4 trong khi kích thước thứ hai là 5 trên trang trình bày 3.
+Tạo ba hộp văn bản đầu tiên trên slide 0 lần lượt có màu vàng, đỏ, xanh lục.
+
+Tô màu tất cả các hộp văn bản thành màu xanh lá cây trên trang chiếu 4 và tô màu nền bằng màu vàng trên trang chiếu 3.
+Thay đổi "VIẾT CHỦ ĐỀ HOẶC Ý TƯỞNG CỦA BẠN" thành "SÁCH" trên slide 6.
+Thay đổi tất cả kích thước phông chữ thành 6 trên trang chiếu 2 và thành 7 trên trang chiếu 4. Di chuyển ảnh đầu tiên trên trang chiếu 4 xuống cuối trang chiếu. ## 4, picture 0, slide, bottom
+
+Tô màu trang chiếu đầu tiên bằng màu vàng và các hộp văn bản phải có màu phông chữ đỏ trên trang chiếu 0.
+Làm cho các hộp văn bản cũng như hình ảnh trượt sang trái trên trang chiếu thứ ba. ## 3, picture, slide, left ## 3, textbox 0, slide, left ## 3, textbox 1, slide, left ## 3, textbox 2, slide, left ## 3, textbox 3, slide, left ## 3, textbox 4, slide, left ## 3, textbox 5, slide, left ## 3, textbox 6, slide, left ## 3, textbox 7, slide, left ## 3, textbox 8, slide, left ## 3, textbox 9, slide, left ## 3, textbox 10, slide, left ## 3, textbox 11, slide, left ## 3, textbox 12, slide, left
+Chèn hình chữ nhật vào slide 2. Chèn hình tròn vào slide 3.
+
+Slide màu 3,4,5 lần lượt có màu xanh, vàng, đỏ.
+Tên thể loại có thể là "g1" và "g2" cho bảng ở cột đầu tiên trong trang chiếu 7. Ngoài ra, hãy điền vào bảng trong trang chiếu 7 bằng "g3" và "g4" ở cột thứ hai.
+Thêm ghi chú cho biết số trang (ví dụ: "0" cho trang chiếu 0) trên trang chiếu 0-5.
+
+Tạo phông chữ có kích thước 2 trên slide 10. Tạo phông chữ màu đỏ trên slide 11.
+Các hình ảnh nên ở phía bên trái của slide trên trang 9. ## 9, picture 0, slide, left
+Tạo nền màu xanh lục và phông chữ màu vàng trên slide 5.

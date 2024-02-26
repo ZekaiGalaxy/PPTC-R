@@ -1,0 +1,1897 @@
+Position the title element in the bottom corner and input "Human Assessment" as its content.## 0, title, slide, bottom corner
+Write the sentence "Generally, the translation is scored anonymously by multiple reviewers, and then the final score is given by combining the evaluation results of all reviewers"
+Include a table featuring two rows and two columns.
+Put "Advantages" and "Disadvantages" in the left two blanks. Insert "Accurately reflect the translation quality of sentences, the most authoritative, the highest credibility and "Long-term assessment" into the right two blanks.
+Configure the content to have a font size of 20 and select "Arial" as the font style.
+Put a coffee graphic on the left part of the slide.## 0, picture, slide, left
+Position the illustration on the right part of the slide.## 0, picture, slide, right
+Construct an original slide with the heading "Marking Standard" and add "Direct Assessment" and "Relative Ranking" to the body area.
+Adjust the title's font color to green and incorporate two bullet points.
+Change the font size of the title to 24 and that of the content to 20.
+
+Put a tower photo on the slide and drag it to the lowermost part.## 0, picture, slide, bottom
+Write "Contents" in the title and transfer it to a spot over the image.## 0, title, picture, top
+Produce a verdant rectangular object.
+Transform the color of the title to be identical to the color of the triangle.
+Update the title by altering its font size to 24.
+Update the title by switching the font style to "Arial" and enlarging the font size twofold.
+Emm, change the font style of the title into "Microsoft New Tai Lue".
+
+Select green as the background color for the slide.
+Generate a cloud contour and transfer it to the lower end of the slide.## 0, cloud, slide, bottom
+Add "You run so slowly" as the content's text.
+Include a photo of a rabbit and transfer it to the right-hand side of the slide.## 0, picture, slide, right
+Input the statement, "One day, there is a racing beween a rabbit and a turtle"
+Construct a unique slide that includes the statement "I will win one day." and transfer it to the uppermost portion.## 1, content, slide, top
+
+Put a picture illustrating study at the heart of the slide.## 0, picture, slide, center
+Build a square and transfer it to the central part of the slide.## 0, rectangle, slide, center
+Name the title "League of Legends" and add the text "League of Legends is a team-based game with over 140 champions to make epic plays with. Play now for free. Play For Free." to the content section.
+Apply "Times New Roman" as the font style and a 24-point font size for the title.
+Resize the picture to measure 6 inches in width and 5 inches in height.
+Pivot the image by about a 15-degree rotation.
+Produce a unique slide and embed an illustration of a youngster clutching a tome.
+Transfer the image to the core of the slide.## 1, picture, slide, center
+"How to perform better at school"
+
+Position a cloud on the left side.## 0, cloud, slide, left.
+Set a clock on the right side.## 0, picture, slide, right.
+Use a light blue tone for the background and name the slide "Artificial Intelligence"
+Insert the following content in the content part,"Artificial intelligence’s impact on society is widely debated. Many argue that AI improves the quality of everyday life by doing routine and even complicated tasks better than humans can, making life simpler, safer, and more efficient. "
+Transform the font color of the content to a gentle green tint.
+
+Construct a unique slide and insert a red header with the text "Schedule in March"
+Update the title's font size to 28 and switch the color to dark blue.
+Construct a table consisting of a single row and three columns, then input the phrases " study from 1st to 10th", "work from 11th to 20th", and "travel from 21st to 31st" into the first row.
+Update the title's font style to be "Arial"
+Include an illustration of a content boy and slide it to the right edge of the table.## 1, picture, table, right
+Select a blue color as the background for the slide.
+Configure the image to be 6.5 inches in width and 5 inches in height.
+The present background color isn't working well. Alter it to yellow, please.
+
+Construct an original slide and entitle it "The Benefits of Meditation"
+Add an image depicting a person in meditation and center it on the slide.## 1, picture, slide, center
+For the content segment, jot down "Meditation is a simple yet powerful technique that can help you achieve a state of inner peace and calmness."
+Modify the text by setting the font size to 24 and choosing a dark blue as the font color.
+Include a rectangle and situate it on the content's right side.## 1, rectangle, content, right
+Transform the color of the background to a gentle green tone.
+Develop a unique slide while preserving the same background and include the label "Types of Meditation"
+Update the title's font style to be "Arial"
+Position a table containing 2 columns and 3 rows.
+In the beginning column, make sure to list "Mindfulness Meditation", "Transcendental Meditation", and "Body Scan Meditation".
+
+Construct a unique slide and assign a green environment.
+Put a photo of a piece of grassland on the left segment of the slide.## 1, picture, slide, left.
+Update the image's measurements to a width of 6.5 inches and a height of 5.5 inches, and incorporate a slide heading that says "The Functions of Forests."
+Switch the font color to orange and resize the font to 40.
+Include an " arrow" shape and situate it at the top area of the slide.## 1, right_arrow, slide, top
+
+Generate a new slide and incorporate a table featuring two rows and two columns.
+Put "Type of Tree" and "Uses" on the top row. In the next two columns, write down "different types of trees" and "Different colors of leaves".
+Ensure the content contains the statement "Remember to plant a tree today!"
+Modify the font size of the content to 20, select a green font color, and underline the text.
+
+Construct five slides, each incorporating a yellow background.
+Commence the presentation with a slide featuring the "Happy Family" label and the "Microsoft JhengHei" font appearance.
+Position an image of a family on slide number two.
+Position a 2-column, 2-row table on slide number three.
+Input "Father", "Mother", "Grandfather", and "Children" into the table.
+
+Construct a slide and input the label "Business Plan".
+Put a light bulb illustration on the left segment of the slide.## 1, picture, slide, left
+Resize the image to be 3 inches in width and insert the text "Entrepreneurship is the process of designing, launching and running a new business, which is often initially a small business. The people who create these businesses are called entrepreneurs."
+Configure the content with a font size of 20 and a font color of green.
+Choose a dark blue tone for the slide's background color.
+Add a circular shape in red to the slide.
+Embed the subsequent content, "A business plan is a written document that describes in detail how a business, usually a new one, is going to achieve its goals. " into the assigned position.
+Update the font size for the slide to 18.
+Position a table with a structure of 3 rows and 4 columns.
+Add "Marketing Mix", "Target Market", "Price", and "Promotion" to the table's opening row.
+
+Construct a novel slide and set its background to a soft blue shade.
+Key in the following message: "Product branding is the development of a distinctive brand for a given product with the intention to reach a brand's target consumers. "
+Format the text with italics and a font size of 18.
+Position the content at the bottom area of the slide.## 1, content, slide, bottom
+Attach a photo of the Lancome logo on the upper part.## 1, picture, slide, top
+
+Construct a brand-new slide, label it "The essentials of large-scale modeling" and apply a 24-point font size.
+Update the title's font style to be "Arial"
+Position a two-column, one-row table.
+Add "Importance" to the foremost column, configure the font size as 18, and choose a light blue shade.
+Include a computer illustration and adjust its location to the slide's midpoint.## 1, picture, slide, center
+Insert "Large-scale modeling" into the content part of the document.
+Update the slide by setting the font size to 14 and choosing green for the color.
+
+On the left side of the slide, incorporate an image depicting a rough, imposing tower.## 0, picture, slide, left
+Set the slide title to "The Ultimate Heist"
+Apply the "Times New Roman" font style to the title and change its color to green.
+Build a triangle and position it on the right area of the slide.## 0, triangle, slide, right
+Use a light blue shade for the slide's background.
+
+Insert a table with three columns and three rows. Fill the table with "'purple', 'blue', 'light blue', 'dark blue', 'green', 'light green', 'dark green', 'yellow', 'light yellow'"
+Select green as the background color for the slide.
+Emm, I'm not fond of this color. Kindly alter it to a dark blue tint.
+Designate the title as "Types of Color" and incorporate a clock graphic.
+Construct a brand-new slide and set its background to the color yellow.
+Incorporate the next passage into the slide: "Speedwell, also called bird’s eye or gypsy weed, is a hardy perennial native to Europe. "
+
+Construct a slide with an illustration of a man and woman quarreling with one another.
+I suggest titling it "What Does Marriage Bring to Both Men and Women?"
+Produce a unique slide, embedding a picture of a woman garbed in a Japanese kimono and a distinct picture of an African married female with her youngsters.
+Place "Factors Determining Different Matrimonial Regimes" at the top as the title.
+Afterward, construct three extra slides and set their background to red.
+Advance to slide 2 and assign the title "Common Benefits of Marriage for Men and Women."
+Could you please underline the title and switch the font color to yellow?
+Add a photograph of a content family of three individuals at the heart of the slide.
+Put in three rectangular red figures.
+Produce a novel slide and entitle it "The Evolution of the Marriage Institution in China"
+Include a clock graphic and establish its width at 6.5.
+Transfer the clock to the left part of the slide.## 3, picture, slide, left
+Craft a unique slide labeled "Difficulties Faced by Women in the Globe." and place an image depicting a mother who devotes all her time to her family.
+Please set the height of the picture of a full-time mother 5 inches.
+
+Name the new slide "Neural Network" as its title.
+Incorporate the slide'Neural networks are a set of algorithms that mimic the function of a human brain. They are designed to recognize patterns, classify data, and make predictions.'s function. They are designed to recognize patterns, classify data, and make predictions.
+Transform the font size to 12 and the font color to orange, and concurrently change the background of the slide to red.
+
+Please designate the title as "Quotation Mark"
+Adjust the title to have a 24-point font size and include an underline.
+Place the content in the slide as follows: "The quotation marks symbol is a type of punctuationused for setting words and passages apart from the rest of the text."
+Set the font color to green and minimize the font size, considering it's too big at the moment.
+Incorporate a substantial quotation mark graphic and transfer it to the left segment of the slide.## 0, picture, slide, left
+I kindly request that you now establish a new slide, incorporating a blue background.
+Subsequently, attach a rectangle towards the right.## 1, rectangle, slide, right
+Incorporate a table having two rows along with one column.
+Populate the initial cell with '"How do you do?" said the gentleman.' and input "One of the most common uses of quotation marks is to indicate a direct quote, a passage that is copied verbatim from another source. " in the cell next to it.
+
+Please produce a fresh slide and apply a dark green background to it.
+It appears the title is missing. Can you include "Fields and Branches of Anthropology" and set the font size to 18?
+Keeping the font size consistent, I want to include the phrase, "There are two broad fields of anthropology."
+Absolutely, that's my intention. Please arrange the content with a right alignment.
+
+Please include an arrow on the slide's left side.
+Assign a width of 4.0 and a height of 3.0 to the arrow.
+Include this phrase, "Vast stretches of central Asia feel eerily uninhabited."
+Change the arrow's proportions to a 5.0 width and 4.0 height, and give it a 90-degree spin.
+Lastly, adjust the content to include double spacing.
+
+
+Assign "Education/Teaching/PPT Representation" as the title.
+Embed "The detrimental effect of global warming" in the content.
+Use dark blue as the font color for the title and purple for the content.
+Put in a rectangle that has the same color as the content.
+Relocate the rectangle to the slide's top-left part.## 0, rectangles, slide, left top
+Form a table with a structure of 4 columns and 2 rows, and insert the words "give", "gave", "giving", and "given" into the cells of the upper row.
+Update the font color of the content to be in harmony with the title's color for a consistent appearance.
+
+Modify the background by selecting the color orange.
+Position a feline image, ensuring it measures 5 inches in both width and height.
+Construct three further slides, maintaining a uniform orange background color throughout.
+Entitle the document with "DingTalk Information"
+Set up a table containing three rows along with five columns.
+Place "Download methods", "How to join organization", "How to find friends", "Advantages", and "Note" into the blank spaces of the opening row.
+Put a star on the right portion of the slide.## 3, star, slide, right
+Incorporate the ensuing statement into the content part: "forestall refers to prevent or hinder by doing something ahead of time"
+A blue background would be more fitting than the current orange one; please make the change.
+Ensure the content is aligned on the left.
+
+Draw an arrow pointing right and color it using yellow.
+Label the title aligned to the left as "Weekday in school"
+Apply a dark blue font color to the title, and format it with italics and an underline.
+Incorporate this definition into the content part: "forestall means to buy up (goods) in advance in order to increase the price when resold"
+Position a school badge illustration, sized as a 2.5 x 2.5 square.
+Construct a new slide and apply a green color for the background.
+Add the title "Note" to the slide, ensuring it is right-aligned.
+Transform the title by selecting a light green shade and changing the font size to 26.
+Put in three bullet points.
+Attach a note to the prior slide, mentioning "2023/4/9" and "2023/4/8"
+
+Include a star in the slide and situate it on the right portion.## 0, star, slide, right
+Paint the star's interior with a shade of blue.
+Put a red arrow on the left portion of the slide.## 0, arrow, slide, left
+Assign the name "Making Decision" to the slide.
+"The current global pandemic has disrupted our daily lives and reshaped the world in a way we could never have imagined. "
+Accentuate the content with an underline and configure the title's font size to 24.
+Ensure that both the title and content are displayed in the "Times New Roman" font style.
+
+Generate a group of five slides.
+The title part of each slide should be modified to include the following content in this order: "Introduction", "Development", "Assessment", "Analysis", and "Conclusion".
+For all slides, use yellow as the background color.
+Set the font style of "Introduction" on the first side to "Microsoft JhengHei".
+Incorporate a picture featuring a clock in the second slide.
+Place a bar chart on slide three that shows October, November, and December on the horizontal axis and 160, 170, and 130 on the vertical axis.
+Position a 3-column and 2-row table within the fourth slide.
+Position the content "toIPA", "Advantages", and "Disadvanges" within the top row.
+Ensure the font style is "Times New Roman" on the concluding slide.
+Position a cloud on the ultimate slide.
+On each slide, remember to feature "Created by Eva" in four separate formats as a note.
+
+Produce a round figure and paint it in a purple tone.
+Position a water bottle image and provide the caption "bottle" underneath.
+Position "QUALITY" as the title.
+Adjust the "QUALITY" text's color to red.
+Include a table featuring two rows and two columns.
+Place "Machine Assessment" " Human Assessment " "Automatic Assessment 1" and "Automatic Assessment 2" within each cell.
+Produce a unique slide labeled "Achievement" and confirm that the colors of the circles are harmonious.
+
+Please put together a novel slide and entitle it "Marketing Strategies for Q2"
+Select blue as the background color for the slide.
+Construct a unique slide and designate the title as "Increasing Sales and Brand Awareness."
+Please, would you be so kind as to alter the font size of the title to 60?
+For slide 2, please use a green background.
+Construct three further slides, with each one featuring the same green background.
+Nice work! Shift to slide number three and incorporate the label "Market Trends and Competitor Analysis"
+Attach an image showcasing a blue ocean.
+Can you please alter the picture's height and width to 4 and 5 respectively, and arrange it to the left of the title?## 2, picture, title, left
+That's spot on. Head over to the fourth slide and include the label "Our Mission and Values."
+Insert the content that states: "VISION.All people living long lives in full health.MISSION.IHME delivers to the world timely, relevant, and scientifically valid evidence to improve health policy and practice."
+It seems a little chaotic; experiment with setting the line spacing to 1.5.
+Not terrible, but it's recommended to tweak the font size of the content to 40 and transform the font style to "Times New Roman".
+
+Please design a new slide and incorporate a yellow background into it.
+With respect to the title, I'd appreciate your assistance in appending "Comparison of Education in China and America."
+Consider revising the title to "Explore the Differences and Similarities"
+Ohno, I'd prefer to adjust the title to "The Differences and Similarities"
+Please go ahead and construct five more slides now.
+Give all five new slides an identical yellow background.
+Advance to the second slide and incorporate the label "The Education Systems."
+Insert the content "Education in China is primarily managed by the state-run public education system, which falls under the Ministry of Education. All citizens must attend school for a minimum of nine years, known as nine-year compulsory education, which is funded by the government."
+Navigate to the upcoming slide and designate the heading "Different Teaching Styles and Methods."
+Designate the fourth slide'Teacher-Student Relationship.'s title as "Student Performance Assessment."
+Position a forest scene image on the fifth slide of the presentation.
+Insert the content "In 2014, Jonathan Kaiman of The Guardian wrote that Chinese parents and educators "see their own system as corrupt, dehumanizing, pressurized and unfair". he went on to discuss the country's college admission exam (called the gaokao), writing that "many parents consider the grueling nine-hour test a sorting mechanism that will determine the trajectory of their children's lives." and make sure it is underlined with quotation marks and set font color to red.
+Advance to the concluding slide, establish a table with a single row, and embed "Responsibility" into the table.
+
+Construct an original slide and place a visual representation of the DingTalk app.
+Designate the slide's title as "Introduction to ChatGPT" and apply a green color to the font.
+Create five supplementary slides, each with the title "Unleashing the Power of AI Language Models." and position the titles on the left side.
+Choose "Arial" as the new font style for the content.
+In the body section, include the following text - "ChatGPT is an artificial intelligence (AI) chatbot developed by OpenAI and released in November 2022. It is built on top of OpenAI's GPT-3.5 and GPT-4 families of large language models (LLMs) and has been fine-tuned (an approach to transfer learning) using both supervised and reinforcement learning techniques."
+Do make sure to alter the font size to 30 and set the line spacing at 2.
+Form a table with a single row and column, and place the statement "How to download DingTalk" in it.
+Well done. Shift to the upcoming slide.
+I'd appreciate it if you could add "Features and Limitations" as a centered title.
+Insert the content. "Although the core function of a chatbot is to mimic a human conversationalist, ChatGPT is versatile. It can write and debug computer programs, mimic the style of celebrity CEOs and write business pitches, compose music, teleplays, fairy tales and student essays, answer test questions (sometimes, depending on the test, at a level above the average human test-taker), write poetry and song lyrics, emulate a Linux system. simulate entire chat rooms, play games like tic-tac-toe and simulate an ATM."
+
+Construct a brand-new slide and configure a green background for it.
+Incorporate the phrase, "Life is too short to spend time with people who suck the happiness out of you. " and set the space to 1.5 times its usual size.
+Transform the font style of the content to Verdana and configure the font size to be 20.
+To finish, change the content's color to yellow and add an underline.
+
+Design a new slide with a blue background and incorporate the title "Machine Learning" into it.
+Incorporate the provided text into the content area: "Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it to learn for themselves."Machine learning is a subset of artificial intelligence (AI) that enables systems to automatically learn and improve from experience without explicit programming. The main focus of machine learning is on creating computer programs that can access data and learn independently."
+I kindly request you to raise the font size of the content to 20 and update the font style to Verdana.
+The font style should be changed. Replace it with "Times New Roman" and ensure the content is aligned to the right.
+Transform the title by applying a red font color and expanding its size to be twice as large as the content.
+As red is not an ideal choice, could you please update the title color to blue?
+It seems to be a great improvement. Place a picture pertaining to machine learning on the left side of the slide.## 1, picture, slide, left
+Establish the height and width of the object as 1.2.
+To finish, incorporate a green star.
+
+Generate a unique slide and append the label "Marketing Strategies"
+Format the following content areas with bullet points at the start of each: "Search Engine Optimization (SEO)", "Social Media Marketing (SMM)", "Email Marketing", "Content Marketing", and "Pay-Per-Click Advertising (PPC)".
+Incorporate a 1x1 image associated with marketing on the slide.
+Construct a pie chart using the given data: Apple (35%), Samsung (25%), Huawei (15%), Xiaomi (10%), and Other (15%) and place a table with two columns and two rows.
+Position "Marketing" as the title of the chart and enter "MT1", "MT2", "ST1", and "ST2" in the table.
+Reposition the content element to the lower end of the slide.##1, content, slide, bottom
+Make a slide and clone the pie chart.
+Please create a duplicate of the table immediately.
+
+Please construct a novel slide and include the label "Data Visualization"
+Insert a bar chart according to the data: horizontal " X" is New York,Los Angeles,Chicago,Houston and Phoenixand, while vertical "Y" is 8.4, 4.0, 2.7, 2.3 and 1.7. And move the chart to the left side of the slide.  ##1, bar chart, slide, left
+Type the statement "Data visualization is the presentation of data in a pictorial or graphical format. It enables decision-makers to see analytics presented visually, so they can grasp difficult concepts or identify new patterns." into a text box.
+Adjust the text box font color to be green.
+Move on to the subsequent slide and integrate the phrase, "This porridge is made by cooking glutinous rice, brown sugar, and eighteen kinds of dried fruits together. "
+
+Please put together a novel slide and designate the heading as "Laba Porridge"
+Integrate the given text into the content section: "Since I can remember, every year on the eighth day of the twelfth lunar month, my mother would cook Laba porridge for us. "
+Use a yellow font color and boldface the content.
+It's time to place a table with two rows and one column on the right slide.## 1, table, slide, right
+Insert "History into the first cell in the first row and "Modern" into the second row.
+Set the slide's color to a gentle red tint.
+
+Set the slide's background to a yellow shade.
+The present background is not satisfactory. Please establish a green background for this slide and the rest of them.
+That looks well-done. Can you please label the slide with the title "Big company"?
+Update the font size for the title to 28 and guide me in transforming the font style into "Futura".
+I'd appreciate it if you could add a table containing one row and two columns, and incorporate "Number" and "Employee names" in the appropriate cells.
+Position the company emblems on the slide.
+Transform the text color inside the table to a yellow shade.
+
+Please put together a new slide and assign the caption "Artificial Neural Networks"
+Place the provided text into the content section: "Artificial neural networks (ANNs) are computing systems inspired by the biological neural networks that constitute animal brains. Such systems learn to perform tasks by considering examples, generally without being programmed with any task-specific rules. ANNs are capable of learning and adapting to new inputs, which makes them useful for a wide range of applications, including image recognition, speech recognition, and natural language processing."
+It would be appreciated if you could increase the font size of the content to 24, as it is presently too small.
+Transform the content's font to "Calibri" and select a light orange tint as the background color for the slide.
+Place the content in the center while keeping the title aligned to the left.
+Update the slide's background color to blue.
+Position a graphic relevant to artificial neural networks within the slide.
+Resize the image so that its width is 5.5 inches.
+Position the illustration on the right part of the slide.## 1, picture, slide, right
+Form a table with a layout of two rows and three columns, and insert the numerals "1", "2", and "3" into the cells of the upper row.
+And insert "video games", "Switch", "TV series"  in the second row.
+
+Would you be so kind as to craft two new red slides for me?
+Assign the title "Challenges" to slide 0 and change the title's font style to "Calibri"
+Include the following sentence within the content part of the first slide: "The challenges of implementing AI in the workplace include the lack of expertise, cost, and resistance to change."
+Transform the content's typeface color to a green hue.
+Switch to the second slide, incorporate an AI-relevant photo, and ensure it is centered on the slide.## 1, picture, slide, center
+
+
+Please establish a novel slide and incorporate the label "Introduction"
+The content section should contain the following text: "Welcome to my presentation on the history of video games. Video games have come a long way since the first electronic game was invented in the 1950s. Today, video games are a multibillion-dollar industry that is enjoyed by people all over the world."
+Incorporate an illustration of the pioneering electronic game into the slide.
+Locate the image on the right lower part of the slide.##1, picture, slide, right bottom
+Apply a blue font color to the title text.
+Position a text box within the slide and enter the text: "Presented by John Smith"
+
+Please put together a new slide and title it "Neural Networks"
+Please add the following text to the content section: "Neural networks are a set of algorithms that mimic the functioning of the human brain. They are used for a variety of applications such as image recognition, speech recognition, and natural language processing."
+Transform the content's font style, choosing Arial.
+Add a green triangle and transfer it to the leftmost corner.##1, triangle, slide, left corner
+Incorporate a graphic of a neural network within the slide.
+Establish the height and width values at 1.2.
+Produce a new slide and incorporate a blue arrow on the right portion.## 2, right arrow, slide, right
+Add a line chart. The horizontal " X" is January,February,March,April. The vertical "Y" is 120,140,110 and 90.Give it the title, "Chatgpt"
+Position a text box that includes the name of a popular neural network library like TensorFlow, PyTorch, or Keras.
+Transform the title font color to blue, and switch the slide background color to a gentle blue tone.
+
+Incorporate this text into the content part: "The dictionary can be used to find word meanings, and pronunciations, spellings, and look up new words."
+Produce one circle positioned above the portion containing the content.## 0, circle, content, top
+Set the "noun phrase" into the circle.
+Adjust the content's font color to red and choose the "Impact" font style.
+
+It would be great if you could design 3 new slides labeled "Introduction", "Methodology", and "Results".
+In the "Introduction" slide, insert the following text into the content part: "This presentation will introduce our research project and explain its importance." In the "Methodology" slide, insert the following text into the content part: "Our research methodology involved collecting data from various sources and using statistical analysis to draw conclusions."
+Shift the text to align with the left margin.
+Apply a light blue color as the background for all the slides.
+Append a 6.5-inch high graph visual to the slide labeled "Results"
+Ensure a note featuring the date 2022/1/1 is present on all slides.
+
+Please produce two new slides, naming them "Product Overview" and "Features" respectively.
+Position a photo of the product on the "Product Overview" slide.
+Put the text "Our product is designed to meet the needs of our target market by providing a simple and efficient solution to their problem." into the content section.
+In the "Features" slide, embed a table that has 5 rows and 2 columns.
+Input "DingTalk" into the last cell.
+Set the "DingTalk" font style to "Times New Roman"
+Append a note stating the time as 12:00 PM on all slides.
+
+Construct a novel slide, and apply the centered heading "Sales Report" to the first slide.
+Generate a pie chart that represents the following values: Product A with 120, Product B with 220, and Product C with 180.
+Update the title's font size to 28.
+Affix the corporate logo image to the slide's upper right-hand corner.
+Include the statement "This report shows the sales performance of our products in the first quarter of 2023." in the content section.
+Update the font style for the text to be "Times New Roman"
+The content should align in the same way with the title.
+
+Generate a unique slide and append the label "Marketing Strategies"
+Choose "Calibri" as the title's font style and make the font size 36.
+Embed a graphic featuring a marketing campaign in the content segment.
+Pivot the illustration 45 degrees and set it in line with the right border.## 1, picture, slide, right
+Construct an original slide and place the label "Powerful MT"
+Choose "Arial" as the font style for the title and increase the font size to 24.
+Generate a new text box below the subtitle, and add bullet points to it with the text "SEO", "Email Marketing", and "PPC".
+Select blue as the background color.
+Develop a bar chart utilizing the specified data (itemA 27, itemB 30, itemC 29) and transfer it to the left part of the slide.##1, bar chart, slide, left
+Adjust the chart title to present "Marketing Budget"
+Incorporate a table featuring 2 columns and 4 rows.
+Incorporate the next elements into the table: "Date", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday".
+Transfer the table to the area on the right of the chart.##1, table, chart, right
+
+Construct a brand-new slide and incorporate a yellow background.
+Append the label "Evaluation Metrics"
+Incorporate a table with a structure of 3 rows and 2 columns.
+Incorporate "Metric" and "Formula" into the first row, "Accuracy" and "(TP+TN)/(TP+TN+FP+FN)" into the second row, and "Precision" and "TP/(TP+FP)" into the third row.
+Draw a line chart that shows October, November, and December on the X-axis and 160, 170, and 130 on the Y-axis. Provide the title "Time Machine" for the chart.
+Append a bar chart using the same dataset.
+
+Produce a novel slide and append the label "Data Visualization"
+Utilize the given information to create a bar chart that displays "Eye", "Hand", "Leg", and "Knee" on the X-axis and 60, 70, 80, and 90 on the Y-axis.
+Set the chart's dimensions to be 4 inches wide and 4 inches tall.
+Append the label "Sales by Region" to the chart.
+Incorporate a green arrow into the slide.
+
+Construct a unique slide and append the label "Marketing Campaign"
+Attach a picture of the product adjacent to the right edge of the content portion.## 1, picture, content, right
+Configure the image width to measure 5 inches.
+Incorporate the provided content into the content part: "European language family that is closely related to the Frisian, German, and Dutch (in Belgium called Flemish) languages."
+Put a red circle on the slide's lower right side.## 1, circle, slide, bottom right
+Make the background green in color.
+Update the slide's background to a gentle blue color.
+Develop a novel slide and assign it the name "Sales Data"
+Incorporate a 4-column, 1-row table into the content.
+Add the following information to the table: the salesperson's name, the sum of sales, the rate of commission, and the total commission amount.
+Navigate to the upcoming slide and replicate the background color from the preceding slide.
+
+Establish a unique slide, input the label "Sales Report" and change the title's font size to 25.
+Incorporate the next statement into the content part: "Here is the quarterly sales report for our company:"
+Configure the font size to 16, and convert the color to purple.
+Position an 8x5 rectangular figure on the slide.
+Adjust the slide's background hue to green.
+
+Please create a new slide and add the title "Artificial Neural Networks
+Incorporate the text "Artificial neural networks (ANNs) are computing systems that are inspired by, but not identical to, biological neural networks that constitute animal brains. Such systems learn to perform tasks by considering examples, generally without being programmed with task-specific rules." into the content.
+Modify the font size of the content to 24 and switch to the "Arial" font style.
+Alter the color of the title's font to purple.
+Put a brain image on the slide and set its width to 6.5.
+Pivot the image to the right by 90 degrees.
+Establish a new text box and inscribe "Applications of ANNs" in the space provided.
+For the title, increase the font size to 36 and change the font style to Calibri.
+Incorporate a table containing two rows and just one column.
+Incorporate "Image recognition" and "Natural language processing" within the table provided.
+
+Entitle it as "Machine Translation Quality Assessment"
+Append a note directly underneath the "Reporter: Eva." heading.## 0, textbox, title, bottom
+Configure the title to have a font size of 66.
+Make the background blue and the text red in color.
+That doesn't appear to be correct. Transform the background color to red and revise the font color to blue.
+
+Please establish a novel slide, incorporating the label "Neural Networks"
+Incorporate the given text into the content area: "Neural networks are a set of algorithms that mimic the function of a human brain. They are designed to recognize patterns, classify data, and make predictions."
+It would be appreciated if you could increase the font size of the content to 24, as it is presently too small.
+Subsequently, update the content's font style to Arial and set the alignment to the center.
+Apply a blue font color to the title text.
+Blue isn't the best choice; could you please update the title color to green?
+Position a brain image on the slide, configuring its height and width to be 1.5.
+Insert  "The human brain inspired the development of neural networks" in the content.
+At the end, add a remark about the neural network structure that is widely utilized, for example, the convolutional neural network (CNN) or the recurrent neural network (RNN).
+Transition to the upcoming slide and transform the background tint for both slides to a yellow tone.
+
+Please produce a new slide with the title "Personal Finance" and make sure the note is the same as the title.
+Modify the title by underlining it and setting its font size to 24.
+Incorporate the following statement into the content section: "Personal finance encompasses the whole universe of managing individual and family finances, taking responsibility for your current and future financial situation, and setting financial goals. It also includes handling individual financial tasks and saving for emergencies."
+Yes, now adjust the font color to orange.
+Attach an illustration of a corporate finance book.
+Change the width of the photo to 6.5 inches.
+Indeed, go ahead and change the background of this slide to blue.
+Stop! The blue isn't working well, alter the background color to a soft blue.
+Add two new slides, and ensure that the light blue background remains consistent throughout all slides.
+On slide two, insert a table featuring one row and two columns.
+
+"Welcome to the Microsoft Update Catalog site. "
+Transform the font color of the content to orange and switch the slide backdrop to dark blue.
+Include a computer illustration and transfer it to the lower part of the slide.## 0, picture, slide, bottom
+It seems a bit off. Transfer the picture to the left-hand side of the slide.## 0, picture, slide, left
+To begin, construct a table with two rows and four columns. Then, add "Basic concepts", "Origin", "Categories", and "Development" to the first row.
+Construct a brand-new slide and place a ruby-red star on it.
+Add a pie chart depicting the Q1, Q2, and Q3 data, and then transfer the star to the bottom corner of the chart.## 1, star, pie chart, bottom corner
+Adjust the chart to cover a 10*10 area.
+
+Construct a novel slide and set the background color to blue.
+Please incorporate the title "Introduction" into the text.
+And insert the words into the content: "People Plus Money equates to personal finance."
+Format the text with italics and underlining.
+Adjust the font color of the content to be green.
+Include a visual of a person grasping banknotes and relocate it to the lower edge corner.## 1, picture, slide, bottom corner
+Change the image size to have an 8-inch width and a 7-inch height.
+It would be great if you could craft a novel slide and input the expression: "Money is not everything, but no money is impossible"
+Transform the font style to "Futura" and change the color to blue.
+Blue doesn't work as well; choosing purple would yield better results.
+Produce a pie chart with the data set 1, 2, 3, 4, and 5, and transfer it to the right-hand side of the content.## 2, pie chart, content, right
+Assign the title "The effects of the money" to the slide
+
+Please produce a fresh slide and label it as "The difference between personal and corporate finance"
+Subsequently, embed a table featuring two rows and three columns.
+Put a company emblem image on the left area of the table.## 1, picture, table, left
+The table you need to insert should contain "Borderlands 2", "Divinity: Original Sin 2", "Final Fantasy VII", "Assassin's Creed IV: Black Flag", "Mega Man 3", "Mega Man 3" as its contents.
+Introduce a cloud and relocate it to the right part of the table.## 1, cloud, table, right
+Then, append a "2023/4/23" comment to the present slide.
+
+Select orange as the background color for the slide.
+Construct a novel slide maintaining the same backdrop, and embed the label: "Bridget Fonda"
+Use italics for the title and establish a font size of 18.
+Affix a Bridget Fonda photograph to the right upper corner.## 1, picture, slide, top right
+Change the image size to have an 8-inch width and a 7-inch height.
+Of course, initiate the creation of an additional slide.
+I would like you to add the content: "Born in Los Angeles, Bridget Fonda comes from a respected acting family, which includes Henry Fonda, Peter Fonda and Jane Fonda. She became involved with the theatre after appearing in a school production of Harvey, and later having a silent role in Partners. In 1988, she appeared in Scandal, her first speaking role, having a few small roles afterwards. "
+emmm, the font size of content is too big, please make its size to 12. and italicize the content
+Label the slide with the title "Movie List"
+Form a three-row, three-column table and populate it with the consecutive numbers from 1 to 9.
+Transfer the table to the right area of the slide.##1, table, slide, right
+
+Construct a brand-new slide.
+"Ghost Bear" (underlined): Implement the ensuing directive, conveyed uniquely.
+Incorporate the subject matter " The Rarest Bear You've Probably Never Heard Of"
+Can you incorporate a photograph of Ghost Bear?
+Switch the font style to "Arial" and change the font size to 20.
+Transfer the photo towards the right section of the content.## 1, photo, content, right
+Construct a new slide, embedding a treemap that features bear data.
+Relocate the treemap to the central area.## 2, treemap, slide, center
+Configure the picture to have a width of 4 inches.
+"When I was famished for Dungeons and Dragons, Divinity: Original Sin 2 filled that void for me."
+Entitle it "My Favorite Game"
+Immediately establish a table featuring two rows and two columns.
+Incorporate "SMS", "WeChat", "QQ", and "DingTalk" into the table as data.
+
+Produce a brand-new slide and establish a blue setting for it.
+Put a graphic of the universe in the left bottom corner.## 1, picture, slide, bottom left
+Modify the picture to have a width of 6.5 inches and a height that is equal to twice the width.
+Write the following sentence in the content section: "It can be said that I am a bit picky. I don't like too sweet food, such as candy, chocolate and so on"
+Assign the title "My favorite food" to the slide
+Update the color of the title and content to be yellow.
+Underline the title and update the font size of the title to 24, as well as adjusting the content's font size to 22.
+Introduce a cloud to the picture and relocate it to the right part of the image.## 1, cloud, picture, right
+
+Apply an underline to the title "Idol"
+Put in a red rectangle and relocate it to the bottom part of the title.## 0, rectangle, title, bottom
+Include this content with left alignment: "I want you! (I want you!) I need you! (I need you!)I love you! (I love you!)"
+In order to make the text more striking, modify the font size to 24.
+No, could you please set the font size to be twice its current size?
+Please incorporate an AKB48 image.
+Modify the picture's size to be 6.5 inches in height and double that for its width.
+Construct a table with one column and two rows, and incorporate the statement "An idol’s time is short. There’s always a new fresh face and they rarely stray from the doll-like status quo." into the table.
+Transform the font color to blue and change the font style to "Futura"
+Position "The epic journey of idols, from Sylvie Vartan to idols who sell out stadiums, begs the question: What’s next for idols and the culture they sparked off?" in the second cell.
+Incorporate a note marked "2023/05/17" to the file.
+
+Set the "CONTENTS" at the core of the slide.
+Ensure that the Background, Assessment Missions, Model, and Applications items are numbered and arranged in a row under the "CONTENTS" section.
+Update the "CONTENTS" with a font size of 80 and a green color.
+Add an underline to the content and modify the font style to "Pecita".
+
+Use an orange color for the slide's background and insert the title, "Best Software"
+Modify the title by setting its font size to 24 and applying an italic style.
+Embed the provided content: "You want powerful software? You don't have to pay for it. Everything you need to be productive and secure on your PC is on this list, and it's all totally free."
+Adjust the content's text color to be yellow.
+Please update the background color to dark blue, since the current one is not ideal.
+Modify the text by underlining it and using the "Arial" font style.
+Attach an arrow to the lower part of the slide and relocate it as needed.## 0, arrow, slide, bottom
+Subsequently, place a note stating "2023/4/25" within this slide.
+
+I'd appreciate it if you could create a slide with the title "Jay Chou"
+Provide a brief overview of Jay Chou's background by saying, "Jay Chou is a Taiwanese musician, singer-songwriter, multi-instrumentalist, actor and director. "
+Construct an original slide and assign the name "Mojito"
+Apply a font size of 20 to the title and include an underline.
+I'd appreciate it if you could make the font size twice as big.
+please insert the content: ""Mojito" was well-received by the general public from the international community. Cuban sunshine, tropical shirts, antique cars and lively beats make the song not only a catchy earworm but also a great visual delight."
+Transform the font style to "Futura" and revise the background color to green.
+Next, position an illustration of the song's cover on the right-hand portion.## 2, picture, slide, right
+
+Assign the name "My college life" to the slide.
+Incorporate a picture featuring a teammate into the slide, with the inscription "college"
+I aim to put in the topic, " craze of studying abroad among college students"
+Modify the font color of the content to red and underline the words.
+Modify the content to have a "Futura" font style and configure the title to have a font size of 22.
+Good, continue by setting the content alignment to the left.
+Put in a table that has one row and three columns.
+Input "First Grade", "Second Grade", and "Third Grade" in the table.
+Okay, generate a unique slide and embed the text: "Michelle Obama's Speech in Peking University"
+Put the Peking University logo on the slide and relocate it to the upper right-hand side.## 1, picture, slide, right top
+Configure the logo to have a 6.5-inch height.
+
+Construct a unique slide and entitle it "Learning Python"
+Format the title with italics, increase the font size to 26, and select the "Times New Roman" font style.
+Select green as the background color.
+I'd appreciate it if you could generate two new slides and keep the background consistent across all slides.
+Generate a rectangle and transfer it to the lower edge of slide2.## 2, rectangles, slide, bottom
+Position a table with a solitary row and column.
+Add "Examples are not given, please fill the table" to the table.
+
+Construct a new slide with a green setting and insert the caption "Machine Translation"
+Place the following text in the content section: "Machine translation is the use of computer technology to translate text from one language to another."
+The font size for the content appears too small; would you mind increasing it to 20?
+No, make it twice as much.
+The font color is not satisfactory. Update it to green and ensure the content is aligned to the right.
+It comes across as a notable amelioration. Insert an illustration of the Trados symbol.
+Modify the object's height and width to be 2 inches each.
+Transfer the picture to the lower end of the slide.## 1, picture, slide, bottom
+Introduce a rectangle into the image and transfer it to the right part of the picture.## 1, rectangle, picture, right
+
+Incorporate the title and the note marked as "Background"
+Add the content, "The requirements to understand the translation quality of the translation machine" and include the sentence, "Focus on the reliability of each date point."
+Develop a cloud in the lower part, ensuring its width is set to 6.5 inches.## 0, cloud, slide, bottom
+Please make the title size 30 and content size 20. Italic the font in the content.
+
+Draw a circle on the left and apply a green color to it.## 0, circle, slide, left
+Modify the circle's proportions by assigning a width and height of 10.
+Integrate the "Feature Learning Module" and "Quality Assessment Module" throughout the content.
+Set the slide's name to "Basic framework"
+Append the "2023/4" note and the circle to this file.
+
+Designate the title as "Payroll in March" and apply a green hue to it.
+Assemble a table containing a solitary row and a set of three columns.
+Position "Employee ID", "Amount", and "Note" sequentially in the initial row.
+Add the information under the table, "The exployee shall provide his/her bank iD and identification card." ## 0, textbox, table, bottom
+Put a visual representation of the company's identity in the slide and situate it in the top right area.##0, picture, slide, right corner
+Generate a unique slide and ensure the background is yellow.
+Designate the title as "Chapter 2" and fill in the content with "The Employee Bonus".
+Use italics for the title, modify the font size to 44, and preserve the title color uniformity on all slides.
+Update the content with Verdana as the font style and a less intense color.
+Append a "2023/4" comment to the present slide.
+
+Construct a new slide, assign the caption "The features of deep learning" and facilitate underlining the title for emphasis.
+Apply a font size of 26 and a light blue color to the title.
+Put in a small sphere-like form.
+Incorporate the following text into the content part: "Deep learning is a machine learning technique that teaches computers to do what comes naturally to humans."
+set the font style of the content as "Arial'.
+Put a triangle on the left.## 1, triangle, slide, left
+Transfer the triangle to the area on the right of the text.## 1, triangle, text, right
+Transform the triangle by applying a red color and a width of 5.
+Produce a three-item bullet point list, with each point featuring the days "Sunday", "Monday", and "Tuesday".
+Navigate to the upcoming slide and apply a yellow tint to it.
+Use "Neutral Networks" for both the title and note, and emphasize the title by underlining and italicizing it.
+
+Make sure the slide title is "The History of Art"
+Transform the title by using Times New Roman as the font and making it stand out with bold text.
+Kindly type in: "Art is a diverse range of human activities in creating visual, auditory or performing artifacts, expressing the author's imaginative, conceptual ideas, or technical skill, intended to be appreciated primarily for their beauty or emotional power."
+Transform the text by choosing Arial as the font and turning it into italics.
+Add a bullet point on the slide.
+Note down the following artistic forms: painting, sculpture, architecture, music, and literature.
+Acquire a photo of the "Mona Lisa" and put it on the lower part.## 0, picture, slide, bottom
+Place the graphic at the top corner of the slide.## 0, picture, slide, top corner
+Make a notation with the phrase "Mona Lisa by Leonardo da Vinci"
+
+Locate a yellow star shape within the menu and place it on the slide.
+Entitle the slide "Stars" and configure the title's font size to be 24.
+Position the words "Welcome to the Starry Night" inside the content part.
+Obtain a visual representation of the universe and add it underneath the content.## 0, picture, content, bottom
+Add a note that say "Shining Star, Bright Star, Glimmering Star" to the slide. Change the title to note.
+
+Please put together a new slide with the title "Customer Feedback"
+Incorporate a picture of a cheerful patron and relocate it to the lower end of the slide.## 1, picture, slide, bottom
+Update the title with red color and showcase "Our Customers Love Us!"
+Place "!!" at the termination of the title.
+Add "Customer Reviews" to the content section.
+Configure the content to have a "Times New Roman" font style and a green font color.
+Adjust the slide title to display the appropriate color.
+It appears off. Update the background color to be in harmony with the content color.
+
+Please put together a new slide with the title "Marketing Plan"
+Insert "Introduction" into the title field, apply an underline, and adjust the font to Calibri.
+Afterward, put a representation of the firm's logo at the left-hand corner at the bottom.## 1, picture, slide, bottom left
+Configure the picture to be 5 inches wide and 3 inches tall, and afterward, relocate it to the right side.## 1, picture, slide, right
+Construct a table having two columns designated as Category and Information, as well as two rows including Age and 25.
+Develop a unique slide and incorporate a blue scene.
+Entitle the slide "Mobile brands"
+Construct a line chart with X-axis categories of Huawei, Apple, and Xiaomi, and Y-axis data points at 120, 140, and 150.
+Assign the name "Sales in April" to the chart.
+
+It would be great if you could produce a slide with the title "Q2 Financial Report".
+Choose Arial as the font style for the title and resize the font to 20.
+Generate a table featuring one row and three columns, and input the subsequent data: "Metric", "Q2", "Q3".
+Include a visual representation of a financial report and transfer it to the top part of the table.## 1, picture, table, top
+Embed the given text: "The Q2 financial report showcases strong revenue growth and improved profitability, driven by successful cost optimization measures and increased market demand for our products and services."
+Use bold and italic text effects on the content.
+Position a bullet point inside the content.
+Adjust the slide's backdrop color to a gentle blue tint.
+
+Construct a brand-new slide and set its background to a green shade.
+Formulate the label: Feminism
+Use the background color for the title font and establish a font size of 26.
+Incorporate the ensuing content, "Feminism is the belief and pursuit of equal rights, power, and opportunities for women, parallel to those of men."
+Apply the same font color as the title to the content and italicize the content text.
+Produce a new slide with the heading " 3rd Wave of Feminism Movement" and keep the color consistent with the prior slide.
+Bolden the title, switch the font to "Times New Roman", color it blue, and resize the font to 28.
+Incorporate a picture illustrating a war and relocate it to the lowermost part of the slide.## 2, picture, slide, bottom
+Generate a pie chart to exhibit the subsequent data: 40% for the US, 30% for Russia, and 30% for France.
+Insert a table with three rows and two columns. The first row inserts Location, Various cities around the world.
+
+Please put together a new slide with the title "Product Launch"
+Incorporate the content mentioning "Objective" and add a note with the same message.
+Add an underline to the content and transform its font to the Times New Roman style.
+Add an illustration of an Apple Pencil to the left bottom section.## 1, picture, slide, left bottom
+Transfer the picture to the slide's upper right portion.## 1, picture, slide, right top
+
+It would be great if you could designate the slide as "Team Progress"
+Position "Objective" in the content part.
+Input the accompanying content: "The aim of the organization is to promote the youth and marginalized groups of this generation through the mentoring of experienced freelancers."
+Increase the font size of the content to 18 and add an underline to the text.
+Put a team group's image on the right-hand side.## 0, picture, content, right
+
+Label the slide with "The Power of Innovation" as its title.
+Select Arial for the title's font style and emphasize it with bold.
+Integrate the given content, "In today's rapidly changing world, innovation plays a crucial role in driving economic growth, shaping political landscapes, and transforming cultural norms. It fuels progress, fosters competitiveness, and opens new possibilities for individuals and societies."
+Update the content color to dark blue and ensure it has double spacing.
+Include a visual of a forward-thinking cityscape that conveys the ideas of innovation and progress on the left part of the slide.## 0, picture, slide, left
+Put a petite rectangle on the right area of the slide.## 0, rectangle, slide, right
+Apply a new color to the background of the content.
+Produce a unique slide and embed the message, " It operates without rationality, disregarding societal morals and external standards. "
+Format the content with bold and underline, and assign the name "Fairy Tales" to the slide.
+
+Label the title with: Urban Living
+Select light blue for the background color.
+Form a table of three rows and two columns, and in the second column, input the terms "Quantity" "Quality" and "Level"
+Incorporate a triangle and a rectangle onto the slide, arranging the triangle to be on top of the rectangle.## 0, triangle, rectangle, top
+Transfer the triangle to the lower section of the rectangle.## 0, triangle, rectangle, bottom
+Put a photograph of Shanghai on the slide, specifically in the left bottom corner.## 0, picture, slide, left bottom
+
+Incorporate a table featuring four rows and six columns.
+Input Year, Friends, Breaking Bad, Game of Thrones, Stranger Things, and The Crown on the top row.
+Put a star onto the slide.
+Put an image featuring Friends directly rightward of the star.## 0, picture, star, right
+Relocate the star to the top part of the graphic.## 0, star, picture, top
+Label the slide "TV series" and emphasize the title by using both italic and underline formatting.
+Include a note stating "2023-2025" on the slide.
+
+Include a triangle turned at a 45-degree angle.
+Put a rectangle adjacent to its right.## 0, rectangle, triangle, right
+Put a star next to the rectangle on the right-hand side.## 0, star, rectangle, right
+Put a circle adjacent to the star on its right.## 0, circle, star, right
+To the right of the circle, put a callout rotated by -45 degrees.## 0, callout, circle, right
+Attach "shapes" to all existing elements.
+
+Attach an illustration of a globe.
+Designate the slide as "Global Expansion Strategy"
+Relocate the picture to the slide's top-left part.## 0, picture, slide, left top
+Incorporate the designated words, "Peace and Love"
+
+Generate a pie chart that showcases the subsequent data: Shanghai with 40%, Beijing with 45%, and Others with 5%.
+Set the slide's name to "Contribution"
+insert the following content, "Beijing's annual gross domestic product exceeded 4 trillion yuan ($630 billion) for the first time in 2021"
+Transform the font style of the content into Arial.
+Generate a line chart that represents the data as follows: 2016 at 6.7%, 2017 at 6.9%, 2018 at 6.6%, 2019 at 6.1%, 2020 at 2.3%, and 2021 at 8.1%.
+Designate the slide with the name "GDP Growth".
+Generate a bar chart that includes the subsequent data: 6.5% in 2022, 6.3% in 2023, 6.1% in 2024, 5.9% in 2025, 5.7% in 2026, and 5.5% in 2027.
+
+Please put together a new slide with the title "Marketing Plan"
+Make the slide's background color red.
+It would be great if you could position the company's logo image right before the title.## 0, picture, title, top
+Please ensure the picture has a width of 3 inches.
+
+Include the title "Queencard" as directed.
+Set the title in italics and bold, and change its font color to a purple shade.
+Choose a gentle blue color for the slide's background.
+Attach a photo of a poker next to the title on the right-hand side.## 1, picture, title, right
+Place the graphic at the uppermost corner of the presentation slide.## 0, picture, slide, top corner
+Create a circle and transfer it to the slide's rightmost corner.## 0, circle, slide, right corner
+Modify the circle's proportions to be 6 inches wide and 4 inches tall.
+Construct a unique slide and designate it with the title "King"
+Incorporate a photo of a King into the suitable slide.## 1, picture, slide, right
+
+Please put together a new slide and entitle it "Project Timeline"
+Set up a table with one row divided into four columns.
+Include Jan, Feb, Mar, and April within the table.
+Insert "e.g., "Software launch", "Marketing campaign begins""into the slide,
+Set an illustration of the project team underneath the table.## 1, picture, table, bottom
+Add an arrow shape, then relocate it to the left part of the picture.## 1, arrow, picture, left
+Configure the arrow to have equal dimensions of 3 inches for both height and width.
+
+Generate a pie chart that showcases the distribution of 40% Female and 60% Male.
+Designate "Class 1" as the title for the pie chart.
+Incorporate a visual representation of a group of students joining forces in their work.
+Introduce a rectangle to the slide and relocate it to the bottom area of the pie chart.## 0, rectangle, pie chart, bottom
+Set the slide's name to "Grade 1"
+Input the subsequent material: "the following shows the gender percentage in each class"
+Add an underline to the content and change the font size to 20.
+Add a "Principle：Eva" notation to the slide.
+Generate a slide and clone the chart.
+Produce a reproduction of the picture.
+Produce an identical version of the rectangle.
+
+It would be great if you could design a slide with the title "Customer Testimonials".
+Incorporate "What our customers are saying about us" into the content, and accentuate it by making the text bold and italicized.
+Include an image of a joyful patron.
+Generate a triangle and paint it using a purple tone.
+Transfer the triangle to the right area of the slide.## 1, triangle, slide, right
+
+Please put together a new slide and entitle it "Strategy"
+Insert "Our marketing strategy is based on the 4 Ps: Product, Price, Place, and Promotion." within the content part.
+Update the content by increasing the font size to 20pt, implementing double spacing, adding an underline to the title, and making the content bold.
+Use red as the font color for the title and content.
+Include a rectangle pattern and slide it to the left part of the presentation.## 1, rectangle, slide, left
+Attach an illustration of the Apple company's insignia next to the right border of the rectangle.## 1, picture, rectangle, right
+Transfer the graphic to the uppermost section of the rectangular area.## 1, picture, rectangle, top
+
+Entitle the slide "Fans" and switch the typeface to Arial, increasing the size to 24pt.
+Insert a bullet point list containing: "Benefits of our product", "Target market", "Pricing strategy", "Marketing channels".
+Include a picture featuring an idol and modify its height to measure 6.5 inches.
+Transfer the picture to the lower end of the slide.## 0, picture, slide, bottom
+Position a rectangle on the upper side of the slide.## 0, rectangle, slide, top
+Add the text "Presenter：Eva" as a note to the slide.
+
+Please put together a new slide with the title "Sales Figures"
+Place a bar chart featuring the data "January：20, Feburuary： 30" towards the left section of the slide.
+Add a line chart with data "January：10, Feburuary： 15" on the right side of the slide.
+Set the line chart's title to "Sales by Month".
+Generate a rectangle and transfer it to the uppermost section of the slide.## 1, rectangle, slide, top
+In the content part, insert "Our revenue has also been increasing steadily over the past 6 months"
+
+Please produce a new slide, incorporating the title "Sales Report" into it.
+Incorporate a table composed of two rows and five columns.
+Append the next data points to the table: "Product", "Units Sold", "Revenue", "Expenses", and "Profit".
+Incorporate this data into the table: "Computer", "1000", "$1000000", "$500000", "$500000".
+Form a different 1x5 table that includes the information: "Printer", "500", "$100000", "$50000", "$50000".
+
+Put a city skyline illustration at the topmost part.## 0, picture, slide, top
+Change the picture measurements to a 6-inch width and a 4-inch height.
+Moving forward, append the title "City Life"
+Transfer the picture to the slide's leftmost corner.## 0, picture, slide, left corner
+Update the title by altering its font size to 20 and making the text bold.
+
+Generate a line chart that displays the following information: Concert (40%), Album (30%), and Book (30%).
+Entitle the slide as "The Power of Fandom"
+Insert "Fans play a vital role in shaping the success and impact of various forms of entertainment, from movies and TV shows to sports and music. "into the content part,
+Select Arial as the font style for the content and increase the font size to 20.
+Put an arrow on the slide and slide it to the top portion of the slide.## 0, arrow, slide, top
+Draw a circle on the slide and transfer it to the lowermost section of the slide.## 0, circle, slide, bottom
+Shift to the peak.## 0, circle, slide, top
+
+Choose the "Tencent" theme for the slide.
+Draw a rectangle on the slide and move it towards the top section.## 0, rectangle, slide, top
+Adjust the rectangle's position by rotating it 90 degrees.
+Transform the title by choosing the Georgia typeface and making it italicized.
+Incorporate the given text into the content part: "Tencent is a leading Chinese multinational conglomerate founded in 1998. It specializes in various internet-related services and products, including social media, online gaming, e-commerce, cloud computing, and artificial intelligence."
+For better clarity, resize the content's font to 24 and select "Arial" as the font style.
+
+To adhere to Tencent's branding guidelines, incorporate a green background into the slide.
+Embed the Tencent logo as a picture on the slide.
+Configure the image dimensions to have a width of 6.5 inches.
+Construct a line chart to represent the performance levels of Model A (40%), Model B (30%), and Model C (30%).
+Along with this, provide a visual representation using a bar chart.
+
+I'd appreciate it if you could create a new slide titled "The origin of British" and underline the title.
+Please integrate the following information into the content section: "The origins of the United Kingdom can be traced to the time of the Anglo-Saxon king Athelstan, who in the early 10th century ce secured the allegiance of neighbouring Celtic kingdoms and became "
+The appearance is satisfactory, but the lettering is too small. Update it to 20.
+Adjust the background color of the slide to green and enlarge the font size by 100%.
+
+Currently, introduce a rectangular form and transfer it to the right area of the slide.## 0, rectangle, slide, right
+Please change the fill color of the rectangle to yellow.
+Assign "Vinda" as the slide title.
+Please insert the following text into the content area: "Vinda Group is a leading hygiene products company founded in 1985. It specializes in the manufacturing and distribution of tissue paper, disposable hygiene products, and personal care products."
+It would be appreciated if you could set the font size of the text to 20, turn its color to green, and make the font style identical to the title.
+Configure this slide with double space applied.
+
+Go ahead and label the slide with the title "My Hobbies"
+I'd appreciate it if you could put a photo of a guitar in the right top area.## 0, picture, slide, right top
+In the content part, insert "Playing the guitar is one of my favorite hobbies."
+I kindly request you to set the text's font size to 24 and update its color to purple, please.
+
+It would be great if you could develop a new slide and designate it as "Marketing Plan."
+I kindly request you to incorporate the title into the content part.
+Transform the font style of the content to an uncluttered and professional typeface like "Calibri"
+Embed the Vinda logo as a picture on the slide.
+Place the picture at the slide's left corner.## 1, picture, slide, left corner
+
+Please put together a novel slide, including the caption "Marketing Campaign" using a 20-point font size.
+Please include an image of a content customer and situate it in the top left section of the slide.## 1, picture, slide, left top
+Nice work, but the image is quite big. Please alter its proportions to be 5 inches high and 6 inches across.
+Let's create a list of bullet points that showcase the benefits of the marketing campaign, including greater profitability, stronger brand recognition, and improved online visibility.
+I'd appreciate it if you could set the font size of all items on the slide to 20.
+
+Designate the slide with the title " Battery Types"
+Set the title to be bold and italicized.
+Incorporate a "Product A" image at this moment.
+Good work, now reposition the image towards the left side on the slide.## 0, picture, slide, left
+Put in a table that has four rows and two columns, and include the data of Battery Type and Description in the first row, Alkaline and Common household batteries with long shelf life in the second row, Lithium-ion and Rechargeable batteries used in electronic devices in the third row, and Nickel-cadmium, Rechargeable batteries with high energy density in the fourth row.
+
+Construct a pie chart to display the data: Brand A with 30%, Brand B with 25%, Brand C with 20%, Brand D with 15%, and Other Brands with 10%.
+Designate the pie chart with the title "Air Condition Brands"
+Include "this slide includes a brief description or key points about each brand" in the content part.
+Incorporate an image featuring Haier on the bottom part of the last slide.## 0, picture, slide, bottom
+Transform the content's font color to green and add an underline for highlighting.
+Incorporate a triangle and a rectangle into the slide.
+Relocate the triangle to the underside of the rectangle.## 0, triangle, rectangle, bottom
+Change the rectangle's orientation by 45 degrees.
+
+Use "Our Team" as the title text.
+Include a team snapshot and change its proportions to a width of 4 inches and a height of 3 inches.
+Change the orientation of the image by 45 degrees.
+Place the image at the left top part of the slide.## 0, picture, slide, left top
+Choose Calibri as the font style for the title and raise the font size to 28.
+
+Choose the "Identification Card" theme as the slide's design.
+Construct a new line chart, assigning Fujian, Shanghai, and Beijing to the X-axis, and 120, 140, and 110 to the Y-axis.
+Designate the chart's title as "ID Card Operation"
+Embed an ID card picture into the slide and slide it to the right-hand side.## 0, picture, slide, right
+Choose Verdana as the font style for the slide title and raise the font size to 32.
+Select purple as the background color for the slide.
+
+Ensure that "Sales Report" is the title of your work.
+Update the title by choosing Arial font, adjusting the font size to 48 points, and applying bold style.
+Establish a new table containing three columns and five rows.
+Add the following information to the first row: "Region", "Sales", "Growth". Add the following information to the next four rows: "North", "$50,000", "5%", "East", "$75,000", "10%", "South", "$45,000", "3%", "West", "$60,000", "8%".
+Select green as the background color for the slide.
+Insert the following text into the content part:"Name: John Doe,Date of Birth: January 1, 1990,Gender: Male,ID Number: 123456789,Issuing Authority: Department of Motor Vehicles,Expiration Date: December 31, 2023"
+Embed a picture featuring a beach on the slide.
+Incorporate an arrow into the slide.
+Place the picture on the upper part of the arrow.## 0, picture, arrow, top
+
+Introduce a new rectangle configuration.
+Adjust the fill color for the rectangle to orange.
+Establish the dimensions of the rectangle to be 6 inches wide and 5 inches tall.
+Make "Important Information" the bold heading.
+Change the font size for the title to 24 and make the font color green.
+Put together a bulleted list showcasing these items: pot, scissors, and scoop.
+Embed a visual representation of an exclamation mark on the slide.
+Transfer the photo to the highest corner of the slide.## 0, picture, slide, top corner
+Construct a brand-new slide and incorporate a rectangle on the left area.## 1, rectangle, slide, left
+Entitle the new slide as "Additional Details"
+
+Insert "Here are some statistics about our company's growth" into the content portion.
+Adjust the content's typeface color to a shade of purple.
+Generate a new table containing three columns and just one row.
+Incorporate " revenue, profit, and number of employees" into the table.
+
+Embed an illustration of Converse trainers within the slide.
+Append the given content to the slide: "Converse is a popular footwear brand known for its iconic sneakers and casual style."
+For the content, increase the font size to 18 and switch the font color to red.
+
+Add the given information to the slide: "Lemon juice is a refreshing and tangy beverage made from freshly squeezed lemons. It is rich in vitamin C and provides a burst of citrus flavor."
+Designate the name "Lemon juice" for the new slide.
+To create a table with 3 columns and 2 rows, include "Product", "Price", and "Features" in the first row. In the second row, write "A", "B", and "C".
+Put a photo of freshly squeezed lemon juice at the right part of the table.## 0, picture, table, right
+Position "Page 1" onto the slide.
+
+Put a beach scene image on the top left side.## 0, picture, slide, top left
+Include "Book your vacation today!" as part of the content.
+Append the label "Vacation Time".
+Transform the font size of all content to 18 and change the style to Times New Roman.
+Formulate a bulleted list featuring these items: "Relaxing on the beach", "Swimming in the ocean", and "Eating delicious seafood".
+
+It would be great if you could design a new slide and title it "Chili".
+Adjust the slide's background hue to red.
+Embed an appetizing chili bowl image on the slide.
+Integrate the given text into the slide: "Chili is a spicy and flavorful dish made with a combination of meat, beans, and various spices. It is known for its rich taste and satisfying heat."
+
+Assign the title "Chili" to the slide and insert a visual representation of Chili's landscape.
+Construct a table with dimensions of 4 columns and 3 rows. Label the first row with "Ingredient", "Quantity", "Spiciness Level", and "Origin". Fill in the rest of the table with the following information: "Beef", "2 lbs", "Medium", and "Mexico" in the second row, "Beans", "1 can", "Mild", and "United States" in the third row, and "Tomatoes", "3", "Hot", and "Spain" in the fourth row.
+Label the slide with a "Page 2" memo to represent its sequence.
+
+Append a graphic of a person devouring a hamburger to the bottom area.## 0, picture, slide, bottom
+Designate "Sales Projections for Q3." as the slide's title.
+Integrate the following text into the slide: "The sales projections for Q3 indicate a steady growth in revenue and market share. With targeted marketing strategies and product enhancements, we anticipate a significant increase in sales performance."
+
+For improved descriptiveness, change the title to "Marketing Strategy" please.
+Fine, key in "Our company's marketing strategy is to focus on social media advertising and influencer marketing"
+Afterward, formulate a bullet point list with Instagram, Facebook, and Twitter.
+I would appreciate it if you could insert an image of a person engaged with a smartphone.
+Put a rectangle outline atop the picture.## 0, rectangle, picture, top
+Generate a table containing 4 columns and 6 rows, and place "Month", "Revenue", "Units Sold", and "Growth Rate" in the opening row.
+
+Please put together a new slide with the title "Product Launch"
+Include the label "Introducing our newest product" on the slide.
+Attach a graphic display of the product.
+Transfer the picture to the lower end of the slide.## 1, picture, slide, bottom
+Use a purple backdrop for the slide and position the photo over it.## 1, picture, slide, top
+
+Entitle the slide as "Explore China"
+Embed a map of China to feature the assortment of sightseeing locations within the country.
+Place the image representing China in the slide's left corner.## 0, picture, slide, left corner
+Embed the provided text into the slide: "China is a captivating tourist destination known for its rich history, vibrant culture, and breathtaking landscapes. From the iconic Great Wall to the bustling metropolis of Shanghai, there is something for every traveler in this vast and diverse country."
+Develop a table with 5 columns and 8 rows. Enter "Province", "Famous Attractions", "Average Temperature", "Tourist Numbers", and "Recommended Season" in the first row.
+Please put together a new slide and entitle it "Project Timeline"
+Once the title is in place, put a star on the slide's left side.## 1, star, slide, left
+Transfer the star to the right part of the slide.## 1, star, slide, right
+
+Assign "OPPO" as the title and customize it by selecting a red font color, a 20-point font size, and adding underlining and bold emphasis.
+Insert the following content into the content part: "OPPO is a leading smartphone manufacturer known for its innovative designs and cutting-edge technology.
+Position an image showcasing an OPPO smartphone to the left of the content to represent the brand.## 0, picture, content, left
+Construct an original slide and designate it with the title "Xiaomi"
+Build a table with 4 columns and 3 rows. In the top row, list "Product", "Price", "Features", and "Availability". In the second row, type in the data for Xiaomi products, such as "Mi 11", "$699", "Snapdragon 888, 108MP camera", "Global". In the third row, type in the data for Xiaomi products, such as "Redmi Note 10", "$249", "AMOLED display, 48MP camera", "Global".
+
+Would you mind crafting a novel slide and entitling it "Product Overview"?
+On the slide, add a table that has 3 columns and 4 rows. Label the first column with "Product Name", "SKU", "Price", and "Quantity".
+Select green as the background color.
+
+Give this slide a blue background color and assign the title "Research Writing"
+Integrate the content "Research writing involves the systematic investigation and documentation of a topic to contribute new knowledge and insights to a particular field." into the slide.
+Apply a yellow font color and a font size of 18 to the content.
+Make the font size twice as large.
+Develop a line chart by mapping the years 2016, 2017, and 2018 to the X-axis and their corresponding values 120, 140, and 160 to the Y-axis.
+Entitle the line chart "Publications Over Time"
+Incorporate a graphic of a research writing cover and update the background shade to align with the one before.
+
+Construct an original slide and append a label with the text "Schedule in March".
+Configure the title's font size to 28 and switch the color to dark blue.
+Insert a table with four columns and three rows. The first row is "Date","Task","Start time","End time". The second row is "March 15","Meeting with stakeholders","9:00 AM",and "10:30AM". The last row is "March 23","Project review and update","2:00 PM", and "4:00PM"
+Include an illustration of a calendar and slide it to the upper section of the table.
+
+
+Construct an original slide and entitle it "The Benefits of Meditation"
+Incorporate a graphic of a meditating person and shift it to the lower part of the slide.## 1, image, slide, bottom
+For the content segment, jot down "Meditation is a simple yet powerful technique that can help you achieve a state of inner peace and calmness."
+Update the content with a font size of 24 and choose Times New Roman as the font style.
+Draw a rectangle and relocate it to the right section of the illustration.## 1, rectangle, image, right
+Transform the color of the rectangle into a gentle green tone.
+Develop an extra slide with a background color of light blue.
+Position a table that has two columns and three rows.
+Write "Mindfulness Meditation", "Transcendental Meditation", and "Body Scan Meditation" in the first column, and in the second column insert "Meditation helps to calm the mind and reduce stress levels, promoting relaxation.", "Regular meditation practice enhances focus and concentration abilities.", and "Meditation fosters emotional stability, mindfulness, and overall well-being.".
+
+Construct a unique slide and assign a green environment.
+Position a picture featuring grassland, ensuring the width is 6.5 and the height is 5.5.
+Add a heading to the slide titled "The Functions of Forests." change the font color to dark red, and set the font size to 40.
+Put in a yellow " arrow" shape.
+Relocate the arrow to the picture's right edge.## 1, arrow, picture, right
+
+
+Insert a pie chart. "food, housing, transportation, entertainment, other" are the category, and 40%,20%,15%,10%,15% are the percentage.
+Insert a table with two columns and six rows. The first row writes Category and Percentage.
+Transfer the table to the underside of the pie chart.## 0, table, pie chart, bottom
+Designate the slide with the title "My Expenditure in May 2023"
+Format the title with italics.
+
+
+Construct five slides, with each slide incorporating a yellow background.
+Set the title of the first slide to "My Summer Holiday" and alter the font appearance to "Microsoft JhengHei".
+Position an image of a family on slide number two.
+The third slide should contain a bar chart that has "Sales", "Expenses", "Profits", and "Investment" as the X-axis data and 120, 80, 40, and 60 as the Y-axis data.
+Please insert the provided content, "During my summer holiday, I embarked on an unforgettable adventure. I explored new destinations, soaking in the warmth of golden sunsets and relaxing on sandy beaches." into the fourth slide.
+Place a table with one column and two rows on slide five. Use "Sales" and "Expenses" to fill the table, and set the font size to 26.
+
+
+Design a slide and assign it the heading "Business Plan"
+Include a photo of a light bulb on the slide and transfer it to the left area.## 1, picture, slide, left
+Enter the following statement in the content section: "Entrepreneurship is the process of designing, launching and running a new business, which is often initially a small business. The people who create these businesses are called entrepreneurs."
+Choose the "Georgia" font style and set the size to 10.
+Update the slide's background color to green.
+Add a circular form to the slide.
+Transfer the circle to the right part of the slide.## 1, picture, slide, right
+Access slide 0 and write "Marketing Strategy" in the designated content space.
+Develop a table containing 3 rows and 4 columns, and list "Social Media Campaign" "Influencer Partnerships" and "Email Marketing" in the initial column.
+Populate the fourth column with the figures $10000, $15000, and $5000.
+Make a note labeled "2023/5".
+
+
+Designate the slide as "Target Audience" and choose the "Arial" font style.
+Relocate the title to the rightmost corner of the slide.## 0, title, slide, right corner
+Position a Gen Z-centric image and set the width to 4.
+Relocate the picture to the slide's lower left-hand side.## 0, picture, slide, left bottom
+Embed the given text into the content part: "Understanding and effectively targeting the right audience is crucial for delivering tailored messages and maximizing the impact of marketing efforts."
+
+
+Position the caption "The essentials of large-scale modeling" and establish the font size at 24.
+Incorporate a picture depicting a neural network and situate it at the lower end of the slide.## 0, picture, slide, bottom
+Set up a table featuring one row and two columns, and fill the columns with the terms "Number" and "Note" respectively.
+Elevate the table to the summit.## 0, table, slide, top
+
+Incorporate an illustration of a rugged, ominous tower and transfer it to the right upper part of the slide.## 0, picture, slide, right top
+Set the slide title to "The Ultimate Heist"
+Develop a rectangle and transfer it to the top section of the title.## 0, rectangle, title, top
+Transform the title by selecting a dark green font color and resizing the font to 28.
+Adjust the font style to "Microsoft New Tai Lue"
+Use a light blue hue as the background color for the slide.
+
+
+Construct a table that has 4 columns and 2 rows. Write Task, Priority, Start Time, and End Time in the first row. In the second row, enter Project Planning, High, 9:00 AM, and 10:30 AM.
+In the content portion, include the sentence "Effective time management is a crucial skill for success in both personal and professional settings."
+Enhance the content with both underlining and italics.
+Transfer the table to the lowermost part of the content.## 0, table, content, bottom
+Embed a photo of a clock within the slide.
+Attach the observation "Presenter: Eva"
+
+
+Construct a unique slide and append the label "Company Profile"
+To the content section, please add the text: "Our company was founded in 2005 with the aim of providing high-quality products and services to our customers. Since then, we have grown into a leading provider of innovative solutions for a wide range of industries. Our team of experts is committed to delivering excellence in everything we do."
+Choose "Calibri Light" as the font style for the title and increase the font size to 40.
+Add the company emblem's image to the slide on the right.## 1, picture, slide, right
+Alter the image's proportions to a 2-inch height and a 3-inch width, and position it on the left slide.## 1, picture, slide, left
+Transfer the picture to the slide's leftmost corner.## 1, picture, slide, left corner
+Construct a novel slide and set the background color to blue.
+Add the provided text to the content part by stating: "To be a leader in innovation and sustainability, delivering value to our stakeholders and positively impacting the world."
+Double space the content and emphasize it by underlining.
+Generate a two-column, one-row table and incorporate the data "A-72" and "C-71" within the columns.
+Construct a two-column, one-row table and fill it with the data "B-72" and "D-71".
+
+Please put together a new slide with the title "Sales Data"
+Incorporate a table featuring 6 columns and 15 rows into the slide's content section.
+Place the given information into the table as follows: "Product", "January Sales", "February Sales", "March Sales", "Total Sales", and "Average Sales" in the first row, and "iPhone", "22", "13","15","17","12" in the second row.
+Place the table at the upper left-hand corner of the slide.## 1, table, slide, left corner
+To wrap up, insert a "Data source: Sales department" annotation on the slide.
+Construct a brand-new slide and clone the table.
+
+Append the label "Marketing Strategies"
+Update the title font to "Arial Black"
+Add the subsequent content segments: "Search Engine Optimization (SEO)", Social Media Marketing (SMM)", "Email Marketing", "Content Marketing", and "Pay-Per-Click Advertising (PPC)".
+Transform the content's text color to a dark blue tint.
+The content is not showing. Transform the color of the content to a green shade.
+Include a thumb graphic with a 5-inch width beneath the material.## 0, picture, content, bottom
+
+Write the title "The Grand Canyon" using italics.
+Try expanding the font, with a suggested size of 30.
+Update the title to use the "Times New Roman" font style.
+Position a Grand Canyon image in the content segment of the slide.
+Relocate the graphic to the right area next to the title.## 0, picture, title, right
+Alter the image to achieve a 4-inch height and a 6-inch width.
+Construct a table that comprises 4 columns and 2 rows. Fill the first row with "Guangdong", "Beijing", "Shanghai", and "Hainan", and the second row with "34%", "36%", "20%", "10%".
+Incorporate the table data for "Guangdong", "Beijing", "Shanghai" and "Hainan" and their respective percentages of "34%", "36%", "20%" and "10%" into a pie chart.
+Transfer the pie chart to the bottom area of the table.## 0, pie chart, table, bottom
+Embed a bar chart with the equivalent data.
+To finish, append the acknowledgment "Image source: National Park Service" in a note.
+
+Please put together a novel slide with the title "Product Comparison"
+Insert a table with 2 columns and 5 rows. Insert the following data into the table, "Smartphone (Apple iPhone 13)"，"Laptop (Dell XPS 13)"，"Smartwatch (Apple Watch Series 7)"，"Headphones (Sony WH-1000XM4)"，"Camera (Canon EOS R5)"，"Television (Samsung QLED Q90T)"，"Gaming Console (PlayStation 5)"，"Fitness Tracker (Fitbit Charge 4)"，"Wireless Earbuds (AirPods Pro)"，"Tablet (iPad Pro)".
+Place the title at the lower edge of the slide's corner.## 1, title, slide, bottom corner
+To finish, assign a light blue color to the slide's background.
+
+
+Please put together a new slide with the title "Monthly Sales Report"
+Embed a bar chart into the body of the slide that illustrates the following data: "January: $10,000", "February: $12,000", "March: $15,000", "April: $18,000", "May: $20,000", "June: $25,000", "July: $28,000", "August: $30,000", "September: $32,000", "October: $35,000", "November: $40,000", "December: $45,000".
+Assign the title "My Monthly Sales in 2023" to the chart.
+Place the chart on the upper part of the slide.## 1, chart, slide, top
+Incorporate the following statement into the content part: "The monthly sales report showcases a significant increase in revenue."
+Lastly, incorporate a "Presented by: xxx" remark on the slide.
+
+Adjust the background tint to a gentle red and insert a photo of a strawberry.
+Construct three novel slides, entitling them "Project Scope" "Project Timeline" and "Project Budget" respectively.
+Use the colors light green, light blue, and purple on each slide, one after the other.
+Integrate the provided text into the content section of slide 1: "Our project involves developing a new software application for our clients. The application will streamline their business processes and improve their bottom line."
+On slide 2, generate a table that comprises 6 columns and 2 rows. Fill the initial row with Month, Task, Start Date, End Date, Progress, and Comments.
+Generate a line chart incorporating the data [2016, 2017, 2018, 2019] and [10, 12, 15, 11], and situate it on the left portion of the table.## 1, line chart, table, left
+Incorporate a star shape into the slide and transfer it to the highest corner.## 1, star, slide, top corner
+Switch to slide 2, and underline the caption "Project Timeline"
+Go to slide 3 and include the following details: "Personnel Expenses: This includes costs associated with project team members, such as salaries, wages, benefits, and training expenses."
+Choose "Arial" as the new font style for the content.
+Attach a "Thank You!" comment to the file.
+
+Assign the name "Company Timeline" to the slide.
+Create a rectangle and afterward pivot it rightward by 45 degrees.
+Place the rectangle in the bottom right part of the slide.## 0, rectangle, slide, right bottom
+Choose light blue as the background color for the slide.
+Form a table with a structure of 4 columns and 2 rows, and include the years "1980", "1990", "2000", and "2010" in the cells of the upper row.
+Position the following four happenings in the second row: "Company founded", "Company moved to new building", "Company went public", and "Company acquired by competitor".
+
+Attach a photo of the Google company emblem at the base.## 0, picture, slide, bottom
+To wrap up, assign the heading "Conclusion" and emphasize it using italics.
+The given content "We're increasingly one, worldwide population – freely mixing. That will create a world of hybrids – light brown skinned, dark- haired, Afro-Euro-Australo-Americo-Asians, their skin colour and facial features tending toward a global average." is satisfactory.
+Shift the content to align with the right edge.
+Set a rectangle with a height of 5 on the slide.
+Following this, position the rectangle at the slide's bottom.## 0, rectangle, slide, bottom
+
+I'd appreciate it if you could create a new slide, assign the title "Ethical Literary Criticism" and bolden the text.
+Since the title color lacks visual appeal, please modify it to blue.
+then insert the text: "The method of ethical literary criticism is a new method of literary criticism put forward by Professor Nie Zhenzhao of Central China Normal University after comparative investigation, fine combing and rethinking of the history and present situation of Chinese and western literary criticism theories and methods."
+Please include a visual of the cover of the book Introduction to Ethical Literary Criticism by Nie Zhenzhao.
+In particular, reposition the picture on the slide's left section.## 1, picture, slide, left
+Put a rectangle on the right area.## 1, rectangle, slide, right
+The background is not satisfactory; adjust it to a pastel yellow tone.
+
+Establish a brand-new slide, labeling it "Jane Eyre by Charlotte Bronte" and format the title in italics.
+To highlight Charlotte's actions in the happy ending, insert the text and emphasize it in bold: "In the seemingly happy ending, Charlotte uses a legacy and a fire to build up the plot."
+Transform the text color to dark red and change the font format to "Arial"
+Put an arrow directed to the right alongside the text.## 1, arrow, text, right
+insert a table with two columns and two rows, the first row writes category, information; the second row writes publication year, 1847.
+Below the table, add an image of Charlotte Bronte's portrait.## 1, picture, table, bottom
+Position the image on the uppermost section of the table.## 1, picture, table, top
+
+Implement a blue setting for the background of this slide.
+Create the title as "Id in David Copperfield", ensuring that _David Copperfield_ is italicized.
+Include the following in the content section: "Id is a kind of animal instinctive impulse, it is confused without rationality, and it pursuits for satisfaction blindly and accumulates chances for abreaction. one. Id does not care for social moral or external behavior standard. Id is the place for storing instinct."
+Could you upload a picture of the book David Copperfield above the content?## 0, picture, content, top
+The image's current size is insufficient, so would you mind resizing it to a height of 5 inches and a width of 6 inches?
+Put a star on the image and transfer it to the right-hand side.## 0, star, image, right
+To wrap up, add a bullet point corresponding to the text in the content part.
+
+Insert a table with three rows and two columns. Insert Location, Various cities around the world, in the first row, Ethnicity,Chinese community and culture, in the second row and Features,Chinese architecture, businesses, cuisine, cultural celebrations, in the third row.
+Add a "China Town" heading and apply bold formatting.
+Generate a pie chart that represents the following data: Chinese Restaurants (40%), Chinese Retail Shops (30%), and Cultural Festivals and Events (30%).
+Embed an illustration of a China town within the slide.
+Transfer the picture to the lower end of the slide.## 0, picture, slide, bottom
+Put a star in the right-side slide.## 0, star, slide, bottom
+Append a "China Town" note to the slide.
+
+Construct a brand-new slide and set its background to green.
+Establish a slide with "feminism" as the title and make the title's font color consistent with the background color.
+"Feminism is the belief and aim that women should have the same rights, power, and opportunities as men"
+The present font color lacks appeal; please update it to yellow and ensure the content is displayed in italics.
+
+Designate the heading as "3nd wave of Feminism movement" and apply bold formatting.
+Transform the title by using "Times New Roman" for the font style, making the color blue, and adjusting the size to 28.
+then insert the content "It focuses on multi-racial religious beliefs, ethnic customs, multiculturalism, environmental protection, consumerism, diversity orientation"
+Set a female image over the content.## 0, picture, content, top
+
+I'd appreciate it if you could create a new slide titled "film adaptation of Pride and Prejudice"
+Following that, update the font size to 24 and italicize the title text.
+Place the following text into the content portion: "Fourteen years after its first airing, screen writer Andrew Davies’ 1995 adaptation of Jane Austen’s novel Pride and Prejudice remains a benchmark against which Austen adaptation is popularly measured. Noted for its ‘sexing up’ of period drama, the adaptation ostensibly addresses modern sensibilities and contemporary dramatic expectations. Davies’ interpretive choices place an emphasis on sensuality and bring focus to Darcy’s desires. "
+Embed bullet points throughout the content segment.
+Configure the content with a font size of 20 and double space formatting.
+Please incorporate an internet-sourced image of the 1995 Pride and Prejudice movie.
+Create a rectangle and slide it to the rightmost corner of the presentation.## 1, rectangle, slide, right corner
+I'd appreciate it if you could switch the background color to a gentle orange tint.
+
+Include a table featuring 2 columns and 3 rows.
+Input "Location" and "Ethnicity" in the opening column of the table.
+As the story progresses, Elizabeth Bennet and Mr. Darcy undergo a significant change in their personalities, as they gain a deeper understanding of themselves and the society they are a part of.
+Append an illustration of Elizabeth Bennet and Mr. Darcy to the table's lower end.## 0, picture, table, bottom
+Position the illustration on the right part of the slide.## 0, picture, slide, right
+Design a rectangle and transfer it to the left edge of the slide.## 0, rectangle, slide, left corner
+Develop a novel slide, assign the heading "The Role of Social Class in Pride and Prejudice" and underline the heading for emphasis.
+insert this text: "Social class plays a significant role in the novel, influencing characters' relationships, decisions, and self-perceptions."
+Design a petite circle in the lower right area and apply an orange shade to it.
+Update the slide background color, transforming it from light blue to orange.
+
+Construct a unique slide and label it with the title "Shapes"
+Put a red rectangular object on the left part of the slide.## 0, rectangle, slide, left
+Put a blue circle on the slide to the right.## 0, circle, slide, right
+Put a green triangle on the left slide.## 0, triangle, slide, left
+Put a yellow callout on the right section of the slide.## 0, callout, slide, right
+
+Situate a visual representation of a 19th-century matrimonial ceremony on the right area of the slide.## 0, picture, slide, right
+Generate a triangle and transfer it to the right-hand section of the illustration.## 0, triangle, picture, right
+Assign the caption "19th century marriage"
+Format the title with italics and bold, and switch the font color to a dark shade of orange.
+
+Generate a pie chart illustrating these proportions: 30% for Vanilla, 25% for Chocolate, 15% for Strawberry, 10% for Mint Chocolate Chip, 10% for Cookies and Cream, and 10% for Butter Pecan.
+Discover a photo of a strawberry and transfer it to the lower part of the pie chart.## 0, picture, pie chart, bottom
+insert the following content: "The expenditures increased significantly last quarter due to higher operational costs and increased investment in marketing initiatives."
+Switch the font style to Times New Roman and change the font size to 18.
+
+Please put together a novel slide, assigning the title and footnote to read "PPT making"
+insert the following content: "Creating engaging and impactful PowerPoint presentations requires careful planning and execution. "
+Modify the content by underlining it and using a dark red font color.
+Format the title of the slide using bold and italics.
+Affix a "PPT" comment within the slide.
+
+Construct an original slide and assign the caption "Neural Networks"
+Write a bullet-pointed list with the following content: "Neural networks are a type of machine learning algorithm that are modeled after the structure of the human brain. They consist of layers of interconnected nodes that process information and learn to recognize patterns."
+Transform the font color for the title into red.
+Incorporate an image showcasing the neural network layout on the slide.
+Put a cloud adjacent to the right edge of the image.## 1, cloud, picture, right
+To finish, update the background color to yellow.
+
+Develop a new slide, incorporating a red cloud design on the right segment.## 0, cloud, slide, right
+Integrate "Provide Clear Takeaways" into the content component.
+Transform the font color of the title to orange, and afterwards, establish a new slide labeled "Data Preprocessing"
+The background color of this slide is currently unsuitable; change it to the cloud color, please.
+
+Construct a brand-new slide and designate it "Transfer Learning"
+Increase the font size on the slide to 28 and bolden the text.
+Transform the title's font style to "Times New Roman" and change its font color to red.
+Adjust the slide to have a consistent background color.
+write the following content: "Reinforcement learning is a type of machine learning in which the algorithm learns through trial and error. It is often used to teach machines how to make decisions in complex environments."
+
+insert a table with 3 rows and 2 columns, fill the first row with Model Name,ChatGPT; the second row with Architecture,GPT (Generative Pre-trained Transformer); the third row with Training Data Size,Multiple terabytes of diverse text data.
+Designate "GPT" as the title and emphasize it in bold.
+insert the content, "Generative Pre-trained Transformer 3 (GPT-3) is an autoregressive language model released in 2020 that uses deep learning to produce human-like text."
+On this slide, use dark red as the font color and underline the information.
+Append an illustration of the GPT-3 architecture on the right-hand side of the content.## 0, picture, content, right
+
+Construct a unique slide, assign the title "Wuthering Height" and format the title in italics.
+Lockwood, an impartial character, is the primary narrator of the story and provides the framework for a series of shorter narratives by the housekeeper, Ellen Dean. Bold the phrase "The story is recounted by Lockwood, a disinterested party, whose narrative serves as the frame for a series of retrospective shorter narratives by Ellen Dean, a housekeeper."
+Adjust the font color for the title and the text to be red.
+Position an arrow shape on the canvas.
+As the arrow seems a little undersized, please modify its size to have a width of 6 and a height of 4.
+Construct a unique slide and place a cloud depiction.
+Attach an image displaying the book cover of Wuthering Heights.
+Include the information "Wuthering Heights, novel by Emily Brontë, published in 1847 under the pseudonym Ellis Bell"
+Choose Times New Roman as your font and configure the font size to be 18.
+Construct a table featuring one row and two columns, and place "Category" and "Information" within the table cells.
+Append a "Microsoft" memo to the slide.
+
+Produce a brand-new slide and designate the title "Pride and Prejudice by Jane Austen"
+Include the statement: "The novel explores themes of love, marriage, and social expectations among the British gentry", and make the text bold as well as underlined.
+Introduce an arrow and relocate it to the left part of the text.## 1, arrow, text, left
+Please set the text color to a rich green and the arrow color to a subtle shade of orange.
+insert a table with two columns and two rows, the first row writes category, information; the second row writes author, Jane Austen.
+Embed a representation of Jane Austen's portrait in the material.
+Configure the image to have a height of 6 and transfer it to the rightmost corner of the slide.## 1, image, slide, right corner
+
+I'Sirsa's life journey's life journey" and format it in bold.
+As the font is somewhat small, would you mind setting it to 24, please?
+Generate a table with three columns and four rows. In the first row, add Childhood, 0-10 years, Schooling. In the second row, add Adolescence, 11-18 years, High school.
+Embed an image featuring a school within the slide.
+Transfer the image to the left part of the table.## 1, image, table, left
+
+Construct a unique slide, assign the title "Exploring the Universe" and accentuate the title by underlining it.
+Include an illustration of a galaxy.
+Develop a bullet list of 5 items in the content part, featuring "Stars", "Planets", "Nebulae", "Black Holes", and "Dark Matter".
+Emphasize the content with bold and italic styles.
+Transform the font color of the content to a dark crimson tone.
+Generate a pie chart that represents the following allocation: 35% for the Teaching Building, 25% allocated to the Stadium, and 40% designated for the Playground.
+Place the pie chart at the uppermost section of the slide.## 1, pie chart, slide, top
+Generate a line chart that represents the given percentages: 1st year with 20%, 2nd year with 30%, 3rd year with 40%, and 4th year with 10%.
+Embed a bar chart that represents the same set of data.
+Select blue as the background color for the slide.
+
+Construct a unique slide and embed the label "introduction"
+By using multiple and complementary methods over a longer period of time, we explore in this paper the potential and pitfalls, as well as complexities and uncertainties.
+Adjust the content's font color to be red.
+The content's font size is not large enough; please set it to 20.
+Use a light blue tone for the background and magnify the font size of the content by 100%.
+
+In the content segment, add "Nanyang is a national historical and cultural city, with profound historical heritage and rich cultural accumulation."
+Append a bullet point to the content.
+Modify the content by setting the font size to 18, italicizing the text, and selecting the "Arial" font style.
+Set the slide's name to "My City- Nanjing"
+Put a picture featuring Nanjing on the slide and slide it over to the right side.## 0, picture, slide, right
+Develop a brand new slide labeled "Catalog" and associate the name with the note.
+Format the title with italics and increase the font size to 24.
+Integrate the following content into the content section: "A catalog serves as a comprehensive and visually appealing resource, showcasing a diverse range of products or services."
+Transform the font color of the content to green and establish a dark blue color for the slide's background.
+insert a table with three rows and two columns. Write Product, Price in the first row, shirt, $29.99 in the second row, dress, $59.99 in the last row.
+then insert a pie chart, "shirt,dress, pants"are the category, 40%,30% and 30% are the percentage.
+Apply a line graph as a means to represent the information.
+Append a bar chart using the same dataset.
+
+Incorporate a title: "enjoy happy life"
+Put a star on the upper part of the title.## 0, star, title, top
+Update the title's font style, selecting "Arial Black"
+Integrate the following double-spaced content into the document: "Enjoying a happy life involves finding joy in the little moments, nurturing meaningful relationships, pursuing passions, maintaining a healthy work-life balance, and practicing self-care. "
+Put a snapshot of a content person on the slide and transfer it to the top-right part of the slide.## 0, picture, slide, right top
+Change the image's size to 4 inches high and 5 inches across, and transfer it to the leftmost bottom part.## 0, picture, slide, left bottom
+
+Generate a table with five rows and one column, and name the rows as: Completed Marathon, Published First Book, Promoted to Manager, Volunteered 100+ Hours, and Started Successful Business.
+Designate the slide as "My great achievement in 2023"
+insert the following text into the content part, "In 2023, I accomplished remarkable milestones that surpassed my expectations. From completing a marathon to publishing my first book and achieving a promotion, these successes fuel my drive for further growth and inspire me to reach even greater heights."
+Put a book graphic on the slide and transfer it to the top part.## 0, picture, slide, top
+Include a pie chart illustrating the data: marathon with 30%, book comprising 25%, and volunteer making up 45%.
+Introduce a rectangular object to the slide and situate it adjacent to the left side of the pie chart.## 0, rectangle, pie chart, left
+Append a note featuring "2023" to the slide.
+
+Configure the title to be: Ethical Literary Criticism
+Transform the title to bold and blue, and transfer it to the bottom.## 0, title, slide, bottom
+Acquire an image of a mountain terrain and insert it on the right portion.## 0, picture, slide, right
+"The method of ethical literary criticism is a novel approach proposed by Professor Nie Zhenzhao from Central China Normal University."
+Add an underline to the content, change the font to Times New Roman, modify the font size to 24, and insert double-spacing.
+Use dark blue as the font color for the content.
+Find a rectangle in the menu and depict it on the slide positioned to the left.## 0, rectangle, slide, left
+Transform the color of the shape to green and input "green"
+Place the rectangular object at the uppermost right corner of the slide.## 0, rectangle, slide, right corner
+Introduce an arrow and relocate it to the right side of the content.## 0, arrow, content, right
+
+Construct an original slide with the caption "Team Members"
+Put a team member's image on the slide and transfer it to the lower part of the slide.## 0, picture, slide, bottom
+Configure the image to have a width of 6.5 cm.
+Put a note similar to the title onto the slide and set the title's font to bold.
+
+
+Construct an original slide and provide it with the caption "Sales Performance"
+Make the title's font color blue, its font size 24, and add an underline. Set the background color of the slide to green.
+Incorporate the given information into the slide: "Sales performance is a key indicator of a company's success in generating revenue. It reflects the effectiveness of the sales team and the overall market demand for the products or services."
+Apply a dark red font color to the content and resize the font to 18.
+Produce a table consisting of three columns and five rows. Enter "Year, Quarter, Revenue" in the first row and "2018. Q1, $500,000" in the second row.
+Ensure the font size of the title is consistent with the font size of the content.
+
+Construct a unique slide and append the label "Sales Report"
+Add a line chart based on the following data, "Product A: $2,000", "Product B: $1,500", "Product C: $1,000"
+Designate the line chart with the title "Revenue Trend".
+Incorporate an illustration of a T-shirt on the slide, along with a caption named "T-shirt"
+Append a star shape and transfer it to the right section of the image.## 1, star, image, right
+Produce one further slide, labeling it as "Organizational Structure"
+Begin by creating a table that has two columns and four rows. Next, input the information in the following order: CEO John Smith in the first row, CFO Jane Doe in the second row, COO Tom Jones in the third row, and CMO Sarah Lee in the fourth row.
+Apply an underline to each title.
+For the content in the title, increase the font size to 20 and apply a purple font color.
+Append a note resembling the title to the slide.
+Select green as the background color for the slide.
+
+Construct a unique slide and entitle it "Introduction"
+Append the following words to the content part: "Your attendance today is valued. Eagerly looking forward to...
+continue with "have you here and look forward to sharing some exciting news with you."
+Apply the Times New Roman font style to the content and increase the font size to 20.
+Add an image depicting a landscape in Guangdong, then alter its proportions to be 3 inches tall and 5 inches wide.
+Incorporate a triangle and a rectangle onto the slide, making sure the rectangle is located on the right side of the triangle.## 1, rectangle, triangle, right
+Modify the slide to have a purple backdrop and add a comment stating "2023" to it.
+
+Designate the slide with the title "Product Launch" bolden the text, and use red for the font color.
+Embed a computer illustration on the slide.
+Alter the picture's measurements to achieve a 2 cm height and width.
+Add this sentence to the content part: "Our new product is a state-of-the-art mobile device that combines the latest technology with a sleek and user-friendly design."
+Harmonize the style of the content with the title.
+Generate a new slide and label it as "Product Features"
+Insert a table with 2 columns and 5 rows on the slide Add the following data into the first row: Feature, Description.
+Formulate a bar chart showcasing the subsequent data: Product A comprising 25%, Product B comprising 50%, and Product C comprising 25%.
+Designate the bar chart with the title "Feature Importance".
+Adjust the background color to a light blue tone and verify that the note aligns with the chart title.
+
+Construct a unique slide and append the label "Quarterly Financial Results"
+Choose Arial as the font style for the title.
+Incorporate this message into the content part: "Our company achieved a revenue of $1.5 million and a profit of $500,000 this quarter."
+Format the content part with bold and underline enhancements.
+Position a table with a layout of 4 columns and 5 rows on the slide.
+Populate the table's top row with the following details: Month, Revenue, Expenses, and Profit.
+Plot a bar chart with the X-axis representing the quarters Q1 2022, Q2 2022, Q3 2022, Q4 2022, and the Y-axis showing the values 50, 60, 55, 70.
+Assign the name "Quarterly Financial Results in 2022" to the bar chart.
+Make the slide's background color red.
+Incorporate a new slide titled "Financial Analysis"
+Embed a picture featuring the company logo on the slide.
+Incorporate "Thank you for your attention!" into the content, and apply underlining and italics. Modify the font size to 26.
+
+Construct a brand-new slide and entitle it "Sales Data"
+Insert a bar chart with the following data:"Region A: $500,000;Region B: $400,000;Region C: $600,000; Region D: $450,000"
+Ascertain that the chart bears the title "Regional Sales"
+Highlight the slide title with an underline and attach a notation specifying "Data source: Sales Report 2023"
+
+Develop a new slide and confirm that its heading is "Customer Survey"
+Insert a pie chart with the following data:""Very Satisfied | 40%", "Satisfied | 30%", "Neutral | 20%", "Dissatisfied | 5%", "Very Dissatisfied | 5%"
+Transfer the pie chart to the bottom section of the slide.## 1, chart, slide, bottom
+Put a questionnaire image onto the slide and transfer it to the top part of the slide.## 1, picture, slide, top
+Append a note containing "2023/5" to the slide.
+
+
+Include the title "The Charm of Linguistics" on slide 0 and change the background to a light blue shade.
+Change the title's font style to Arial, font color to red, and font size to 36.
+Introduce the content with the salutation "Hi", and then include the sentence " "
+Adjust the content's font style to Verdana, font color to yellow, font size to 18 points, and apply double spacing.
+Construct a unique slide and entitle it "Branches of Linguistics"
+Generate a table with a layout of 3 columns across and 4 rows down.
+insert Branches of Linguistics,Description, Examples into first row. "Phonetics", "The study of speech sounds", "Articulatory phonetics, Acoustic phonetics, Auditory phonetics"into second row.
+Put an illustration of a Linguistics book onto the slide and transfer it to the bottom part of the slide.## 1, picture, slide, bottom
+Change the dimensions of the image to measure 6cm in height and 5cm in width.
+Ensure all slides have a purple backdrop.
+
+Use a light green background and name the heading "Language Families"
+Use bold and italic text for the title.
+Generate a bar chart where the X-axis includes Indo-European, Niger-Congo, Austronesian, and Sino-Tibetan, and the Y-axis consists of 445, 1526, 1290, and 452.
+Assign the name "Language familiy and its number of languages" to the bar chart.
+Construct a novel slide with the title "Language Acquisition" and preserve the same title appearance as the slide before it.
+Insert the following content, " "Language acquisition is the process by which humans acquire the ability to perceive, understand, and produce language. It involves innate and learned mechanisms and is influenced by various factors such as environment and social interaction.""
+Configure the font style as Times New Roman, pick red for the font color, and establish the font size at 22.
+Add underlines and bold text to the content, while making the title and content's color consistent.
+Embed an illustration of an English book on the slide.
+Put a square in the right slide.## 1, rectangle, slide, right
+Place the picture on the upper side of the square.## 1, picture, rectangle, top
+
+Assign the name "Conclusion" to the slide
+Modify the title by adding bold, underline, and red color to the font.
+Include the following text in the content: " "
+Apply the Verdana font style to the content and switch the font color to yellow.
+Construct four new slides and assign a purple backdrop color to each.
+Make a title slide named "Overview of Real Estate Policies in China" and insert a map of China illustration.
+On the second title slide, write "Recent Changes" in italics, ensuring the font style matches previous titles.
+insert "Recent changes in China have seen rapid economic growth, technological advancements, and social transformations, positioning the country as a global powerhouse and influencing global dynamics in various spheres." into the content.
+Entitle Slide 3 as "Efforts to Control Housing Prices," and embed a triangle in the slide.
+Relocate the triangle to the slide's upper right-hand side.## 3, triangle, slide, right top
+Update Title Slide 4 with the phrase "Initiatives to Increase Affordable Housing," and set the title's font color to red.
+insert "Initiatives to increase affordable housing have been implemented, including government subsidies, streamlined approval processes, and public-private partnerships, aiming to address the housing affordability crisis and ensure access to decent housing for all."as the content. and underline and italic the content.
+Employ the data given to construct a pie chart, which will exhibit the percentages of Government Subsidies at 35%, Streamlined Approval Processes at 25%, Public-Private Partnerships at 20%, Land Use Policies at 10%, and Rental Assistance Programs at 10%.
+Produce an original slide named "Regulation of Property Developers." and transfer the same statements to the notes part.
+Insert "In this slide, brief China's key measures to regulate property developers and the government's actions to prevent fraud and promote sustainable development practices." as the content.
+Use **bold** for the content and *italic* for the title.
+For every slide, incorporate a note that says "Information about China"
+
+Label the title "Frontier Development of Medical Imaging Equipment" and amplify the font size to 24.
+Construct a line chart displaying the data: Q1 (15%), Q2 (12%), Q3 (18%), and Q4 (20%), with the X-axis labeled as Q1, Q2, Q3, and Q4.
+Designate the chart with the title "Revenue Growth"
+Insert a table with five rows and two columns,  insert Feature 1, High-resolution imaging  into the first row.
+Transform the background's color into a gentle blue shade.
+Incorporate a triangle, and not a rectangle, onto the slide.
+insert  "The frontier development of medical imaging equipment is revolutionizing healthcare with high-resolution imaging, advanced AI algorithms, real-time data analytics, enhanced patient comfort, multi-modality integration, and streamlined workflow, empowering medical professionals with unprecedented diagnostic capabilities." into the content.
+Format the content with bold, double spacing, underlining, and italics.
+Append a "Mediacal Equipment" note to the slide.
+
+
+Modify the background color to blue and include a rectangle in the design.
+Use a font size of 20 and incorporate the label "Methods and Approaches in Anthropology"
+Input the material "Anthropology is a social science that studies human behavior, culture, and societies using a variety of research methods." into the content part, and arrange it with a double space format.
+Draw a circle and position it on the right part of the slide.## 0, circle, slide, right
+Configure the circle to have a width of 4 centimeters.
+
+Produce a unique slide and name it "The Importance of Proper Hydration"
+Format the title using both italics and underlining.
+Update the title with a font size of 24 and change its font style to Arial.
+Incorporate a graphic of a person quenching their thirst and relocate it to the right part of the slide.## 1, picture, slide, right
+Change the image width to 6.5 cm and add a caption titled "Drink Water" underneath the image.## 1, textbox, picture, bottom
+Assign a purple background to the slide and produce a new slide featuring the same backdrop.
+Incorporate an image depicting a folder on the slide and change its measurements to 6.5 for width and 5.5 for height.
+Add a slide title titled "The Benefits of Using SmartArt." change its font color to red, and set the font size to 40.
+Adjust the title by choosing Arial as the font style and making it italicized.
+
+Designate the slide's title as "Building Your Brand." and choose a light green hue for the background.
+In the content section, write "Building a brand is a critical component of any successful business.  Set the font style to "Arial" and the font size to 14.
+Draw a rectangular form and transfer it to the right area of the slide.## 0, rectangle, slide, right
+Add a table to your document that consists of 3 rows and 4 columns, and enter "Brand Identity", "Brand Messaging", "Brand Voice", and "Brand Strategy" in the top row.
+Produce a clone of the table.
+Transform the content by changing the font size and selecting "Times New Roman" as the font style.
+
+
+Develop a unique slide, include the label "The Fundamentals of Effective Communication" and select Times New Roman for the font style.
+Incorporate the "Key Points" and "Description" items as directed.
+Change the font size of the items to 24, and format them with bold and underlined text.
+Choose a light orange tone for the slide's background color.
+
+
+Select light blue as the background color.
+Place "Tencent Meeting" into the title and content.
+Modify the title by underlining it and changing its font color to dark red.
+Incorporate a pie chart that exhibits the proportions of each category, including "Tencent Meeting is a powerful video conferencing platform that enables seamless collaboration and communication among teams and individuals. It offers a range of features for effective virtual meetings, including screen sharing, chat, and recording." with respective percentages of 40%, 20%, 15%, 10%, and 15%.
+Format the content and title with both bold and italic styles.
+Incorporate an illustration of the Tencent Meeting screen layout.
+
+Set up a table that has two rows and three columns.
+Add "Features", "Description", and "Benefits" to the top row.
+Include an "APP" note on the slide and adjust the background color to a shade of purple.
+
+For the "Quality Assessment" slide, use a blue color as the background.
+Embed the provided text into the content section: "Quality assessment is a crucial process in evaluating the performance and standards of products or services. It involves thorough analysis, measurement, and comparison to ensure adherence to quality benchmarks and continuous improvement."
+Incorporate a visual depiction of a checklist.
+Transfer the image to the left portion of the content.## 0, picture, content, left
+Create a pie chart that illustrates the quality ratings distribution, with "Excellent" "Good" "Fair" and "Poor" as data categories, and a percentage breakdown of 40%, 15%, 25%, and 20%.
+Designate the pie chart with the title "Quality Ratings Distribution".
+Transfer the pie chart to the bottom section of the slide.## 0, chart, slide, bottom
+Replicate the pie chart and move it to the slide that follows.
+
+Construct an original slide and name it "Guide to Completing a Project."
+Introduce an arrow to the slide and drag it to the highest corner.## 1, right_arrow, slide, top corner
+Pivot the arrow at a 90-degree angle.
+Advance to slide 0, designate it as "Introduction" and apply bold formatting to both titles.
+Append a note mentioning "2022/6/10" to the initial slide.
+Choose a light blue tone for the slide's backdrop and insert a shape resembling a cloud.
+
+Select yellow as the background color.
+Incorporate the text "Trados Studio is a powerful computer-assisted translation (CAT) tool developed by SDL. It offers a range of features and functionalities that streamline the translation process, including translation memory, terminology management, and project management tools." into the content section and guarantee that there is a double space between each line.
+Incorporate the "Created by Eva" note along with the "Trados Studio" title.
+Update the title with a dark green font color and a 30-point font size.
+Embed an illustration of the Trados Studio symbol onto the slide and transfer it to the area on the right of the content.## 0, image, content, right
+Resize the image to a width of 4 cm and a height of 3 cm.
+Tilt the image 15 degrees towards the left.
+Adjust the background tint to display a purple color.
+
+
+Set up a table containing two rows and three columns.
+Add "Year", "Description", and "Changes" to the top row of the table.
+Assign the title "Great changes in the past decade" to the slide
+Use bold and italic styles for the title.
+Select light blue as the background color.
+
+
+Position the bolded and underlined heading "Should You Consider Studying Abroad?".
+Incorporate a graphic of students engaged in overseas studies and relocate it to the base of the slide.## 0, picture, slide, bottom
+Change the picture dimensions to a width of 5 centimeters and a height of 3 centimeters.
+Use a purple color for the slide's background and incorporate the title in the note.
+
+Develop a visual aid in the form of a bar chart to demonstrate the usage statistics of Trados Studio among translators. The chart should indicate the percentages of "Full-time Translators", "Freelancers", and "Translation Agencies" with corresponding values of 45%, 35%, and 20%.
+Entitle the bar chart "Trados Studio Usage Statistics".
+Construct a new slide and embed the label "ABBYY FineReader"
+Emphasize the title by underlining and bolding it, and modify the font size to 30.
+Embed the given text into the content section: "ABBYY FineReader is an optical character recognition (OCR) software that allows users to convert scanned documents, PDF files, and images into editable and searchable formats. With advanced text recognition and document conversion capabilities, it simplifies document processing and enhances productivity."
+Double space the content and apply italic formatting.
+Position an illustrative image of ABBYY FineReader, such as its logo, and provide the title "ABBYY FineReader" below it.
+Set up a table of two rows and three columns, and input the terms "Feature", "Description", and "Benefits" into the cells of the first row.
+Position the image on the right part of the table.## 1, picture, table, right
+Create a pie chart that displays the following information: "High Accuracy" comprising 45%, "Medium Accuracy" comprising 45%, and "Low Accuracy" comprising 5%.
+Entitle the pie chart "Document Conversion Accuracy".
+Affix the "Page 2" note to the slide.
+
+Put in the label "Marketing Campaign"
+Format the title with bold and underline, and modify the font size to 26.
+Put the given text into the content part: "Our marketing campaign aims to increase brand awareness, engage with our target audience, and drive sales. With a strategic mix of online and offline marketing channels, we are focused on delivering impactful messaging and measurable results."
+Transfer the content to the left portion of the slide.## 0, content, slide, left
+Attach a promotional banner graphic and note the image's title in the space below.## 1, textbox, picture, bottom
+Configure the image width to match a 5-centimeter height.
+Use a green color for the slide's background.
+
+Designate a red title for the slide, labeled "Sustainable Energy"
+Position an image depicting sustainable energy, like a wind turbine or solar panels, and modify its dimensions to be 6 cm wide.
+Create a table that includes 3 columns and 4 rows. In the first column, describe wind, solar, hydro, and geothermal. In the second column, mention low cost, low environmental impact, and high availability. In the third column, list high initial investment, intermittent availability, and land use conflicts.
+Transfer the picture to the upper part of the table.## 0, picture, table, top
+Generate an extra slide with the title "Online Shopping" and maintain the same color as the earlier title.
+Incorporate the content "Online shopping is the process of buying goods and services from merchants over the Internet. It has become increasingly popular due to its convenience and accessibility." into the content part.
+Format the title in bold and blue, and modify the content to feature double spacing.
+Generate an extra slide that includes a TV series-themed image, and configure its width to align with the image in the prior slide.
+Choose a blue color for the slide background and incorporate a note mentioning "About TV Series"
+
+Make "Healthy Eating Habits" the title and transform the slide background to a dark blue tone.
+Include the statement "Press play to start the video" with the font style set to Verdana.
+Generate a table with a pair of columns and rows, and input "Food Group" alongside "Recommended Servings" in the first row.
+Transfer the table to the underside of the content.## 0, table, content, bottom
+Incorporate a visual representation of a person engaged with a laptop.
+Include a square in the slide and configure its height to measure 2cm.
+Subsequently, angle it 45 degrees in a leftward direction.
+
+Insert the content: "In conclusion, TV services have revolutionized the way we consume entertainment, providing a wide range of content options and convenience. "
+Update the content's font style to be "Futura"
+Entitle the segment as "Conclusion" and emphasize it with boldface.
+Incorporate an image of a lively dish packed with a mix of fruits and vegetables.
+Transfer the photo to the lowermost corner on the slide.## 0, picture, slide, bottom corner
+Transform the background hue of the slide to green.
+
+
+Please design a novel slide that includes a background with a purple tint.
+Embed the "Disadvantage" title into the material.
+Bolden the title, modify the font size to 24, and apply the Arial font style.
+Incorporate a "2023/3/9" annotation into this file.
+Create a pie chart, including "Fruits"30%, "Vegetables"25%, "Grains"15%, "Proteins"5%, and "Dairy25%"
+Place the pie chart on the lower side of the slide.## 1, chart, slide, bottom
+Put a textbox under the pie chart, and include "The disadvantage of eating too much food is that it will make you fat." in the textbox.## 1, textbox, chart, bottom
+Designate the pie chart with the title "Daily Food Group Servings".
+
+Put an arrow on the slide and set the width to 3.5.
+Pivot it 90 degrees in a leftward direction.
+Transfer it to the right area of the slide.## 0, right_arrow, slide, right
+
+Put "Technology Trends" as the heading and emphasize it with an underline.
+Make the font color green and establish a font size of 26.
+The content section should have the following text added: "Keeping up with the latest technology trends is essential in today's rapidly evolving digital landscape. From artificial intelligence and blockchain to cloud computing and the Internet of Things, these trends are shaping industries and revolutionizing the way we live, work, and connect with the world."
+Use the same color for the background as the font color of the title.
+Incorporate a visual representation of interconnected network systems.
+Generate a 3-column, 2-row table and input the following phrases into the top row: "Technology Trend", "Description", and "Impact".
+Generate a line graph that illustrates the advancement of technology usage over time, with X-axis categories like "Mobile Devices", "Internet Users", "AI Applications", "Cloud Services", and "Smart Home Devices", and corresponding Y-values: 15, 10, 7, 6, and 24 million.
+Designate the line chart with the title "Technology Values".
+Include a pie chart maintaining the same data and title.
+
+Select a green tone for the slide's background.
+Put an italic title, "Sustainable Living" in the document.
+Include a graphic of a renewable energy source, like a solar panel, and relocate it to the left area of the slide.## 0, picture, slide, left
+Put the given text into the content section: "Sustainable living promotes responsible consumption, renewable energy, and eco-friendly practices to protect the environment and ensure a better future for generations to come. By making conscious choices in our daily lives, we can reduce our carbon footprint and create a more sustainable world."
+Alter the lettering color to a bold orange shade.
+Generate a line graph that showcases the progression of renewable energy consumption over time, including the years 2013, 2014, 2015, and 2016 on the X-axis and the corresponding figures of 1.6, 2.4, 4.8, and 11 million on the Y-axis.
+Entitle the line chart "Renewable Energy Consumption Trend".
+Place the line chart under the title.## 0, chart, title, bottom
+Put a cloud pattern onto the slide and spin it 30 degrees in the counterclockwise direction.
+
+Set up a table featuring four columns and a total of three rows.
+Put "Balanced Diet," "Portion Control," and "Hydration." in the opening column.
+Embed a visual representation of an environmentally conscious city on the slide.
+Transfer the illustration to the upper part of the slide.## 0, picture, slide, top
+Reposition the table to the underside of the slide.## 0, table, slide, bottom
+
+Position "Project Management" as the heading.
+Attach a visual representation of a group of people jointly working on a project.
+Use italics and underlining for the title.
+Drag the image to the slide's top-left part.## 0, image, slide, left top
+
+Include the title, "Project Progress Report." at the beginning.
+Form a table with a structure of three columns and five rows, and fill the top row with task names, deadlines, and progress status.
+Use purple for the background and green for the title color.
+
+Include the title "University and Professional School"
+Increase the font size of the title to 36 and add an underline.
+Embed this text into the content section: "University and professional schools provide higher education and specialized training to equip students with the knowledge and skills needed for successful careers. These institutions offer a wide range of academic programs, research opportunities, and professional development to foster personal growth and career advancement."
+Establish double spacing within the content.
+Assign a green color to the slide's background, and subsequently, adjust it to a purple shade.
+
+
+Incorporate an image depicting a well-organized scholastic surrounding.
+Transfer the visual element to the right area of the slide.## 0, picture, slide, right
+Introduce a triangle to the slide and transfer it to the left segment of the slide.## 0, triangle, slide, left
+Change the triangle's measurements to have a 10cm width and a 15cm height.
+Double-check that the illustration is situated underneath the triangle.## 0, picture, triangle, below
+
+Construct an original slide and incorporate a blue foundation.
+Include the title "NFC" and apply bold formatting to it.
+Incorporate the following text into the content part: "NFC (Near Field Communication) enables seamless wireless communication between devices in close proximity."
+Choose a dark green hue for the font and configure the font size to 20.
+Embed an image featuring the NFC logo within the slide.
+Select purple as the background color.
+Transfer the illustration to the right area of the content.## 1, picture, slide, right
+
+Form a table with a layout of 4 columns and 2 rows, and incorporate "Product," "Revenue," "Units Sold," and "Profit Margin." in the first row.
+Use a light blue hue as the background color for the slide.
+
+Draw a line graph that represents the increase in NFC-enabled devices over time. The X-axis should feature the years 2018, 2019, 2020, and 2021, with corresponding data points of 500,000, 1,300,000, 2,500,000, and 4,000,000, respectively.
+Designate the line chart with the name "NFC Device Growth".
+Generate a two-row, three-column table and include Contactless, Enables touch-based transactions, and Convenient and faster payments in the second row.
+Include a star, adjusting its width and height to 6.5cm.
+Transfer the star to the highest area of the table.## 0, star, table, top
+Position the star on the right end of the table.## 0, star, table, right
+
+Put in a bold title: "Embracing Disruption"
+Update the title with a font size of 20 and the "Times New Roman" font style.
+Include a forward-looking urban skyline to exemplify digital progression and innovative advancements.
+Transfer the picture to the lower end of the slide.## 0, picture, slide, bottom
+Place the words "Created by [Your Name]." on the slide and change the background to a purple shade.
+The background color isn't satisfactory. It would be better to modify it to light blue.
+
+Set the title "Power Bank" on the left corner of the slide.## 0, title, slide, left corner
+Change the title font size to 24 and italicize the text.
+Enter the text below into the content section: "A power bank is a portable device that provides on-the-go charging for smartphones, tablets, and other electronic devices."
+Emphasize the content with an underline, implement double spacing, match the title's font size, and modify the font color to orange.
+Include a Yoobao power bank image in the slide and transfer it to the bottom portion of the slide.## 0, picture, slide, bottom
+Generate a table with three rows and four columns. Input the following information into the first row of the table: Brand, Capacity (mAh), Output Ports, and Price ($).
+Design a pie chart that displays the market share proportions for various power bank brands: 40% for Brand A, 30% for Brand B, 20% for Brand C, and 10% for the rest of the brands.
+Include the pie chart called "Power Bank Market Share" in the report.
+Append a note containing "2023" to the present slide.
+Put a callout shape onto the right area of the slide.## 0, callout, slide, right
+
+Input the "NBA" label and adjust the font color to red.
+Incorporate the text below into the content part: "The National Basketball Association (NBA) is a professional basketball league consisting of 30 teams from North America."
+The current font size is not large enough; update it to 20.
+Position the content in the bottom corner of the slide.## 0, content, slide, bottom corner.
+
+Embed a basketball court illustration in the slide.
+Transfer the picture to the upper section of the slide.## 0, picture, slide, top
+Add a textbox featuring the photo's label and adjust the background color to blue.
+Include a table featuring 3 columns and 4 rows.
+Input the following data into the table: Team, City, Championships in the first row. Then, enter Los Angeles, Lakers, 17 into the second row, Boston, Celtics, 17 into the third row, and Chicago, Bulls, 6 into the fourth row.
+Produce a bar chart with the given table data, presenting Lakers, Celtics, and Bulls as X-axis data points and 17, 17, and 6 as Y-axis data points.
+Designate the pie chart with the title "NBA Championships Distribution".
+Construct a unique slide, underlining the title "Introduction to Autonomous Driving."
+Include a 7cm high photo of a state-of-the-art autonomous car on the slide.
+Incorporate the following text into the content portion: "Autonomous driving, also known as self-driving or driverless technology, refers to vehicles capable of navigating and operating without human input."
+Position the content in the bottom corner of the slide.## 1, content, slide, bottom corner
+Introduce an arrow to the slide and arrange it on the left of the material.## 1, right_arrow, content, left
+Could you relocate the arrow to the right-hand side of the content?## 1, right_arrow, content, right
+
+Incorporate the ensuing content, "Autonomous driving is revolutionizing the transportation industry by offering enhanced safety, convenience, and efficiency."
+Change the font size of the content to 18, and ensure it is both bold and italic.
+Don't forget to highlight the content with an underline and adjust it to a double-spaced layout.
+Form a table having 2 rows and 5 columns, and in the initial row, insert these column titles: Sensor Types, Lidar, Radar, Cameras, and Total.
+Modify the content's typeface to "Times New Roman"
+Produce a pie chart that depicts the proportion of sensor types utilized in autonomous driving systems, based on the given data of Lidar at 40%, Radar at 30%, and Cameras at 30%.
+Designate the pie chart with the title "Sensor Types in Autonomous Driving"
+Place the pie chart's designation within the slide.
+
+Set the slide's name to "Autonomous Driving"
+Include a photo of the company logo on the slide and transfer it to the bottom-left section.## 0, picture, slide, left bottom
+Modify the logo measurements to have a 6.5 cm width and a 6 cm height.
+Construct a unique slide, embedding the label, "Autonomous Driving Adoption by Region."
+Choose "Calibri" for the title font and make the font size 32.
+"Autonomous driving technologies are transforming the transportation landscape, revolutionizing industries, and enhancing safety and efficiency."
+Alter the font color for the content to a bold orange tint.
+
+Produce a new slide, name it "The Power of Planting." and designate "Calibri" as the title font with a font size of 36.
+Select a green tone for the background.
+The content must contain the sentence: "Planting not only beautifies our surroundings but also promotes environmental sustainability and provides a multitude of health benefits."
+Turn the title and content green in color.
+Embed a snapshot of a rich garden within the slide.
+Produce a pie chart using the specified data: 40% for Environment, 30% for Health, and 30% for Community.
+Designate the pie chart with the title "Planting Benefits".
+Place the pie chart on the lower part of the image.## 1, chart, image, bottom
+Position an arrow within the slide and rotate it by 60 degrees.
+Configure the object with a height of 2cm and a width of 4cm, and add "Page 2" as a note to the slide.
+
+Include a table featuring 3 rows and 4 columns.
+Add the following information to the table's opening row: Planting Benefits, Environmental, Health, and Community.
+Select green as the background color for the slide.
+Label align_slide_center with the title "Other Infomation"
+Modify the title by underlining it and using a dark orange font color.
+Place the title in the top corner of the slide.## 0, title, slide, top corner
+
+Incorporate an illustration of the Google insignia on the slide, along with a caption box stating "Google".
+Insert the ensuing text into the content area: "Google and Microsoft Edge are two popular web browsers that offer unique features and functionalities. While Google Chrome dominates the market with its speed and extensive ecosystem, Microsoft Edge aims to provide a seamless browsing experience and tight integration with Windows operating systems."
+Modify the content to include double spacing and set the font size to 16.
+Write "Google vs Microsoft Edge" as the title and set the text color to red.
+Transfer the photo to the lowermost corner on the slide.## 0, picture, slide, bottom corner
+Begin by creating a table with three rows and three columns. In the first row, write Features, Google Chrome, and Microsoft Edge. In the second row, write Speed, High, and Moderate. Finally, in the third row, write Ecosystem, Extensive, and Integrated.
+Produce a bar chart that compares the market shares of Google Chrome with 50% and Microsoft Edge with 25%, along with the 25% market share of various other browsers.
+Entitle the bar chart "Web Browser Market Share" and incorporate a "Page 1" comment within the slide.
+
+Choose a blue background for the slide and place the "Networking and LinkedIn" title on it.
+Insert the given text into the content section: "Networking plays a crucial role in career development, and LinkedIn is a powerful platform for professional networking. With millions of users worldwide, LinkedIn offers a range of features to connect with professionals, showcase skills, and discover job opportunities."
+Use dark red as the font color for the title and light red for the content.
+Select Arial as the font style for both the title and content.
+Underline the title, italicize the content, and adjust the content's font size to 24.
+Generate a pie chart that illustrates the percentage breakdown of LinkedIn users by industry, based on the given data for Technology, Finance, Healthcare, Marketing, and Others.
+Designate the pie chart with the title "LinkedIn User Distribution".
+Include the line chart using the same data set.
+Include the bar chart with equivalent data.
+
+Construct a unique slide and place the label "Different Cookers"
+Embed the given text into the content area: "There are various types of cookers available that cater to different cooking needs. From traditional stovetops to advanced electric cookers and modern induction cooktops, each type offers unique features and benefits."
+Construct a table consisting of four columns and three rows. The first row should contain Cooker Type, Features, and Benefits. Enter Stovetop, Gas or Electric Burners, and Precise Heat Control into the second row.
+Formulate a pie chart with the following distribution: Stovetop occupying 40%, Electric Cooker taking up 25%, Induction Cooktop comprising 20%, Slow Cooker constituting 10%, and Air Fryer accounting for 5%.
+Include the "Cooker Type Popularity" title in the pie chart.
+Embed an illustration of a stovetop within the slide.
+Change the image's measurements to a 7cm width and a 6cm height.
+Transfer the illustration to the right edge of the slide.## 1, picture, slide, right
+Transfer the illustration to the left segment of the slide.## 1, picture, slide, left
+Transition to slide 0 and assign a green color for the background.
+
+Include the label "Discover the Delight of Oreo"
+Use bold and italic styles for the title.
+Configure the font dimension to 30.
+Place the following text into the content section: "Oreo, the iconic sandwich cookie, has been a favorite treat for people of all ages. With its irresistible combination of chocolate wafers and creamy filling, Oreo offers a delightful snacking experience that brings joy to every bite."
+Adjust the content's font color to a rich blue tone.
+Embed a visual representation of Oreo cookies onto the slide.
+Transfer the illustration to the rightmost corner of the slide.## 0, picture, slide, right corner
+Incorporate a star shape into the slide and transfer it to the left edge of the slide.## 0, star, slide, left corner
+Position a pie and line chart within the slide, illustrating the data with Original accounting for 40%, Mint for 10%, and Peanut Butter for 50%.
+Produce a bar chart that has the same information, but under the heading "Oreo Flavor Popularity"
+
+Select purple as the background color for the slide.
+Name the slide title "Seasonal Variations" and emphasize it using bold and italic typography.
+Incorporate the following text into the content section: "Seasonal variations bring a distinct charm to our lives. From the vibrant colors of spring to the warm hues of summer, the cozy ambiance of autumn, and the serene landscapes of winter, each season offers a unique experience. Embrace the beauty of nature's transformation throughout the year."
+Convert the content's font style to Arial and increase the font size to 18.
+Add a table to the document that has four rows and four columns. In the first row, type Season, Average Temperature, Key Features, and Activities as the column titles.
+Incorporate a callout shape onto the slide and slide it over to the left area.## 0, callout, slide, left
+
+Put the title "Weather in Guangdong: A Climate of Diversity"
+Relocate the title to the slide's leftmost corner.## 0, title, slide, left corner
+Place the given passage into the double-spaced content section: "Guangdong experiences a wide range of weather conditions throughout the year. From warm and sunny days to occasional rainfall, foggy mornings, and cloudy skies, the climate in Guangdong is diverse and dynamic. Explore the different seasons and weather patterns in this vibrant region."
+Embed a sunny beach image on the slide and transfer it to the rightmost corner.## 0, picture, slide, right corner
+Insert a table with two columns and two rows. In the first row, insert Season and Average Temperature. in the second row, insert spring 20-28℃.
+Use a purple color for the slide's background.
+Reposition the table to the underside of the slide.## 0, table, slide, bottom
+Introduce a cloud pattern to the slide and transfer it to the left vicinity of the table.## 0, cloud, table, left
+
+Embed an image featuring a sunrise on the slide.
+Configure the picture to have a 6cm width and a square aspect.
+Use bold and italic text for the title "The Power of Positive Thinking: Embracing Optimism".
+Insert the following text into the content part with same style as the title:"Positive thinking is a mindset that focuses on optimism, resilience, and self-belief. By cultivating positive thoughts and attitudes, we can enhance our well-being, overcome challenges, and create a happier and more fulfilling life. Embrace the power of positive thinking and unlock your true potential."
+Alter the content by using a purple font color and a font size of 20.
+Embed a "postive thinking" comment onto the slide.
+
+Insert a table with three columns and four rows. Enter the following data into the table: Benefits,Description,Examples in the first row. Insert " Improved well-being" into the first cell in the second row.
+Incorporate the following text into the content section: "Positive thinking is a mindset that focuses on optimism, resilience, and self-belief. By cultivating positive thoughts and attitudes, we can enhance our well-being, overcome challenges, and create a happier and more fulfilling life. Embrace the power of positive thinking and unlock your true potential."
+Convert the content to an italic style and adjust the font color to a light blue tint.
+Choose a light green tone for the slide's background color.
+Position the "Definition" label on the slide and apply bold styling to it.
+Place the title at the uppermost corner of the slide.## 0, title, slide, top corner
+Incorporate a visual of a gathering of individuals enjoying laughter on the right slide.## 0, picture, slide, right
+
+Incorporate the title "Garbage Classification: Promoting Sustainable Waste Management" and the text "Garbage classification is a crucial practice in promoting sustainable waste management. By properly sorting and disposing of waste, we can reduce environmental pollution, conserve resources, and contribute to a cleaner and healthier planet. Embrace the responsibility of garbage classification and make a positive impact on our environment."
+Modify the text by underlining it and using an orange font color.
+Update the content with a font size of 18.
+Modify the title and content by applying the Times New Roman font style.
+Introduce an arrow to the slide and transfer it to the rightmost corner.## 0, arrow, slide, right corner
+Establish the arrow's size with a 4.0 width and a 3.0 height.
+Swivel leftward by a 90-degree angle.
+Construct a bar graph that showcases the recycling rates of different waste materials. "Paper," "Plastics," "Glass," "Metals," and "Organic Waste." should be used as categories on the X-axis. On the Y-axis, use the corresponding recycling percentages of 60%, 50%, 45%, 40%, and 40%. The bar chart should be titled "Waste Material Recycling Rates."
+Embed a visual representation of a recycling bin on the slide.
+Construct a novel slide and apply a purple shade as its background color.
+Produce a slide named "Organic Waste" and keep the content size consistent with the prior slide.
+Incorporate the following text into the content section: "Organic waste plays a significant role in sustainable living. By composting organic materials like food scraps, yard waste, and agricultural residues, we can reduce landfill waste, enrich soil quality, and close the nutrient cycle. Embrace the practice of composting and contribute to a greener future."
+
+Construct a brand-new slide and place the label "Oldroyd's film of Lady Macbeth" with bold formatting.
+It would be appreciated if you could underline the title and set its size to 28.
+"Birch's screenplay introduces a few major changes to the Leskov narrative. Eg. Birch and Oldroyd eliminate entirely the Siberia episodes and choose to cut out Katherine’s suicide."
+Update the content by configuring the font size to 20 and applying a bold style.
+Transform the font color of the content to yellow and switch the color of the title to red.
+Embed a snapshot of Lady Macbeth as portrayed in Oldroyd's motion picture on the slide.
+Change the width of the squared photo to be 8 centimeters.
+Transfer it to the content's right-hand side.## 1, picture, content, right
+Transfer it to the left side of the content, please.## 1, picture, content, left
+Include a table featuring 2 columns and 3 rows.
+Place Film Character and Actor/Actress in the first row. For the second row, use Lady Macbeth and Florence Pugh. In the third row, use Macbeth and Cosmo Jarvis.
+Append a "May 1st" note to the slide.
+Transform the background tint to a purplish hue.
+
+Construct a unique slide, designate "The Importance of Exercise" as its title, and underscore the heading for prominence.
+It would be great if you could update the title with a font size of 24 and a green font color.
+Write down the text: "Regular exercise can improve cardiovascular health, boost mood, and increase energy levels."
+Update the content with a font size of 20 and bold text styling.
+Transform the font color of the content to red.
+Incorporate an image depicting workout-related themes, like a person involved in running or performing yoga.
+Produce a pie chart that visualizes the data distribution: 10% for cardiovascular health, 30% for muscle strength, 50% for mental well-being, and 10% for disease prevention.
+Generate a table with five rows and two columns. Enter Types of Exercise (e.g., cardio, strength training, flexibility) into the first column, and Benefits (e.g., improved endurance, increased muscle tone, enhanced flexibility) into the second column.
+Transfer the table to the right area of the image.## 1, table, picture, right
+Position a star shape within the slide and modify the background color to be purple.
+Transfer the star to the slide's lower right section.## 1, star, slide, right bottom
+Modify the star's size by setting its width to 8cm and height to 4cm.
+
+Develop a brand-new slide, entitle it "The Benefits of Reading" underline the title, and change the font size to 24, if you would.
+Write this sentence: "Reading can improve cognitive function, increase empathy, and reduce stress."
+Emphasize the content with bold and italic styles.
+Apply the Arial font style to the content and switch the font color to green.
+I'd appreciate it if you could insert a photo of a person reading a book while seated on a bench in the park.
+Generate a bar chart that shows the publication amounts of 1400, 992, 400, 661, and 234 for the data categories of fiction, non-fiction, biographies, self-help, and fantasy, with the X-axis representing the categories and the Y-axis displaying the quantities of publications.
+Designate the bar chart with the title "Book sales"
+Include a table featuring three columns and three rows.
+Place the information regarding Reading Benefits, knowledge enhancement, and vocabulary expansion into the table's opening column.
+Make the slide's background color red.
+Append a "Reading books" note to the slide.
+Construct a novel slide with a matching background, and embed a photograph of a clock in the slide.
+Resize the image to a width of 10 cm and a height of 15 cm.
+Add a note titled "ABOUT READING" to the slide.
+
+
+Produce a unique slide, include the label "The Benefits of Volunteering" and accentuate it by underlining.
+Please set the font color of the title to dark red and set the size to 30
+"Volunteering can increase happiness, improve social skills, and provide a sense of purpose."
+Transform the font color of the content to a green shade.
+Transform the content to bold and update the font size to 18.
+Position the content in the bottom corner of the slide.## 1, content, slide, bottom corner
+I'd appreciate it if you could insert a photo of a collective of volunteers working in unison on a community-based project.
+Place the picture in the bottom left part of the slide.## 1, picture, slide, left bottom
+Insert a table with three columns and three rows. insert Benefits , personal growth, social connections into the first column.
+Emphasize the content by bolding it and expanding the font size to 20.
+Display the various areas of volunteering by creating a bar chart that includes data categories on the X-axis, such as community service, education, healthcare, environmental conservation, and disaster relief, and proportion on the Y-axis, with values of 25%, 45%, 10%, 15%, and 5%.
+Designate the bar chart with the title "Volunteergin Importance"
+
+Select purple as the background color.
+Input the "CAJ Format" title, and ensure it is underlined and italicized.
+Modify the font color of the title so that it corresponds to the color of the background.
+Embed the given text into the content area: "CAJ format is a widely used file format in China for academic papers and research documents. It provides a standardized structure and layout for efficient sharing and publishing."
+Use double space when setting up the content.
+Update the text's font style to "Arial" and emphasize it by making it bold.
+Adjust the content's font color to be green.
+Reposition the content to the top section of the slide.## 0, content, slide, top
+Incorporate an image showcasing a document example in the CAJ format.
+Transfer the photo to the highest corner of the slide.## 0, picture, slide, top corner
+Include a table that has a layout of two rows and three columns.
+Add "Section", "Heading", and "Content" to the beginning row.
+Produce a new slide and form a bar chart that represents the usage of distinct file formats. Incorporate data categories like "CAJ", "PDF", "DOC", "PPT", and "XLS" on the X-axis. Display the proportion of usage on the Y-axis, for instance, 30%, 25%, 20%, 15%, and 10%.
+Entitle the bar chart "File Format Usage".
+Include a "File Formate" note on the slide and align the background with that of the other slides.
+
+Write down the sentence: "Journaling can reduce stress, improve memory, and increase self-awareness."
+Emphasize the content by underlining it and transforming the font size to a shade of purple.
+Entitle the slide as "Journaling"
+Format the title with italics and choose Arial as the font style.
+I'd appreciate it if you could insert a photo of a person composing in a personal diary.
+Transfer the illustration to the lower end of the slide.## 0, picture, slide, bottom
+Include a star shape on the slide, ensuring it's located on the right portion.## 0, star, slide, right
+Give the star a 60-degree spin.
+
+Construct a brand-new slide with the caption "The Benefits of Gardening" and modify the title's font size to 28, while bolding the text.
+Incorporate this phrase: "Gardening can reduce stress, improve physical health, and increase creativity."
+Set the text to italic and update the font style to "Arial"
+Put a cloud design into the slide located on the right side.## 1, cloud, slide, right
+Transfer the cloud configuration to the left area of the caption.## 1, cloud, title, left
+Incorporate a 10cm wide photo that displays a person engaged in gardening tasks.
+Construct a novel slide and set its background to a gentle blue hue.
+Put a triangle in the left slide.## 2, cloud, slide, left
+Modify the triangle's height to be 15cm and apply a 45-degree rotation.
+
+Please put together a novel slide with the heading "IT Companies"
+To enhance the appearance, select the Times font in bold and configure the title size to be 32.
+Sure, I request an illustration of the Apple Company Logo, with the height and width uniformly configured to 2.
+Develop a table displaying the Apple Annual Revenue with 2 rows and 3 columns. The top row should list the years "2020", "2021", and "2022", while the second row should exhibit the corresponding revenue figures of "274B", "365B", and "394B".

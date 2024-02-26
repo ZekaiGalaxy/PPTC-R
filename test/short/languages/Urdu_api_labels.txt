@@ -1,0 +1,1876 @@
+choose_title();align_bottom_left_corner();insert_text("انسانی تشخیص");
+choose_content();insert_text("عام طور پر، متعدد مبصرین کے ذریعے گمنام طور پر اسکور کیا جاتا ہے، اور پھر تمام مبصرین کے جائزے کے نتائج کو ملا کر حتمی اسکور دیا جاتا ہے");
+insert_table(2, 2);
+choose_table_cell(0, 0);insert_text("فائدے");choose_table_cell(1, 0);insert_text("نقصانات");choose_table_cell(0, 1);insert_text("جملے کے ترجمے کے معیار کی درست عکاسی کریں، سب سے زیادہ مستند، سب سے زیادہ ساکھ");choose_table_cell(1, 1);insert_text("طویل وقت کی تشخیص");
+choose_content();set_font_size(20);set_font_style("Arial");
+insert_picture('coffee');align_slide_left();
+align_slide_right();
+create_slide();choose_title();insert_text("مارکنگ اسٹینڈرڈ");choose_content();insert_text("ڈائریکٹ اسیسمنٹ");insert_text("ریلیٹو رینکنگ");
+choose_title();set_font_color("green");choose_content();insert_bullet_point("");insert_bullet_point("");
+choose_title();set_font_size(24);choose_content();set_font_size(20);
+
+insert_picture('tower');align_slide_bottom();
+choose_title();insert_text("مواد");set_top("title","picture");
+insert_rectangle();set_fill_color("green");
+choose_title();set_font_color("green");
+set_font_size(24);
+set_font_style("Arial");set_font_size(48);
+set_font_style("Microsoft New Tai Lue");
+
+set_background_color("green");
+insert_cloud();align_slide_bottom();
+choose_content();insert_text("آپ بہت آہستہ چلاتے ہیں");
+insert_picture('rabbit');align_slide_right();
+choose_content();insert_text("ایک دن، خرگوش اور کچھوے کے درمیان ایک دوڑ ہے");
+create_slide();choose_content();insert_text("میں ایک دن جیتوں گا۔");align_slide_top();
+
+insert_picture('study');align_slide_center();
+insert_rectangle();align_slide_center();
+choose_title();insert_text("لیگ آف لیجنڈز");choose_content();insert_text("لیگ آف لیجنڈز ایک ٹیم پر مبنی گیم ہے جس کے ساتھ 140 سے زیادہ چیمپیئنز ایپک ڈرامے کر سکتے ہیں۔ ابھی مفت میں کھیلیں۔ مفت میں کھیلیں۔");
+choose_title();set_font_style("Times New Roman");set_font_size(24);
+choose_picture();set_width(6);set_height(5);
+rotate_element(15);
+create_slide();insert_picture('boy_holding_book');
+align_slide_center();
+choose_title();insert_text("اسکول میں بہتر کارکردگی کا مظاہرہ کیسے کریں");
+
+insert_cloud();align_slide_left();
+insert_picture("clock");align_slide_right();
+set_background_color("light blue");choose_title();insert_text("مصنوعی ذہانت");
+choose_content();insert_text("مصنوعی ذہانت کے معاشرے پر اثرات پر بڑے پیمانے پر بحث کی جاتی ہے۔ بہت سے لوگوں کا کہنا ہے کہ AI روزمرہ کی زندگی کے معیار کو بہتر بنا کر معمولات اور پیچیدہ کاموں کو انسانوں سے بہتر بناتا ہے، زندگی کو آسان، محفوظ اور زیادہ موثر بناتا ہے۔");
+set_font_color("light green");
+
+create_slide();choose_title();insert_text("مارچ میں شیڈول");set_font_color("red");
+set_font_size(28);set_font_color("dark blue");
+insert_table(1, 3);choose_table_cell(0, 0);insert_text("پہلی سے دسویں تک مطالعہ");choose_table_cell(0, 1);insert_text("11ویں سے 20ویں تک کام");choose_table_cell(0, 2);insert_text("21ویں سے 31ویں تک سفر");
+choose_title();set_font_style("Arial");
+insert_picture('happy_boy');set_right("picture","table");
+set_background_color("blue");
+choose_picture();set_width(6.5);set_height(5);
+set_background_color("yellow");
+
+create_slide();choose_title();insert_text("مراقبہ کے فوائد");
+insert_picture('meditation');align_slide_center();
+choose_content();insert_text("مراقبہ ایک سادہ لیکن طاقتور تکنیک ہے جو آپ کو اندرونی سکون اور سکون کی حالت حاصل کرنے میں مدد کر سکتی ہے۔");
+set_font_size(24);set_font_color("dark blue");
+insert_rectangle();set_right("rectangle", "content");
+set_background_color("light green");
+create_slide();set_background_color("light green");choose_title();insert_text("Types of Meditation");
+set_font_style("Arial");
+insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("Mindfulness Meditation");choose_table_cell(1, 0);insert_text("Transcendental Meditation");choose_table_cell(2, 0);insert_text("Body Scan Meditation");
+
+create_slide();set_background_color("green");
+insert_picture('grassland');align_slide_left();
+set_width(6.5);set_height(5.5);choose_title();insert_text("جنگلات کے افعال");
+set_font_color("orange");set_font_size(40);
+insert_right_arrow();align_slide_top();
+
+create_slide();insert_table(2, 2);
+choose_table_cell(0,0);insert_text("Type of Tree");choose_table_cell(0,1);insert_text("Uses");choose_table_cell(1,0);insert_text("درختوں کی مختلف اقسام");choose_table_cell(1,1);insert_text("پتوں کے مختلف رنگ");
+choose_content();insert_text("آج درخت لگانا یاد رکھیں!");
+set_font_size(20);set_font_color("green");set_font_underline();
+
+create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");
+move_to_slide(0);choose_title();insert_text("خوشحال خاندان");set_font_style("Microsoft JhengHei");
+move_to_slide(1);insert_picture('family');
+move_to_slide(2);insert_table(2, 2);
+choose_table_cell(0, 0);insert_text("باپ");choose_table_cell(0, 1);insert_text("ماں");choose_table_cell(1, 0);insert_text("دادا");choose_table_cell(1, 1);insert_text("بچوں");
+
+create_slide();choose_title();insert_text("بزنس پلان");
+insert_picture('light_bulb');align_slide_left();
+set_width(3);choose_content();insert_text("انٹرپرینیورشپ ایک نئے کاروبار کو ڈیزائن کرنے، شروع کرنے اور چلانے کا عمل ہے، جو اکثر ابتدائی طور پر ایک چھوٹا کاروبار ہوتا ہے۔ جو لوگ یہ کاروبار بناتے ہیں وہ کاروباری کہلاتے ہیں۔");
+set_font_size(20);set_font_color("green");
+set_background_color("dark blue");
+insert_circle();set_fill_color("red");
+choose_content();insert_text("کاروباری منصوبہ ایک تحریری دستاویز ہے جو تفصیل سے بیان کرتی ہے کہ کس طرح ایک کاروبار، عام طور پر ایک نیا، اپنے اہداف حاصل کرنے جا رہا ہے۔");
+choose_title();set_font_size(18);choose_content();set_font_size(18);
+insert_table(3, 4);
+choose_table_cell(0, 0);insert_text("مارکیٹنگ مکس");choose_table_cell(0, 1);insert_text("ٹارگٹ مارکیٹ");choose_table_cell(0, 2);insert_text("قیمت");choose_table_cell(0, 3);insert_text("پروموشن");
+
+create_slide();set_background_color("light blue");
+choose_content();insert_text("پروڈکٹ برانڈنگ کسی برانڈ کے ٹارگٹ صارفین تک پہنچنے کے ارادے سے دی گئی مصنوعات کے لیے مخصوص برانڈ کی ترقی ہے۔");
+set_font_italic();set_font_size(18);
+align_slide_bottom();
+insert_picture('lancome');align_slide_top();
+
+create_slide();choose_title();insert_text("بڑے پیمانے پر ماڈلنگ کے لوازمات");set_font_size(24);
+set_font_style("Arial");
+insert_table(1, 2);
+choose_table_cell(0, 0);insert_text("اہمیت");set_font_size(18);set_font_color("light blue");
+insert_picture('computer');align_slide_center();
+choose_content();insert_text("بڑے پیمانے پر ماڈلنگ");
+set_font_size(14);set_font_color("green");choose_title();set_font_size(14);set_font_color("green");
+
+insert_picture('tower');align_slide_left();
+choose_title();insert_text("The Ultimate Heist");
+set_font_style("Times New Roman");set_font_color("green");
+insert_triangle();align_slide_right();
+set_background_color("light blue");
+
+insert_table(3, 3);choose_table_cell(0, 0);insert_text("جامنی");choose_table_cell(0, 1);insert_text("نیلا");choose_table_cell(0, 2);insert_text("ہلکا نیلا");choose_table_cell(1, 0);insert_text("گہرا نیلا");choose_table_cell(1, 1);insert_text("سبز");choose_table_cell(1, 2);insert_text("ہلکا سبز");choose_table_cell(2, 0);insert_text("گہرا سبز");choose_table_cell(2, 1);insert_text("پیلا");choose_table_cell(2, 2);insert_text("ہلکا پیلا")
+set_background_color("green");
+set_background_color("dark blue");
+choose_title();insert_text("رنگ کی اقسام");insert_picture("clock");
+create_slide();set_background_color("yellow");
+choose_content();insert_text("اسپیڈ ویل، جسے برڈز آئی یا جپسی ویڈ بھی کہا جاتا ہے، یورپ میں رہنے والا ایک مشکل بارہماسی ہے۔");
+
+create_slide();insert_picture('arguing');
+choose_title();insert_text("شادی مردوں اور عورتوں دونوں کے لیے کیا لاتی ہے؟");
+create_slide();insert_picture('japanese_woman');insert_picture('african_woman');
+choose_title();insert_text("مختلف ازدواجی نظاموں کا تعین کرنے والے عوامل");
+create_slide();set_background_color("red");create_slide();set_background_color("red");create_slide();set_background_color("red");
+move_to_slide(2);choose_title();insert_text("مردوں اور عورتوں کے لیے شادی کے مشترکہ فوائد");
+set_font_underline();set_font_color("yellow");
+insert_picture('happy_family');align_slide_center();
+insert_rectangle();set_fill_color("red");insert_rectangle();set_fill_color("red");insert_rectangle();set_fill_color("red");
+create_slide();choose_title();insert_text("چین میں شادی کے ادارے کا ارتقا");
+insert_picture('clock');set_width(6.5);
+align_slide_left();
+create_slide();choose_title();insert_text("دنیا میں خواتین کو درپیش مشکلات");insert_picture('full_time_mother');
+set_height(5);
+
+choose_title();insert_text("نیورل نیٹ ورک");
+choose_content();insert_text("نیورل نیٹ ورک الگورتھم کا ایک مجموعہ ہیں جو انسانی دماغ کے کام کی نقل کرتے ہیں۔ وہ نمونوں کو پہچاننے، ڈیٹا کی درجہ بندی کرنے اور پیشین گوئیاں کرنے کے لیے بنائے گئے ہیں۔");
+set_font_size(12);set_font_color("orange");set_background_color("red");
+
+choose_title();insert_text("کوٹیشن مارک");
+choose_title();set_font_underline();set_font_size(24);
+choose_content();insert_text("کوٹیشن مارکس کی علامت اوقاف کی ایک قسم ہے جو باقی متن کے علاوہ الفاظ اور اقتباسات کو ترتیب دینے کے لیے استعمال ہوتی ہے۔");
+set_font_color("green");set_font_size(12);
+insert_picture('quotation_mark');align_slide_left();
+create_slide();set_background_color("blue");
+insert_rectangle();align_slide_right();
+insert_table(2, 1);
+choose_table_cell(0, 0);insert_text("آپ کیسے کرتے ہیں؟");choose_table_cell(1, 0);insert_text("کوٹیشن مارکس کے سب سے عام استعمال میں سے ایک براہ راست اقتباس کی نشاندہی کرنا ہے، ایک ایسا اقتباس جو کسی دوسرے ماخذ سے لفظی طور پر نقل کیا جاتا ہے۔");
+
+create_slide();set_background_color("dark green");
+choose_title();insert_text("انتھروپولوجی کے فیلڈز اور برانچز");set_font_size(18);
+choose_content();insert_text("انسانیات کے دو وسیع شعبے ہیں۔");set_font_size(18);
+text_align_right();
+
+insert_right_arrow();align_slide_left();
+set_width(4.0);set_height(3.0);
+choose_content();insert_text("وسطی ایشیا کے وسیع حصّے بے حد غیر آباد محسوس کرتے ہیں۔");
+choose_shape("right_arrow");set_width(5.0);set_height(4.0);rotate_element(90);
+choose_content();set_line_space(2);
+
+choose_title();insert_text("تعلیم/تعلیم/پی پی ٹی نمائندگی");
+choose_content();insert_text("گلوبل وارمنگ کا نقصان دہ اثر");
+choose_title();set_font_color("dark blue");choose_content();set_font_color("purple");
+insert_rectangle();set_fill_color("purple");
+align_top_left_corner();
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("give");choose_table_cell(0, 1);insert_text("give");choose_table_cell(0, 2);insert_text("giving");choose_table_cell(0, 3);insert_text("given");
+choose_content();set_font_color("dark blue");
+
+set_background_color("orange");
+insert_picture("cat");set_width(5);set_height(5);
+create_slide();set_background_color("orange");create_slide();set_background_color("orange");create_slide();set_background_color("orange");
+choose_title();insert_text("ڈنگ ٹاک انفارمیشن");
+insert_table(3, 5);
+choose_table_cell(0, 0);insert_text("ڈاؤن لوڈ کرنے کے طریقے");choose_table_cell(0, 1);insert_text("تنظیم میں شامل ہونے کا طریقہ");choose_table_cell(0, 2);insert_text("دوستوں کو کیسے تلاش کریں");choose_table_cell(0, 3);insert_text("فوائد");choose_table_cell(0, 4);insert_text("نوٹ");
+insert_star();align_slide_right();
+choose_content();insert_text("فورسٹال سے مراد وقت سے پہلے کچھ کرنے سے روکنا یا رکاوٹ بنانا ہے");
+set_background_color("blue");
+choose_content();text_align_left();
+
+insert_right_arrow();set_fill_color("yellow");
+choose_title();insert_text("اسکول میں ہفتہ کے دن");text_align_left();
+choose_title();set_font_color("dark blue");set_font_italic();set_font_underline();
+choose_content();insert_text("فورسٹال کا مطلب ہے کہ دوبارہ فروخت ہونے پر قیمت میں اضافہ کرنے کے لیے پہلے سے (سامان) خریدنا");
+insert_picture("school_badge");set_width(2.5);set_height(2.5);
+create_slide();set_background_color("green");
+choose_title();insert_text("نوٹ");text_align_right();
+set_font_color("light green");set_font_size(26);
+choose_content();insert_bullet_point("");insert_bullet_point("");insert_bullet_point("");
+insert_note("2023/4/9");move_to_previous_slide();insert_note("2023/4/8");
+
+insert_star();align_slide_right();
+set_fill_color("blue");
+insert_right_arrow();align_slide_left();set_fill_color("red");
+choose_title();insert_text("فیصلہ کرنا");
+choose_content();insert_text("موجودہ عالمی وبائی مرض نے ہماری روزمرہ کی زندگیوں کو درہم برہم کر دیا ہے اور دنیا کو اس طرح سے نئی شکل دی ہے جس کا ہم کبھی تصور بھی نہیں کر سکتے تھے۔");
+choose_content();set_font_underline();choose_title();set_font_size(24);
+choose_content();set_font_style("Times New Roman");choose_title();set_font_style("Times New Roman");
+
+create_slide();create_slide();create_slide();create_slide();create_slide();
+move_to_slide(0);choose_title();insert_text("تعارف");move_to_slide(1);choose_title();insert_text("ترقی");move_to_slide(2);choose_title();insert_text("تجزیہ");move_to_slide(3);choose_title();insert_text("تجزیہ");move_to_slide(4);choose_title();insert_text("نتیجہ");
+move_to_slide(0);set_background_color("yellow");move_to_slide(1);set_background_color("yellow");move_to_slide(2);set_background_color("yellow");move_to_slide(3);set_background_color("yellow");move_to_slide(4);set_background_color("yellow");
+move_to_slide(0);choose_title();set_font_style("Microsoft JhengHei");
+move_to_slide(1);insert_picture("clock");
+move_to_slide(2);insert_bar_chart([160, 170, 130], ["اکتوبر", "نومبر", "دسمبر"]);
+move_to_slide(3);insert_table(2, 3);
+choose_table_cell(0, 0);insert_text("toIPA");choose_table_cell(0, 1);insert_text("فوائد");choose_table_cell(0, 2);insert_text("نقصانات");
+move_to_slide(4);choose_title();set_font_style("Times New Roman");
+move_to_slide(4);insert_cloud();
+move_to_slide(0);insert_note("ایوا کے ذریعہ تخلیق کردہ");move_to_slide(1);insert_note("ایوا کے ذریعہ تخلیق کردہ");move_to_slide(2);insert_note("ایوا کے ذریعہ تخلیق کردہ");move_to_slide(3);insert_note("ایوا کے ذریعہ تخلیق کردہ");move_to_slide(4);insert_note("ایوا کے ذریعہ تخلیق کردہ");
+
+insert_circle();set_fill_color("purple");
+insert_picture("water_bottle");insert_textbox();insert_text("بوتل");
+choose_title();insert_text("QUALITY");
+set_font_color("red");
+insert_table(2, 2);
+choose_table_cell(0, 0);insert_text("مشین اسیسمنٹ");choose_table_cell(0, 1);insert_text("ہیومن اسیسمنٹ");choose_table_cell(1, 0);insert_text("آٹومیٹک اسیسمنٹ 1");choose_table_cell(1, 1);insert_text("آٹومیٹک اسیسمنٹ 2");
+create_slide();choose_title();insert_text("اچیومنٹ");set_background_color("purple");
+
+create_slide();choose_title();insert_text("Q2 کے لیے مارکیٹنگ کی حکمت عملی");
+set_background_color("blue");
+create_slide();choose_title();insert_text("بڑھتی ہوئی فروخت اور برانڈ آگاہی");
+set_font_size(60);
+move_to_slide(1);set_background_color("green");
+create_slide();set_background_color("green");create_slide();set_background_color("green");create_slide();set_background_color("green");
+move_to_slide(2);choose_title();insert_text("مارکیٹ کے رجحانات اور مسابقتی تجزیہ");
+choose_content();insert_picture("blue_sea");
+set_height(4);set_width(5);set_left("picture", "title");
+move_to_slide(3);choose_title();insert_text("ہمارا مشن اور اقدار۔");
+choose_content();insert_text("VISION۔ مکمل صحت کے ساتھ لمبی زندگی گزارنے والے تمام لوگ۔ MISSION.IHME صحت کی پالیسی اور عمل کو بہتر بنانے کے لیے بروقت، متعلقہ، اور سائنسی اعتبار سے درست ثبوت دنیا کو فراہم کرتا ہے۔");
+set_line_space(1.5);
+choose_content();set_font_size(40);set_font_style("Times New Roman");
+
+create_slide();set_background_color("yellow");
+choose_title();insert_text("چین اور امریکہ میں تعلیم کا موازنہ");
+delete_text();insert_text("اختلافات اور مماثلتیں دریافت کریں");
+delete_text();insert_text("دی فرق اور مماثلت");
+create_slide();create_slide();create_slide();create_slide();create_slide();
+move_to_slide(1);set_background_color("yellow");move_to_slide(2);set_background_color("yellow");move_to_slide(3);set_background_color("yellow");move_to_slide(4);set_background_color("yellow");move_to_slide(5);set_background_color("yellow");
+move_to_slide(1);choose_title();insert_text("تعلیمی نظام");
+choose_content();insert_text("چین میں تعلیم کا انتظام بنیادی طور پر سرکاری تعلیمی نظام کے ذریعے کیا جاتا ہے، جو وزارت تعلیم کے تحت آتا ہے۔ تمام شہریوں کو کم از کم نو سال تک سکول جانا چاہیے، جسے نو سالہ لازمی تعلیم کے نام سے جانا جاتا ہے، جسے فنڈز فراہم کیے جاتے ہیں۔ حکومت کی طرف سے.");
+move_to_next_slide();choose_title();insert_text("تعلیم کے مختلف انداز اور طریقے");
+move_to_next_slide();choose_title();insert_text("استاد-طلبہ کا رشتہ");move_to_next_slide();choose_title();insert_text("طلبہ کی کارکردگی کا جائزہ۔");
+move_to_slide(4);insert_picture("forest");
+choose_content();insert_text("2014 میں، دی گارڈین کے جوناتھن کیمن نے لکھا کہ چینی والدین اور ماہرین تعلیم "اپنے نظام کو بدعنوان، غیر انسانی، دباؤ اور غیر منصفانہ سمجھتے ہیں"۔ انہوں نے ملک کے کالج کے داخلے کے امتحان (جسے گاوکاو کہا جاتا ہے) پر گفتگو کرتے ہوئے لکھا کہ "بہت سے والدین نو گھنٹے کے سخت امتحان کو چھانٹنے کا ایک طریقہ کار سمجھتے ہیں جو ان کے بچوں کی زندگی کی رفتار کا تعین کرے گا۔");set_font_color("red");set_font_underline();
+move_to_slide(5);insert_table(1, 1);choose_table_cell(0,0);insert_text("ذمہ داری");
+
+create_slide();choose_content();insert_picture("DingTalk_app");
+choose_title();insert_text("چیٹ جی پی ٹی کا تعارف");set_font_color("green");
+create_slide();choose_title();insert_text("AI زبان کے ماڈلز کی طاقت کو جاری کرنا۔");text_align_left();create_slide();choose_title();insert_text("AI زبان کے ماڈلز کی طاقت کو جاری کرنا۔");text_align_left();create_slide();choose_title();insert_text("AI زبان کے ماڈلز کی طاقت کو جاری کرنا۔");text_align_left();create_slide();choose_title();insert_text("AI زبان کے ماڈلز کی طاقت کو جاری کرنا۔");text_align_left();create_slide();choose_title();insert_text("AI زبان کے ماڈلز کی طاقت کو جاری کرنا۔");text_align_left();
+move_to_slide(1);choose_content();set_font_style("Arial");
+insert_text("ChatGPT ایک مصنوعی ذہانت (AI) چیٹ بوٹ ہے جسے OpenAI نے تیار کیا ہے اور نومبر 2022 میں جاری کیا گیا ہے۔ یہ OpenAI کے GPT-3.5 اور GPT-4 خاندانوں کے بڑے لینگویج ماڈلز (LLMs) کے اوپر بنایا گیا ہے اور زیر نگرانی اور کمک سیکھنے والی دونوں تکنیکوں کا استعمال کرتے ہوئے (سیکھنے کی منتقلی کا ایک نقطہ نظر) ٹھیک بنایا گیا ہے۔");
+set_font_size(30);set_line_space(2);
+insert_table(1, 1);choose_table_cell(0,0);insert_text("ڈنگ ٹاک ڈاؤن لوڈ کرنے کا طریقہ");
+move_to_next_slide();
+choose_title();insert_text("خصوصیات اور حدود");text_align_center();
+choose_content();insert_text("اگرچہ چیٹ بوٹ کا بنیادی کام ایک انسانی گفتگو کرنے والے کی نقل کرنا ہے، ChatGPT ورسٹائل ہے۔ یہ کمپیوٹر پروگرام لکھ سکتا ہے اور ڈیبگ کر سکتا ہے، مشہور شخصیت کے سی ای او کے انداز کی نقل کر سکتا ہے اور کاروباری پچ لکھ سکتا ہے، موسیقی، ٹیلی پلے، پریوں کی کہانیاں اور طالب علم کے مضامین لکھ سکتا ہے، جواب دے سکتا ہے۔ امتحانی سوالات (بعض اوقات، ٹیسٹ کے لحاظ سے، اوسط انسانی ٹیسٹ لینے والے سے اوپر کی سطح پر)، شاعری اور گانے کے بول لکھیں، لینکس سسٹم کی تقلید کریں۔ پورے چیٹ رومز کی تقلید کریں، ٹک ٹیک ٹو جیسے گیمز کھیلیں اور اے ٹی ایم کی نقل بنائیں ");
+
+create_slide();set_background_color("green");
+choose_content();insert_text("زندگی ان لوگوں کے ساتھ وقت گزارنے کے لیے بہت مختصر ہے جو آپ کی خوشیوں کو چھین لیتے ہیں۔");set_line_space(1.5);
+set_font_style("Verdana");set_font_size(20);
+set_font_underline();set_font_color("yellow");
+
+create_slide();set_background_color("blue");choose_title();insert_text("مشین لرننگ");
+choose_content();insert_text("مشین لرننگ مصنوعی ذہانت (AI) کا ایک اطلاق ہے جو سسٹم کو واضح طور پر پروگرام کیے بغیر تجربے سے خود بخود سیکھنے اور بہتر بنانے کی صلاحیت فراہم کرتا ہے۔ ڈیٹا اور اسے اپنے لیے سیکھنے کے لیے استعمال کریں۔");
+set_font_size(20);set_font_style("Verdana");
+set_font_style("Times New Roman");text_align_right();
+choose_title();set_font_color("red");set_font_size(40);
+set_font_color("blue");
+insert_picture("machine_learning");align_slide_left();
+set_height(1.2);set_width(1.2);
+choose_content();insert_star();set_fill_color("green");
+
+create_slide();choose_title();insert_text("مارکیٹنگ کی حکمت عملی");
+choose_content();insert_bullet_point("Search Engine Optimization (SEO)");insert_bullet_point("Social Media Marketing (SMM)");insert_bullet_point("Email Marketing");insert_bullet_point("Content Marketing");insert_bullet_point("Pay-Per-Click Advertising (PPC)");
+insert_picture("marketing");set_height(1);set_width(1);
+insert_pie_chart([35, 25, 15, 10, 15], ["Apple", "Samsung", "Huawei", "Xiaomi", "Others"]);insert_table(2, 2);
+choose_chart();set_chart_title("مارکیٹنگ");choose_table_cell(0, 0);insert_text("MT1");choose_table_cell(0, 1);insert_text("MT2");choose_table_cell(1, 0);insert_text("ST1");choose_table_cell(1, 1);insert_text("ST2")
+choose_content();align_slide_bottom();
+create_slide();insert_pie_chart([35, 25, 15, 10, 15],["Apple", "Samsung", "Huawei", "Xiaomi", "Other"]);set_chart_title("Marketing");
+create_slide();insert_table(2, 2);choose_table();insert_table_row(["MT1", "MT2"]);insert_table_row(["ST1", "ST2"])
+
+create_slide();choose_title();insert_text("ڈیٹا ویژولائزیشن");
+insert_bar_chart([8.4, 4.0, 2.7, 2.3, 1.7], ["نیویارک", "لاس اینجلس", "شکاگو", "ہیوسٹن", "فینکس"]);align_slide_left();
+insert_textbox();insert_text("ڈیٹا ویژولائزیشن ایک تصویری یا تصویری شکل میں ڈیٹا کی پیشکش ہے۔ یہ فیصلہ سازوں کو اس قابل بناتا ہے کہ وہ بصری طور پر پیش کردہ تجزیات کو دیکھ سکیں، تاکہ وہ مشکل تصورات کو سمجھ سکیں یا نئے نمونوں کی شناخت کر سکیں۔");
+set_font_color("green");
+create_slide();choose_content();insert_text("یہ دلیہ چکنائی والے چاول، براؤن شوگر، اور اٹھارہ قسم کے خشک میوہ جات کو ایک ساتھ پکا کر بنایا گیا ہے۔");
+
+create_slide();choose_title();insert_text("Laba Porridge");
+choose_content();insert_text("چونکہ مجھے یاد ہے، ہر سال بارہویں قمری مہینے کی آٹھویں تاریخ کو، میری والدہ ہمارے لیے لبا دلیہ پکاتی تھیں۔");
+set_font_color("yellow");set_font_bold();
+insert_table(2, 1);align_slide_right();
+choose_table_cell(0, 0);insert_text("ہسٹری");choose_table_cell(1, 0);insert_text("ماڈرن");
+set_background_color("light red");
+
+set_background_color("yellow");
+set_background_color("green");
+choose_title();insert_text("بڑی کمپنی");
+set_font_size(28);set_font_style("Futura");
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("نمبر");choose_table_cell(0, 1);insert_text("ملازمین کے نام")
+insert_picture("company1");insert_picture("company2");insert_picture("company3");
+choose_table();choose_table_cell(0,0);set_font_color("yellow");choose_table_cell(0,1);set_font_color("yellow");
+
+create_slide();choose_title();insert_text("مصنوعی اعصابی نیٹ ورکس");
+choose_content();insert_text("مصنوعی عصبی نیٹ ورکس (ANNs) ایسے کمپیوٹنگ سسٹم ہیں جو حیاتیاتی اعصابی نیٹ ورکس سے متاثر ہوتے ہیں جو جانوروں کے دماغ کو تشکیل دیتے ہیں۔ ایسے نظام مثالوں پر غور کر کے کام انجام دینا سیکھتے ہیں، عام طور پر کسی کام کے مخصوص اصولوں کے ساتھ پروگرام کیے بغیر۔ ANNs سیکھنے اور نئے ان پٹ کے مطابق ڈھالنے کی صلاحیت رکھتے ہیں، جو انہیں ایپلی کیشنز کی ایک وسیع رینج کے لیے مفید بناتا ہے، بشمول تصویر کی شناخت، تقریر کی شناخت، اور قدرتی زبان کی پروسیسنگ۔");
+set_font_size(24);
+set_font_style("Calibri");set_background_color("light orange");
+text_align_center();choose_title();text_align_left();
+set_background_color("blue");
+insert_picture("artificial_neural_networks");
+set_width(5.5);
+align_slide_right();
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("1");choose_table_cell(0, 1);insert_text("2");choose_table_cell(0, 2);insert_text("3")
+insert_table_row(["ویڈیو گیمز", "سوئچ", "ٹی وی سیریز"])
+
+create_slide();set_background_color("red");create_slide();set_background_color("red");
+move_to_slide(0);choose_title();insert_text("چیلنجز");set_font_style("Calibri");
+choose_content();insert_text("کام کی جگہ پر AI کو لاگو کرنے کے چیلنجوں میں مہارت کی کمی، لاگت اور تبدیلی کے خلاف مزاحمت شامل ہے۔");
+set_font_color("green");
+move_to_slide(1);insert_picture("AI");align_slide_center();
+
+create_slide();choose_title();insert_text("تعارف");
+choose_content();insert_text("ویڈیو گیمز کی تاریخ پر میری پیشکش میں خوش آمدید۔ 1950 کی دہائی میں پہلی الیکٹرانک گیم کی ایجاد کے بعد سے ویڈیو گیمز نے بہت طویل سفر طے کیا ہے۔ آج ویڈیو گیمز ایک اربوں ڈالر کی صنعت ہے جو پوری دنیا کے لوگ اس سے لطف اندوز ہوتے ہیں۔");
+insert_picture("first_electronic_game");
+align_bottom_right_corner();
+choose_title();set_font_color("blue");
+insert_textbox();choose_textbox();insert_text("جان سمتھ کی طرف سے پیش کیا گیا");
+
+create_slide();choose_title();insert_text("نیورل نیٹ ورکس");
+choose_content();insert_text("نیورل نیٹ ورک الگورتھم کا ایک مجموعہ ہیں جو انسانی دماغ کے کام کی نقل کرتے ہیں۔ وہ مختلف قسم کے ایپلی کیشنز جیسے کہ تصویر کی شناخت، تقریر کی شناخت، اور قدرتی زبان کی پروسیسنگ کے لیے استعمال ہوتے ہیں۔");
+set_font_style("Arial");
+insert_triangle();align_top_left_corner();
+insert_picture("neutral_network");
+set_height(1.2);set_width(1.2);
+create_slide();insert_right_arrow();set_fill_color("blue");align_slide_right();
+insert_line_chart([120,140,110,90], ["جنوری", "فروری", "مارچ", "اپریل"]);set_chart_title("Chatgpt");
+choose_content();insert_textbox();insert_text("ٹینسر فلو");
+choose_title();set_font_color("blue");set_background_color("light blue");
+
+choose_content();insert_text("لغت کو الفاظ کے معنی، اور تلفظ، املا، اور نئے الفاظ تلاش کرنے کے لیے استعمال کیا جا سکتا ہے۔");
+insert_circle();set_top("circle","content");
+insert_text("اسم جملہ");
+choose_content();set_font_color("red");set_font_style("Impact");
+
+create_slide();choose_title();insert_text("تعارف");create_slide();choose_title();insert_text("طریقہ کار");create_slide();choose_title();insert_text("نتائج");
+move_to_slide(0);choose_content();insert_text("یہ پیشکش ہمارے تحقیقی منصوبے کو متعارف کرائے گی اور اس کی اہمیت کی وضاحت کرے گی۔");move_to_slide(1);choose_content();insert_text("ہمارے تحقیقی طریقہ کار میں مختلف ذرائع سے ڈیٹا اکٹھا کرنا اور نتائج اخذ کرنے کے لیے شماریاتی تجزیہ کا استعمال شامل ہے۔");
+choose_content();text_align_left();
+move_to_slide(0);set_background_color("light blue");move_to_slide(1);set_background_color("light blue");move_to_slide(2);set_background_color("light blue");
+insert_picture("graph");set_height(6.5);
+move_to_slide(0);insert_note("2022/1/1");move_to_slide(1);insert_note("2022/1/1");move_to_slide(2);insert_note("2022/1/1");
+
+create_slide();choose_title();insert_text("پروڈکٹ کا جائزہ");create_slide();choose_title();insert_text("خصوصیات");
+move_to_slide(0);insert_picture("product");
+choose_content();insert_text("ہماری مصنوعات کو ہماری ٹارگٹ مارکیٹ کی ضروریات کو پورا کرنے کے لیے ڈیزائن کیا گیا ہے تاکہ ان کے مسئلے کا آسان اور موثر حل فراہم کیا جا سکے۔");
+move_to_slide(1);insert_table(5, 2);
+choose_table_cell(4, 1);insert_text("ڈنگ ٹاک");
+choose_table_cell(4, 1);set_font_style("Times New Roman");
+move_to_slide(0);insert_note("موجودہ وقت 12:00 PM ہے");move_to_slide(1);insert_note("موجودہ وقت 12:00 PM ہے");move_to_slide(2);
+
+create_slide();choose_title();insert_text("سیلز رپورٹ");text_align_center();
+insert_pie_chart([120, 220, 180], ["پروڈکٹ A", "پروڈکٹ B", "پروڈکٹ C"]);
+choose_title();set_font_size(28);
+insert_picture("company_logo");align_top_right_corner();
+choose_content();insert_text("یہ رپورٹ 2023 کی پہلی سہ ماہی میں ہماری مصنوعات کی فروخت کی کارکردگی کو ظاہر کرتی ہے۔");
+set_font_style("Times New Roman");
+text_align_center();
+
+create_slide();choose_title();insert_text("مارکیٹنگ کی حکمت عملی");
+choose_title();set_font_style("Calibri");set_font_size(36);
+choose_content();insert_picture("marketing_campaign");
+rotate_element(45);align_slide_right();
+create_slide();choose_title();insert_text("طاقتور MT");
+set_font_style("Arial");set_font_size(24);
+insert_textbox();insert_bullet_point("SEO");insert_bullet_point("Email Marketing");insert_bullet_point("PPC");set_bottom("textbox","title");
+set_background_color("blue");
+insert_bar_chart([27, 30, 29], ["آئٹم اے", "آئٹم بی", "آئٹم سی"]);align_slide_left();
+set_chart_title("Marketing Budget");
+insert_table(4, 2);
+choose_table_cell(0, 0);insert_text("تاریخ");choose_table_cell(0, 1);insert_text("پیر");choose_table_cell(1, 0);insert_text("منگل");choose_table_cell(1, 1);insert_text("بدھ");choose_table_cell(2, 0);insert_text("جمعرات");choose_table_cell(2, 1);insert_text("جمعہ");choose_table_cell(3, 0);insert_text("ہفتہ");choose_table_cell(3, 1);insert_text("اتوار");
+choose_table();set_right("table","chart");
+
+create_slide();set_background_color("yellow");
+choose_title();insert_text("تشخیصی میٹرکس");
+choose_content();insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("میٹرک");choose_table_cell(0, 1);insert_text("فارمولا");choose_table_cell(1, 0);insert_text("درستگی");choose_table_cell(1, 1);insert_text("(TP+TN)/(TP+TN+FP+FN)");choose_table_cell(2, 0);insert_text("Precision");choose_table_cell(2, 1);insert_text("TP/(TP+FP)");
+insert_line_chart([160, 170, 130], ["اکتوبر", "نومبر", "دسمبر"]);set_chart_title("Time Machine");
+insert_bar_chart([160, 170, 130], ["October", "November", "December"]);
+
+create_slide();choose_title();insert_text("ڈیٹا ویژولائزیشن");
+insert_bar_chart([60,70,80,90], ["آنکھ", "ہاتھ", "ٹانگ", "گھٹنے"]);
+choose_chart();set_height(4);set_width(4);
+set_chart_title("Sales by Region");
+insert_right_arrow();set_fill_color("green");
+
+create_slide();choose_title();insert_text("مارکیٹنگ مہم");
+choose_content();insert_picture("product");set_right("picture","content");
+set_width(5);
+choose_content();insert_text("یورپی زبان کا خاندان جو فریسی، جرمن، اور ڈچ (بیلجیئم میں فلیمش کہلاتی ہے) زبانوں سے قریبی تعلق رکھتا ہے۔");
+insert_circle();set_fill_color("red");align_bottom_right_corner();
+set_background_color("green");
+set_background_color("light blue");
+create_slide();choose_title();insert_text("سیلز ڈیٹا");
+insert_table(1, 4);
+choose_table();insert_table_row(["سیلز پرسن کا نام", "کل سیلز", "کمیشن کی شرح", "کمیشن کی رقم"])
+create_slide();set_background_color("light blue");
+
+create_slide();choose_title();insert_text("سیلز رپورٹ");set_font_size(25);
+choose_content();insert_text("ہماری کمپنی کی سہ ماہی فروخت کی رپورٹ یہ ہے:");
+set_font_size(16);set_font_color("purple");
+insert_rectangle();set_width(8);set_height(5);
+set_background_color("green");
+
+create_slide();choose_title();insert_text("مصنوعی اعصابی نیٹ ورکس");
+choose_content();insert_text("مصنوعی عصبی نیٹ ورکس (ANNs) وہ کمپیوٹنگ سسٹم ہیں جو حیاتیاتی اعصابی نیٹ ورکس سے متاثر ہوتے ہیں، لیکن ان سے مماثل نہیں، جو جانوروں کے دماغ کو تشکیل دیتے ہیں۔ ایسے نظام مثالوں پر غور کر کے کام کرنا سیکھتے ہیں، عام طور پر پروگرام کیے بغیر۔ کام کے مخصوص اصولوں کے ساتھ۔");
+set_font_size(24);set_font_style("Arial");
+choose_title();set_font_color("purple");
+insert_picture("brain");set_width(6.5);
+rotate_element(90);
+insert_textbox();insert_text("ANNs کی درخواستیں");
+choose_title();set_font_size(36);set_font_style("Calibri");
+insert_table(2, 1);
+choose_table_cell(0, 0);insert_text("تصویر کی شناخت");choose_table_cell(1, 0);insert_text("قدرتی زبان کی پروسیسنگ");
+
+choose_title();insert_text("مشین ٹرانسلیشن کوالٹی اسسمنٹ");
+insert_textbox();insert_text("رپورٹر: ایوا۔");set_bottom("textbox","title");
+choose_title();set_font_size(66);
+set_background_color("blue");choose_title();set_font_color("red");choose_textbox();set_font_color("red");
+set_background_color("red");choose_title();set_font_color("blue");choose_textbox();set_font_color("blue");
+
+create_slide();choose_title();insert_text("نیورل نیٹ ورکس");
+choose_content();insert_text("نیورل نیٹ ورک الگورتھم کا ایک مجموعہ ہیں جو انسانی دماغ کے کام کی نقل کرتے ہیں۔ وہ نمونوں کو پہچاننے، ڈیٹا کی درجہ بندی کرنے اور پیشین گوئیاں کرنے کے لیے بنائے گئے ہیں۔");
+set_font_size(24);
+set_font_style("Arial");text_align_center();
+choose_title();set_font_color("blue");
+set_font_color("green");
+insert_picture("brain");set_width(1.5);set_height(1.5);
+choose_content();insert_text("انسانی دماغ نے اعصابی نیٹ ورکس کی ترقی کو متاثر کیا");
+insert_note("قطعی اعصابی نیٹ ورک");
+create_slide();set_background_color("yellow");
+
+create_slide();choose_title();insert_text("ذاتی اقتصاد");insert_note("ذاتی اقتصاد");
+choose_title();set_font_size(24);set_font_underline();
+choose_content();insert_text("ذاتی مالیات انفرادی اور خاندانی مالیات کو منظم کرنے، آپ کی موجودہ اور مستقبل کی مالی صورتحال کی ذمہ داری لینے، اور مالی اہداف طے کرنے کی پوری کائنات کو گھیرے ہوئے ہے۔ اس میں انفرادی مالیاتی کاموں کو سنبھالنا اور ہنگامی حالات کے لیے بچت بھی شامل ہے۔ ");
+set_font_color("orange");
+insert_picture("corporate_finance_book");
+set_width(6.5);
+set_background_color("blue");
+set_background_color("light blue");
+create_slide();set_background_color("light blue");create_slide();set_background_color("light blue");
+move_to_slide(1);insert_table(1, 2);
+
+choose_content();insert_text("مائیکروسافٹ اپ ڈیٹ کیٹلاگ سائٹ میں خوش آمدید۔");
+set_font_color("orange");set_background_color("dark blue");
+insert_picture("computer");align_slide_bottom();
+align_slide_left();
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("بنیادی تصورات");choose_table_cell(0, 1);insert_text("اصل");choose_table_cell(0, 2);insert_text("زمرے");choose_table_cell(0, 3);insert_text("ترقی")
+create_slide();insert_star();set_fill_color("red");
+insert_pie_chart([10, 12, 14], ["Q1", "Q2", "Q3"]);choose_shape("star");align_bottom_left_corner();
+choose_chart();set_height(10);set_width(10);
+
+create_slide();set_background_color("blue");
+choose_title();insert_text("تعارف");
+choose_content();insert_text("People Plus Money ذاتی مالیات کے برابر ہے۔");
+set_font_italic();set_font_underline();
+set_font_color("green");
+insert_picture("person_grasping_money");align_bottom_right_corner();
+set_width(8);set_height(7);
+create_slide();choose_content();insert_text("پیسہ ہی سب کچھ نہیں ہے، لیکن کوئی پیسہ ناممکن نہیں ہے");
+set_font_style("Futura");set_font_color("blue");
+set_font_color("purple");
+insert_pie_chart([1, 2, 3, 4, 5])], ["1", "2", "3", "4", "5"]);set_right("chart", "content");
+choose_title();insert_text("پیسے کے اثرات");
+
+create_slide();choose_title();insert_text("ذاتی اور کارپوریٹ فنانس میں فرق");
+insert_table(2, 3);
+insert_picture("company_logo");set_left("picture", "table");
+choose_table();choose_table_cell(0,0);insert_text("بارڈر لینڈز 2");choose_table_cell(0,1);insert_text("ڈیوائنٹی: اوریجنل گناہ 2");choose_table_cell(0,2);insert_text("فائنل فینٹسی VII");choose_table_cell(1,0);insert_text("اساسین کریڈ IV: بلیک فلیگ");choose_table_cell(1,1);insert_text("میگا مین 3");choose_table_cell(1,2);insert_text("میگا مین 3");
+insert_cloud();align_slide_right();
+insert_note("2023/4/23");
+
+set_background_color("orange");
+create_slide();choose_title();insert_text("برجٹ فونڈا");set_background_color("orange");
+set_font_italic();set_font_size(18);
+insert_picture("bridget_fonda");align_top_right_corner();
+choose_picture();set_width(8);set_height(7);
+create_slide();
+choose_content();insert_text("لاس اینجلس میں پیدا ہونے والی، بریجٹ فونڈا ایک معزز اداکار گھرانے سے تعلق رکھتی ہے، جس میں ہنری فونڈا، پیٹر فونڈا اور جین فونڈا شامل ہیں۔ وہ ہاروے کی ایک اسکول پروڈکشن میں نمودار ہونے کے بعد تھیٹر سے وابستہ ہوگئیں، اور بعد میں وہ تھیٹر سے وابستہ ہوگئیں۔ پارٹنرز میں خاموش کردار۔ 1988 میں، وہ اسکینڈل میں نظر آئیں، اس کا پہلا بولنے والا کردار، اس کے بعد چند چھوٹے کردار بھی۔");
+set_font_size(12);set_font_italic();
+choose_title();insert_text("مووی لسٹ");
+insert_table(3, 3);choose_table_cell(0,0);insert_text("1");choose_table_cell(0,1);insert_text("2");choose_table_cell(0,2);insert_text("3");choose_table_cell(1,0);insert_text("4");choose_table_cell(1,1);insert_text("5");choose_table_cell(1,2);insert_text("6");choose_table_cell(2,0);insert_text("7");choose_table_cell(2,1);insert_text("8");choose_table_cell(2,2);insert_text("9");
+choose_table();align_slide_right();
+
+create_slide();
+choose_title();insert_text("گھوسٹ بیئر");set_font_underline();
+choose_content();insert_text("نایاب ریچھ جس کے بارے میں آپ نے شاید کبھی نہیں سنا ہوگا");
+insert_picture("ghost_bear");
+choose_title();set_font_style("Arial");set_font_size(20);choose_content();set_font_style("Arial");set_font_size(20);
+choose_picture();set_right("picture","content");
+create_slide();insert_picture("treemap_about_bears");
+align_slide_center();
+set_width(4);
+choose_content();insert_text("جب میں تہھانے اور ڈریگن کے لیے بھوکا تھا، الوہیت: اصل گناہ 2 نے میرے لیے اس خلا کو پر کیا۔");
+choose_title();insert_text("میرا پسندیدہ کھیل");
+insert_table(2, 2);
+choose_table();choose_table_cell(0,0);insert_text("SMS");choose_table_cell(0,1);insert_text("WeChat");choose_table_cell(1,0);insert_text("QQ");choose_table_cell(1,1);insert_text("DingTalk");
+
+create_slide();set_background_color("blue");
+insert_picture("universe");align_bottom_left_corner();
+set_width(6.5);set_height(13);
+choose_content();insert_text("یہ کہا جا سکتا ہے کہ میں تھوڑا سا چنچل ہوں۔ مجھے زیادہ میٹھا کھانا پسند نہیں، جیسے کینڈی، چاکلیٹ وغیرہ");
+choose_title();insert_text("میرا پسندیدہ کھانا");
+set_font_color("yellow");choose_content();set_font_color("yellow");
+choose_title();set_font_underline();set_font_size(24);choose_content();set_font_size(22);
+insert_cloud();align_slide_right();
+
+choose_title();insert_text("آئیڈل");set_font_underline();
+insert_rectangle();set_fill_color("red");set_bottom("rectangle","title");
+choose_content();insert_text("میں آپ کو چاہتا ہوں! (میں آپ کو چاہتا ہوں!) مجھے آپ کی ضرورت ہے! (مجھے آپ کی ضرورت ہے!) مجھے آپ سے محبت ہے! (میں آپ سے پیار کرتا ہوں!)");text_align_left();
+set_font_size(24);
+set_font_size(48);
+insert_picture("AKB48");
+set_height(6.5);set_width(13);
+insert_table(2,1);choose_table_cell(0,0);insert_text("ایک بت کا وقت کم ہے۔ ہمیشہ ایک نیا تازہ چہرہ ہوتا ہے اور وہ گڑیا جیسی حالت سے شاذ و نادر ہی بھٹکتے ہیں۔");
+choose_table();choose_table_cell(0,0);set_font_color("blue");set_font_style("Futura");
+choose_table_cell(1,0);insert_text("بتوں کا مہاکاوی سفر، سلوی ورتن سے لے کر اسٹیڈیم بیچنے والے بتوں تک، یہ سوال پیدا کرتا ہے: بتوں اور ان کی ثقافت کے آگے کیا ہوگا؟");
+insert_note("2023/05/17");
+
+choose_content();insert_text("مواد");text_align_center();
+choose_content();insert_text("1۔ پس منظر");insert_text("2. تشخیصی مشن");insert_text("3. ماڈل");insert_text("4. درخواستیں");
+set_font_size(80);set_font_color("green");
+set_font_underline();set_font_style("Pecita");
+
+set_background_color("orange");choose_title();insert_text("بہترین سافٹ ویئر");
+set_font_italic();set_font_size(24);
+choose_content();insert_text("آپ طاقتور سافٹ ویئر چاہتے ہیں؟ آپ کو اس کے لیے ادائیگی کرنے کی ضرورت نہیں ہے۔ آپ کو اپنے پی سی پر پیداواری اور محفوظ رہنے کے لیے درکار ہر چیز اس فہرست میں ہے، اور یہ سب بالکل مفت ہے۔");
+set_font_color("yellow");
+set_background_color("dark blue");
+choose_content();set_font_underline();set_font_style("Arial");
+insert_right_arrow();align_slide_bottom();
+insert_note("2023/4/25");
+
+create_slide();choose_title();insert_text("جے چو");
+choose_content();insert_text("جے چو ایک تائیوانی موسیقار، گلوکار، نغمہ نگار، کثیر ساز، اداکار اور ہدایت کار ہیں۔");
+create_slide();choose_title();insert_text("Mojito");
+set_font_underline();set_font_size(20);
+set_font_size(48);
+choose_content();insert_text(''موجیٹو'' کو بین الاقوامی برادری کی طرف سے عام لوگوں کی طرف سے خوب پذیرائی ملی۔ کیوبا کی دھوپ، اشنکٹبندیی قمیضیں، قدیم کاریں اور جاندار دھڑکنیں اس گانے کو نہ صرف ایک دلکش کان کی ورم بناتی ہیں بلکہ ایک زبردست بصری لذت بھی۔ براہ کرم سوال مت پوچھیں۔');
+set_font_style("Futura");set_background_color("green");
+insert_picture("mojito_cover");align_slide_right();
+
+choose_title();insert_text("میری کالج لائف");
+insert_picture("collegue");insert_textbox();insert_text("کالج");
+choose_content();insert_text("کالج کے طلباء میں بیرون ملک تعلیم حاصل کرنے کا جنون");
+set_font_color("red");set_font_underline();
+set_font_style("Futura");choose_title();set_font_size(22);
+choose_content();text_align_left();
+insert_table(1, 3);
+choose_table_cell(0, 0);insert_text("فرسٹ گریڈ");choose_table_cell(0, 1);insert_text("سیکنڈ گریڈ");choose_table_cell(0, 2);insert_text("تھرڈ گریڈ");
+create_slide();choose_content();insert_text("پیکنگ یونیورسٹی میں مشیل اوباما کی تقریر");
+insert_picture("logo");align_top_right_corner();
+set_height(6.5);
+
+create_slide();choose_title();insert_text("Learning Python");
+set_font_italic();set_font_size(26);set_font_style("Times New Roman");
+set_background_color("green");
+create_slide();set_background_color("green");create_slide();set_background_color("green");
+insert_rectangle();align_slide_bottom();
+insert_table(1, 1);
+choose_table_cell(0, 0);insert_text("مثالیں نہیں دی گئی ہیں، براہ کرم ٹیبل کو بھریں");
+
+create_slide();set_background_color("green");choose_title();insert_text("مشین ٹرانسلیشن");
+choose_content();insert_text("مشینی ترجمہ ایک زبان سے دوسری زبان میں متن کا ترجمہ کرنے کے لیے کمپیوٹر ٹیکنالوجی کا استعمال ہے۔");
+set_font_size(20);
+set_font_size(40);
+set_font_color("green");text_align_right();
+insert_picture("trados");
+set_height(2);set_width(2);
+align_slide_bottom();
+insert_rectangle();align_slide_bottom();
+
+choose_title();insert_text("پس منظر");insert_note("پس منظر");
+choose_content();insert_text("ترجمے کی مشین کے ترجمے کے معیار کو سمجھنے کے لیے تقاضے");insert_text("ہر تاریخ کے نقطہ کی وشوسنییتا پر توجہ دیں۔");
+insert_cloud();set_width(6.5);align_slide_bottom();
+choose_title();set_font_size(30);choose_content();set_font_size(20);set_font_italic();
+
+insert_circle();align_slide_left();set_fill_color("green");
+set_width(10);set_height(10);
+choose_content();insert_text("فیچر لرننگ ماڈیول");insert_text("کوالٹی اسسمنٹ ماڈیول");
+choose_title();insert_text("بنیادی فریم ورک");
+insert_note("2023/4");choose_shape("circle");insert_text("2023/4");
+
+choose_title();insert_text("Payroll in March");set_font_color("green");
+insert_table(1, 3);
+choose_table_cell(0, 0);insert_text("ملازم ID");choose_table_cell(0, 1);insert_text("رقم");choose_table_cell(0, 2);insert_text("نوٹ");
+insert_textbox();insert_text("ملازم کو اپنا بینک آئی ڈی اور شناختی کارڈ فراہم کرنا ہوگا۔");set_bottom("textbox","table");
+insert_picture("company_brand_name");align_top_right_corner();
+create_slide();set_background_color("yellow");
+choose_title();insert_text("باب 2");choose_content();insert_text("ملازمین بونس");
+choose_title();set_font_italic();set_font_size(44);set_font_color("green");
+choose_content();set_font_style("Verdana");set_font_color("light green");
+insert_note("2023/4");
+
+create_slide();choose_title();insert_text("گہری سیکھنے کی خصوصیات");set_font_underline();
+set_font_size(26);set_font_color("light blue");
+insert_circle();
+choose_content();insert_text("ڈیپ لرننگ ایک مشین لرننگ تکنیک ہے جو کمپیوٹر کو وہ کرنا سکھاتی ہے جو قدرتی طور پر انسانوں کو آتا ہے۔");
+set_font_style("Arial");
+insert_triangle();align_slide_left();
+align_slide_right();
+set_fill_color("red");set_width(5);
+choose_content();insert_bullet_point("Sunday");insert_bullet_point("Monday");insert_bullet_point("Tuesday");
+move_to_next_slide();set_background_color("yellow");
+choose_title();insert_text("غیر جانبدار نیٹ ورکس");set_font_underline();set_font_italic();insert_note("غیر جانبدار نیٹ ورکس");
+
+choose_title();insert_text("آرٹ کی تاریخ");
+set_font_bold();set_font_style("Times New Roman");
+choose_content();insert_text("آرٹ انسانی سرگرمیوں کی ایک متنوع رینج ہے جس میں بصری، سمعی یا پرفارم کرنے والے نمونے تخلیق کیے جاتے ہیں، مصنف کے تخیلاتی، تصوراتی خیالات، یا تکنیکی مہارت کا اظہار کرتے ہیں، جس کا مقصد بنیادی طور پر ان کی خوبصورتی یا جذباتی طاقت کی تعریف کی جاتی ہے۔");
+set_font_italic();set_font_style("Arial");
+insert_bullet_point("");
+insert_bullet_point("painting");insert_bullet_point("sculpture");insert_bullet_point("architecture");insert_bullet_point("music");insert_bullet_point("literature");
+insert_picture("Mona Lisa");align_slide_bottom();
+align_top_left_corner();
+insert_note("مونا لیزا از لیونارڈو ڈاونچی");
+
+insert_star();set_fill_color("yellow");
+choose_title();insert_text("ستارے");set_font_size(24);
+choose_content();insert_text("ستاری رات میں خوش آمدید");
+insert_picture("universe");set_bottom("picture","content");
+insert_note("چمکتا ستارہ، روشن ستارہ، چمکتا ہوا ستارہ");choose_title();delete_text();insert_text("چمکتا ستارہ، روشن ستارہ، چمکتا ہوا ستارہ");
+
+create_slide();choose_title();insert_text("کسٹمر فیڈ بیک");
+insert_picture("happy_customer");align_slide_bottom();
+choose_title();delete_text();insert_text("ہمارے صارفین ہم سے پیار کرتے ہیں!");set_font_color("red");
+delete_text();insert_text("!!");
+choose_content();insert_text("کسٹمر کے جائزے");
+set_font_style("Times New Roman");set_font_color("green");
+set_background_color("red");
+set_background_color("green");
+
+create_slide();choose_title();insert_text("مارکیٹنگ پلان");
+insert_text("تعارف");set_font_underline();set_font_style("Calibri");
+insert_picture("company_logo");align_bottom_left_corner();
+set_height(5);set_width(3);align_slide_right();
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("زمرہ");choose_table_cell(0, 1);insert_text("معلومات");choose_table_cell(1, 0);insert_text("عمر");choose_table_cell(1, 1);insert_text("25")
+create_slide();set_background_color("blue");
+choose_title();insert_text("موبائل برانڈز");
+insert_line_chart([120, 140, 150], ["Huawei", "Apple", "Xiaomi"]);
+set_chart_title("Sales in April");
+
+create_slide();choose_title();insert_text("Q2 Financial Report");
+set_font_style("Arial");set_font_size(20);
+insert_table(1, 3);choose_table_cell(0, 0);insert_text("میٹرک");choose_table_cell(0, 1);insert_text("Q2");choose_table_cell(0, 2);insert_text("Q3")
+insert_picture("financial report");set_top("picture","table");
+choose_content();insert_text("Q2 مالیاتی رپورٹ مضبوط آمدنی میں اضافہ اور بہتر منافع کو ظاہر کرتی ہے، جو لاگت کو بہتر بنانے کے کامیاب اقدامات اور ہماری مصنوعات اور خدمات کی بڑھتی ہوئی مارکیٹ کی طلب سے کارفرما ہے۔");
+set_font_italic();set_font_bold();
+insert_bullet_point("");
+set_background_color("light blue");
+
+create_slide();set_background_color("green");
+choose_title();insert_text("فیمنزم");
+set_font_color("green");set_font_size(26);
+choose_content();insert_text("فیمنزم مردوں کے متوازی عورتوں کے لیے مساوی حقوق، طاقت اور مواقع کا عقیدہ اور حصول ہے۔");
+set_font_color("green");set_font_italic();
+create_slide();choose_title();insert_text("تحریک نسواں کی تیسری لہر");set_font_color("green");
+set_font_bold();set_font_style("Times New Roman");set_font_color("blue");set_font_size(28);
+insert_picture("war");align_slide_bottom();
+insert_pie_chart([40, 30, 30], ["US", "روس", "فرانس"]);
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("Location");choose_table_cell(1, 0);insert_text("City 1");choose_table_cell(2, 0);insert_text("City 2")
+
+create_slide();choose_title();insert_text("پروڈکٹ لانچ");
+choose_content();insert_text("مقصد");insert_note("مقصد");
+set_font_underline();set_font_style("Times New Roman");
+insert_picture("Apple_Pencil");align_bottom_left_corner();
+align_top_right_corner();
+
+choose_title();insert_text("ٹیم پروگریس");
+choose_content();insert_text("مقصد");
+choose_content();insert_text("تنظیم کا مقصد تجربہ کار فری لانسرز کی رہنمائی کے ذریعے اس نسل کے نوجوانوں اور پسماندہ گروہوں کو فروغ دینا ہے۔");
+set_font_size(18);set_font_underline();
+insert_picture("team_group");set_right("picture", "content");
+
+choose_title();insert_text("جدت کی طاقت");
+set_font_style("Arial");set_font_bold();
+choose_content();insert_text("آج کی تیزی سے بدلتی ہوئی دنیا میں، جدت طرازی معاشی ترقی کو آگے بڑھانے، سیاسی منظر نامے کی تشکیل، اور ثقافتی اصولوں کو تبدیل کرنے میں ایک اہم کردار ادا کرتی ہے۔ یہ ترقی کو ہوا دیتی ہے، مسابقت کو فروغ دیتی ہے، اور افراد اور معاشروں کے لیے نئے امکانات کھولتی ہے۔");
+set_font_color("dark blue");set_line_space(2);
+insert_picture("cityscape");align_slide_left();
+insert_rectangle();align_slide_right();
+set_background_color("dark blue");
+create_slide();choose_content();insert_text("یہ بغیر عقلیت کے، معاشرتی اخلاقیات اور بیرونی معیارات کو نظر انداز کرتے ہوئے کام کرتا ہے۔");
+set_font_bold();set_font_underline();choose_title();insert_text("پریوں کی کہانیاں");
+
+choose_title();insert_text("شہری زندگی");
+set_background_color("light blue");
+choose_table();insert_table(3, 2);choose_table_cell(0, 1);delete_text();insert_text("مقدار");choose_table_cell(1, 1);delete_text();insert_text("معیار");choose_table_cell(2, 1);delete_text();insert_text("سطح");
+insert_triangle();insert_rectangle();set_top("triangle", "rectangle");
+choose_shape("triangle");set_bottom("triangle", "rectangle");
+insert_picture("Shanghai");align_bottom_left_corner();
+
+choose_table();insert_table(4, 6);
+choose_table_cell(0, 0);insert_text("سال");choose_table_cell(0, 1);insert_text("دوست");choose_table_cell(0, 2);insert_text("بریکنگ بیڈ");choose_table_cell(0, 3);insert_text("گیم آف تھرونس");choose_table_cell(0, 4);insert_text("اجنبی چیزیں");choose_table_cell(0, 5);insert_text("تاج")
+insert_star();
+insert_picture("Friends");set_right("picture", "star");
+choose_shape("star");set_top("star", "picture");
+choose_title();insert_text("ٹی وی سیریز");set_font_italic();set_font_underline();
+insert_note("2023-2025");
+
+insert_triangle();rotate_element(45);
+insert_rectangle();set_right("rectangle","triangle");
+insert_star();set_right("star","rectangle");
+insert_circle();set_right("circle","star");
+insert_callout();set_right("callout","circle");rotate_element(-45);
+choose_shape("triangle");insert_text("شکلیں");choose_shape("rectangle");insert_text("شکلیں");choose_shape("star");insert_text("شکلیں");choose_shape("circle");insert_text("شکلیں");choose_shape("callout");insert_text("شکلیں");
+
+insert_picture("globe");
+choose_title();insert_text("عالمی توسیعی حکمت عملی");
+choose_picture();align_top_left_corner();
+choose_content();insert_text("امن اور محبت");
+
+insert_pie_chart([40, 45, 5], ["شنگھائی", "بیجنگ", "دیگر"]);
+choose_title();insert_text("تعاون");
+choose_content();insert_text("بیجنگ کی سالانہ مجموعی گھریلو پیداوار 2021 میں پہلی بار 4 ٹریلین یوآن ($ 630 بلین) سے تجاوز کر گئی");
+set_font_style("Arial");
+insert_line_chart([6.7, 6.9, 6.6, 6.1, 2.3, 8.1], ["2016", "2017", "2018", "2019", "2020", "2021"]);
+choose_title();insert_text("جی ڈی پی گروتھ");
+insert_bar_chart([6.5, 6.3, 6.1, 5.9, 5.7, 5.5], ["2022", "2023", "2024", "2025", "2026", "2027"]);
+
+create_slide();choose_title();insert_text("مارکیٹنگ پلان");
+set_background_color("red");
+insert_picture("company_logo");set_top("picture", "title");
+set_width(3);
+
+create_slide();choose_title();insert_text("کوین کارڈ");
+set_font_italic();set_font_bold();set_font_color("purple");
+set_background_color("light blue");
+insert_picture("Poker");set_right("picture", "title");
+align_top_right_corner();
+insert_circle();align_bottom_right_corner();
+set_width(6);set_height(4);
+create_slide();choose_title();insert_text("کنگ");
+insert_picture("King");align_slide_right();
+
+create_slide();choose_title();insert_text("پروجیکٹ ٹائم لائن");
+insert_table(1, 4);
+choose_table_cell(0, 0);insert_text("جنوری");choose_table_cell(0, 1);insert_text("فروری");choose_table_cell(0, 2);insert_text("مارچ");choose_table_cell(0, 3);insert_text("اپریل")
+choose_content();insert_text("مثال کے طور پر، \"سافٹ ویئر لانچ\"، \"مارکیٹنگ مہم شروع\"");
+insert_picture("project_team");set_bottom("picture", "table");
+insert_right_arrow();set_left("right_arrow", "picture");
+set_width(3);set_height(3);
+
+insert_pie_chart([40, 60], ["خواتین", "مرد"]);
+set_chart_title("Class 1");
+insert_picture("team_of_students");
+insert_rectangle();set_bottom("rectangle", "chart");
+choose_title();insert_text("گریڈ 1");
+choose_content();insert_text("مندرجہ ذیل ہر کلاس میں صنفی فیصد دکھاتا ہے");
+set_font_underline();set_font_size(20);
+insert_note("اصول: ایوا");
+create_slide();insert_pie_chart([40, 60],["Female", "Male"]);set_chart_title("Class 1");
+insert_picture("team_of_students");
+insert_rectangle();set_bottom("rectangle", "chart");
+
+create_slide();choose_title();insert_text("کسٹمر ٹیسٹیمونیلز");
+choose_content();insert_text("ہمارے گاہک ہمارے بارے میں کیا کہہ رہے ہیں");set_font_bold();set_font_italic();
+insert_picture("happy_customer");
+insert_triangle();set_fill_color("purple");
+align_slide_right();
+
+create_slide();choose_title();insert_text("حکمت عملی");
+choose_content();insert_text("ہماری مارکیٹنگ کی حکمت عملی 4 Ps پر مبنی ہے: پروڈکٹ، قیمت، جگہ، اور پروموشن۔");
+set_font_size(20);set_line_space(2);set_font_bold();choose_title();set_font_underline();
+set_font_color("red");choose_content();set_font_color("red");
+insert_rectangle();align_slide_left();
+insert_picture("Apple_company_logo");set_right("picture", "rectangle");
+choose_picture();set_top("picture", "rectangle");
+
+create_slide();choose_title();insert_text("فینز");set_font_style("Arial");set_font_size(24);
+choose_content();insert_bullet_point("Benefits of our product");insert_bullet_point("Target market");insert_bullet_point("Pricing strategy");insert_bullet_point("Marketing channels");
+insert_picture("idol");set_height(6.5);
+align_slide_bottom();
+insert_rectangle();align_slide_top();
+insert_note("پریزینٹر: ایوا");
+
+create_slide();choose_title();insert_text("سیلز فیگرز");
+insert_bar_chart([20, 30], ["جنوری", "فروری"]);
+insert_line_chart([10, 15], ["January", "Feburuary"]);
+set_chart_title("Sales by Month");
+insert_rectangle();align_slide_top();
+choose_content();insert_text("ہماری آمدنی بھی پچھلے 6 مہینوں میں مسلسل بڑھ رہی ہے");
+
+create_slide();choose_title();insert_text("سیلز رپورٹ");
+insert_table(2, 5);
+choose_table();insert_table_row(["مصنوعات", "بیچنے والے یونٹ", "آمدنی", "اخراجات", "منافع"])
+insert_table_row(["کمپیوٹر", "1000", "$1000000", "$500000", "$500000"])
+insert_table_row(["Printer", "500", "$100000", "$50000", "$50000"])
+
+create_slide();insert_picture("city_skyline");align_slide_top();
+set_width(6);set_height(4);
+choose_title();insert_text("شہر کی زندگی");
+choose_picture();align_top_left_corner();
+choose_title();set_font_size(20);set_font_bold();
+
+create_slide();insert_line_chart([40, 30, 30], ["کنسرٹ", "البم", "کتاب"]);
+choose_title();insert_text("دی پاور آف فینڈم");
+choose_content();insert_text("شائقین فلموں اور ٹی وی شوز سے لے کر کھیلوں اور موسیقی تک تفریح ​​کی مختلف شکلوں کی کامیابی اور اثرات کو تشکیل دینے میں اہم کردار ادا کرتے ہیں۔");
+set_font_style("Arial");set_font_size(20);
+insert_right_arrow();align_slide_top();
+insert_textbox();align_slide_bottom();
+align_slide_top();
+
+create_slide();choose_title();insert_text("Tencent");
+insert_rectangle();align_slide_top();
+rotate_element(90);
+choose_title();set_font_style("Georgia");set_font_italic();
+choose_content();insert_text("Tencent ایک سرکردہ چینی کثیر القومی جماعت ہے جس کی بنیاد 1998 میں رکھی گئی تھی۔ یہ انٹرنیٹ سے متعلق مختلف خدمات اور مصنوعات میں مہارت رکھتا ہے، بشمول سوشل میڈیا، آن لائن گیمنگ، ای کامرس، کلاؤڈ کمپیوٹنگ، اور مصنوعی ذہانت۔ ");
+set_font_size(24);set_font_style("Arial");
+
+set_background_color("green");
+insert_picture("Tencent_logo");
+set_width(6.5);
+insert_line_chart([40, 30, 30], ["Model A", "Model B", "Model C"]);
+insert_bar_chart([40, 30, 30],["Model A", "Model B", "Model C"]);
+
+create_slide();choose_title();insert_text("The Origin of British");set_font_underline();
+choose_content();insert_text("برطانیہ کی ابتدا اینگلو سیکسن بادشاہ ایتھلستان کے زمانے سے کی جا سکتی ہے، جس نے 10ویں صدی عیسوی کے اوائل میں ہمسایہ سیلٹک سلطنتوں کی وفاداری حاصل کی اور ");
+set_font_size(20);
+set_font_size(40);set_background_color("green");
+
+insert_rectangle();align_slide_right();
+set_fill_color("yellow");
+choose_title();insert_text("ونڈا");
+choose_content();insert_text("ونڈا گروپ 1985 میں قائم ہونے والی ایک صف اول کی حفظان صحت کی مصنوعات کی کمپنی ہے۔ یہ ٹشو پیپر، ڈسپوزایبل حفظان صحت کی مصنوعات، اور ذاتی نگہداشت کی مصنوعات کی تیاری اور تقسیم میں مہارت رکھتی ہے۔");
+set_font_size(20);set_font_color("green");set_font_style("Vinda");
+set_line_space(2);choose_title();set_line_space(2);
+
+choose_title();insert_text("میرے شوق");
+insert_picture("guitar");align_top_right_corner();
+choose_content();insert_text("گٹار بجانا میرے پسندیدہ مشاغل میں سے ایک ہے۔");
+set_font_size(24);set_font_color("purple");
+
+create_slide();choose_title();insert_text("مارکیٹنگ پلان");
+choose_content();insert_text("مارکیٹنگ پلان");
+set_font_style("Calibri");
+insert_picture("vinda_logo");
+align_top_left_corner();
+
+create_slide();choose_title();insert_text("مارکیٹنگ مہم");
+insert_picture("smiling_customer");align_top_left_corner();
+set_height(5);set_width(6);
+choose_content();insert_bullet_point("Profits");insert_bullet_point("Repute");insert_bullet_point("Go listing");
+set_font_size(20);choose_title();set_font_size(20);
+
+create_slide();choose_title();insert_text("بیٹری کی اقسام");
+set_font_bold();set_font_italic();
+insert_picture("Product A");
+align_slide_left();
+insert_table(4, 2);choose_table_cell(0, 0);insert_text("بیٹری کی قسم");choose_table_cell(1, 0);insert_text("تفصیل");choose_table_cell(1, 1);insert_text("طویل شیلف لائف والی الکلین اور عام گھریلو بیٹریاں");choose_table_cell(2, 1);insert_text("الیکٹرانک آلات میں استعمال ہونے والی لیتھیم آئن اور ریچارج ایبل بیٹریاں");choose_table_cell(3, 1);insert_text("نکل کیڈمیم، چوتھی قطار میں اعلی توانائی کی کثافت کے ساتھ ریچارج ایبل بیٹریاں")
+
+insert_pie_chart([30, 25, 20, 15, 10], ["برانڈ A", "برانڈ B", "برانڈ C", "برانڈ D", "دیگر برانڈز"]);
+set_chart_title("Air Condition Brands");
+choose_content();insert_text("اس سلائیڈ میں ہر برانڈ کے بارے میں ایک مختصر تفصیل یا اہم نکات شامل ہیں");
+insert_picture("Haier");align_slide_bottom();
+choose_content();set_font_underline();set_font_color("green");
+insert_triangle();insert_rectangle();
+choose_shape("triangle");set_bottom("triangle", "rectangle");
+choose_shape("rectangle");rotate_element(45);
+
+choose_title();insert_text("ہماری ٹیم");
+insert_picture("team");set_width(4);set_height(3);
+rotate_element(45);
+align_top_left_corner();
+choose_title();set_font_style("Calibri");set_font_size(28);
+
+choose_title();insert_text("شناختی کارڈ");
+insert_line_chart([120, 140, 110], ["Fujian", "Shanghai", "Beijing"]);
+set_chart_title("ID Card Operation");
+insert_picture("ID_card");align_slide_right();
+choose_title();set_font_style("Verdana");set_font_size(32);
+set_background_color("purple");
+
+choose_title();insert_text("سیلز رپورٹ");
+set_font_style("Arial");set_font_size(48);set_font_bold();
+insert_table(5, 3);
+choose_table_cell(0, 0);insert_text("علاقہ");choose_table_cell(0, 1);insert_text("فروخت");choose_table_cell(0, 2);insert_text("ترقی");choose_table_cell(1, 0);insert_text("شمالی");choose_table_cell(1, 1);insert_text("$50,000");choose_table_cell(1, 2);insert_text("5%");choose_table_cell(2, 0);insert_text("East");choose_table_cell(2, 1);insert_text("$75,000");choose_table_cell(2, 2);insert_text("10%");choose_table_cell(3, 0);insert_text("South");choose_table_cell(3, 1);insert_text("$45,000");choose_table_cell(3, 2);insert_text("3%");choose_table_cell(4, 0);insert_text("مغرب");choose_table_cell(4, 1);insert_text("$60,000");choose_table_cell(4, 2);insert_text("8%")
+set_background_color("green");
+choose_content();insert_text("نام: جان ڈو، تاریخ پیدائش: 1 جنوری 1990، صنف: مرد، شناختی نمبر: 123456789، جاری کرنے والی اتھارٹی: موٹر وہیکلز کا محکمہ، میعاد ختم ہونے کی تاریخ: دسمبر 31، 2023");
+insert_picture("beach");
+insert_right_arrow();
+choose_picture();set_top("picture", "right_arrow");
+
+insert_rectangle();
+set_fill_color("orange");
+set_width(6);set_height(5);
+choose_title();insert_text("اہم معلومات");set_font_bold();
+set_font_size(24);set_font_color("green");
+choose_content();insert_bullet_point("pot");insert_bullet_point("scissors");insert_bullet_point("scoup");
+insert_picture("exclamatory_mark");
+align_top_left_corner();
+create_slide();insert_rectangle();align_slide_left();
+choose_title();insert_text("اضافی تفصیلات");
+
+choose_content();insert_text("ہماری کمپنی کی ترقی کے بارے میں کچھ اعدادوشمار یہ ہیں");
+set_font_color("purple");
+choose_table();insert_table(1, 3);
+choose_table_cell(0, 0);insert_text("آمدنی");choose_table_cell(0, 1);insert_text("منافع");choose_table_cell(0, 2);insert_text("ملازمین کی تعداد")
+
+insert_picture("converse_shoes");
+choose_content();insert_text("Converse ایک مشہور جوتے کا برانڈ ہے جو اپنے مشہور جوتے اور آرام دہ انداز کے لیے جانا جاتا ہے۔");
+set_font_size(18);set_font_color("red");
+
+choose_content();insert_text("لیموں کا رس تازہ نچوڑے ہوئے لیموں سے بنایا جانے والا ایک تازگی بخش اور پیچیدہ مشروب ہے۔ یہ وٹامن سی سے بھرپور ہوتا ہے اور لیموں کا ذائقہ فراہم کرتا ہے۔");
+create_slide();choose_title();insert_text("لیموں کا رس");
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("پروڈکٹ");choose_table_cell(0, 1);insert_text("قیمت");choose_table_cell(0, 2);insert_text("خصوصیات");choose_table_cell(1, 0);insert_text("A");choose_table_cell(1, 1);insert_text("B");choose_table_cell(1, 2);insert_text("C")
+insert_picture("lemon_juice");set_right("picture","table");
+choose_content();insert_text("صفحہ 1");
+
+insert_picture("beach");align_top_left_corner();
+choose_content();insert_text("اپنی چھٹی آج ہی بک کرو!");
+choose_title();insert_text("چھٹی کا وقت");
+set_font_size(18);set_font_style("Times New Roman");choose_content();set_font_size(18);set_font_style("Times New Roman");
+choose_content();insert_bullet_point("Relaxing on the beach");insert_bullet_point("Swimming in the ocean");insert_bullet_point("Eating delicious seafood");
+
+create_slide();choose_title();insert_text("چلی");
+set_background_color("red");
+insert_picture("chili");
+choose_content();insert_text("مرچ ایک مسالہ دار اور ذائقہ دار ڈش ہے جو گوشت، پھلیاں اور مختلف مصالحوں کے امتزاج سے بنائی جاتی ہے۔ یہ اپنے بھرپور ذائقے اور تسکین بخش گرمی کے لیے مشہور ہے۔");
+
+choose_title();insert_text("چلی");insert_picture("chili_landscape");
+insert_table(4, 3);choose_table_cell(0, 0);insert_text("اجزاء");choose_table_cell(0, 1);insert_text("مقدار");choose_table_cell(0, 2);insert_text("مسالہ دار سطح");choose_table_cell(0, 3);insert_text("اصل");choose_table_cell(1, 0);insert_text("بیف");choose_table_cell(1, 1);insert_text("2 پونڈ");choose_table_cell(1, 2);insert_text("میڈیم");choose_table_cell(1, 3);insert_text("میکسیکو");choose_table_cell(2, 0);insert_text("پھلیاں");choose_table_cell(2, 1);insert_text("1 کین");choose_table_cell(2, 2);insert_text("ہلکا");choose_table_cell(2, 3);insert_text("ریاستہائے متحدہ");choose_table_cell(3, 0);insert_text("ٹماٹر");choose_table_cell(3, 1);insert_text("3");choose_table_cell(3, 2);insert_text("گرم");choose_table_cell(3, 3);insert_text("اسپین")
+insert_note("صفحہ 2");
+
+insert_picture("eating_humburger");align_slide_bottom();
+choose_title();insert_text("کیو 3 کے لیے سیلز پروجیکشنز");
+choose_content();insert_text("Q3 کے لیے فروخت کے تخمینے آمدنی اور مارکیٹ شیئر میں مسلسل اضافے کی نشاندہی کرتے ہیں۔ ٹارگٹڈ مارکیٹنگ کی حکمت عملیوں اور مصنوعات میں اضافے کے ساتھ، ہم فروخت کی کارکردگی میں نمایاں اضافے کی توقع کرتے ہیں۔");
+
+choose_title();insert_text("مارکیٹنگ حکمت عملی");
+choose_content();insert_text("ہماری کمپنی کی مارکیٹنگ کی حکمت عملی سوشل میڈیا ایڈورٹائزنگ اور متاثر کن مارکیٹنگ پر توجہ مرکوز کرنا ہے");
+insert_bullet_point("Instagram");insert_bullet_point("Facebook");insert_bullet_point("Twitter");
+insert_picture("using_smartphone");
+insert_rectangle();set_top("rectangle","picture");
+insert_table(6, 4);choose_table_cell(0, 0);insert_text("مہینہ");choose_table_cell(0, 1);insert_text("آمدنی");choose_table_cell(0, 2);insert_text("بیچنے والی یونٹس");choose_table_cell(0, 3);insert_text("ترقی کی شرح")
+
+create_slide();choose_title();insert_text("پروڈکٹ لانچ");
+insert_text("ہماری تازہ ترین مصنوعات کا تعارف");
+insert_picture("product");
+align_slide_bottom();
+set_background_color("purple");align_slide_top();
+
+choose_title();insert_text("Explore China");
+insert_picture("china_map");
+align_top_left_corner();
+choose_content();insert_text("چین ایک دلکش سیاحتی مقام ہے جو اپنی بھرپور تاریخ، متحرک ثقافت اور دلکش مناظر کے لیے جانا جاتا ہے۔ عظیم دیوار سے لے کر شنگھائی کے ہلچل سے بھرپور شہر تک، اس وسیع و عریض علاقے میں ہر مسافر کے لیے کچھ نہ کچھ موجود ہے۔ متنوع ملک۔");
+insert_table(8, 5);choose_table_cell(0, 0);insert_text("صوبہ");choose_table_cell(0, 1);insert_text("مشہور پرکشش مقامات");choose_table_cell(0, 2);insert_text("اوسط درجہ حرارت");choose_table_cell(0, 3);insert_text("سیاحوں کی تعداد");choose_table_cell(0, 4);insert_text("تجویز کردہ موسم")
+create_slide();choose_title();insert_text("پروجیکٹ ٹائم لائن");
+insert_star();align_slide_right();
+align_slide_right();
+
+choose_title();insert_text("OPPO");set_font_color("red");set_font_size(20);set_font_underline();set_font_bold();
+choose_content();insert_text("OPPO ایک سرکردہ اسمارٹ فون مینوفیکچرر ہے جو اپنے جدید ڈیزائن اور جدید ٹیکنالوجی کے لیے جانا جاتا ہے۔");
+insert_picture("oppo_smartphone");set_left("picture","content");
+create_slide();choose_title();insert_text("Xiaomi");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("پروڈکٹ");choose_table_cell(0, 1);insert_text("قیمت");choose_table_cell(0, 2);insert_text("خصوصیات");choose_table_cell(0, 3);insert_text("دستیابیت");choose_table_cell(1, 0);insert_text("Mi 11");choose_table_cell(1, 1);insert_text("$699");choose_table_cell(1, 2);insert_text("Snapdragon 888, 108MP camera");choose_table_cell(1, 3);insert_text("Global");choose_table_cell(2, 0);insert_text("Redmi Note 10");choose_table_cell(2, 1);insert_text("$249");choose_table_cell(2, 2);insert_text("AMOLED ڈسپلے, 48MP کیمرہ");choose_table_cell(2, 3);insert_text("عالمی")
+
+create_slide();choose_title();insert_text("پروڈکٹ کا جائزہ");
+choose_table();insert_table(4, 3);choose_table_cell(0, 0);insert_text("پروڈکٹ کا نام");choose_table_cell(1, 0);insert_text("SKU");choose_table_cell(2, 0);insert_text("قیمت");choose_table_cell(3, 0);insert_text("مقدار");
+set_background_color("green");
+
+set_background_color("blue");choose_title();insert_text("تحقیقی تحریر");
+choose_content();insert_text("تحقیق کی تحریر میں کسی خاص فیلڈ میں نئے علم اور بصیرت کا حصہ ڈالنے کے لیے کسی موضوع کی منظم تحقیقات اور دستاویزات شامل ہوتی ہیں۔");
+set_font_color("yellow");set_font_size(18);
+set_font_size(36);
+insert_line_chart([120, 140, 160], ["2016", "2017", "2018"]);
+set_chart_title("Publications Over Time");
+insert_picture("research_writing_cover");set_background_color("light blue");
+
+create_slide();choose_title();insert_text("مارچ میں شیڈول");
+set_font_size(28);set_font_color("dark blue");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("تاریخ");choose_table_cell(0, 1);insert_text("ٹاسک");choose_table_cell(0, 2);insert_text("وقت شروع");choose_table_cell(0, 3);insert_text("اختتام کا وقت");choose_table_cell(1, 0);insert_text("15 مارچ");choose_table_cell(1, 1);insert_text("اسٹیک ہولڈرز کے ساتھ ملاقات");choose_table_cell(1, 2);insert_text("9:00 AM");choose_table_cell(1, 3);insert_text("10:30AM");choose_table_cell(2, 0);insert_text("23 مارچ");choose_table_cell(2, 1);insert_text("پروجیکٹ کا جائزہ اور اپ ڈیٹ");choose_table_cell(2, 2);insert_text("2:00 PM");choose_table_cell(2, 3);insert_text("4:00PM")
+insert_picture("calendar");set_top(picture, table);
+
+create_slide();choose_title();insert_text("مراقبہ کے فوائد");
+insert_picture("person_meditating");align_slide_bottom();
+choose_content();insert_text("مراقبہ ایک سادہ لیکن طاقتور تکنیک ہے جو آپ کو اندرونی سکون اور سکون کی حالت حاصل کرنے میں مدد کر سکتی ہے۔");
+set_font_size(24);set_font_style("Times New Roman");
+insert_rectangle();set_right("rectangle", "picture");
+set_fill_color("light green");
+create_slide();set_background_color("light blue");
+choose_table();insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("Mindfulness Meditation");choose_table_cell(1, 0);insert_text("Transcendental Meditation");choose_table_cell(2, 0);insert_text("Body Scan Meditation");choose_table_cell(0, 1);insert_text("مراقبہ دماغ کو پرسکون کرنے اور تناؤ کی سطح کو کم کرنے میں مدد کرتا ہے، آرام کو فروغ دیتا ہے۔");choose_table_cell(1, 1);insert_text("مراقبہ کی باقاعدہ مشق توجہ اور ارتکاز کی صلاحیتوں کو بڑھاتی ہے۔");choose_table_cell(2, 1);insert_text("مراقبہ جذباتی استحکام، ذہن سازی اور مجموعی طور پر تندرستی کو فروغ دیتا ہے۔ ");
+
+create_slide();set_background_color("green");
+insert_picture("grassland");set_width(6.5);set_height(5.5);
+choose_title();insert_text("جنگلات کے افعال");set_font_color("dark red");set_font_size(40);
+insert_right_arrow();set_fill_color("yellow");
+set_right("right_arrow", "picture");
+
+insert_pie_chart([40, 20, 15, 10, 15], ["خوراک", "رہائش", "نقل و حمل", "تفریح", "دیگر"]);
+insert_table(6, 2);choose_table_cell(0, 0);insert_text("زمرہ");choose_table_cell(0, 1);insert_text("فیصد")
+set_bottom("table",pie_chart");
+choose_title();insert_text("مئی 2023 میں میرا خرچ");
+set_font_italic();
+
+create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");
+move_to_slide(0);choose_title();insert_text("میری گرمیوں کی چھٹیاں");set_font_style("Microsoft JhengHei");
+move_to_slide(1);insert_picture("family");
+move_to_slide(2);insert_bar_chart([120, 80, 40, 60], ["سیلز", "اخراجات", "منافع", "سرمایہ کاری"]);
+move_to_slide(3);choose_content();insert_text("گرمیوں کی چھٹیوں کے دوران، میں نے ایک ناقابل فراموش مہم جوئی کا آغاز کیا۔ میں نے نئی منزلوں کی تلاش کی، سنہری غروب آفتاب کی گرمی میں بھیگتے ہوئے اور ریتیلے ساحلوں پر آرام کیا۔");
+move_to_slide(4);choose_table();insert_table(2, 1);choose_table_cell(0,0);insert_text("فروخت");set_font_size(26);choose_table_cell(1,0);insert_text("خرچوں");set_font_size(26);
+
+create_slide();choose_title();insert_text("بزنس پلان");
+insert_picture("light_bulb");align_slide_left();
+choose_content();insert_text("انٹرپرینیورشپ ایک نئے کاروبار کو ڈیزائن کرنے، شروع کرنے اور چلانے کا عمل ہے، جو اکثر ابتدائی طور پر ایک چھوٹا کاروبار ہوتا ہے۔ جو لوگ یہ کاروبار بناتے ہیں وہ کاروباری کہلاتے ہیں۔");
+set_font_style("Georgia");set_font_size(10);
+set_background_color("green");
+insert_circle();
+align_slide_right();
+move_to_slide(0);choose_content();insert_text("مارکیٹنگ کی حکمت عملی");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("سوشل میڈیا مہم");choose_table_cell(1, 0);insert_text("اثر پارٹنرشپس");choose_table_cell(2, 0);insert_text("ای میل مارکیٹنگ")
+choose_table_cell(0,3);insert_text("$10000");choose_table_cell(1,3);insert_text("$15000");choose_table_cell(2,3);insert_text("$5000");
+insert_note("2023/5");
+
+choose_title();insert_text("افراد برائے ہدف");set_font_style("Arial");
+align_top_right_corner();
+insert_picture("Gen_Z");set_width(4);
+align_bottom_left_corner();
+choose_content();insert_text("درست سامعین کو سمجھنا اور مؤثر طریقے سے ہدف بنانا موزوں پیغامات کی فراہمی اور مارکیٹنگ کی کوششوں کے اثر کو زیادہ سے زیادہ کرنے کے لیے بہت ضروری ہے۔");
+
+choose_title();insert_text("بڑے پیمانے پر ماڈلنگ کے لوازمات");set_font_size(24);
+insert_picture("neutral_network");align_slide_bottom();
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("نمبر");choose_table_cell(0, 1);insert_text("نوٹ")
+align_slide_top();
+
+insert_picture("tower");align_top_right_corner();
+choose_title();insert_text("The Ultimate Heist");
+insert_rectangle();set_top("rectangle", "title");
+choose_title();set_font_color("dark green");set_font_size(28);
+set_font_style("Microsoft New Tai Lue");
+set_background_color("light blue");
+
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("ٹاسک");choose_table_cell(0, 1);insert_text("ترجیح");choose_table_cell(0, 2);insert_text("آغاز کا وقت");choose_table_cell(0, 3);insert_text("اختتامی وقت");choose_table_cell(1, 0);insert_text("پروجیکٹ پلاننگ");choose_table_cell(1, 1);insert_text("ہائی");choose_table_cell(1, 2);insert_text("9:00 AM");choose_table_cell(1, 3);insert_text("10:30 AM")
+choose_content();insert_text("مؤثر وقت کا انتظام ذاتی اور پیشہ ورانہ ترتیب دونوں میں کامیابی کے لیے ایک اہم مہارت ہے۔");
+set_font_italic();
+choose_table();set_bottom("table","content");
+insert_picture("clock");
+insert_note("پیش کنندہ: ایوا");
+
+create_slide();choose_title();insert_text("کمپنی پروفائل");
+choose_content();insert_text("ہماری کمپنی 2005 میں اپنے صارفین کو اعلیٰ معیار کی مصنوعات اور خدمات فراہم کرنے کے مقصد سے قائم کی گئی تھی۔ تب سے، ہم صنعتوں کی ایک وسیع رینج کے لیے اختراعی حل فراہم کرنے والے ایک سرکردہ ادارے بن گئے ہیں۔ ماہرین کی ہماری ٹیم ہر کام میں بہترین کارکردگی پیش کرنے کے لیے پرعزم ہے۔");
+choose_title();set_font_style("Calibri Light");set_font_size(40);
+insert_picture("company_logo");align_slide_right();
+set_height(2);set_width(3);align_slide_left();
+align_bottom_left_corner();
+create_slide();set_background_color("blue");
+choose_content();insert_text("جدت اور پائیداری میں رہنما بننے کے لیے، اپنے اسٹیک ہولڈرز کو قدر فراہم کرنا اور دنیا پر مثبت اثر ڈالنا۔");
+set_font_underline();set_line_space(2);
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("A-72");choose_table_cell(0, 1);insert_text("C-71")
+insert_table(1, 2);insert_table_row(["B-72", "D-71"])
+
+create_slide();choose_title();insert_text("سیلز ڈیٹا");
+insert_table(15, 6);
+choose_table();insert_table_row(["پروڈکٹ", "جنوری سیلز", "فروری سیلز", "مارچ سیلز", "ٹوٹل سیلز", "اوسط سیلز"]);insert_table_row(["iPhone", "22", "13", "15", "17", "12"])
+align_top_left_corner();
+insert_note("ڈیٹا سورس: سیلز ڈیپارٹمنٹ");
+create_slide();choose_table();copy_table()
+
+choose_title();insert_text("مارکیٹنگ کی حکمت عملی");
+set_font_style("Arial Black");
+choose_content();insert_text("سرچ انجن آپٹیمائزیشن (SEO)");insert_text("، ");insert_text("، ");insert_text("، اور ");
+set_font_color("dark blue");
+set_font_color("green");
+insert_picture("thumb");set_width(5);set_bottom("picture", "content");
+
+choose_title();insert_text("The Grand Canyon");set_font_italic();
+set_font_size(30);
+set_font_style("Times New Roman");
+insert_picture("GrandCanyon");
+set_right("picture","title");
+set_height(4);set_width(6);
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("Guangdong");choose_table_cell(0, 1);insert_text("Beijing");choose_table_cell(0, 2);insert_text("Shanghai");choose_table_cell(0, 3);insert_text("Hainan");choose_table_cell(1, 0);insert_text("34%");choose_table_cell(1, 1);insert_text("36%");choose_table_cell(1, 2);insert_text("20%");choose_table_cell(1, 3);insert_text("10%")
+insert_pie_chart([34, 36, 20, 10], ["Guangdong", "Beijing", "Shanghai", "Hainan"]);
+choose_chart();set_bottom("chart", "table");
+insert_bar_chart([34, 36, 20, 10],["Guangdong","Beijing", "Shanghai", "Hainan"]);
+insert_note("تصویری ماخذ: نیشنل پارک سروس");
+
+create_slide();choose_title();insert_text("پروڈکٹ کا موازنہ");
+insert_table(5, 2);choose_table_cell(0, 0);insert_text("اسمارٹ فون (ایپل آئی فون 13)");choose_table_cell(0, 1);insert_text("لیپ ٹاپ (ڈیل ایکس پی ایس 13)");choose_table_cell(1, 0);insert_text("اسمارٹ واچ (ایپل واچ سیریز 7)");choose_table_cell(1, 1);insert_text("ہیڈ فونز (سونی WH-1000XM4)");choose_table_cell(2, 0);insert_text("کیمرہ (کینن) EOS R5)");choose_table_cell(2, 1);insert_text("ٹیلی ویژن (Samsung QLED Q90T)");choose_table_cell(3, 0);insert_text("گیمنگ کنسول (پلے اسٹیشن 5)");choose_table_cell(3, 1);insert_text("فٹنس ٹریکر (Fitbit Charge 4)");choose_table_cell(4, 0);insert_text("Wireless Earbuds (AirPods Pro)");choose_table_cell(4, 1);insert_text("Tablet (iPad Pro)")
+choose_title();align_bottom_right_corner();
+set_background_color("light blue");
+
+create_slide();choose_title();insert_text("ماہانہ سیلز رپورٹ");
+choose_content();insert_bar_chart([10000, 12000, 15000, 18000, 20000, 25000, 28000, 30000, 32000, 35000, 40000, 45000], ["جنوری", "فروری", "مارچ", "اپریل", "مئی", "جون", "جولائی", "اگست", "ستمبر", "اکتوبر", "نومبر", "دسمبر"]);
+set_chart_title("My Monthly Sales in 2023");
+align_slide_top();
+choose_content();insert_text("ماہانہ فروخت کی رپورٹ آمدنی میں نمایاں اضافہ ظاہر کرتی ہے۔");
+insert_note("پیش کردہ از: xxx");
+
+set_background_color("light red");insert_picture("strawberry");
+create_slide();choose_title();insert_text("پروجیکٹ اسکوپ");create_slide();choose_title();insert_text("پروجیکٹ ٹائم لائن");create_slide();choose_title();insert_text("پروجیکٹ بجٹ");
+move_to_slide(1);set_background_color("light green");move_to_slide(2);set_background_color("light blue");move_to_slide(3);set_background_color("purple");
+move_to_slide(1);choose_content();insert_text("ہمارے پروجیکٹ میں ہمارے کلائنٹس کے لیے ایک نئی سافٹ ویئر ایپلی کیشن تیار کرنا شامل ہے۔ ایپلی کیشن ان کے کاروباری عمل کو ہموار کرے گی اور ان کی نچلی لائن کو بہتر بنائے گی۔");
+move_to_slide(2);insert_table(2, 6);choose_table();insert_table_row(["مہینہ", "ٹاسک", "شروع کی تاریخ", "اختتامی تاریخ", "پیش رفت", "تبصرے"])
+insert_line_chart([10, 12, 15, 11], [10, 12, 15, 11]);set_left("chart","table");
+insert_star();align_top_right_corner();
+move_to_slide(2);choose_title();set_font_underline();
+move_to_slide(3);choose_content();insert_text("عملے کے اخراجات: اس میں پروجیکٹ ٹیم کے اراکین سے وابستہ اخراجات شامل ہیں، جیسے تنخواہ، اجرت، فوائد، اور تربیتی اخراجات۔");
+choose_content();set_font_style("Arial");
+insert_note("شکریہ!");
+
+choose_title();insert_text("کمپنی ٹائم لائن");
+insert_rectangle();rotate_element(45);
+align_bottom_right_corner();
+set_background_color("light blue");
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("1980");choose_table_cell(0, 1);insert_text("1990");choose_table_cell(0, 2);insert_text("2000");choose_table_cell(0, 3);insert_text("2010")
+choose_table();insert_table_row(["کمپنی کی بنیاد رکھی گئی", "کمپنی نئی عمارت میں منتقل ہوئی", "کمپنی عوامی ہو گئی", "مقابلے کے ذریعے حاصل کردہ کمپنی"])
+
+insert_picture("google_logo");align_slide_bottom();
+choose_title();insert_text("اختتام");set_font_italic();
+choose_content();insert_text("ہم تیزی سے ایک ہیں، دنیا بھر کی آبادی - آزادانہ طور پر اختلاط۔ یہ ہائبرڈز کی ایک دنیا بنائے گا - ہلکی بھوری جلد والی، سیاہ بالوں والے، افرو-یورو-آسٹریلو-امریکی-ایشیائی، ان کی جلد کا رنگ اور چہرے کے خدوخال عالمی اوسط کی طرف۔");
+text_align_right();
+insert_rectangle();set_height(5);
+align_slide_bottom();
+
+create_slide();choose_title();insert_text("اخلاقی ادبی تنقید");set_font_bold();
+set_font_color("blue");
+choose_content();insert_text("اخلاقی ادبی تنقید کا طریقہ ادبی تنقید کا ایک نیا طریقہ ہے جسے سینٹرل چائنا نارمل یونیورسٹی کے پروفیسر نی ژین زاؤ نے تقابلی تحقیقات، چینی اور مغربی ادبی تنقید کی تاریخ اور موجودہ صورت حال پر نظر ثانی کرنے کے بعد پیش کیا ہے۔ نظریات اور طریقے۔");
+insert_picture("book_cover");
+align_slide_left();
+insert_rectangle();align_slide_right();
+set_background_color("light yellow");
+
+create_slide();choose_title();insert_text("Jane Eyre by Charlotte Bronte");set_font_italic();
+choose_content();insert_text("بظاہر خوش کن اختتام میں، شارلٹ نے پلاٹ کی تعمیر کے لیے میراث اور آگ کا استعمال کیا۔");set_font_bold();
+set_font_color("dark red");set_font_style("Arial");
+insert_right_arrow();set_right("right_arrow", "content");
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("زمرہ");choose_table_cell(0, 1);insert_text("معلومات");choose_table_cell(1, 0);insert_text("اشاعت کا سال");choose_table_cell(1, 1);insert_text("1847")
+insert_picture("Charlotte_Bronte's_portrait");set_bottom("picture", "table");
+set_top("picture", "table");
+
+set_background_color("blue");
+choose_title();insert_text("ڈیوڈ کاپر فیلڈ میں آئی ڈی");set_font_italic();
+choose_content();insert_text("Id ایک قسم کا حیوانی جبلت کا جذبہ ہے، یہ عقلیت کے بغیر الجھا ہوا ہے، اور یہ آنکھیں بند کر کے اطمینان حاصل کرتا ہے اور اس سے تعرض کے امکانات کو جمع کرتا ہے۔ شناخت جبلت کو ذخیرہ کرنے کی جگہ ہے۔");
+insert_picture("book");set_top("book","content");
+set_height(5);set_width(6);
+insert_star();set_right("star","picture");
+choose_content();insert_bullet_point("");
+
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("دنیا بھر کے مختلف شہر");choose_table_cell(1, 0);insert_text("نسل، چینی کمیونٹی اور ثقافت");choose_table_cell(2, 0);insert_text("خصوصیات، چینی فن تعمیر، کاروبار، کھانے، ثقافتی تقریبات")
+choose_title();insert_text("چائنا ٹاؤن");set_font_bold();
+insert_pie_chart([40, 30, 30], ["Chinese Restaurants", "Chinese Grocery Stores", "Cultural Festivals and Events"]);
+insert_picture("China_town");
+align_slide_bottom();
+insert_star();align_slide_right();
+insert_note("چائنا ٹاؤن");
+
+create_slide();set_background_color("green");
+choose_title();insert_text("فیمنزم");set_font_color("green");
+choose_content();insert_text("فیمنزم ایک عقیدہ ہے اور اس کا مقصد ہے کہ خواتین کو مردوں کے برابر حقوق، طاقت اور مواقع ملنے چاہئیں");
+set_font_color("yellow");set_font_italic();
+
+choose_title();insert_text("تحریک نسواں کی تیسری لہر");set_font_bold();
+set_font_style("Times New Roman");set_font_color("blue");set_font_size(28);
+choose_content();insert_text("یہ کثیر نسلی مذہبی عقائد، نسلی رسوم و رواج، کثیر ثقافتی، ماحولیاتی تحفظ، صارفیت، تنوع کی سمت پر توجہ مرکوز کرتا ہے");
+insert_picture("female_portrait");set_top("picture","content");
+
+create_slide();choose_title();insert_text("فخر اور تعصب کی فلمی موافقت");
+set_font_size(24);set_font_italic();
+choose_content();insert_text("اس کے پہلے نشر ہونے کے چودہ سال بعد، اسکرین رائٹر اینڈریو ڈیوس کی 1995 میں جین آسٹن کے ناول پرائیڈ اینڈ پریجوڈیس کی موافقت ایک معیار بنی ہوئی ہے جس کے خلاف آسٹن کی موافقت کو مقبولیت سے ماپا جاتا ہے۔ پیریڈ ڈرامے کے 'سیکسنگ اپ' کے لیے مشہور ہے۔ ، موافقت بظاہر جدید حساسیتوں اور عصری ڈرامائی توقعات کو پورا کرتی ہے۔ ڈیوس کے تشریحی انتخاب جنسیت پر زور دیتے ہیں اور ڈارسی کی خواہشات پر توجہ مرکوز کرتے ہیں۔");
+insert_bullet_point("");
+set_font_size(20);set_line_space(2);
+insert_picture("web_image");
+insert_rectangle();align_top_right_corner();
+set_background_color("light orange");
+
+insert_table(3, 2);
+choose_table();choose_table_cell(0, 0);insert_text("مقام");choose_table_cell(1, 0);insert_text("نسلیت")
+choose_content();insert_text("الزبتھ بینیٹ اور مسٹر ڈارسی پورے ناول میں نمایاں کردار کی نشوونما سے گزرتے ہیں، اپنے اور معاشرے کے بارے میں اہم اسباق سیکھتے ہیں۔");
+insert_picture("Elizabeth_Bennet_and_Mr. Darcy");set_bottom("picture", "table");
+align_slide_right();
+insert_rectangle();align_top_left_corner();
+create_slide();choose_title();insert_text("فخر اور تعصب میں سماجی طبقے کا کردار");set_font_underline();
+choose_content();insert_text("سماجی طبقہ ناول میں ایک اہم کردار ادا کرتا ہے، کرداروں کے رشتوں، فیصلوں اور خود شناسی کو متاثر کرتا ہے۔");
+insert_circle();align_bottom_right_corner();set_fill_color("orange");
+set_background_color("orange");
+
+create_slide();choose_title();insert_text("شکلیں");
+insert_rectangle();set_fill_color("red");align_slide_left();
+insert_circle();set_fill_color("blue");align_slide_right();
+insert_triangle();set_fill_color("green");align_slide_left();
+insert_callout();set_fill_color("yellow");align_slide_right();
+
+insert_picture("19th-century_marriage_scene");align_slide_right();
+insert_triangle();set_right("triangle", "picture");
+choose_title();insert_text("19ویں صدی کی شادی");
+set_font_italic();set_font_bold();
+
+insert_pie_chart([30, 25, 15, 10, 10, 10], ["ونیلا", "چاکلیٹ", "اسٹرابیری", "ٹکسال چاکلیٹ چپ", "کوکیز اور کریم", "بٹر پیکن"]);
+insert_picture("strawberry");set_bottom("picture", "chart");
+choose_content();insert_text("اعلیٰ آپریشنل اخراجات اور مارکیٹنگ کے اقدامات میں بڑھتی ہوئی سرمایہ کاری کی وجہ سے گزشتہ سہ ماہی میں اخراجات میں نمایاں اضافہ ہوا ہے۔");
+set_font_style("Times New Roman");set_font_size(18);
+
+create_slide();choose_title();insert_text("PPT بنانا");insert_note("PPT بنانا");
+choose_content();insert_text("دلکش اور اثر انگیز پاورپوائنٹ پریزنٹیشنز بنانے کے لیے محتاط منصوبہ بندی اور عمل درآمد کی ضرورت ہے۔");
+choose_content();set_font_underline();set_font_color("dark red");
+choose_title();set_font_bold();set_font_italic();
+insert_note("PPT");
+
+create_slide();choose_title();insert_text("نیورل نیٹ ورکس");
+choose_content();insert_bullet_point("Neural networks are a type of machine learning algorithm that are modeled after the structure of the human brain. They consist of layers of interconnected nodes that process information and learn to recognize patterns.");
+choose_title();set_font_color("red");
+insert_picture("neural_network_architecture");
+insert_cloud();set_right("cloud","picture");
+set_background_color("yellow");
+
+create_slide();insert_cloud();set_fill_color("red");align_slide_right();
+choose_content();insert_text("کلیئر ٹیک ویز فراہم کریں");
+choose_title();set_font_color("orange");create_slide();choose_title();insert_text("ڈیٹا پری پروسیسنگ");
+set_background_color("red");
+
+create_slide();choose_title();insert_text("ٹرانسفر لرننگ");
+set_font_size(28);set_font_bold();choose_content();set_font_size(28);
+set_font_style("Times New Roman");set_font_color("red");
+set_background_color("red");
+choose_content();insert_text("کمک سیکھنے کی مشین سیکھنے کی ایک قسم ہے جس میں الگورتھم آزمائش اور غلطی کے ذریعے سیکھتا ہے۔ یہ اکثر مشینوں کو پیچیدہ ماحول میں فیصلے کرنے کا طریقہ سکھانے کے لیے استعمال ہوتا ہے۔");
+
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("ماڈل کا نام");choose_table_cell(0, 1);insert_text("چیٹ جی پی ٹی");choose_table_cell(1, 0);insert_text("آرکیٹیکچر");choose_table_cell(1, 1);insert_text("جی پی ٹی (جنریٹو پری ٹرینڈ ٹرانسفارمر)");choose_table_cell(2, 0);insert_text("ٹریننگ ڈیٹا سائز");choose_table_cell(2, 1);insert_text("متنوع ٹیکسٹ ڈیٹا کے متعدد ٹیرا بائٹس")
+choose_title();insert_text("GPT");set_font_bold();
+choose_content();insert_text("جنریٹو پری ٹرینڈ ٹرانسفارمر 3 (GPT-3) 2020 میں ریلیز ہونے والا ایک خودکار زبان کا ماڈل ہے جو انسان جیسا متن تیار کرنے کے لیے گہری سیکھنے کا استعمال کرتا ہے۔");
+set_font_underline();set_font_color("dark red");choose_title();set_font_color("dark red");
+insert_picture("gpt-3_architecture");set_right("picture","content");
+
+create_slide();choose_title();insert_text("Wuthering Height");set_font_italic();
+choose_content();insert_text("اس کہانی کو لاک ووڈ نے سنایا ہے، ایک غیر دلچسپی رکھنے والی پارٹی، جس کی داستان ایک گھریلو ملازمہ ایلن ڈین کی طرف سے ماضی کی مختصر داستانوں کی ایک سیریز کے لیے فریم کے طور پر کام کرتی ہے۔");set_font_bold();
+set_font_color("red");choose_title();set_font_color("red");
+insert_right_arrow();
+set_width(6);set_height(4);
+create_slide();insert_cloud();
+insert_picture("wuthering_height_bookcover");
+choose_content();insert_text("Wuthering Heights، Emily Brontë کا ناول، جو ایلس بیل کے تخلص کے تحت 1847 میں شائع ہوا");
+set_font_style("Times New Roman");set_font_size(18);
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("زمرہ");choose_table_cell(0, 1);insert_text("معلومات")
+insert_note("مائیکروسافٹ");
+
+create_slide();choose_title();insert_text("پرائیڈ اینڈ پریجوڈیس از جین آسٹن");
+choose_content();insert_text("ناول برطانوی حضرات کے درمیان محبت، شادی، اور سماجی توقعات کے موضوعات کو تلاش کرتا ہے");set_font_bold();set_font_underline();
+insert_right_arrow();set_left("right_arrow", "content");
+set_fill_color("light orange");choose_content();set_font_color("dark green");
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("زمرہ");choose_table_cell(0, 1);insert_text("معلومات");choose_table_cell(1, 0);insert_text("مصنفہ");choose_table_cell(1, 1);insert_text("جین آسٹن")
+insert_picture("jane_austen_portrait");
+set_height(6);align_top_right_corner();
+
+create_slide();choose_title();insert_text("سرسا کی زندگی کا سفر");set_font_bold();
+set_font_size(24);
+insert_table(4, 3);choose_table_cell(0, 0);insert_text("بچپن");choose_table_cell(0, 1);insert_text("0-10 سال");choose_table_cell(0, 2);insert_text("اسکولنگ");choose_table_cell(1, 0);insert_text("نوجوانی");choose_table_cell(1, 1);insert_text("11-18 سال");choose_table_cell(1, 2);insert_text("ہائی اسکول")
+insert_picture("school");
+set_left("picture","table");
+
+create_slide();choose_title();insert_text("Exploring the Universe");set_font_underline();
+insert_picture("galaxy");
+choose_content();insert_bullet_point("Stars");insert_bullet_point("Planets");insert_bullet_point("Nebulae");insert_bullet_point("Black Holes");insert_bullet_point("Dark Matter");
+set_font_bold();set_font_italic();
+set_font_color("dark red");
+insert_pie_chart([35, 25, 40], ["Teaching Building", "Stadium", "Playground"]);
+align_slide_top();
+insert_line_chart([20, 30, 40, 10], ["Year 1", "Year 2", "Year 3", "Year 4"]);
+insert_bar_chart([20, 30, 40, 10], ["1st year", "2nd year", "3rd year", "4th year"]);
+set_background_color("blue");
+
+create_slide();choose_title();insert_text("تعارف");
+choose_content();insert_text("اس مقالے میں، ہم اس بات کی کھوج کرتے ہیں کہ کس طرح ایک سے زیادہ اور تکمیلی طریقوں کو طویل عرصے تک استعمال کرنے سے ممکنہ اور نقصانات کے ساتھ ساتھ پیچیدگیاں اور غیر یقینی صورتحال پیدا ہوتی ہے۔");
+set_font_color("red");
+set_font_size(20);
+set_background_color("light blue");choose_content();set_font_size(40);
+
+choose_content();insert_text("ننیانگ ایک قومی تاریخی اور ثقافتی شہر ہے، جس میں گہرا تاریخی ورثہ اور بھرپور ثقافتی ذخیرہ ہے۔");
+insert_bullet_point("");
+set_font_size(18);set_font_italic();set_font_style("Arial");
+choose_title();insert_text("My City- Nanjing");
+insert_picture("Nanjing");align_slide_right();
+create_slide();choose_title();insert_text("تفصیلی فہر ست");insert_note("تفصیلی فہر ست");
+set_font_italic();set_font_size(24);
+choose_content();insert_text("ایک کیٹلاگ ایک جامع اور بصری طور پر دلکش وسائل کے طور پر کام کرتا ہے، جس میں مصنوعات یا خدمات کی متنوع رینج کی نمائش ہوتی ہے۔");
+set_font_color("green");set_background_color("dark blue");
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("پروڈکٹ");choose_table_cell(0, 1);insert_text("قیمت");choose_table_cell(1, 0);insert_text("قمیض");choose_table_cell(1, 1);insert_text("$29.99");choose_table_cell(2, 0);insert_text("لباس");choose_table_cell(2, 1);insert_text("$59.99")
+insert_pie_chart([40, 30, 30], ["شرٹ", "لباس", "پتلون"]);
+insert_line_chart([40, 30, 30], ["shirt", "dress", "pants"]);
+insert_bar_chart([40, 30, 30], ["shirt", "dress", "pants"]);
+
+choose_title();insert_text("خوش زندگی کا لطف اٹھائیں");
+insert_star();set_top("star","title");
+set_font_style("Arial Black");
+choose_content();insert_text("خوشگوار زندگی سے لطف اندوز ہونے میں چھوٹے لمحات میں خوشی تلاش کرنا، بامعنی رشتوں کی پرورش کرنا، جذبات کی پیروی کرنا، صحت مند کام اور زندگی کا توازن برقرار رکھنا، اور خود کی دیکھ بھال کی مشق کرنا شامل ہے۔");set_line_space(2);
+insert_picture("happy_person");align_top_right_corner();
+set_height(4);set_width(5);align_bottom_left_corner();
+
+choose_table();insert_table(5, 1);choose_table_cell(0, 0);insert_text("مکمل میراتھن");choose_table_cell(1, 0);insert_text("پہلی کتاب شائع ہوئی");choose_table_cell(2, 0);insert_text("منیجر پر ترقی دی گئی");choose_table_cell(3, 0);insert_text("رضاکارانہ طور پر 100+ گھنٹے");choose_table_cell(4, 0);insert_text("کامیاب کاروبار شروع کیا");
+choose_title();insert_text("2023 میں میری عظیم کامیابی");
+choose_content();insert_text("2023 میں، میں نے قابل ذکر سنگ میل حاصل کیے جو میری توقعات سے بڑھ گئے۔ میراتھن مکمل کرنے سے لے کر میری پہلی کتاب کی اشاعت اور پروموشن حاصل کرنے تک، یہ کامیابیاں میری مہم کو مزید ترقی دینے کے لیے حوصلہ افزائی کرتی ہیں اور مجھے یہاں تک پہنچنے کی ترغیب دیتی ہیں۔ زیادہ اونچائیاں۔");
+insert_picture("book");align_slide_top();
+insert_pie_chart([30, 25, 45], ["میراتھن", "کتاب", "رضاکارانہ"]);
+insert_rectangle();set_left("rectangle","chart");
+insert_note("2023");
+
+choose_title();insert_text("اخلاقی ادبی تنقید");
+set_font_bold();set_font_color("blue");align_slide_bottom();
+insert_picture("mountain_landscape");align_slide_right();
+choose_content();insert_text("اخلاقی ادبی تنقید کا طریقہ سینٹرل چائنا نارمل یونیورسٹی کے پروفیسر نی زینزہاؤ کی طرف سے تجویز کردہ ایک نیا طریقہ ہے۔");
+set_font_underline();set_font_style("Times New Roman");set_font_size(24);set_line_space(2);
+set_font_color("dark blue");
+insert_rectangle();align_slide_left();
+set_fill_color("green");insert_text("سبز");
+align_top_right_corner();
+insert_right_arrow();set_right("right_arrow","content");
+
+create_slide();choose_title();insert_text("ٹیم ممبرز");
+insert_picture("team_member");align_slide_bottom();
+set_width(6.5);
+insert_note("ٹیم کے رکن");choose_title();set_font_bold();
+
+create_slide();choose_title();insert_text("سیلز پرفارمنس");
+set_font_color("blue");set_font_size(24);set_font_underline();set_background_color("green");
+choose_content();insert_text("سیلز کی کارکردگی آمدنی پیدا کرنے میں کمپنی کی کامیابی کا ایک اہم اشارہ ہے۔ یہ سیلز ٹیم کی تاثیر اور مصنوعات یا خدمات کی مجموعی مارکیٹ کی طلب کو ظاہر کرتی ہے۔");
+set_font_color("dark red");set_font_size(18);
+insert_table(3, 5);choose_table_cell(1, 1);insert_text("سال");choose_table_cell(1, 2);insert_text("کوارٹر");choose_table_cell(1, 3);insert_text("آمدنی");choose_table_cell(2, 1);insert_text("2018");choose_table_cell(2, 2);insert_text("Q1");choose_table_cell(2, 3);insert_text("$500,000");
+set_font_size(18);
+
+create_slide();choose_title();insert_text("سیلز رپورٹ");
+insert_line_chart(["Product A","Product B","Product C"], ["پروڈکٹ A", "Product B", "Product C"]);
+set_chart_title("Revenue Trend");
+insert_picture("T-shirt");insert_textbox();insert_text("ٹی شرٹ");
+insert_star();set_right("star","picture");
+create_slide();choose_title();insert_text("تنظیمی ڈھانچہ");
+insert_table(4,2);choose_table_cell(0,0);insert_text("سی ای او");choose_table_cell(0,1);insert_text("جان سمتھ");choose_table_cell(1,0);insert_text("سی ایف او");choose_table_cell(1,1);insert_text("جین ڈو");choose_table_cell(2,0);insert_text("COO");choose_table_cell(2,1);insert_text("ٹام جونز");choose_table_cell(3,0);insert_text("CMO");choose_table_cell(3,1);insert_text("سارہ لی");
+choose_title();set_font_underline();move_to_previous_slide();choose_title();set_font_underline();
+set_font_size(20);set_font_color("purple");
+insert_note("تنظیمی ڈھانچہ");
+set_background_color("green");
+
+create_slide();choose_title();insert_text("تعارف");
+choose_content();insert_text("آج ہمارے ساتھ شامل ہونے کے لیے آپ کا شکریہ۔ ہم پرجوش ہیں۔");
+insert_text("آپ یہاں ہیں اور آپ کے ساتھ کچھ دلچسپ خبریں شیئر کرنے کے منتظر ہیں");
+set_font_style("Times New Roman");set_font_size(20);
+insert_picture("landscape");set_height(3);set_width(5);
+insert_triangle();insert_rectangle();set_right("rectangle","triangle");
+set_background_color("purple");insert_note("2023");
+
+choose_title();insert_text("پروڈکٹ لانچ");set_font_bold();set_font_color("red");
+insert_picture("computer");
+set_height(2);set_width(2);
+choose_content();insert_text("ہماری نئی پروڈکٹ ایک جدید ترین موبائل ڈیوائس ہے جو جدید ترین ٹیکنالوجی کو ایک چیکنا اور صارف دوست ڈیزائن کے ساتھ جوڑتی ہے۔");
+set_font_bold();set_font_color("red");
+create_slide();choose_title();insert_text("پروڈکٹ فیچرز");
+insert_table(2, 5);choose_table_cell(0, 0);insert_text("خصوصیت");choose_table_cell(0, 1);insert_text("تفصیل");
+insert_bar_chart([0.25,0.50,0.25], ["پروڈکٹ A", "پروڈکٹ B", "پروڈکٹ C"]);
+set_chart_title("Feature Importance");
+set_background_color("light blue");insert_note("خصوصیات کی اہمیت");
+
+create_slide();choose_title();insert_text("سہ ماہی مالیاتی نتائج");
+set_font_style("Arial");
+choose_content();insert_text("ہماری کمپنی نے اس سہ ماہی میں $1.5 ملین کی آمدنی اور $500,000 کا منافع حاصل کیا۔");
+set_font_bold();set_font_underline();
+insert_table(4, 5);
+choose_table();choose_table_cell(0, 0);insert_text("مہینہ");choose_table_cell(0, 1);insert_text("آمدنی");choose_table_cell(0, 2);insert_text("اخراجات");choose_table_cell(0, 3);insert_text("منافع")
+insert_bar_chart([50, 60, 55, 70], ["Q1 2022", "Q2 2022", "Q3 2022", "Q4 2022"]);
+set_chart_title("Quarterly Financial Results in 2022");
+set_background_color("red");
+create_slide();choose_title();insert_text("مالیاتی تجزیہ");
+insert_picture("company_logo");
+choose_content();insert_text("آپ کی توجہ کے لئے آپ کا شکریہ!");set_font_underline();set_font_italic();set_font_size(26);
+
+create_slide();choose_title();insert_text("سیلز ڈیٹا");
+insert_bar_chart([500000, 400000, 600000, 450000], ["علاقہ A", "علاقہ B", "علاقہ C", "علاقہ D"]);
+set_chart_title("Regional Sales");
+choose_title();set_font_underline();insert_note("ڈیٹا سورس: سیلز رپورٹ 2023");
+
+create_slide();choose_title();insert_text("کسٹمر سروے");
+insert_pie_chart([0.4, 0.3, 0.2, 0.05, 0.05], ["بہت مطمئن", "مطمئن", "غیر جانبدار", "مطمئن", "بہت غیر مطمئن"]);
+align_slide_bottom();
+insert_picture("questionnaire");align_slide_top();
+insert_note("2023/5");
+
+choose_title();insert_text("لسانیات کا دلکش");set_background_color("light blue");
+choose_title();set_font_style("Arial");set_font_color("red");set_font_size(36);
+insert_text("لسانیات زبان اور اس کی ساخت کا سائنسی مطالعہ ہے۔ یہ صوتیات اور نحو سے لے کر لفظیات اور عملیت تک انسانی مواصلات کی پیچیدگیوں کو تلاش کرتی ہے۔");
+set_font_style("Verdana");set_font_color("yellow");set_font_size(18);set_line_space(2);
+create_slide();choose_title();insert_text("زبانیات کی شاخیں");
+insert_table(3, 4);
+choose_table_cell(0, 0);insert_text("لسانیات کی شاخیں");choose_table_cell(0, 1);insert_text("تفصیل");choose_table_cell(0, 2);insert_text("مثالیں");choose_table_cell(1, 0);insert_text("فونیٹکس");choose_table_cell(1, 1);insert_text("اسپیچ ساؤنڈز کا مطالعہ");choose_table_cell(1, 2);insert_text("آرٹیکولیٹری فونیٹکس، ایکوسٹک فونیٹکس، آڈیٹری فونیٹکس")
+insert_picture("book_about_linguistics");align_slide_bottom();
+set_height(6);set_width(5);
+move_to_slide(0);set_background_color("purple");move_to_slide(1);set_background_color("purple");
+
+set_background_color("light green");choose_title();insert_text("Language Families");
+set_font_bold();set_font_italic();
+insert_bar_chart([445, 1526,1290, 452], ["انڈو-یورپی", "نائجر-کانگو", "آسٹرونیشین", "چین-تبتی"]);
+set_chart_title("Language familiy and its number of languages");
+create_slide();choose_title();insert_text("Language Acquisition");set_font_bold();set_font_italic();
+choose_content();insert_text("");
+set_font_style("Times New Roman");set_font_color("red");set_font_size(22);
+set_font_underline();set_font_bold();choose_title();set_font_color("red");
+insert_picture("English book");
+insert_rectangle();align_slide_right();
+choose_picture();align_slide_top();
+
+create_slide();choose_title();insert_text("نتیجہ");
+choose_title();set_font_style("bold");set_font_style("underline");set_font_color("red");
+choose_content();insert_text("");
+set_font_style("Verdana");set_font_color("yellow");
+create_slide();set_background_color("purple");create_slide();set_background_color("purple");create_slide();set_background_color("purple");create_slide();set_background_color("purple");
+move_to_slide(1);choose_title();insert_text("چین میں رئیل اسٹیٹ پالیسیوں کا جائزہ");insert_picture("China_map");
+move_to_slide(2);choose_title();insert_text("حالیہ تبدیلیاں");set_font_style("italic");set_font_style("Verdana");
+choose_content();insert_text("چین میں حالیہ تبدیلیوں نے تیز رفتار اقتصادی ترقی، تکنیکی ترقی، اور سماجی تبدیلیاں دیکھی ہیں، جس نے ملک کو ایک عالمی پاور ہاؤس کے طور پر پوزیشن دی ہے اور مختلف شعبوں میں عالمی حرکیات کو متاثر کیا ہے۔");
+move_to_slide(3);choose_title();insert_text("رہائش کی قیمتوں کو کنٹرول کرنے کی کوششیں");insert_triangle();
+align_top_right_corner();
+move_to_slide(4);choose_title();insert_text("سستی رہائش کو بڑھانے کے لیے اقدامات،");set_font_color("red");
+choose_content();insert_text("سستی مکانات کو بڑھانے کے لیے اقدامات نافذ کیے گئے ہیں، بشمول سرکاری سبسڈی، منظوری کے ہموار عمل، اور پبلک پرائیویٹ پارٹنرشپ، جس کا مقصد ہاؤسنگ کے قابل استطاعت کے بحران سے نمٹنے اور سب کے لیے مناسب رہائش تک رسائی کو یقینی بنانا ہے۔");set_font_underline();set_font_italic();
+choose_chart();insert_pie_chart([0.35, 0.25, 0.20, 0.10, 0.10], ["سرکاری سبسڈیز", "منظوری کے ہموار طریقہ کار", "پبلک پرائیویٹ پارٹنرشپس", "زمین کے استعمال کی پالیسیاں", "رینٹل اسسٹنس پروگرام"]);
+create_slide();choose_title();insert_text("پراپرٹی ڈویلپرز کا ضابطہ۔");insert_note("پراپرٹی ڈویلپرز کا ضابطہ۔");
+choose_content();insert_text("اس سلائیڈ میں، پراپرٹی ڈویلپرز کو ریگولیٹ کرنے کے لیے چین کے اہم اقدامات اور دھوکہ دہی کو روکنے اور پائیدار ترقی کے طریقوں کو فروغ دینے کے لیے حکومت کے اقدامات کے بارے میں مختصر معلومات دیں۔");
+choose_title();set_font_italic();choose_content();set_font_bold();
+move_to_slide(0);insert_note("چین کے بارے میں معلومات");move_to_slide(1);insert_note("چین کے بارے میں معلومات");move_to_slide(2);insert_note("چین کے بارے میں معلومات");move_to_slide(3);insert_note("چین کے بارے میں معلومات");move_to_slide(4);insert_note("چین کے بارے میں معلومات");move_to_slide(5);insert_note("چین کے بارے میں معلومات");
+
+move_to_slide(8);choose_title();insert_text("فرنٹیئر ڈویلپمنٹ آف میڈیکل امیجنگ ایکوئپمنٹ");choose_title();set_font_size(24);
+insert_line_chart([0.15, 0.12, 0.18, 0.20], ['Q1', 'Q2', 'Q3', 'Q4']);
+choose_chart();set_chart_title("Revenue Growth");
+insert_table(5, 2);choose_table_cell(0, 0);insert_text("خصوصیت 1");choose_table_cell(0, 1);insert_text("ہائی ریزولوشن امیجنگ");
+set_background_color("light blue");
+insert_triangle();
+choose_content();insert_text("میڈیکل امیجنگ آلات کی فرنٹیئر ڈیولپمنٹ ہائی ریزولوشن امیجنگ، ایڈوانسڈ AI الگورتھم، ریئل ٹائم ڈیٹا اینالیٹکس، بہتر مریضوں کے آرام، ملٹی موڈیلٹی انٹیگریشن، اور ہموار ورک فلو کے ساتھ صحت کی دیکھ بھال میں انقلاب لا رہی ہے، طبی پیشہ ور افراد کو بے مثال تشخیصی صلاحیتوں کے ساتھ بااختیار بنا رہی ہے۔");
+set_font_bold();set_line_space(2);set_font_underline();set_font_italic();
+insert_note("طبی سازوسامان");
+
+set_background_color("blue");insert_rectangle();
+create_slide();choose_title();insert_text("بشریات میں طریقے اور نقطہ نظر");set_font_size(20);
+choose_content();insert_text("بشریات ایک سماجی سائنس ہے جو تحقیق کے مختلف طریقوں کا استعمال کرتے ہوئے انسانی رویے، ثقافت اور معاشروں کا مطالعہ کرتی ہے۔");set_line_space(2);
+insert_circle();align_slide_right();
+set_width(4);
+
+create_slide();choose_title();insert_text("مناسب ہائیڈریشن کی اہمیت");
+set_font_style("underline");set_font_style("italic");
+set_font_size(24);set_font_style("Arial");
+insert_picture("person_drinking_water");align_slide_right();
+set_width(6.5);insert_textbox();insert_text("پانی پیو");set_bottom("textbox", "picture");
+set_background_color("purple");create_slide();set_background_color("purple");
+insert_picture("folder");set_width(6.5);set_height(5.5);
+choose_title();insert_text("SmartArt کے استعمال کے فوائد");set_font_color("red");set_font_size(40);
+set_font_style("Arial");set_font_style("italic");
+
+choose_title();insert_text("Building Your Brand");set_background_color("light green");
+choose_content();insert_text("برانڈ بنانا کسی بھی کامیاب کاروبار کا ایک اہم جزو ہے۔ فونٹ کی طرز کو ");set_font_style("Arial");set_font_size(14);
+insert_rectangle();align_slide_right();
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("برانڈ شناخت");choose_table_cell(0, 1);insert_text("برانڈ پیغام رسانی");choose_table_cell(0, 2);insert_text("برانڈ کی آواز");choose_table_cell(0, 3);insert_text("برانڈ کی حکمت عملی")
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("برانڈ شناخت");choose_table_cell(0, 1);insert_text("برانڈ پیغام رسانی");choose_table_cell(0, 2);insert_text("برانڈ کی آواز");choose_table_cell(0, 3);insert_text("برانڈ کی حکمت عملی")
+choose_content();set_font_size(14);set_font_style("Times New Roman");
+
+create_slide();choose_title();insert_text("مؤثر مواصلات کے بنیادی اصول");set_font_style("Times New Roman");
+choose_content();insert_text("کلیدی نکات");insert_text("تفصیل");
+set_font_size(24);set_font_underline();set_font_bold();
+set_background_color("light orange");
+
+set_background_color("light blue");
+choose_title();insert_text("Tencent میٹنگ");choose_content();insert_text("Tencent میٹنگ");
+set_font_underline();set_font_color("dark red");
+choose_content();delete_text();insert_text("Tencent Meeting ایک طاقتور ویڈیو کانفرنسنگ پلیٹ فارم ہے جو ٹیموں اور افراد کے درمیان ہموار تعاون اور مواصلت کو قابل بناتا ہے۔ یہ مؤثر ورچوئل میٹنگز کے لیے متعدد خصوصیات پیش کرتا ہے، بشمول اسکرین شیئرنگ، چیٹ، اور ریکارڈنگ۔");
+set_font_bold();set_font_italic();choose_title();set_font_bold();set_font_italic();
+insert_picture("tencent_meeting");
+
+insert_table(2, 3);
+choose_table_cell(0, 0);insert_text("خصوصیات");choose_table_cell(0, 1);insert_text("تفصیل");choose_table_cell(0, 2);insert_text("فوائد")
+insert_note("APP");set_background_color("purple");
+
+set_background_color("blue");choose_title();insert_text("کوالٹی اسیسمنٹ");
+choose_content();insert_text("مصنوعات یا خدمات کی کارکردگی اور معیارات کا جائزہ لینے کے لیے معیار کی تشخیص ایک اہم عمل ہے۔ اس میں معیار کے معیارات کی پابندی اور مسلسل بہتری کو یقینی بنانے کے لیے مکمل تجزیہ، پیمائش اور موازنہ شامل ہے۔");
+insert_picture("checklist");
+set_left("picture","content");
+insert_pie_chart([0.40, 0.15, 0.25, 0.20], ["بہترین", "اچھا", "منصفانہ", "خراب"]);
+set_chart_title("Quality Ratings Distribution");
+align_slide_bottom();
+create_slide();insert_pie_chart([0.40, 0.15, 0.25, 0.20], ["Excellent", "Good", "Fair", "Poor"]);set_chart_title("Quality Ratings Distribution");align_slide_bottom();
+
+create_slide();choose_title();insert_text("ایک پروجیکٹ کو مکمل کرنے کے لیے رہنما۔");
+insert_right_arrow();align_top_right_corner();
+rotate_element(90);
+move_to_slide(0);choose_title();insert_text("تعارف");set_font_bold();move_to_slide(1);choose_title();set_font_bold();
+move_to_slide(0);insert_note("2022/6/10");
+set_background_color("light blue");insert_cloud();
+
+set_background_color("yellow");
+choose_content();insert_text("Trados Studio ایک طاقتور کمپیوٹر اسسٹڈ ٹرانسلیشن (CAT) ٹول ہے جسے SDL نے تیار کیا ہے۔ یہ متعدد خصوصیات اور افعال پیش کرتا ہے جو ترجمے کے عمل کو ہموار کرتا ہے، بشمول ترجمہ میموری، اصطلاحات کا انتظام۔ ، اور پروجیکٹ مینجمنٹ ٹولز۔");set_line_space(2);
+insert_note("ایوا کے ذریعہ تخلیق کردہ");choose_title();insert_text("Trados Studio");
+set_font_color("dark green");set_font_size(30);
+insert_picture("Trados_Studio_logo");align_slide_right();
+set_width(4);set_height(3);
+choose_picture();rotate_element(-15);
+set_background_color("purple");
+
+insert_table(2, 3);
+choose_table();choose_table_cell(0, 0);insert_text("سال");choose_table_cell(0, 1);insert_text("تفصیل");choose_table_cell(0, 2);insert_text("تبدیلیاں")
+choose_title();insert_text("گزشتہ دہائی میں عظیم تبدیلیاں");
+set_font_bold();set_font_italic();
+set_background_color("light blue");
+
+choose_title();insert_text("کیا آپ کو بیرون ملک تعلیم حاصل کرنے پر غور کرنا چاہئے؟");set_font_bold();set_font_underline();
+insert_picture("students_studying_abroad");align_slide_bottom();
+set_width(5);set_height(3);
+set_background_color("purple");insert_note("کیا آپ کو بیرون ملک تعلیم حاصل کرنے پر غور کرنا چاہئے؟");
+
+insert_bar_chart([0.45,0.35,0.20], series=["مکمل وقتی مترجم", "فری لانسرز", "ترجمہ ایجنسیاں"]);
+set_chart_title("Trados Studio Usage Statistics");
+create_slide();choose_title();insert_text("ABBYY FineReader");
+set_font_bold();set_font_underline();set_font_size(30);
+choose_content();insert_text("ABBYY FineReader ایک آپٹیکل کریکٹر ریکگنیشن (OCR) سافٹ ویئر ہے جو صارفین کو اسکین شدہ دستاویزات، پی ڈی ایف فائلوں اور تصاویر کو قابل تدوین اور قابل تلاش فارمیٹس میں تبدیل کرنے کی اجازت دیتا ہے۔ جدید متن کی شناخت اور دستاویز کی تبدیلی کی صلاحیتوں کے ساتھ، یہ دستاویز کی پروسیسنگ کو آسان بناتا ہے اور پیداواری صلاحیت کو بڑھاتا ہے۔");
+set_line_space(2);set_font_italic();
+insert_picture("ABBYY_FineReader_logo");insert_textbox();insert_text("ABBYY فائن ریڈر");
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("فیچر");choose_table_cell(0, 1);insert_text("تفصیل");choose_table_cell(0, 2);insert_text("فوائد")
+choose_picture();set_right("picture","table");
+insert_pie_chart([0.45,0.45,0.05], ["اعلی درستگی", "درمیانی درستگی", "کم درستگی"]);
+set_chart_title("Document Conversion Accuracy");
+insert_note("صفحہ 2");
+
+create_slide();choose_title();insert_text("مارکیٹنگ مہم");
+set_font_bold();set_font_underline();set_font_size(26);
+choose_content();insert_text("ہماری مارکیٹنگ مہم کا مقصد برانڈ کی آگاہی کو بڑھانا، اپنے ہدف کے سامعین کے ساتھ مشغول ہونا، اور فروخت کو بڑھانا ہے۔ آن لائن اور آف لائن مارکیٹنگ چینلز کے اسٹریٹجک امتزاج کے ساتھ، ہم مؤثر پیغام رسانی اور قابل پیمائش نتائج فراہم کرنے پر توجہ مرکوز کر رہے ہیں۔ ");
+align_slide_left();
+insert_picture("promotional_banner");insert_textbox();insert_text("پروموشنل_بینر");
+set_width(5);set_height(5);
+set_background_color("green");
+
+choose_title();insert_text("پائیدار توانائی");set_font_color("red");
+insert_picture("wind_turbine");set_width(6);
+insert_table(4, 3);choose_table_cell(0,0);insert_text("ہوا");choose_table_cell(1,0);insert_text("شمسی");choose_table_cell(2,0);insert_text("ہائیڈرو");choose_table_cell(3,0);insert_text("جیوتھرمل");choose_table_cell(0,1);insert_text("کم قیمت");choose_table_cell(1,1);insert_text("کم ماحولیاتی اثر");choose_table_cell(2,1);insert_text("اچھی فراہمی");choose_table_cell(0,2);insert_text("اعلی ابتدائی سرمایہ کاری");choose_table_cell(1,2);insert_text("وقفے وقفے سے دستیابی");choose_table_cell(2,2);insert_text("زمین کے استعمال کے تنازعات");
+set_top("picture", "table");
+create_slide();choose_title();insert_text("آن لائن شاپنگ");set_font_color("red");
+choose_content();insert_text("آن لائن شاپنگ انٹرنیٹ پر تاجروں سے سامان اور خدمات خریدنے کا عمل ہے۔ یہ اپنی سہولت اور رسائی کی وجہ سے تیزی سے مقبول ہوا ہے۔");
+choose_title();set_font_color("blue");set_font_bold();set_line_space(2);
+create_slide();insert_picture("TV_series");set_width(6);
+set_background_color("blue");insert_note("ٹی وی سیریز کے بارے میں");
+
+choose_title();insert_text("صحت مند کھانے کی عادات");set_background_color("dark blue");
+choose_content();insert_text("ویڈیو شروع کرنے کے لیے پلے دبائیں");set_font_style("Verdana");
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("فوڈ گروپ");choose_table_cell(0, 1);insert_text("تجویز کردہ سرونگز")
+align_slide_bottom();
+insert_picture("laptop");
+insert_rectangle();set_height(2);
+rotate_element(-45);
+
+choose_content();insert_text("اختتام میں، ٹی وی سروسز نے ہمارے تفریحی استعمال کے طریقے میں انقلاب برپا کر دیا ہے، جس سے مواد کے وسیع اختیارات اور سہولت فراہم کی گئی ہے۔");
+set_font_style("Futura");
+choose_title();insert_text("نتیجہ");set_font_bold();
+insert_picture("colorful_plate");
+align_slide_bottom();
+set_background_color("green");
+
+create_slide();set_background_color("purple");
+choose_title();insert_text("نقصان");
+set_font_bold();set_font_size(24);set_font_style("Arial");
+insert_note("2023/3/9");
+insert_pie_chart([0.30, 0.25, 0.15, 0.5, 0.25], ["پھل", "سبزیاں", "اناج", "پروٹینز", "ڈیری"]);
+align_slide_bottom();
+insert_textbox();insert_text("زیادہ کھانا کھانے کا نقصان یہ ہے کہ یہ آپ کو موٹا کر دے گا۔");set_bottom("textbox", "chart");
+choose_chart();set_chart_title("Daily Food Group Servings");
+
+insert_right_arrow();set_width(3.5);
+rotate_element(-90);
+align_slide_right();
+
+choose_title();insert_text("ٹیکنالوجی کے رجحانات");set_font_underline();
+set_font_color("green");set_font_size(26);
+choose_content();insert_text("جدید ترین ٹیکنالوجی کے رجحانات کو برقرار رکھنا آج کے تیزی سے تیار ہوتے ڈیجیٹل منظر نامے میں ضروری ہے۔ مصنوعی ذہانت اور بلاک چین سے لے کر کلاؤڈ کمپیوٹنگ اور انٹرنیٹ آف تھنگز تک، یہ رجحانات صنعتوں کو تشکیل دے رہے ہیں اور ہمارے راستے میں انقلاب برپا کر رہے ہیں۔ جیو، کام کرو، اور دنیا سے جڑو۔");
+set_background_color("green");
+insert_picture("interconnected_networks");
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("ٹیکنالوجی کا رجحان");choose_table_cell(0, 1);insert_text("تفصیل");choose_table_cell(0, 2);insert_text("اثر")
+insert_line_chart([15,10,7,6,24], ["Mobile Devices", "Internet Users", "AI Applications", "Cloud Services", "Smart Home Devices"]);
+set_chart_title("Technology Values");
+insert_pie_chart([15,10,7,6,24], ["Mobile Devices", "Internet Users", "AI Applications", "Cloud Services", "Smart Home Devices"]);set_chart_title("Technology Values");
+
+set_background_color("green");
+choose_title();insert_text("پائیدار زندگی");set_font_italic();
+insert_picture("solar_panel");align_slide_left();
+choose_content();insert_text("پائیدار زندگی ذمہ دارانہ کھپت، قابل تجدید توانائی، اور ماحول دوست طرز عمل کو فروغ دیتی ہے تاکہ ماحول کی حفاظت کی جا سکے اور آنے والی نسلوں کے بہتر مستقبل کو یقینی بنایا جا سکے۔ اپنی روزمرہ کی زندگی میں شعوری طور پر انتخاب کر کے، ہم کم کر سکتے ہیں۔ ہمارے کاربن فوٹ پرنٹ اور ایک زیادہ پائیدار دنیا بنائیں۔");
+set_font_color("dark orange");
+insert_line_chart([1.6, 2.4, 4.8, 11], ["2013", "2014", "2015", "2016"]);
+set_chart_title("Renewable Energy Consumption Trend");
+set_bottom("chart","title");
+insert_cloud();rotate_element(-30);
+
+insert_table(3, 4);
+choose_table_cell(0,0);insert_text("متوازن خوراک،");choose_table_cell(1,0);insert_text("پورشن کنٹرول،");choose_table_cell(2,0);insert_text("ہائیڈریشن");
+insert_picture("green_city");
+align_slide_top();
+choose_table();align_slide_bottom();
+
+choose_title();insert_text("پروجیکٹ مینجمنٹ");
+insert_picture("team");
+choose_title();set_font_underline();set_font_italic();
+choose_picture();align_top_left_corner();
+
+create_slide();choose_title();insert_text("پروجیکٹ پروگریس رپورٹ۔");
+insert_table(5, 3);choose_table_cell(0, 0);insert_text("ٹاسک کا نام");choose_table_cell(0, 1);insert_text("ڈیڈ لائن");choose_table_cell(0, 2);insert_text("ترقی کی حیثیت")
+set_background_color("purple");choose_title();set_font_color("green");
+
+choose_title();insert_text("یونیورسٹی اور پروفیشنل سکول");
+set_font_size(36);set_font_underline();
+choose_content();insert_text("یونیورسٹی اور پیشہ ورانہ اسکول طلباء کو کامیاب کیریئر کے لیے درکار علم اور مہارتوں سے آراستہ کرنے کے لیے اعلیٰ تعلیم اور خصوصی تربیت فراہم کرتے ہیں۔ یہ ادارے وسیع پیمانے پر تعلیمی پروگرام، تحقیق کے مواقع، اور پیشہ ورانہ ترقی کی پیشکش کرتے ہیں۔ ذاتی ترقی اور کیریئر کی ترقی کو فروغ دینا۔");
+set_line_space(2);
+set_background_color("purple");
+
+insert_picture("professional_school");
+align_slide_right();
+insert_triangle();align_slide_left();
+set_width(10);set_height(15);
+set_bottom("picture","triangle");
+
+create_slide();set_background_color("blue");
+choose_title();insert_text("NFC");set_font_bold();
+choose_content();insert_text("NFC (نیئر فیلڈ کمیونیکیشن) قریبی آلات کے درمیان بغیر کسی وائرلیس مواصلات کو قابل بناتا ہے۔");
+set_font_color("dark green");set_font_size(20);
+insert_picture("nfc_logo");
+set_background_color("purple");
+choose_picture();set_right("picture","slide");
+
+insert_table(2, 4);choose_table();choose_table_cell(0, 0);insert_text("مصنوعات");choose_table_cell(0, 1);insert_text("آمدنی");choose_table_cell(0, 2);insert_text("بیچنے والی یونٹس");choose_table_cell(0, 3);insert_text("منافع کا مارجن")
+set_background_color("light blue");
+
+insert_line_chart([500000, 1300000, 2500000, 4000000], series=["2018", "2019", "2020", "2021"]);
+set_chart_title("NFC Device Growth");
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("کنٹیکٹ لیس");choose_table_cell(0, 1);insert_text("ٹچ بیسڈ ٹرانزیکشنز");choose_table_cell(0, 2);insert_text("آسان اور تیز ادائیگیوں کو قابل بناتا ہے")
+insert_star();set_width(6.5);set_height(6.5);
+align_slide_top();
+align_slide_right();
+
+choose_title();insert_text("غلطی کو گلے لگانا");set_font_bold();
+set_font_size(20);set_font_style("Times New Roman");
+insert_picture("futuristic_cityscape");
+align_slide_bottom();
+insert_note("[آپ کا نام] کے ذریعہ تخلیق کردہ۔");set_background_color("purple");
+set_background_color("light blue");
+
+choose_title();insert_text("پاور بینک");align_top_left_corner();
+set_font_size(24);set_font_italic();
+choose_content();insert_text("ایک پاور بینک ایک پورٹیبل ڈیوائس ہے جو اسمارٹ فونز، ٹیبلیٹس اور دیگر الیکٹرانک آلات کے لیے چلتے پھرتے چارجنگ فراہم کرتی ہے۔");
+set_font_underline();set_line_space(2);set_font_size(24);set_font_color("orange");
+insert_picture("yoobao_power_bank");align_slide_bottom();
+insert_table(3, 4);choose_table();choose_table_cell(0, 0);insert_text("برانڈ");choose_table_cell(0, 1);insert_text("صلاحیت (mAh)");choose_table_cell(0, 2);insert_text("آؤٹ پٹ پورٹس");choose_table_cell(0, 3);insert_text("قیمت ($)")
+insert_pie_chart([0.40, 0.30, 0.20, 0.10], ["Brand A", "Brand B", "Brand C", "Others"]);
+set_chart_title("Power Bank Market Share");
+insert_note("2023");
+insert_callout();align_slide_right();
+
+choose_title();insert_text("NBA");set_font_color("red");
+choose_content();insert_text("نیشنل باسکٹ بال ایسوسی ایشن (NBA) ایک پیشہ ور باسکٹ بال لیگ ہے جو شمالی امریکہ کی 30 ٹیموں پر مشتمل ہے۔");
+set_font_size(20);
+align_bottom_left_corner();
+
+insert_picture("basketball_court");
+align_slide_top();
+insert_textbox();insert_text("باسکٹ بال کورٹ");set_background_color("blue");
+insert_table(4,3);
+choose_table();insert_table_row(["ٹیم", "سٹی", "چیمپئن شپ"]);insert_table_row(["لاس اینجلس", "لیکرز", "17"]);insert_table_row(["بوسٹن", "سیلٹکس", "17"]);insert_table_row(["شکاگو", "بلز", "6"])
+insert_bar_chart([17, 17, 6], ["Lakers", "Celtics", "Bulls"]);
+set_chart_title("NBA Championships Distribution");
+create_slide();choose_title();insert_text("خود مختار ڈرائیونگ کا تعارف");set_font_underline();
+insert_picture("futuristic_self-driving_car");set_height(7);
+choose_content();insert_text("خودکار ڈرائیونگ، جسے خود ڈرائیونگ یا ڈرائیور کے بغیر ٹیکنالوجی بھی کہا جاتا ہے، سے مراد وہ گاڑیاں ہیں جو انسانی ان پٹ کے بغیر نیویگیٹ کرنے اور چلانے کی صلاحیت رکھتی ہیں۔");
+align_bottom_left_corner();
+insert_right_arrow();set_left("right_arrow", "content");
+set_right("right_arrow", "content");
+
+choose_content();insert_text("خودکار ڈرائیونگ بہتر حفاظت، سہولت اور کارکردگی پیش کرکے نقل و حمل کی صنعت میں انقلاب برپا کر رہی ہے۔");
+set_font_size(18);set_font_bold();set_font_italic();
+set_font_underline();set_line_space(2);
+insert_table(2, 5);choose_table_cell(0, 0);insert_text("سینسر کی اقسام");choose_table_cell(0, 1);insert_text("Lidar");choose_table_cell(0, 2);insert_text("Radar");choose_table_cell(0, 3);insert_text("Cameras");choose_table_cell(0, 4);insert_text("Total")
+choose_content();set_font_style("Times New Roman");
+insert_pie_chart([0.40, 0.30, 0.30], ["Lidar", "Radar", "Cameras"]);
+set_chart_title("Sensor Types in Autonomous Driving");
+insert_note("خود مختار ڈرائیونگ میں سینسر کی اقسام");
+
+choose_title();insert_text("خودکار ڈرائیونگ");
+insert_picture("company_logo");align_bottom_left_corner();
+set_width(6.5);set_height(6);
+create_slide();choose_title();insert_text("علاقے کے لحاظ سے خود مختار ڈرائیونگ اپنانا۔");
+set_font_style("Calibri");set_font_size(32);
+choose_content();insert_text("خودکار ڈرائیونگ ٹیکنالوجیز نقل و حمل کے منظر نامے کو تبدیل کر رہی ہیں، صنعتوں میں انقلاب برپا کر رہی ہیں، اور حفاظت اور کارکردگی کو بڑھا رہی ہیں۔");
+set_font_color("dark orange");
+
+create_slide();choose_title();insert_text("پودے لگانے کی طاقت۔");set_font_style("Calibri");set_font_size(36);
+set_background_color("green");
+choose_content();insert_text("پودا لگانا نہ صرف ہمارے اردگرد کو خوبصورت بناتا ہے بلکہ ماحولیاتی پائیداری کو بھی فروغ دیتا ہے اور صحت کے بے شمار فوائد فراہم کرتا ہے۔");
+set_font_color("green");choose_title();set_font_color("green");
+insert_picture("lush_garden");
+insert_pie_chart([0.40, 0.30, 0.30], ["ماحولیات", "صحت", "کمیونٹی"]);
+set_chart_title("Planting Benefits");
+set_bottom("chart", "picture");
+insert_right_arrow();rotate_element(60);
+set_height(2);set_width(4);insert_note("صفحہ 2");
+
+insert_table(3, 4);
+choose_table();choose_table_cell(0, 0);insert_text("پودے لگانے کے فوائد");choose_table_cell(0, 1);insert_text("ماحولیاتی");choose_table_cell(0, 2);insert_text("صحت");choose_table_cell(0, 3);insert_text("کمیونٹی")
+set_background_color("green");
+choose_title();insert_text("دیگر معلومات");
+set_font_color("dark orange");set_font_underline();
+choose_title();align_top_left_corner();
+
+insert_picture("GoogleLogo");insert_textbox();insert_text("گوگل");
+choose_content();insert_text("گوگل اور مائیکروسافٹ ایج دو مشہور ویب براؤزرز ہیں جو منفرد خصوصیات اور افعال پیش کرتے ہیں۔ جب کہ گوگل کروم اپنی رفتار اور وسیع ماحولیاتی نظام کے ساتھ مارکیٹ پر حاوی ہے، مائیکروسافٹ ایج کا مقصد ایک ہموار براؤزنگ کا تجربہ فراہم کرنا ہے۔ ونڈوز آپریٹنگ سسٹم کے ساتھ انضمام۔");
+set_font_size(16);
+choose_title();insert_text("گوگل بمقابلہ مائیکروسافٹ ایج");set_font_color("red");
+choose_picture();align_bottom_left_corner();
+insert_table(3, 3);choose_table_cell(0, 0);insert_text("فیچرز");choose_table_cell(0, 1);insert_text("گوگل کروم");choose_table_cell(0, 2);insert_text("مائیکروسافٹ ایج");choose_table_cell(1, 0);insert_text("رفتار");choose_table_cell(1, 1);insert_text("بلند");choose_table_cell(1, 2);insert_text("اعتدال پسند");choose_table_cell(2, 0);insert_text("ماحولیاتی نظام");choose_table_cell(2, 1);insert_text("وسیع");choose_table_cell(2, 2);insert_text("مربوط")
+insert_bar_chart([0.50, 0.25, 0.25], ["Google Chrome", "Microsoft Edge", "Others"]);
+set_chart_title("Web Browser Market Share");insert_note("صفحہ 1");
+
+set_background_color("blue");choose_title();insert_text("نیٹ ورکنگ اور لنکڈ ان");
+choose_content();insert_text("نیٹ ورکنگ کیریئر کی ترقی میں ایک اہم کردار ادا کرتا ہے، اور LinkedIn پیشہ ورانہ نیٹ ورکنگ کے لیے ایک طاقتور پلیٹ فارم ہے۔ دنیا بھر میں لاکھوں صارفین کے ساتھ، LinkedIn پیشہ ور افراد کے ساتھ مربوط ہونے، مہارتوں کی نمائش، اور ملازمت کے مواقع تلاش کریں۔");
+choose_title();set_font_color("dark red");choose_content();set_font_color("light red");
+choose_title();set_font_style("Arial");choose_content();set_font_style("Arial");
+choose_title();set_font_underline();choose_content();set_font_italic();set_font_size(24);
+insert_pie_chart([0.30,0.20,0.15,0.10,0.25], ["ٹیکنالوجی", "فنانس", "ہیلتھ کیئر", "مارکیٹنگ", "دیگر"]);
+set_chart_title("LinkedIn User Distribution");
+insert_line_chart([0.30,0.20,0.15,0.10,0.25],["Technology", "Finance", "Healthcare", "Marketing", "Others"]);
+insert_bar_chart([0.30,0.20,0.15,0.10,0.25],["Technology", "Finance", "Healthcare", "Marketing", "Others"]);
+
+create_slide();choose_title();insert_text("مختلف ککر");
+choose_content();insert_text("ککر کی مختلف اقسام دستیاب ہیں جو کھانا پکانے کی مختلف ضروریات کو پورا کرتی ہیں۔ روایتی چولہے سے لے کر جدید الیکٹرک ککرز اور جدید انڈکشن کک ٹاپس تک، ہر قسم منفرد خصوصیات اور فوائد پیش کرتی ہے۔");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("ککر کی قسم");choose_table_cell(0, 1);insert_text("خصوصیات");choose_table_cell(0, 2);insert_text("فوائد");choose_table_cell(1, 0);insert_text("چولہا");choose_table_cell(1, 1);insert_text("گیس یا الیکٹرک برنرز");choose_table_cell(1, 2);insert_text("گرمی کا درست کنٹرول")
+insert_pie_chart([0.40, 0.25, 0.20, 0.10, 0.5], ["Stovetop", "Electric Cooker", "Induction Cooktop", "Slow Cooker", "Air Fryer"]);
+set_chart_title("Cooker Type Popularity");
+insert_picture("stovetop");
+set_width(7);set_height(6);
+align_slide_right();
+align_slide_left();
+move_to_slide(0);set_background_color("green");
+
+choose_title();insert_text("Discover the Delight of Oreo");
+set_font_bold();set_font_italic();
+set_font_size(30);
+choose_content();insert_text("Oreo، مشہور سینڈوچ کوکی، ہر عمر کے لوگوں کے لیے ایک پسندیدہ دعوت رہی ہے۔ چاکلیٹ ویفرز اور کریمی فلنگ کے اس کے ناقابل تلافی امتزاج کے ساتھ، Oreo ایک خوشگوار ناشتے کا تجربہ پیش کرتا ہے جو ہر ایک کو خوشی دیتا ہے۔ کاٹنا۔");
+set_font_color("dark blue");
+insert_picture("Oreo");
+align_top_right_corner();
+insert_star();align_top_left_corner();
+insert_pie_chart([0.40,0.10,0.50], ["اصلی", "پودینہ", "مونگ پھلی کا مکھن"]);insert_line_chart([0.40,0.10,0.50],["Original","Mint","Peanut Butter"]);
+insert_bar_chart([0.40,0.10,0.50],["Original","Mint","Peanut Butter"]);set_chart_title("Oreo Flavor Popularity");
+
+set_background_color("purple");
+choose_title();insert_text("موسمی تغیرات");set_font_bold();set_font_italic();
+choose_content();insert_text("موسمی تغیرات ہماری زندگیوں میں ایک الگ دلکشی لاتے ہیں۔ موسم بہار کے متحرک رنگوں سے لے کر گرمیوں کے گرم رنگوں تک، خزاں کے آرام دہ ماحول اور سردیوں کے پر سکون مناظر تک، ہر موسم میں ایک خوبصورت منظر پیش کرتا ہے۔ منفرد تجربہ۔ سال بھر میں فطرت کی تبدیلی کی خوبصورتی کو گلے لگائیں۔");
+set_font_style("Arial");set_font_size(18);
+insert_table(4, 4);choose_table_cell(0, 0);insert_text("موسم");choose_table_cell(0, 1);insert_text("اوسط درجہ حرارت");choose_table_cell(0, 2);insert_text("اہم خصوصیات");choose_table_cell(0, 3);insert_text("سرگرمیاں")
+insert_callout();align_slide_left();
+
+choose_title();insert_text("گوانگ ڈونگ میں موسم: تنوع کی آب و ہوا");
+align_top_left_corner();
+choose_content();insert_text("گوانگ ڈونگ سال بھر موسمی حالات کی ایک وسیع رینج کا تجربہ کرتا ہے۔ گرم اور دھوپ والے دنوں سے لے کر کبھی کبھار بارش، دھند والی صبح اور ابر آلود آسمان تک، گوانگ ڈونگ کی آب و ہوا متنوع اور متحرک ہے۔ اس متحرک خطے میں مختلف موسموں اور موسم کے نمونوں کو دریافت کریں۔");set_line_space(2);
+insert_picture("beach");align_top_right_corner();
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("موسم");choose_table_cell(0, 1);insert_text("اوسط درجہ حرارت");choose_table_cell(1, 0);insert_text("بہار");choose_table_cell(1, 1);insert_text("20-28℃")
+set_background_color("purple");
+choose_table();align_slide_bottom();
+insert_cloud();align_slide_left();
+
+insert_picture("sunrise");
+set_width(6);set_height(6);
+choose_title();insert_text("مثبت سوچ کی طاقت: امید کو اپنانا");set_font_italic();set_font_bold();
+choose_content();insert_text("مثبت سوچ ایک ذہنیت ہے جو رجائیت، لچک اور خود اعتمادی پر مرکوز ہے۔ مثبت خیالات اور رویوں کو فروغ دینے سے، ہم اپنی فلاح و بہبود کو بڑھا سکتے ہیں، چیلنجوں پر قابو پا سکتے ہیں۔ ، اور ایک خوش کن اور بھرپور زندگی بنائیں۔ مثبت سوچ کی طاقت کو گلے لگائیں اور اپنی حقیقی صلاحیتوں کو کھولیں۔");set_font_italic();set_font_bold();
+set_font_color("purple");set_font_size(20);
+insert_note("مثبت سوچ");
+
+insert_table(4, 3);choose_table_cell(0, 0);insert_text("فوائد");choose_table_cell(0, 1);insert_text("تفصیل");choose_table_cell(0, 2);insert_text("مثالیں");choose_table_cell(1, 0);insert_text("بہتر بہبود")
+choose_content();insert_text("مثبت سوچ ایک ذہنیت ہے جو رجائیت، لچک اور خود اعتمادی پر مرکوز ہے۔ مثبت خیالات اور رویوں کو پروان چڑھانے سے، ہم اپنی فلاح و بہبود کو بڑھا سکتے ہیں، چیلنجوں پر قابو پا سکتے ہیں، اور ایک خوش اور خوش کن تخلیق کر سکتے ہیں۔ زیادہ بھرپور زندگی۔ مثبت سوچ کی طاقت کو گلے لگائیں اور اپنی حقیقی صلاحیت کو کھولیں۔");
+set_font_italic();set_font_color("light blue");
+set_background_color("light green");
+choose_title();insert_text("تعریف");set_font_bold();
+align_top_left_corner();
+insert_picture("laugh");align_slide_right();
+
+choose_title();insert_text("کچرے کی درجہ بندی: پائیدار فضلہ کے انتظام کو فروغ دینا");choose_content();insert_text("کچرے کی درجہ بندی پائیدار فضلہ کے انتظام کو فروغ دینے میں ایک اہم عمل ہے۔ ، اور ایک صاف ستھرا اور صحت مند سیارے میں حصہ ڈالیں۔ کوڑے کی درجہ بندی کی ذمہ داری کو قبول کریں اور ہمارے ماحول پر مثبت اثر ڈالیں۔");
+set_font_color("orange");set_font_underline();
+set_font_size(18);
+choose_title();set_font_style("Times New Roman");choose_content();set_font_style("Times New Roman");
+insert_right_arrow();align_bottom_right_corner();
+set_width(4.0);set_height(3.0);
+rotate_element(-90);
+insert_bar_chart([60, 50, 45, 40, 40], ["کاغذ", "پلاسٹک", "شیشہ", "دھاتیں", "نامیاتی فضلہ"]);set_chart_title("Waste Material Recycling Rates.");
+insert_picture("recycling_bin");
+create_slide();set_background_color("purple");
+choose_title();insert_text("نامیاتی فضلہ");set_font_size(18);
+choose_content();insert_text("نامیاتی فضلہ پائیدار زندگی میں اہم کردار ادا کرتا ہے۔ نامیاتی مواد جیسے کھانے کے اسکریپ، صحن کا فضلہ، اور زرعی باقیات کو کمپوسٹ کرکے، ہم لینڈ فل کے فضلے کو کم کر سکتے ہیں، مٹی کے معیار کو بہتر بنا سکتے ہیں، اور غذائیت کے چکر کو بند کر سکتے ہیں۔ کھاد بنانے کی مشق کو اپنائیں اور ایک سرسبز مستقبل میں اپنا حصہ ڈالیں۔");
+
+create_slide();choose_title();insert_text("لیڈی میکبیتھ کی اولڈرائیڈ کی فلم");set_font_bold();
+set_font_size(28);set_font_underline();
+choose_content();insert_text("برچ کا اسکرین پلے لیسکوف کے بیانیے میں چند بڑی تبدیلیاں متعارف کراتا ہے۔ مثال کے طور پر برچ اور اولڈرائیڈ سائبیریا کے واقعات کو مکمل طور پر ختم کرتے ہیں اور کیتھرین کی خودکشی کو ختم کرنے کا انتخاب کرتے ہیں۔");
+set_font_size(20);set_font_bold();
+choose_title();set_font_color("red");choose_content();set_font_color("yellow");
+insert_picture("Lady Macbeth");
+set_width(8);set_height(8);
+set_right("picture","content");
+set_left("picture","content");
+insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("فلم کا کردار");choose_table_cell(0, 1);insert_text("اداکار/اداکارہ");choose_table_cell(1, 0);insert_text("لیڈی میکبتھ");choose_table_cell(1, 1);insert_text("فلورنس پگ");choose_table_cell(2, 0);insert_text("Macbeth");choose_table_cell(2, 1);insert_text("Cosmo Jarvis")
+insert_note("1 مئی");
+set_background_color("purple");
+
+create_slide();choose_title();insert_text("ورزش کی اہمیت");set_font_underline();
+set_font_size(24);set_font_color("green");
+choose_content();insert_text("باقاعدہ ورزش قلبی صحت کو بہتر بنا سکتی ہے، موڈ کو بڑھا سکتی ہے، اور توانائی کی سطح کو بڑھا سکتی ہے۔");
+set_font_size(20);set_font_bold();
+set_font_color("red");
+insert_picture("exercise");
+insert_pie_chart([0.10,0.30,0.50,0.10], ["قلبی صحت", "پٹھوں کی طاقت", "دماغی تندرستی", "بیماریوں سے بچاؤ"]);
+insert_table(5,2);choose_table_cell(0,0);insert_text("ورزش کی اقسام");choose_table_cell(0,1);insert_text("فوائد");
+set_right("table","picture");
+insert_star();set_background_color("purple");
+align_bottom_left_corner();
+set_width(8);set_height(4);
+
+create_slide();choose_title();insert_text("پڑھنے کے فوائد");set_font_size(24);set_font_underline();
+choose_content();insert_text("پڑھنا علمی فعل کو بہتر بنا سکتا ہے، ہمدردی کو بڑھا سکتا ہے، اور تناؤ کو کم کر سکتا ہے۔");
+set_font_bold();set_font_italic();
+set_font_style("Arial");set_font_color("green");
+insert_picture("person_reading");
+insert_bar_chart([1400, 992, 400, 661, 234], ["Fiction", "Non-Fiction", "Biography", "Self-Help", "Fantasy"]);
+set_chart_title("Book sales");
+insert_table(3, 3);
+choose_table_cell(0, 0);insert_text("پڑھنے کے فوائد");choose_table_cell(1, 0);insert_text("علم میں اضافہ");choose_table_cell(2, 0);insert_text("الفاظ کی توسیع");
+set_background_color("red");
+insert_note("کتابیں پڑھنا");
+create_slide();set_background_color("red");insert_picture("clock");
+set_width(10);set_height(15);
+insert_note("پڑھنے کے بارے میں");
+
+create_slide();choose_title();insert_text("رضاکارانہ خدمات کے فوائد");set_font_underline();
+choose_title();set_font_color("dark red");set_font_size(30);
+choose_content();insert_text("رضاکارانہ خدمات خوشی کو بڑھا سکتی ہیں، سماجی مہارتوں کو بہتر بنا سکتی ہیں، اور مقصد کا احساس فراہم کر سکتی ہیں۔");
+set_font_color("green");
+set_font_bold();set_font_size(18);
+align_bottom_left_corner();
+insert_picture("volunteers");
+align_bottom_left_corner();
+insert_table(3, 3);choose_table_cell(0, 0);insert_text("فوائد");choose_table_cell(1, 0);insert_text("ذاتی ترقی");choose_table_cell(2, 0);insert_text("سماجی رابطے");
+choose_content();set_font_bold();set_font_size(20);
+insert_bar_chart([25, 45, 10, 15, 5], ["کمیونٹی سروس", "تعلیم", "صحت کی دیکھ بھال", "ماحولیاتی تحفظ", "آفات سے نجات"]);
+set_chart_title("Volunteergin Importance");
+
+set_background_color("purple");
+choose_title();insert_text("CAJ فارمیٹ");set_font_underline();set_font_italic();
+set_font_color("purple");
+choose_content();insert_text("CAJ فارمیٹ چین میں علمی مقالوں اور تحقیقی دستاویزات کے لیے وسیع پیمانے پر استعمال ہونے والا فائل فارمیٹ ہے۔ یہ موثر شیئرنگ اور اشاعت کے لیے ایک معیاری ڈھانچہ اور ترتیب فراہم کرتا ہے۔");
+set_line_space(2);
+set_font_style("Arial");set_font_bold();
+set_font_color("green");
+align_slide_top();
+insert_picture("sample_caj");
+align_top_right_corner();
+insert_table(2,3);
+choose_table_cell(0, 0);insert_text("سیکشن");choose_table_cell(0, 1);insert_text("ہیڈنگ");choose_table_cell(0, 2);insert_text("مواد")
+create_slide();insert_bar_chart([30, 25, 20, 15, 10], ["CAJ", "PDF", "DOC", "PPT", "XLS"]);
+set_chart_title("File Format Usage");
+insert_note("فائل فارمیٹ");set_background_color("purple");
+
+choose_content();insert_text("جرنلنگ تناؤ کو کم کر سکتی ہے، یادداشت کو بہتر بنا سکتی ہے، اور خود آگاہی کو بڑھا سکتی ہے۔");
+set_font_underline();set_font_size(18);set_font_color("purple");
+choose_title();insert_text("جرنلنگ");
+set_font_italic();set_font_style("Arial");
+insert_picture("person_writing");
+align_slide_bottom();
+insert_star();align_slide_right();
+rotate_element(60);
+
+create_slide();choose_title();insert_text("باغبانی کے فوائد");set_font_size(28);set_font_bold();
+choose_content();insert_text("باغبانی تناؤ کو کم کر سکتی ہے، جسمانی صحت کو بہتر بنا سکتی ہے، اور تخلیقی صلاحیتوں کو بڑھا سکتی ہے۔");
+set_font_italic();set_font_style("Arial");
+insert_cloud();align_slide_right();
+set_left("cloud","title");
+insert_picture("person_working_in_garden");set_width(10);
+create_slide();set_background_color("light blue");
+insert_triangle();align_slide_left();
+set_height(15);rotate_element(45);
+
+create_slide();choose_title();insert_text("IT کمپنیاں");
+set_font_style("Times");set_font_bold();set_font_size(32);
+insert_picture("Apple Company Logo");set_height(2);set_width(2);
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("2020");choose_table_cell(0, 1);insert_text("2021");choose_table_cell(0, 2);insert_text("2022");choose_table_cell(1, 0);insert_text("274B");choose_table_cell(1, 1);insert_text("365B");choose_table_cell(1, 2);insert_text("394B")

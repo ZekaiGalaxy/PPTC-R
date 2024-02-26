@@ -1,0 +1,209 @@
+Merhaba 1,3,6,7,10,13 ve 15 numaralı slaytların başlık rengini siyah yapabilir misiniz?
+Ve ilk üç slaydın arka planını beyaz olarak ayarlayın.
+3. slayttaki ilk resmi 75 derece döndürün. 4. slayttaki ilk iki resmin genişliğini gerçek insanlarla 8 olarak değiştirin.
+İlk görüntüyü gerçek insanlarla 60 derece döndürün.
+
+6,7,8 numaralı slaydın başlığını "Deniz Kirliliği" olarak değiştirebilir misiniz? Ardından, 9 ila 12. slayttaki görüntülerin genişliğini ayarlayın.
+15 ila 5. slayttaki ilk iki metin kutusunun yazı tipi boyutunu yapın ve yazı tipi rengini "kırmızı" olarak ayarlayın.
+Tamam, ardından 9. slayta gidin ve tüm metin kutularının yazı tipi rengini sarı olarak ayarlayın.
+dünya resmi olan slayda gidin ve tüm metin kutularının yazı tipi rengini kırmızı olarak ayarlayın.
+
+Lütfen kişisel resmimi içeren ilk üç slaydı bulun ve bu üç slayttaki ilk ve sonun başlığını ana hatlarıyla belirtin.
+Tamam, ilk üç slaydın arka plan rengini mavi yapın ve 11. slaydın başlığını 'Yükselen yıldız' olarak değiştirin.
+Ayrıca 11. slayt için bir başlık verin. Emm, bence "Daha fazla ayrıntı" iyi bir seçim. Başlığı kalın olarak ayarlayın.
+
+"Şirketimiz" slaytının başlığının altını çizin ve yazı boyutunu 10 olarak ayarlayın.
+Ananas resminin olduğu slaytın başlığını kalın yazı tipi ile 12 olarak ayarlayın.
+Tamam, o zaman lütfen 8. ve 16. slaytların orijinal başlığını silin. 8. ve 16. slaytlar için sırasıyla "Company for Human Future" ve "Company Profit" yeni başlıklarını ekleyin.
+Ardından 9, 10 numaralı slaytların başlığını "Şirketimizin Tarihçesi" ile değiştirin.
+
+Lütfen gerçek kişi resmi olan tüm slaytlar için "Gizlilik endişesi olabilir" notunu ekleyin.
+2,1,4,6 ve 7 numaralı slaytlardaki başlıkların rengini siyah olarak ayarlayın ve altını çizin.
+Ekip üyeleriyle ilgili slayda gidin ve başlığı "Üyeler ve Arkadaşlar" olarak değiştirin.
+
+2. slaytın başlığını 'Kariyerinizin Erken Dönemleri İçin 10 Önemli İpucu' olarak ayarlayın ve altını çizin. Ayrıca yazı tipi boyutunu 15 olarak ayarlayın.
+Tablonun bulunduğu slayda gidin ve "Bu, bir bekârın her yıl ortalama gelirini kaydeden bir tablodur" notunu alın.
+Son olarak 2,4,6 ve 13 numaralı slaytların arka plan rengini beyaz olarak ayarlayın.
+
+2. slaydın başlığını "Deniz Sporları" yapın ve altını çizin. Ayrıca, 7. slaydın başlığını "Kaykay Oynamak İçin Dört Önemli Adım" olarak değiştirin.
+'Hizmetlerimiz' slaytının başlığını 'Çocuğunuz İçin Ücretsiz Kurs' olarak değiştirin.
+Çocuk ve koç resminin olduğu slaydın başlığını 'Ücretsiz Kurslar' olarak değiştirin.
+Son olarak, son slayttaki başlığın yazı tipi boyutunu 10 ve kalın olarak ayarlayın.
+
+2. slaydın başlığını 'Tasarım İçin Önemli Faktörler' yapın. Ardından 1. slayttaki resmim için 'Lily' olarak bir not ekleyin.
+3. slayttaki bilgisayar resminin yüksekliğini 10 olarak ayarlayın ve bu slaydın başlığını "İnternetten İlgili Bilgiler" olarak ayarlayın.
+İki tablo içeren slayda gidin ve başlığı "2022'den 2023'e yeni eğilim" olarak ayarlayın.
+
+2. slaydın başlığını 'Müzik Aleti' yapın ve yazı tipi boyutunu 12 olarak ayarlayın.
+Kim olduğumuzu ve ne yaptığımızı tanıtan slayda geçin, bu slayda "İşe alım yapıyoruz!" notunu ekleyin.
+18,19,5,6 ve 2 numaralı slaytların başlık rengini mor olarak ayarlayın ve altını çizin.
+
+1. slayttaki resimlerin yüksekliğini 5 olarak ayarlayın ve bu slaydın başlığını "The Art of Young" olarak ayarlayın. Altını çiz.
+Üç erkek çocuğun resminin bulunduğu slayda geçin. Başlığı "The Playboys" yapın ve kalın yapın.
+Slayttaki görüntüleri 6 ila 45 derece döndürün. Başlığı "Asya Modası" yapın ve ortalayın.
+
+6. slaydın başlığını "Dünyadaki kullanıcılarımız" olarak değiştirin ve kalın yapın. Ve 9. slayt için "Şirketimizin Kârı" olarak yeni bir başlık ekleyin.
+Slayt için "İnfografik Slayt Raporu" başlığını "Resimdeki veri noktalarını güncellemem gerekiyor" şeklinde not edin.
+İlk beş slaydın ve son slaydın arka planını sırasıyla mavi ve kırmızı olarak ayarlayın.
+
+2. slaydın başlığını 'Üç Adımda BLOCKCHAIN ​​Al ve Sat' olarak ayarlayın ve altını çizin. Ayrıca, slayt 2,3 ve 4'teki ilk görüntüyü sırasıyla 15, 30 ve 45 derece döndürün.
+5. slaytta tüm yazı tiplerinin altını çizin ve kalınlaştırın ve son slayt için 'Gelirler ve Giderler' olarak bir başlık oluşturun.
+0,2,3,6 numaralı slaytın arka plan rengini sarı olarak ayarlayın.
+
+Slayt kimliği, X^2-25=0 denkleminin pozitif çözümüdür. Bu slaydın başlığını "Annemle Seyahat" yapın ve altını çizin.
+9. slayttaki tüm resimlerin yüksekliğini 14 olarak ayarlayın ve arka plan rengini kırmızı olarak ayarlayın.
+Bir sonraki slaydın başlığını "Annemle Oyun Oyna" olarak ayarlayın.
+
+Gerçek kişi resmi olan slaytların arka plan rengini sarı olarak ayarlayın ve 1. slaytın başlığını 'Haydi başlayalım' olarak ayarlayın.
+Slaydın ilk metin kutusu hariç 1. slaydın tüm metin içeriğini silin.
+Başlığı olan tüm slaytların arka plan rengini beyaz olarak ayarlayın. Ve başlığın altını çizin.
+
+Lütfen üç çocuğu olan resmin genişliğini 12 olarak yeniden ayarlayın ve bu slayda bir not ekleyin: Merhaba Çocuklar!'
+Tamam, o zaman 10. slaytta sola hizalanmış bir çocuk resmi yapın ve ardından 15 dereceye kadar döndürün. ## 10, picture 0, slide, left
+3, 8, 10 ve 21. slaytlar için başlık rengini mavi yapın.
+
+İlk üç slaydın başlığını sırasıyla 'Çiçek Aranjman Sanatı', 'Bir Çiçek Şiiri' ve 'Çiçek Aranjmanı İçin Üç Önemli Adım' olarak belirleyin. Bu başlıkların altını çizin.
+Pamuk resmi olan slayda gidin. ve Başlığı "Sadece Mahsul Değil" olarak ayarlayın. Ayrıca ilk resmin yüksekliğini 10 olarak ayarlayın.
+14. ve 24. slaytların ilk metin kutusunu slaytta üste hizalı yapın. Ayrıca, 14. slayttaki tüm görüntüleri 12 derece döndürün. ## 14, textbox 0, slide, top ## 24, textbox 0, slide, top
+
+13. slayt için bir başlık ekleyin: "Hangi hayvan en uzun ömre sahiptir?" ve yazı tipi rengini sarı olarak ayarlayın.
+1. slayttaki tüm yazı tiplerinin yazı tipi boyutunu 8 olarak ayarlayın ve başlığı 'Ne görürdünüz' olarak yeniden yazın.
+Slayt 21'e gidin ve güncelliğini yitirme nedeni olarak tüm kişisel bilgileri silin.
+
+5. slaydın başlığını "Küresel Isınma!" olarak ayarlayın ve başlığın altını çizin. 3. slayttaki metin kutularını sola hizalayın.
+14. slayta gidin ve başlığı "Mevcut Ekip Üyeleri" olarak düzenleyin.
+Buz ve deniz resmi ile slaytların arka plan rengini mavi yapın.
+
+Konusu Jurassic Park olan slaytların arka plan rengini sarı yapın ve baykuş resmi olan slaytın başlığını 'Aşağıdaki resimleri görünce hangi filmi hatırlıyorsunuz?' olarak ayarlayın ve başlığı kalın yapın.
+Slide-id, x^2+2x-3=0 denkleminin köküdür. Bu slaydın başlığını "Film Festivalimize Hoş Geldiniz!" olarak ayarlayın.
+İlk metin kutusu dışında ekip üyeleriyle ilgili slaytlardaki tüm yazı tiplerini silin.
+
+5. ve 14. slaydın başlığını sırasıyla 'Aşık olup olmadığınızı belirlemenin üç anahtarı' ve 'Sevgilinizle birlikte neler yapabilirsiniz' olarak ayarlayın ve başlığın altını çizin.
+İletişim bilgileriyle ilgili slayda gidin ve 'Adresimiz: xxx' notunu ekleyin.
+2,3,4,5,6,7, 13 ve 14 numaralı slaytların arka plan rengini mavi olarak ayarlayın.
+
+Slayt 3'ün başlığını 90 derece döndürün ve 8. slaydın başlığını "Chips" olarak ayarlayın.
+14. slayda gidin ve ikinci sütunu "Gelir Tablosu", 1450", "1567", 1456" ve "8900" ile doldurun.
+Ardından, ilk satırdaki ve 2. ve 3. sütundaki öğeleri "Maliyet" ve "Gelir" ile doldurun.
+
+1'den 3'e kadar olan slaytlardaki başlığın yazı tipi rengini siyah olarak ayarlayın ve başlığı kalın yapın. Ayrıca, 22. slayttaki kişisel bilgileri de silin.
+19. slayta gidin ve ikinci metin kutusuna "Şirketimiz 2012 yılında inşa etti" cümlesini ekleyin.
+11. slayta gidin ve görüntünün yüksekliğini azaltın. Emm mesela resmin yüksekliğini 10 yap.
+
+18. ve 23. slaytın başlığını sırasıyla "Renkli Dünya" ve "Grubumuza Hoş Geldiniz" olarak ayarlayın. Başlığın altını çizin ve ilk başlığın puntosunu 19 olarak ayarlayın.
+Tablolu slayta geçin (slayt 12) ve ikinci satırdaki ve son sütundaki sayıyı 17 olarak düzenleyin. Ayrıca son sütundaki sayı değerini sıfır olarak sıfırlayın.
+11. slayta gidin ve başlığı "Şirketimizin Büyük Resmi" olarak yeniden yazın.
+
+5,9,10,11 ve 15 numaralı slaytlardaki başlıkları üste hizalayın. ## 5, textbox 0, slide, top ## 9, textbox 0, slide, top ## 10, textbox 0, slide, top ## 11, textbox 0, slide, top ## 15, textbox 0, slide, top
+Tamam, ardından 14. slayttaki başlığı "Grubumuzdaki En İyi Uzmanlar" olarak yeniden yazın.
+Güzel, iki buz küpü olan slayda gidin ve başlığı "2. Tur" olarak ayarlayın.
+
+4. slaydın başlığını "Yapay Zeka Çağına Hoş Geldiniz" olarak yeniden yazın ve kalın yapın.
+Üyeler slaydına gidin ve yeni bir başlık ekleyin: "Genç Bilim Adamımız". 16. slayda gidin ve başlığı şu şekilde düzenleyin: En Yeni Ürünümüz'.
+Hizmetimizi tanıtan slayta geçin. Metin kutusundaki yazı tiplerinin altını çizin.
+
+0. slaytta bugünün tarihini "7.18" ile doldurun ve 0. slayttaki resmi en üste taşıyın. ## 0, picture 0, slide, top
+6. slaytta '2015','2016','2017','2018','2019' metinlerinin bulunduğu metin kutusunun rengini sırasıyla sarı, yeşil, kırmızı, mor, mavi olarak değiştirin.
+9. slayttaki tüm metin kutusunu kalınlaştırın, 7.8. slaytta arka plan rengini sarı olarak ayarlayın ve 0. slaytta yüksekliği 3 olan resmi yapın.
+
+Diğer metin kutularıyla aynı metin hizalama stiliyle 0 slaydına bir "Merhaba" metin kutusu ekleyin.
+Sırasıyla 7,8,9,10 numaralı slaytta yeşil, sarı, kırmızı, mavi renkli "Merhaba" metin kutusunu ekleyin.
+6,7,8,9 numaralı slayttaki ilk resmin dönüşünü 15,30,45,60 olarak değiştirin.
+
+Renkli slayt 3,4,5'ten sarıya, yeşile, kırmızıya. Renkli slayt 6,7'den kırmızıya, sarıya.
+Tablonun olduğu slaytta "burada bir tablo" notu girin.
+Tablonun ikinci satırını |Yeşil|11|20|7| olarak değiştirin.
+
+7. slaytta Competitive Edge 1,2,3 metin kutusunu sırasıyla "Ucuz", "Kalite" ve "Etkili" olarak değiştirin. 2. slaytta tüm metin kutularını sağa hizalayın.
+Resmi 2. slaytta sağa kaydırın ve 4. ile 3. slayttaki tüm metin kutularının yazı tipi boyutunu değiştirin. ## 2, picture 0, slide, right
+Tablo içeren tüm slayda "bu slaytta doldurulacak bir tablo var" notu ekleyin.
+
+4. slaytta "Yakında"yı "Justin" olarak değiştirin. 6. slaytta resmi sola taşıyın. ## 6, picture 0, slide, left
+9,10,7 numaralı slayttaki "Konunuzu veya Fikrinizi Yazın" metin kutusunu "Kış Sporlarına Giriş" olarak değiştirin. Slayt 10'dan 7'ye resim yüksekliğini değiştirin.
+4,5,6,7 numaralı slaytta ilk resimleri 45 derece döndürün.
+
+"İç borç" metin kutusunu "Dış borç" olarak değiştirin.
+Slayt 5,6,9'da sırasıyla resmin yüksekliğini 2,3,4 olarak değiştirin.
+5. slaytta arka planların rengini sarı olarak değiştirin. 6. slaytta resim yüksekliğini 3 olarak değiştirin. 4. slaytta arka planların rengini kırmızı olarak değiştirin.
+4. slaytta 4 yazı tipi boyutundaki tüm metin kutularını yapın. Yazı tipi rengindeki ilk metin kutusunu sarı yapın.
+
+6. slayttaki "şirketimiz" metin kutusunu "Apple" ile doldurun. İkinci metin kutusunun yazı tipi rengini sarı olarak değiştirin.
+Şimdi Giriş metin kutusunu kalın yapın. 6. ve 7. slaytta resimlerin 45 döndürülmesini sağlayın.
+4. slayttaki tüm metni kalın yapın, 5. slayttaki tüm metnin altını çizin.
+
+1,3,5 numaralı slaytta arka plan rengini yeşil olarak değiştirin. 0,2,4 numaralı slaytta arka plan rengini mavi olarak değiştirin.
+2. slayttaki "GÜNDEM SAYFASI EKLE" metnini kalın yapın ve 3. slayttaki "Merhaba"nın altını çizin.
+6. slaytta sola kaydırmak için "KONUNU VEYA FİKRİNİ YAZ" metin kutusunu taşı. ## 6, textbox 0, slide, left
+3. ve 5. slaytta tüm metin kutularının yazı tipi rengini sarı yapın.
+
+2. slayttaki "Gündem Yaz" metin kutularının içeriğini sırasıyla "Gündem 1", "Gündem 2", "Gündem 3" olarak değiştirin.
+11. slaytta tablonun ilk satırını "T1","T2","T3","T4" olarak değiştirin.
+6,7,5 numaralı slaytta arka planı sarı olarak ayarlayın. 3,4 slaytına "hazır" notu ekleyin.
+
+Slayt 0'da metnin altı çizili olsun.
+0. slaytta metin kutusunun rengini sarı ve 1. slaytın arka plan rengini kırmızı olarak ayarlayın.
+4. ve 7. slaytta sağa kaydırılacak ilk resmi yapın. ## 4, picture 0, slide, right ## 7, picture 0, slide, right
+
+0. slaytta arka plan rengini kırmızı olarak ayarlayın. 6. slaytta resim yüksekliğini 4 olarak değiştirin.
+6. ve 7. slaytta sola kaydırılacak ilk resmi yapın. ## 6, picture 0, slide, left ## 7, picture 0, slide, left
+
+Tüm rakamları 6. ve 7. slaytta sağa kaydırın. ## 6, picture 0, slide, left ## 7, picture 0, slide, left
+4. slayttaki ilk metin kutusunu kalın yapın. 7. slaytta arka planı kırmızı yapın. 5. slaytta ikinci metin kutusunun altını çizin.
+6. slayttaki kişisel bilgileri silin.
+
+7. slayttaki tablonun ayrıntılarını Kitap Başlığı "The Enigma of Shadows" ve Yazarı "Maya Sullivan" ile tamamlayın.
+4. ve 5. slaytta ilk resmi 45 döndürün. Ancak 2. slayttaki resim 90 derece dönmelidir.
+2. sayfadaki metin renginin mavi, 3. sayfadaki arka plan renginin sarı olmasını istiyorum.
+
+2. slaytta tüm yazı tiplerini yeşile ve 3. slaytta kırmızıya değiştirin.
+İlk metin kutusunu 3. slaytta sağa hizalanmış, 7. slaytta sola hizalanmış ve 8. slaytta ortaya hizalanmış yapın.
+10. slaytta "Buraya bir başlık yazın" metin kutusu "Yeşil daha iyidir" olmalıdır.
+2. slayttaki birinci ve ikinci metin kutusunun genişliğini, yüksekliğini sırasıyla 3000,3500 ve 4000,4500 olarak değiştirin.
+
+Slayttaki resmin 0. slaytta kalmasını istiyorum. 1. slaytta "Haydi başlayalım"ı yeşil yapın. 3. slayttaki ilk metin kutusunun yazı tipi boyutunu 4 olacak şekilde değiştirin. ## 0, picture 0, slide, left
+Sola kaydırmak için 9. slayttaki tabloyu hareket ettirin. ## 9, table, slide, left
+6. slayttaki metni kalın yapın. 0. slayttaki tüm metni 2 boyutunda yapın. 0. slayttaki metnin altını çizin.
+
+Metin kutusunu 4,6 numaralı slaytta en üste kaydırın. 4. slaytta metnin rengini sarı olarak değiştirin. ## 4, textbox 0, slide, top ## 6, textbox 0, slide, top
+0,2,3 numaralı slayttaki resim için dönüşü 45,60,90 olarak ayarlayın.
+8. slaytta numarayı 132.654.897 olarak değiştirin.
+
+Kış İndirimleri 0. slaytta mavi renkte olmalıdır.
+Arka plan rengini 4,5 numaralı slaytta kırmızı ve 6,7 numaralı slaytta mavi olarak ayarlayın. Sağa kaydırmak için 2. slayttaki ilk resmi hareket ettirin. ## 2, picture 0, slide, right
+5,6,7 numaralı slayttaki tüm "Konunuzu veya Fikrinizi Yazın" öğesini "YAPILACAK" olarak değiştirin.
+0,2,3 slaytında ilk resim yüksekliğini 2 olarak değiştirin. Slaytı 1,2'den sarıya renklendirin.
+6. slayttaki metni kırmızıya boyayın, 2.3. slaytta slayt arka planı mavi renkte olmalıdır.
+
+"Giriş" sayfasındaki ilk resmi slaydın sağ tarafına taşıyın. ## 5, picture 0, slide, right
+9. slaytta tüm metin kutularını sağa hizalayın.
+6. slaytta resmin yüksekliği 2, 11. slaytta tüm metin kutularının yazı tipi boyutu 10 olmalıdır.
+11. slayttaki şirket adı metin kutusunu "Google" olarak değiştirin
+
+Tablo bulunan sayfalara "Masa var" notu ekleyin.
+Tüm resimleri en üste kaydırın. Slayt 0 ve 1'de altı çizili metin kutuları yapın. ## 1, picture 0, slide, top
+Anahtar özellikler, 3. slaytta K1-K6 (ana nokta metin kutularını doldurma) şeklinde olmalıdır.
+5. slaytta "12 milyon"u "13 milyon" olarak değiştirin ve 1. slaytta 3. yüksekliğin resmini yapın.
+
+3. slaytta sayı 00 olmalıdır. "Üçüncü slayt" olan slayda dikkat edin.
+Tüm metin kutularını slayt 0 ve 1'de alta kaydıracak şekilde taşıyın. ## 0, textbox 0, slide, bottom ## 0, textbox 1, slide, bottom ## 1, textbox 0, slide, bottom ## 1, textbox 1, slide, bottom ## 1, textbox 2, slide, bottom ## 1, textbox 3, slide, bottom
+0. slaytta birinci, ikinci metin kutusunun sarı, kırmızı ve slayt arka planının yeşil olmasını istiyorum.
+
+7. slayttaki resmi yukarı kaydırmak için ve 8. slayttaki resmi en alta kaydırmak için yapın. ## 7, picture 0, slide, top ## 8, picture 0, slide, bottom
+İlk metin kutusunun yazı tipi boyutunu 4, ikincisini 3. slaytta 5 yapın.
+Slayt 0'daki ilk üç metin kutusunu sırasıyla sarı, kırmızı, yeşil yapın.
+
+4. slaytta tüm metin kutularını yeşile, 3. slaytta arka planı sarıya boyayın.
+6. slayttaki "KONUNU VEYA FİKRİNİ YAZ" öğesini "KİTAPLAR" olarak değiştirin.
+Tüm yazı tipi boyutunu 2. slaytta 6 ve 4. slaytta 7 olarak değiştirin. 4. slayttaki ilk resmi en alta kaydırın. ## 4, picture 0, slide, bottom
+
+İlk slaydı sarı ile renklendirin ve 0. slaytta metin kutularının yazı tipi rengi kırmızı olmalıdır.
+Üçüncü slaytta sola kaydırmak için resmin yanı sıra metin kutularını da yapın. ## 3, picture, slide, left ## 3, textbox 0, slide, left ## 3, textbox 1, slide, left ## 3, textbox 2, slide, left ## 3, textbox 3, slide, left ## 3, textbox 4, slide, left ## 3, textbox 5, slide, left ## 3, textbox 6, slide, left ## 3, textbox 7, slide, left ## 3, textbox 8, slide, left ## 3, textbox 9, slide, left ## 3, textbox 10, slide, left ## 3, textbox 11, slide, left ## 3, textbox 12, slide, left
+2. slayta bir dikdörtgen ekleyin. 3. slayta bir daire ekleyin.
+
+Slayt 3,4,5'i sırasıyla mavi, sarı ve kırmızı ile renklendirin.
+7. slaytta birinci sütundaki tablo için tür adı "g1" ve "g2" olabilir. Ayrıca 7. slayttaki tabloyu ikinci sütunda "g3" ve "g4" ile doldurun.
+0-5 slaytına sayfa numarasını (örneğin 0 slayt için "0") belirten bir not ekleyin.
+
+10. slaytta yazı tiplerini 2 boyutunda yapın. 11. slaytta yazı tiplerini kırmızı yapın.
+Resimler slaytın sol tarafında 9. sayfada yer almalıdır. ## 9, picture 0, slide, left
+5. slaytta arka planı yeşil ve yazı tipini sarı yapın.

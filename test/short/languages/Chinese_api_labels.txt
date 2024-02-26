@@ -1,0 +1,1877 @@
+choose_title();align_bottom_left_corner();insert_text("人类评估");
+choose_content();insert_text("一般情况下，译文由多个审稿人匿名评分，然后综合所有审稿人的评价结果​​给出最终评分");
+insert_table(2, 2);
+choose_table_cell(0, 0);insert_text("优点");choose_table_cell(1, 0);insert_text("缺点");choose_table_cell(0, 1);insert_text("准确反映句子翻译质量，最权威、可信度最高");choose_table_cell(1, 1);insert_text("长时间评估");
+choose_content();set_font_size(20);set_font_style("Arial");
+insert_picture('coffee');align_slide_left();
+align_slide_right();
+create_slide();choose_title();insert_text("评分标准");choose_content();insert_text("直接评估");insert_text("相对排名");
+choose_title();set_font_color("green");choose_content();insert_bullet_point("");insert_bullet_point("");
+choose_title();set_font_size(24);choose_content();set_font_size(20);
+
+insert_picture('tower');align_slide_bottom();
+choose_title();insert_text("内容");set_top("title","picture");
+insert_rectangle();set_fill_color("green");
+choose_title();set_font_color("green");
+set_font_size(24);
+set_font_style("Arial");set_font_size(48);
+set_font_style("Microsoft New Tai Lue");
+
+set_background_color("green");
+insert_cloud();align_slide_bottom();
+choose_content();insert_text("你跑得好慢");
+insert_picture('rabbit');align_slide_right();
+choose_content();insert_text("有一天，兔子和乌龟进行一场赛跑");
+create_slide();choose_content();insert_text("有一天我会赢");align_slide_top();
+
+insert_picture('study');align_slide_center();
+insert_rectangle();align_slide_center();
+choose_title();insert_text("英雄联盟");choose_content();insert_text("英雄联盟是一款基于团队的游戏，拥有超过 140 个冠军，可以进行史诗般的比赛。立即免费玩。免费玩。");
+choose_title();set_font_style("Times New Roman");set_font_size(24);
+choose_picture();set_width(6);set_height(5);
+rotate_element(15);
+create_slide();insert_picture('boy_holding_book');
+align_slide_center();
+choose_title();insert_text("如何在学校表现更好");
+
+insert_cloud();align_slide_left();
+insert_picture("clock");align_slide_right();
+set_background_color("light blue");choose_title();insert_text("人工智能");
+choose_content();insert_text("人工智能对社会的影响受到广泛争论。许多人认为人工智能通过比人类更好地完成日常甚至复杂的任务来提高日常生活质量，使生活更简单、更安全、更高效.");
+set_font_color("light green");
+
+create_slide();choose_title();insert_text("三月计划");set_font_color("red");
+set_font_size(28);set_font_color("dark blue");
+insert_table(1, 3);choose_table_cell(0, 0);insert_text("1号到10号学习");choose_table_cell(0, 1);insert_text("11号到20号工作");choose_table_cell(0, 2);insert_text("21号到31号出差");
+choose_title();set_font_style("Arial");
+insert_picture('happy_boy');set_right("picture","table");
+set_background_color("blue");
+choose_picture();set_width(6.5);set_height(5);
+set_background_color("yellow");
+
+create_slide();choose_title();insert_text("冥想的好处");
+insert_picture('meditation');align_slide_center();
+choose_content();insert_text("冥想是一种简单而强大的技巧，可以帮助您达到内心平静和平静的状态。");
+set_font_size(24);set_font_color("dark blue");
+insert_rectangle();set_right("rectangle", "content");
+set_background_color("light green");
+create_slide();set_background_color("light green");choose_title();insert_text("冥想类型");
+set_font_style("Arial");
+insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("正念冥想");choose_table_cell(1, 0);insert_text("先验冥想");choose_table_cell(2, 0);insert_text("身体扫描冥想");
+
+create_slide();set_background_color("green");
+insert_picture('grassland');align_slide_left();
+set_width(6.5);set_height(5.5);choose_title();insert_text("森林的功能");
+set_font_color("orange");set_font_size(40);
+insert_right_arrow();align_slide_top();
+
+create_slide();insert_table(2, 2);
+choose_table_cell(0,0);insert_text("树的类型");choose_table_cell(0,1);insert_text("用途");choose_table_cell(1,0);insert_text("不同类型的树木");choose_table_cell(1,1);insert_text("不同颜色的叶子");
+choose_content();insert_text("今天记得种一棵树！");
+set_font_size(20);set_font_color("green");set_font_underline();
+
+create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");
+move_to_slide(0);choose_title();insert_text("幸福的家庭");set_font_style("Microsoft JhengHei");
+move_to_slide(1);insert_picture('family');
+move_to_slide(2);insert_table(2, 2);
+choose_table_cell(0, 0);insert_text("父亲");choose_table_cell(0, 1);insert_text("母亲");choose_table_cell(1, 0);insert_text("祖父");choose_table_cell(1, 1);insert_text("孩子");
+
+create_slide();choose_title();insert_text("商业计划");
+insert_picture('light_bulb');align_slide_left();
+set_width(3);choose_content();insert_text("创业是设计、启动和经营新企业的过程，通常最初是一家小企业。创建这些企业的人称为企业家。");
+set_font_size(20);set_font_color("green");
+set_background_color("dark blue");
+insert_circle();set_fill_color("red");
+choose_content();insert_text("商业计划是一份书面文件，详细描述企业（通常是新企业）将如何实现其目标。");
+choose_title();set_font_size(18);choose_content();set_font_size(18);
+insert_table(3, 4);
+choose_table_cell(0, 0);insert_text("营销组合");choose_table_cell(0, 1);insert_text("目标市场");choose_table_cell(0, 2);insert_text("价格");choose_table_cell(0, 3);insert_text("促销");
+
+create_slide();set_background_color("light blue");
+choose_content();insert_text("产品品牌化是为特定产品开发独特的品牌，旨在吸引该品牌的目标消费者。");
+set_font_italic();set_font_size(18);
+align_slide_bottom();
+insert_picture('lancome');align_slide_top();
+
+create_slide();choose_title();insert_text("大型建模要点");set_font_size(24);
+set_font_style("Arial");
+insert_table(1, 2);
+choose_table_cell(0, 0);insert_text("重要性");set_font_size(18);set_font_color("light blue");
+insert_picture('computer');align_slide_center();
+choose_content();insert_text("大规模建模");
+set_font_size(14);set_font_color("green");choose_title();set_font_size(14);set_font_color("green");
+
+insert_picture('tower');align_slide_left();
+choose_title();insert_text("终极抢劫");
+set_font_style("Times New Roman");set_font_color("green");
+insert_triangle();align_slide_right();
+set_background_color("light blue");
+
+insert_table(3,3);insert_table_row(["purple", "blue", "light blue"]);insert_table_row(["dark blue", "green", "light green"]);insert_table_row(["dark green", "yellow", "light yellow"]);
+set_background_color("green");
+set_background_color("dark blue");
+choose_title();insert_text("颜色类型");insert_picture("clock");
+create_slide();set_background_color("yellow");
+choose_content();insert_text("Speedwell，也称为鸟眼草或吉普赛草，是一种原产于欧洲的耐寒多年生植物。");
+
+create_slide();insert_picture('arguing');
+choose_title();insert_text("婚姻给男人和女人带来什么？");
+create_slide();insert_picture('japanese_woman');insert_picture('african_woman');
+choose_title();insert_text("决定不同婚姻制度的因素");
+create_slide();set_background_color("red");create_slide();set_background_color("red");create_slide();set_background_color("red");
+move_to_slide(2);choose_title();insert_text("婚姻对男性和女性的共同好处");
+set_font_underline();set_font_color("yellow");
+insert_picture('happy_family');align_slide_center();
+insert_rectangle();set_fill_color("red");insert_rectangle();set_fill_color("red");insert_rectangle();set_fill_color("red");
+create_slide();choose_title();insert_text("中国婚姻制度的演变");
+insert_picture('clock');set_width(6.5);
+align_slide_left();
+create_slide();choose_title();insert_text("全球女性面临的困难");insert_picture('full_time_mother');
+set_height(5);
+
+choose_title();insert_text("神经网络");
+choose_content();insert_text("神经网络是一组模仿人脑功能的算法。它们旨在识别模式、对数据进行分类并进行预测。");
+set_font_size(12);set_font_color("orange");set_background_color("red");
+
+choose_title();insert_text("引号");
+choose_title();set_font_underline();set_font_size(24);
+choose_content();insert_text("引号符号是一种标点符号，用于将单词和段落与文本的其余部分分开。");
+set_font_color("green");set_font_size(12);
+insert_picture('quotation_mark');align_slide_left();
+create_slide();set_background_color("blue");
+insert_rectangle();align_slide_right();
+insert_table(2, 1);
+choose_table_cell(0, 0);insert_text(""你好吗？"先生说。");choose_table_cell(1, 0);insert_text("引号最常见的用途之一是表示直接引用，即从其他来源逐字复制的段落。");
+
+create_slide();set_background_color("dark green");
+choose_title();insert_text("人类学领域与分支");set_font_size(18);
+choose_content();insert_text("人类学有两个广泛的领域");set_font_size(18);
+text_align_right();
+
+insert_right_arrow();align_slide_left();
+set_width(4.0);set_height(3.0);
+choose_content();insert_text("中亚大片地区感觉诡异地无人居住。");
+choose_shape("right_arrow");set_width(5.0);set_height(4.0);rotate_element(90);
+choose_content();set_line_space(2);
+
+choose_title();insert_text("教育/教学/PPT 演示");
+choose_content();insert_text("全球变暖的有害影响");
+choose_title();set_font_color("dark blue");choose_content();set_font_color("purple");
+insert_rectangle();set_fill_color("purple");
+align_top_left_corner();
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("give");choose_table_cell(0, 1);insert_text("gave");choose_table_cell(0, 2);insert_text("giving");choose_table_cell(0, 3);insert_text("given");
+choose_content();set_font_color("dark blue");
+
+set_background_color("orange");
+insert_picture("cat");set_width(5);set_height(5);
+create_slide();set_background_color("orange");create_slide();set_background_color("orange");create_slide();set_background_color("orange");
+choose_title();insert_text("钉钉资讯");
+insert_table(3, 5);
+choose_table_cell(0, 0);insert_text("下载方式");choose_table_cell(0, 1);insert_text("如何加入组织");choose_table_cell(0, 2);insert_text("如何寻找好友");choose_table_cell(0, 3);insert_text("优点");choose_table_cell(0, 4);insert_text("注意事项");
+insert_star();align_slide_right();
+choose_content();insert_text("foresall 指提前做某事来防止或阻碍");
+set_background_color("blue");
+choose_content();text_align_left();
+
+insert_right_arrow();set_fill_color("yellow");
+choose_title();insert_text("学校工作日");text_align_left();
+choose_title();set_font_color("dark blue");set_font_italic();set_font_underline();
+choose_content();insert_text("forestall是指提前购买（商品），以便转售时加价");
+insert_picture("school_badge");set_width(2.5);set_height(2.5);
+create_slide();set_background_color("green");
+choose_title();insert_text("注意");text_align_right();
+set_font_color("light green");set_font_size(26);
+choose_content();insert_bullet_point("");insert_bullet_point("");insert_bullet_point("");
+insert_note("2023/4/9");move_to_previous_slide();insert_note("2023/4/8");
+
+insert_star();align_slide_right();
+set_fill_color("blue");
+insert_right_arrow();align_slide_left();set_fill_color("red");
+choose_title();insert_text("做出决定");
+choose_content();insert_text("当前的全球大流行以我们无法想象的方式扰乱了我们的日常生活，并重塑了世界。");
+choose_content();set_font_underline();choose_title();set_font_size(24);
+choose_content();set_font_style("Times New Roman");choose_title();set_font_style("Times New Roman");
+
+create_slide();create_slide();create_slide();create_slide();create_slide();
+move_to_slide(0);choose_title();insert_text("简介");move_to_slide(1);choose_title();insert_text("发展");move_to_slide(2);choose_title();insert_text("评估");move_to_slide(3);choose_title();insert_text("分析");move_to_slide(4);choose_title();insert_text("结论");
+move_to_slide(0);set_background_color("yellow");move_to_slide(1);set_background_color("yellow");move_to_slide(2);set_background_color("yellow");move_to_slide(3);set_background_color("yellow");move_to_slide(4);set_background_color("yellow");
+move_to_slide(0);choose_title();set_font_style("Microsoft JhengHei");
+move_to_slide(1);insert_picture("clock");
+move_to_slide(2);insert_bar_chart([160, 170, 130], ["10月", "11月", "12月"]);
+move_to_slide(3);insert_table(2, 3);
+choose_table_cell(0, 0);insert_text("toIPA");choose_table_cell(0, 1);insert_text("优点");choose_table_cell(0, 2);insert_text("缺点");
+move_to_slide(4);choose_title();set_font_style("Times New Roman");
+move_to_slide(4);insert_cloud();
+move_to_slide(0);insert_note("由伊娃创造");move_to_slide(1);insert_note("由伊娃创造");move_to_slide(2);insert_note("由伊娃创造");move_to_slide(3);insert_note("由伊娃创造");move_to_slide(4);insert_note("由伊娃创造");
+
+insert_circle();set_fill_color("purple");
+insert_picture("water_bottle");insert_textbox();insert_text("瓶子");
+choose_title();insert_text("质量");
+set_font_color("red");
+insert_table(2, 2);
+choose_table_cell(0, 0);insert_text("机器评估");choose_table_cell(0, 1);insert_text("人类评估");choose_table_cell(1, 0);insert_text("自动评估 1");choose_table_cell(1, 1);insert_text("自动评估 2");
+create_slide();choose_title();insert_text("成就");set_background_color("purple");
+
+create_slide();choose_title();insert_text("第二季度的营销策略");
+set_background_color("blue");
+create_slide();choose_title();insert_text("提高销售额和品牌知名度");
+set_font_size(60);
+move_to_slide(1);set_background_color("green");
+create_slide();set_background_color("green");create_slide();set_background_color("green");create_slide();set_background_color("green");
+move_to_slide(2);choose_title();insert_text("市场趋势和竞争对手分析");
+choose_content();insert_picture("blue_sea");
+set_height(4);set_width(5);set_left("picture", "title");
+move_to_slide(3);choose_title();insert_text("我们的使命和价值观");
+choose_content();insert_text("愿景。所有人都健康长寿。使命。IHME 向世界提供及时、相关且科学有效的证据，以改善卫生政策和实践。");
+set_line_space(1.5);
+choose_content();set_font_size(40);set_font_style("Times New Roman");
+
+create_slide();set_background_color("yellow");
+choose_title();insert_text("中美教育比较");
+delete_text();insert_text("探究异同");
+delete_text();insert_text("异同");
+create_slide();create_slide();create_slide();create_slide();create_slide();
+move_to_slide(1);set_background_color("yellow");move_to_slide(2);set_background_color("yellow");move_to_slide(3);set_background_color("yellow");move_to_slide(4);set_background_color("yellow");move_to_slide(5);set_background_color("yellow");
+move_to_slide(1);choose_title();insert_text("教育系统");
+choose_content();insert_text("中国的教育主要由国家公立教育系统管理，隶属于教育部。所有公民必须接受至少九年的教育，称为九年义务教育，这是由国家资助的由政府");
+move_to_next_slide();choose_title();insert_text("不同的教学风格和方法");
+move_to_next_slide();choose_title();insert_text("师生关系");move_to_next_slide();choose_title();insert_text("学生表现评估");
+move_to_slide(4);insert_picture("forest");
+choose_content();insert_text("2014年，《卫报》的乔纳森·凯曼写道，中国家长和教育工作者"认为他们自己的制度是腐败的、非人性的、高压的和不公平的"。他接着讨论了中国的大学入学考试（称为高考），写道"许多家长认为艰苦的九小时考试是一种排序机制，将决定孩子的人生轨迹。");set_font_color("red");set_font_underline();
+move_to_slide(5);insert_table(1, 1);choose_table_cell(0,0);insert_text("责任");
+
+create_slide();choose_content();insert_picture("DingTalk_app");
+choose_title();insert_text("ChatGPT 简介");set_font_color("green");
+create_slide();choose_title();insert_text("释放人工智能语言模型的力量。");text_align_left();create_slide();choose_title();insert_text("释放人工智能语言模型的力量。");text_align_left();create_slide();choose_title();insert_text("释放人工智能语言模型的力量。");text_align_left();create_slide();choose_title();insert_text("释放人工智能语言模型的力量。");text_align_left();create_slide();choose_title();insert_text("释放人工智能语言模型的力量。");text_align_left();
+move_to_slide(1);choose_content();set_font_style("Arial");
+insert_text("ChatGPT 是 OpenAI 开发的人工智能 (AI) 聊天机器人，于 2022 年 11 月发布。它构建在 OpenAI 的 GPT-3.5 和 GPT-4 系列大型语言模型 (LLM) 之上，已经使用监督学习和强化学习技术进行了微调（一种迁移学习方法）。");
+set_font_size(30);set_line_space(2);
+insert_table(1, 1);choose_table_cell(0,0);insert_text("如何下载钉钉");
+move_to_next_slide();
+choose_title();insert_text("功能和限制");text_align_center();
+choose_content();insert_text("虽然聊天机器人的核心功能是模仿人类健谈者，但 ChatGPT 用途广泛。它可以编写和调试计算机程序，模仿名人 CEO 的风格，撰写商业演讲，创作音乐、电视剧、童话故事和学生论文，回答问题测试问题（有时，根据测试的不同，水平高于人类考生的平均水平）、写诗和歌词、模拟 Linux 系统、模拟整个聊天室、玩 tic-tac-toe 等游戏以及模拟 ATM ");
+
+create_slide();set_background_color("green");
+choose_content();insert_text("生命太短，无法与那些吸走你幸福的人共度时光。");set_line_space(1.5);
+set_font_style("Verdana");set_font_size(20);
+set_font_underline();set_font_color("yellow");
+
+create_slide();set_background_color("blue");choose_title();insert_text("机器学习");
+choose_content();insert_text("机器学习是人工智能（AI）的一种应用，它为系统提供了自动学习和从经验中改进的能力，而无需明确编程。机器学习专注于开发可以访问的计算机程序数据并用它来自学。");
+set_font_size(20);set_font_style("Verdana");
+set_font_style("Times New Roman");text_align_right();
+choose_title();set_font_color("red");set_font_size(40);
+set_font_color("blue");
+insert_picture("machine_learning");align_slide_left();
+set_height(1.2);set_width(1.2);
+choose_content();insert_star();set_fill_color("green");
+
+create_slide();choose_title();insert_text("营销策略");
+choose_content();insert_bullet_point("Search Engine Optimization (SEO)");insert_bullet_point("Social Media Marketing (SMM)");insert_bullet_point("Email Marketing");insert_bullet_point("Content Marketing");insert_bullet_point("Pay-Per-Click Advertising (PPC)");
+insert_picture("marketing");set_height(1);set_width(1);
+insert_pie_chart([35, 25, 15, 10, 15], ["苹果", "三星", "华为", "小米", "其他"]);insert_table(2, 2);
+choose_chart();set_chart_title("营销");choose_table_cell(0, 0);insert_text("MT1");choose_table_cell(0, 1);insert_text("MT2");choose_table_cell(1, 0);insert_text("ST1");choose_table_cell(1, 1);insert_text("ST2")
+choose_content();align_slide_bottom();
+create_slide();insert_pie_chart([35, 25, 15, 10, 15],["Apple", "Samsung", "Huawei", "Xiaomi", "Other"]);set_chart_title("Marketing");
+choose_table();insert_table(2, 2);insert_table_row(["MT1", "MT2"]);insert_table_row(["ST1", "ST2"])
+
+create_slide();choose_title();insert_text("数据可视化");
+insert_bar_chart([8.4, 4.0, 2.7, 2.3, 1.7], ["纽约", "洛杉矶", "芝加哥", "休斯顿", "菲尼克斯"]);align_slide_left();
+insert_textbox();insert_text("数据可视化是以图形或图形格式呈现数据。它使决策者能够看到可视化呈现的分析结果，以便他们能够掌握困难的概念或识别新的模式。");
+set_font_color("green");
+create_slide();choose_content();insert_text("此粥是用糯米、红糖、十八种干果一起煮成的。");
+
+create_slide();choose_title();insert_text("腊八粥");
+choose_content();insert_text("从我记事起，每年腊月初八，妈妈都会给我们煮腊八粥。");
+set_font_color("yellow");set_font_bold();
+insert_table(2, 1);align_slide_right();
+choose_table_cell(0, 0);insert_text("历史");choose_table_cell(1, 0);insert_text("现代");
+set_background_color("light red");
+
+set_background_color("yellow");
+set_background_color("green");
+choose_title();insert_text("大公司");
+set_font_size(28);set_font_style("Futura");
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("编号");choose_table_cell(0, 1);insert_text("员工姓名")
+insert_picture("company1");insert_picture("company2");insert_picture("company3");
+choose_table();choose_table_cell(0,0);set_font_color("yellow");choose_table_cell(0,1);set_font_color("yellow");
+
+create_slide();choose_title();insert_text("Artificial Neural Networks");
+choose_content();insert_text("人工神经网络（ANN）是受构成动物大脑的生物神经网络启发的计算系统。此类系统通过考虑示例来学习执行任务，通常无需使用任何特定于任务的规则进行编程. 人工神经网络能够学习并适应新的输入，这使得它们可用于广泛的应用，包括图像识别、语音识别和自然语言处理。");
+set_font_size(24);
+set_font_style("Calibri");set_background_color("light orange");
+text_align_center();choose_title();text_align_left();
+set_background_color("blue");
+insert_picture("artificial_neural_networks");
+set_width(5.5);
+align_slide_right();
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("1");choose_table_cell(0, 1);insert_text("2");choose_table_cell(0, 2);insert_text("3")
+insert_table_row(["视频游戏", "Switch", "电视剧"])
+
+create_slide();set_background_color("red");create_slide();set_background_color("red");
+move_to_slide(0);choose_title();insert_text("挑战");set_font_style("Calibri");
+choose_content();insert_text("在工作场所实施人工智能的挑战包括缺乏专业知识、成本和对变革的抵制。");
+set_font_color("green");
+move_to_slide(1);insert_picture("AI");align_slide_center();
+
+create_slide();choose_title();insert_text("简介");
+choose_content();insert_text("欢迎来到我关于视频游戏历史的演讲。自 20 世纪 50 年代发明第一个电子游戏以来，视频游戏已经取得了长足的进步。如今，视频游戏是一个价值数十亿美元的产业，受到全世界人民的喜爱。");
+insert_picture("first_electronic_game");
+align_bottom_right_corner();
+choose_title();set_font_color("blue");
+insert_textbox();choose_textbox();insert_text("由约翰·史密斯提出");
+
+create_slide();choose_title();insert_text("神经网络");
+choose_content();insert_text("神经网络是一组模仿人脑功能的算法。它们用于各种应用，例如图像识别、语音识别和自然语言处理。");
+set_font_style("Arial");
+insert_triangle();align_top_left_corner();
+insert_picture("neutral_network");
+set_height(1.2);set_width(1.2);
+create_slide();insert_right_arrow();set_fill_color("blue");align_slide_right();
+insert_line_chart([120,140,110,90], ["一月", "二月", "三月", "四月"]);set_chart_title("Chatgpt");
+choose_content();insert_textbox();insert_text("TensorFlow");
+choose_title();set_font_color("blue");set_background_color("light blue");
+
+choose_content();insert_text("字典可以用来查找单词含义、发音、拼写和查找生词。");
+insert_circle();set_top("circle","content");
+insert_text("名词短语");
+choose_content();set_font_color("red");set_font_style("Impact");
+
+create_slide();choose_title();insert_text("简介");create_slide();choose_title();insert_text("方法论");create_slide();choose_title();insert_text("结果");
+move_to_slide(0);choose_content();insert_text("本次演讲将介绍我们的研究项目并解释其重要性。");move_to_slide(1);choose_content();insert_text("我们的研究方法包括从各种来源收集数据并使用统计分析得出结论。");
+choose_content();text_align_left();
+move_to_slide(0);set_background_color("light blue");move_to_slide(1);set_background_color("light blue");move_to_slide(2);set_background_color("light blue");
+insert_picture("graph");set_height(6.5);
+move_to_slide(0);insert_note("2022年1月1日");move_to_slide(1);insert_note("2022年1月1日");move_to_slide(2);insert_note("2022年1月1日");
+
+create_slide();choose_title();insert_text("产品概述");create_slide();choose_title();insert_text("功能");
+move_to_slide(0);insert_picture("product");
+choose_content();insert_text("我们的产品旨在通过为目标市场的问题提供简单而有效的解决方案来满足他们的需求。");
+move_to_slide(1);insert_table(5, 2);
+choose_table_cell(4, 1);insert_text("钉钉");
+choose_table_cell(4, 1);set_font_style("Times New Roman");
+move_to_slide(0);insert_note("当前时间是中午 12:00");move_to_slide(1);insert_note("当前时间是中午 12:00");move_to_slide(2);
+
+create_slide();choose_title();insert_text("销售报告");text_align_center();
+insert_pie_chart([120, 220, 180], ["产品 A", "产品 B", "产品 C"]);
+choose_title();set_font_size(28);
+insert_picture("company_logo");align_top_right_corner();
+choose_content();insert_text("本报告显示了我们产品在 2023 年第一季度的销售业绩。");
+set_font_style("Times New Roman");
+text_align_center();
+
+create_slide();choose_title();insert_text("营销策略");
+choose_title();set_font_style("Calibri");set_font_size(36);
+choose_content();insert_picture("marketing_campaign");
+rotate_element(45);align_slide_right();
+create_slide();choose_title();insert_text("Powerful MT");
+set_font_style("Arial");set_font_size(24);
+insert_textbox();insert_bullet_point("SEO");insert_bullet_point("Email Marketing");insert_bullet_point("PPC");set_bottom("textbox","title");
+set_background_color("blue");
+insert_bar_chart([27, 30, 29], ["itemA", "itemB", "itemC"]);align_slide_left();
+set_chart_title("Marketing Budget");
+insert_table(4, 2);
+choose_table_cell(0, 0);insert_text("日期");choose_table_cell(0, 1);insert_text("星期一");choose_table_cell(1, 0);insert_text("星期二");choose_table_cell(1, 1);insert_text("星期三");choose_table_cell(2, 0);insert_text("星期四");choose_table_cell(2, 1);insert_text("星期五");choose_table_cell(3, 0);insert_text("星期六");choose_table_cell(3, 1);insert_text("星期日");
+choose_table();set_right("table","chart");
+
+create_slide();set_background_color("yellow");
+choose_title();insert_text("评估指标");
+choose_content();insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("公制");choose_table_cell(0, 1);insert_text("公式");choose_table_cell(1, 0);insert_text("准确度");choose_table_cell(1, 1);insert_text("(TP+TN)/(TP+TN+FP+FN)");choose_table_cell(2, 0);insert_text("Precision");choose_table_cell(2, 1);insert_text("TP/(TP+FP)");
+insert_line_chart([160, 170, 130], ["10月", "11月", "12月"]);set_chart_title("Time Machine");
+insert_bar_chart([160, 170, 130], ["October", "November", "December"]);
+
+create_slide();choose_title();insert_text("数据可视化");
+insert_bar_chart([60,70,80,90], ["Eye", "Hand", "Leg", "Knee"]);
+choose_chart();set_height(4);set_width(4);
+set_chart_title("Sales by Region");
+insert_right_arrow();set_fill_color("green");
+
+create_slide();choose_title();insert_text("营销活动");
+choose_content();insert_picture("product");set_right("picture","content");
+set_width(5);
+choose_content();insert_text("与弗里斯兰语、德语和荷兰语（在比利时称为弗拉芒语）语言密切相关的欧洲语系");
+insert_circle();set_fill_color("red");align_bottom_right_corner();
+set_background_color("green");
+set_background_color("light blue");
+create_slide();choose_title();insert_text("销售数据");
+insert_table(1, 4);
+choose_table_cell(0, 0);insert_text("销售人员姓名");choose_table_cell(0, 1);insert_text("总销售额");choose_table_cell(0, 2);insert_text("佣金率");choose_table_cell(0, 3);insert_text("佣金金额")
+create_slide();set_background_color("light blue");
+
+create_slide();choose_title();insert_text("销售报告");set_font_size(25);
+choose_content();insert_text("这是我们公司的季度销售报告：");
+set_font_size(16);set_font_color("purple");
+insert_rectangle();set_width(8);set_height(5);
+set_background_color("green");
+
+create_slide();choose_title();insert_text("人工神经网络");
+choose_content();insert_text("人工神经网络（ANN）是受构成动物大脑的生物神经网络启发但不完全相同的计算系统。此类系统通过考虑示例来学习执行任务，通常无需编程具有特定于任务的规则。");
+set_font_size(24);set_font_style("Arial");
+choose_title();set_font_color("purple");
+insert_picture("brain");set_width(6.5);
+rotate_element(90);
+insert_textbox();insert_text("《ANN 的应用》");
+choose_title();set_font_size(36);set_font_style("Calibri");
+insert_table(2, 1);
+choose_table_cell(0, 0);insert_text("图像识别");choose_table_cell(1, 0);insert_text("自然语言处理");
+
+choose_title();insert_text("机器翻译质量评估");
+insert_textbox();insert_text("记者：伊娃。");set_bottom("textbox","title");
+choose_title();set_font_size(66);
+set_background_color("blue");choose_title();set_font_color("red");choose_textbox();set_font_color("red");
+set_background_color("red");choose_title();set_font_color("blue");choose_textbox();set_font_color("blue");
+
+create_slide();choose_title();insert_text("神经网络");
+choose_content();insert_text("神经网络是一组模仿人脑功能的算法。它们旨在识别模式、对数据进行分类并进行预测。");
+set_font_size(24);
+set_font_style("Arial");text_align_center();
+choose_title();set_font_color("blue");
+set_font_color("green");
+insert_picture("brain");set_width(1.5);set_height(1.5);
+choose_content();insert_text("人类大脑启发了神经网络的发展");
+insert_note("卷积神经网络");
+create_slide();set_background_color("yellow");
+
+create_slide();choose_title();insert_text("个人财务");insert_note("个人财务");
+choose_title();set_font_size(24);set_font_underline();
+choose_content();insert_text("个人理财涵盖管理个人和家庭财务、对当前和未来的财务状况负责以及设定财务目标的整个领域。它还包括处理个人财务任务和为紧急情况进行储蓄。 ");
+set_font_color("orange");
+insert_picture("corporate_finance_book");
+set_width(6.5);
+set_background_color("blue");
+set_background_color("light blue");
+create_slide();set_background_color("light blue");create_slide();set_background_color("light blue");
+move_to_slide(1);insert_table(1, 2);
+
+choose_content();insert_text("欢迎来到 Microsoft 更新目录站点。");
+set_font_color("orange");set_background_color("dark blue");
+insert_picture("computer");align_slide_bottom();
+align_slide_left();
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("基本概念");choose_table_cell(0, 1);insert_text("起源");choose_table_cell(0, 2);insert_text("类别");choose_table_cell(0, 3);insert_text("发展")
+create_slide();insert_star();set_fill_color("red");
+insert_pie_chart([10, 12, 14], ["Q1", "Q2", "Q3"]);choose_shape("star");align_bottom_left_corner();
+choose_chart();set_height(10);set_width(10);
+
+create_slide();set_background_color("blue");
+choose_title();insert_text("简介");
+choose_content();insert_text("人加钱等于个人理财");
+set_font_italic();set_font_underline();
+set_font_color("green");
+insert_picture("person_grasping_money");align_bottom_right_corner();
+set_width(8);set_height(7);
+create_slide();choose_content();insert_text("钱不是万能的，但没有钱是万万不能的");
+set_font_style("Futura");set_font_color("blue");
+set_font_color("purple");
+insert_pie_chart([1, 2, 3, 4, 5])], ["1", "2", "3", "4", "5"]);set_right("chart", "content");
+choose_title();insert_text("金钱的影响");
+
+create_slide();choose_title();insert_text("个人财务与公司财务之间的差异");
+insert_table(2, 3);
+insert_picture("company_logo");set_left("picture", "table");
+choose_table();choose_table_cell(0,0);insert_text("Borderlands 2");choose_table_cell(0,1);insert_text("Divinity: Original Sin 2");choose_table_cell(0,2);insert_text("Final Fantasy VII");choose_table_cell(1,0);insert_text("Assassin's Creed IV: Black Flag");choose_table_cell(1,1);insert_text("Mega Man 3");choose_table_cell(1,2);insert_text("Mega Man 3");
+insert_cloud();align_slide_right();
+insert_note("2023/4/23");
+
+set_background_color("orange");
+create_slide();choose_title();insert_text("Bridget Fonda");set_background_color("orange");
+set_font_italic();set_font_size(18);
+insert_picture("bridget_fonda");align_top_right_corner();
+choose_picture();set_width(8);set_height(7);
+create_slide();
+choose_content();insert_text("布丽吉特·方达出生于洛杉矶，出身于一个受人尊敬的演艺世家，其中包括亨利·方达、彼得·方达和简·方达。她在出演学校制作的《哈维》后开始涉足戏剧界，后来又在《合伙人》中担任默片角色。 1988年，她出演了《丑闻》，这是她的第一个有台词的角色，之后又出演了一些小角色。");
+set_font_size(12);set_font_italic();
+choose_title();insert_text("电影列表");
+insert_table(3, 3);choose_table_cell(0,0);insert_text("1");choose_table_cell(0,1);insert_text("2");choose_table_cell(0,2);insert_text("3");choose_table_cell(1,0);insert_text("4");choose_table_cell(1,1);insert_text("5");choose_table_cell(1,2);insert_text("6");choose_table_cell(2,0);insert_text("7");choose_table_cell(2,1);insert_text("8");choose_table_cell(2,2);insert_text("9");
+choose_table();align_slide_right();
+
+create_slide();
+choose_title();insert_text("幽灵熊");set_font_underline();
+choose_content();insert_text("您可能从未听说过的最稀有的熊");
+insert_picture("ghost_bear");
+choose_title();set_font_style("Arial");set_font_size(20);choose_content();set_font_style("Arial");set_font_size(20);
+choose_picture();set_right("picture","content");
+create_slide();insert_picture("treemap_about_bears");
+align_slide_center();
+set_width(4);
+choose_content();insert_text("当我对《龙与地下城》如饥似渴时，《神界：原罪2》填补了我的空白。");
+choose_title();insert_text("我最喜欢的游戏");
+insert_table(2, 2);
+choose_table();choose_table_cell(0,0);insert_text("短信");choose_table_cell(0,1);insert_text("微信");choose_table_cell(1,0);insert_text("QQ");choose_table_cell(1,1);insert_text("钉钉");
+
+create_slide();set_background_color("blue");
+insert_picture("universe");align_bottom_left_corner();
+set_width(6.5);set_height(13);
+choose_content();insert_text("可以说我有点挑剔，我不喜欢太甜的食物，比如糖果、巧克力之类的");
+choose_title();insert_text("我最喜欢的食物");
+set_font_color("yellow");choose_content();set_font_color("yellow");
+choose_title();set_font_underline();set_font_size(24);choose_content();set_font_size(22);
+insert_cloud();align_slide_right();
+
+choose_title();insert_text("偶像");set_font_underline();
+insert_rectangle();set_fill_color("red");set_bottom("rectangle","title");
+choose_content();insert_text("我想要你！（我想要你！）我需要你！（我需要你！）我爱你！（我爱你！）");text_align_left();
+set_font_size(24);
+set_font_size(48);
+insert_picture("AKB48");
+set_height(6.5);set_width(13);
+insert_table(2,1);choose_table_cell(0,0);insert_text("偶像的时间很短。总是有新的面孔，他们很少偏离娃娃般的现状。");
+choose_table();choose_table_cell(0,0);set_font_color("blue");set_font_style("Futura");
+choose_table_cell(1,0);insert_text("从西尔维·瓦尔坦到体育场门票全部售空的偶像的史诗般的旅程，引出了一个问题：偶像以及他们引发的文化的下一步是什么？");
+insert_note("2023/05/17");
+
+choose_content();insert_text("内容");text_align_center();
+choose_content();insert_text("「一、背景」");insert_text("2. 评估任务");insert_text("《3.模型》");insert_text("4.应用");
+set_font_size(80);set_font_color("green");
+set_font_underline();set_font_style("Pecita");
+
+set_background_color("orange");choose_title();insert_text("最佳软件");
+set_font_italic();set_font_size(24);
+choose_content();insert_text("您想要功能强大的软件？您无需付费。您在 PC 上高效且安全所需的一切都在此列表中，而且完全免费。");
+set_font_color("yellow");
+set_background_color("dark blue");
+choose_content();set_font_underline();set_font_style("Arial");
+insert_right_arrow();align_slide_bottom();
+insert_note("2023/4/25");
+
+create_slide();choose_title();insert_text("Jay Chou");
+choose_content();insert_text("周杰伦是台湾音乐人、创作型歌手、多乐器演奏家、演员、导演。");
+create_slide();choose_title();insert_text("Mojito");
+set_font_underline();set_font_size(20);
+set_font_size(48);
+choose_content();insert_text("《莫吉托》受到了国际社会广大民众的欢迎。古巴的阳光、热带衬衫、古董车和活泼的节奏，使这首歌不仅耳熟能详，而且视觉上也很享受。");
+set_font_style("Futura");set_background_color("green");
+insert_picture("mojito_cover");align_slide_right();
+
+choose_title();insert_text("我的大学生活");
+insert_picture("collegue");insert_textbox();insert_text("大学");
+choose_content();insert_text("大学生出国留学热潮");
+set_font_color("red");set_font_underline();
+set_font_style("Futura");choose_title();set_font_size(22);
+choose_content();text_align_left();
+insert_table(1, 3);
+choose_table_cell(0, 0);insert_text("一年级");choose_table_cell(0, 1);insert_text("二年级");choose_table_cell(0, 2);insert_text("三年级");
+create_slide();choose_content();insert_text("米歇尔·奥巴马在北京大学的演讲");
+insert_picture("logo");align_top_right_corner();
+set_height(6.5);
+
+create_slide();choose_title();insert_text("学习Python");
+set_font_italic();set_font_size(26);set_font_style("Times New Roman");
+set_background_color("green");
+create_slide();set_background_color("green");create_slide();set_background_color("green");
+insert_rectangle();align_slide_bottom();
+insert_table(1, 1);
+choose_table_cell(0, 0);insert_text("未给出示例，请填写表格");
+
+create_slide();set_background_color("green");choose_title();insert_text("机器翻译");
+choose_content();insert_text("机器翻译是利用计算机技术将文本从一种语言翻译成另一种语言。");
+set_font_size(20);
+set_font_size(40);
+set_font_color("green");text_align_right();
+insert_picture("trados");
+set_height(2);set_width(2);
+align_slide_bottom();
+insert_rectangle();align_slide_bottom();
+
+choose_title();insert_text("背景");insert_note("背景");
+choose_content();insert_text("了解翻译机翻译质量的要求");insert_text("关注每个日期点的可靠性");
+insert_cloud();set_width(6.5);align_slide_bottom();
+choose_title();set_font_size(30);choose_content();set_font_size(20);set_font_italic();
+
+insert_circle();align_slide_left();set_fill_color("green");
+set_width(10);set_height(10);
+choose_content();insert_text("特征学习模块");insert_text("质量评估模块");
+choose_title();insert_text("基本框架");
+insert_note("2023/4");choose_shape("circle");insert_text("2023/4");
+
+choose_title();insert_text("Payroll in March");set_font_color("green");
+insert_table(1, 3);
+choose_table_cell(0, 0);insert_text("员工编号");choose_table_cell(0, 1);insert_text("金额");choose_table_cell(0, 2);insert_text("备注");
+insert_textbox();insert_text("员工应提供他/她的银行ID和身份证。");set_bottom("textbox","table");
+insert_picture("company_brand_name");align_top_right_corner();
+create_slide();set_background_color("yellow");
+choose_title();insert_text("第二章");choose_content();insert_text("员工奖金");
+choose_title();set_font_italic();set_font_size(44);set_font_color("green");
+choose_content();set_font_style("Verdana");set_font_color("light green");
+insert_note("2023/4");
+
+create_slide();choose_title();insert_text("深度学习的特征");set_font_underline();
+set_font_size(26);set_font_color("light blue");
+insert_circle();
+choose_content();insert_text("深度学习是一种机器学习技术，它教会计算机做人类自然而然的事情。");
+set_font_style("Arial");
+insert_triangle();align_slide_left();
+align_slide_right();
+set_fill_color("red");set_width(5);
+choose_content();insert_bullet_point("Sunday");insert_bullet_point("Monday");insert_bullet_point("Tuesday");
+move_to_next_slide();set_background_color("yellow");
+choose_title();insert_text("中立网络");set_font_underline();set_font_italic();insert_note("中立网络");
+
+choose_title();insert_text("艺术史");
+set_font_bold();set_font_style("Times New Roman");
+choose_content();insert_text("艺术是创造视觉、听觉或表演文物的各种人类活动，表达作者的想象力、概念性想法或技术技能，主要是为了欣赏它们的美感或情感力量。");
+set_font_italic();set_font_style("Arial");
+insert_bullet_point("");
+insert_bullet_point("painting");insert_bullet_point("sculpture");insert_bullet_point("architecture");insert_bullet_point("music");insert_bullet_point("literature");
+insert_picture("Mona Lisa");align_slide_bottom();
+align_top_left_corner();
+insert_note("列奥纳多·达·芬奇的《蒙娜丽莎》");
+
+insert_star();set_fill_color("yellow");
+choose_title();insert_text("Stars");set_font_size(24);
+choose_content();insert_text("欢迎来到星夜");
+insert_picture("universe");set_bottom("picture","content");
+insert_note("闪亮的星，明亮的星，闪烁的星");choose_title();delete_text();insert_text("闪亮的星，明亮的星，闪烁的星");
+
+create_slide();choose_title();insert_text("客户反馈");
+insert_picture("happy_customer");align_slide_bottom();
+choose_title();delete_text();insert_text("我们的客户爱我们！");set_font_color("red");
+delete_text();insert_text("！！");
+choose_content();insert_text("客户评论");
+set_font_style("Times New Roman");set_font_color("green");
+set_background_color("red");
+set_background_color("green");
+
+create_slide();choose_title();insert_text("营销计划");
+insert_text("简介");set_font_underline();set_font_style("Calibri");
+insert_picture("company_logo");align_bottom_left_corner();
+set_height(5);set_width(3);align_slide_right();
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("类别");choose_table_cell(0, 1);insert_text("信息");choose_table_cell(1, 0);insert_text("年龄");choose_table_cell(1, 1);insert_text("25")
+create_slide();set_background_color("blue");
+choose_title();insert_text("移动品牌");
+insert_line_chart([120, 140, 150], ["华为", "Apple", "小米"]);
+set_chart_title("Sales in April");
+
+create_slide();choose_title();insert_text("Q2 财务报告");
+set_font_style("Arial");set_font_size(20);
+insert_table(1, 3);choose_table_cell(0, 0);insert_text("Metric");choose_table_cell(0, 1);insert_text("Q2");choose_table_cell(0, 2);insert_text("Q3")
+insert_picture("financial report");set_top("picture","table");
+choose_content();insert_text("在成功的成本优化措施以及市场对我们产品和服务的需求增加的推动下，第二季度财务报告显示了强劲的收入增长和盈利能力的提高。");
+set_font_italic();set_font_bold();
+insert_bullet_point("");
+set_background_color("light blue");
+
+create_slide();set_background_color("green");
+choose_title();insert_text("女权主义");
+set_font_color("green");set_font_size(26);
+choose_content();insert_text("女权主义是对女性与男性平等权利、权力和机会的信仰和追求。");
+set_font_color("green");set_font_italic();
+create_slide();choose_title();insert_text("女权主义运动第三波");set_font_color("green");
+set_font_bold();set_font_style("Times New Roman");set_font_color("blue");set_font_size(28);
+insert_picture("war");align_slide_bottom();
+insert_pie_chart([40, 30, 30], ["美国", "俄罗斯", "法国"]);
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("位置");choose_table_cell(0, 1);insert_text("世界各地的各个城市")
+
+create_slide();choose_title();insert_text("产品发布");
+choose_content();insert_text("客观的");insert_note("客观的");
+set_font_underline();set_font_style("Times New Roman");
+insert_picture("Apple_Pencil");align_bottom_left_corner();
+align_top_right_corner();
+
+choose_title();insert_text("团队进展");
+choose_content();insert_text("目标");
+choose_content();insert_text("该组织的目标是通过经验丰富的自由职业者的指导来促进这一代的年轻人和边缘化群体的发展。");
+set_font_size(18);set_font_underline();
+insert_picture("team_group");set_right("picture", "content");
+
+choose_title();insert_text("创新的力量");
+set_font_style("Arial");set_font_bold();
+choose_content();insert_text("在当今瞬息万变的世界中，创新在推动经济增长、塑造政治格局和转变文化规范方面发挥着至关重要的作用。它推动进步，培养竞争力，并为个人和社会开辟新的可能性。");
+set_font_color("dark blue");set_line_space(2);
+insert_picture("cityscape");align_slide_left();
+insert_rectangle();align_slide_right();
+set_background_color("dark blue");
+create_slide();choose_content();insert_text("它的运作没有理性，无视社会道德和外部标准。");
+set_font_bold();set_font_underline();choose_title();insert_text("童话故事");
+
+choose_title();insert_text("《都市生活》");
+set_background_color("light blue");
+choose_table();insert_table(3, 2);choose_table_cell(0, 1);delete_text();insert_text("数量");choose_table_cell(1, 1);delete_text();insert_text("质量");choose_table_cell(2, 1);delete_text();insert_text("级别");
+insert_triangle();insert_rectangle();set_top("triangle", "rectangle");
+choose_shape("triangle");set_bottom("triangle", "rectangle");
+insert_picture("Shanghai");align_bottom_left_corner();
+
+choose_table();insert_table(4, 6);
+choose_table_cell(0, 0);insert_text("Year");choose_table_cell(0, 1);insert_text("老友记");choose_table_cell(0, 2);insert_text("绝命毒师");choose_table_cell(0, 3);insert_text("权力的游戏");choose_table_cell(0, 4);insert_text("怪奇物语");choose_table_cell(0, 5);insert_text("王冠")
+insert_star();
+insert_picture("Friends");set_right("picture", "star");
+choose_shape("star");set_top("star", "picture");
+choose_title();insert_text("电视剧");set_font_italic();set_font_underline();
+insert_note("2023-2025");
+
+insert_triangle();rotate_element(45);
+insert_rectangle();set_right("rectangle","triangle");
+insert_star();set_right("star","rectangle");
+insert_circle();set_right("circle","star");
+insert_callout();set_right("callout","circle");rotate_element(-45);
+choose_shape("triangle");insert_text("形状");choose_shape("rectangle");insert_text("形状");choose_shape("star");insert_text("形状");choose_shape("circle");insert_text("形状");choose_shape("callout");insert_text("形状");
+
+insert_picture("globe");
+choose_title();insert_text("全球扩张战略");
+choose_picture();align_top_left_corner();
+choose_content();insert_text("和平与爱");
+
+insert_pie_chart([40, 45, 5], ["上海", "北京", "其他"]);
+choose_title();insert_text("贡献");
+choose_content();insert_text("2021年北京年度国内生产总值首次突破4万亿元人民币（6300亿美元）");
+set_font_style("Arial");
+insert_line_chart([6.7, 6.9, 6.6, 6.1, 2.3, 8.1], ["2016", "2017", "2018", "2019", "2020", "2021"]);
+choose_title();insert_text("GDP 增长");
+insert_bar_chart([6.5, 6.3, 6.1, 5.9, 5.7, 5.5], ["2022", "2023", "2024", "2025", "2026", "2027"]);
+
+create_slide();choose_title();insert_text("营销计划");
+set_background_color("red");
+insert_picture("company_logo");set_top("picture", "title");
+set_width(3);
+
+create_slide();choose_title();insert_text("Queencard");
+set_font_italic();set_font_bold();set_font_color("purple");
+set_background_color("light blue");
+insert_picture("Poker");set_right("picture", "title");
+align_top_right_corner();
+insert_circle();align_bottom_right_corner();
+set_width(6);set_height(4);
+create_slide();choose_title();insert_text("King");
+insert_picture("King");align_slide_right();
+
+create_slide();choose_title();insert_text("项目时间轴");
+insert_table(1, 4);
+choose_table_cell(0, 0);insert_text("一月");choose_table_cell(0, 1);insert_text("二月");choose_table_cell(0, 2);insert_text("三月");choose_table_cell(0, 3);insert_text("四月")
+choose_content();insert_text("例如，\"软件发布\"、\"营销活动开始\"");
+insert_picture("project_team");set_bottom("picture", "table");
+insert_right_arrow();set_left("right_arrow", "picture");
+set_width(3);set_height(3);
+
+insert_pie_chart([40, 60], ["女性", "男性"]);
+set_chart_title("Class 1");
+insert_picture("team_of_students");
+insert_rectangle();set_bottom("rectangle", "chart");
+choose_title();insert_text("Grade 1");
+choose_content();insert_text("以下显示每个班级的性别百分比");
+set_font_underline();set_font_size(20);
+insert_note("原理：Eva");
+create_slide();insert_pie_chart([40, 60],["Female", "Male"]);set_chart_title("Class 1");
+insert_picture("team_of_students");
+insert_rectangle();set_bottom("rectangle", "chart");
+
+create_slide();choose_title();insert_text("客户评价");
+choose_content();insert_text("我们的客户对我们的评价");set_font_bold();set_font_italic();
+insert_picture("happy_customer");
+insert_triangle();set_fill_color("purple");
+align_slide_right();
+
+create_slide();choose_title();insert_text("策略");
+choose_content();insert_text("我们的营销策略基于 4 P：产品、价格、地点和促销");
+set_font_size(20);set_line_space(2);set_font_bold();choose_title();set_font_underline();
+set_font_color("red");choose_content();set_font_color("red");
+insert_rectangle();align_slide_left();
+insert_picture("Apple_company_logo");set_right("picture", "rectangle");
+choose_picture();set_top("picture", "rectangle");
+
+create_slide();choose_title();insert_text("Fans");set_font_style("Arial");set_font_size(24);
+choose_content();insert_bullet_point("Benefits of our product");insert_bullet_point("Target market");insert_bullet_point("Pricing strategy");insert_bullet_point("Marketing channels");
+insert_picture("idol");set_height(6.5);
+align_slide_bottom();
+insert_rectangle();align_slide_top();
+insert_note("演示者：Eva");
+
+create_slide();choose_title();insert_text("销售数字");
+insert_bar_chart([20, 30], ["1 月", "2 月"]);
+insert_line_chart([10, 15], ["一月", "二月"]);
+set_chart_title("Sales by Month");
+insert_rectangle();align_slide_top();
+choose_content();insert_text("过去 6 个月我们的收入也一直在稳定增长");
+
+create_slide();choose_title();insert_text("销售报告");
+insert_table(2, 5);
+choose_table();choose_table_cell(0, 0);insert_text("产品");choose_table_cell(0, 1);insert_text("销售数量");choose_table_cell(0, 2);insert_text("收入");choose_table_cell(0, 3);insert_text("费用");choose_table_cell(0, 4);insert_text("利润")
+insert_table_row(["计算机", "1000", "$1000000", "$500000", "$500000"])
+insert_table_row(["Printer", "500", "$100000", "$50000", "$50000"])
+
+create_slide();insert_picture("city_skyline");align_slide_top();
+set_width(6);set_height(4);
+choose_title();insert_text("城市生活");
+choose_picture();align_top_left_corner();
+choose_title();set_font_size(20);set_font_bold();
+
+create_slide();insert_line_chart([40, 30, 30], ["音乐会", "专辑", "图书"]);
+choose_title();insert_text("The Power of Fandom");
+choose_content();insert_text("粉丝在塑造从电影和电视节目到体育和音乐的各种娱乐形式的成功和影响方面发挥着至关重要的作用。");
+set_font_style("Arial");set_font_size(20);
+insert_right_arrow();align_slide_top();
+insert_textbox();align_slide_bottom();
+align_slide_top();
+
+create_slide();choose_title();insert_text("腾讯");
+insert_rectangle();align_slide_top();
+rotate_element(90);
+choose_title();set_font_style("Georgia");set_font_italic();
+choose_content();insert_text("腾讯是一家领先的中国跨国企业集团，成立于1998年。专注于各种互联网相关服务和产品，包括社交媒体、在线游戏、电子商务、云计算和人工智能。 ");
+set_font_size(24);set_font_style("Arial");
+
+set_background_color("green");
+insert_picture("Tencent_logo");
+set_width(6.5);
+insert_line_chart([40, 30, 30], ["模型 A", "模型 B", "模型 C"]);
+insert_bar_chart([40, 30, 30],["Model A", "Model B", "Model C"]);
+
+create_slide();choose_title();insert_text("英国的起源");set_font_underline();
+choose_content();insert_text("英国的起源可以追溯到盎格鲁-撒克逊国王阿塞尔斯坦时代，他在公元10世纪初获得了邻近的凯尔特王国的效忠，成为");
+set_font_size(20);
+set_font_size(40);set_background_color("green");
+
+insert_rectangle();align_slide_right();
+set_fill_color("yellow");
+choose_title();insert_text("维达");
+choose_content();insert_text("维达集团是一家领先的卫生用品公司，成立于1985年，专门从事生活用纸、一次性卫生用品和个人护理用品的制造和分销。");
+set_font_size(20);set_font_color("green");set_font_style("Vinda");
+set_line_space(2);choose_title();set_line_space(2);
+
+choose_title();insert_text("我的爱好");
+insert_picture("guitar");align_top_right_corner();
+choose_content();insert_text("弹吉他是我最喜欢的爱好之一。");
+set_font_size(24);set_font_color("purple");
+
+create_slide();choose_title();insert_text("营销计划");
+choose_content();insert_text("《营销计划》");
+set_font_style("Calibri");
+insert_picture("vinda_logo");
+align_top_left_corner();
+
+create_slide();choose_title();insert_text("营销活动");
+insert_picture("smiling_customer");align_top_left_corner();
+set_height(5);set_width(6);
+choose_content();insert_bullet_point("Profits");insert_bullet_point("Repute");insert_bullet_point("Go listing");
+set_font_size(20);choose_title();set_font_size(20);
+
+create_slide();choose_title();insert_text("电池类型");
+set_font_bold();set_font_italic();
+insert_picture("Product A");
+align_slide_left();
+insert_table(4, 2);choose_table_cell(0, 0);insert_text("电池类型");choose_table_cell(0, 1);insert_text("说明");choose_table_cell(1, 0);insert_text("保质期较长的碱性");choose_table_cell(1, 1);insert_text("普通家用电池");choose_table_cell(2, 0);insert_text("电子设备中使用的锂离子");choose_table_cell(2, 1);insert_text("充电电池");choose_table_cell(3, 0);insert_text("高能量密度镍镉充电电池")
+
+insert_pie_chart([30, 25, 20, 15, 10], ["品牌 A", "品牌 B", "品牌 C", "品牌 D", "其他品牌"]);
+set_chart_title("Air Condition Brands");
+choose_content();insert_text("这张幻灯片包括每个品牌的简要描述或要点");
+insert_picture("Haier");align_slide_bottom();
+choose_content();set_font_underline();set_font_color("green");
+insert_triangle();insert_rectangle();
+choose_shape("triangle");set_bottom("triangle", "rectangle");
+choose_shape("rectangle");rotate_element(45);
+
+choose_title();insert_text("我们的团队");
+insert_picture("team");set_width(4);set_height(3);
+rotate_element(45);
+align_top_left_corner();
+choose_title();set_font_style("Calibri");set_font_size(28);
+
+choose_title();insert_text("身份证");
+insert_line_chart([120, 140, 110], ['福建', '上海', '北京']);
+set_chart_title("ID Card Operation");
+insert_picture("ID_card");align_slide_right();
+choose_title();set_font_style("Verdana");set_font_size(32);
+set_background_color("purple");
+
+choose_title();insert_text("销售报告");
+set_font_style("Arial");set_font_size(48);set_font_bold();
+insert_table(5, 3);
+choose_table_cell(0, 0);insert_text("地区");choose_table_cell(0, 1);insert_text("销售额");choose_table_cell(0, 2);insert_text("增长");choose_table_cell(1, 0);insert_text("North");choose_table_cell(1, 1);insert_text("$50,000");choose_table_cell(1, 2);insert_text("5%");choose_table_cell(2, 0);insert_text("East");choose_table_cell(2, 1);insert_text("$75,000");choose_table_cell(2, 2);insert_text("10%");choose_table_cell(3, 0);insert_text("South");choose_table_cell(3, 1);insert_text("$45,000");choose_table_cell(3, 2);insert_text("3%");choose_table_cell(4, 0);insert_text("西");choose_table_cell(4, 1);insert_text("60,000 美元");choose_table_cell(4, 2);insert_text("8%")
+set_background_color("green");
+choose_content();insert_text("姓名：John Doe，出生日期：1990年1月1日，性别：男，身份证号码：123456789，签发机关：机动车辆管理局，有效期：2023年12月31日");
+insert_picture("beach");
+insert_right_arrow();
+choose_picture();set_top("picture", "right_arrow");
+
+insert_rectangle();
+set_fill_color("orange");
+set_width(6);set_height(5);
+choose_title();insert_text("重要信息");set_font_bold();
+set_font_size(24);set_font_color("green");
+choose_content();insert_bullet_point("pot");insert_bullet_point("scissors");insert_bullet_point("scoup");
+insert_picture("exclamatory_mark");
+align_top_left_corner();
+create_slide();insert_rectangle();align_slide_left();
+choose_title();insert_text("其他详细信息");
+
+choose_content();insert_text("以下是有关我们公司成长的一些统计数据");
+set_font_color("purple");
+choose_table();insert_table(1, 3);
+choose_table_cell(0, 0);insert_text("收入");choose_table_cell(0, 1);insert_text("利润");choose_table_cell(0, 2);insert_text("员工人数")
+
+insert_picture("converse_shoes");
+choose_content();insert_text("匡威是一个流行的鞋类品牌，以其标志性的运动鞋和休闲风格而闻名。");
+set_font_size(18);set_font_color("red");
+
+choose_content();insert_text("柠檬汁是一种由鲜榨柠檬制成的清爽浓郁的饮料。它富含维生素 C，并具有浓郁的柑橘风味。");
+create_slide();choose_title();insert_text("柠檬汁");
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("产品");choose_table_cell(0, 1);insert_text("价格");choose_table_cell(0, 2);insert_text("功能");choose_table_cell(1, 0);insert_text("A");choose_table_cell(1, 1);insert_text("B");choose_table_cell(1, 2);insert_text("C")
+insert_picture("lemon_juice");set_right("picture","table");
+choose_content();insert_text("第 1 页");
+
+insert_picture("beach");align_top_left_corner();
+choose_content();insert_text("立即预订您的假期！");
+choose_title();insert_text("假期时间");
+set_font_size(18);set_font_style("Times New Roman");choose_content();set_font_size(18);set_font_style("Times New Roman");
+choose_content();insert_bullet_point("Relaxing on the beach");insert_bullet_point("Swimming in the ocean");insert_bullet_point("Eating delicious seafood");
+
+create_slide();choose_title();insert_text("Chili");
+set_background_color("red");
+insert_picture("chili");
+choose_content();insert_text("辣椒是一种由肉、豆类和各种香料混合而成的辛辣可口的菜肴。它以味道浓郁、辣味十足而闻名。");
+
+choose_title();insert_text("Chili");insert_picture("chili_landscape");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("成分");choose_table_cell(0, 1);insert_text("数量");choose_table_cell(0, 2);insert_text("辣度");choose_table_cell(0, 3);insert_text("产地");choose_table_cell(1, 0);insert_text("牛肉");choose_table_cell(1, 1);insert_text("2 磅");choose_table_cell(1, 2);insert_text("中号");choose_table_cell(1, 3);insert_text("墨西哥");choose_table_cell(2, 0);insert_text("Beans");choose_table_cell(2, 1);insert_text("1 can");choose_table_cell(2, 2);insert_text("Mild");choose_table_cell(2, 3);insert_text("United States");choose_table_cell(3, 0);insert_text("Tomatoes");choose_table_cell(3, 1);insert_text("3");choose_table_cell(3, 2);insert_text("Hot");choose_table_cell(3, 3);insert_text("Spain")
+insert_note("第 2 页");
+
+insert_picture("eating_humburger");align_slide_bottom();
+choose_title();insert_text("第三季度的销售预测");
+choose_content();insert_text("第三季度的销售预测表明收入和市场份额将稳步增长。通过有针对性的营销策略和产品增强，我们预计销售业绩将大幅增长。");
+
+choose_title();insert_text("营销策略");
+choose_content();insert_text("我们公司的营销策略是专注于社交媒体广告和影响力营销");
+insert_bullet_point("Instagram");insert_bullet_point("Facebook");insert_bullet_point("Twitter");
+insert_picture("using_smartphone");
+insert_rectangle();set_top("rectangle","picture");
+insert_table(6, 4);choose_table_cell(0, 0);insert_text("月份");choose_table_cell(0, 1);insert_text("收入");choose_table_cell(0, 2);insert_text("销售数量");choose_table_cell(0, 3);insert_text("增长率")
+
+create_slide();choose_title();insert_text("产品发布");
+insert_text("介绍我们的最新产品");
+insert_picture("product");
+align_slide_bottom();
+set_background_color("purple");align_slide_top();
+
+choose_title();insert_text("探索中国");
+insert_picture("china_map");
+align_top_left_corner();
+choose_content();insert_text("中国是一个迷人的旅游目的地，以其丰富的历史、充满活力的文化和令人惊叹的风景而闻名。从标志性的长城到繁华的大都市上海，在这个幅员辽阔的大都市中，每个游客都能找到自己想要的东西");
+insert_table(8, 5);choose_table();choose_table_cell(0, 0);insert_text("省份");choose_table_cell(0, 1);insert_text("著名景点");choose_table_cell(0, 2);insert_text("平均气温");choose_table_cell(0, 3);insert_text("游客人数");choose_table_cell(0, 4);insert_text("推荐季节")
+create_slide();choose_title();insert_text("项目时间轴");
+insert_star();align_slide_right();
+align_slide_right();
+
+choose_title();insert_text("OPPO");set_font_color("red");set_font_size(20);set_font_underline();set_font_bold();
+choose_content();insert_text("OPPO 是一家领先的智能手机制造商，以其创新设计和尖端技术而闻名。");
+insert_picture("oppo_smartphone");set_left("picture","content");
+create_slide();choose_title();insert_text("小米");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("产品");choose_table_cell(0, 1);insert_text("价格");choose_table_cell(0, 2);insert_text("功能");choose_table_cell(0, 3);insert_text("可用性");choose_table_cell(1, 0);insert_text("Mi 11");choose_table_cell(1, 1);insert_text("$699");choose_table_cell(1, 2);insert_text("Snapdragon 888、108MP 摄像头");choose_table_cell(1, 3);insert_text("全球");choose_table_cell(2, 0);insert_text("Redmi Note 10");choose_table_cell(2, 1);insert_text("$249");choose_table_cell(2, 2);insert_text("AMOLED 显示屏、48MP 摄像头");choose_table_cell(2, 3);insert_text("全球的")
+
+create_slide();choose_title();insert_text("产品概述");
+choose_table();insert_table(4, 3);choose_table_cell(0, 0);insert_text("产品名称");choose_table_cell(1, 0);insert_text("SKU");choose_table_cell(2, 0);insert_text("价格");choose_table_cell(3, 0);insert_text("数量");
+set_background_color("green");
+
+set_background_color("blue");choose_title();insert_text("研究写作");
+choose_content();insert_text("研究写作涉及对某个主题进行系统调查和记录，以便为特定领域贡献新知识和见解。");
+set_font_color("yellow");set_font_size(18);
+set_font_size(36);
+insert_line_chart([120, 140, 160], ["2016", "2017", "2018"]);
+set_chart_title("Publications Over Time");
+insert_picture("research_writing_cover");set_background_color("light blue");
+
+create_slide();choose_title();insert_text("三月计划");
+set_font_size(28);set_font_color("dark blue");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("日期");choose_table_cell(0, 1);insert_text("任务");choose_table_cell(0, 2);insert_text("开始时间");choose_table_cell(0, 3);insert_text("结束时间");choose_table_cell(1, 0);insert_text("3 月 15 日");choose_table_cell(1, 1);insert_text("与利益相关者会面");choose_table_cell(1, 2);insert_text("9:00 AM");choose_table_cell(1, 3);insert_text("10:30 AM");choose_table_cell(2, 0);insert_text("3 月 23 日");choose_table_cell(2, 1);insert_text("项目审核和更新");choose_table_cell(2, 2);insert_text("2:00 PM");choose_table_cell(2, 3);insert_text("4:00 PM")
+insert_picture("calendar");set_top(picture, table);
+
+create_slide();choose_title();insert_text("冥想的好处");
+insert_picture("person_meditating");align_slide_bottom();
+choose_content();insert_text("冥想是一种简单而强大的技巧，可以帮助您达到内心平静和平静的状态。");
+set_font_size(24);set_font_style("Times New Roman");
+insert_rectangle();set_right("rectangle", "picture");
+set_fill_color("light green");
+create_slide();set_background_color("light blue");
+choose_table();insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("正念冥想");choose_table_cell(1, 0);insert_text("先验冥想");choose_table_cell(2, 0);insert_text("身体扫描冥想");choose_table_cell(0, 1);insert_text("冥想有助于平静心灵、减轻压力水平，促进放松。");choose_table_cell(1, 1);insert_text("定期冥想练习可以增强专注力和专注能力。");choose_table_cell(2, 1);insert_text("冥想可以促进情绪稳定、正念和整体幸福感。 ");
+
+create_slide();set_background_color("green");
+insert_picture("grassland");set_width(6.5);set_height(5.5);
+choose_title();insert_text("森林的功能");set_font_color("dark red");set_font_size(40);
+insert_right_arrow();set_fill_color("yellow");
+set_right("right_arrow", "picture");
+
+insert_pie_chart([40, 20, 15, 10, 15], ["吃", "住", "行", "娱乐", "其他"]);
+insert_table(6, 2);choose_table();choose_table_cell(0, 0);insert_text("类别");choose_table_cell(0, 1);insert_text("百分比")
+set_bottom("table",pie_chart");
+choose_title();insert_text("我在 2023 年 5 月的支出");
+set_font_italic();
+
+create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");
+move_to_slide(0);choose_title();insert_text("《我的暑假》");set_font_style("Microsoft JhengHei");
+move_to_slide(1);insert_picture("family");
+move_to_slide(2);insert_bar_chart([120, 80, 40, 60], ["销售额", "费用", "利润", "投资"]);
+move_to_slide(3);choose_content();insert_text("暑假期间，我开始了一次难忘的冒险。我探索了新的目的地，沐浴在金色夕阳的温暖中，在沙滩上放松。");
+move_to_slide(4);choose_table();insert_table(2, 1);choose_table_cell(0,0);insert_text("销售额");set_font_size(26);choose_table_cell(1,0);insert_text("费用");set_font_size(26);
+
+create_slide();choose_title();insert_text("商业计划");
+insert_picture("light_bulb");align_slide_left();
+choose_content();insert_text("创业是设计、启动和经营新企业的过程，通常最初是一家小企业。创建这些企业的人称为企业家。");
+set_font_style("Georgia");set_font_size(10);
+set_background_color("green");
+insert_circle();
+align_slide_right();
+move_to_slide(0);choose_content();insert_text("营销策略");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("社交媒体活动");choose_table_cell(1, 0);insert_text("影响者合作伙伴");choose_table_cell(2, 0);insert_text("电子邮件营销")
+choose_table_cell(0,3);insert_text("10000 美元");choose_table_cell(1,3);insert_text("15000 美元");choose_table_cell(2,3);insert_text("5000美元");
+insert_note("2023/5");
+
+choose_title();insert_text("目标听众");set_font_style("Arial");
+align_top_right_corner();
+insert_picture("Gen_Z");set_width(4);
+align_bottom_left_corner();
+choose_content();insert_text("了解并有效定位正确的受众对于传递定制信息和最大限度地提高营销工作的影响至关重要。");
+
+choose_title();insert_text("大型建模要点");set_font_size(24);
+insert_picture("neutral_network");align_slide_bottom();
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("编号");choose_table_cell(0, 1);insert_text("注释")
+align_slide_top();
+
+insert_picture("tower");align_top_right_corner();
+choose_title();insert_text("终极抢劫");
+insert_rectangle();set_top("rectangle", "title");
+choose_title();set_font_color("dark green");set_font_size(28);
+set_font_style("Microsoft New Tai Lue");
+set_background_color("light blue");
+
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("任务");choose_table_cell(0, 1);insert_text("优先级");choose_table_cell(0, 2);insert_text("开始时间");choose_table_cell(0, 3);insert_text("结束时间");choose_table_cell(1, 0);insert_text("项目计划");choose_table_cell(1, 1);insert_text("高");choose_table_cell(1, 2);insert_text("9:00 AM");choose_table_cell(1, 3);insert_text("10:30 AM")
+choose_content();insert_text("有效的时间管理是个人和职业环境中成功的关键技能。");
+set_font_italic();
+choose_table();set_bottom("table","content");
+insert_picture("clock");
+insert_note("演示者：Eva");
+
+create_slide();choose_title();insert_text("公司简介");
+choose_content();insert_text("我们公司成立于 2005 年，旨在为客户提供高质量的产品和服务。从那时起，我们已成长为为多个行业提供创新解决方案的领先提供商.我们的专家团队致力于在我们所做的一切事情上提供卓越的服务。");
+choose_title();set_font_style("Calibri Light");set_font_size(40);
+insert_picture("company_logo");align_slide_right();
+set_height(2);set_width(3);align_slide_left();
+align_bottom_left_corner();
+create_slide();set_background_color("blue");
+choose_content();insert_text("成为创新和可持续发展的领导者，为我们的利益相关者创造价值，并对世界产生积极影响。");
+set_font_underline();set_line_space(2);
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("A-72");choose_table_cell(0, 1);insert_text("C-71")
+insert_table(1, 2);insert_table_row(["B-72", "D-71"])
+
+create_slide();choose_title();insert_text("销售数据");
+insert_table(15, 6);
+choose_table_cell(0, 0);insert_text("产品");choose_table_cell(0, 1);insert_text("一月销售额");choose_table_cell(0, 2);insert_text("二月销售额");choose_table_cell(0, 3);insert_text("三月销售额");choose_table_cell(0, 4);insert_text("总销售额");choose_table_cell(0, 5);insert_text("平均销售额");choose_table_cell(1, 0);insert_text("iPhone");choose_table_cell(1, 1);insert_text("22");choose_table_cell(2, 1);insert_text("13");choose_table_cell(2, 2);insert_text("15");choose_table_cell(2, 3);insert_text("17");choose_table_cell(2, 4);insert_text("12")
+align_top_left_corner();
+insert_note("数据源：销售部门");
+create_slide();choose_table();copy_table();paste_table()
+
+choose_title();insert_text("营销策略");
+set_font_style("Arial Black");
+choose_content();insert_text("搜索引擎优化（SEO）");insert_text("社交媒体营销（SMM）");insert_text("电子邮件营销");insert_text("按点击付费广告（PPC）");
+set_font_color("dark blue");
+set_font_color("green");
+insert_picture("thumb");set_width(5);set_bottom("picture", "content");
+
+choose_title();insert_text("The Grand Canyon");set_font_italic();
+set_font_size(30);
+set_font_style("Times New Roman");
+insert_picture("GrandCanyon");
+set_right("picture","title");
+set_height(4);set_width(6);
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("广东");choose_table_cell(0, 1);insert_text("北京");choose_table_cell(0, 2);insert_text("上海");choose_table_cell(0, 3);insert_text("海南");choose_table_cell(1, 0);insert_text("34%");choose_table_cell(1, 1);insert_text("36%");choose_table_cell(1, 2);insert_text("20%");choose_table_cell(1, 3);insert_text("10%")
+insert_pie_chart([34, 36, 20, 10], ["广东", "北京", "上海", "海南"]);
+choose_chart();set_bottom("chart", "table");
+insert_bar_chart([34, 36, 20, 10],["Guangdong","Beijing", "Shanghai", "Hainan"]);
+insert_note("图片来源：国家公园管理局");
+
+create_slide();choose_title();insert_text("产品比较");
+insert_table(5, 2);choose_table_cell(0, 0);insert_text("智能手机 (Apple iPhone 13)");choose_table_cell(0, 1);insert_text("笔记本电脑 (Dell XPS 13)");choose_table_cell(1, 0);insert_text("智能手表 (Apple Watch Series 7)");choose_table_cell(1, 1);insert_text("耳机 (Sony WH-1000XM4)");choose_table_cell(2, 0);insert_text("相机 (Canon) EOS R5)");choose_table_cell(2, 1);insert_text("电视 (Samsung QLED Q90T)");choose_table_cell(3, 0);insert_text("游戏机 (PlayStation 5)");choose_table_cell(3, 1);insert_text("健身追踪器 (Fitbit Charge 4)");choose_table_cell(4, 0);insert_text("无线耳机 (AirPods Pro)");choose_table_cell(4, 1);insert_text("平板电脑 (iPad Pro)")
+choose_title();align_bottom_right_corner();
+set_background_color("light blue");
+
+create_slide();choose_title();insert_text("每月销售报告");
+choose_content();insert_bar_chart([10000, 12000, 15000, 18000, 20000, 25000, 28000, 30000, 32000, 35000, 40000, 45000], series=["一月", "二月", "三月", "四月", "五月", "六月", "七月", "八月", "九月", "十月", "十一月", "十二月"]);
+set_chart_title("My Monthly Sales in 2023");
+align_slide_top();
+choose_content();insert_text("月度销售报告显示收入显着增加。");
+insert_note("演示者：xxx");
+
+set_background_color("light red");insert_picture("strawberry");
+create_slide();choose_title();insert_text("项目范围");create_slide();choose_title();insert_text("项目时间表");create_slide();choose_title();insert_text("项目预算");
+move_to_slide(1);set_background_color("light green");move_to_slide(2);set_background_color("light blue");move_to_slide(3);set_background_color("purple");
+move_to_slide(1);choose_content();insert_text("我们的项目涉及为我们的客户开发新的软件应用程序。该应用程序将简化他们的业务流程并提高他们的利润。");
+move_to_slide(2);insert_table(2, 6);choose_table();choose_table_cell(0, 0);insert_text("月份");choose_table_cell(0, 1);insert_text("任务");choose_table_cell(0, 2);insert_text("开始日期");choose_table_cell(0, 3);insert_text("结束日期");choose_table_cell(0, 4);insert_text("进度");choose_table_cell(0, 5);insert_text("评论")
+insert_line_chart([10, 12, 15, 11], ["2016", "2017", "2018", "2019"]);set_left("chart","table");
+insert_star();align_top_right_corner();
+move_to_slide(2);choose_title();set_font_underline();
+move_to_slide(3);choose_content();insert_text("人员费用：这包括与项目团队成员相关的费用，例如薪水、工资、福利和培训费用。");
+choose_content();set_font_style("Arial");
+insert_note("谢谢！");
+
+choose_title();insert_text("公司时间表");
+insert_rectangle();rotate_element(45);
+align_bottom_right_corner();
+set_background_color("light blue");
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("1980");choose_table_cell(0, 1);insert_text("1990");choose_table_cell(0, 2);insert_text("2000");choose_table_cell(0, 3);insert_text("2010")
+choose_table();insert_table_row(["公司成立", "公司搬迁新大楼", "公司上市", "公司被竞争对手收购"])
+
+insert_picture("google_logo");align_slide_bottom();
+choose_title();insert_text("Conclusion");set_font_italic();
+choose_content();insert_text("我们日益成为一个全球性的人口——自由混合。这将创造一个混血儿的世界——浅棕色皮肤、深色头发、非裔、欧洲人、澳大利亚人、美洲人、亚洲人，他们的肤色和面部特征倾向于接近全球平均水平。");
+text_align_right();
+insert_rectangle();set_height(5);
+align_slide_bottom();
+
+create_slide();choose_title();insert_text("文学伦理批评");set_font_bold();
+set_font_color("blue");
+choose_content();insert_text("伦理文学批评方法是华中师范大学聂振钊教授对中西文学批评的历史和现状进行比较考察、精细梳理和反思后提出的一种新的文学批评方法");
+insert_picture("book_cover");
+align_slide_left();
+insert_rectangle();align_slide_right();
+set_background_color("light yellow");
+
+create_slide();choose_title();insert_text("夏洛特·勃朗特的简·爱");set_font_italic();
+choose_content();insert_text("在看似幸福的结局中，夏洛特使用遗产和火焰来构建情节。");set_font_bold();
+set_font_color("dark red");set_font_style("Arial");
+insert_right_arrow();set_right("right_arrow", "content");
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("类别");choose_table_cell(0, 1);insert_text("信息");choose_table_cell(1, 0);insert_text("出版年份");choose_table_cell(1, 1);insert_text("1847 年")
+insert_picture("Charlotte_Bronte's_portrait");set_bottom("picture", "table");
+set_top("picture", "table");
+
+set_background_color("blue");
+choose_title();insert_text("Id in David Copperfield");set_font_italic();
+choose_content();insert_text("本我是一种动物本能的冲动，它是没有理性的迷茫，一味地追求满足，积累发泄的机会。一、本我不关心社会道德或外在行为标准。本我是储存本能的地方。");
+insert_picture("book");set_top("book","content");
+set_height(5);set_width(6);
+insert_star();set_right("star","picture");
+choose_content();insert_bullet_point("");
+
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("地点");choose_table_cell(0, 1);insert_text("世界各地的各个城市");choose_table_cell(1, 0);insert_text("种族");choose_table_cell(1, 1);insert_text("华人社区和文化");choose_table_cell(2, 0);insert_text("特色");choose_table_cell(2, 1);insert_text("中国建筑、商业、美食、文化庆典")
+choose_title();insert_text("中国城");set_font_bold();
+insert_pie_chart([40, 30, 30], ["中餐馆", "华人零售店", "文化节庆活动"]);
+insert_picture("China_town");
+align_slide_bottom();
+insert_star();align_slide_right();
+insert_note("中国城");
+
+create_slide();set_background_color("green");
+choose_title();insert_text("女权主义");set_font_color("green");
+choose_content();insert_text("女权主义是女性应该拥有与男性相同的权利、权力和机会的信念和目标");
+set_font_color("yellow");set_font_italic();
+
+choose_title();insert_text("女权主义运动第三次浪潮");set_font_bold();
+set_font_style("Times New Roman");set_font_color("blue");set_font_size(28);
+choose_content();insert_text("重点关注多种族宗教信仰、民族风情、多元文化、环境保护、消费主义、多元化取向");
+insert_picture("female_portrait");set_top("picture","content");
+
+create_slide();choose_title();insert_text("电影改编的傲慢与偏见");
+set_font_size(24);set_font_italic();
+choose_content();insert_text("编剧安德鲁·戴维斯 1995 年根据简·奥斯汀的小说《傲慢与偏见》改编的作品在首次播出 14 年后，仍然是人们普遍衡量奥斯汀改编作品的标杆。这部改编作品以其对古装剧的"性感化"而闻名，表面上解决了现代情感问题以及当代的戏剧期望。戴维斯的诠释选择强调性感，并将焦点集中在达西的欲望上。");
+insert_bullet_point("");
+set_font_size(20);set_line_space(2);
+insert_picture("web_image");
+insert_rectangle();align_top_right_corner();
+set_background_color("light orange");
+
+insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("位置");choose_table_cell(1, 0);insert_text("种族")
+choose_content();insert_text("伊丽莎白·班纳特和达西先生在整部小说中经历了重要的人物发展，学习了关于自己和社会的重要教训。");
+insert_picture("Elizabeth_Bennet_and_Mr. Darcy");set_bottom("picture", "table");
+align_slide_right();
+insert_rectangle();align_top_left_corner();
+create_slide();choose_title();insert_text("社会阶层在傲慢与偏见中的作用");set_font_underline();
+choose_content();insert_text("社会阶层在小说中发挥着重要作用，影响着人物的关系、决定和自我认知。​​");
+insert_circle();align_bottom_right_corner();set_fill_color("orange");
+set_background_color("orange");
+
+create_slide();choose_title();insert_text("形状");
+insert_rectangle();set_fill_color("red");align_slide_left();
+insert_circle();set_fill_color("blue");align_slide_right();
+insert_triangle();set_fill_color("green");align_slide_left();
+insert_callout();set_fill_color("yellow");align_slide_right();
+
+insert_picture("19th-century_marriage_scene");align_slide_right();
+insert_triangle();set_right("triangle", "picture");
+choose_title();insert_text("《19世纪的婚姻》");
+set_font_italic();set_font_bold();
+
+insert_pie_chart([30, 25, 15, 10, 10, 10], ["香草", "巧克力", "草莓", "薄荷巧克力片", "饼干和奶油", "黄油山核桃"]);
+insert_picture("strawberry");set_bottom("picture", "chart");
+choose_content();insert_text("由于运营成本增加和营销活动投资增加，上季度支出大幅增加。");
+set_font_style("Times New Roman");set_font_size(18);
+
+create_slide();choose_title();insert_text("「PPT制作」");insert_note("「PPT制作」");
+choose_content();insert_text("创建引人入胜且有影响力的 PowerPoint 演示文稿需要仔细规划和执行。");
+choose_content();set_font_underline();set_font_color("dark red");
+choose_title();set_font_bold();set_font_italic();
+insert_note("PPT");
+
+create_slide();choose_title();insert_text("神经网络");
+choose_content();insert_bullet_point("Neural networks are a type of machine learning algorithm that are modeled after the structure of the human brain. They consist of layers of interconnected nodes that process information and learn to recognize patterns.");
+choose_title();set_font_color("red");
+insert_picture("neural_network_architecture");
+insert_cloud();set_right("cloud","picture");
+set_background_color("yellow");
+
+create_slide();insert_cloud();set_fill_color("red");align_slide_right();
+choose_content();insert_text("提供清晰的要点");
+choose_title();set_font_color("orange");create_slide();choose_title();insert_text("数据预处理");
+set_background_color("red");
+
+create_slide();choose_title();insert_text("迁移学习");
+set_font_size(28);set_font_bold();choose_content();set_font_size(28);
+set_font_style("Times New Roman");set_font_color("red");
+set_background_color("red");
+choose_content();insert_text("强化学习是机器学习的一种，算法通过反复试验进行学习。它通常用于教导机器如何在复杂环境中做出决策。");
+
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("模型名称");choose_table_cell(0, 1);insert_text("ChatGPT");choose_table_cell(1, 0);insert_text("架构");choose_table_cell(1, 1);insert_text("GPT（生成式预训练变压器）");choose_table_cell(2, 0);insert_text("训练数据大小");choose_table_cell(2, 1);insert_text("多个 TB 的不同文本数据")
+choose_title();insert_text("GPT");set_font_bold();
+choose_content();insert_text("生成式预训练 Transformer 3 (GPT-3) 是 2020 年发布的自回归语言模型，它使用深度学习来生成类似人类的文本。");
+set_font_underline();set_font_color("dark red");choose_title();set_font_color("dark red");
+insert_picture("gpt-3_architecture");set_right("picture","content");
+
+create_slide();choose_title();insert_text("呼啸山庄");set_font_italic();
+choose_content();insert_text("这个故事由洛克伍德（Lockwood）讲述，洛克伍德是一个无私的团体，他的叙述是管家艾伦·迪恩（Ellen Dean）一系列回顾性较短叙述的框架。");set_font_bold();
+set_font_color("red");choose_title();set_font_color("red");
+insert_right_arrow();
+set_width(6);set_height(4);
+create_slide();insert_cloud();
+insert_picture("wuthering_height_bookcover");
+choose_content();insert_text("呼啸山庄，艾米莉·勃朗特的小说，于 1847 年以笔名埃利斯·贝尔出版");
+set_font_style("Times New Roman");set_font_size(18);
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("类别");choose_table_cell(0, 1);insert_text("信息")
+insert_note("Microsoft");
+
+create_slide();choose_title();insert_text("简·奥斯汀的傲慢与偏见");
+choose_content();insert_text("小说探讨了英国绅士中的爱情、婚姻和社会期望的主题");set_font_bold();set_font_underline();
+insert_right_arrow();set_left("right_arrow", "content");
+set_fill_color("light orange");choose_content();set_font_color("dark green");
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("类别");choose_table_cell(0, 1);insert_text("信息");choose_table_cell(1, 0);insert_text("作家");choose_table_cell(1, 1);insert_text("简·奥斯汀")
+insert_picture("jane_austen_portrait");
+set_height(6);align_top_right_corner();
+
+create_slide();choose_title();insert_text("Sirsa 的人生旅程");set_font_bold();
+set_font_size(24);
+insert_table(4, 3);choose_table_cell(0, 0);insert_text("童年");choose_table_cell(0, 1);insert_text("0-10 岁");choose_table_cell(0, 2);insert_text("上学");choose_table_cell(1, 0);insert_text("青春期");choose_table_cell(1, 1);insert_text("11-18 岁");choose_table_cell(1, 2);insert_text("高中")
+insert_picture("school");
+set_left("picture","table");
+
+create_slide();choose_title();insert_text("探索宇宙");set_font_underline();
+insert_picture("galaxy");
+choose_content();insert_bullet_point("Stars");insert_bullet_point("Planets");insert_bullet_point("Nebulae");insert_bullet_point("Black Holes");insert_bullet_point("Dark Matter");
+set_font_bold();set_font_italic();
+set_font_color("dark red");
+insert_pie_chart([35, 25, 40], ["教学楼", "体育场", "操场"]);
+align_slide_top();
+insert_line_chart([20, 30, 40, 10], ["Year 1", "Year 2", "Year 3", "Year 4"]);
+insert_bar_chart([20, 30, 40, 10], ["1st year", "2nd year", "3rd year", "4th year"]);
+set_background_color("blue");
+
+create_slide();choose_title();insert_text("简介");
+choose_content();insert_text("在本文中，我们探讨了在较长时间内使用多种互补方法如何带来潜力和陷阱，以及复杂性和不确定性。");
+set_font_color("red");
+set_font_size(20);
+set_background_color("light blue");choose_content();set_font_size(40);
+
+choose_content();insert_text("南阳是国家历史文化名城，有着深厚的历史底蕴和丰富的文化积淀。");
+insert_bullet_point("");
+set_font_size(18);set_font_italic();set_font_style("Arial");
+choose_title();insert_text("我的城市-南京");
+insert_picture("Nanjing");align_slide_right();
+create_slide();choose_title();insert_text("目录");insert_note("目录");
+set_font_italic();set_font_size(24);
+choose_content();insert_text("目录是一种全面且具有视觉吸引力的资源，展示各种产品或服务。");
+set_font_color("green");set_background_color("dark blue");
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("产品");choose_table_cell(0, 1);insert_text("价格");choose_table_cell(1, 0);insert_text("衬衫");choose_table_cell(1, 1);insert_text("29.99 美元");choose_table_cell(2, 0);insert_text("连衣裙");choose_table_cell(2, 1);insert_text("59.99 美元")
+insert_pie_chart([40, 30, 30], ["衬衫", "连衣裙", "裤子"]);
+insert_line_chart([40, 30, 30], ["shirt", "dress", "pants"]);
+insert_bar_chart([40, 30, 30], ["shirt", "dress", "pants"]);
+
+choose_title();insert_text("享受幸福生活");
+insert_star();set_top("star","title");
+set_font_style("Arial Black");
+choose_content();insert_text("享受幸福的生活包括在微小的时刻寻找快乐，培养有意义的关系，追求激情，保持健康的工作与生活平衡，以及实践自我保健。");set_line_space(2);
+insert_picture("happy_person");align_top_right_corner();
+set_height(4);set_width(5);align_bottom_left_corner();
+
+choose_table();insert_table(5, 1);choose_table_cell(0, 0);insert_text("完成马拉松");choose_table_cell(1, 0);insert_text("出版第一本书");choose_table_cell(2, 0);insert_text("晋升为经理");choose_table_cell(3, 0);insert_text("志愿服务时间超过 100 小时");choose_table_cell(4, 0);insert_text("开始成功的事业");
+choose_title();insert_text("我在 2023 年的伟大成就");
+choose_content();insert_text("2023年，我实现了超出我预期的非凡里程碑。从完成马拉松到出版我的第一本书并实现晋升，这些成功推动了我进一步成长的动力，并激励我达到甚至更高的高度。");
+insert_picture("book");align_slide_top();
+insert_pie_chart([30, 25, 45], ["马拉松", "书本", "志愿者"]);
+insert_rectangle();set_left("rectangle","chart");
+insert_note("2023");
+
+choose_title();insert_text("《文学伦理批评》");
+set_font_bold();set_font_color("blue");align_slide_bottom();
+insert_picture("mountain_landscape");align_slide_right();
+choose_content();insert_text("文学伦理批评方法是华中师范大学聂振钊教授提出的一种新颖方法。");
+set_font_underline();set_font_style("Times New Roman");set_font_size(24);set_line_space(2);
+set_font_color("dark blue");
+insert_rectangle();align_slide_left();
+set_fill_color("green");insert_text("绿色");
+align_top_right_corner();
+insert_right_arrow();set_right("right_arrow","content");
+
+create_slide();choose_title();insert_text("团队成员");
+insert_picture("team_member");align_slide_bottom();
+set_width(6.5);
+insert_note("队员");choose_title();set_font_bold();
+
+create_slide();choose_title();insert_text("销售业绩");
+set_font_color("blue");set_font_size(24);set_font_underline();set_background_color("green");
+choose_content();insert_text("销售业绩是公司能否成功创收的关键指标。它反映了销售团队的有效性以及产品或服务的整体市场需求。");
+set_font_color("dark red");set_font_size(18);
+insert_table(3, 5);choose_table_cell(1, 1);insert_text("年");choose_table_cell(1, 2);insert_text("四分之一");choose_table_cell(1, 3);insert_text("收入");choose_table_cell(2, 1);insert_text("2018");choose_table_cell(2, 2);insert_text("Q1");choose_table_cell(2, 3);insert_text("50万美元");
+set_font_size(18);
+
+create_slide();choose_title();insert_text("销售报告");
+insert_line_chart(["Product A","Product B","Product C"], ["产品 A", "产品 B", "产品 C"]);
+set_chart_title("Revenue Trend");
+insert_picture("T-shirt");insert_textbox();insert_text("T恤");
+insert_star();set_right("star","picture");
+create_slide();choose_title();insert_text("组织结构");
+insert_table(4,2);choose_table_cell(0,0);insert_text("CEO");choose_table_cell(0,1);insert_text("约翰·史密斯");choose_table_cell(1,0);insert_text("首席财务官");choose_table_cell(1,1);insert_text("简·多伊");choose_table_cell(2,0);insert_text("COO");choose_table_cell(2,1);insert_text("汤姆·琼斯");choose_table_cell(3,0);insert_text("首席营销官");choose_table_cell(3,1);insert_text("莎拉·李");
+choose_title();set_font_underline();move_to_previous_slide();choose_title();set_font_underline();
+set_font_size(20);set_font_color("purple");
+insert_note("「组织架构」");
+set_background_color("green");
+
+create_slide();choose_title();insert_text("简介");
+choose_content();insert_text("感谢您今天加入我们。我们很高兴。");
+insert_text("您在这里，期待与您分享一些令人兴奋的消息。");
+set_font_style("Times New Roman");set_font_size(20);
+insert_picture("landscape");set_height(3);set_width(5);
+insert_triangle();insert_rectangle();set_right("rectangle","triangle");
+set_background_color("purple");insert_note("2023");
+
+choose_title();insert_text("产品发布");set_font_bold();set_font_color("red");
+insert_picture("computer");
+set_height(2);set_width(2);
+choose_content();insert_text("我们的新产品是一款最先进的移动设备，它将最新技术与时尚且用户友好的设计相结合。");
+set_font_bold();set_font_color("red");
+create_slide();choose_title();insert_text("产品功能");
+insert_table(2, 5);choose_table_cell(0, 0);insert_text("特征");choose_table_cell(0, 1);insert_text("描述");
+insert_bar_chart([0.25,0.50,0.25], ["产品A", "产品B", "产品C"]);
+set_chart_title("Feature Importance");
+set_background_color("light blue");insert_note("功能重要性");
+
+create_slide();choose_title();insert_text("季度财务业绩");
+set_font_style("Arial");
+choose_content();insert_text("本季度我们公司实现了 150 万美元的收入和 50 万美元的利润。");
+set_font_bold();set_font_underline();
+insert_table(4, 5);
+choose_table();choose_table_cell(0, 0);insert_text("月份");choose_table_cell(0, 1);insert_text("收入");choose_table_cell(0, 2);insert_text("费用");choose_table_cell(0, 3);insert_text("利润")
+insert_bar_chart([50, 60, 55, 70], ["Q1 2022", "Q2 2022", "Q3 2022", "Q4 2022"]);
+set_chart_title("Quarterly Financial Results in 2022");
+set_background_color("red");
+create_slide();choose_title();insert_text("财务分析");
+insert_picture("company_logo");
+choose_content();insert_text("感谢您的关注！");set_font_underline();set_font_italic();set_font_size(26);
+
+create_slide();choose_title();insert_text("销售数据");
+insert_bar_chart([500000, 400000, 600000, 450000], series=["A 区", "B 区", "C 区", "D 区"]);
+set_chart_title("Regional Sales");
+choose_title();set_font_underline();insert_note("数据来源：2023 年销售报告");
+
+create_slide();choose_title();insert_text("客户调查");
+insert_pie_chart([0.4, 0.3, 0.2, 0.05, 0.05], ["非常满意", "满意", "中立", "不满意", "非常不满意"]);
+align_slide_bottom();
+insert_picture("questionnaire");align_slide_top();
+insert_note("2023/5");
+
+choose_title();insert_text("语言学的魅力");set_background_color("light blue");
+choose_title();set_font_style("Arial");set_font_color("red");set_font_size(36);
+insert_text("语言学是对语言及其结构的科学研究。它探索人类交流的复杂性，从语音和句法到语义和语用。");
+set_font_style("Verdana");set_font_color("yellow");set_font_size(18);set_line_space(2);
+create_slide();choose_title();insert_text("语言学分支");
+insert_table(3, 4);
+choose_table_cell(0, 0);insert_text("语言学分支");choose_table_cell(0, 1);insert_text("描述");choose_table_cell(0, 2);insert_text("示例");choose_table_cell(1, 0);insert_text("语音学");choose_table_cell(1, 1);insert_text("语音的研究");choose_table_cell(1, 2);insert_text("发音语音学、声学语音学、听觉语音学")
+insert_picture("book_about_linguistics");align_slide_bottom();
+set_height(6);set_width(5);
+move_to_slide(0);set_background_color("purple");move_to_slide(1);set_background_color("purple");
+
+set_background_color("light green");choose_title();insert_text("Language Families");
+set_font_bold();set_font_italic();
+insert_bar_chart([445, 1526,1290, 452], ["印欧语", "尼日尔刚果语", "南岛语", "汉藏语"]);
+set_chart_title("Language familiy and its number of languages");
+create_slide();choose_title();insert_text("语言习得");set_font_bold();set_font_italic();
+choose_content();insert_text(" ");
+set_font_style("Times New Roman");set_font_color("red");set_font_size(22);
+set_font_underline();set_font_bold();choose_title();set_font_color("red");
+insert_picture("English book");
+insert_rectangle();align_slide_right();
+choose_picture();align_slide_top();
+
+create_slide();choose_title();insert_text("结论");
+choose_title();set_font_style("bold");set_font_style("underline");set_font_color("red");
+choose_content();insert_text("");
+set_font_style("Verdana");set_font_color("yellow");
+create_slide();set_background_color("purple");create_slide();set_background_color("purple");create_slide();set_background_color("purple");create_slide();set_background_color("purple");
+move_to_slide(1);choose_title();insert_text("中国房地产政策概述");insert_picture("China_map");
+move_to_slide(2);choose_title();insert_text("最近的更改");set_font_style("italic");set_font_style("Verdana");
+choose_content();insert_text("中国最近的变化见证了经济的快速增长、技术进步和社会变革，使中国成为全球强国，并在各个领域影响着全球动态。");
+move_to_slide(3);choose_title();insert_text("努力控制房价");insert_triangle();
+align_top_right_corner();
+move_to_slide(4);choose_title();insert_text("增加经济适用住房的举措");set_font_color("red");
+choose_content();insert_text("增加经济适用住房的举措已经实施，包括政府补贴、简化审批程序和公私伙伴关系，旨在解决住房负担能力危机，确保所有人都能获得体面的住房。");set_font_underline();set_font_italic();
+choose_chart();insert_pie_chart([0.35, 0.25, 0.20, 0.10, 0.10], ["政府补贴", "简化审批流程", "公私合作", "土地使用政策", "租金援助计划"]);
+create_slide();choose_title();insert_text("《房地产开发商的监管》。");insert_note("《房地产开发商的监管》。");
+choose_content();insert_text("在此幻灯片中，简要介绍中国监管房地产开发商的主要措施以及政府为防止欺诈和促进可持续发展实践而采取的行动。");
+choose_title();set_font_italic();choose_content();set_font_bold();
+move_to_slide(0);insert_note("《关于中国的信息》");move_to_slide(1);insert_note("《关于中国的信息》");move_to_slide(2);insert_note("《关于中国的信息》");move_to_slide(3);insert_note("《关于中国的信息》");move_to_slide(4);insert_note("《关于中国的信息》");move_to_slide(5);insert_note("《关于中国的信息》");
+
+move_to_slide(8);choose_title();insert_text("医学影像设备前沿发展");choose_title();set_font_size(24);
+insert_line_chart([0.15, 0.12, 0.18, 0.20], ['Q1', 'Q2', 'Q3', 'Q4']);
+choose_chart();set_chart_title("Revenue Growth");
+insert_table(5, 2);choose_table_cell(0, 0);insert_text("「特点1」");choose_table_cell(0, 1);insert_text("高分辨率成像");
+set_background_color("light blue");
+insert_triangle();
+choose_content();insert_text("医疗成像设备的前沿发展正在通过高分辨率成像、先进的人工智能算法、实时数据分析、增强的患者舒适度、多模态集成和简化的工作流程彻底改变医疗保健，为医疗专业人员提供前所未有的诊断能力。");
+set_font_bold();set_line_space(2);set_font_underline();set_font_italic();
+insert_note("医疗设备");
+
+set_background_color("blue");insert_rectangle();
+create_slide();choose_title();insert_text("人类学的方法和途径");set_font_size(20);
+choose_content();insert_text("人类学是一门社会科学，利用各种研究方法研究人类行为、文化和社会。");set_line_space(2);
+insert_circle();align_slide_right();
+set_width(4);
+
+create_slide();choose_title();insert_text("适当补水的重要性");
+set_font_style("underline");set_font_style("italic");
+set_font_size(24);set_font_style("Arial");
+insert_picture("person_drinking_water");align_slide_right();
+set_width(6.5);insert_textbox();insert_text("《喝水》");set_bottom("textbox", "picture");
+set_background_color("purple");create_slide();set_background_color("purple");
+insert_picture("folder");set_width(6.5);set_height(5.5);
+choose_title();insert_text("使用 SmartArt 的好处");set_font_color("red");set_font_size(40);
+set_font_style("Arial");set_font_style("italic");
+
+choose_title();insert_text("打造您的品牌");set_background_color("light green");
+choose_content();insert_text("建立品牌是任何成功企业的关键组成部分。将字体样式设置为");set_font_style("Arial");set_font_size(14);
+insert_rectangle();align_slide_right();
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("品牌标识");choose_table_cell(0, 1);insert_text("品牌消息");choose_table_cell(0, 2);insert_text("品牌声音");choose_table_cell(0, 3);insert_text("品牌策略")
+choose_table();copy_table()
+choose_content();set_font_size(14);set_font_style("Times New Roman");
+
+create_slide();choose_title();insert_text("有效沟通的基础");set_font_style("Times New Roman");
+choose_content();insert_text("要点");insert_text("说明");
+set_font_size(24);set_font_underline();set_font_bold();
+set_background_color("light orange");
+
+set_background_color("light blue");
+choose_title();insert_text("《腾讯会议》");choose_content();insert_text("《腾讯会议》");
+set_font_underline();set_font_color("dark red");
+choose_content();delete_text();insert_text("腾讯会议是一个功能强大的视频会议平台，可以实现团队和个人之间的无缝协作和沟通。它提供了一系列用于有效虚拟会议的功能，包括屏幕共享、聊天和录制。");
+set_font_bold();set_font_italic();choose_title();set_font_bold();set_font_italic();
+insert_picture("tencent_meeting");
+
+insert_table(2, 3);
+choose_table_cell(0, 0);insert_text("功能");choose_table_cell(0, 1);insert_text("说明");choose_table_cell(0, 2);insert_text("优点")
+insert_note("APP");set_background_color("purple");
+
+set_background_color("blue");choose_title();insert_text("质量评估");
+choose_content();insert_text("质量评估是评估产品或服务的性能和标准的关键过程。它涉及彻底的分析、测量和比较，以确保遵守质量基准和持续改进。");
+insert_picture("checklist");
+set_left("picture","content");
+insert_pie_chart([0.40, 0.15, 0.25, 0.20], ["优秀", "良好", "一般", "较差"]);
+set_chart_title("Quality Ratings Distribution");
+align_slide_bottom();
+create_slide();insert_pie_chart([0.40, 0.15, 0.25, 0.20], ["Excellent", "Good", "Fair", "Poor"]);set_chart_title("Quality Ratings Distribution");align_slide_bottom();
+
+create_slide();choose_title();insert_text("完成项目指南");
+insert_right_arrow();align_top_right_corner();
+rotate_element(90);
+move_to_slide(0);choose_title();insert_text("Introduction");set_font_bold();move_to_slide(1);choose_title();set_font_bold();
+move_to_slide(0);insert_note("2022/6/10");
+set_background_color("light blue");insert_cloud();
+
+set_background_color("yellow");
+choose_content();insert_text("Trados Studio 是 SDL 开发的一款功能强大的计算机辅助翻译 (CAT) 工具。它提供了一系列可简化翻译流程的特性和功能，包括翻译记忆库、术语管理，以及项目管理工具。");set_line_space(2);
+insert_note("由 Eva 创建");choose_title();insert_text("Trados Studio");
+set_font_color("dark green");set_font_size(30);
+insert_picture("Trados_Studio_logo");align_slide_right();
+set_width(4);set_height(3);
+choose_picture();rotate_element(-15);
+set_background_color("purple");
+
+insert_table(2, 3);
+choose_table();insert_table_row(["年份", "说明", "更改"])
+choose_title();insert_text("过去十年的巨大变化");
+set_font_bold();set_font_italic();
+set_background_color("light blue");
+
+choose_title();insert_text("您应该考虑出国留学吗？");set_font_bold();set_font_underline();
+insert_picture("students_studying_abroad");align_slide_bottom();
+set_width(5);set_height(3);
+set_background_color("purple");insert_note("你应该考虑出国留学吗？");
+
+insert_bar_chart([0.45,0.35,0.20], ["全职译员", "自由职业者", "翻译机构"]);
+set_chart_title("Trados Studio Usage Statistics");
+create_slide();choose_title();insert_text("ABBYY FineReader");
+set_font_bold();set_font_underline();set_font_size(30);
+choose_content();insert_text("ABBYY FineReader 是一款光学字符识别 (OCR) 软件，允许用户将扫描文档、PDF 文件和图像转换为可编辑和可搜索的格式。凭借先进的文本识别和文档转换功能，它简化文档处理并提高生产力。");
+set_line_space(2);set_font_italic();
+insert_picture("ABBYY_FineReader_logo");insert_textbox();insert_text("ABBYY FineReader");
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("功能");choose_table_cell(0, 1);insert_text("说明");choose_table_cell(0, 2);insert_text("优点")
+choose_picture();set_right("picture","table");
+insert_pie_chart([0.45,0.45,0.05], ["High Precision", "Medium Precision", "Low Precision"]);
+set_chart_title("Document Conversion Accuracy");
+insert_note("第 2 页");
+
+create_slide();choose_title();insert_text("营销活动");
+set_font_bold();set_font_underline();set_font_size(26);
+choose_content();insert_text("我们的营销活动旨在提高品牌知名度，与目标受众互动并推动销售。通过线上和线下营销渠道的战略组合，我们专注于提供有影响力的信息和可衡量的结果");
+align_slide_left();
+insert_picture("promotional_banner");insert_textbox();insert_text("促销横幅");
+set_width(5);set_height(5);
+set_background_color("green");
+
+choose_title();insert_text("可持续能源");set_font_color("red");
+insert_picture("wind_turbine");set_width(6);
+insert_table(4, 3);choose_table_cell(0,0);insert_text("风");choose_table_cell(1,0);insert_text("太阳的");choose_table_cell(2,0);insert_text("水电");choose_table_cell(3,0);insert_text("地热");choose_table_cell(0,1);insert_text("低成本");choose_table_cell(1,1);insert_text("环境影响低");choose_table_cell(2,1);insert_text("高可用性");choose_table_cell(0,2);insert_text("初始投资高");choose_table_cell(1,2);insert_text("间歇性可用性");choose_table_cell(2,2);insert_text("土地使用冲突");
+set_top("picture", "table");
+create_slide();choose_title();insert_text("Online Shopping");set_font_color("red");
+choose_content();insert_text("网上购物是通过互联网从商家处购买商品和服务的过程。由于其便利性和可访问性，它已变得越来越流行。");
+choose_title();set_font_color("blue");set_font_bold();set_line_space(2);
+create_slide();insert_picture("TV_series");set_width(6);
+set_background_color("blue");insert_note("关于电视剧");
+
+choose_title();insert_text("健康饮食习惯");set_background_color("dark blue");
+choose_content();insert_text("按播放开始视频");set_font_style("Verdana");
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("食物组");choose_table_cell(0, 1);insert_text("推荐份量")
+align_slide_bottom();
+insert_picture("laptop");
+insert_rectangle();set_height(2);
+rotate_element(-45);
+
+choose_content();insert_text("总之，电视服务彻底改变了我们消费娱乐的方式，提供了广泛的内容选择和便利。");
+set_font_style("Futura");
+choose_title();insert_text("结论");set_font_bold();
+insert_picture("colorful_plate");
+align_slide_bottom();
+set_background_color("green");
+
+create_slide();set_background_color("purple");
+choose_title();insert_text("缺点");
+set_font_bold();set_font_size(24);set_font_style("Arial");
+insert_note("2023/3/9");
+insert_pie_chart([0.30, 0.25, 0.15, 0.5, 0.25], ["水果", "蔬菜", "谷物", "蛋白质", "乳制品"]);
+align_slide_bottom();
+insert_textbox();insert_text("吃太多食物的坏处是它会让你发胖。");set_bottom("textbox", "chart");
+choose_chart();set_chart_title("Daily Food Group Servings");
+
+insert_right_arrow();set_width(3.5);
+rotate_element(-90);
+align_slide_right();
+
+choose_title();insert_text("技术趋势");set_font_underline();
+set_font_color("green");set_font_size(26);
+choose_content();insert_text("在当今快速发展的数字环境中，跟上最新的技术趋势至关重要。从人工智能和区块链到云计算和物联网，这些趋势正在塑造行业并彻底改变我们的方式生活、工作并与世界联系。");
+set_background_color("green");
+insert_picture("interconnected_networks");
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("技术趋势");choose_table_cell(0, 1);insert_text("描述");choose_table_cell(0, 2);insert_text("影响")
+insert_line_chart([15,10,7,6,24], ["移动设备", "互联网用户", "人工智能应用", "云服务", "智能家居设备"]);
+set_chart_title("Technology Values");
+insert_pie_chart([15,10,7,6,24], ["Mobile Devices", "Internet Users", "AI Applications", "Cloud Services", "Smart Home Devices"]);set_chart_title("Technology Values");
+
+set_background_color("green");
+choose_title();insert_text("可持续生活");set_font_italic();
+insert_picture("solar_panel");align_slide_left();
+choose_content();insert_text("可持续生活促进负责任的消费、可再生能源和生态友好的做法，以保护环境并确保子孙后代拥有更美好的未来。通过在日常生活中做出有意识的选择，我们可以减少我们的碳足迹并创造一个更加可持续的世界。");
+set_font_color("dark orange");
+insert_line_chart([1.6, 2.4, 4.8, 11], ["2013年", "2014年", "2015年", "2016年"]);
+set_chart_title("Renewable Energy Consumption Trend");
+set_bottom("chart","title");
+insert_cloud();rotate_element(-30);
+
+insert_table(3, 4);
+choose_table_cell(0,0);insert_text("均衡饮食");choose_table_cell(1,0);insert_text("份量控制");choose_table_cell(2,0);insert_text("水分");
+insert_picture("green_city");
+align_slide_top();
+choose_table();align_slide_bottom();
+
+choose_title();insert_text("项目管理");
+insert_picture("team");
+choose_title();set_font_underline();set_font_italic();
+choose_picture();align_top_left_corner();
+
+create_slide();choose_title();insert_text("项目进度报告");
+insert_table(5, 3);choose_table_cell(0, 0);insert_text("任务名称");choose_table_cell(0, 1);insert_text("截止日期");choose_table_cell(0, 2);insert_text("进度状态")
+set_background_color("purple");choose_title();set_font_color("green");
+
+choose_title();insert_text("大学和专业学校");
+set_font_size(36);set_font_underline();
+choose_content();insert_text("大学和专业学校提供高等教育和专业培训，使学生具备成功职业生涯所需的知识和技能。这些机构提供广泛的学术课程、研究机会和专业发展，以帮助学生获得成功的职业生涯。");
+set_line_space(2);
+set_background_color("purple");
+
+insert_picture("professional_school");
+align_slide_right();
+insert_triangle();align_slide_left();
+set_width(10);set_height(15);
+set_bottom("picture","triangle");
+
+create_slide();set_background_color("blue");
+choose_title();insert_text("NFC");set_font_bold();
+choose_content();insert_text("NFC（近场通信）可实现近距离设备之间的无缝无线通信。");
+set_font_color("dark green");set_font_size(20);
+insert_picture("nfc_logo");
+set_background_color("purple");
+choose_picture();set_right("picture","slide");
+
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("产品");choose_table_cell(0, 1);insert_text("收入");choose_table_cell(0, 2);insert_text("销售数量");choose_table_cell(0, 3);insert_text("利润率");choose_table_cell(1, 0)
+set_background_color("light blue");
+
+insert_line_chart([500000, 1300000, 2500000, 4000000], series=["2018年", "2019年", "2020年", "2021年"]);
+set_chart_title("NFC Device Growth");
+insert_table(2, 3);choose_table_cell(1, 0);insert_text("非接触式");choose_table_cell(1, 1);insert_text("实现触摸式交易");choose_table_cell(1, 2);insert_text("支付方便快捷")
+insert_star();set_width(6.5);set_height(6.5);
+align_slide_top();
+align_slide_right();
+
+choose_title();insert_text("拥抱颠覆");set_font_bold();
+set_font_size(20);set_font_style("Times New Roman");
+insert_picture("futuristic_cityscape");
+align_slide_bottom();
+insert_note("由[您的名字]创建");set_background_color("purple");
+set_background_color("light blue");
+
+choose_title();insert_text("Power Bank");align_top_left_corner();
+set_font_size(24);set_font_italic();
+choose_content();insert_text("移动电源是一种便携式设备，可为智能手机、平板电脑和其他电子设备提供移动充电。");
+set_font_underline();set_line_space(2);set_font_size(24);set_font_color("orange");
+insert_picture("yoobao_power_bank");align_slide_bottom();
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("品牌");choose_table_cell(0, 1);insert_text("容量 (mAh)");choose_table_cell(0, 2);insert_text("输出端口");choose_table_cell(0, 3);insert_text("价格 ($)")
+insert_pie_chart([0.40, 0.30, 0.20, 0.10], ["A品牌", "B品牌", "C品牌", "其他"]);
+set_chart_title("Power Bank Market Share");
+insert_note("2023");
+insert_callout();align_slide_right();
+
+choose_title();insert_text("NBA");set_font_color("red");
+choose_content();insert_text("美国国家篮球协会 (NBA) 是一个由北美 30 支球队组成的职业篮球联盟。");
+set_font_size(20);
+align_bottom_left_corner();
+
+insert_picture("basketball_court");
+align_slide_top();
+insert_textbox();insert_text("「篮球场」");set_background_color("blue");
+insert_table(4,3);
+choose_table();insert_table_row(["球队", "城市", "冠军"]);insert_table_row(["洛杉矶", "湖人队", "17"]);insert_table_row(["波士顿", "凯尔特人队", "17"]);insert_table_row(["芝加哥", "公牛队", "6"])
+insert_bar_chart([17, 17, 6], ["Lakers", "Celtics", "Bulls"]);
+set_chart_title("NBA Championships Distribution");
+create_slide();choose_title();insert_text("自动驾驶简介");set_font_underline();
+insert_picture("futuristic_self-driving_car");set_height(7);
+choose_content();insert_text("自动驾驶，也称为自动驾驶或无人驾驶技术，是指无需人工输入即可进行导航和操作的车辆。");
+align_bottom_left_corner();
+insert_right_arrow();set_left("right_arrow", "content");
+set_right("right_arrow", "content");
+
+choose_content();insert_text("自动驾驶通过提供增强的安全性、便利性和效率，正在彻底改变交通运输业。");
+set_font_size(18);set_font_bold();set_font_italic();
+set_font_underline();set_line_space(2);
+insert_table(2, 5);choose_table_cell(0, 0);insert_text("传感器类型");choose_table_cell(0, 1);insert_text("激光雷达");choose_table_cell(0, 2);insert_text("雷达");choose_table_cell(0, 3);insert_text("相机");choose_table_cell(0, 4);insert_text("总计")
+choose_content();set_font_style("Times New Roman");
+insert_pie_chart([0.40, 0.30, 0.30], ["Lidar", "Radar", "Cameras"]);
+set_chart_title("Sensor Types in Autonomous Driving");
+insert_note("《自动驾驶中的传感器类型》");
+
+choose_title();insert_text("自动驾驶");
+insert_picture("company_logo");align_bottom_left_corner();
+set_width(6.5);set_height(6);
+create_slide();choose_title();insert_text("按地区划分的自动驾驶采用情况");
+set_font_style("Calibri");set_font_size(32);
+choose_content();insert_text("自动驾驶技术正在改变交通格局，彻底改变行业，并提高安全性和效率。");
+set_font_color("dark orange");
+
+create_slide();choose_title();insert_text("种植的力量。");set_font_style("Calibri");set_font_size(36);
+set_background_color("green");
+choose_content();insert_text("种植不仅可以美化我们的环境，还可以促进环境的可持续性并提供多种健康益处。");
+set_font_color("green");choose_title();set_font_color("green");
+insert_picture("lush_garden");
+insert_pie_chart([0.40, 0.30, 0.30], ["环境", "健康", "社区"]);
+set_chart_title("Planting Benefits");
+set_bottom("chart", "picture");
+insert_right_arrow();rotate_element(60);
+set_height(2);set_width(4);insert_note("第 2 页");
+
+insert_table(3, 4);
+choose_table();insert_table_row(["种植效益", "环境", "健康", "社区"])
+set_background_color("green");
+choose_title();insert_text("其他信息");
+set_font_color("dark orange");set_font_underline();
+choose_title();align_top_left_corner();
+
+insert_picture("GoogleLogo");insert_textbox();insert_text("谷歌");
+choose_content();insert_text("Google 和 Microsoft Edge 是两种流行的网络浏览器，它们提供独特的特性和功能。虽然 Google Chrome 凭借其速度和广泛的生态系统在市场上占据主导地位，但 Microsoft Edge 的目标是提供无缝的浏览体验和紧密的网络连接。");
+set_font_size(16);
+choose_title();insert_text("Google vs Microsoft Edge");set_font_color("red");
+choose_picture();align_bottom_left_corner();
+insert_table(3, 3);choose_table_cell(0, 0);insert_text("功能");choose_table_cell(0, 1);insert_text("Google Chrome");choose_table_cell(0, 2);insert_text("Microsoft Edge");choose_table_cell(1, 0);insert_text("速度");choose_table_cell(1, 1);insert_text("高");choose_table_cell(1, 2);insert_text("中等");choose_table_cell(2, 0);insert_text("生态系统");choose_table_cell(2, 1);insert_text("广泛");choose_table_cell(2, 2);insert_text("集成")
+insert_bar_chart([0.50, 0.25, 0.25], ["Google Chrome", "Microsoft Edge", "Others"]);
+set_chart_title("Web Browser Market Share");insert_note("第 1 页");
+
+set_background_color("blue");choose_title();insert_text("网络和 LinkedIn");
+choose_content();insert_text("网络在职业发展中发挥着至关重要的作用，LinkedIn 是专业网络的强大平台。LinkedIn 在全球拥有数百万用户，提供了一系列功能来与专业人士联系、展示技能和发现工作机会。");
+choose_title();set_font_color("dark red");choose_content();set_font_color("light red");
+choose_title();set_font_style("Arial");choose_content();set_font_style("Arial");
+choose_title();set_font_underline();choose_content();set_font_italic();set_font_size(24);
+insert_pie_chart([0.30,0.20,0.15,0.10,0.25], ["科技", "金融", "医疗保健", "营销", "其他"]);
+set_chart_title("LinkedIn User Distribution");
+insert_line_chart([0.30,0.20,0.15,0.10,0.25],["Technology", "Finance", "Healthcare", "Marketing", "Others"]);
+insert_bar_chart([0.30,0.20,0.15,0.10,0.25],["Technology", "Finance", "Healthcare", "Marketing", "Others"]);
+
+create_slide();choose_title();insert_text("不同的炊具");
+choose_content();insert_text("有多种类型的炊具可以满足不同的烹饪需求。从传统炉灶到先进的电炊具和现代电磁炉，每种类型都具有独特的功能和优点。");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("炊具类型");choose_table_cell(0, 1);insert_text("功能");choose_table_cell(0, 2);insert_text("优点");choose_table_cell(1, 0);insert_text("炉灶");choose_table_cell(1, 1);insert_text("燃气或电燃烧器");choose_table_cell(1, 2);insert_text("精确控制热量")
+insert_pie_chart([0.40, 0.25, 0.20, 0.10, 0.5], ["炉灶", "电饭锅", "电磁炉", "慢炖锅", "空气炸锅"]);
+set_chart_title("Cooker Type Popularity");
+insert_picture("stovetop");
+set_width(7);set_height(6);
+align_slide_right();
+align_slide_left();
+move_to_slide(0);set_background_color("green");
+
+choose_title();insert_text("发现奥利奥的乐趣");
+set_font_bold();set_font_italic();
+set_font_size(30);
+choose_content();insert_text("奥利奥，标志性的夹心饼干，一直是各个年龄段人们最喜爱的美食。凭借其令人难以抗拒的巧克力华夫饼和奶油馅料的组合，奥利奥提供了令人愉悦的零食体验，为每个人带来欢乐咬。");
+set_font_color("dark blue");
+insert_picture("Oreo");
+align_top_right_corner();
+insert_star();align_top_left_corner();
+insert_pie_chart([0.40,0.10,0.50], ["Original", "Mint", "Peanut Butter"]);insert_line_chart([0.40,0.10,0.50],["Original","Mint","Peanut Butter"]);
+insert_bar_chart([0.40,0.10,0.50],["Original","Mint","Peanut Butter"]);set_chart_title("Oreo Flavor Popularity");
+
+set_background_color("purple");
+choose_title();insert_text("季节性变化");set_font_bold();set_font_italic();
+choose_content();insert_text("季节的变化给我们的生活带来了独特的魅力。从春天的鲜艳色彩到夏天的温暖色调，到秋天的温馨氛围，到冬天的宁静风景，每个季节都有独特的体验。全年拥抱自然变化之美。");
+set_font_style("Arial");set_font_size(18);
+insert_table(4, 4);choose_table_cell(0, 0);insert_text("季节");choose_table_cell(0, 1);insert_text("平均温度");choose_table_cell(0, 2);insert_text("主要特征");choose_table_cell(0, 3);insert_text("活动")
+insert_callout();align_slide_left();
+
+choose_title();insert_text("广东天气：气候多样性");
+align_top_left_corner();
+choose_content();insert_text("广东省全年天气状况变化多端。从温暖晴朗的日子到偶尔降雨、早晨起雾、天空多云，广东的气候变化多端。探索这个充满活力的地区的不同季节和天气模式。");set_line_space(2);
+insert_picture("beach");align_top_right_corner();
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("季节");choose_table_cell(0, 1);insert_text("平均温度");choose_table_cell(1, 0);insert_text("弹簧");choose_table_cell(1, 1);insert_text("20-28℃")
+set_background_color("purple");
+choose_table();align_slide_bottom();
+insert_cloud();align_slide_left();
+
+insert_picture("sunrise");
+set_width(6);set_height(6);
+choose_title();insert_text("积极思考的力量：拥抱乐观");set_font_italic();set_font_bold();
+choose_content();insert_text("积极思考是一种注重乐观、坚韧和自信的心态。通过培养积极的思想和态度，我们可以增强幸福感，克服挑战，创造更幸福、更充实的生活。拥抱积极思考的力量，释放你真正的潜力。");set_font_italic();set_font_bold();
+set_font_color("purple");set_font_size(20);
+insert_note("积极思考");
+
+insert_table(4, 3);choose_table();choose_table_cell(0, 0);insert_text("优点");choose_table_cell(0, 1);insert_text("说明");choose_table_cell(0, 2);insert_text("示例");choose_table_cell(1, 0);insert_text("改善健康")
+choose_content();insert_text("积极思考是一种注重乐观、坚韧和自信的心态。通过培养积极的思想和态度，我们可以增强我们的幸福感，克服挑战，创造一个更快乐和更幸福的生活。");
+set_font_italic();set_font_color("light blue");
+set_background_color("light green");
+choose_title();insert_text("定义");set_font_bold();
+align_top_left_corner();
+insert_picture("laugh");align_slide_right();
+
+choose_title();insert_text("垃圾分类：促进废物可持续管理");choose_content();insert_text("垃圾分类是促进废物可持续管理的重要实践。通过正确分类和处置废物，我们可以减少环境污染，节约资源，为一个更清洁、更健康的地球做出贡献。承担垃圾分类的责任，对我们的环境产生积极影响。");
+set_font_color("orange");set_font_underline();
+set_font_size(18);
+choose_title();set_font_style("Times New Roman");choose_content();set_font_style("Times New Roman");
+insert_right_arrow();align_bottom_right_corner();
+set_width(4.0);set_height(3.0);
+rotate_element(-90);
+insert_bar_chart([60, 50, 45, 40, 40], series=["纸张", "塑料", "玻璃", "金属", "有机废物"]);set_chart_title("Waste Material Recycling Rates.");
+insert_picture("recycling_bin");
+create_slide();set_background_color("purple");
+choose_title();insert_text("有机废物");set_font_size(18);
+choose_content();insert_text("有机废物在可持续生活中发挥着重要作用。通过堆肥食物残渣、庭院废物和农业残留物等有机材料，我们可以减少垃圾填埋场废物，丰富土壤质量并闭合养分循环.拥抱堆肥实践，为更绿色的未来做出贡献。");
+
+create_slide();choose_title();insert_text("Oldroyd's film of Lady Macbeth");set_font_bold();
+set_font_size(28);set_font_underline();
+choose_content();insert_text("伯奇的剧本对莱斯科夫的叙述进行了一些重大改变。例如，伯奇和奥德罗伊德完全消除了西伯利亚情节，并选择删除凯瑟琳的自杀。");
+set_font_size(20);set_font_bold();
+choose_title();set_font_color("red");choose_content();set_font_color("yellow");
+insert_picture("Lady Macbeth");
+set_width(8);set_height(8);
+set_right("picture","content");
+set_left("picture","content");
+insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("电影角色");choose_table_cell(0, 1);insert_text("演员");choose_table_cell(1, 0);insert_text("麦克白夫人");choose_table_cell(1, 1);insert_text("弗洛伦斯·皮尤");choose_table_cell(2, 0);insert_text("麦克白");choose_table_cell(2, 1);insert_text("科斯莫·贾维斯")
+insert_note("5 月 1 日");
+set_background_color("purple");
+
+create_slide();choose_title();insert_text("锻炼的重要性");set_font_underline();
+set_font_size(24);set_font_color("green");
+choose_content();insert_text("定期锻炼可以改善心血管健康、改善情绪并提高能量水平。");
+set_font_size(20);set_font_bold();
+set_font_color("red");
+insert_picture("exercise");
+insert_pie_chart([0.10,0.30,0.50,0.10], ["心血管健康", "肌肉力量", "心理健康", "疾病预防"]);
+insert_table(5,2);choose_table_cell(0,0);insert_text("「运动类型」");choose_table_cell(0,1);insert_text("好处");
+set_right("table","picture");
+insert_star();set_background_color("purple");
+align_bottom_left_corner();
+set_width(8);set_height(4);
+
+create_slide();choose_title();insert_text("阅读的好处");set_font_size(24);set_font_underline();
+choose_content();insert_text("阅读可以改善认知功能、增强同理心并减轻压力。");
+set_font_bold();set_font_italic();
+set_font_style("Arial");set_font_color("green");
+insert_picture("person_reading");
+insert_bar_chart([1400, 992, 400, 661, 234], ["小说", "非小说", "传记", "自助", "奇幻"]);
+set_chart_title("Book sales");
+insert_table(3, 3);
+choose_table_cell(0, 0);insert_text("《读书的好处》");choose_table_cell(1, 0);insert_text("「知识提升」");choose_table_cell(2, 0);insert_text("词汇扩展");
+set_background_color("red");
+insert_note("读书");
+create_slide();set_background_color("red");insert_picture("clock");
+set_width(10);set_height(15);
+insert_note("关于阅读");
+
+create_slide();choose_title();insert_text("志愿服务的好处");set_font_underline();
+choose_title();set_font_color("dark red");set_font_size(30);
+choose_content();insert_text("志愿服务可以增加幸福感、提高社交技能并提供使命感。");
+set_font_color("green");
+set_font_bold();set_font_size(18);
+align_bottom_left_corner();
+insert_picture("volunteers");
+align_bottom_left_corner();
+insert_table(3, 3);choose_table_cell(0, 0);insert_text("好处");choose_table_cell(1, 0);insert_text("个人成长");choose_table_cell(2, 0);insert_text("社会关系");
+choose_content();set_font_bold();set_font_size(20);
+insert_bar_chart([25, 45, 10, 15, 5], ["数据", "社区服务", "教育", "医疗保健", "环境保护", "救灾"]);
+set_chart_title("Volunteergin Importance");
+
+set_background_color("purple");
+choose_title();insert_text("CAJ 格式");set_font_underline();set_font_italic();
+set_font_color("purple");
+choose_content();insert_text("CAJ格式是在中国广泛使用的学术论文和研究文档的文件格式。它为高效共享和发布提供了标准化的结构和布局。");
+set_line_space(2);
+set_font_style("Arial");set_font_bold();
+set_font_color("green");
+align_slide_top();
+insert_picture("sample_caj");
+align_top_right_corner();
+insert_table(2,3);
+choose_table_cell(0, 0);insert_text("部分");choose_table_cell(0, 1);insert_text("标题");choose_table_cell(0, 2);insert_text("内容")
+create_slide();insert_bar_chart([30, 25, 20, 15, 10], ["CAJ", "PDF", "DOC", "PPT", "XLS"]);
+set_chart_title("File Format Usage");
+insert_note("文件格式");set_background_color("purple");
+
+choose_content();insert_text("写日记可以减轻压力、提高记忆力并增强自我意识。");
+set_font_underline();set_font_size(18);set_font_color("purple");
+choose_title();insert_text("Journaling");
+set_font_italic();set_font_style("Arial");
+insert_picture("person_writing");
+align_slide_bottom();
+insert_star();align_slide_right();
+rotate_element(60);
+
+create_slide();choose_title();insert_text("园艺的好处");set_font_size(28);set_font_bold();
+choose_content();insert_text("园艺可以减轻压力，改善身体健康，并提高创造力。");
+set_font_italic();set_font_style("Arial");
+insert_cloud();align_slide_right();
+set_left("cloud","title");
+insert_picture("person_working_in_garden");set_width(10);
+create_slide();set_background_color("light blue");
+insert_triangle();align_slide_left();
+set_height(15);rotate_element(45);
+
+create_slide();choose_title();insert_text("IT 公司");
+set_font_style("Times");set_font_bold();set_font_size(32);
+insert_picture("Apple Company Logo");set_height(2);set_width(2);
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("2020");choose_table_cell(0, 1);insert_text("2021");choose_table_cell(0, 2);insert_text("2022");choose_table_cell(1, 0);insert_text("274B");choose_table_cell(1, 1);insert_text("365B");choose_table_cell(1, 2);insert_text("394B")
+

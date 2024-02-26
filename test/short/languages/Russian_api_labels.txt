@@ -1,0 +1,1877 @@
+choose_title();align_bottom_left_corner();insert_text("Оценка человека");
+choose_content();insert_text("Как правило, перевод оценивается анонимно несколькими рецензентами, а затем окончательная оценка выставляется путем объединения результатов оценки всех рецензентов");
+insert_table(2, 2);
+choose_table_cell(0, 0);insert_text("Преимущества");choose_table_cell(1, 0);insert_text("Недостатки");choose_table_cell(0, 1);insert_text("Точно отражать качество перевода предложений, самый авторитетный, самый высокий авторитет");choose_table_cell(1, 1);insert_text("Долговременная оценка");
+choose_content();set_font_size(20);set_font_style("Arial");
+insert_picture('coffee');align_slide_left();
+align_slide_right();
+create_slide();choose_title();insert_text("Стандарт оценки");choose_content();insert_text("Прямая оценка");insert_text("Относительное ранжирование");
+choose_title();set_font_color("green");choose_content();insert_bullet_point("");insert_bullet_point("");
+choose_title();set_font_size(24);choose_content();set_font_size(20);
+
+insert_picture('tower');align_slide_bottom();
+choose_title();insert_text("Содержание");set_top("title","picture");
+insert_rectangle();set_fill_color("green");
+choose_title();set_font_color("green");
+set_font_size(24);
+set_font_style("Arial");set_font_size(48);
+set_font_style("Microsoft New Tai Lue");
+
+set_background_color("green");
+insert_cloud();align_slide_bottom();
+choose_content();insert_text("Ты так медленно бегаешь");
+insert_picture('rabbit');align_slide_right();
+choose_content();insert_text("Однажды кролик и черепаха соревнуются");
+create_slide();choose_content();insert_text("Однажды я выиграю");align_slide_top();
+
+insert_picture('study');align_slide_center();
+insert_rectangle();align_slide_center();
+choose_title();insert_text("Лига легенд");choose_content();insert_text("League of Legends — это командная игра, в которой участвуют более 140 чемпионов, с которыми можно сыграть в эпическую игру. Играйте сейчас бесплатно. Играйте бесплатно");
+choose_title();set_font_style("Times New Roman");set_font_size(24);
+choose_picture();set_width(6);set_height(5);
+rotate_element(15);
+create_slide();insert_picture('boy_holding_book');
+align_slide_center();
+choose_title();insert_text("Как лучше учиться в школе");
+
+insert_cloud();align_slide_left();
+insert_picture("clock");align_slide_right();
+set_background_color("light blue");choose_title();insert_text("Искусственный интеллект");
+choose_content();insert_text("Влияние искусственного интеллекта на общество широко обсуждается. Многие утверждают, что ИИ улучшает качество повседневной жизни, выполняя рутинные и даже сложные задачи лучше, чем люди, делая жизнь проще, безопаснее и эффективнее. . ");
+set_font_color("light green");
+
+create_slide();choose_title();insert_text("Расписание на март");set_font_color("red");
+set_font_size(28);set_font_color("dark blue");
+insert_table(1, 3);choose_table_cell(0, 0);insert_text("учеба с 1-го по 10-е");choose_table_cell(0, 1);insert_text("работа с 11-го по 20-е");choose_table_cell(0, 2);insert_text("путешествие с 21-го по 31-е");
+choose_title();set_font_style("Arial");
+insert_picture('happy_boy');set_right("picture","table");
+set_background_color("blue");
+choose_picture();set_width(6.5);set_height(5);
+set_background_color("yellow");
+
+create_slide();choose_title();insert_text("Преимущества медитации");
+insert_picture('meditation');align_slide_center();
+choose_content();insert_text("Медитация — это простая, но мощная техника, которая может помочь вам достичь состояния внутреннего мира и спокойствия");
+set_font_size(24);set_font_color("dark blue");
+insert_rectangle();set_right("rectangle", "content");
+set_background_color("light green");
+create_slide();set_background_color("light green");choose_title();insert_text("Виды медитации");
+set_font_style("Arial");
+insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("Медитация осознанности");choose_table_cell(1, 0);insert_text("Трансцендентальная медитация");choose_table_cell(2, 0);insert_text("Медитация сканирования тела");
+
+create_slide();set_background_color("green");
+insert_picture('grassland');align_slide_left();
+set_width(6.5);set_height(5.5);choose_title();insert_text("Функции лесов");
+set_font_color("orange");set_font_size(40);
+insert_right_arrow();align_slide_top();
+
+create_slide();insert_table(2, 2);
+choose_table_cell(0,0);insert_text("Тип дерева");choose_table_cell(0,1);insert_text("Использование");choose_table_cell(1,0);insert_text("разные виды деревьев");choose_table_cell(1,1);insert_text("разные цвета листьев");
+choose_content();insert_text("Не забудьте сегодня посадить дерево!");
+set_font_size(20);set_font_color("green");set_font_underline();
+
+create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");
+move_to_slide(0);choose_title();insert_text("Счастливая семья");set_font_style("Microsoft JhengHei");
+move_to_slide(1);insert_picture('family');
+move_to_slide(2);insert_table(2, 2);
+choose_table_cell(0, 0);insert_text("Отец");choose_table_cell(0, 1);insert_text("Мать");choose_table_cell(1, 0);insert_text("Дедушка");choose_table_cell(1, 1);insert_text("Дети");
+
+create_slide();choose_title();insert_text("Бизнес-план");
+insert_picture('light_bulb');align_slide_left();
+set_width(3);choose_content();insert_text("Предпринимательство — это процесс проектирования, запуска и управления новым бизнесом, который часто изначально является малым бизнесом. Людей, которые создают этот бизнес, называют предпринимателями");
+set_font_size(20);set_font_color("green");
+set_background_color("dark blue");
+insert_circle();set_fill_color("red");
+choose_content();insert_text("Бизнес-план — это письменный документ, в котором подробно описывается, как бизнес, обычно новый, собирается достичь своих целей");
+choose_title();set_font_size(18);choose_content();set_font_size(18);
+insert_table(3, 4);
+choose_table_cell(0, 0);insert_text("Маркетинг-микс");choose_table_cell(0, 1);insert_text("Целевой рынок");choose_table_cell(0, 2);insert_text("Цена");choose_table_cell(0, 3);insert_text("Продвижение");
+
+create_slide();set_background_color("light blue");
+choose_content();insert_text("Брендинг продукта — это разработка отличительного бренда для данного продукта с намерением охватить целевых потребителей бренда");
+set_font_italic();set_font_size(18);
+align_slide_bottom();
+insert_picture('lancome');align_slide_top();
+
+create_slide();choose_title();insert_text("Основы крупномасштабного моделирования");set_font_size(24);
+set_font_style("Arial");
+insert_table(1, 2);
+choose_table_cell(0, 0);insert_text("Важность");set_font_size(18);set_font_color("light blue");
+insert_picture('computer');align_slide_center();
+choose_content();insert_text("Масштабное моделирование");
+set_font_size(14);set_font_color("green");choose_title();set_font_size(14);set_font_color("green");
+
+insert_picture('tower');align_slide_left();
+choose_title();insert_text("Последнее ограбление");
+set_font_style("Times New Roman");set_font_color("green");
+insert_triangle();align_slide_right();
+set_background_color("light blue");
+
+insert_table(3, 3);choose_table_cell(0, 0);insert_text("фиолетовым");choose_table_cell(0, 1);insert_text("синим");choose_table_cell(0, 2);insert_text("голубым");choose_table_cell(1, 0);insert_text("темно-синим");choose_table_cell(1, 1);insert_text("зеленым");choose_table_cell(1, 2);insert_text("светло-зеленым");choose_table_cell(2, 0);insert_text("темно-зеленым");choose_table_cell(2, 1);insert_text("желтым");choose_table_cell(2, 2);insert_text("светло-желтым")
+set_background_color("green");
+set_background_color("dark blue");
+choose_title();insert_text("Виды цвета");insert_picture("clock");
+create_slide();set_background_color("yellow");
+choose_content();insert_text("Вероника, также называемая птичьим глазом или непарным сорняком, является выносливым многолетним растением, произрастающим в Европе");
+
+create_slide();insert_picture('arguing');
+choose_title();insert_text("Что приносит брак мужчинам и женщинам?");
+create_slide();insert_picture('japanese_woman');insert_picture('african_woman');
+choose_title();insert_text("Факторы, определяющие различные супружеские режимы");
+create_slide();set_background_color("red");create_slide();set_background_color("red");create_slide();set_background_color("red");
+move_to_slide(2);choose_title();insert_text("Общие преимущества брака для мужчин и женщин");
+set_font_underline();set_font_color("yellow");
+insert_picture('happy_family');align_slide_center();
+insert_rectangle();set_fill_color("red");insert_rectangle();set_fill_color("red");insert_rectangle();set_fill_color("red");
+create_slide();choose_title();insert_text("Эволюция института брака в Китае");
+insert_picture('clock');set_width(6.5);
+align_slide_left();
+create_slide();choose_title();insert_text("Трудности, с которыми сталкиваются женщины в мире");insert_picture('full_time_mother');
+set_height(5);
+
+choose_title();insert_text("Нейронная сеть");
+choose_content();insert_text("Нейронные сети — это набор алгоритмов, имитирующих работу человеческого мозга. Они предназначены для распознавания закономерностей, классификации данных и прогнозирования");
+set_font_size(12);set_font_color("orange");set_background_color("red");
+
+choose_title();insert_text("Кавычка");
+choose_title();set_font_underline();set_font_size(24);
+choose_content();insert_text("Символ кавычек — это тип пунктуации, используемый для выделения слов и отрывков из остального текста");
+set_font_color("green");set_font_size(12);
+insert_picture('quotation_mark');align_slide_left();
+create_slide();set_background_color("blue");
+insert_rectangle();align_slide_right();
+insert_table(2, 1);
+choose_table_cell(0, 0);insert_text("Как дела?");choose_table_cell(1, 0);insert_text("Одним из наиболее распространенных случаев использования кавычек является указание на прямую цитату, отрывок, который дословно скопирован из другого источника");
+
+create_slide();set_background_color("dark green");
+choose_title();insert_text("Поля и отрасли антропологии");set_font_size(18);
+choose_content();insert_text("Есть две широкие области антропологии");set_font_size(18);
+text_align_right();
+
+insert_right_arrow();align_slide_left();
+set_width(4.0);set_height(3.0);
+choose_content();insert_text("Обширные участки Центральной Азии кажутся устрашающе необитаемыми");
+choose_shape("right_arrow");set_width(5.0);set_height(4.0);rotate_element(90);
+choose_content();set_line_space(2);
+
+choose_title();insert_text("Образование/Обучение/Представление PPT");
+choose_content();insert_text("Падительное влияние глобального потепления");
+choose_title();set_font_color("dark blue");choose_content();set_font_color("purple");
+insert_rectangle();set_fill_color("purple");
+align_top_left_corner();
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("дайте");choose_table_cell(0, 1);insert_text("дал");choose_table_cell(0, 2);insert_text("дайте");choose_table_cell(0, 3);insert_text("дайте");
+choose_content();set_font_color("dark blue");
+
+set_background_color("orange");
+insert_picture("cat");set_width(5);set_height(5);
+create_slide();set_background_color("orange");create_slide();set_background_color("orange");create_slide();set_background_color("orange");
+choose_title();insert_text("Информация DingTalk");
+insert_table(3, 5);
+choose_table_cell(0, 0);insert_text("Способы загрузки");choose_table_cell(0, 1);insert_text("Как присоединиться к организации");choose_table_cell(0, 2);insert_text("Как найти друзей");choose_table_cell(0, 3);insert_text("Преимущества");choose_table_cell(0, 4);insert_text("Примечание");
+insert_star();align_slide_right();
+choose_content();insert_text("упредить означает предотвратить или помешать, сделав что-то заранее");
+set_background_color("blue");
+choose_content();text_align_left();
+
+insert_right_arrow();set_fill_color("yellow");
+choose_title();insert_text("Будний день в школе");text_align_left();
+choose_title();set_font_color("dark blue");set_font_italic();set_font_underline();
+choose_content();insert_text("упредить - значит заранее скупить (товары) с целью повышения цены при перепродаже");
+insert_picture("school_badge");set_width(2.5);set_height(2.5);
+create_slide();set_background_color("green");
+choose_title();insert_text("Примечание");text_align_right();
+set_font_color("light green");set_font_size(26);
+choose_content();insert_bullet_point("");insert_bullet_point("");insert_bullet_point("");
+insert_note("2023/4/9");move_to_previous_slide();insert_note("2023/4/8");
+
+insert_star();align_slide_right();
+set_fill_color("blue");
+insert_right_arrow();align_slide_left();set_fill_color("red");
+choose_title();insert_text("Принятие решения");
+choose_content();insert_text("Нынешняя глобальная пандемия нарушила нашу повседневную жизнь и изменила мир так, как мы даже не могли себе представить");
+choose_content();set_font_underline();choose_title();set_font_size(24);
+choose_content();set_font_style("Times New Roman");choose_title();set_font_style("Times New Roman");
+
+create_slide();create_slide();create_slide();create_slide();create_slide();
+move_to_slide(0);choose_title();insert_text("Введение");move_to_slide(1);choose_title();insert_text("Развитие");move_to_slide(2);choose_title();insert_text("Оценка");move_to_slide(3);choose_title();insert_text("Анализ");move_to_slide(4);choose_title();insert_text("Заключение");
+move_to_slide(0);set_background_color("yellow");move_to_slide(1);set_background_color("yellow");move_to_slide(2);set_background_color("yellow");move_to_slide(3);set_background_color("yellow");move_to_slide(4);set_background_color("yellow");
+move_to_slide(0);choose_title();set_font_style("Microsoft JhengHei");
+move_to_slide(1);insert_picture("clock");
+move_to_slide(2);insert_bar_chart([160, 170, 130], ["октябрь", "ноябрь", "декабрь"]);
+move_to_slide(3);insert_table(2, 3);
+choose_table_cell(0, 0);insert_text("toIPA");choose_table_cell(0, 1);insert_text("Преимущества");choose_table_cell(0, 2);insert_text("Недостатки");
+move_to_slide(4);choose_title();set_font_style("Times New Roman");
+move_to_slide(4);insert_cloud();
+move_to_slide(0);insert_note("Создано Евой");move_to_slide(1);insert_note("Создано Евой");move_to_slide(2);insert_note("Создано Евой");move_to_slide(3);insert_note("Создано Евой");move_to_slide(4);insert_note("Создано Евой");
+
+insert_circle();set_fill_color("purple");
+insert_picture("water_bottle");insert_textbox();insert_text("бутылка");
+choose_title();insert_text("КАЧЕСТВО");
+set_font_color("red");
+insert_table(2, 2);
+choose_table_cell(0, 0);insert_text("Машинная оценка");choose_table_cell(0, 1);insert_text("Человеческая оценка");choose_table_cell(1, 0);insert_text("Автоматическая оценка 1");choose_table_cell(1, 1);insert_text("Автоматическая оценка 2");
+create_slide();choose_title();insert_text("Достижение");set_background_color("purple");
+
+create_slide();choose_title();insert_text("Маркетинговые стратегии для Q2");
+set_background_color("blue");
+create_slide();choose_title();insert_text("Повышение продаж и узнаваемости бренда");
+set_font_size(60);
+move_to_slide(1);set_background_color("green");
+create_slide();set_background_color("green");create_slide();set_background_color("green");create_slide();set_background_color("green");
+move_to_slide(2);choose_title();insert_text("Тенденции рынка и анализ конкурентов");
+choose_content();insert_picture("blue_sea");
+set_height(4);set_width(5);set_left("picture", "title");
+move_to_slide(3);choose_title();insert_text("Наша миссия и ценности");
+choose_content();insert_text("ВИДЕНИЕ. Все люди, живущие долгой жизнью и полным здоровьем. МИССИЯ. IHME предоставляет миру своевременные, актуальные и научно обоснованные данные для улучшения политики и практики здравоохранения");
+set_line_space(1.5);
+choose_content();set_font_size(40);set_font_style("Times New Roman");
+
+create_slide();set_background_color("yellow");
+choose_title();insert_text("Сравнение образования в Китае и Америке");
+delete_text();insert_text("Исследуйте различия и сходства");
+delete_text();insert_text("Различия и сходства");
+create_slide();create_slide();create_slide();create_slide();create_slide();
+move_to_slide(1);set_background_color("yellow");move_to_slide(2);set_background_color("yellow");move_to_slide(3);set_background_color("yellow");move_to_slide(4);set_background_color("yellow");move_to_slide(5);set_background_color("yellow");
+move_to_slide(1);choose_title();insert_text("Системы образования");
+choose_content();insert_text("Образованием в Китае в основном управляет государственная система государственного образования, которая находится в ведении Министерства образования. Все граждане должны посещать школу в течение как минимум девяти лет, известная как девятилетнее обязательное образование, которое финансируется правительством");
+move_to_next_slide();choose_title();insert_text("Различные стили и методы обучения");
+move_to_next_slide();choose_title();insert_text("Отношения учителя и ученика");move_to_next_slide();choose_title();insert_text("Оценка успеваемости учащихся");
+move_to_slide(4);insert_picture("forest");
+choose_content();insert_text("В 2014 году Джонатан Кайман из The Guardian написал, что китайские родители и педагоги "считают свою собственную систему коррумпированной, бесчеловечной, находящейся под давлением и несправедливой". он продолжил обсуждение вступительного экзамена в колледж страны (называемого гаокао), написав, что "многие родители считают изнурительный девятичасовой тест механизмом сортировки, который определит траекторию жизни их детей".");set_font_color("red");set_font_underline();
+move_to_slide(5);insert_table(1, 1);choose_table_cell(0,0);insert_text("Ответственность");
+
+create_slide();choose_content();insert_picture("DingTalk_app");
+choose_title();insert_text("Введение в ChatGPT");set_font_color("green");
+create_slide();choose_title();insert_text("Раскрытие возможностей языковых моделей ИИ".");text_align_left();create_slide();choose_title();insert_text("Раскрытие возможностей языковых моделей ИИ".");text_align_left();create_slide();choose_title();insert_text("Раскрытие возможностей языковых моделей ИИ".");text_align_left();create_slide();choose_title();insert_text("Раскрытие возможностей языковых моделей ИИ".");text_align_left();create_slide();choose_title();insert_text("Раскрытие возможностей языковых моделей ИИ".");text_align_left();
+move_to_slide(1);choose_content();set_font_style("Arial");
+insert_text("ChatGPT — это чат-бот с искусственным интеллектом (ИИ), разработанный OpenAI и выпущенный в ноябре 2022 года. Он построен на основе семейств больших языковых моделей (LLM) GPT-3.5 и GPT-4 OpenAI и был доработан (подход к передаче обучения) с использованием как контролируемых методов, так и методов обучения с подкреплением");
+set_font_size(30);set_line_space(2);
+insert_table(1, 1);choose_table_cell(0,0);insert_text("Как скачать DingTalk");
+move_to_next_slide();
+choose_title();insert_text("Возможности и ограничения");text_align_center();
+choose_content();insert_text("Хотя основная функция чат-бота — имитировать собеседника, ChatGPT универсален. Он может писать и отлаживать компьютерные программы, имитировать стиль руководителей знаменитостей и писать бизнес-презентации, сочинять музыку, телеспектакли, сказки и студенческие эссе, отвечать на вопросы. тестовые вопросы (иногда, в зависимости от теста, на уровне выше среднего тестируемого человека), писать стихи и тексты песен, эмулировать систему Linux, моделировать целые чаты, играть в такие игры, как крестики-нолики, имитировать банкомат. .");
+
+create_slide();set_background_color("green");
+choose_content();insert_text("Жизнь слишком коротка, чтобы проводить время с людьми, которые высасывают из вас счастье");set_line_space(1.5);
+set_font_style("Verdana");set_font_size(20);
+set_font_underline();set_font_color("yellow");
+
+create_slide();set_background_color("blue");choose_title();insert_text("Машинное обучение");
+choose_content();insert_text("Машинное обучение — это приложение искусственного интеллекта (ИИ), которое предоставляет системам возможность автоматически учиться и совершенствоваться на основе опыта без явного программирования. Машинное обучение фокусируется на разработке компьютерных программ, которые могут получить доступ к данные и использовать их для самостоятельного обучения");
+set_font_size(20);set_font_style("Verdana");
+set_font_style("Times New Roman");text_align_right();
+choose_title();set_font_color("red");set_font_size(40);
+set_font_color("blue");
+insert_picture("machine_learning");align_slide_left();
+set_height(1.2);set_width(1.2);
+choose_content();insert_star();set_fill_color("green");
+
+create_slide();choose_title();insert_text("Маркетинговые стратегии");
+choose_content();insert_bullet_point("Search Engine Optimization (SEO)");insert_bullet_point("Social Media Marketing (SMM)");insert_bullet_point("Email Marketing");insert_bullet_point("Content Marketing");insert_bullet_point("Pay-Per-Click Advertising (PPC)");
+insert_picture("marketing");set_height(1);set_width(1);
+insert_pie_chart([35, 25, 15, 10, 15], ["Apple", "Samsung", "Huawei", "Xiaomi", "Другое"]);insert_table(2, 2);
+choose_chart();set_chart_title("Маркетинг");choose_table_cell(0, 0);insert_text("MT1");choose_table_cell(0, 1);insert_text("MT2");choose_table_cell(1, 0);insert_text("ST1");choose_table_cell(1, 1);insert_text("ST2")
+choose_content();align_slide_bottom();
+create_slide();insert_pie_chart([35, 25, 15, 10, 15],["Apple", "Samsung", "Huawei", "Xiaomi", "Other"]);set_chart_title("Marketing");
+choose_table();insert_table(2, 2);insert_table_row(["MT1", "MT2"]);insert_table_row(["ST1", "ST2"])
+
+create_slide();choose_title();insert_text("Визуализация данных");
+insert_bar_chart([8.4, 4.0, 2.7, 2.3, 1.7], ["Нью-Йорк", "Лос-Анджелес", "Чикаго", "Хьюстон", "Феникс"]);align_slide_left();
+insert_textbox();insert_text("Визуализация данных — это представление данных в изобразительном или графическом формате. Это позволяет лицам, принимающим решения, видеть аналитику в визуальном виде, чтобы они могли понять сложные концепции или выявить новые закономерности".");
+set_font_color("green");
+create_slide();choose_content();insert_text("Эта каша готовится путем одновременного приготовления клейкого риса, коричневого сахара и восемнадцати видов сухофруктов");
+
+create_slide();choose_title();insert_text("Лабская каша");
+choose_content();insert_text("Сколько себя помню, каждый год на восьмой день двенадцатого лунного месяца мама готовила нам кашу Лаба");
+set_font_color("yellow");set_font_bold();
+insert_table(2, 1);align_slide_right();
+choose_table_cell(0, 0);insert_text("История");choose_table_cell(1, 0);insert_text("Современность");
+set_background_color("light red");
+
+set_background_color("yellow");
+set_background_color("green");
+choose_title();insert_text("Большая компания");
+set_font_size(28);set_font_style("Futura");
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("Номер");choose_table_cell(0, 1);insert_text("Имена сотрудников")
+insert_picture("company1");insert_picture("company2");insert_picture("company3");
+choose_table();choose_table_cell(0,0);set_font_color("yellow");choose_table_cell(0,1);set_font_color("yellow");
+
+create_slide();choose_title();insert_text("Искусственные нейронные сети");
+choose_content();insert_text("Искусственные нейронные сети (ИНС) — это вычислительные системы, вдохновленные биологическими нейронными сетями, составляющими мозг животных. Такие системы учатся выполнять задачи, рассматривая примеры, как правило, без программирования каких-либо правил для конкретных задач. , ИНС способны обучаться и адаптироваться к новым входным данным, что делает их полезными для широкого круга приложений, включая распознавание изображений, распознавание речи и обработку естественного языка");
+set_font_size(24);
+set_font_style("Calibri");set_background_color("light orange");
+text_align_center();choose_title();text_align_left();
+set_background_color("blue");
+insert_picture("artificial_neural_networks");
+set_width(5.5);
+align_slide_right();
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("1");choose_table_cell(0, 1);insert_text("2");choose_table_cell(0, 2);insert_text("3")
+insert_table_row(["видеоигры", "Переключатель", "Сериалы"])
+
+create_slide();set_background_color("red");create_slide();set_background_color("red");
+move_to_slide(0);choose_title();insert_text("Вызовы");set_font_style("Calibri");
+choose_content();insert_text("Проблемы внедрения ИИ на рабочем месте включают отсутствие опыта, стоимость и сопротивление изменениям");
+set_font_color("green");
+move_to_slide(1);insert_picture("AI");align_slide_center();
+
+create_slide();choose_title();insert_text("Введение");
+choose_content();insert_text("Добро пожаловать на мою презентацию по истории видеоигр. Видеоигры прошли долгий путь с тех пор, как в 1950-х годах была изобретена первая электронная игра. Сегодня видеоигры — это многомиллиардная индустрия, которая нравится людям во всем мире");
+insert_picture("first_electronic_game");
+align_bottom_right_corner();
+choose_title();set_font_color("blue");
+insert_textbox();choose_textbox();insert_text("Представлено Джоном Смитом");
+
+create_slide();choose_title();insert_text("Нейронные сети");
+choose_content();insert_text("Нейронные сети — это набор алгоритмов, имитирующих работу человеческого мозга. Они используются для различных приложений, таких как распознавание изображений, распознавание речи и обработка естественного языка");
+set_font_style("Arial");
+insert_triangle();align_top_left_corner();
+insert_picture("neutral_network");
+set_height(1.2);set_width(1.2);
+create_slide();insert_right_arrow();set_fill_color("blue");align_slide_right();
+insert_line_chart([120,140,110,90], ["январь", "февраль", "март", "апрель"]);set_chart_title("Chatgpt");
+choose_content();insert_textbox();insert_text("ТензорФлоу");
+choose_title();set_font_color("blue");set_background_color("light blue");
+
+choose_content();insert_text("Словарь можно использовать для поиска значений слов, произношения, написания и поиска новых слов");
+insert_circle();set_top("circle","content");
+insert_text("существительное словосочетание");
+choose_content();set_font_color("red");set_font_style("Impact");
+
+create_slide();choose_title();insert_text("Введение");create_slide();choose_title();insert_text("Методология");create_slide();choose_title();insert_text("Результаты");
+move_to_slide(0);choose_content();insert_text("Эта презентация представит наш исследовательский проект и объяснит его важность".");move_to_slide(1);choose_content();insert_text("Наша методология исследования включала сбор данных из различных источников и использование статистического анализа для получения выводов".");
+choose_content();text_align_left();
+move_to_slide(0);set_background_color("light blue");move_to_slide(1);set_background_color("light blue");move_to_slide(2);set_background_color("light blue");
+insert_picture("graph");set_height(6.5);
+move_to_slide(0);insert_note("2022/1/1");move_to_slide(1);insert_note("2022/1/1");move_to_slide(2);insert_note("2022/1/1");
+
+create_slide();choose_title();insert_text("Обзор продукта");create_slide();choose_title();insert_text("Характеристики");
+move_to_slide(0);insert_picture("product");
+choose_content();insert_text("Наш продукт предназначен для удовлетворения потребностей нашего целевого рынка, предоставляя простое и эффективное решение их проблемы");
+move_to_slide(1);insert_table(5, 2);
+choose_table_cell(4, 1);insert_text("DingTalk");
+choose_table_cell(4, 1);set_font_style("Times New Roman");
+move_to_slide(0);insert_note("Текущее время 12:00");move_to_slide(1);insert_note("Текущее время 12:00");move_to_slide(2);
+
+create_slide();choose_title();insert_text("Отчет о продажах");text_align_center();
+insert_pie_chart([120, 220, 180], ["Продукт A", "Продукт B", "Продукт C"]);
+choose_title();set_font_size(28);
+insert_picture("company_logo");align_top_right_corner();
+choose_content();insert_text("В этом отчете показаны показатели продаж нашей продукции в первом квартале 2023 года");
+set_font_style("Times New Roman");
+text_align_center();
+
+create_slide();choose_title();insert_text("Маркетинговые стратегии");
+choose_title();set_font_style("Calibri");set_font_size(36);
+choose_content();insert_picture("marketing_campaign");
+rotate_element(45);align_slide_right();
+create_slide();choose_title();insert_text("Мощный МП");
+set_font_style("Arial");set_font_size(24);
+insert_textbox();insert_bullet_point("SEO");insert_bullet_point("Email Marketing");insert_bullet_point("PPC");set_bottom("textbox","title");
+set_background_color("blue");
+insert_bar_chart([27, 30, 29], ["A", "B", "C"]);align_slide_left();
+set_chart_title("Marketing Budget");
+insert_table(4, 2);
+choose_table_cell(0, 0);insert_text("Дата");choose_table_cell(0, 1);insert_text("Понедельник");choose_table_cell(1, 0);insert_text("Вторник");choose_table_cell(1, 1);insert_text("Среда");choose_table_cell(2, 0);insert_text("Четверг");choose_table_cell(2, 1);insert_text("Пятница");choose_table_cell(3, 0);insert_text("Суббота");choose_table_cell(3, 1);insert_text("Воскресенье");
+choose_table();set_right("table","chart");
+
+create_slide();set_background_color("yellow");
+choose_title();insert_text("Метрики оценки");
+choose_content();insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("Метрика");choose_table_cell(0, 1);insert_text("Формула");choose_table_cell(1, 0);insert_text("Точность");choose_table_cell(1, 1);insert_text("(TP+TN)/(TP+TN+FP+FN)");choose_table_cell(2, 0);insert_text("Точность");choose_table_cell(2, 1);insert_text("TP/(TP+FP)");
+insert_line_chart([160, 170, 130], ["Октябрь", "Ноябрь", "Декабрь"]);set_chart_title("Time Machine");
+insert_bar_chart([160, 170, 130], ["October", "November", "December"]);
+
+create_slide();choose_title();insert_text("Визуализация данных");
+insert_bar_chart([60,70,80,90], ["Глаз", "Рука", "Нога", "Колено"]);
+choose_chart();set_height(4);set_width(4);
+set_chart_title("Sales by Region");
+insert_right_arrow();set_fill_color("green");
+
+create_slide();choose_title();insert_text("Маркетинговая кампания");
+choose_content();insert_picture("product");set_right("picture","content");
+set_width(5);
+choose_content();insert_text("Европейская языковая семья, тесно связанная с фризским, немецким и голландским (в Бельгии называемым фламандским) языками");
+insert_circle();set_fill_color("red");align_bottom_right_corner();
+set_background_color("green");
+set_background_color("light blue");
+create_slide();choose_title();insert_text("Данные о продажах");
+insert_table(1, 4);
+choose_table_cell(0, 0);insert_text("имя продавца");choose_table_cell(0, 1);insert_text("общий объем продаж");choose_table_cell(0, 2);insert_text("ставка комиссии");choose_table_cell(0, 3);insert_text("сумма комиссии")
+create_slide();set_background_color("light blue");
+
+create_slide();choose_title();insert_text("Отчет о продажах");set_font_size(25);
+choose_content();insert_text("Вот квартальный отчет о продажах нашей компании:");
+set_font_size(16);set_font_color("purple");
+insert_rectangle();set_width(8);set_height(5);
+set_background_color("green");
+
+create_slide();choose_title();insert_text("Искусственные нейронные сети");
+choose_content();insert_text("Искусственные нейронные сети (ИНС) — это вычислительные системы, созданные на основе биологических нейронных сетей, составляющих мозг животных, но не идентичные им. Такие системы учатся выполнять задачи, рассматривая примеры, как правило, без программирования. с правилами для конкретных задач.");
+set_font_size(24);set_font_style("Arial");
+choose_title();set_font_color("purple");
+insert_picture("brain");set_width(6.5);
+rotate_element(90);
+insert_textbox();insert_text("Применения ИНС");
+choose_title();set_font_size(36);set_font_style("Calibri");
+insert_table(2, 1);
+choose_table_cell(0, 0);insert_text("Распознавание изображений");choose_table_cell(1, 0);insert_text("Обработка естественного языка");
+
+choose_title();insert_text("Оценка качества машинного перевода");
+insert_textbox();insert_text("Репортер: Ева.");set_bottom("textbox","title");
+choose_title();set_font_size(66);
+set_background_color("blue");choose_title();set_font_color("red");choose_textbox();set_font_color("red");
+set_background_color("red");choose_title();set_font_color("blue");choose_textbox();set_font_color("blue");
+
+create_slide();choose_title();insert_text("Нейронные сети");
+choose_content();insert_text("Нейронные сети — это набор алгоритмов, имитирующих работу человеческого мозга. Они предназначены для распознавания закономерностей, классификации данных и прогнозирования");
+set_font_size(24);
+set_font_style("Arial");text_align_center();
+choose_title();set_font_color("blue");
+set_font_color("green");
+insert_picture("brain");set_width(1.5);set_height(1.5);
+choose_content();insert_text("Человеческий мозг вдохновил на разработку нейронных сетей");
+insert_note("сверточная нейронная сеть");
+create_slide();set_background_color("yellow");
+
+create_slide();choose_title();insert_text("Личные финансы");insert_note("Личные финансы");
+choose_title();set_font_size(24);set_font_underline();
+choose_content();insert_text("Личные финансы охватывают всю вселенную управления личными и семейными финансами, взятия на себя ответственности за ваше текущее и будущее финансовое положение и постановку финансовых целей. Сюда также входит решение индивидуальных финансовых задач и сбережения на случай чрезвычайных ситуаций. ");
+set_font_color("orange");
+insert_picture("corporate_finance_book");
+set_width(6.5);
+set_background_color("blue");
+set_background_color("light blue");
+create_slide();set_background_color("light blue");create_slide();set_background_color("light blue");
+move_to_slide(1);insert_table(1, 2);
+
+choose_content();insert_text("Добро пожаловать на сайт каталога Центра обновления Майкрософт");
+set_font_color("orange");set_background_color("dark blue");
+insert_picture("computer");align_slide_bottom();
+align_slide_left();
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("Основные понятия");choose_table_cell(0, 1);insert_text("Происхождение");choose_table_cell(0, 2);insert_text("Категории");choose_table_cell(0, 3);insert_text("Развитие")
+create_slide();insert_star();set_fill_color("red");
+insert_pie_chart([10, 12, 14], ["Q1", "Q2", "Q3"]);choose_shape("star");align_bottom_left_corner();
+choose_chart();set_height(10);set_width(10);
+
+create_slide();set_background_color("blue");
+choose_title();insert_text("Введение");
+choose_content();insert_text("Люди плюс деньги приравниваются к личным финансам");
+set_font_italic();set_font_underline();
+set_font_color("green");
+insert_picture("person_grasping_money");align_bottom_right_corner();
+set_width(8);set_height(7);
+create_slide();choose_content();insert_text("Деньги - это еще не все, но без денег нельзя");
+set_font_style("Futura");set_font_color("blue");
+set_font_color("purple");
+insert_pie_chart([1, 2, 3, 4, 5])], ["1", "2", "3", "4", "5"]);set_right("chart", "content");
+choose_title();insert_text("Влияние денег");
+
+create_slide();choose_title();insert_text("Разница между личными и корпоративными финансами");
+insert_table(2, 3);
+insert_picture("company_logo");set_left("picture", "table");
+choose_table();choose_table_cell(0,0);insert_text("Borderlands 2");choose_table_cell(0,1);insert_text("Divinity: Original Sin 2");choose_table_cell(0,2);insert_text("Final Fantasy VII");choose_table_cell(1,0);insert_text("Assassin's Creed IV: Black Flag");choose_table_cell(1,1);insert_text("Mega Man 3");choose_table_cell(1,2);insert_text("Mega Man 3");
+insert_cloud();align_slide_right();
+insert_note("2023/4/23");
+
+set_background_color("orange");
+create_slide();choose_title();insert_text("Бриджит Фонда");set_background_color("orange");
+set_font_italic();set_font_size(18);
+insert_picture("bridget_fonda");align_top_right_corner();
+choose_picture();set_width(8);set_height(7);
+create_slide();
+choose_content();insert_text("Бриджит Фонда родилась в Лос-Анджелесе и происходит из уважаемой актерской семьи, в которую входят Генри Фонда, Питер Фонда и Джейн Фонда. Она начала работать в театре после того, как появилась в школьной постановке "Харви", а затем сыграла немую роль в "Партнерах". В 1988 году она появилась в "Скандале", своей первой говорящей роли, после чего у нее было еще несколько небольших ролей".");
+set_font_size(12);set_font_italic();
+choose_title();insert_text("Список фильмов");
+insert_table(3, 3);choose_table_cell(0,0);insert_text("1");choose_table_cell(0,1);insert_text("2");choose_table_cell(0,2);insert_text("3");choose_table_cell(1,0);insert_text("4");choose_table_cell(1,1);insert_text("5");choose_table_cell(1,2);insert_text("6");choose_table_cell(2,0);insert_text("7");choose_table_cell(2,1);insert_text("8");choose_table_cell(2,2);insert_text("9");
+choose_table();align_slide_right();
+
+create_slide();
+choose_title();insert_text("Призрачный медведь");set_font_underline();
+choose_content();insert_text("Самый редкий медведь, о котором вы, вероятно, никогда не слышали");
+insert_picture("ghost_bear");
+choose_title();set_font_style("Arial");set_font_size(20);choose_content();set_font_style("Arial");set_font_size(20);
+choose_picture();set_right("picture","content");
+create_slide();insert_picture("treemap_about_bears");
+align_slide_center();
+set_width(4);
+choose_content();insert_text("Когда я изголодался по Dungeons and Dragons, Divinity: Original Sin 2 заполнила эту пустоту для меня");
+choose_title();insert_text("Моя любимая игра");
+insert_table(2, 2);
+choose_table();choose_table_cell(0,0);insert_text("SMS");choose_table_cell(0,1);insert_text("WeChat");choose_table_cell(1,0);insert_text("QQ");choose_table_cell(1,1);insert_text("DingTalk");
+
+create_slide();set_background_color("blue");
+insert_picture("universe");align_bottom_left_corner();
+set_width(6.5);set_height(13);
+choose_content();insert_text("Можно сказать, что я немного привередлив. Я не люблю слишком сладкую пищу, такую ​​как конфеты, шоколад и т. д.");
+choose_title();insert_text("Моя любимая еда");
+set_font_color("yellow");choose_content();set_font_color("yellow");
+choose_title();set_font_underline();set_font_size(24);choose_content();set_font_size(22);
+insert_cloud();align_slide_right();
+
+choose_title();insert_text("Идол");set_font_underline();
+insert_rectangle();set_fill_color("red");set_bottom("rectangle","title");
+choose_content();insert_text("Я хочу тебя! (Я хочу тебя!) Ты мне нужен! (Ты мне нужен!) Я люблю тебя! (Я люблю тебя!)");text_align_left();
+set_font_size(24);
+set_font_size(48);
+insert_picture("AKB48");
+set_height(6.5);set_width(13);
+insert_table(2,1);choose_table_cell(0,0);insert_text("Время айдолов короткое. Всегда есть новое свежее лицо, и они редко отклоняются от кукольного статус-кво");
+choose_table();choose_table_cell(0,0);set_font_color("blue");set_font_style("Futura");
+choose_table_cell(1,0);insert_text("Эпическое путешествие айдолов, от Сильвии Вартан до айдолов, распродающих стадионы, вызывает вопрос: что будет дальше с айдолами и культурой, которую они породили?");
+insert_note("2023/05/17");
+
+choose_content();insert_text("СОДЕРЖАНИЕ");text_align_center();
+choose_content();insert_text("1. История");insert_text("2. Оценочные миссии");insert_text("3. Модель");insert_text("4. Приложения");
+set_font_size(80);set_font_color("green");
+set_font_underline();set_font_style("Pecita");
+
+set_background_color("orange");choose_title();insert_text("Лучшее программное обеспечение");
+set_font_italic();set_font_size(24);
+choose_content();insert_text("Вам нужно мощное программное обеспечение? Вам не нужно платить за него. Все, что вам нужно для продуктивной работы и безопасности на вашем ПК, есть в этом списке, и все это совершенно бесплатно");
+set_font_color("yellow");
+set_background_color("dark blue");
+choose_content();set_font_underline();set_font_style("Arial");
+insert_right_arrow();align_slide_bottom();
+insert_note("2023/4/25");
+
+create_slide();choose_title();insert_text("Джей Чоу");
+choose_content();insert_text("Джей Чоу — тайваньский музыкант, певец и автор песен, мульти-инструменталист, актер и режиссер");
+create_slide();choose_title();insert_text("Мохито");
+set_font_underline();set_font_size(20);
+set_font_size(48);
+choose_content();insert_text("Мохито" был хорошо принят широкой публикой со стороны международного сообщества. Кубинское солнце, тропические рубашки, старинные автомобили и зажигательные ритмы делают песню не только запоминающейся, но и настоящим визуальным наслаждением. Пожалуйста, НЕ задавайте вопросов".");
+set_font_style("Futura");set_background_color("green");
+insert_picture("mojito_cover");align_slide_right();
+
+choose_title();insert_text("Моя студенческая жизнь");
+insert_picture("collegue");insert_textbox();insert_text("колледж");
+choose_content();insert_text("помешательство на учебе за границей среди студентов колледжей");
+set_font_color("red");set_font_underline();
+set_font_style("Futura");choose_title();set_font_size(22);
+choose_content();text_align_left();
+insert_table(1, 3);
+choose_table_cell(0, 0);insert_text("Первоклассник");choose_table_cell(0, 1);insert_text("Второклассник");choose_table_cell(0, 2);insert_text("Третий разряд");
+create_slide();choose_content();insert_text("Выступление Мишель Обамы в Пекинском университете");
+insert_picture("logo");align_top_right_corner();
+set_height(6.5);
+
+create_slide();choose_title();insert_text("Изучение Python");
+set_font_italic();set_font_size(26);set_font_style("Times New Roman");
+set_background_color("green");
+create_slide();set_background_color("green");create_slide();set_background_color("green");
+insert_rectangle();align_slide_bottom();
+insert_table(1, 1);
+choose_table_cell(0, 0);insert_text("Примеры не приведены, пожалуйста, заполните таблицу");
+
+create_slide();set_background_color("green");choose_title();insert_text("Машинный перевод");
+choose_content();insert_text("Машинный перевод — это использование компьютерных технологий для перевода текста с одного языка на другой");
+set_font_size(20);
+set_font_size(40);
+set_font_color("green");text_align_right();
+insert_picture("trados");
+set_height(2);set_width(2);
+align_slide_bottom();
+insert_rectangle();align_slide_bottom();
+
+choose_title();insert_text("Фон");insert_note("Фон");
+choose_content();insert_text("Требования к пониманию качества перевода с помощью машины для перевода");insert_text("Сосредоточьтесь на надежности каждой точки даты");
+insert_cloud();set_width(6.5);align_slide_bottom();
+choose_title();set_font_size(30);choose_content();set_font_size(20);set_font_italic();
+
+insert_circle();align_slide_left();set_fill_color("green");
+set_width(10);set_height(10);
+choose_content();insert_text("Модуль функционального обучения");insert_text("Модуль оценки качества");
+choose_title();insert_text("Базовая структура");
+insert_note("2023/4");choose_shape("circle");insert_text("2023/4");
+
+choose_title();insert_text("Зарплата в марте");set_font_color("green");
+insert_table(1, 3);
+choose_table_cell(0, 0);insert_text("Идентификатор сотрудника");choose_table_cell(0, 1);insert_text("Сумма");choose_table_cell(0, 2);insert_text("Примечание");
+insert_textbox();insert_text("Сотрудник должен предоставить свое банковское удостоверение личности и удостоверение личности".");set_bottom("textbox","table");
+insert_picture("company_brand_name");align_top_right_corner();
+create_slide();set_background_color("yellow");
+choose_title();insert_text("Глава 2");choose_content();insert_text("Бонус для сотрудников");
+choose_title();set_font_italic();set_font_size(44);set_font_color("green");
+choose_content();set_font_style("Verdana");set_font_color("light green");
+insert_note("2023/4");
+
+create_slide();choose_title();insert_text("Особенности глубокого обучения");set_font_underline();
+set_font_size(26);set_font_color("light blue");
+insert_circle();
+choose_content();insert_text("Глубокое обучение — это метод машинного обучения, который учит компьютеры делать то, что естественно для людей");
+set_font_style("Arial");
+insert_triangle();align_slide_left();
+align_slide_right();
+set_fill_color("red");set_width(5);
+choose_content();insert_bullet_point("Sunday");insert_bullet_point("Monday");insert_bullet_point("Tuesday");
+move_to_next_slide();set_background_color("yellow");
+choose_title();insert_text("Нейтральные сети");set_font_underline();set_font_italic();insert_note("Нейтральные сети");
+
+choose_title();insert_text("История искусства");
+set_font_bold();set_font_style("Times New Roman");
+choose_content();insert_text("Искусство - это разнообразный спектр человеческой деятельности по созданию визуальных, слуховых или исполнительских артефактов, выражающих творческие, концептуальные идеи или технические навыки автора, предназначенные для того, чтобы их ценили в первую очередь за их красоту или эмоциональную силу");
+set_font_italic();set_font_style("Arial");
+insert_bullet_point("");
+insert_bullet_point("painting");insert_bullet_point("sculpture");insert_bullet_point("architecture");insert_bullet_point("music");insert_bullet_point("literature");
+insert_picture("Mona Lisa");align_slide_bottom();
+align_top_left_corner();
+insert_note("Мона Лиза Леонардо да Винчи");
+
+insert_star();set_fill_color("yellow");
+choose_title();insert_text("Звезды");set_font_size(24);
+choose_content();insert_text("Добро пожаловать в звездную ночь");
+insert_picture("universe");set_bottom("picture","content");
+insert_note("Сияющая звезда, яркая звезда, мерцающая звезда");choose_title();delete_text();insert_text("Сияющая звезда, яркая звезда, мерцающая звезда");
+
+create_slide();choose_title();insert_text("Отзывы клиентов");
+insert_picture("happy_customer");align_slide_bottom();
+choose_title();delete_text();insert_text("Наши клиенты любят нас!");set_font_color("red");
+delete_text();insert_text("!!");
+choose_content();insert_text("Отзывы клиентов");
+set_font_style("Times New Roman");set_font_color("green");
+set_background_color("red");
+set_background_color("green");
+
+create_slide();choose_title();insert_text("Маркетинговый план");
+insert_text("Введение");set_font_underline();set_font_style("Calibri");
+insert_picture("company_logo");align_bottom_left_corner();
+set_height(5);set_width(3);align_slide_right();
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("Категория");choose_table_cell(0, 1);insert_text("информация");choose_table_cell(1, 0);insert_text("Возраст");choose_table_cell(1, 1);insert_text("25 лет")
+create_slide();set_background_color("blue");
+choose_title();insert_text("Мобильные бренды");
+insert_line_chart([120, 140, 150], ["Huawei", "Apple", "Xiaomi"]);
+set_chart_title("Sales in April");
+
+create_slide();choose_title();insert_text("Финансовый отчет за второй квартал");
+set_font_style("Arial");set_font_size(20);
+insert_table(1, 3);choose_table_cell(0, 0);insert_text("Метрика");choose_table_cell(0, 1);insert_text("Q2");choose_table_cell(0, 2);insert_text("Q3")
+insert_picture("financial report");set_top("picture","table");
+choose_content();insert_text("Финансовый отчет за второй квартал демонстрирует значительный рост выручки и повышение прибыльности благодаря успешным мерам по оптимизации затрат и увеличению рыночного спроса на наши продукты и услуги");
+set_font_italic();set_font_bold();
+insert_bullet_point("");
+set_background_color("light blue");
+
+create_slide();set_background_color("green");
+choose_title();insert_text("Феминизм");
+set_font_color("green");set_font_size(26);
+choose_content();insert_text("Феминизм — это вера и стремление к равным правам, власти и возможностям для женщин, параллельным правам мужчин");
+set_font_color("green");set_font_italic();
+create_slide();choose_title();insert_text("Третья волна движения феминизма");set_font_color("green");
+set_font_bold();set_font_style("Times New Roman");set_font_color("blue");set_font_size(28);
+insert_picture("war");align_slide_bottom();
+insert_pie_chart([40, 30, 30], ["США", "Россия", "Франция"]);
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("Location");choose_table_cell(0, 1);insert_text("Различные города по всему миру")
+
+create_slide();choose_title();insert_text("Запуск продукта");
+choose_content();insert_text("Цель");insert_note("Цель");
+set_font_underline();set_font_style("Times New Roman");
+insert_picture("Apple_Pencil");align_bottom_left_corner();
+align_top_right_corner();
+
+choose_title();insert_text("Прогресс команды");
+choose_content();insert_text("Цель");
+choose_content();insert_text("Целью организации является продвижение молодежи и маргинализированных групп этого поколения посредством наставничества опытных фрилансеров");
+set_font_size(18);set_font_underline();
+insert_picture("team_group");set_right("picture", "content");
+
+choose_title();insert_text("Сила инноваций");
+set_font_style("Arial");set_font_bold();
+choose_content();insert_text("В сегодняшнем быстро меняющемся мире инновации играют решающую роль в стимулировании экономического роста, формировании политического ландшафта и трансформации культурных норм. Они подпитывают прогресс, способствуют конкурентоспособности и открывают новые возможности для людей и обществ");
+set_font_color("dark blue");set_line_space(2);
+insert_picture("cityscape");align_slide_left();
+insert_rectangle();align_slide_right();
+set_background_color("dark blue");
+create_slide();choose_content();insert_text("Он работает без рациональности, игнорируя общественную мораль и внешние стандарты");
+set_font_bold();set_font_underline();choose_title();insert_text("Сказки");
+
+choose_title();insert_text("Городская жизнь");
+set_background_color("light blue");
+choose_table();insert_table(3, 2);choose_table_cell(0, 1);delete_text();insert_text("Количество");choose_table_cell(1, 1);delete_text();insert_text("Качество");choose_table_cell(2, 1);delete_text();insert_text("Уровень");
+insert_triangle();insert_rectangle();set_top("triangle", "rectangle");
+choose_shape("triangle");set_bottom("triangle", "rectangle");
+insert_picture("Shanghai");align_bottom_left_corner();
+
+choose_table();insert_table(4, 6);
+choose_table_cell(0, 0);insert_text("Год");choose_table_cell(0, 1);insert_text("Друзья");choose_table_cell(0, 2);insert_text("Во все тяжкие");choose_table_cell(0, 3);insert_text("Игра престолов");choose_table_cell(0, 4);insert_text("Очень странные дела");choose_table_cell(0, 5);insert_text("Корона")
+insert_star();
+insert_picture("Friends");set_right("picture", "star");
+choose_shape("star");set_top("star", "picture");
+choose_title();insert_text("Сериал");set_font_italic();set_font_underline();
+insert_note("2023-2025");
+
+insert_triangle();rotate_element(45);
+insert_rectangle();set_right("rectangle","triangle");
+insert_star();set_right("star","rectangle");
+insert_circle();set_right("circle","star");
+insert_callout();set_right("callout","circle");rotate_element(-45);
+choose_shape("triangle");insert_text("формы");choose_shape("rectangle");insert_text("формы");choose_shape("star");insert_text("формы");choose_shape("circle");insert_text("формы");choose_shape("callout");insert_text("формы");
+
+insert_picture("globe");
+choose_title();insert_text("Стратегия глобальной экспансии");
+choose_picture();align_top_left_corner();
+choose_content();insert_text("Мир и любовь");
+
+insert_pie_chart([40, 45, 5], ["Шанхай", "Пекин", "Другие"]);
+choose_title();insert_text("Вклад");
+choose_content();insert_text("Годовой валовой внутренний продукт Пекина впервые в 2021 году превысил 4 триллиона юаней (630 миллиардов долларов)");
+set_font_style("Arial");
+insert_line_chart([6.7, 6.9, 6.6, 6.1, 2.3, 8.1], ["2016", "2017", "2018", "2019", "2020", "2021"]);
+choose_title();insert_text("Рост ВВП");
+insert_bar_chart([6.5, 6.3, 6.1, 5.9, 5.7, 5.5], ["2022", "2023", "2024", "2025", "2026", "2027"]);
+
+create_slide();choose_title();insert_text("Маркетинговый план");
+set_background_color("red");
+insert_picture("company_logo");set_top("picture", "title");
+set_width(3);
+
+create_slide();choose_title();insert_text("Queencard");
+set_font_italic();set_font_bold();set_font_color("purple");
+set_background_color("light blue");
+insert_picture("Poker");set_right("picture", "title");
+align_top_right_corner();
+insert_circle();align_bottom_right_corner();
+set_width(6);set_height(4);
+create_slide();choose_title();insert_text("Король");
+insert_picture("King");align_slide_right();
+
+create_slide();choose_title();insert_text("Временная шкала проекта");
+insert_table(1, 4);
+choose_table_cell(0, 0);insert_text("январь");choose_table_cell(0, 1);insert_text("февраль");choose_table_cell(0, 2);insert_text("март");choose_table_cell(0, 3);insert_text("апрель")
+choose_content();insert_text("например, \"Запуск программного обеспечения\", \"Начало маркетинговой кампании\"");
+insert_picture("project_team");set_bottom("picture", "table");
+insert_right_arrow();set_left("right_arrow", "picture");
+set_width(3);set_height(3);
+
+insert_pie_chart([40, 60], ["женщины", "мужчины"]);
+set_chart_title("Class 1");
+insert_picture("team_of_students");
+insert_rectangle();set_bottom("rectangle", "chart");
+choose_title();insert_text("1 класс");
+choose_content();insert_text("далее показано процентное соотношение полов в каждом классе");
+set_font_underline();set_font_size(20);
+insert_note("Принцип: Ева");
+create_slide();insert_pie_chart([40, 60],["Female", "Male"]);set_chart_title("Class 1");
+insert_picture("team_of_students");
+insert_rectangle();set_bottom("rectangle", "chart");
+
+create_slide();choose_title();insert_text("Отзывы клиентов");
+choose_content();insert_text("Что наши клиенты говорят о нас");set_font_bold();set_font_italic();
+insert_picture("happy_customer");
+insert_triangle();set_fill_color("purple");
+align_slide_right();
+
+create_slide();choose_title();insert_text("Стратегия");
+choose_content();insert_text("Наша маркетинговая стратегия основана на 4 P: продукт, цена, место и продвижение");
+set_font_size(20);set_line_space(2);set_font_bold();choose_title();set_font_underline();
+set_font_color("red");choose_content();set_font_color("red");
+insert_rectangle();align_slide_left();
+insert_picture("Apple_company_logo");set_right("picture", "rectangle");
+choose_picture();set_top("picture", "rectangle");
+
+create_slide();choose_title();insert_text("Поклонники");set_font_style("Arial");set_font_size(24);
+choose_content();insert_bullet_point("Benefits of our product");insert_bullet_point("Target market");insert_bullet_point("Pricing strategy");insert_bullet_point("Marketing channels");
+insert_picture("idol");set_height(6.5);
+align_slide_bottom();
+insert_rectangle();align_slide_top();
+insert_note("Ведущий：Ева");
+
+create_slide();choose_title();insert_text("Цифры продаж");
+insert_bar_chart([20, 30], ["20 января", "30 февраля"]);
+insert_line_chart([10, 15], ["January", "Feburuary"]);
+set_chart_title("Sales by Month");
+insert_rectangle();align_slide_top();
+choose_content();insert_text("Наш доход также неуклонно растет за последние 6 месяцев");
+
+create_slide();choose_title();insert_text("Отчет о продажах");
+insert_table(2, 5);
+choose_table_cell(0, 0);insert_text("Продукт");choose_table_cell(0, 1);insert_text("Проданные единицы");choose_table_cell(0, 2);insert_text("Выручка");choose_table_cell(0, 3);insert_text("Расходы");choose_table_cell(0, 4);insert_text("Прибыль")
+insert_table_row(["Компьютер", "1000", "1000000$", "500000$", "500000$"])
+insert_table(1, 5);insert_table_row(["Printer", "500", "$100000", "$50000", "$50000"])
+
+create_slide();insert_picture("city_skyline");align_slide_top();
+set_width(6);set_height(4);
+choose_title();insert_text("Городская жизнь");
+choose_picture();align_top_left_corner();
+choose_title();set_font_size(20);set_font_bold();
+
+create_slide();insert_line_chart([40, 30, 30], ["концерт", "альбом", "книга"]);
+choose_title();insert_text("Сила фэндома");
+choose_content();insert_text("Поклонники играют жизненно важную роль в формировании успеха и влияния различных форм развлечений, от фильмов и телешоу до спорта и музыки");
+set_font_style("Arial");set_font_size(20);
+insert_right_arrow();align_slide_top();
+insert_textbox();align_slide_bottom();
+align_slide_top();
+
+create_slide();choose_title();insert_text("Tencent");
+insert_rectangle();align_slide_top();
+rotate_element(90);
+choose_title();set_font_style("Georgia");set_font_italic();
+choose_content();insert_text("Tencent — ведущий китайский многонациональный конгломерат, основанный в 1998 году. Он специализируется на различных интернет-услугах и продуктах, включая социальные сети, онлайн-игры, электронную коммерцию, облачные вычисления и искусственный интеллект. ");
+set_font_size(24);set_font_style("Arial");
+
+set_background_color("green");
+insert_picture("Tencent_logo");
+set_width(6.5);
+insert_line_chart([40, 30, 30], ["Model A", "Model B", "Model C"]);
+insert_bar_chart([40, 30, 30],["Model A", "Model B", "Model C"]);
+
+create_slide();choose_title();insert_text("Происхождение британцев");set_font_underline();
+choose_content();insert_text("Истоки Соединенного Королевства можно проследить до времен англосаксонского короля Ательстана, который в начале 10 века н.э. заручился поддержкой соседних кельтских королевств и стал ");
+set_font_size(20);
+set_font_size(40);set_background_color("green");
+
+insert_rectangle();align_slide_right();
+set_fill_color("yellow");
+choose_title();insert_text("Винда");
+choose_content();insert_text("Vinda Group — ведущая компания по производству средств гигиены, основанная в 1985 году. Она специализируется на производстве и дистрибуции папиросной бумаги, одноразовых средств гигиены и средств личной гигиены");
+set_font_size(20);set_font_color("green");set_font_style("Vinda");
+set_line_space(2);choose_title();set_line_space(2);
+
+choose_title();insert_text("Мои увлечения");
+insert_picture("guitar");align_top_right_corner();
+choose_content();insert_text("Игра на гитаре — одно из моих любимых увлечений");
+set_font_size(24);set_font_color("purple");
+
+create_slide();choose_title();insert_text("План маркетинга");
+choose_content();insert_text("Маркетинговый план");
+set_font_style("Calibri");
+insert_picture("vinda_logo");
+align_top_left_corner();
+
+create_slide();choose_title();insert_text("Маркетинговая кампания");
+insert_picture("smiling_customer");align_top_left_corner();
+set_height(5);set_width(6);
+choose_content();insert_bullet_point("Profits");insert_bullet_point("Repute");insert_bullet_point("Go listing");
+set_font_size(20);choose_title();set_font_size(20);
+
+create_slide();choose_title();insert_text("Типы батарей");
+set_font_bold();set_font_italic();
+insert_picture("Product A");
+align_slide_left();
+insert_table(4, 2);choose_table_cell(0, 0);insert_text("Тип батареи");choose_table_cell(0, 1);insert_text("Описание");choose_table_cell(1, 0);insert_text("Щелочные и обычные бытовые батареи");choose_table_cell(1, 1);insert_text("С длительным сроком хранения");choose_table_cell(2, 0);insert_text("Литий-ионные и перезаряжаемые батареи");choose_table_cell(2, 1);insert_text("Используемые в электронных устройствах");choose_table_cell(3, 0);insert_text("Никель-кадмиевые аккумуляторы");choose_table_cell(3, 1);insert_text("С высокой плотностью энергии")
+
+insert_pie_chart([30, 25, 20, 15, 10], ["бренд A", "бренд B", "бренд C", "бренд D", "другие бренды"]);
+set_chart_title("Air Condition Brands");
+choose_content();insert_text("этот слайд содержит краткое описание или ключевые моменты о каждом бренде");
+insert_picture("Haier");align_slide_bottom();
+choose_content();set_font_underline();set_font_color("green");
+insert_triangle();insert_rectangle();
+choose_shape("triangle");set_bottom("triangle", "rectangle");
+choose_shape("rectangle");rotate_element(45);
+
+choose_title();insert_text("Наша команда");
+insert_picture("team");set_width(4);set_height(3);
+rotate_element(45);
+align_top_left_corner();
+choose_title();set_font_style("Calibri");set_font_size(28);
+
+choose_title();insert_text("Удостоверение личности");
+insert_line_chart([120, 140, 110], ["Фуцзянь", "Шанхай", "Пекин"]);
+set_chart_title("ID Card Operation");
+insert_picture("ID_card");align_slide_right();
+choose_title();set_font_style("Verdana");set_font_size(32);
+set_background_color("purple");
+
+choose_title();insert_text("Отчет о продажах");
+set_font_style("Arial");set_font_size(48);set_font_bold();
+insert_table(5, 3);
+choose_table_cell(0, 0);insert_text("Регион");choose_table_cell(0, 1);insert_text("Продажи");choose_table_cell(0, 2);insert_text("Рост");choose_table_cell(1, 0);insert_text("Север");choose_table_cell(1, 1);insert_text("50 000 долларов США");choose_table_cell(1, 2);insert_text("5 %");choose_table_cell(2, 0);insert_text("Восток");choose_table_cell(2, 1);insert_text("75 000 долларов США");choose_table_cell(2, 2);insert_text("10 %");choose_table_cell(3, 0);insert_text("Юг");choose_table_cell(3, 1);insert_text("45 000 долларов США");choose_table_cell(3, 2);insert_text("3 %");choose_table_cell(4, 0);insert_text("Запад");choose_table_cell(4, 1);insert_text("60 000 долларов");choose_table_cell(4, 2);insert_text("8%")
+set_background_color("green");
+choose_content();insert_text("Имя: Джон Доу, Дата рождения: 1 января 1990 г., Пол: Мужской, Идентификационный номер: 123456789, Орган, выдавший лицензию: Департамент транспортных средств, Срок действия: 31 декабря 2023 г.");
+insert_picture("beach");
+insert_right_arrow();
+choose_picture();set_top("picture", "right_arrow");
+
+insert_rectangle();
+set_fill_color("orange");
+set_width(6);set_height(5);
+choose_title();insert_text("Важная информация");set_font_bold();
+set_font_size(24);set_font_color("green");
+choose_content();insert_bullet_point("pot");insert_bullet_point("scissors");insert_bullet_point("scoup");
+insert_picture("exclamatory_mark");
+align_top_left_corner();
+create_slide();insert_rectangle();align_slide_left();
+choose_title();insert_text("Дополнительные сведения");
+
+choose_content();insert_text("Вот некоторые статистические данные о росте нашей компании");
+set_font_color("purple");
+choose_table();insert_table(1, 3);
+choose_table_cell(0, 0);insert_text("доход");choose_table_cell(0, 1);insert_text("прибыль");choose_table_cell(0, 2);insert_text("количество сотрудников")
+
+insert_picture("converse_shoes");
+choose_content();insert_text("Converse — популярный бренд обуви, известный своими культовыми кроссовками и повседневным стилем");
+set_font_size(18);set_font_color("red");
+
+choose_content();insert_text("Лимонный сок — это освежающий и пикантный напиток, приготовленный из свежевыжатых лимонов. Он богат витамином С и придает взрывной цитрусовый вкус");
+create_slide();choose_title();insert_text("Лимонный сок");
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("Товар");choose_table_cell(0, 1);insert_text("Цена");choose_table_cell(0, 2);insert_text("Характеристики");choose_table_cell(1, 0);insert_text("A");choose_table_cell(1, 1);insert_text("B");choose_table_cell(1, 2);insert_text("C")
+insert_picture("lemon_juice");set_right("picture","table");
+choose_content();insert_text("Страница 1");
+
+insert_picture("beach");align_top_left_corner();
+choose_content();insert_text("Забронируйте отпуск сегодня!");
+choose_title();insert_text("Время отпуска");
+set_font_size(18);set_font_style("Times New Roman");choose_content();set_font_size(18);set_font_style("Times New Roman");
+choose_content();insert_bullet_point("Relaxing on the beach");insert_bullet_point("Swimming in the ocean");insert_bullet_point("Eating delicious seafood");
+
+create_slide();choose_title();insert_text("Чили");
+set_background_color("red");
+insert_picture("chili");
+choose_content();insert_text("Чили — это острое и ароматное блюдо, приготовленное из мяса, бобов и различных специй. Оно известно своим насыщенным вкусом и приятной остротой");
+
+choose_title();insert_text("Чили");insert_picture("chili_landscape");
+insert_table(4, 3);choose_table_cell(0, 0);insert_text("Ингредиент");choose_table_cell(0, 1);insert_text("Количество");choose_table_cell(0, 2);insert_text("Уровень остроты");choose_table_cell(0, 3);insert_text("Происхождение");choose_table_cell(1, 0);insert_text("Говядина");choose_table_cell(1, 1);insert_text("2 фунта");choose_table_cell(1, 2);insert_text("Средний");choose_table_cell(1, 3);insert_text("Мексика");choose_table_cell(2, 0);insert_text("Бобы");choose_table_cell(2, 1);insert_text("1 банка");choose_table_cell(2, 2);insert_text("Мягкое");choose_table_cell(2, 3);insert_text("Соединенные Штаты");choose_table_cell(3, 0);insert_text("Помидоры");choose_table_cell(3, 1);insert_text("3");choose_table_cell(3, 2);insert_text("Горячие");choose_table_cell(3, 3);insert_text("Испания")
+insert_note("Страница 2");
+
+insert_picture("eating_humburger");align_slide_bottom();
+choose_title();insert_text("Прогнозы продаж на Q3");
+choose_content();insert_text("Прогнозы продаж на третий квартал указывают на устойчивый рост выручки и доли рынка. Благодаря целенаправленным маркетинговым стратегиям и усовершенствованиям продуктов мы ожидаем значительного увеличения показателей продаж");
+
+choose_title();insert_text("Маркетинговая стратегия");
+choose_content();insert_text("Маркетинговая стратегия нашей компании заключается в том, чтобы сосредоточиться на рекламе в социальных сетях и маркетинге влияния");
+insert_bullet_point("Instagram");insert_bullet_point("Facebook");insert_bullet_point("Twitter");
+insert_picture("using_smartphone");
+insert_rectangle();set_top("rectangle","picture");
+insert_table(6, 4);choose_table_cell(0, 0);insert_text("Месяц");choose_table_cell(0, 1);insert_text("Доход");choose_table_cell(0, 2);insert_text("Продано единиц");choose_table_cell(0, 3);insert_text("Темпы роста")
+
+create_slide();choose_title();insert_text("Запуск продукта");
+insert_text("Представляем наш новейший продукт");
+insert_picture("product");
+align_slide_bottom();
+set_background_color("purple");align_slide_top();
+
+choose_title();insert_text("Исследуйте Китай");
+insert_picture("china_map");
+align_top_left_corner();
+choose_content();insert_text("Китай — увлекательное туристическое направление, известное своей богатой историей, яркой культурой и захватывающими дух пейзажами. От знаменитой Великой Китайской стены до шумного мегаполиса Шанхай — каждый путешественник найдет что-то для себя в этом огромном и разнообразная страна");
+insert_table(8, 5);choose_table_cell(0, 0);insert_text("Провинция");choose_table_cell(0, 1);insert_text("Знаменитые достопримечательности");choose_table_cell(0, 2);insert_text("Средняя температура");choose_table_cell(0, 3);insert_text("Туристические номера");choose_table_cell(0, 4);insert_text("Рекомендуемый сезон")
+create_slide();choose_title();insert_text("Временная шкала проекта");
+insert_star();align_slide_right();
+align_slide_right();
+
+choose_title();insert_text("OPPO");set_font_color("red");set_font_size(20);set_font_underline();set_font_bold();
+choose_content();insert_text("OPPO — ведущий производитель смартфонов, известный своим инновационным дизайном и передовыми технологиями".");
+insert_picture("oppo_smartphone");set_left("picture","content");
+create_slide();choose_title();insert_text("Xiaomi");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("Товар");choose_table_cell(0, 1);insert_text("Цена");choose_table_cell(0, 2);insert_text("Характеристики");choose_table_cell(0, 3);insert_text("Наличие");choose_table_cell(1, 0);insert_text("Mi 11");choose_table_cell(1, 1);insert_text("699$");choose_table_cell(1, 2);insert_text("Snapdragon 888, камера 108MP");choose_table_cell(1, 3);insert_text("Global");choose_table_cell(2, 0);insert_text("Redmi Note 10");choose_table_cell(2, 1);insert_text("249$");choose_table_cell(2, 2);insert_text("AMOLED-дисплей, камера 48MP.");choose_table_cell(2, 3);insert_text("Глобальный")
+
+create_slide();choose_title();insert_text("Обзор продукта");
+choose_table();insert_table(4, 3);choose_table_cell(0, 0);insert_text("Название продукта");choose_table_cell(1, 0);insert_text("Артикул");choose_table_cell(2, 0);insert_text("Цена");choose_table_cell(3, 0);insert_text("Количество");
+set_background_color("green");
+
+set_background_color("blue");choose_title();insert_text("Написание исследований");
+choose_content();insert_text("Написание исследования включает в себя систематическое исследование и документирование темы, чтобы внести новые знания и идеи в конкретную область");
+set_font_color("yellow");set_font_size(18);
+set_font_size(36);
+insert_line_chart([120, 140, 160], ["2016", "2017", "2018"]);
+set_chart_title("Publications Over Time");
+insert_picture("research_writing_cover");set_background_color("light blue");
+
+create_slide();choose_title();insert_text("Расписание на март");
+set_font_size(28);set_font_color("dark blue");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("Дата");choose_table_cell(0, 1);insert_text("Задача");choose_table_cell(0, 2);insert_text("Время начала");choose_table_cell(0, 3);insert_text("Время окончания");choose_table_cell(1, 0);insert_text("15 марта");choose_table_cell(1, 1);insert_text("Встреча с заинтересованными сторонами");choose_table_cell(1, 2);insert_text("9:00");choose_table_cell(1, 3);insert_text("10:30");choose_table_cell(2, 0);insert_text("23 марта");choose_table_cell(2, 1);insert_text("Просмотр и обновление проекта");choose_table_cell(2, 2);insert_text("14:00");choose_table_cell(2, 3);insert_text("16:00")
+insert_picture("calendar");set_top(picture, table);
+
+create_slide();choose_title();insert_text("Преимущества медитации");
+insert_picture("person_meditating");align_slide_bottom();
+choose_content();insert_text("Медитация — это простая, но мощная техника, которая может помочь вам достичь состояния внутреннего мира и спокойствия");
+set_font_size(24);set_font_style("Times New Roman");
+insert_rectangle();set_right("rectangle", "picture");
+set_fill_color("light green");
+create_slide();set_background_color("light blue");
+choose_table();insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("Медитация осознанности");choose_table_cell(1, 0);insert_text("Трансцендентальная медитация");choose_table_cell(2, 0);insert_text("Медитация сканирования тела");choose_table_cell(0, 1);insert_text("Медитация помогает успокоить ум и снизить уровень стресса, способствуя релаксации");choose_table_cell(1, 1);insert_text("Регулярная практика медитации улучшает способности к сосредоточению и концентрации");choose_table_cell(2, 1);insert_text("Медитация способствует эмоциональной стабильности, осознанности и общему благополучию. ");
+
+create_slide();set_background_color("green");
+insert_picture("grassland");set_width(6.5);set_height(5.5);
+choose_title();insert_text("Функции лесов");set_font_color("dark red");set_font_size(40);
+insert_right_arrow();set_fill_color("yellow");
+set_right("right_arrow", "picture");
+
+insert_pie_chart([40, 20, 15, 10, 15], ["еда", "жилье", "транспорт", "развлечения", "прочее"]);
+insert_table(6, 2);choose_table_cell(0, 0);insert_text("Category");choose_table_cell(0, 1);insert_text("Percentage")
+set_bottom("table",pie_chart");
+choose_title();insert_text("Мои расходы в мае 2023 года");
+set_font_italic();
+
+create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");
+move_to_slide(0);choose_title();insert_text("Мои летние каникулы");set_font_style("Microsoft JhengHei");
+move_to_slide(1);insert_picture("family");
+move_to_slide(2);insert_bar_chart([120, 80, 40, 60], ["Продажи", "Расходы", "Прибыль", "Инвестиции"]);
+move_to_slide(3);choose_content();insert_text("Во время летних каникул я отправился в незабываемое приключение. Я исследовал новые направления, наслаждаясь теплом золотых закатов и отдыхая на песчаных пляжах");
+move_to_slide(4);choose_table();insert_table(2, 1);choose_table_cell(0,0);insert_text("Продажи");set_font_size(26);choose_table_cell(1,0);insert_text("Расходы");set_font_size(26);
+
+create_slide();choose_title();insert_text("Бизнес-план");
+insert_picture("light_bulb");align_slide_left();
+choose_content();insert_text("Предпринимательство — это процесс проектирования, запуска и управления новым бизнесом, который часто изначально является малым бизнесом. Людей, которые создают этот бизнес, называют предпринимателями");
+set_font_style("Georgia");set_font_size(10);
+set_background_color("green");
+insert_circle();
+align_slide_right();
+move_to_slide(0);choose_content();insert_text("Маркетинговая стратегия");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("Кампания в социальных сетях");choose_table_cell(1, 0);insert_text("Партнерство с влиятельными лицами");choose_table_cell(2, 0);insert_text("Маркетинг по электронной почте")
+choose_table_cell(0,3);insert_text("10000 долларов");choose_table_cell(1,3);insert_text("15000 долларов");choose_table_cell(2,3);insert_text("5000 долларов");
+insert_note("2023/5");
+
+choose_title();insert_text("Целевая аудитория");set_font_style("Arial");
+align_top_right_corner();
+insert_picture("Gen_Z");set_width(4);
+align_bottom_left_corner();
+choose_content();insert_text("Понимание и эффективное нацеливание на правильную аудиторию имеют решающее значение для доставки адаптированных сообщений и максимизации воздействия маркетинговых усилий");
+
+choose_title();insert_text("Основы крупномасштабного моделирования");set_font_size(24);
+insert_picture("neutral_network");align_slide_bottom();
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("Число");choose_table_cell(0, 1);insert_text("Примечание")
+align_slide_top();
+
+insert_picture("tower");align_top_right_corner();
+choose_title();insert_text("Последнее ограбление");
+insert_rectangle();set_top("rectangle", "title");
+choose_title();set_font_color("dark green");set_font_size(28);
+set_font_style("Microsoft New Tai Lue");
+set_background_color("light blue");
+
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("Задача");choose_table_cell(0, 1);insert_text("Приоритет");choose_table_cell(0, 2);insert_text("Время начала");choose_table_cell(0, 3);insert_text("Время окончания");choose_table_cell(1, 0);insert_text("Планирование проекта");choose_table_cell(1, 1);insert_text("Высокая");choose_table_cell(1, 2);insert_text("9:00");choose_table_cell(1, 3);insert_text("10:30")
+choose_content();insert_text("Эффективное управление временем — ключевой навык для достижения успеха как в личной, так и в профессиональной сфере");
+set_font_italic();
+choose_table();set_bottom("table","content");
+insert_picture("clock");
+insert_note("Ведущая: Ева");
+
+create_slide();choose_title();insert_text("Профиль компании");
+choose_content();insert_text("Наша компания была основана в 2005 году с целью предоставления высококачественных продуктов и услуг нашим клиентам. С тех пор мы выросли в ведущего поставщика инновационных решений для широкого спектра отраслей. . Наша команда экспертов стремится к совершенству во всем, что мы делаем");
+choose_title();set_font_style("Calibri Light");set_font_size(40);
+insert_picture("company_logo");align_slide_right();
+set_height(2);set_width(3);align_slide_left();
+align_bottom_left_corner();
+create_slide();set_background_color("blue");
+choose_content();insert_text("Быть ​​лидером в области инноваций и устойчивого развития, приносить пользу нашим заинтересованным сторонам и положительно влиять на мир");
+set_font_underline();set_line_space(2);
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("А-72");choose_table_cell(0, 1);insert_text("С-71")
+insert_table(1, 2);insert_table_row(["Б-72", "Д-71"])
+
+create_slide();choose_title();insert_text("Данные о продажах");
+insert_table(15, 6);
+choose_table();choose_table_cell(0, 0);insert_text("Продукт");choose_table_cell(0, 1);insert_text("Продажи за январь");choose_table_cell(0, 2);insert_text("Продажи за февраль");choose_table_cell(0, 3);insert_text("Продажи за март");choose_table_cell(0, 4);insert_text("Общие продажи");choose_table_cell(0, 5);insert_text("Средние продажи");choose_table_cell(1, 0);insert_text("iPhone");choose_table_cell(1, 1);insert_text("22");choose_table_cell(1, 2);insert_text("13");choose_table_cell(1, 3);insert_text("15");choose_table_cell(1, 4);insert_text("17");choose_table_cell(1, 5);insert_text("12")
+align_top_left_corner();
+insert_note("Источник данных: отдел продаж");
+create_slide();insert_table(15, 6);insert_table_row(["Product", "January Sales", "February Sales", "March Sales", "Total Sales", "Average Sales"]);insert_table_row(["iPhone", "22", "13", "15", "17", "12"]);align_top_left_corner()
+
+choose_title();insert_text("Маркетинговые стратегии");
+set_font_style("Arial Black");
+choose_content();insert_text("Поисковая оптимизация (SEO)");insert_text("Маркетинг в социальных сетях (SMM)");insert_text("Рекламная рассылка");insert_text("Реклама с оплатой за клик (PPC)");
+set_font_color("dark blue");
+set_font_color("green");
+insert_picture("thumb");set_width(5);set_bottom("picture", "content");
+
+choose_title();insert_text("Большой каньон");set_font_italic();
+set_font_size(30);
+set_font_style("Times New Roman");
+insert_picture("GrandCanyon");
+set_right("picture","title");
+set_height(4);set_width(6);
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("Гуандун");choose_table_cell(0, 1);insert_text("Пекин");choose_table_cell(0, 2);insert_text("Шанхай");choose_table_cell(0, 3);insert_text("Хайнань");choose_table_cell(1, 0);insert_text("34%");choose_table_cell(1, 1);insert_text("36%");choose_table_cell(1, 2);insert_text("20%");choose_table_cell(1, 3);insert_text("10%")
+insert_pie_chart([34, 36, 20, 10], ["Гуандун", "Пекин", "Шанхай", "Хайнань"]);
+choose_chart();set_bottom("chart", "table");
+insert_bar_chart([34, 36, 20, 10],["Guangdong","Beijing", "Shanghai", "Hainan"]);
+insert_note("Источник изображения: Служба национальных парков");
+
+create_slide();choose_title();insert_text("Сравнение продуктов");
+insert_table(5, 2);choose_table_cell(0, 0);insert_text("Смартфон (Apple iPhone 13)");choose_table_cell(0, 1);insert_text("Ноутбук (Dell XPS 13)");choose_table_cell(1, 0);insert_text("Умные часы (Apple Watch Series 7)");choose_table_cell(1, 1);insert_text("Наушники (Sony WH-1000XM4)");choose_table_cell(2, 0);insert_text("Камера (Canon EOS R5)");choose_table_cell(2, 1);insert_text("Телевизор (Samsung QLED Q90T)");choose_table_cell(3, 0);insert_text("Игровая консоль (PlayStation 5)");choose_table_cell(3, 1);insert_text("Фитнес-трекер (Fitbit Charge 4)");choose_table_cell(4, 0);insert_text("Беспроводные наушники (AirPods Pro)");choose_table_cell(4, 1);insert_text("Планшет (iPad Pro)")
+choose_title();align_bottom_right_corner();
+set_background_color("light blue");
+
+create_slide();choose_title();insert_text("Ежемесячный отчет о продажах");
+choose_content();insert_bar_chart([10000, 12000, 15000, 18000, 20000, 25000, 28000, 30000, 32000, 35000, 40000, 45000], ["Январь", "Февраль", "Март", "Апрель", "Май", "Июнь", "Июль", "Август", "Сентябрь", "Октябрь", "Ноябрь", "Декабрь"]);
+set_chart_title("My Monthly Sales in 2023");
+align_slide_top();
+choose_content();insert_text("Ежемесячный отчет о продажах демонстрирует значительное увеличение доходов");
+insert_note("Представлено: xxx");
+
+set_background_color("light red");insert_picture("strawberry");
+create_slide();choose_title();insert_text("Объем проекта");create_slide();choose_title();insert_text("Временная шкала проекта");create_slide();choose_title();insert_text("Бюджет проекта");
+move_to_slide(1);set_background_color("light green");move_to_slide(2);set_background_color("light blue");move_to_slide(3);set_background_color("purple");
+move_to_slide(1);choose_content();insert_text("Наш проект включает в себя разработку нового программного приложения для наших клиентов. Приложение упростит их бизнес-процессы и повысит их прибыль");
+move_to_slide(2);insert_table(2, 6);choose_table();choose_table_cell(0, 0);insert_text("Месяц");choose_table_cell(0, 1);insert_text("Задача");choose_table_cell(0, 2);insert_text("Дата начала");choose_table_cell(0, 3);insert_text("Дата окончания");choose_table_cell(0, 4);insert_text("Ход выполнения");choose_table_cell(0, 5);insert_text("Комментарии")
+insert_line_chart([10, 12, 15, 11], ["2016", "2017", "2018", "2019"]);set_left("chart","table");
+insert_star();align_top_right_corner();
+move_to_slide(2);choose_title();set_font_underline();
+move_to_slide(3);choose_content();insert_text("Расходы на персонал: сюда входят расходы, связанные с членами проектной группы, такие как заработная плата, льготы и расходы на обучение");
+choose_content();set_font_style("Arial");
+insert_note("Спасибо!");
+
+choose_title();insert_text("Хронология компании");
+insert_rectangle();rotate_element(45);
+align_bottom_right_corner();
+set_background_color("light blue");
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("1980");choose_table_cell(0, 1);insert_text("1990");choose_table_cell(0, 2);insert_text("2000");choose_table_cell(0, 3);insert_text("2010")
+insert_table_row(["Компания основана", "Компания переехала в новое здание", "Компания стала публичной", "Компания приобретена конкурентом"])
+
+insert_picture("google_logo");align_slide_bottom();
+choose_title();insert_text("Заключение");set_font_italic();
+choose_content();insert_text("Мы все больше и больше едины, население всего мира — свободно смешиваясь. Это создаст мир гибридов — светло-коричневых, темноволосых, афро-евро-австрало-американо-азиатов, их цвет кожи и черты лица склонны к общемировому среднему");
+text_align_right();
+insert_rectangle();set_height(5);
+align_slide_bottom();
+
+create_slide();choose_title();insert_text("Этическая литературная критика");set_font_bold();
+set_font_color("blue");
+choose_content();insert_text("Метод этической литературной критики — это новый метод литературной критики, предложенный профессором Не Чжэньчжао из Центрально-китайского педагогического университета после сравнительного исследования, тонкого прочесывания и переосмысления истории и современного положения китайской и западной литературной критики. теории и методы");
+insert_picture("book_cover");
+align_slide_left();
+insert_rectangle();align_slide_right();
+set_background_color("light yellow");
+
+create_slide();choose_title();insert_text("Джейн Эйр Шарлотты Бронте");set_font_italic();
+choose_content();insert_text("В кажущемся счастливым финале Шарлотта использует наследие и огонь для развития сюжета");set_font_bold();
+set_font_color("dark red");set_font_style("Arial");
+insert_right_arrow();set_right("right_arrow", "content");
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("Категория");choose_table_cell(0, 1);insert_text("Информация");choose_table_cell(1, 0);insert_text("Год издания");choose_table_cell(1, 1);insert_text("1847")
+insert_picture("Charlotte_Bronte's_portrait");set_bottom("picture", "table");
+set_top("picture", "table");
+
+set_background_color("blue");
+choose_title();insert_text("Id in David Copperfield");set_font_italic();
+choose_content();insert_text("Ид — это своего рода животный инстинктивный импульс, он спутан без разума, слепо стремится к удовлетворению и накапливает возможности для отреагирования. 1. Ид не заботятся ни о социальной морали, ни о внешнем стандарте поведения. Ид — это место для хранения инстинктов");
+insert_picture("book");set_top("book","content");
+set_height(5);set_width(6);
+insert_star();set_right("star","picture");
+choose_content();insert_bullet_point("");
+
+insert_table(3, 2);choose_table();choose_table_cell(0, 0);insert_text("Местоположение");choose_table_cell(0, 1);insert_text("Различные города мира");choose_table_cell(1, 0);insert_text("Этническая принадлежность");choose_table_cell(1, 1);insert_text("Китайское сообщество и культура");choose_table_cell(2, 0);insert_text("Особенности");choose_table_cell(2, 1);insert_text("Китайская архитектура, бизнес, кухня, культурные праздники")
+choose_title();insert_text("Китайский квартал");set_font_bold();
+insert_pie_chart([40, 30, 30], ["Chinese Restaurants", "Chinese Retail Stores", "Cultural Festivals and Events"]);
+insert_picture("China_town");
+align_slide_bottom();
+insert_star();align_slide_right();
+insert_note("Китайский квартал");
+
+create_slide();set_background_color("green");
+choose_title();insert_text("феминизм");set_font_color("green");
+choose_content();insert_text("Феминизм — это вера и цель, согласно которой женщины должны иметь те же права, власть и возможности, что и мужчины");
+set_font_color("yellow");set_font_italic();
+
+choose_title();insert_text("3-я волна движения феминизма");set_font_bold();
+set_font_style("Times New Roman");set_font_color("blue");set_font_size(28);
+choose_content();insert_text("Он фокусируется на многорасовых религиозных верованиях, этнических обычаях, мультикультурализме, защите окружающей среды, потреблении, ориентации на разнообразие");
+insert_picture("female_portrait");set_top("picture","content");
+
+create_slide();choose_title();insert_text("экранизация Гордости и предубеждения");
+set_font_size(24);set_font_italic();
+choose_content();insert_text("Через четырнадцать лет после первого выхода в эфир экранизация романа Джейн Остин " Гордость и предубеждение" сценаристом Эндрю Дэвисом 1995 года остается эталоном, по которому обычно оценивается адаптация Остин. Известная своей "сексуальностью" исторической драмы, адаптация якобы обращается к современным чувствам. и современные драматические ожидания. Выбор интерпретации Дэвиса делает упор на чувственность и фокусируется на желаниях Дарси".");
+insert_bullet_point("");
+set_font_size(20);set_line_space(2);
+insert_picture("web_image");
+insert_rectangle();align_top_right_corner();
+set_background_color("light orange");
+
+insert_table(3, 2);
+choose_table();choose_table_cell(0, 0);insert_text("Местонахождение");choose_table_cell(1, 0);insert_text("Этническая принадлежность")
+choose_content();insert_text("Элизабет Беннет и мистер Дарси претерпевают значительное развитие персонажей на протяжении всего романа, извлекая важные уроки о себе и обществе".");
+insert_picture("Elizabeth_Bennet_and_Mr. Darcy");set_bottom("picture", "table");
+align_slide_right();
+insert_rectangle();align_top_left_corner();
+create_slide();choose_title();insert_text("Роль социального класса в гордости и предубеждении");set_font_underline();
+choose_content();insert_text("Социальный класс играет значительную роль в романе, влияя на отношения персонажей, их решения и самовосприятие");
+insert_circle();align_bottom_right_corner();set_fill_color("orange");
+set_background_color("orange");
+
+create_slide();choose_title();insert_text("Фигуры");
+insert_rectangle();set_fill_color("red");align_slide_left();
+insert_circle();set_fill_color("blue");align_slide_right();
+insert_triangle();set_fill_color("green");align_slide_left();
+insert_callout();set_fill_color("yellow");align_slide_right();
+
+insert_picture("19th-century_marriage_scene");align_slide_right();
+insert_triangle();set_right("triangle", "picture");
+choose_title();insert_text("Брак 19 века");
+set_font_italic();set_font_bold();
+
+insert_pie_chart([30, 25, 15, 10, 10, 10], ['ваниль', 'шоколад', 'клубника', 'шоколадная крошка с мятой', 'печенье и сливки', 'масло с орехами пекан']);
+insert_picture("strawberry");set_bottom("picture", "chart");
+choose_content();insert_text("Расходы значительно увеличились в прошлом квартале из-за более высоких операционных расходов и увеличения инвестиций в маркетинговые инициативы");
+set_font_style("Times New Roman");set_font_size(18);
+
+create_slide();choose_title();insert_text("Изготовление ППТ");insert_note("Изготовление ППТ");
+choose_content();insert_text("Создание привлекательных и впечатляющих презентаций PowerPoint требует тщательного планирования и исполнения");
+choose_content();set_font_underline();set_font_color("dark red");
+choose_title();set_font_bold();set_font_italic();
+insert_note("PPT");
+
+create_slide();choose_title();insert_text("Нейронные сети");
+choose_content();insert_bullet_point("Neural networks are a type of machine learning algorithm that are modeled after the structure of the human brain. They consist of layers of interconnected nodes that process information and learn to recognize patterns.");
+choose_title();set_font_color("red");
+insert_picture("neural_network_architecture");
+insert_cloud();set_right("cloud","picture");
+set_background_color("yellow");
+
+create_slide();insert_cloud();set_fill_color("red");align_slide_right();
+choose_content();insert_text("Предоставить четкие выводы");
+choose_title();set_font_color("orange");create_slide();choose_title();insert_text("Предварительная обработка данных");
+set_background_color("red");
+
+create_slide();choose_title();insert_text("Перенос обучения");
+set_font_size(28);set_font_bold();choose_content();set_font_size(28);
+set_font_style("Times New Roman");set_font_color("red");
+set_background_color("red");
+choose_content();insert_text("Обучение с подкреплением — это тип машинного обучения, при котором алгоритм учится методом проб и ошибок. Он часто используется, чтобы научить машины принимать решения в сложных условиях");
+
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("название модели");choose_table_cell(0, 1);insert_text("ChatGPT");choose_table_cell(1, 0);insert_text("архитектура");choose_table_cell(1, 1);insert_text("GPT (Generative Pre-trained Transformer)");choose_table_cell(2, 0);insert_text("размер тренировочных данных");choose_table_cell(2, 1);insert_text("несколько терабайт различных текстовых данных")
+choose_title();insert_text("GPT");set_font_bold();
+choose_content();insert_text("Generative Pre-trained Transformer 3 (GPT-3) — это авторегрессивная языковая модель, выпущенная в 2020 году, которая использует глубокое обучение для создания текста, подобного человеческому");
+set_font_underline();set_font_color("dark red");choose_title();set_font_color("dark red");
+insert_picture("gpt-3_architecture");set_right("picture","content");
+
+create_slide();choose_title();insert_text("Грозовой перевал");set_font_italic();
+choose_content();insert_text("История рассказывается Локвудом, незаинтересованной стороной, чье повествование служит рамкой для серии ретроспективных более коротких рассказов Эллен Дин, экономки");set_font_bold();
+set_font_color("red");choose_title();set_font_color("red");
+insert_right_arrow();
+set_width(6);set_height(4);
+create_slide();insert_cloud();
+insert_picture("wuthering_height_bookcover");
+choose_content();insert_text("Грозовой перевал, роман Эмили Бронте, опубликованный в 1847 году под псевдонимом Эллис Белл");
+set_font_style("Times New Roman");set_font_size(18);
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("Категория");choose_table_cell(0, 1);insert_text("Информация")
+insert_note("Microsoft");
+
+create_slide();choose_title();insert_text("Гордость и предубеждение Джейн Остин");
+choose_content();insert_text("Роман исследует темы любви, брака и социальных ожиданий среди британского дворянства");set_font_bold();set_font_underline();
+insert_right_arrow();set_left("right_arrow", "content");
+set_fill_color("light orange");choose_content();set_font_color("dark green");
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("Категория");choose_table_cell(0, 1);insert_text("Информация");choose_table_cell(1, 0);insert_text("Автор");choose_table_cell(1, 1);insert_text("Джейн Остин")
+insert_picture("jane_austen_portrait");
+set_height(6);align_top_right_corner();
+
+create_slide();choose_title();insert_text("Жизненный путь Сирсы");set_font_bold();
+set_font_size(24);
+insert_table(4, 3);choose_table_cell(0, 0);insert_text("Детство");choose_table_cell(0, 1);insert_text("0-10 лет");choose_table_cell(0, 2);insert_text("Школьное образование");choose_table_cell(1, 0);insert_text("Подростковый возраст");choose_table_cell(1, 1);insert_text("11-18 лет");choose_table_cell(1, 2);insert_text("Средняя школа")
+insert_picture("school");
+set_left("picture","table");
+
+create_slide();choose_title();insert_text("Исследуя Вселенную");set_font_underline();
+insert_picture("galaxy");
+choose_content();insert_bullet_point("Stars");insert_bullet_point("Planets");insert_bullet_point("Nebulae");insert_bullet_point("Black Holes");insert_bullet_point("Dark Matter");
+set_font_bold();set_font_italic();
+set_font_color("dark red");
+insert_pie_chart([35, 25, 40], ["Учебный корпус", "Стадион", "Детская площадка"]);
+align_slide_top();
+insert_line_chart([20, 30, 40, 10], ["1-й год", "2-й год", "3-й год", "4-й год"]);
+insert_bar_chart([20, 30, 40, 10], ["1st year", "2nd year", "3rd year", "4th year"]);
+set_background_color("blue");
+
+create_slide();choose_title();insert_text("введение");
+choose_content();insert_text("В этой статье мы исследуем, как использование нескольких и взаимодополняющих методов в течение более длительного периода времени приносит как потенциал, так и подводные камни, а также сложности и неопределенности".");
+set_font_color("red");
+set_font_size(20);
+set_background_color("light blue");choose_content();set_font_size(40);
+
+choose_content();insert_text("Наньян - национальный исторический и культурный город с глубоким историческим наследием и богатым культурным наследием");
+insert_bullet_point("");
+set_font_size(18);set_font_italic();set_font_style("Arial");
+choose_title();insert_text("Мой город — Нанкин");
+insert_picture("Nanjing");align_slide_right();
+create_slide();choose_title();insert_text("Каталог");insert_note("Каталог");
+set_font_italic();set_font_size(24);
+choose_content();insert_text("Каталог служит всеобъемлющим и визуально привлекательным ресурсом, демонстрирующим широкий спектр продуктов или услуг");
+set_font_color("green");set_background_color("dark blue");
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("Продукт");choose_table_cell(0, 1);insert_text("Цена");choose_table_cell(1, 0);insert_text("рубашка");choose_table_cell(1, 1);insert_text("29,99 долларов США");choose_table_cell(2, 0);insert_text("платье");choose_table_cell(2, 1);insert_text("59,99 долларов США")
+insert_pie_chart([40, 30, 30], ["shirt", "dress", "pants"]);
+insert_line_chart([40, 30, 30], ["shirt", "dress", "pants"]);
+insert_bar_chart([40, 30, 30], ["shirt", "dress", "pants"]);
+
+choose_title();insert_text("наслаждайтесь счастливой жизнью");
+insert_star();set_top("star","title");
+set_font_style("Arial Black");
+choose_content();insert_text("Наслаждение счастливой жизнью включает в себя нахождение радости в маленьких моментах, развитие значимых отношений, стремление к увлечениям, поддержание здорового баланса между работой и личной жизнью и заботу о себе");set_line_space(2);
+insert_picture("happy_person");align_top_right_corner();
+set_height(4);set_width(5);align_bottom_left_corner();
+
+choose_table();insert_table(5, 1);choose_table_cell(0, 0);insert_text("Завершенный марафон");choose_table_cell(1, 0);insert_text("Публикация первой книги");choose_table_cell(2, 0);insert_text("Повышенный уровень до менеджера");choose_table_cell(3, 0);insert_text("Более 100 часов волонтерской работы");choose_table_cell(4, 0);insert_text("Начал успешный бизнес");
+choose_title();insert_text("Мое большое достижение в 2023 году");
+choose_content();insert_text("В 2023 году я добился замечательных результатов, которые превзошли мои ожидания. От завершения марафона до публикации моей первой книги и повышения по службе эти успехи подпитывают мое стремление к дальнейшему росту и вдохновляют меня достичь даже больших высот");
+insert_picture("book");align_slide_top();
+insert_pie_chart([30, 25, 45], ["марафонцев", "книг", "волонтеров"]);
+insert_rectangle();set_left("rectangle","chart");
+insert_note("2023");
+
+choose_title();insert_text("Этическая литературная критика".");
+set_font_bold();set_font_color("blue");align_slide_bottom();
+insert_picture("mountain_landscape");align_slide_right();
+choose_content();insert_text("Метод этической литературной критики — это новый подход, предложенный профессором Не Чжэньчжао из Центрально-китайского педагогического университета");
+set_font_underline();set_font_style("Times New Roman");set_font_size(24);set_line_space(2);
+set_font_color("dark blue");
+insert_rectangle();align_slide_left();
+set_fill_color("green");insert_text("зеленый");
+align_top_right_corner();
+insert_right_arrow();set_right("right_arrow","content");
+
+create_slide();choose_title();insert_text("Члены команды");
+insert_picture("team_member");align_slide_bottom();
+set_width(6.5);
+insert_note("Участник команды");choose_title();set_font_bold();
+
+create_slide();choose_title();insert_text("Эффективность продаж");
+set_font_color("blue");set_font_size(24);set_font_underline();set_background_color("green");
+choose_content();insert_text("Показатели продаж — это ключевой показатель успеха компании в получении дохода. Он отражает эффективность отдела продаж и общий рыночный спрос на продукты или услуги");
+set_font_color("dark red");set_font_size(18);
+insert_table(3, 5);choose_table_cell(1, 1);insert_text("Год");choose_table_cell(1, 2);insert_text("Четверть");choose_table_cell(1, 3);insert_text("Доход");choose_table_cell(2, 1);insert_text("2018");choose_table_cell(2, 2);insert_text("К1");choose_table_cell(2, 3);insert_text("500 000 долларов");
+set_font_size(18);
+
+create_slide();choose_title();insert_text("Отчет о продажах");
+insert_line_chart(["Product A","Product B","Product C"], ["Продукт A", "Продукт B", "Продукт C"]);
+set_chart_title("Revenue Trend");
+insert_picture("T-shirt");insert_textbox();insert_text("Футболка");
+insert_star();set_right("star","picture");
+create_slide();choose_title();insert_text("Организационная структура");
+insert_table(4,2);choose_table_cell(0,0);insert_text("ГЕНЕРАЛЬНЫЙ ДИРЕКТОР");choose_table_cell(0,1);insert_text("Джон Смит");choose_table_cell(1,0);insert_text("ФИНАНСОВЫЙ ДИРЕКТОР");choose_table_cell(1,1);insert_text("Джейн Доу");choose_table_cell(2,0);insert_text("главный исполнительный директор");choose_table_cell(2,1);insert_text("Том Джонс");choose_table_cell(3,0);insert_text("КМО");choose_table_cell(3,1);insert_text("Сара Ли");
+choose_title();set_font_underline();move_to_previous_slide();choose_title();set_font_underline();
+set_font_size(20);set_font_color("purple");
+insert_note("Организационная структура");
+set_background_color("green");
+
+create_slide();choose_title();insert_text("Введение");
+choose_content();insert_text("Спасибо, что присоединились к нам сегодня. Мы рады".");
+insert_text("ты здесь, и я с нетерпением жду возможности поделиться с вами некоторыми интересными новостями");
+set_font_style("Times New Roman");set_font_size(20);
+insert_picture("landscape");set_height(3);set_width(5);
+insert_triangle();insert_rectangle();set_right("rectangle","triangle");
+set_background_color("purple");insert_note("2023");
+
+choose_title();insert_text("Запуск продукта");set_font_bold();set_font_color("red");
+insert_picture("computer");
+set_height(2);set_width(2);
+choose_content();insert_text("Наш новый продукт — это ультрасовременное мобильное устройство, сочетающее новейшие технологии с элегантным и удобным дизайном");
+set_font_bold();set_font_color("red");
+create_slide();choose_title();insert_text("Характеристики продукта");
+insert_table(2, 5);choose_table_cell(0, 0);insert_text("Особенность");choose_table_cell(0, 1);insert_text("Описание");
+insert_bar_chart([0.25,0.50,0.25], ["продукт A", "продукт B", "продукт C"]);
+set_chart_title("Feature Importance");
+set_background_color("light blue");insert_note("Важность функции");
+
+create_slide();choose_title();insert_text("Квартальные финансовые результаты");
+set_font_style("Arial");
+choose_content();insert_text("В этом квартале наша компания получила доход в размере 1,5 миллиона долларов США и прибыль в размере 500 000 долларов США");
+set_font_bold();set_font_underline();
+insert_table(4, 5);
+choose_table();choose_table_cell(0, 0);insert_text("Месяц");choose_table_cell(0, 1);insert_text("Доход");choose_table_cell(0, 2);insert_text("Расходы");choose_table_cell(0, 3);insert_text("Прибыль")
+insert_bar_chart([50, 60, 55, 70], ["Q1 2022", "Q2 2022", "Q3 2022", "Q4 2022"]);
+set_chart_title("Quarterly Financial Results in 2022");
+set_background_color("red");
+create_slide();choose_title();insert_text("Финансовый анализ");
+insert_picture("company_logo");
+choose_content();insert_text("Спасибо за внимание!");set_font_underline();set_font_italic();set_font_size(26);
+
+create_slide();choose_title();insert_text("Данные о продажах");
+insert_bar_chart([500000, 400000, 600000, 450000], ["Регион A", "Регион B", "Регион C", "Регион D"]);
+set_chart_title("Regional Sales");
+choose_title();set_font_underline();insert_note("Источник данных: Отчет о продажах за 2023 г.");
+
+create_slide();choose_title();insert_text("Опрос клиентов");
+insert_pie_chart([0.4, 0.3, 0.2, 0.05, 0.05], ["Очень доволен", "Доволен", "Нейтральный", "Недоволен", "Очень недовольна"]);
+align_slide_bottom();
+insert_picture("questionnaire");align_slide_top();
+insert_note("2023/5");
+
+choose_title();insert_text("Очарование лингвистики");set_background_color("light blue");
+choose_title();set_font_style("Arial");set_font_color("red");set_font_size(36);
+insert_text("Лингвистика — это научное исследование языка и его структуры. Она исследует тонкости человеческого общения, от фонетики и синтаксиса до семантики и прагматики".");
+set_font_style("Verdana");set_font_color("yellow");set_font_size(18);set_line_space(2);
+create_slide();choose_title();insert_text("Отрасли лингвистики");
+insert_table(3, 4);
+choose_table_cell(0, 0);insert_text("разделы языкознания");choose_table_cell(0, 1);insert_text("описание");choose_table_cell(0, 2);insert_text("примеры");choose_table_cell(1, 0);insert_text("Фонетика");choose_table_cell(1, 1);insert_text("Изучение звуков речи");choose_table_cell(1, 2);insert_text("Артикуляционная фонетика, Акустическая фонетика, Аудиальная фонетика")
+insert_picture("book_about_linguistics");align_slide_bottom();
+set_height(6);set_width(5);
+move_to_slide(0);set_background_color("purple");move_to_slide(1);set_background_color("purple");
+
+set_background_color("light green");choose_title();insert_text("Языковые семьи");
+set_font_bold();set_font_italic();
+insert_bar_chart([445, 1526,1290, 452], ["индоевропейский", "нигерско-конголезский", "австронезийский", "китайско-тибетский"]);
+set_chart_title("Language familiy and its number of languages");
+create_slide();choose_title();insert_text("Изучение языка");set_font_bold();set_font_italic();
+choose_content();insert_text("Овладение языком — это процесс, посредством которого люди приобретают способность воспринимать, понимать и воспроизводить язык. Он включает врожденные и приобретенные механизмы и зависит от различных факторов, таких как окружающая среда и социальное взаимодействие");
+set_font_style("Times New Roman");set_font_color("red");set_font_size(22);
+set_font_underline();set_font_bold();choose_title();set_font_color("red");
+insert_picture("English book");
+insert_rectangle();align_slide_right();
+choose_picture();align_slide_top();
+
+create_slide();choose_title();insert_text("Заключение");
+choose_title();set_font_style("bold");set_font_style("underline");set_font_color("red");
+choose_content();insert_text("");
+set_font_style("Verdana");set_font_color("yellow");
+create_slide();set_background_color("purple");create_slide();set_background_color("purple");create_slide();set_background_color("purple");create_slide();set_background_color("purple");
+move_to_slide(1);choose_title();insert_text("Обзор политики в отношении недвижимости в Китае");insert_picture("China_map");
+move_to_slide(2);choose_title();insert_text("Последние изменения");set_font_style("italic");set_font_style("Verdana");
+choose_content();insert_text("Недавние изменения в Китае привели к быстрому экономическому росту, технологическому прогрессу и социальным преобразованиям, позиционируя страну как глобальную электростанцию ​​и влияя на глобальную динамику в различных сферах");
+move_to_slide(3);choose_title();insert_text("Усилия по контролю за ценами на жилье");insert_triangle();
+align_top_right_corner();
+move_to_slide(4);choose_title();insert_text("Инициативы по увеличению доступного жилья");set_font_color("red");
+choose_content();insert_text("Были реализованы инициативы по увеличению доступного жилья, включая государственные субсидии, упрощенные процессы утверждения и государственно-частное партнерство, направленные на решение кризиса доступности жилья и обеспечение доступа к достойному жилью для всех");set_font_underline();set_font_italic();
+choose_chart();insert_pie_chart([0.35, 0.25, 0.20, 0.10, 0.10], ["государственные субсидии", "упрощенные процессы утверждения", "государственно-частное партнерство", "политика землепользования", "программы помощи в аренде"]);
+create_slide();choose_title();insert_text("Положение о застройщиках".");insert_note("Положение о застройщиках".");
+choose_content();insert_text("На этом слайде кратко опишите ключевые меры Китая по регулированию застройщиков и действия правительства по предотвращению мошенничества и продвижению практики устойчивого развития");
+choose_title();set_font_italic();choose_content();set_font_bold();
+move_to_slide(0);insert_note("Информация о Китае");move_to_slide(1);insert_note("Информация о Китае");move_to_slide(2);insert_note("Информация о Китае");move_to_slide(3);insert_note("Информация о Китае");move_to_slide(4);insert_note("Информация о Китае");move_to_slide(5);insert_note("Информация о Китае");
+
+move_to_slide(8);choose_title();insert_text("Рубеж развития медицинского оборудования для визуализации");choose_title();set_font_size(24);
+insert_line_chart([0.15, 0.12, 0.18, 0.20], ['Q1', 'Q2', 'Q3', 'Q4']);
+choose_chart();set_chart_title("Revenue Growth");
+insert_table(5, 2);choose_table_cell(0, 0);insert_text("Функция 1");choose_table_cell(0, 1);insert_text("Изображение высокого разрешения");
+set_background_color("light blue");
+insert_triangle();
+choose_content();insert_text("Передовые разработки медицинского оборудования для визуализации революционизируют здравоохранение благодаря визуализации с высоким разрешением, передовым алгоритмам искусственного интеллекта, анализу данных в реальном времени, повышенному комфорту для пациентов, мультимодальной интеграции и оптимизированному рабочему процессу, предоставляя медицинским работникам беспрецедентные диагностические возможности");
+set_font_bold();set_line_space(2);set_font_underline();set_font_italic();
+insert_note("Медицинское оборудование");
+
+set_background_color("blue");insert_rectangle();
+create_slide();choose_title();insert_text("Методы и подходы в антропологии");set_font_size(20);
+choose_content();insert_text("Антропология — это социальная наука, изучающая человеческое поведение, культуру и общества с использованием различных методов исследования");set_line_space(2);
+insert_circle();align_slide_right();
+set_width(4);
+
+create_slide();choose_title();insert_text("Важность правильного увлажнения");
+set_font_style("underline");set_font_style("italic");
+set_font_size(24);set_font_style("Arial");
+insert_picture("person_drinking_water");align_slide_right();
+set_width(6.5);insert_textbox();insert_text("Пить воду");set_bottom("textbox", "picture");
+set_background_color("purple");create_slide();set_background_color("purple");
+insert_picture("folder");set_width(6.5);set_height(5.5);
+choose_title();insert_text("Преимущества использования SmartArt");set_font_color("red");set_font_size(40);
+set_font_style("Arial");set_font_style("italic");
+
+choose_title();insert_text("Создание вашего бренда");set_background_color("light green");
+choose_content();insert_text("Построение бренда — важнейший компонент любого успешного бизнеса".");set_font_style("Arial");set_font_size(14);
+insert_rectangle();align_slide_right();
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("Идентичность бренда");choose_table_cell(0, 1);insert_text("Сообщения бренда");choose_table_cell(0, 2);insert_text("Голос бренда");choose_table_cell(0, 3);insert_text("Стратегия бренда")
+choose_table();copy_table()
+choose_content();set_font_size(14);set_font_style("Times New Roman");
+
+create_slide();choose_title();insert_text("Основы эффективного общения");set_font_style("Times New Roman");
+choose_content();insert_text("Ключевые моменты");insert_text("Описание");
+set_font_size(24);set_font_underline();set_font_bold();
+set_background_color("light orange");
+
+set_background_color("light blue");
+choose_title();insert_text("Встреча Тенсент");choose_content();insert_text("Встреча Тенсент");
+set_font_underline();set_font_color("dark red");
+choose_content();delete_text();insert_text("Tencent Meeting — это мощная платформа для видеоконференций, которая обеспечивает беспрепятственное сотрудничество и общение между командами и отдельными лицами. Она предлагает ряд функций для эффективных виртуальных встреч, включая совместное использование экрана, чат и запись");
+set_font_bold();set_font_italic();choose_title();set_font_bold();set_font_italic();
+insert_picture("tencent_meeting");
+
+insert_table(2, 3);
+choose_table_cell(0, 0);insert_text("Характеристики");choose_table_cell(0, 1);insert_text("Описание");choose_table_cell(0, 2);insert_text("Преимущества")
+insert_note("APP");set_background_color("purple");
+
+set_background_color("blue");choose_title();insert_text("Оценка качества");
+choose_content();insert_text("Оценка качества — это важнейший процесс оценки производительности и стандартов продуктов или услуг. Он включает в себя тщательный анализ, измерение и сравнение для обеспечения соблюдения контрольных показателей качества и постоянного улучшения");
+insert_picture("checklist");
+set_left("picture","content");
+insert_pie_chart([0.40, 0.15, 0.25, 0.20], ["Отлично", "Хорошо", "Удовлетворительно", "Плохо"]);
+set_chart_title("Quality Ratings Distribution");
+align_slide_bottom();
+create_slide();insert_pie_chart([0.40, 0.15, 0.25, 0.20], ["Excellent", "Good", "Fair", "Poor"]);set_chart_title("Quality Ratings Distribution");align_slide_bottom();
+
+create_slide();choose_title();insert_text("Руководство по завершению проекта");
+insert_right_arrow();align_top_right_corner();
+rotate_element(90);
+move_to_slide(0);choose_title();insert_text("Введение");set_font_bold();move_to_slide(1);choose_title();set_font_bold();
+move_to_slide(0);insert_note("2022/6/10");
+set_background_color("light blue");insert_cloud();
+
+set_background_color("yellow");
+choose_content();insert_text("Trados Studio — это мощный инструмент автоматизированного перевода (CAT), разработанный SDL. Он предлагает ряд функций и функций, упрощающих процесс перевода, включая память переводов, управление терминологией. и инструменты управления проектами");set_line_space(2);
+insert_note("Создано Евой");choose_title();insert_text("Trados Studio");
+set_font_color("dark green");set_font_size(30);
+insert_picture("Trados_Studio_logo");align_slide_right();
+set_width(4);set_height(3);
+choose_picture();rotate_element(-15);
+set_background_color("purple");
+
+insert_table(2, 3);
+choose_table_cell(0, 0);insert_text("Год");choose_table_cell(0, 1);insert_text("Описание");choose_table_cell(0, 2);insert_text("Изменения")
+choose_title();insert_text("Великие перемены за последнее десятилетие");
+set_font_bold();set_font_italic();
+set_background_color("light blue");
+
+choose_title();insert_text("Стоит ли вам подумать об обучении за границей?");set_font_bold();set_font_underline();
+insert_picture("students_studying_abroad");align_slide_bottom();
+set_width(5);set_height(3);
+set_background_color("purple");insert_note("Стоит ли вам подумать об обучении за границей?");
+
+insert_bar_chart([0.45,0.35,0.20], series=["штатные переводчики", "фрилансеры", "переводческие агентства"]);
+set_chart_title("Trados Studio Usage Statistics");
+create_slide();choose_title();insert_text("ABBYY FineReader");
+set_font_bold();set_font_underline();set_font_size(30);
+choose_content();insert_text("ABBYY FineReader — это программное обеспечение для оптического распознавания символов (OCR), которое позволяет пользователям преобразовывать отсканированные документы, PDF-файлы и изображения в редактируемые и доступные для поиска форматы. Благодаря расширенным возможностям распознавания текста и преобразования документов оно упрощает обработку документов и повышает производительность");
+set_line_space(2);set_font_italic();
+insert_picture("ABBYY_FineReader_logo");insert_textbox();insert_text("ABBYY FineReader");
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("Функция");choose_table_cell(0, 1);insert_text("Описание");choose_table_cell(0, 2);insert_text("Преимущества")
+choose_picture();set_right("picture","table");
+insert_pie_chart([0.45,0.45,0.05], ["Высокая точность", "Средняя точность", "Низкая точность"]);
+set_chart_title("Document Conversion Accuracy");
+insert_note("Страница 2");
+
+create_slide();choose_title();insert_text("Маркетинговая кампания");
+set_font_bold();set_font_underline();set_font_size(26);
+choose_content();insert_text("Наша маркетинговая кампания направлена ​​на повышение узнаваемости бренда, взаимодействие с нашей целевой аудиторией и стимулирование продаж. Благодаря стратегическому сочетанию онлайн- и офлайн-каналов маркетинга мы сосредоточены на предоставлении эффективных сообщений и измеримых результатов. .");
+align_slide_left();
+insert_picture("promotional_banner");insert_textbox();insert_text("рекламный_баннер");
+set_width(5);set_height(5);
+set_background_color("green");
+
+choose_title();insert_text("Устойчивая энергетика");set_font_color("red");
+insert_picture("wind_turbine");set_width(6);
+insert_table(4, 3);choose_table_cell(0,0);insert_text("ветер");choose_table_cell(1,0);insert_text("солнечный");choose_table_cell(2,0);insert_text("гидро");choose_table_cell(3,0);insert_text("геотермальный");choose_table_cell(0,1);insert_text("бюджетный");choose_table_cell(1,1);insert_text("низкое воздействие на окружающую среду");choose_table_cell(2,1);insert_text("высокая доступность");choose_table_cell(0,2);insert_text("высокие первоначальные инвестиции");choose_table_cell(1,2);insert_text("перемежающаяся доступность");choose_table_cell(2,2);insert_text("земельные конфликты");
+set_top("picture", "table");
+create_slide();choose_title();insert_text("Интернет-покупки");set_font_color("red");
+choose_content();insert_text("Онлайн-покупки — это процесс покупки товаров и услуг у продавцов через Интернет. Он становится все более популярным благодаря удобству и доступности");
+choose_title();set_font_color("blue");set_font_bold();set_line_space(2);
+create_slide();insert_picture("TV_series");set_width(6);
+set_background_color("blue");insert_note("О сериале");
+
+choose_title();insert_text("Здоровое питание");set_background_color("dark blue");
+choose_content();insert_text("Нажмите кнопку воспроизведения, чтобы начать видео");set_font_style("Verdana");
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("Группа продуктов");choose_table_cell(0, 1);insert_text("Рекомендуемые порции")
+align_slide_bottom();
+insert_picture("laptop");
+insert_rectangle();set_height(2);
+rotate_element(-45);
+
+choose_content();insert_text("В заключение можно сказать, что телевизионные сервисы произвели революцию в том, как мы потребляем развлечения, предоставив широкий выбор вариантов контента и удобство");
+set_font_style("Futura");
+choose_title();insert_text("Заключение");set_font_bold();
+insert_picture("colorful_plate");
+align_slide_bottom();
+set_background_color("green");
+
+create_slide();set_background_color("purple");
+choose_title();insert_text("Недостаток");
+set_font_bold();set_font_size(24);set_font_style("Arial");
+insert_note("2023/3/9");
+insert_pie_chart([0.30, 0.25, 0.15, 0.5, 0.25], ["Фрукты", "Овощи", "Злаки", "Белки", "Молочные продукты"]);
+align_slide_bottom();
+insert_textbox();insert_text("Недостаток слишком большого количества еды в том, что это сделает вас толстым".");set_bottom("textbox", "chart");
+choose_chart();set_chart_title("Daily Food Group Servings");
+
+insert_right_arrow();set_width(3.5);
+rotate_element(-90);
+align_slide_right();
+
+choose_title();insert_text("Технологические тенденции");set_font_underline();
+set_font_color("green");set_font_size(26);
+choose_content();insert_text("Идти в ногу с последними технологическими тенденциями очень важно в сегодняшнем быстро развивающемся цифровом ландшафте. От искусственного интеллекта и блокчейна до облачных вычислений и Интернета вещей эти тенденции формируют отрасли и революционизируют то, как мы жить, работать и общаться с миром");
+set_background_color("green");
+insert_picture("interconnected_networks");
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("Технологическая тенденция");choose_table_cell(0, 1);insert_text("Описание");choose_table_cell(0, 2);insert_text("Влияние")
+insert_line_chart([15,10,7,6,24], ["Мобильные устройства", "Пользователи Интернета", "Приложения AI", "Облачные сервисы", "Устройства умного дома"]);
+set_chart_title("Technology Values");
+insert_pie_chart([15,10,7,6,24], ["Mobile Devices", "Internet Users", "AI Applications", "Cloud Services", "Smart Home Devices"]);set_chart_title("Technology Values");
+
+set_background_color("green");
+choose_title();insert_text("Устойчивый образ жизни");set_font_italic();
+insert_picture("solar_panel");align_slide_left();
+choose_content();insert_text("Устойчивый образ жизни способствует ответственному потреблению, возобновляемым источникам энергии и экологически безопасным методам защиты окружающей среды и обеспечения лучшего будущего для будущих поколений. Делая сознательный выбор в нашей повседневной жизни, мы можем уменьшить наш углеродный след и создать более устойчивый мир");
+set_font_color("dark orange");
+insert_line_chart([1.6, 2.4, 4.8, 11], ["2013", "2014", "2015", "2016"]);
+set_chart_title("Renewable Energy Consumption Trend");
+set_bottom("chart","title");
+insert_cloud();rotate_element(-30);
+
+insert_table(3, 4);
+choose_table_cell(0,0);insert_text("Сбалансированное питание");choose_table_cell(1,0);insert_text("Контроль порций");choose_table_cell(2,0);insert_text("Гидратация");
+insert_picture("green_city");
+align_slide_top();
+choose_table();align_slide_bottom();
+
+choose_title();insert_text("Управление проектами");
+insert_picture("team");
+choose_title();set_font_underline();set_font_italic();
+choose_picture();align_top_left_corner();
+
+create_slide();choose_title();insert_text("Отчет о ходе проекта");
+insert_table(5, 3);choose_table_cell(0, 0);insert_text("Имена задач");choose_table_cell(0, 1);insert_text("Сроки");choose_table_cell(0, 2);insert_text("Статус выполнения")
+set_background_color("purple");choose_title();set_font_color("green");
+
+choose_title();insert_text("Университет и профессиональная школа");
+set_font_size(36);set_font_underline();
+choose_content();insert_text("Университеты и профессиональные школы предоставляют высшее образование и специализированную подготовку, чтобы вооружить студентов знаниями и навыками, необходимыми для успешной карьеры. Эти учреждения предлагают широкий спектр академических программ, возможностей для исследований и профессионального развития для способствовать личностному росту и карьерному росту");
+set_line_space(2);
+set_background_color("purple");
+
+insert_picture("professional_school");
+align_slide_right();
+insert_triangle();align_slide_left();
+set_width(10);set_height(15);
+set_bottom("picture","triangle");
+
+create_slide();set_background_color("blue");
+choose_title();insert_text("NFC");set_font_bold();
+choose_content();insert_text("NFC (Near Field Communication) обеспечивает бесперебойную беспроводную связь между устройствами, находящимися в непосредственной близости");
+set_font_color("dark green");set_font_size(20);
+insert_picture("nfc_logo");
+set_background_color("purple");
+choose_picture();set_right("picture","slide");
+
+insert_table(2, 4);choose_table();choose_table_cell(0, 0);insert_text("Продукт");choose_table_cell(0, 1);insert_text("Доход");choose_table_cell(0, 2);insert_text("Проданные единицы");choose_table_cell(0, 3);insert_text("Прибыль")
+set_background_color("light blue");
+
+insert_line_chart([500000, 1300000, 2500000, 4000000], ["2018", "2019", "2020", "2021"]);
+set_chart_title("NFC Device Growth");
+insert_table(2, 3);choose_table_cell(1, 0);insert_text("бесконтактные платежи");choose_table_cell(1, 1);insert_text("сенсорные транзакции");choose_table_cell(1, 2);insert_text("удобные и быстрые платежи")
+insert_star();set_width(6.5);set_height(6.5);
+align_slide_top();
+align_slide_right();
+
+choose_title();insert_text("Принятие разрушения");set_font_bold();
+set_font_size(20);set_font_style("Times New Roman");
+insert_picture("futuristic_cityscape");
+align_slide_bottom();
+insert_note("Создано [Ваше имя]");set_background_color("purple");
+set_background_color("light blue");
+
+choose_title();insert_text("Power Bank");align_top_left_corner();
+set_font_size(24);set_font_italic();
+choose_content();insert_text("Power Bank — это портативное устройство, обеспечивающее зарядку смартфонов, планшетов и других электронных устройств на ходу");
+set_font_underline();set_line_space(2);set_font_size(24);set_font_color("orange");
+insert_picture("yoobao_power_bank");align_slide_bottom();
+insert_table(3, 4);choose_table();choose_table_cell(0, 0);insert_text("Марка");choose_table_cell(0, 1);insert_text("Емкость (мАч)");choose_table_cell(0, 2);insert_text("Выходные порты");choose_table_cell(0, 3);insert_text("Цена ($)")
+insert_pie_chart([0.40, 0.30, 0.20, 0.10], ["Бренд A", "Бренд B", "Бренд C", "Другие"]);
+set_chart_title("Power Bank Market Share");
+insert_note("2023");
+insert_callout();align_slide_right();
+
+choose_title();insert_text("NBA");set_font_color("red");
+choose_content();insert_text("Национальная баскетбольная ассоциация (НБА) — профессиональная баскетбольная лига, состоящая из 30 команд из Северной Америки");
+set_font_size(20);
+align_bottom_left_corner();
+
+insert_picture("basketball_court");
+align_slide_top();
+insert_textbox();insert_text("баскетбольная площадка");set_background_color("blue");
+insert_table(4,3);
+choose_table();insert_table_row(["Team", "City", "Championships"]);insert_table_row(["Los Angeles", "Lakers", 17]);insert_table_row(["Boston", "Celtics", 17]);insert_table_row(["Chicago", "Bulls", 6])
+insert_bar_chart([17, 17, 6], ["Лейкерс", "Селтикс", "Буллз"]);
+set_chart_title("NBA Championships Distribution");
+create_slide();choose_title();insert_text("Введение в автономное вождение");set_font_underline();
+insert_picture("futuristic_self-driving_car");set_height(7);
+choose_content();insert_text("Автономное вождение, также известное как беспилотное вождение или беспилотная технология, относится к транспортным средствам, способным перемещаться и работать без участия человека");
+align_bottom_left_corner();
+insert_right_arrow();set_left("right_arrow", "content");
+set_right("right_arrow", "content");
+
+choose_content();insert_text("Автономное вождение революционизирует транспортную отрасль, предлагая повышенную безопасность, удобство и эффективность");
+set_font_size(18);set_font_bold();set_font_italic();
+set_font_underline();set_line_space(2);
+insert_table(2, 5);choose_table_cell(0, 0);insert_text("Типы датчиков");choose_table_cell(0, 1);insert_text("Лидар");choose_table_cell(0, 2);insert_text("Радар");choose_table_cell(0, 3);insert_text("Камеры");choose_table_cell(0, 4);insert_text("Общее количество")
+choose_content();set_font_style("Times New Roman");
+insert_pie_chart([0.40, 0.30, 0.30], ["Lidar", "Radar", "Cameras"]);
+set_chart_title("Sensor Types in Autonomous Driving");
+insert_note("Типы датчиков в автономном вождении");
+
+choose_title();insert_text("Автономное вождение");
+insert_picture("company_logo");align_bottom_left_corner();
+set_width(6.5);set_height(6);
+create_slide();choose_title();insert_text("Внедрение автономного вождения по регионам");
+set_font_style("Calibri");set_font_size(32);
+choose_content();insert_text("Технологии автономного вождения меняют транспортную среду, революционизируют отрасли и повышают безопасность и эффективность");
+set_font_color("dark orange");
+
+create_slide();choose_title();insert_text("Сила посадки".");set_font_style("Calibri");set_font_size(36);
+set_background_color("green");
+choose_content();insert_text("Озеленение не только украшает наше окружение, но также способствует экологической устойчивости и приносит множество преимуществ для здоровья");
+set_font_color("green");choose_title();set_font_color("green");
+insert_picture("lush_garden");
+insert_pie_chart([0.40, 0.30, 0.30], ["Окружающая среда", "Здоровье", "Сообщество"]);
+set_chart_title("Planting Benefits");
+set_bottom("chart", "picture");
+insert_right_arrow();rotate_element(60);
+set_height(2);set_width(4);insert_note("Страница 2");
+
+insert_table(3, 4);
+choose_table();choose_table_cell(0, 0);insert_text("Преимущества посадки");choose_table_cell(0, 1);insert_text("Окружающая среда");choose_table_cell(0, 2);insert_text("Здоровье");choose_table_cell(0, 3);insert_text("Сообщество")
+set_background_color("green");
+choose_title();insert_text("Другая информация");
+set_font_color("dark orange");set_font_underline();
+choose_title();align_top_left_corner();
+
+insert_picture("GoogleLogo");insert_textbox();insert_text("Google");
+choose_content();insert_text("Google и Microsoft Edge — два популярных веб-браузера, которые предлагают уникальные функции и функции. В то время как Google Chrome доминирует на рынке благодаря своей скорости и обширной экосистеме, Microsoft Edge стремится обеспечить беспрепятственный просмотр в Интернете и тесные интеграция с операционными системами Windows");
+set_font_size(16);
+choose_title();insert_text("Google против Microsoft Edge");set_font_color("red");
+choose_picture();align_bottom_left_corner();
+insert_table(3, 3);choose_table_cell(0, 0);insert_text("Функции");choose_table_cell(0, 1);insert_text("Google Chrome");choose_table_cell(0, 2);insert_text("Microsoft Edge");choose_table_cell(1, 0);insert_text("Скорость");choose_table_cell(1, 1);insert_text("Высокая");choose_table_cell(1, 2);insert_text("Умеренная");choose_table_cell(2, 0);insert_text("Экосистема");choose_table_cell(2, 1);insert_text("Обширная");choose_table_cell(2, 2);insert_text("Интегрированная")
+insert_bar_chart([0.50, 0.25, 0.25], ["Google Chrome", "Microsoft Edge", "Others"]);
+set_chart_title("Web Browser Market Share");insert_note("Страница 1");
+
+set_background_color("blue");choose_title();insert_text("Сеть и LinkedIn");
+choose_content();insert_text("Нетворкинг играет решающую роль в развитии карьеры, а LinkedIn — мощная платформа для профессионального общения. С миллионами пользователей по всему миру LinkedIn предлагает ряд функций для связи с профессионалами, демонстрации навыков и открыть для себя возможности трудоустройства");
+choose_title();set_font_color("dark red");choose_content();set_font_color("light red");
+choose_title();set_font_style("Arial");choose_content();set_font_style("Arial");
+choose_title();set_font_underline();choose_content();set_font_italic();set_font_size(24);
+insert_pie_chart([0.30,0.20,0.15,0.10,0.25], ["технологии", "финансы", "здравоохранение", "маркетинг", "другие"]);
+set_chart_title("LinkedIn User Distribution");
+insert_line_chart([0.30,0.20,0.15,0.10,0.25],["Technology", "Finance", "Healthcare", "Marketing", "Others"]);
+insert_bar_chart([0.30,0.20,0.15,0.10,0.25],["Technology", "Finance", "Healthcare", "Marketing", "Others"]);
+
+create_slide();choose_title();insert_text("Разные плиты");
+choose_content();insert_text("Существуют различные типы плит, которые удовлетворяют различные потребности в приготовлении пищи. От традиционных плит до передовых электрических плит и современных индукционных плит, каждый тип предлагает уникальные функции и преимущества");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("Тип плиты");choose_table_cell(0, 1);insert_text("Характеристики");choose_table_cell(0, 2);insert_text("Преимущества");choose_table_cell(1, 0);insert_text("Плита");choose_table_cell(1, 1);insert_text("Газовые или электрические горелки");choose_table_cell(1, 2);insert_text("Точный контроль нагрева")
+insert_pie_chart([0.40, 0.25, 0.20, 0.10, 0.5], ["Плита", "Электрическая плита", "Индукционная плита", "Мультиварка", "Фритюрница"]);
+set_chart_title("Cooker Type Popularity");
+insert_picture("stovetop");
+set_width(7);set_height(6);
+align_slide_right();
+align_slide_left();
+move_to_slide(0);set_background_color("green");
+
+choose_title();insert_text("Откройте для себя наслаждение Oreo");
+set_font_bold();set_font_italic();
+set_font_size(30);
+choose_content();insert_text("Oreo, культовое печенье-сэндвич, было любимым лакомством людей всех возрастов. Благодаря неотразимому сочетанию шоколадных вафель и сливочной начинки Oreo предлагает восхитительный перекус, который приносит радость каждому. кусать.");
+set_font_color("dark blue");
+insert_picture("Oreo");
+align_top_right_corner();
+insert_star();align_top_left_corner();
+insert_pie_chart([0.40,0.10,0.50], ["Оригинал", "Мята", "Арахисовое масло"]);insert_line_chart([0.40,0.10,0.50],["Original","Mint","Peanut Butter"]);
+insert_bar_chart([0.40,0.10,0.50],["Original","Mint","Peanut Butter"]);set_chart_title("Oreo Flavor Popularity");
+
+set_background_color("purple");
+choose_title();insert_text("Сезонные вариации");set_font_bold();set_font_italic();
+choose_content();insert_text("Сезонные вариации привносят в нашу жизнь особое очарование. От ярких весенних красок до теплых оттенков лета, уютной атмосферы осени и безмятежных пейзажей зимы — каждое время года предлагает уникальный опыт. Ощутите красоту трансформации природы в течение года");
+set_font_style("Arial");set_font_size(18);
+insert_table(4, 4);choose_table_cell(0, 0);insert_text("Сезон");choose_table_cell(0, 1);insert_text("Средняя температура");choose_table_cell(0, 2);insert_text("Основные характеристики");choose_table_cell(0, 3);insert_text("Виды деятельности")
+insert_callout();align_slide_left();
+
+choose_title();insert_text("Погода в провинции Гуандун: разнообразие климата");
+align_top_left_corner();
+choose_content();insert_text("Гуандун испытывает самые разные погодные условия в течение года. От теплых и солнечных дней до редких дождей, туманного утра и облачного неба климат в Гуандуне разнообразен и динамичен. Исследуйте разные времена года и погодные условия в этом ярком регионе");set_line_space(2);
+insert_picture("beach");align_top_right_corner();
+insert_table(2, 2);choose_table();choose_table_cell(0, 0);insert_text("Сезон");choose_table_cell(0, 1);insert_text("Средняя температура");choose_table_cell(1, 0);insert_text("Весна");choose_table_cell(1, 1);insert_text("20-28℃")
+set_background_color("purple");
+choose_table();align_slide_bottom();
+insert_cloud();align_slide_left();
+
+insert_picture("sunrise");
+set_width(6);set_height(6);
+choose_title();insert_text("Сила позитивного мышления: принятие оптимизма");set_font_italic();set_font_bold();
+choose_content();insert_text("Позитивное мышление — это образ мышления, который фокусируется на оптимизме, стойкости и вере в себя. Развивая позитивные мысли и отношения, мы можем улучшить свое благополучие, преодолеть трудности. , и создайте более счастливую и полноценную жизнь. Примите силу позитивного мышления и раскройте свой истинный потенциал");set_font_italic();set_font_bold();
+set_font_color("purple");set_font_size(20);
+insert_note("позитивное мышление");
+
+insert_table(4, 3);choose_table();insert_table_row(["Преимущества", "Описание", "Примеры"]);choose_table_cell(1, 0);insert_text("Улучшение самочувствия")
+choose_content();insert_text("Позитивное мышление — это образ мышления, который фокусируется на оптимизме, стойкости и вере в себя. Развивая позитивные мысли и отношения, мы можем улучшить свое благополучие, преодолеть трудности и создать более счастливую и счастливую жизнь. более полноценной жизни. Примите силу позитивного мышления и раскройте свой истинный потенциал");
+set_font_italic();set_font_color("light blue");
+set_background_color("light green");
+choose_title();insert_text("Определение");set_font_bold();
+align_top_left_corner();
+insert_picture("laugh");align_slide_right();
+
+choose_title();insert_text("Классификация мусора: содействие устойчивому управлению отходами");choose_content();insert_text("Классификация мусора является важнейшей практикой в ​​содействии устойчивому управлению отходами. Правильно сортируя и удаляя отходы, мы можем уменьшить загрязнение окружающей среды, сохранить ресурсы. , и внести свой вклад в более чистую и здоровую планету. Возьмите на себя ответственность за классификацию мусора и окажите положительное влияние на нашу окружающую среду");
+set_font_color("orange");set_font_underline();
+set_font_size(18);
+choose_title();set_font_style("Times New Roman");choose_content();set_font_style("Times New Roman");
+insert_right_arrow();align_bottom_right_corner();
+set_width(4.0);set_height(3.0);
+rotate_element(-90);
+insert_bar_chart([60, 50, 45, 40, 40], series=["Бумага", "Пластмасса", "Стекло", "Металлы", "Органические отходы"]);set_chart_title("Waste Material Recycling Rates.");
+insert_picture("recycling_bin");
+create_slide();set_background_color("purple");
+choose_title();insert_text("Органические отходы");set_font_size(18);
+choose_content();insert_text("Органические отходы играют важную роль в устойчивой жизни. Компостируя органические материалы, такие как пищевые отходы, дворовые отходы и сельскохозяйственные отходы, мы можем уменьшить количество отходов на свалках, улучшить качество почвы и замкнуть круговорот питательных веществ. , Примите практику компостирования и внесите свой вклад в более зеленое будущее");
+
+create_slide();choose_title();insert_text("Фильм Олдройда о леди Макбет");set_font_bold();
+set_font_size(28);set_font_underline();
+choose_content();insert_text("Сценарий Берча вносит несколько серьезных изменений в повествование Лескова. Например, Берч и Олдройд полностью исключают эпизоды Сибири и решают вырезать самоубийство Кэтрин");
+set_font_size(20);set_font_bold();
+choose_title();set_font_color("red");choose_content();set_font_color("yellow");
+insert_picture("Lady Macbeth");
+set_width(8);set_height(8);
+set_right("picture","content");
+set_left("picture","content");
+insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("Персонаж фильма");choose_table_cell(0, 1);insert_text("Актер/актриса");choose_table_cell(1, 0);insert_text("Леди Макбет");choose_table_cell(1, 1);insert_text("Флоренс Пью");choose_table_cell(2, 0);insert_text("Макбета");choose_table_cell(2, 1);insert_text("Космо Джарвиса")
+insert_note("1 мая");
+set_background_color("purple");
+
+create_slide();choose_title();insert_text("Важность упражнений");set_font_underline();
+set_font_size(24);set_font_color("green");
+choose_content();insert_text("Регулярные упражнения могут улучшить здоровье сердечно-сосудистой системы, улучшить настроение и повысить уровень энергии");
+set_font_size(20);set_font_bold();
+set_font_color("red");
+insert_picture("exercise");
+insert_pie_chart([0.10,0.30,0.50,0.10], ["сердечно-сосудистое здоровье", "мышечная сила", "психическое благополучие", "профилактика заболеваний"]);
+insert_table(5,2);choose_table_cell(0,0);insert_text("Виды упражнений".");choose_table_cell(0,1);insert_text("Преимущества");
+set_right("table","picture");
+insert_star();set_background_color("purple");
+align_bottom_left_corner();
+set_width(8);set_height(4);
+
+create_slide();choose_title();insert_text("Преимущества чтения");set_font_size(24);set_font_underline();
+choose_content();insert_text("Чтение может улучшить когнитивные функции, повысить эмпатию и уменьшить стресс");
+set_font_bold();set_font_italic();
+set_font_style("Arial");set_font_color("green");
+insert_picture("person_reading");
+insert_bar_chart([1400, 992, 400, 661, 234], ["художественная литература", "научная литература", "биографии", "самопомощь", "фэнтези"]);
+set_chart_title("Book sales");
+insert_table(3, 3);
+choose_table_cell(0, 0);insert_text("Польза от чтения");choose_table_cell(1, 0);insert_text("повышение знаний");choose_table_cell(2, 0);insert_text("расширение словарного запаса");
+set_background_color("red");
+insert_note("Читаю книги");
+create_slide();set_background_color("red");insert_picture("clock");
+set_width(10);set_height(15);
+insert_note("О ЧТЕНИИ");
+
+create_slide();choose_title();insert_text("Преимущества волонтерства");set_font_underline();
+choose_title();set_font_color("dark red");set_font_size(30);
+choose_content();insert_text("Волонтерство может увеличить счастье, улучшить социальные навыки и дать чувство цели");
+set_font_color("green");
+set_font_bold();set_font_size(18);
+align_bottom_left_corner();
+insert_picture("volunteers");
+align_bottom_left_corner();
+insert_table(3, 3);choose_table_cell(0, 0);insert_text("Преимущества");choose_table_cell(1, 0);insert_text("личностный рост");choose_table_cell(2, 0);insert_text("социальные связи");
+choose_content();set_font_bold();set_font_size(20);
+insert_bar_chart([25, 45, 10, 15, 5], ["общественные работы", "образование", "здравоохранение", "охрана окружающей среды", "помощь при стихийных бедствиях"]);
+set_chart_title("Volunteergin Importance");
+
+set_background_color("purple");
+choose_title();insert_text("Формат CAJ");set_font_underline();set_font_italic();
+set_font_color("purple");
+choose_content();insert_text("Формат CAJ — это широко используемый формат файлов в Китае для академических статей и исследовательских документов. Он обеспечивает стандартизированную структуру и макет для эффективного обмена и публикации");
+set_line_space(2);
+set_font_style("Arial");set_font_bold();
+set_font_color("green");
+align_slide_top();
+insert_picture("sample_caj");
+align_top_right_corner();
+insert_table(2,3);
+choose_table_cell(0, 0);insert_text("Раздел");choose_table_cell(0, 1);insert_text("Заголовок");choose_table_cell(0, 2);insert_text("Содержание")
+create_slide();insert_bar_chart([30, 25, 20, 15, 10], ["CAJ", "PDF", "DOC", "PPT", "XLS"]);
+set_chart_title("File Format Usage");
+insert_note("Формат файла");set_background_color("purple");
+
+choose_content();insert_text("Ведение дневника может уменьшить стресс, улучшить память и повысить самосознание");
+set_font_underline();set_font_size(18);set_font_color("purple");
+choose_title();insert_text("Журналирование");
+set_font_italic();set_font_style("Arial");
+insert_picture("person_writing");
+align_slide_bottom();
+insert_star();align_slide_right();
+rotate_element(60);
+
+create_slide();choose_title();insert_text("Преимущества садоводства");set_font_size(28);set_font_bold();
+choose_content();insert_text("Садоводство может уменьшить стресс, улучшить физическое здоровье и повысить творческий потенциал");
+set_font_italic();set_font_style("Arial");
+insert_cloud();align_slide_right();
+set_left("cloud","title");
+insert_picture("person_working_in_garden");set_width(10);
+create_slide();set_background_color("light blue");
+insert_triangle();align_slide_left();
+set_height(15);rotate_element(45);
+
+create_slide();choose_title();insert_text("ИТ-компании");
+set_font_style("Times");set_font_bold();set_font_size(32);
+insert_picture("Apple Company Logo");set_height(2);set_width(2);
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("2020");choose_table_cell(0, 1);insert_text("2021");choose_table_cell(0, 2);insert_text("2022");choose_table_cell(1, 0);insert_text("274Б");choose_table_cell(1, 1);insert_text("365Б");choose_table_cell(1, 2);insert_text("394Б")
+

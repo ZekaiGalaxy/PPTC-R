@@ -1,0 +1,1876 @@
+choose_title();align_bottom_left_corner();insert_text("Tathmini ya Binadamu");
+choose_content();insert_text("Kwa ujumla, tafsiri hutolewa bila kujulikana na wakaguzi wengi, na kisha alama ya mwisho hutolewa kwa kuchanganya matokeo ya tathmini ya wakaguzi wote");
+insert_table(2, 2);
+choose_table_cell(0, 0);insert_text("Faida");choose_table_cell(1, 0);insert_text("Hasara");choose_table_cell(0, 1);insert_text("Onyesha kwa usahihi ubora wa utafsiri wa sentensi, iliyo na mamlaka zaidi, uaminifu wa juu zaidi");choose_table_cell(1, 1);insert_text("Tathmini ya muda mrefu");
+choose_content();set_font_size(20);set_font_style("Arial");
+insert_picture('coffee');align_slide_left();
+align_slide_right();
+create_slide();choose_title();insert_text("Kiwango cha Kuashiria");choose_content();insert_text("Tathmini ya Moja kwa moja");insert_text("Cheo cha Uhusiano");
+choose_title();set_font_color("green");choose_content();insert_bullet_point("");insert_bullet_point("");
+choose_title();set_font_size(24);choose_content();set_font_size(20);
+
+insert_picture('tower');align_slide_bottom();
+choose_title();insert_text("Yaliyomo");set_top("title","picture");
+insert_rectangle();set_fill_color("green");
+choose_title();set_font_color("green");
+set_font_size(24);
+set_font_style("Arial");set_font_size(48);
+set_font_style("Microsoft New Tai Lue");
+
+set_background_color("green");
+insert_cloud();align_slide_bottom();
+choose_content();insert_text("Unakimbia polepole sana");
+insert_picture('rabbit');align_slide_right();
+choose_content();insert_text("Siku moja, kuna mashindano kati ya sungura na kobe");
+create_slide();choose_content();insert_text("Nitashinda siku moja.");align_slide_top();
+
+insert_picture('study');align_slide_center();
+insert_rectangle();align_slide_center();
+choose_title();insert_text("Ligi ya Legends");choose_content();insert_text("League of Legends ni mchezo wa msingi wa timu na mabingwa zaidi ya 140 wa kufanya nao michezo kuu. Cheza sasa bila malipo. Cheza Bila Malipo.");
+choose_title();set_font_style("Times New Roman");set_font_size(24);
+choose_picture();set_width(6);set_height(5);
+rotate_element(15);
+create_slide();insert_picture('boy_holding_book');
+align_slide_center();
+choose_title();insert_text("Jinsi ya kufanya vizuri shuleni");
+
+insert_cloud();align_slide_left();
+insert_picture("clock");align_slide_right();
+set_background_color("light blue");choose_title();insert_text("Akili Bandia");
+choose_content();insert_text("Athari za akili Bandia kwa jamii zinajadiliwa sana. Wengi wanahoji kuwa AI inaboresha ubora wa maisha ya kila siku kwa kufanya kazi za kawaida na hata ngumu zaidi kuliko wanadamu wanaweza, kufanya maisha kuwa rahisi, salama na ufanisi zaidi. .");
+set_font_color("light green");
+
+create_slide();choose_title();insert_text("Ratiba mwezi Machi");set_font_color("red");
+set_font_size(28);set_font_color("dark blue");
+insert_table(1, 3);choose_table_cell(0, 0);insert_text(" utafiti kutoka 1 hadi 10");choose_table_cell(0, 1);insert_text("fanya kazi kutoka 11 hadi 20");choose_table_cell(0, 2);insert_text("safari kutoka 21 hadi 31");
+choose_title();set_font_style("Arial");
+insert_picture('happy_boy');set_right("picture","table");
+set_background_color("blue");
+choose_picture();set_width(6.5);set_height(5);
+set_background_color("yellow");
+
+create_slide();choose_title();insert_text("Faida za Kutafakari");
+insert_picture('meditation');align_slide_center();
+choose_content();insert_text("Kutafakari ni mbinu rahisi lakini yenye nguvu ambayo inaweza kukusaidia kufikia hali ya amani ya ndani na utulivu.");
+set_font_size(24);set_font_color("dark blue");
+insert_rectangle();set_right("rectangle", "content");
+set_background_color("light green");
+create_slide();set_background_color("light green");choose_title();insert_text("Aina za Kutafakari");
+set_font_style("Arial");
+insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("Kutafakari kwa Umakini");choose_table_cell(1, 0);insert_text("Kutafakari kwa Kuvuka mipaka");choose_table_cell(2, 0);insert_text("Kutafakari kwa Kuchanganua Mwili");
+
+create_slide();set_background_color("green");
+insert_picture('grassland');align_slide_left();
+set_width(6.5);set_height(5.5);choose_title();insert_text("Kazi za Misitu.");
+set_font_color("orange");set_font_size(40);
+insert_right_arrow();align_slide_top();
+
+create_slide();insert_table(2, 2);
+choose_table_cell(0,0);insert_text("Aina ya Mti");choose_table_cell(0,1);insert_text("Matumizi");choose_table_cell(1,0);insert_text("aina tofauti za miti");choose_table_cell(1,1);insert_text("rangi tofauti za majani");
+choose_content();insert_text("Kumbuka kupanda mti leo!");
+set_font_size(20);set_font_color("green");set_font_underline();
+
+create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");
+move_to_slide(0);choose_title();insert_text("Familia yenye furaha");set_font_style("Microsoft JhengHei");
+move_to_slide(1);insert_picture('family');
+move_to_slide(2);insert_table(2, 2);
+choose_table_cell(0, 0);insert_text("Baba");choose_table_cell(0, 1);insert_text("Mama");choose_table_cell(1, 0);insert_text("Babu");choose_table_cell(1, 1);insert_text("Watoto");
+
+create_slide();choose_title();insert_text("Mpango wa Biashara");
+insert_picture('light_bulb');align_slide_left();
+set_width(3);choose_content();insert_text("Ujasiriamali ni mchakato wa kubuni, kuanzisha na kuendesha biashara mpya, ambayo mara nyingi ni biashara ndogo. Watu wanaounda biashara hizi huitwa wajasiriamali.");
+set_font_size(20);set_font_color("green");
+set_background_color("dark blue");
+insert_circle();set_fill_color("red");
+choose_content();insert_text("Mpango wa biashara ni hati iliyoandikwa ambayo inaelezea kwa kina jinsi biashara, kwa kawaida mpya, itafikia malengo yake.");
+choose_title();set_font_size(18);choose_content();set_font_size(18);
+insert_table(3, 4);
+choose_table_cell(0, 0);insert_text("Mseto wa Uuzaji");choose_table_cell(0, 1);insert_text("Soko Lengwa");choose_table_cell(0, 2);insert_text("Bei");choose_table_cell(0, 3);insert_text("Matangazo");
+
+create_slide();set_background_color("light blue");
+choose_content();insert_text("Uwekaji chapa ya bidhaa ni uundaji wa chapa mahususi kwa bidhaa fulani kwa nia ya kufikia wateja wanaolengwa na chapa.");
+set_font_italic();set_font_size(18);
+align_slide_bottom();
+insert_picture('lancome');align_slide_top();
+
+create_slide();choose_title();insert_text("Mambo muhimu ya uundaji wa kiwango kikubwa");set_font_size(24);
+set_font_style("Arial");
+insert_table(1, 2);
+choose_table_cell(0, 0);insert_text("Umuhimu");set_font_size(18);set_font_color("light blue");
+insert_picture('computer');align_slide_center();
+choose_content();insert_text("Model wa kiwango kikubwa");
+set_font_size(14);set_font_color("green");choose_title();set_font_size(14);set_font_color("green");
+
+insert_picture('tower');align_slide_left();
+choose_title();insert_text("The Ultimate Heist");
+set_font_style("Times New Roman");set_font_color("green");
+insert_triangle();align_slide_right();
+set_background_color("light blue");
+
+insert_table(3, 3);choose_table();choose_table_cell(0, 0);insert_text("zambarau");choose_table_cell(0, 1);insert_text("bluu");choose_table_cell(0, 2);insert_text("bluu isiyokolea");choose_table_cell(1, 0);insert_text("bluu iliyokolea");choose_table_cell(1, 1);insert_text("kijani");choose_table_cell(1, 2);insert_text("kijani hafifu");choose_table_cell(2, 0);insert_text("kijani iliyokolea");choose_table_cell(2, 1);insert_text("njano");choose_table_cell(2, 2);insert_text("njano isiyokolea")
+set_background_color("green");
+set_background_color("dark blue");
+choose_title();insert_text("Aina za Rangi");insert_picture("clock");
+create_slide();set_background_color("yellow");
+choose_content();insert_text("Speedwell, pia huitwa jicho la ndege au gugu la jasi, ni mzaliwa wa kudumu wa Uropa.");
+
+create_slide();insert_picture('arguing');
+choose_title();insert_text("Ndoa Inaleta Nini kwa Wanaume na Wanawake?");
+create_slide();insert_picture('japanese_woman');insert_picture('african_woman');
+choose_title();insert_text("Mambo ya Kuamua Taratibu Tofauti za Ndoa");
+create_slide();set_background_color("red");create_slide();set_background_color("red");create_slide();set_background_color("red");
+move_to_slide(2);choose_title();insert_text("Faida za Kawaida za Ndoa kwa Wanaume na Wanawake.");
+set_font_underline();set_font_color("yellow");
+insert_picture('happy_family');align_slide_center();
+insert_rectangle();set_fill_color("red");insert_rectangle();set_fill_color("red");insert_rectangle();set_fill_color("red");
+create_slide();choose_title();insert_text("Mageuzi ya Taasisi ya Ndoa nchini China");
+insert_picture('clock');set_width(6.5);
+align_slide_left();
+create_slide();choose_title();insert_text("Matatizo Wanayokabiliana nayo Wanawake Ulimwenguni.");insert_picture('full_time_mother');
+set_height(5);
+
+choose_title();insert_text("Neural Network");
+choose_content();insert_text("Mitandao ya Neural ni seti ya algoriti zinazoiga utendakazi wa ubongo wa binadamu. Imeundwa kutambua ruwaza, kuainisha data, na kufanya ubashiri.");
+set_font_size(12);set_font_color("orange");set_background_color("red");
+
+choose_title();insert_text("Alama ya Nukuu");
+choose_title();set_font_underline();set_font_size(24);
+choose_content();insert_text("Alama ya alama za nukuu ni aina ya uakifishaji unaotumika kutenganisha maneno na vifungu kutoka kwa maandishi mengine.");
+set_font_color("green");set_font_size(12);
+insert_picture('quotation_mark');align_slide_left();
+create_slide();set_background_color("blue");
+insert_rectangle();align_slide_right();
+insert_table(2, 1);
+choose_table_cell(0, 0);insert_text("Unaendeleaje?");choose_table_cell(1, 0);insert_text("Mojawapo ya matumizi ya kawaida ya alama za nukuu ni kuashiria nukuu ya moja kwa moja, kifungu ambacho kimenakiliwa kwa neno kutoka kwa chanzo kingine.");
+
+create_slide();set_background_color("dark green");
+choose_title();insert_text("Sehemu na Matawi ya Anthropolojia");set_font_size(18);
+choose_content();insert_text("Kuna nyanja mbili pana za anthropolojia.");set_font_size(18);
+text_align_right();
+
+insert_right_arrow();align_slide_left();
+set_width(4.0);set_height(3.0);
+choose_content();insert_text("Sehemu kubwa za Asia ya kati huhisi kutokuwa na watu wa kutisha.");
+choose_shape("right_arrow");set_width(5.0);set_height(4.0);rotate_element(90);
+choose_content();set_line_space(2);
+
+choose_title();insert_text("Elimu/Maalimu/Uwakilishi wa PPT");
+choose_content();insert_text("Athari mbaya ya ongezeko la joto duniani");
+choose_title();set_font_color("dark blue");choose_content();set_font_color("purple");
+insert_rectangle();set_fill_color("purple");
+align_top_left_corner();
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("kutoa");choose_table_cell(0, 1);insert_text("kutoa");choose_table_cell(0, 2);insert_text("kutoa");choose_table_cell(0, 3);insert_text("kutolewa");
+choose_content();set_font_color("dark blue");
+
+set_background_color("orange");
+insert_picture("cat");set_width(5);set_height(5);
+create_slide();set_background_color("orange");create_slide();set_background_color("orange");create_slide();set_background_color("orange");
+choose_title();insert_text("Habari ya DingTalk");
+insert_table(3, 5);
+choose_table_cell(0, 0);insert_text("Njia za Kupakua");choose_table_cell(0, 1);insert_text("Jinsi ya kujiunga na shirika");choose_table_cell(0, 2);insert_text("Jinsi ya kupata marafiki");choose_table_cell(0, 3);insert_text("Manufaa");choose_table_cell(0, 4);insert_text("Kumbuka");
+insert_star();align_slide_right();
+choose_content();insert_text("uhifadhi msitu unarejelea kuzuia au kuzuia kwa kufanya jambo kabla ya wakati");
+set_background_color("blue");
+choose_content();text_align_left();
+
+insert_right_arrow();set_fill_color("yellow");
+choose_title();insert_text("Siku ya wiki shuleni");text_align_left();
+choose_title();set_font_color("dark blue");set_font_italic();set_font_underline();
+choose_content();insert_text("uuzaji miti unamaanisha kununua (bidhaa) mapema ili kuongeza bei inapouzwa upya");
+insert_picture("school_badge");set_width(2.5);set_height(2.5);
+create_slide();set_background_color("green");
+choose_title();insert_text("Kumbuka");text_align_right();
+set_font_color("light green");set_font_size(26);
+choose_content();insert_bullet_point("");insert_bullet_point("");insert_bullet_point("");
+insert_note("2023/4/9");move_to_previous_slide();insert_note("2023/4/8");
+
+insert_star();align_slide_right();
+set_fill_color("blue");
+insert_right_arrow();align_slide_left();set_fill_color("red");
+choose_title();insert_text("Kufanya Uamuzi");
+choose_content();insert_text("Janga la sasa la ulimwengu limevuruga maisha yetu ya kila siku na kuunda upya ulimwengu kwa njia ambayo hatukuwahi kufikiria.");
+choose_content();set_font_underline();choose_title();set_font_size(24);
+choose_content();set_font_style("Times New Roman");choose_title();set_font_style("Times New Roman");
+
+create_slide();create_slide();create_slide();create_slide();create_slide();
+move_to_slide(0);choose_title();insert_text("Utangulizi");move_to_slide(1);choose_title();insert_text("Maendeleo");move_to_slide(2);choose_title();insert_text("Tathmini");move_to_slide(3);choose_title();insert_text("Uchambuzi");move_to_slide(4);choose_title();insert_text("Hitimisho");
+move_to_slide(0);set_background_color("yellow");move_to_slide(1);set_background_color("yellow");move_to_slide(2);set_background_color("yellow");move_to_slide(3);set_background_color("yellow");move_to_slide(4);set_background_color("yellow");
+move_to_slide(0);choose_title();set_font_style("Microsoft JhengHei");
+move_to_slide(1);insert_picture("clock");
+move_to_slide(2);insert_bar_chart([160, 170, 130], ["Oktoba", "Novemba", "Desemba"]);
+move_to_slide(3);insert_table(2, 3);
+choose_table_cell(0, 0);insert_text("toIPA");choose_table_cell(0, 1);insert_text("Faida");choose_table_cell(0, 2);insert_text("Hasara");
+move_to_slide(4);choose_title();set_font_style("Times New Roman");
+move_to_slide(4);insert_cloud();
+move_to_slide(0);insert_note("Iliyoundwa na Eva");move_to_slide(1);insert_note("Iliyoundwa na Eva");move_to_slide(2);insert_note("Iliyoundwa na Eva");move_to_slide(3);insert_note("Iliyoundwa na Eva");move_to_slide(4);insert_note("Iliyoundwa na Eva");
+
+insert_circle();set_fill_color("purple");
+insert_picture("water_bottle");insert_textbox();insert_text("chupa");
+choose_title();insert_text("QUALITY");
+set_font_color("red");
+insert_table(2, 2);
+choose_table_cell(0, 0);insert_text("Tathmini ya mashine");choose_table_cell(0, 1);insert_text("Tathmini ya Binadamu");choose_table_cell(1, 0);insert_text("Tathmini ya moja kwa moja 1");choose_table_cell(1, 1);insert_text("Tathmini otomatiki 2");
+create_slide();choose_title();insert_text("Mafanikio");set_background_color("purple");
+
+create_slide();choose_title();insert_text("Mikakati ya Uuzaji kwa Q2");
+set_background_color("blue");
+create_slide();choose_title();insert_text("Kuongezeka kwa Mauzo na Uhamasishaji wa Biashara.");
+set_font_size(60);
+move_to_slide(1);set_background_color("green");
+create_slide();set_background_color("green");create_slide();set_background_color("green");create_slide();set_background_color("green");
+move_to_slide(2);choose_title();insert_text("Mitindo ya Soko na Uchambuzi wa Washindani");
+choose_content();insert_picture("blue_sea");
+set_height(4);set_width(5);set_left("picture", "title");
+move_to_slide(3);choose_title();insert_text("Dhamira na Maadili Yetu.");
+choose_content();insert_text("VISION.Watu wote wanaoishi maisha marefu wakiwa na afya kamili.MISSION.IHME huwasilisha kwa ulimwengu ushahidi unaofaa, unaofaa na wa kisayansi ili kuboresha sera na mazoezi ya afya.");
+set_line_space(1.5);
+choose_content();set_font_size(40);set_font_style("Times New Roman");
+
+create_slide();set_background_color("yellow");
+choose_title();insert_text("Ulinganisho wa Elimu nchini Uchina na Amerika.");
+delete_text();insert_text("Gundua Tofauti na Ufanano");
+delete_text();insert_text("Tofauti na Ufanano");
+create_slide();create_slide();create_slide();create_slide();create_slide();
+move_to_slide(1);set_background_color("yellow");move_to_slide(2);set_background_color("yellow");move_to_slide(3);set_background_color("yellow");move_to_slide(4);set_background_color("yellow");move_to_slide(5);set_background_color("yellow");
+move_to_slide(1);choose_title();insert_text("Mifumo ya Elimu.");
+choose_content();insert_text("Elimu nchini China kimsingi inasimamiwa na mfumo wa elimu kwa umma unaoendeshwa na serikali, ambao uko chini ya Wizara ya Elimu. Raia wote wanapaswa kuhudhuria shule kwa muda usiopungua miaka tisa, inayojulikana kama elimu ya lazima ya miaka tisa, ambayo inafadhiliwa. na serikali.");
+move_to_next_slide();choose_title();insert_text("Mitindo na Mbinu Tofauti za Kufundisha.");
+move_to_next_slide();choose_title();insert_text("Uhusiano wa Mwalimu na Mwanafunzi.");move_to_next_slide();choose_title();insert_text("Tathmini ya Utendaji wa Mwanafunzi.");
+move_to_slide(4);insert_picture("forest");
+choose_content();insert_text('Mnamo mwaka wa 2014, Jonathan Kaiman wa gazeti la The Guardian aliandika kwamba wazazi na waelimishaji wa China "wanaona mfumo wao wenyewe kuwa mbovu, unaodhalilisha utu, wenye shinikizo na usio wa haki". aliendelea kuzungumzia mtihani wa kujiunga na chuo cha nchi hiyo (unaoitwa gaokao), akiandika kwamba "wazazi wengi huona mtihani huo mzito wa saa tisa kama njia ya kupanga ambayo itaamua mwelekeo wa maisha ya watoto wao."');set_font_color("red");set_font_underline();
+move_to_slide(5);insert_table(1, 1);choose_table_cell(0,0);insert_text("Wajibu");
+
+create_slide();choose_content();insert_picture("DingTalk_app");
+choose_title();insert_text("Utangulizi wa ChatGPT");set_font_color("green");
+create_slide();choose_title();insert_text("Kufungua Nguvu za Miundo ya Lugha ya AI.");text_align_left();create_slide();choose_title();insert_text("Kufungua Nguvu za Miundo ya Lugha ya AI.");text_align_left();create_slide();choose_title();insert_text("Kufungua Nguvu za Miundo ya Lugha ya AI.");text_align_left();create_slide();choose_title();insert_text("Kufungua Nguvu za Miundo ya Lugha ya AI.");text_align_left();create_slide();choose_title();insert_text("Kufungua Nguvu za Miundo ya Lugha ya AI.");text_align_left();
+move_to_slide(1);choose_content();set_font_style("Arial");
+insert_text("ChatGPT ni chatbot ya akili bandia (AI) iliyotengenezwa na OpenAI na iliyotolewa Novemba 2022. Imejengwa juu ya familia za OpenAI za GPT-3.5 na GPT-4 za miundo mikubwa ya lugha (LLMs) na imesasishwa (mbinu ya kuhamisha ujifunzaji) kwa kutumia mbinu za ujifunzaji zinazosimamiwa na kuimarisha.");
+set_font_size(30);set_line_space(2);
+insert_table(1, 1);choose_table_cell(0,0);insert_text("Jinsi ya kupakua DingTalk");
+move_to_next_slide();
+choose_title();insert_text("Vipengele na Mapungufu");text_align_center();
+choose_content();insert_text("Ingawa kazi ya msingi ya chatbot ni kuiga mzungumzaji wa kibinadamu, ChatGPT inaweza kubadilika. Inaweza kuandika na kurekebisha programu za kompyuta, kuiga mtindo wa Wakurugenzi wakuu mashuhuri na kuandika nyanja za biashara, kutunga muziki, michezo ya televisheni, hadithi za hadithi na insha za wanafunzi, kujibu. maswali ya mtihani (wakati mwingine, kulingana na jaribio, katika kiwango cha juu ya mtu anayefanya mtihani wastani), andika mashairi na maneno ya nyimbo, iga mfumo wa Linux. iga vyumba vyote vya mazungumzo, cheza michezo kama vile tiki-tac-toe na uige ATM. .");
+
+create_slide();set_background_color("green");
+choose_content();insert_text("Maisha ni mafupi sana kutumia muda na watu wanaovuta furaha kutoka kwako.");set_line_space(1.5);
+set_font_style("Verdana");set_font_size(20);
+set_font_underline();set_font_color("yellow");
+
+create_slide();set_background_color("blue");choose_title();insert_text("Kujifunza kwa Mashine");
+choose_content();insert_text("Kujifunza kwa mashine ni matumizi ya akili bandia (AI) ambayo hutoa mifumo uwezo wa kujifunza kiotomatiki na kuboresha kutokana na uzoefu bila kuratibiwa kwa uwazi. Mafunzo ya mashine huzingatia uundaji wa programu za kompyuta zinazoweza kufikia kiotomatiki. data na kuzitumia kujifunza wenyewe.");
+set_font_size(20);set_font_style("Verdana");
+set_font_style("Times New Roman");text_align_right();
+choose_title();set_font_color("red");set_font_size(40);
+set_font_color("blue");
+insert_picture("machine_learning");align_slide_left();
+set_height(1.2);set_width(1.2);
+choose_content();insert_star();set_fill_color("green");
+
+create_slide();choose_title();insert_text("Mikakati ya Uuzaji");
+choose_content();insert_bullet_point("Search Engine Optimization (SEO)");insert_bullet_point("Social Media Marketing (SMM)");insert_bullet_point("Email Marketing");insert_bullet_point("Content Marketing");insert_bullet_point("Pay-Per-Click Advertising (PPC)");
+insert_picture("marketing");set_height(1);set_width(1);
+insert_pie_chart([35, 25, 15, 10, 15], ["Apple", "Samsung", "Huawei", "Xiaomi", "Nyingine"]);insert_table(2, 2);
+choose_chart();set_chart_title("Masoko");choose_table_cell(0, 0);insert_text("MT1");choose_table_cell(0, 1);insert_text("MT2");choose_table_cell(1, 0);insert_text("ST1");choose_table_cell(1, 1);insert_text("ST2")
+choose_content();align_slide_bottom();
+create_slide();insert_pie_chart([35, 25, 15, 10, 15],["Apple", "Samsung", "Huawei", "Xiaomi", "Other"]);set_chart_title("Marketing");
+create_slide();insert_table(2, 2);choose_table();insert_table_row(["MT1", "MT2"]);insert_table_row(["ST1", "ST2"])
+
+create_slide();choose_title();insert_text("Taswira ya Data");
+insert_bar_chart([8.4, 4.0, 2.7, 2.3, 1.7], ["New York", "Los Angeles", "Chicago", "Houston", "Phoenix"]);align_slide_left();
+insert_textbox();insert_text("Taswira ya data ni uwasilishaji wa data katika umbizo la picha au mchoro. Huwawezesha watoa maamuzi kuona uchanganuzi unaowasilishwa kwa mwonekano, ili waweze kufahamu dhana ngumu au kutambua ruwaza mpya.");
+set_font_color("green");
+create_slide();choose_content();insert_text("Uji huu hutengenezwa kwa kupika wali wa glutinous, sukari ya kahawia, na aina kumi na nane za matunda yaliyokaushwa pamoja.");
+
+create_slide();choose_title();insert_text("Laba Porridge");
+choose_content();insert_text("Kwa kuwa ninakumbuka, kila mwaka siku ya nane ya mwezi wa kumi na mbili, mama yangu alikuwa akitupikia uji wa Laba.");
+set_font_color("yellow");set_font_bold();
+insert_table(2, 1);align_slide_right();
+choose_table_cell(0, 0);insert_text("Historia");choose_table_cell(1, 0);insert_text("kisasa");
+set_background_color("light red");
+
+set_background_color("yellow");
+set_background_color("green");
+choose_title();insert_text("Kampuni Kubwa");
+set_font_size(28);set_font_style("Futura");
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("Nambari");choose_table_cell(0, 1);insert_text("Majina ya Wafanyakazi")
+insert_picture("company1");insert_picture("company2");insert_picture("company3");
+choose_table();choose_table_cell(0,0);set_font_color("yellow");choose_table_cell(0,1);set_font_color("yellow");
+
+create_slide();choose_title();insert_text("Mitandao Bandia ya Neural");
+choose_content();insert_text("Mitandao Bandia ya neva (ANNs) ni mifumo ya kompyuta inayochochewa na mitandao ya neva ya kibayolojia inayounda ubongo wa wanyama. Mifumo kama hiyo hujifunza kutekeleza majukumu kwa kuzingatia mifano, kwa ujumla bila kuratibiwa na sheria zozote mahususi. . ANN zina uwezo wa kujifunza na kuzoea ingizo mpya, ambayo inazifanya kuwa muhimu kwa anuwai ya programu, ikijumuisha utambuzi wa picha, utambuzi wa matamshi na usindikaji wa lugha asilia.");
+set_font_size(24);
+set_font_style("Calibri");set_background_color("light orange");
+text_align_center();choose_title();text_align_left();
+set_background_color("blue");
+insert_picture("artificial_neural_networks");
+set_width(5.5);
+align_slide_right();
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("1");choose_table_cell(1, 0);insert_text("2");choose_table_cell(2, 0);insert_text("3")
+insert_table_row(["michezo ya video", "Badilisha", "mfululizo wa TV"])
+
+create_slide();set_background_color("red");create_slide();set_background_color("red");
+move_to_slide(0);choose_title();insert_text("Changamoto");set_font_style("Calibri");
+choose_content();insert_text("Changamoto za kutekeleza AI mahali pa kazi ni pamoja na ukosefu wa utaalamu, gharama, na upinzani wa mabadiliko.");
+set_font_color("green");
+move_to_slide(1);insert_picture("AI");align_slide_center();
+
+create_slide();choose_title();insert_text("Utangulizi");
+choose_content();insert_text("Karibu kwenye wasilisho langu kuhusu historia ya michezo ya video. Michezo ya video imetoka mbali tangu mchezo wa kwanza wa kielektroniki ulipovumbuliwa miaka ya 1950. Leo, michezo ya video ni tasnia ya mabilioni ya dola ambayo inafurahiwa na watu ulimwenguni kote.");
+insert_picture("first_electronic_game");
+align_bottom_right_corner();
+choose_title();set_font_color("blue");
+insert_textbox();choose_textbox();insert_text("Imetolewa na John Smith");
+
+create_slide();choose_title();insert_text("Neural Networks");
+choose_content();insert_text("Mitandao ya neva ni seti ya algoriti zinazoiga utendakazi wa ubongo wa binadamu. Hutumika kwa matumizi mbalimbali kama vile utambuzi wa picha, utambuzi wa usemi na uchakataji wa lugha asilia.");
+set_font_style("Arial");
+insert_triangle();align_top_left_corner();
+insert_picture("neutral_network");
+set_height(1.2);set_width(1.2);
+create_slide();insert_right_arrow();set_fill_color("blue");align_slide_right();
+insert_line_chart([120,140,110,90], series=["Januari", "Februari", "Machi", "Aprili"]);set_chart_title("Chatgpt");
+choose_content();insert_textbox();insert_text("TensorFlow");
+choose_title();set_font_color("blue");set_background_color("light blue");
+
+choose_content();insert_text("Kamusi inaweza kutumika kupata maana za maneno, na matamshi, tahajia, na kutafuta maneno mapya.");
+insert_circle();set_top("circle","content");
+insert_text("maneno ya nomino");
+choose_content();set_font_color("red");set_font_style("Impact");
+
+create_slide();choose_title();insert_text("Utangulizi");create_slide();choose_title();insert_text("Mbinu");create_slide();choose_title();insert_text("Matokeo");
+move_to_slide(0);choose_content();insert_text("Wasilisho hili litatambulisha mradi wetu wa utafiti na kuelezea umuhimu wake.");move_to_slide(1);choose_content();insert_text("Mbinu yetu ya utafiti ilihusisha kukusanya data kutoka kwa vyanzo mbalimbali na kutumia uchambuzi wa takwimu kufikia hitimisho.");
+choose_content();text_align_left();
+move_to_slide(0);set_background_color("light blue");move_to_slide(1);set_background_color("light blue");move_to_slide(2);set_background_color("light blue");
+insert_picture("graph");set_height(6.5);
+move_to_slide(0);insert_note("2022/1/1");move_to_slide(1);insert_note("2022/1/1");move_to_slide(2);insert_note("2022/1/1");
+
+create_slide();choose_title();insert_text("Muhtasari wa Bidhaa");create_slide();choose_title();insert_text("Vipengele");
+move_to_slide(0);insert_picture("product");
+choose_content();insert_text("Bidhaa yetu imeundwa ili kukidhi mahitaji ya soko letu tunalolenga kwa kutoa suluhisho rahisi na la ufanisi kwa tatizo lao.");
+move_to_slide(1);insert_table(5, 2);
+choose_table_cell(4, 1);insert_text("DingTalk");
+choose_table_cell(4, 1);set_font_style("Times New Roman");
+move_to_slide(0);insert_note("Saa sasa ni 12:00 jioni");move_to_slide(1);insert_note("Saa sasa ni 12:00 jioni");move_to_slide(2);
+
+create_slide();choose_title();insert_text("Ripoti ya Mauzo");text_align_center();
+insert_pie_chart([120, 220, 180], ["Bidhaa A", "Bidhaa B", "Bidhaa C"]);
+choose_title();set_font_size(28);
+insert_picture("company_logo");align_top_right_corner();
+choose_content();insert_text("Ripoti hii inaonyesha utendaji wa mauzo ya bidhaa zetu katika robo ya kwanza ya 2023.");
+set_font_style("Times New Roman");
+text_align_center();
+
+create_slide();choose_title();insert_text("Mikakati ya Uuzaji");
+choose_title();set_font_style("Calibri");set_font_size(36);
+choose_content();insert_picture("marketing_campaign");
+rotate_element(45);align_slide_right();
+create_slide();choose_title();insert_text("Nguvu MT");
+set_font_style("Arial");set_font_size(24);
+insert_textbox();insert_bullet_point("SEO");insert_bullet_point("Email Marketing");insert_bullet_point("PPC");set_bottom("textbox","title");
+set_background_color("blue");
+insert_bar_chart([27, 30, 29], ["kipengeeA", "kipengeeB", "kipengeeC"]);align_slide_left();
+set_chart_title("Marketing Budget");
+insert_table(4, 2);
+choose_table_cell(0, 0);insert_text("Tarehe");choose_table_cell(0, 1);insert_text("Jumatatu");choose_table_cell(1, 0);insert_text("Jumanne");choose_table_cell(1, 1);insert_text("Jumatano");choose_table_cell(2, 0);insert_text("Alhamisi");choose_table_cell(2, 1);insert_text("Ijumaa");choose_table_cell(3, 0);insert_text("Jumamosi");choose_table_cell(3, 1);insert_text("Jumapili");
+choose_table();set_right("table","chart");
+
+create_slide();set_background_color("yellow");
+choose_title();insert_text("Vipimo vya Tathmini");
+choose_content();insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("Metric");choose_table_cell(0, 1);insert_text("Formula");choose_table_cell(1, 0);insert_text("Usahihi");choose_table_cell(1, 1);insert_text("(TP+TN)/(TP+TN+FP+FN)");choose_table_cell(2, 0);insert_text("Precision");choose_table_cell(2, 1);insert_text("TP/(TP+FP)");
+insert_line_chart([160, 170, 130], ["Oktoba", "Novemba", "Desemba"]);set_chart_title("Time Machine");
+insert_bar_chart([160, 170, 130], ["October", "November", "December"]);
+
+create_slide();choose_title();insert_text("Taswira ya Data");
+insert_bar_chart([60,70,80,90], series=["Jicho", "Mkono", "Mguu", "Goti"]);
+choose_chart();set_height(4);set_width(4);
+set_chart_title("Sales by Region");
+insert_right_arrow();set_fill_color("green");
+
+create_slide();choose_title();insert_text("Kampeni ya Uuzaji");
+choose_content();insert_picture("product");set_right("picture","content");
+set_width(5);
+choose_content();insert_text("Familia ya lugha ya Ulaya ambayo ina uhusiano wa karibu na lugha za Kifrisia, Kijerumani, na Kiholanzi (katika Ubelgiji zinazoitwa Flemish).");
+insert_circle();set_fill_color("red");align_bottom_right_corner();
+set_background_color("green");
+set_background_color("light blue");
+create_slide();choose_title();insert_text("Data ya Mauzo");
+insert_table(1, 4);
+choose_table_cell(0, 0);insert_text("jina la muuzaji");choose_table_cell(0, 1);insert_text("jumla ya mauzo");choose_table_cell(0, 2);insert_text("kiwango cha kamisheni");choose_table_cell(0, 3);insert_text("kiasi cha kamisheni")
+create_slide();set_background_color("light blue");
+
+create_slide();choose_title();insert_text("Ripoti ya Mauzo");set_font_size(25);
+choose_content();insert_text("Hii hapa ni ripoti ya mauzo ya robo mwaka ya kampuni yetu:");
+set_font_size(16);set_font_color("purple");
+insert_rectangle();set_width(8);set_height(5);
+set_background_color("green");
+
+create_slide();choose_title();insert_text("Mitandao Bandia ya Neural");
+choose_content();insert_text("Mitandao Bandia ya neva (ANNs) ni mifumo ya kompyuta ambayo imechochewa na, lakini si sawa na, mitandao ya neva ya kibayolojia inayounda ubongo wa wanyama. Mifumo kama hii hujifunza kufanya kazi kwa kuzingatia mifano, kwa ujumla bila kuratibiwa. na sheria mahususi za kazi.");
+set_font_size(24);set_font_style("Arial");
+choose_title();set_font_color("purple");
+insert_picture("brain");set_width(6.5);
+rotate_element(90);
+insert_textbox();insert_text("Maombi ya ANNs");
+choose_title();set_font_size(36);set_font_style("Calibri");
+insert_table(2, 1);
+choose_table_cell(0, 0);insert_text("Utambuzi wa picha");choose_table_cell(1, 0);insert_text("Uchakataji wa lugha asilia");
+
+choose_title();insert_text("Tathmini ya Ubora wa Tafsiri ya Mashine");
+insert_textbox();insert_text("Mwandishi: Eva.");set_bottom("textbox","title");
+choose_title();set_font_size(66);
+set_background_color("blue");choose_title();set_font_color("red");choose_textbox();set_font_color("red");
+set_background_color("red");choose_title();set_font_color("blue");choose_textbox();set_font_color("blue");
+
+create_slide();choose_title();insert_text("Mitandao ya Neural");
+choose_content();insert_text("Mitandao ya Neural ni seti ya algoriti zinazoiga utendakazi wa ubongo wa binadamu. Zimeundwa kutambua ruwaza, kuainisha data na kufanya ubashiri.");
+set_font_size(24);
+set_font_style("Arial");text_align_center();
+choose_title();set_font_color("blue");
+set_font_color("green");
+insert_picture("brain");set_width(1.5);set_height(1.5);
+choose_content();insert_text("Ubongo wa mwanadamu uliongoza ukuzaji wa mitandao ya neva");
+insert_note("mtandao wa kiakili wa neva");
+create_slide();set_background_color("yellow");
+
+create_slide();choose_title();insert_text("Fedha za kibinafsi");insert_note("Fedha za kibinafsi");
+choose_title();set_font_size(24);set_font_underline();
+choose_content();insert_text("Fedha za kibinafsi hujumuisha ulimwengu mzima wa kusimamia fedha za mtu binafsi na familia, kuwajibika kwa hali yako ya kifedha ya sasa na ya baadaye, na kuweka malengo ya kifedha. Pia inajumuisha kushughulikia kazi za kifedha za kibinafsi na kuokoa kwa dharura. ");
+set_font_color("orange");
+insert_picture("corporate_finance_book");
+set_width(6.5);
+set_background_color("blue");
+set_background_color("light blue");
+create_slide();set_background_color("light blue");create_slide();set_background_color("light blue");
+move_to_slide(1);insert_table(1, 2);
+
+choose_content();insert_text("Karibu kwenye tovuti ya Katalogi ya Usasishaji ya Microsoft.");
+set_font_color("orange");set_background_color("dark blue");
+insert_picture("computer");align_slide_bottom();
+align_slide_left();
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("Dhana za Msingi");choose_table_cell(0, 1);insert_text("Asili");choose_table_cell(0, 2);insert_text("Kategoria");choose_table_cell(0, 3);insert_text("Maendeleo")
+create_slide();insert_star();set_fill_color("red");
+insert_pie_chart([10, 12, 14], ["Q1", "Q2", "Q3"]);choose_shape("star");align_bottom_left_corner();
+choose_chart();set_height(10);set_width(10);
+
+create_slide();set_background_color("blue");
+choose_title();insert_text("Utangulizi");
+choose_content();insert_text("Pesa ya Watu Plus inalingana na fedha za kibinafsi.");
+set_font_italic();set_font_underline();
+set_font_color("green");
+insert_picture("person_grasping_money");align_bottom_right_corner();
+set_width(8);set_height(7);
+create_slide();choose_content();insert_text("Pesa sio kila kitu, lakini hakuna pesa haiwezekani");
+set_font_style("Futura");set_font_color("blue");
+set_font_color("purple");
+insert_pie_chart([1, 2, 3, 4, 5])], ["1", "2", "3", "4", "5"]);set_right("chart", "content");
+choose_title();insert_text("Athari za pesa");
+
+create_slide();choose_title();insert_text("Tofauti kati ya fedha za kibinafsi na za shirika");
+insert_table(2, 3);
+insert_picture("company_logo");set_left("picture", "table");
+choose_table();choose_table_cell(0,0);insert_text("Borderlands 2");choose_table_cell(0,1);insert_text("Divinity: Original Sin 2");choose_table_cell(0,2);insert_text("Final Fantasy VII");choose_table_cell(1,0);insert_text("Assassin's Creed IV: Black Flag");choose_table_cell(1,1);insert_text("Mega Man 3");choose_table_cell(1,2);insert_text("Mega Man 3");
+insert_cloud();align_slide_right();
+insert_note("2023/4/23");
+
+set_background_color("orange");
+create_slide();choose_title();insert_text("Bridget Fonda");set_background_color("orange");
+set_font_italic();set_font_size(18);
+insert_picture("bridget_fonda");align_top_right_corner();
+choose_picture();set_width(8);set_height(7);
+create_slide();
+choose_content();insert_text("Bridget Fonda aliyezaliwa Los Angeles, anatoka katika familia ya mwigizaji inayoheshimika, ambayo ni pamoja na Henry Fonda, Peter Fonda na Jane Fonda. Alijihusisha na ukumbi wa michezo baada ya kuonekana katika utayarishaji wa shule ya Harvey, na baadaye kuwa na jukumu la kimya katika Washirika. Mnamo 1988, alionekana kwenye Scandal, jukumu lake la kwanza la kuzungumza, akiwa na majukumu machache baadaye.");
+set_font_size(12);set_font_italic();
+choose_title();insert_text("Orodha ya Sinema");
+insert_table(3, 3);choose_table_cell(0,0);insert_text("1");choose_table_cell(0,1);insert_text("2");choose_table_cell(0,2);insert_text("3");choose_table_cell(1,0);insert_text("4");choose_table_cell(1,1);insert_text("5");choose_table_cell(1,2);insert_text("6");choose_table_cell(2,0);insert_text("7");choose_table_cell(2,1);insert_text("8");choose_table_cell(2,2);insert_text("9");
+choose_table();align_slide_right();
+
+create_slide();
+choose_title();insert_text("Ghost Bear");set_font_underline();
+choose_content();insert_text(" Dubu Adimu Zaidi Ambaye Hujawahi Kumsikia");
+insert_picture("ghost_bear");
+choose_title();set_font_style("Arial");set_font_size(20);choose_content();set_font_style("Arial");set_font_size(20);
+choose_picture();set_right("picture","content");
+create_slide();insert_picture("treemap_about_bears");
+align_slide_center();
+set_width(4);
+choose_content();insert_text("Nilipokuwa na njaa ya Dungeons and Dragons, Divinity: Original Sin 2 ilijaza pengo hilo kwangu.");
+choose_title();insert_text("Mchezo Wangu Ninaopenda");
+insert_table(2, 2);
+choose_table();choose_table_cell(0,0);insert_text("SMS");choose_table_cell(0,1);insert_text("WeChat");choose_table_cell(1,0);insert_text("QQ");choose_table_cell(1,1);insert_text("DingTalk");
+
+create_slide();set_background_color("blue");
+insert_picture("universe");align_bottom_left_corner();
+set_width(6.5);set_height(13);
+choose_content();insert_text("Inaweza kusemwa kuwa mimi ni mtu wa kuchagua. Sipendi vyakula vitamu sana, kama vile peremende, chokoleti na kadhalika");
+choose_title();insert_text("Chakula ninachopenda zaidi");
+set_font_color("yellow");choose_content();set_font_color("yellow");
+choose_title();set_font_underline();set_font_size(24);choose_content();set_font_size(22);
+insert_cloud();align_slide_right();
+
+choose_title();insert_text("Idol");set_font_underline();
+insert_rectangle();set_fill_color("red");set_bottom("rectangle","title");
+choose_content();insert_text("I want you! (I want you!) I need you! (I need you!)I love you! (I love you!)");text_align_left();
+set_font_size(24);
+set_font_size(48);
+insert_picture("AKB48");
+set_height(6.5);set_width(13);
+insert_table(2,1);choose_table_cell(0,0);insert_text("Wakati wa sanamu ni mfupi. Kuna uso mpya kila mara na mara chache hutoka kwenye hali iliyopo kama ya mwanasesere.");
+choose_table();choose_table_cell(0,0);set_font_color("blue");set_font_style("Futura");
+choose_table_cell(1,0);insert_text("Safari kuu ya sanamu, kutoka kwa Sylvie Vartan hadi kwa sanamu zinazouza viwanja vya michezo, inazua swali: Ni nini kinachofuata kwa sanamu na utamaduni ambao walianzisha?");
+insert_note("2023/05/17");
+
+choose_content();insert_text("MAUDHUI");text_align_center();
+choose_content();insert_text("1. Usuli");insert_text("2. Misheni za Tathmini");insert_text("3. Mfano");insert_text("4. Maombi");
+set_font_size(80);set_font_color("green");
+set_font_underline();set_font_style("Pecita");
+
+set_background_color("orange");choose_title();insert_text("Programu Bora");
+set_font_italic();set_font_size(24);
+choose_content();insert_text("Unataka programu yenye nguvu? Si lazima uilipie. Kila kitu unachohitaji ili kuzalisha na salama kwenye Kompyuta yako kiko kwenye orodha hii, na yote ni bure kabisa.");
+set_font_color("yellow");
+set_background_color("dark blue");
+choose_content();set_font_underline();set_font_style("Arial");
+insert_right_arrow();align_slide_bottom();
+insert_note("2023/4/25");
+
+create_slide();choose_title();insert_text("Jay Chou");
+choose_content();insert_text("Jay Chou ni mwanamuziki wa Taiwan, mwimbaji-mtunzi wa nyimbo, mpiga vyombo vingi, mwigizaji na mkurugenzi.");
+create_slide();choose_title();insert_text("Mojito");
+set_font_underline();set_font_size(20);
+set_font_size(48);
+choose_content();insert_text("Mojito" ilipokelewa vyema na umma kwa ujumla kutoka jumuiya ya kimataifa. Mwangaza wa jua wa Cuba, mashati ya kitropiki, magari ya kale na midundo ya kupendeza hufanya wimbo sio tu kuwa wavu wa kuvutia lakini pia kupendeza sana. Tafadhali USIULIZE swali.");
+set_font_style("Futura");set_background_color("green");
+insert_picture("mojito_cover");align_slide_right();
+
+choose_title();insert_text("Maisha yangu ya chuo kikuu");
+insert_picture("collegue");insert_textbox();insert_text("chuo");
+choose_content();insert_text("utamani wa kusoma nje ya nchi kati ya wanafunzi wa vyuo vikuu");
+set_font_color("red");set_font_underline();
+set_font_style("Futura");choose_title();set_font_size(22);
+choose_content();text_align_left();
+insert_table(1, 3);
+choose_table_cell(0, 0);insert_text("Daraja la Kwanza");choose_table_cell(0, 1);insert_text("Daraja la Pili");choose_table_cell(0, 2);insert_text("Daraja la Tatu");
+create_slide();choose_content();insert_text("Hotuba ya Michelle Obama katika Chuo Kikuu cha Peking");
+insert_picture("logo");align_top_right_corner();
+set_height(6.5);
+
+create_slide();choose_title();insert_text("Python ya Kujifunza");
+set_font_italic();set_font_size(26);set_font_style("Times New Roman");
+set_background_color("green");
+create_slide();set_background_color("green");create_slide();set_background_color("green");
+insert_rectangle();align_slide_bottom();
+insert_table(1, 1);
+choose_table_cell(0, 0);insert_text("Mifano haijatolewa, tafadhali jaza jedwali");
+
+create_slide();set_background_color("green");choose_title();insert_text("Tafsiri ya Mashine");
+choose_content();insert_text("Tafsiri ya mashine ni matumizi ya teknolojia ya kompyuta kutafsiri maandishi kutoka lugha moja hadi nyingine.");
+set_font_size(20);
+set_font_size(40);
+set_font_color("green");text_align_right();
+insert_picture("trados");
+set_height(2);set_width(2);
+align_slide_bottom();
+insert_rectangle();align_slide_bottom();
+
+choose_title();insert_text("Usuli");insert_note("Usuli");
+choose_content();insert_text("Masharti ya kuelewa ubora wa tafsiri wa mashine ya kutafsiri");insert_text("Zingatia kutegemewa kwa kila nukta ya tarehe.");
+insert_cloud();set_width(6.5);align_slide_bottom();
+choose_title();set_font_size(30);choose_content();set_font_size(20);set_font_italic();
+
+insert_circle();align_slide_left();set_fill_color("green");
+set_width(10);set_height(10);
+choose_content();insert_text("Moduli ya Kipengele cha Kujifunza");insert_text("Moduli ya Tathmini ya Ubora");
+choose_title();insert_text("Mfumo wa Msingi");
+insert_note("2023/4");choose_shape("circle");insert_text("2023/4");
+
+choose_title();insert_text("Malipo Machi");set_font_color("green");
+insert_table(1, 3);
+choose_table_cell(0, 0);insert_text("Kitambulisho cha Mfanyakazi");choose_table_cell(0, 1);insert_text("Kiasi");choose_table_cell(0, 2);insert_text("Kumbuka");
+insert_textbox();insert_text("Mfanyakazi atatoa kitambulisho chake cha benki na kitambulisho chake.");set_bottom("textbox","table");
+insert_picture("company_brand_name");align_top_right_corner();
+create_slide();set_background_color("yellow");
+choose_title();insert_text("Sura ya 2");choose_content();insert_text("Bonasi ya Mfanyakazi");
+choose_title();set_font_italic();set_font_size(44);set_font_color("green");
+choose_content();set_font_style("Verdana");set_font_color("light green");
+insert_note("2023/4");
+
+create_slide();choose_title();insert_text("Vipengele vya kujifunza kwa kina");set_font_underline();
+set_font_size(26);set_font_color("light blue");
+insert_circle();
+choose_content();insert_text("Kujifunza kwa kina ni mbinu ya mashine ya kujifunza ambayo hufundisha kompyuta kufanya kile ambacho huja kwa kawaida kwa wanadamu.");
+set_font_style("Arial");
+insert_triangle();align_slide_left();
+align_slide_right();
+set_fill_color("red");set_width(5);
+choose_content();insert_bullet_point("Sunday");insert_bullet_point("Monday");insert_bullet_point("Tuesday");
+move_to_next_slide();set_background_color("yellow");
+choose_title();insert_text("Mitandao ya Neutral");set_font_underline();set_font_italic();insert_note("Mitandao ya Neutral");
+
+choose_title();insert_text("Historia ya Sanaa");
+set_font_bold();set_font_style("Times New Roman");
+choose_content();insert_text("Sanaa ni aina mbalimbali za shughuli za binadamu katika kuunda vizalia vya kuona, vya kusikia au vinavyoigizwa, vinavyoonyesha mawazo dhahania ya mwandishi, au ustadi wa kiufundi, unaokusudiwa kuthaminiwa hasa kwa uzuri wao au nguvu zao za kihisia.");
+set_font_italic();set_font_style("Arial");
+insert_bullet_point("");
+insert_bullet_point("painting");insert_bullet_point("sculpture");insert_bullet_point("architecture");insert_bullet_point("music");insert_bullet_point("literature");
+insert_picture("Mona Lisa");align_slide_bottom();
+align_top_left_corner();
+insert_note("Mona Lisa na Leonardo da Vinci");
+
+insert_star();set_fill_color("yellow");
+choose_title();insert_text("Nyota");set_font_size(24);
+choose_content();insert_text("Karibu kwenye Usiku wa Nyota");
+insert_picture("universe");set_bottom("picture","content");
+insert_note("Nyota Inayong'aa, Nyota Inayong'aa, Nyota Inayong'aa");choose_title();delete_text();insert_text("Nyota Inayong'aa, Nyota Inayong'aa, Nyota Inayong'aa");
+
+create_slide();choose_title();insert_text("Maoni ya Wateja");
+insert_picture("happy_customer");align_slide_bottom();
+choose_title();delete_text();insert_text("Wateja Wetu Wanatupenda!");set_font_color("red");
+delete_text();insert_text("!!");
+choose_content();insert_text("Maoni ya Wateja");
+set_font_style("Times New Roman");set_font_color("green");
+set_background_color("red");
+set_background_color("green");
+
+create_slide();choose_title();insert_text("Mpango wa Uuzaji");
+insert_text("Utangulizi");set_font_underline();set_font_style("Calibri");
+insert_picture("company_logo");align_bottom_left_corner();
+set_height(5);set_width(3);align_slide_right();
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("Kitengo");choose_table_cell(0, 1);insert_text("Habari");choose_table_cell(1, 0);insert_text("Umri");choose_table_cell(1, 1);insert_text("25")
+create_slide();set_background_color("blue");
+choose_title();insert_text("Chapa za rununu");
+insert_line_chart([120, 140, 150], series=["Huawei", "Apple", "Xiaomi"]);
+set_chart_title("Sales in April");
+
+create_slide();choose_title();insert_text("Ripoti ya Fedha ya Q2");
+set_font_style("Arial");set_font_size(20);
+insert_table(3, 1);choose_table_cell(0, 0);insert_text("Metric");choose_table_cell(1, 0);insert_text("Q2");choose_table_cell(2, 0);insert_text("Q3")
+insert_picture("financial report");set_top("picture","table");
+choose_content();insert_text("Ripoti ya kifedha ya Q2 inaonyesha ukuaji mkubwa wa mapato na faida iliyoboreshwa, inayotokana na hatua za ufanisi za uboreshaji wa gharama na ongezeko la mahitaji ya soko la bidhaa na huduma zetu.");
+set_font_italic();set_font_bold();
+insert_bullet_point("");
+set_background_color("light blue");
+
+create_slide();set_background_color("green");
+choose_title();insert_text("Ufeministi");
+set_font_color("green");set_font_size(26);
+choose_content();insert_text("Ufeministi ni imani na utafutaji wa haki sawa, mamlaka, na fursa kwa wanawake, sambamba na za wanaume.");
+set_font_color("green");set_font_italic();
+create_slide();choose_title();insert_text(" Wimbi la 3 la Mwendo wa Ufeministi");set_font_color("green");
+set_font_bold();set_font_style("Times New Roman");set_font_color("blue");set_font_size(28);
+insert_picture("war");align_slide_bottom();
+insert_pie_chart([40, 30, 30], ["US", "Russia", "France"]);
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("Mahali");choose_table_cell(0, 1);insert_text("Miji mbalimbali duniani kote")
+
+create_slide();choose_title();insert_text("Uzinduzi wa Bidhaa");
+choose_content();insert_text("Lengo");insert_note("Lengo");
+set_font_underline();set_font_style("Times New Roman");
+insert_picture("Apple_Pencil");align_bottom_left_corner();
+align_top_right_corner();
+
+choose_title();insert_text("Maendeleo ya Timu");
+choose_content();insert_text("Lengo");
+choose_content();insert_text("Lengo la shirika ni kukuza vijana na makundi yaliyotengwa ya kizazi hiki kupitia ushauri wa wafanyakazi huru wenye uzoefu.");
+set_font_size(18);set_font_underline();
+insert_picture("team_group");set_right("picture", "content");
+
+choose_title();insert_text("Nguvu ya Ubunifu");
+set_font_style("Arial");set_font_bold();
+choose_content();insert_text("Katika dunia ya leo inayobadilika kwa kasi, uvumbuzi una jukumu muhimu katika kukuza ukuaji wa uchumi, kuunda mandhari ya kisiasa, na kubadilisha kanuni za kitamaduni. Huchochea maendeleo, hukuza ushindani, na kufungua uwezekano mpya kwa watu binafsi na jamii.");
+set_font_color("dark blue");set_line_space(2);
+insert_picture("cityscape");align_slide_left();
+insert_rectangle();align_slide_right();
+set_background_color("dark blue");
+create_slide();choose_content();insert_text("Inafanya kazi bila busara, ikipuuza maadili ya jamii na viwango vya nje.");
+set_font_bold();set_font_underline();choose_title();insert_text("Hadithi za Hadithi");
+
+choose_title();insert_text("Maisha ya Mjini");
+set_background_color("light blue");
+choose_table();insert_table(3, 2);choose_table_cell(0, 1);delete_text();insert_text("Wingi");choose_table_cell(1, 1);delete_text();insert_text("Ubora");choose_table_cell(2, 1);delete_text();insert_text("Kiwango");
+insert_triangle();insert_rectangle();set_top("triangle", "rectangle");
+choose_shape("triangle");set_bottom("triangle", "rectangle");
+insert_picture("Shanghai");align_bottom_left_corner();
+
+choose_table();insert_table(4, 6);
+choose_table_cell(0, 0);insert_text("Mwaka");choose_table_cell(0, 1);insert_text("Marafiki");choose_table_cell(0, 2);insert_text("Kuvunja Mbaya");choose_table_cell(0, 3);insert_text("Mchezo wa Viti vya Enzi");choose_table_cell(0, 4);insert_text("Vitu Vigeni");choose_table_cell(0, 5);insert_text("Taji")
+insert_star();
+insert_picture("Friends");set_right("picture", "star");
+choose_shape("star");set_top("star", "picture");
+choose_title();insert_text("mfululizo wa TV");set_font_italic();set_font_underline();
+insert_note("2023-2025");
+
+insert_triangle();rotate_element(45);
+insert_rectangle();set_right("rectangle","triangle");
+insert_star();set_right("star","rectangle");
+insert_circle();set_right("circle","star");
+insert_callout();set_right("callout","circle");rotate_element(-45);
+choose_shape("triangle");insert_text("maumbo");choose_shape("rectangle");insert_text("maumbo");choose_shape("star");insert_text("maumbo");choose_shape("circle");insert_text("maumbo");choose_shape("callout");insert_text("maumbo");
+
+insert_picture("globe");
+choose_title();insert_text("Mkakati wa Upanuzi wa Ulimwengu");
+choose_picture();align_top_left_corner();
+choose_content();insert_text("Amani na Upendo");
+
+insert_pie_chart([40, 45, 5], ["Shanghai", "Beijing", "Nyingine"]);
+choose_title();insert_text("Mchango");
+choose_content();insert_text("Pato la taifa la Beijing kwa mwaka lilizidi yuan trilioni 4 (dola bilioni 630) kwa mara ya kwanza mwaka 2021");
+set_font_style("Arial");
+insert_line_chart([6.7, 6.9, 6.6, 6.1, 2.3, 8.1], ["2016", "2017", "2018", "2019", "2020", "2021"]);
+choose_title();insert_text("Ukuaji wa Pato la Taifa");
+insert_bar_chart([6.5, 6.3, 6.1, 5.9, 5.7, 5.5], ["2022", "2023", "2024", "2025", "2026", "2027"]);
+
+create_slide();choose_title();insert_text("Mpango wa Uuzaji");
+set_background_color("red");
+insert_picture("company_logo");set_top("picture", "title");
+set_width(3);
+
+create_slide();choose_title();insert_text("Queencard");
+set_font_italic();set_font_bold();set_font_color("purple");
+set_background_color("light blue");
+insert_picture("Poker");set_right("picture", "title");
+align_top_right_corner();
+insert_circle();align_bottom_right_corner();
+set_width(6);set_height(4);
+create_slide();choose_title();insert_text("Mfalme");
+insert_picture("King");align_slide_right();
+
+create_slide();choose_title();insert_text("Rekodi ya Maeneo Uliyotembelea ya Mradi");
+insert_table(1, 4);
+choose_table_cell(0, 0);insert_text("Januari");choose_table_cell(0, 1);insert_text("Februari");choose_table_cell(0, 2);insert_text("Machi");choose_table_cell(0, 3);insert_text("Aprili")
+choose_content();insert_text("k.m., \"Uzinduzi wa programu\", \"Kampeni ya uuzaji inaanza\"");
+insert_picture("project_team");set_bottom("picture", "table");
+insert_right_arrow();set_left("right_arrow", "picture");
+set_width(3);set_height(3);
+
+insert_pie_chart([40, 60], ["Wanawake", "Wanaume"]);
+set_chart_title("Class 1");
+insert_picture("team_of_students");
+insert_rectangle();set_bottom("rectangle", "chart");
+choose_title();insert_text("Daraja la 1");
+choose_content();insert_text("yafuatayo yanaonyesha asilimia ya jinsia katika kila darasa");
+set_font_underline();set_font_size(20);
+insert_note("Kanuni：Eva");
+create_slide();insert_pie_chart([40, 60],["Female", "Male"]);set_chart_title("Class 1");
+insert_picture("team_of_students");
+insert_rectangle();set_bottom("rectangle", "chart");
+
+create_slide();choose_title();insert_text("Ushuhuda wa Wateja");
+choose_content();insert_text("Wateja wetu wanasema nini kutuhusu");set_font_bold();set_font_italic();
+insert_picture("happy_customer");
+insert_triangle();set_fill_color("purple");
+align_slide_right();
+
+create_slide();choose_title();insert_text("Mkakati");
+choose_content();insert_text("Mkakati wetu wa uuzaji unategemea 4 Ps: Bidhaa, Bei, Mahali, na Matangazo.");
+set_font_size(20);set_line_space(2);set_font_bold();choose_title();set_font_underline();
+set_font_color("red");choose_content();set_font_color("red");
+insert_rectangle();align_slide_left();
+insert_picture("Apple_company_logo");set_right("picture", "rectangle");
+choose_picture();set_top("picture", "rectangle");
+
+create_slide();choose_title();insert_text("Mashabiki");set_font_style("Arial");set_font_size(24);
+choose_content();insert_bullet_point("Benefits of our product");insert_bullet_point("Target market");insert_bullet_point("Pricing strategy");insert_bullet_point("Marketing channels");
+insert_picture("idol");set_height(6.5);
+align_slide_bottom();
+insert_rectangle();align_slide_top();
+insert_note("Mtangazaji:");
+
+create_slide();choose_title();insert_text("Takwimu za Mauzo");
+insert_bar_chart([20, 30], ["January", "Feburuary"]);
+insert_line_chart([10, 15], ["January", "Feburuary"]);
+set_chart_title("Sales by Month");
+insert_rectangle();align_slide_top();
+choose_content();insert_text("Mapato yetu pia yamekuwa yakiongezeka kwa kasi katika kipindi cha miezi 6 iliyopita");
+
+create_slide();choose_title();insert_text("Ripoti ya Mauzo");
+insert_table(2, 5);
+choose_table();insert_table_row(["Bidhaa", "Vitengo Vilivyouzwa", "Mapato", "Gharama", "Faida"])
+insert_table_row(["Kompyuta", "1000", "$1000000", "$500000", "$500000"])
+insert_table(1, 5);insert_table_row(["Printer", "500", "$100000", "$50000", "$50000"])
+
+create_slide();insert_picture("city_skyline");align_slide_top();
+set_width(6);set_height(4);
+choose_title();insert_text("Maisha ya Jiji");
+choose_picture();align_top_left_corner();
+choose_title();set_font_size(20);set_font_bold();
+
+create_slide();insert_line_chart([40, 30, 30], ["Tamasha", "Albamu", "Kitabu"]);
+choose_title();insert_text("Nguvu ya Fandom");
+choose_content();insert_text("Mashabiki wana jukumu muhimu katika kuchagiza mafanikio na athari za aina mbalimbali za burudani, kuanzia filamu na vipindi vya televisheni hadi michezo na muziki. ");
+set_font_style("Arial");set_font_size(20);
+insert_right_arrow();align_slide_top();
+insert_textbox();align_slide_bottom();
+align_slide_top();
+
+create_slide();choose_title();insert_text("Tencent");
+insert_rectangle();align_slide_top();
+rotate_element(90);
+choose_title();set_font_style("Georgia");set_font_italic();
+choose_content();insert_text("Tencent ni jumuiya ya kimataifa ya Kichina inayoongoza iliyoanzishwa mwaka wa 1998. Inataalamu katika huduma na bidhaa mbalimbali zinazohusiana na mtandao, ikiwa ni pamoja na mitandao ya kijamii, michezo ya kubahatisha mtandaoni, biashara ya mtandaoni, kompyuta ya wingu, na akili bandia. ");
+set_font_size(24);set_font_style("Arial");
+
+set_background_color("green");
+insert_picture("Tencent_logo");
+set_width(6.5);
+insert_line_chart([40, 30, 30], ["Model A", "Model B", "Model C"]);
+insert_bar_chart([40, 30, 30],["Model A", "Model B", "Model C"]);
+
+create_slide();choose_title();insert_text("Asili ya Waingereza");set_font_underline();
+choose_content();insert_text("Asili ya Uingereza inaweza kufuatiliwa hadi wakati wa mfalme wa Anglo-Saxon Athelstan, ambaye mwanzoni mwa karne ya 10 alipata utii wa falme jirani za Waselti na akawa "wa kwanza kutawala kile ambacho hapo awali wafalme wengi walishiriki kati yao. ".");
+set_font_size(20);
+set_font_size(40);set_background_color("green");
+
+insert_rectangle();align_slide_right();
+set_fill_color("yellow");
+choose_title();insert_text("Vinda");
+choose_content();insert_text("Vinda Group ni kampuni inayoongoza ya bidhaa za usafi iliyoanzishwa mwaka wa 1985. Inataalamu katika utengenezaji na usambazaji wa karatasi za tishu, bidhaa za usafi zinazoweza kutumika, na bidhaa za utunzaji wa kibinafsi.");
+set_font_size(20);set_font_color("green");set_font_style("Vinda");
+set_line_space(2);choose_title();set_line_space(2);
+
+choose_title();insert_text("Mapenzi Yangu");
+insert_picture("guitar");align_top_right_corner();
+choose_content();insert_text("Kucheza gitaa ni mojawapo ya mambo ninayopenda.");
+set_font_size(24);set_font_color("purple");
+
+create_slide();choose_title();insert_text("Mpango wa Uuzaji.");
+choose_content();insert_text("Mpango wa Masoko");
+set_font_style("Calibri");
+insert_picture("vinda_logo");
+align_top_left_corner();
+
+create_slide();choose_title();insert_text("Kampeni ya Uuzaji");
+insert_picture("smiling_customer");align_top_left_corner();
+set_height(5);set_width(6);
+choose_content();insert_bullet_point("Profits");insert_bullet_point("Repute");insert_bullet_point("Go listing");
+set_font_size(20);choose_title();set_font_size(20);
+
+create_slide();choose_title();insert_text("Aina za Betri");
+set_font_bold();set_font_italic();
+insert_picture("Product A");
+align_slide_left();
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("Aina ya Betri");choose_table_cell(0, 1);insert_text("Maelezo");choose_table_cell(1, 0);insert_text("Betri za Alkali na za kawaida za kaya zenye maisha marefu ya rafu");choose_table_cell(1, 1);insert_text("Betri za Lithium-ion na Betri zinazoweza Kuchajiwa tena zinazotumika katika vifaa vya kielektroniki");choose_table_cell(1, 2);insert_text("Nickel-cadmium, Betri zinazoweza Kuchajiwa na msongamano mkubwa wa nishati")
+
+insert_pie_chart([30, 25, 20, 15, 10], ["Chapa A", "Chapa B", "Chapa C", "Chapa D", "Bia Nyingine"]);
+set_chart_title("Air Condition Brands");
+choose_content();insert_text("slaidi hii inajumuisha maelezo mafupi au mambo muhimu kuhusu kila chapa");
+insert_picture("Haier");align_slide_bottom();
+choose_content();set_font_underline();set_font_color("green");
+insert_triangle();insert_rectangle();
+choose_shape("triangle");set_bottom("triangle", "rectangle");
+choose_shape("rectangle");rotate_element(45);
+
+choose_title();insert_text("Timu Yetu");
+insert_picture("team");set_width(4);set_height(3);
+rotate_element(45);
+align_top_left_corner();
+choose_title();set_font_style("Calibri");set_font_size(28);
+
+choose_title();insert_text("Kadi ya Kitambulisho");
+insert_line_chart([120, 140, 110], ["Fujian", "Shanghai", "Beijing"]);
+set_chart_title("ID Card Operation");
+insert_picture("ID_card");align_slide_right();
+choose_title();set_font_style("Verdana");set_font_size(32);
+set_background_color("purple");
+
+choose_title();insert_text("Ripoti ya Mauzo");
+set_font_style("Arial");set_font_size(48);set_font_bold();
+insert_table(5, 3);
+choose_table_cell(0, 0);insert_text("Mkoa");choose_table_cell(0, 1);insert_text("Mauzo");choose_table_cell(0, 2);insert_text("Ukuaji");choose_table_cell(1, 0);insert_text("Kaskazini");choose_table_cell(1, 1);insert_text("$50,000");choose_table_cell(1, 2);insert_text("5%");choose_table_cell(2, 0);insert_text("East");choose_table_cell(2, 1);insert_text("$75,000");choose_table_cell(2, 2);insert_text("10%");choose_table_cell(3, 0);insert_text("South");choose_table_cell(3, 1);insert_text("$45,000");choose_table_cell(3, 2);insert_text("3%");choose_table_cell(4, 0);insert_text("Magharibi");choose_table_cell(4, 1);insert_text("$60,000");choose_table_cell(4, 2);insert_text("8%")
+set_background_color("green");
+choose_content();insert_text("Jina: John Doe,Tarehe ya Kuzaliwa: Januari 1, 1990,Jinsia: Mwanaume,Nambari ya Kitambulisho: 123456789,Mamlaka ya Utoaji: Idara ya Magari,Tarehe ya Kuisha Muda wake: Desemba 31, 2023");
+insert_picture("beach");
+insert_right_arrow();
+choose_picture();set_top("picture", "right_arrow");
+
+insert_rectangle();
+set_fill_color("orange");
+set_width(6);set_height(5);
+choose_title();insert_text("Taarifa Muhimu");set_font_bold();
+set_font_size(24);set_font_color("green");
+choose_content();insert_bullet_point("pot");insert_bullet_point("scissors");insert_bullet_point("scoup");
+insert_picture("exclamatory_mark");
+align_top_left_corner();
+create_slide();insert_rectangle();align_slide_left();
+choose_title();insert_text("Maelezo ya Ziada");
+
+choose_content();insert_text("Hizi hapa ni baadhi ya takwimu kuhusu ukuaji wa kampuni yetu");
+set_font_color("purple");
+choose_table();insert_table(1, 3);
+choose_table_cell(0, 0);insert_text("mapato");choose_table_cell(0, 1);insert_text("faida");choose_table_cell(0, 2);insert_text("idadi ya wafanyikazi")
+
+insert_picture("converse_shoes");
+choose_content();insert_text("Converse ni chapa maarufu ya viatu inayojulikana kwa viatu vyake vya kitabia na mtindo wa kawaida.");
+set_font_size(18);set_font_color("red");
+
+choose_content();insert_text("Juisi ya limau ni kinywaji kinachoburudisha na kitamu kilichotengenezwa kwa ndimu zilizokamuliwa hivi karibuni. Ina vitamini C nyingi na hutoa ladha ya machungwa.");
+create_slide();choose_title();insert_text("juisi ya limao");
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("Bidhaa");choose_table_cell(0, 1);insert_text("Bei");choose_table_cell(1, 0);insert_text("Vipengele");choose_table_cell(1, 1);insert_text("A");choose_table_cell(2, 0);insert_text("B");choose_table_cell(2, 1);insert_text("C")
+insert_picture("lemon_juice");set_right("picture","table");
+choose_content();insert_text("Ukurasa wa 1");
+
+insert_picture("beach");align_top_left_corner();
+choose_content();insert_text("Hifadhi likizo yako leo!");
+choose_title();insert_text("Muda wa Likizo");
+set_font_size(18);set_font_style("Times New Roman");choose_content();set_font_size(18);set_font_style("Times New Roman");
+choose_content();insert_bullet_point("Relaxing on the beach");insert_bullet_point("Swimming in the ocean");insert_bullet_point("Eating delicious seafood");
+
+create_slide();choose_title();insert_text("Chili");
+set_background_color("red");
+insert_picture("chili");
+choose_content();insert_text("Chili ni sahani ya viungo na ladha iliyofanywa kwa mchanganyiko wa nyama, maharagwe, na viungo mbalimbali. Inajulikana kwa ladha yake tajiri na joto la kuridhisha.");
+
+choose_title();insert_text("Chili");insert_picture("chili_landscape");
+insert_table(4, 3);choose_table_cell(0, 0);insert_text("Kiungo");choose_table_cell(0, 1);insert_text("Wingi");choose_table_cell(0, 2);insert_text("Kiwango cha Spiciness");choose_table_cell(0, 3);insert_text("Asili");choose_table_cell(1, 0);insert_text("Nyama ya Ng'ombe");choose_table_cell(1, 1);insert_text("paundi 2");choose_table_cell(1, 2);insert_text("Kati");choose_table_cell(1, 3);insert_text("Mexico");choose_table_cell(2, 0);insert_text("Maharagwe");choose_table_cell(2, 1);insert_text("1 can");choose_table_cell(2, 2);insert_text("Mild");choose_table_cell(2, 3);insert_text("United States");choose_table_cell(3, 0);insert_text("Nyanya");choose_table_cell(3, 1);insert_text("3");choose_table_cell(3, 2);insert_text("Moto");choose_table_cell(3, 3);insert_text("Hispania")
+insert_note("Ukurasa wa 2");
+
+insert_picture("eating_humburger");align_slide_bottom();
+choose_title();insert_text("Makadirio ya Mauzo ya Q3.");
+choose_content();insert_text("Makadirio ya mauzo ya Q3 yanaonyesha ukuaji thabiti wa mapato na ugavi wa soko. Kwa mikakati inayolengwa ya uuzaji na uboreshaji wa bidhaa, tunatarajia ongezeko kubwa la utendaji wa mauzo.");
+
+choose_title();insert_text("Mkakati wa Uuzaji");
+choose_content();insert_text("Mkakati wa uuzaji wa kampuni yetu ni kuzingatia utangazaji wa mitandao ya kijamii na uuzaji wa ushawishi");
+insert_bullet_point("Instagram");insert_bullet_point("Facebook");insert_bullet_point("Twitter");
+insert_picture("using_smartphone");
+insert_rectangle();set_top("rectangle","picture");
+insert_table(4, 6);choose_table_cell(0, 0);insert_text("Mwezi");choose_table_cell(0, 1);insert_text("Mapato");choose_table_cell(0, 2);insert_text("Vitengo Vilivyouzwa");choose_table_cell(0, 3);insert_text("Kiwango cha Ukuaji")
+
+create_slide();choose_title();insert_text("Uzinduzi wa Bidhaa");
+insert_text("Tunatanguliza bidhaa zetu mpya");
+insert_picture("product");
+align_slide_bottom();
+set_background_color("purple");align_slide_top();
+
+choose_title();insert_text("Gundua Uchina");
+insert_picture("china_map");
+align_top_left_corner();
+choose_content();insert_text("China ni kivutio cha kuvutia cha watalii kinachojulikana kwa historia yake tajiri, utamaduni mchangamfu, na mandhari ya kuvutia. Kutoka kwa Ukuta Mkuu wa kitabia hadi jiji kuu la Shanghai lenye shughuli nyingi, kuna jambo kwa kila msafiri katika eneo hili kubwa na la kuvutia. nchi mbalimbali.");
+insert_table(5, 8);choose_table_cell(0, 0);insert_text("Mkoa");choose_table_cell(0, 1);insert_text("Vivutio Maarufu");choose_table_cell(0, 2);insert_text("Wastani wa Joto");choose_table_cell(0, 3);insert_text("Nambari za Watalii");choose_table_cell(0, 4);insert_text("Msimu Unaopendekezwa")
+create_slide();choose_title();insert_text("Rekodi ya Maeneo Uliyotembelea ya Mradi");
+insert_star();align_slide_right();
+align_slide_right();
+
+choose_title();insert_text("OPPO");set_font_color("red");set_font_size(20);set_font_underline();set_font_bold();
+choose_content();insert_text("OPPO ni mtengenezaji mahiri wa simu mahiri anayejulikana kwa ubunifu wake na teknolojia ya kisasa.");
+insert_picture("oppo_smartphone");set_left("picture","content");
+create_slide();choose_title();insert_text("Xiaomi");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("Bidhaa");choose_table_cell(0, 1);insert_text("Bei");choose_table_cell(0, 2);insert_text("Sifa");choose_table_cell(0, 3);insert_text("Upatikanaji");choose_table_cell(1, 0);insert_text("Mi 11");choose_table_cell(1, 1);insert_text("$699");choose_table_cell(1, 2);insert_text("Snapdragon 888, 108MP camera");choose_table_cell(1, 3);insert_text("Global");choose_table_cell(2, 0);insert_text("Redmi Note 10");choose_table_cell(2, 1);insert_text("$249");choose_table_cell(2, 2);insert_text("Onyesho la AMOLED, kamera ya 48MP");choose_table_cell(2, 3);insert_text("Ulimwenguni")
+
+create_slide();choose_title();insert_text("Muhtasari wa Bidhaa");
+choose_table();insert_table(4, 3);choose_table_cell(0, 0);insert_text("Jina la Bidhaa");choose_table_cell(1, 0);insert_text("SKU");choose_table_cell(2, 0);insert_text("Bei");choose_table_cell(3, 0);insert_text("Kiasi");
+set_background_color("green");
+
+set_background_color("blue");choose_title();insert_text("Uandishi wa Utafiti");
+choose_content();insert_text("Uandishi wa utafiti unahusisha uchunguzi na uwekaji kumbukumbu wa mada ili kuchangia maarifa na maarifa mapya kwenye nyanja fulani.");
+set_font_color("yellow");set_font_size(18);
+set_font_size(36);
+insert_line_chart([120, 140, 160], ["2016", "2017", "2018"]);
+set_chart_title("Publications Over Time");
+insert_picture("research_writing_cover");set_background_color("light blue");
+
+create_slide();choose_title();insert_text("Ratiba mwezi Machi");
+set_font_size(28);set_font_color("dark blue");
+choose_content();insert_table(3, 4);choose_table_cell(0, 0);insert_text("Tarehe");choose_table_cell(0, 1);insert_text("Kazi");choose_table_cell(0, 2);insert_text("Saa ya kuanza");choose_table_cell(0, 3);insert_text("Saa ya mwisho");choose_table_cell(1, 0);insert_text("Machi 15");choose_table_cell(1, 1);insert_text("Mkutano na wadau");choose_table_cell(1, 2);insert_text("9:00 AM");choose_table_cell(1, 3);insert_text("10:30 AM");choose_table_cell(2, 0);insert_text("tarehe 23 Machi");choose_table_cell(2, 1);insert_text("Mapitio na sasisho la mradi");choose_table_cell(2, 2);insert_text("2:00 PM");choose_table_cell(2, 3);insert_text("4:00 PM")
+insert_picture("calendar");set_top(picture, table);
+
+create_slide();choose_title();insert_text("Faida za Kutafakari");
+insert_picture("person_meditating");align_slide_bottom();
+choose_content();insert_text("Kutafakari ni mbinu rahisi lakini yenye nguvu ambayo inaweza kukusaidia kufikia hali ya amani ya ndani na utulivu.");
+set_font_size(24);set_font_style("Times New Roman");
+insert_rectangle();set_right("rectangle", "picture");
+set_fill_color("light green");
+create_slide();set_background_color("light blue");
+choose_table();insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("Kutafakari kwa Umakini");choose_table_cell(1, 0);insert_text("Kutafakari kwa Kuvuka mipaka");choose_table_cell(2, 0);insert_text("Kutafakari kwa Kuchanganua Mwili");choose_table_cell(0, 1);insert_text("Kutafakari husaidia kutuliza akili na kupunguza viwango vya mfadhaiko, kukuza utulivu.");choose_table_cell(1, 1);insert_text("Mazoezi ya kutafakari ya mara kwa mara huongeza uwezo wa kuzingatia na kuzingatia.");choose_table_cell(2, 1);insert_text("Kutafakari kunakuza utulivu wa kihisia, kuzingatia, na ustawi wa jumla. ");
+
+create_slide();set_background_color("green");
+insert_picture("grassland");set_width(6.5);set_height(5.5);
+choose_title();insert_text("Kazi za Misitu.");set_font_color("dark red");set_font_size(40);
+insert_right_arrow();set_fill_color("yellow");
+set_right("right_arrow", "picture");
+
+insert_pie_chart([40, 20, 15, 10, 15], ["chakula", "nyumba", "usafiri", "burudani", "wengine"]);
+choose_table();insert_table(6, 2);insert_table_row(["Category", "Percentage"]);
+set_bottom("table",pie_chart");
+choose_title();insert_text("Matumizi Yangu Mei 2023");
+set_font_italic();
+
+create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");
+move_to_slide(0);choose_title();insert_text("Likizo yangu ya majira ya joto");set_font_style("Microsoft JhengHei");
+move_to_slide(1);insert_picture("family");
+move_to_slide(2);insert_bar_chart([120, 80, 40, 60], ["Mauzo", "Gharama", "Faida", "Uwekezaji"]);
+move_to_slide(3);choose_content();insert_text("Wakati wa likizo yangu ya kiangazi, nilianza tukio lisilosahaulika. Nilichunguza maeneo mapya, nikizama katika joto la machweo ya dhahabu na kustarehe kwenye fuo za mchanga.");
+move_to_slide(4);choose_table();insert_table(2, 1);choose_table_cell(0,0);insert_text("Mauzo");set_font_size(26);choose_table_cell(1,0);insert_text("Gharama");set_font_size(26);
+
+create_slide();choose_title();insert_text("Mpango wa Biashara");
+insert_picture("light_bulb");align_slide_left();
+choose_content();insert_text("Ujasiriamali ni mchakato wa kubuni, kuanzisha na kuendesha biashara mpya, ambayo mara nyingi ni biashara ndogo. Watu wanaounda biashara hizi huitwa wajasiriamali.");
+set_font_style("Georgia");set_font_size(10);
+set_background_color("green");
+insert_circle();
+align_slide_right();
+move_to_slide(0);choose_content();insert_text("Mkakati wa Uuzaji");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("Kampeni ya Mitandao ya Kijamii");choose_table_cell(1, 0);insert_text("Ushirikiano wa Washawishi");choose_table_cell(2, 0);insert_text("Uuzaji wa Barua pepe")
+choose_table_cell(0,3);insert_text("$10000");choose_table_cell(1,3);insert_text("$15000");choose_table_cell(2,3);insert_text("$5000");
+insert_note("2023/5");
+
+choose_title();insert_text("Watazamaji walengwa");set_font_style("Arial");
+align_top_right_corner();
+insert_picture("Gen_Z");set_width(4);
+align_bottom_left_corner();
+choose_content();insert_text("Kuelewa na kulenga hadhira inayofaa ni muhimu kwa kuwasilisha ujumbe maalum na kuongeza athari za juhudi za uuzaji.");
+
+choose_title();insert_text("Mambo muhimu ya uundaji wa kiwango kikubwa");set_font_size(24);
+insert_picture("neutral_network");align_slide_bottom();
+insert_table(2, 1);choose_table_cell(0, 0);insert_text("Nambari");choose_table_cell(1, 0);insert_text("Kumbuka")
+align_slide_top();
+
+insert_picture("tower");align_top_right_corner();
+choose_title();insert_text("The Ultimate Heist");
+insert_rectangle();set_top("rectangle", "title");
+choose_title();set_font_color("dark green");set_font_size(28);
+set_font_style("Microsoft New Tai Lue");
+set_background_color("light blue");
+
+insert_table(4, 2);choose_table();insert_table_row(["Kazi", "Kipaumbele", "Wakati wa Kuanza", "Wakati wa Kuisha"]);insert_table_row(["Upangaji wa Mradi", "Juu", "9:00 AM", "10:30 AM"])
+choose_content();insert_text("Udhibiti wa wakati unaofaa ni ujuzi muhimu kwa mafanikio katika mipangilio ya kibinafsi na ya kitaaluma.");
+set_font_italic();
+choose_table();set_bottom("table","content");
+insert_picture("clock");
+insert_note("Mtangazaji: Eva");
+
+create_slide();choose_title();insert_text("Wasifu wa Kampuni");
+choose_content();insert_text("Kampuni yetu ilianzishwa mnamo 2005 kwa lengo la kutoa bidhaa na huduma za hali ya juu kwa wateja wetu. Tangu wakati huo, tumekua mtoaji anayeongoza wa suluhisho za ubunifu kwa anuwai ya tasnia. . Timu yetu ya wataalamu imejitolea kutoa ubora katika kila jambo tunalofanya.");
+choose_title();set_font_style("Calibri Light");set_font_size(40);
+insert_picture("company_logo");align_slide_right();
+set_height(2);set_width(3);align_slide_left();
+align_bottom_left_corner();
+create_slide();set_background_color("blue");
+choose_content();insert_text("Kuwa kiongozi katika uvumbuzi na uendelevu, kutoa thamani kwa wadau wetu na kuathiri vyema ulimwengu.");
+set_font_underline();set_line_space(2);
+insert_table(2, 1);choose_table_cell(0, 0);insert_text("A-72");choose_table_cell(1, 0);insert_text("C-71")
+insert_table(1, 2);insert_table_row(["B-72", "D-71"])
+
+create_slide();choose_title();insert_text("Data ya Mauzo");
+insert_table(15, 6);
+choose_table();insert_table_row(["Bidhaa", "Mauzo ya Januari", "Mauzo ya Februari", "Mauzo ya Machi", "Jumla ya Mauzo", "Mauzo ya Wastani"]);insert_table_row(["iPhone", "22", "13", "15", "17", "12"])
+align_top_left_corner();
+insert_note("Chanzo cha data: Idara ya Mauzo");
+create_slide();insert_table(15, 6);insert_table_row(["Product", "January Sales", "February Sales", "March Sales", "Total Sales", "Average Sales"]);insert_table_row(["iPhone", "22", "13", "15", "17", "12"]);align_top_left_corner()
+
+choose_title();insert_text("Mikakati ya Uuzaji");
+set_font_style("Arial Black");
+choose_content();insert_text("Uboreshaji wa Injini ya Utafutaji (SEO)");insert_text(", ");insert_text(", ");insert_text(", na ");
+set_font_color("dark blue");
+set_font_color("green");
+insert_picture("thumb");set_width(5);set_bottom("picture", "content");
+
+choose_title();insert_text("The Grand Canyon");set_font_italic();
+set_font_size(30);
+set_font_style("Times New Roman");
+insert_picture("GrandCanyon");
+set_right("picture","title");
+set_height(4);set_width(6);
+insert_table(4, 2);choose_table_cell(0, 0);insert_text("Guangdong");choose_table_cell(1, 0);insert_text("Beijing");choose_table_cell(2, 0);insert_text("Shanghai");choose_table_cell(3, 0);insert_text("Hainan");choose_table_cell(0, 1);insert_text("34%");choose_table_cell(1, 1);insert_text("36%");choose_table_cell(2, 1);insert_text("20%");choose_table_cell(3, 1);insert_text("10%")
+insert_pie_chart([34, 36, 20, 10], ["Guangdong", "Beijing", "Shanghai", "Hainan"]);
+choose_chart();set_bottom("chart", "table");
+insert_bar_chart([34, 36, 20, 10],["Guangdong","Beijing", "Shanghai", "Hainan"]);
+insert_note("Chanzo cha picha: Huduma ya Hifadhi ya Kitaifa");
+
+create_slide();choose_title();insert_text("Ulinganisho wa Bidhaa");
+insert_table(5, 2);choose_table_cell(0, 0);insert_text("Smartphone (Apple iPhone 13)");choose_table_cell(0, 1);insert_text("Laptop (Dell XPS 13)");choose_table_cell(1, 0);insert_text("Smartwatch (Apple Watch Series 7)");choose_table_cell(1, 1);insert_text("Vipokea sauti (Sony WH-1000XM4)");choose_table_cell(2, 0);insert_text("Kamera (Canon EOS R5)");choose_table_cell(2, 1);insert_text("Televisheni (Samsung QLED Q90T)");choose_table_cell(3, 0);insert_text("Gaming Console (PlayStation 5)");choose_table_cell(3, 1);insert_text("Fitness Tracker (Fitbit Charge 4)");choose_table_cell(4, 0);insert_text("Earbuds Zisizotumia Waya (AirPods Pro)");choose_table_cell(4, 1);insert_text("Tablet (iPad Pro)")
+choose_title();align_bottom_right_corner();
+set_background_color("light blue");
+
+create_slide();choose_title();insert_text("Ripoti ya Mauzo ya Kila Mwezi");
+choose_content();insert_bar_chart([10000, 12000, 15000, 18000, 20000, 25000, 28000, 30000, 32000, 35000, 40000, 45000], series=["Januari", "Februari", "Machi", "Aprili", "Mei", "Juni", "Julai", "Agosti", "Septemba", "Oktoba", "Novemba", "Desemba"]);
+set_chart_title("My Monthly Sales in 2023");
+align_slide_top();
+choose_content();insert_text("Ripoti ya mauzo ya kila mwezi inaonyesha ongezeko kubwa la mapato.");
+insert_note("Iliyowasilishwa na: xxx");
+
+set_background_color("light red");insert_picture("strawberry");
+create_slide();choose_title();insert_text("Upeo wa Mradi");create_slide();choose_title();insert_text("Ratiba ya Mradi");create_slide();choose_title();insert_text("Bajeti ya Mradi");
+move_to_slide(1);set_background_color("light green");move_to_slide(2);set_background_color("light blue");move_to_slide(3);set_background_color("purple");
+move_to_slide(1);choose_content();insert_text("Mradi wetu unahusisha kutengeneza programu mpya ya programu kwa ajili ya wateja wetu. Programu itaboresha michakato yao ya biashara na kuboresha msingi wao.");
+move_to_slide(2);insert_table(6, 2);choose_table();insert_table_row(["Mwezi", "Kazi"]);insert_table_row(["Tarehe ya Kuanza", "Tarehe ya Mwisho"]);insert_table_row(["Maendeleo", "Maoni"])
+insert_line_chart([10, 12, 15, 11], ["2016", "2017", "2018", "2019"]);set_left("chart","table");
+insert_star();align_top_right_corner();
+move_to_slide(2);choose_title();set_font_underline();
+move_to_slide(3);choose_content();insert_text("Gharama za Wafanyakazi: Hii inajumuisha gharama zinazohusiana na washiriki wa timu ya mradi, kama vile mishahara, mishahara, marupurupu na gharama za mafunzo.");
+choose_content();set_font_style("Arial");
+insert_note("Asante!");
+
+choose_title();insert_text("Rekodi ya Maeneo Uliyotembelea ya Kampuni");
+insert_rectangle();rotate_element(45);
+align_bottom_right_corner();
+set_background_color("light blue");
+insert_table(4, 2);choose_table_cell(0, 0);insert_text("1980");choose_table_cell(1, 0);insert_text("1990");choose_table_cell(2, 0);insert_text("2000");choose_table_cell(3, 0);insert_text("2010")
+choose_table();insert_table_row(["Kampuni iliyoanzishwa", "Kampuni ilihamia jengo jipya", "Kampuni ilienda kwa umma", "Kampuni iliyopatikana na mshindani"])
+
+insert_picture("google_logo");align_slide_bottom();
+choose_title();insert_text("Hitimisho");set_font_italic();
+choose_content();insert_text("Tunazidi kuwa moja, idadi ya watu duniani kote - tunachanganya kwa uhuru. Hilo litaunda ulimwengu wa mchanganyiko - wenye ngozi ya rangi ya hudhurungi, wenye nywele nyeusi, Afro-Euro-Australo-Americo-Asians, rangi ya ngozi zao na sura zao za usoni. kuelekea wastani wa kimataifa.");
+text_align_right();
+insert_rectangle();set_height(5);
+align_slide_bottom();
+
+create_slide();choose_title();insert_text("Ukosoaji wa Kimaadili wa Kifasihi");set_font_bold();
+set_font_color("blue");
+choose_content();insert_text("Mbinu ya uhakiki wa kimaadili wa fasihi ni mbinu mpya ya uhakiki wa kifasihi iliyotolewa na Profesa Nie Zhenzhao wa Chuo Kikuu cha Kawaida cha China baada ya uchunguzi linganishi, kuchana vizuri na kufikiria upya historia na hali ya sasa ya uhakiki wa fasihi wa Kichina na Magharibi. nadharia na mbinu.");
+insert_picture("book_cover");
+align_slide_left();
+insert_rectangle();align_slide_right();
+set_background_color("light yellow");
+
+create_slide();choose_title();insert_text("Jane Eyre na Charlotte Bronte");set_font_italic();
+choose_content();insert_text("Katika mwisho unaoonekana kuwa wa furaha, Charlotte anatumia urithi na moto ili kujenga njama.");set_font_bold();
+set_font_color("dark red");set_font_style("Arial");
+insert_right_arrow();set_right("right_arrow", "content");
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("kitengo");choose_table_cell(0, 1);insert_text("habari");choose_table_cell(1, 0);insert_text("mwaka wa uchapishaji");choose_table_cell(1, 1);insert_text("1847")
+insert_picture("Charlotte_Bronte's_portrait");set_bottom("picture", "table");
+set_top("picture", "table");
+
+set_background_color("blue");
+choose_title();insert_text("Id katika David Copperfield");set_font_italic();
+choose_content();insert_text("Id ni aina ya msukumo wa kisilika wa mnyama, huchanganyikiwa bila busara, na hutafuta kuridhika kwa upofu na hujilimbikiza nafasi za kuvunjika. moja. Id haijali viwango vya kijamii vya maadili au tabia ya nje. Id ni mahali pa kuhifadhi silika.");
+insert_picture("book");set_top("book","content");
+set_height(5);set_width(6);
+insert_star();set_right("star","picture");
+choose_content();insert_bullet_point("");
+
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("Mahali, Miji mbalimbali duniani kote");choose_table_cell(1, 0);insert_text("Kabila, jamii na utamaduni wa Wachina");choose_table_cell(2, 0);insert_text("Sifa, usanifu wa Kichina, biashara, vyakula, sherehe za kitamaduni")
+choose_title();insert_text("Mji wa China");set_font_bold();
+insert_pie_chart([40, 30, 30], ["Migahawa ya Kichina", "Maduka ya Rejareja ya Kichina", "Sherehe za Utamaduni na Matukio"]);
+insert_picture("China_town");
+align_slide_bottom();
+insert_star();align_slide_right();
+insert_note("Mji wa China");
+
+create_slide();set_background_color("green");
+choose_title();insert_text("ufeministi");set_font_color("green");
+choose_content();insert_text("Ufeministi ni imani na lengo kwamba wanawake wanapaswa kuwa na haki, nguvu, na fursa sawa na wanaume");
+set_font_color("yellow");set_font_italic();
+
+choose_title();insert_text("wimbi la 3 la harakati za Ufeministi");set_font_bold();
+set_font_style("Times New Roman");set_font_color("blue");set_font_size(28);
+choose_content();insert_text("Inazingatia imani za dini za rangi nyingi, desturi za makabila, tamaduni nyingi, ulinzi wa mazingira, ulaji, mwelekeo wa utofauti");
+insert_picture("female_portrait");set_top("picture","content");
+
+create_slide();choose_title();insert_text("mabadiliko ya filamu ya Pride and Prejudice");
+set_font_size(24);set_font_italic();
+choose_content();insert_text("Miaka kumi na nne baada ya kuonyeshwa kwa mara ya kwanza, uigaji wa riwaya ya Jane Austen ya Pride and Prejudice mwaka wa 1995, mwandishi wa skrini Andrew Davies unasalia kuwa kigezo ambacho utohoaji wa Austen hupimwa sana. Inajulikana kwa 'kufanya ngono' kwa tamthilia ya kipindi. , urekebishaji unashughulikia hisia za kisasa na matarajio makubwa ya kisasa. Chaguo za kufasiri za Davies zinakazia juu ya uasherati na kuleta umakini kwa matamanio ya Darcy.");
+insert_bullet_point("");
+set_font_size(20);set_line_space(2);
+insert_picture("web_image");
+insert_rectangle();align_top_right_corner();
+set_background_color("light orange");
+
+insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("Mahali");choose_table_cell(1, 0);insert_text("kabila")
+choose_content();insert_text("Elizabeth Bennet na Bw. Darcy wanapitia maendeleo makubwa ya wahusika katika riwaya yote, wakijifunza masomo muhimu kuhusu wao wenyewe na jamii.");
+insert_picture("Elizabeth_Bennet_and_Mr. Darcy");set_bottom("picture", "table");
+align_slide_right();
+insert_rectangle();align_top_left_corner();
+create_slide();choose_title();insert_text("Jukumu la Daraja la Kijamii katika Kiburi na Ubaguzi");set_font_underline();
+choose_content();insert_text("Tabaka la kijamii lina jukumu kubwa katika riwaya, kuathiri uhusiano wa wahusika, maamuzi, na mitazamo ya kibinafsi.");
+insert_circle();align_bottom_right_corner();set_fill_color("orange");
+set_background_color("orange");
+
+create_slide();choose_title();insert_text("Maumbo");
+insert_rectangle();set_fill_color("red");align_slide_left();
+insert_circle();set_fill_color("blue");align_slide_right();
+insert_triangle();set_fill_color("green");align_slide_left();
+insert_callout();set_fill_color("yellow");align_slide_right();
+
+insert_picture("19th-century_marriage_scene");align_slide_right();
+insert_triangle();set_right("triangle", "picture");
+choose_title();insert_text("ndoa ya karne ya 19");
+set_font_italic();set_font_bold();
+
+insert_pie_chart([30, 25, 15, 10, 10, 10], ["Vanila", "Chokoleti", "Sitroberi", "Chipu ya Chokoleti ya Mint", "Vidakuzi na Cream", "Siagi Pecan"]);
+insert_picture("strawberry");set_bottom("picture", "chart");
+choose_content();insert_text("Matumizi yaliongezeka kwa kiasi kikubwa robo ya mwisho kutokana na gharama kubwa za uendeshaji na kuongezeka kwa uwekezaji katika mipango ya masoko.");
+set_font_style("Times New Roman");set_font_size(18);
+
+create_slide();choose_title();insert_text("Utengenezaji wa PPT");insert_note("Utengenezaji wa PPT");
+choose_content();insert_text("Kuunda mawasilisho ya PowerPoint ya kuvutia na yenye athari kunahitaji upangaji na utekelezaji makini.");
+choose_content();set_font_underline();set_font_color("dark red");
+choose_title();set_font_bold();set_font_italic();
+insert_note("PPT");
+
+create_slide();choose_title();insert_text("Mitandao ya Neural");
+choose_content();insert_bullet_point("Neural networks are a type of machine learning algorithm that are modeled after the structure of the human brain. They consist of layers of interconnected nodes that process information and learn to recognize patterns.");
+choose_title();set_font_color("red");
+insert_picture("neural_network_architecture");
+insert_cloud();set_right("cloud","picture");
+set_background_color("yellow");
+
+create_slide();insert_cloud();set_fill_color("red");align_slide_right();
+choose_content();insert_text("Toa Vipodozi Vilivyochukuliwa");
+choose_title();set_font_color("orange");create_slide();choose_title();insert_text("Utayarishaji wa data");
+set_background_color("red");
+
+create_slide();choose_title();insert_text("Hamisha Mafunzo");
+set_font_size(28);set_font_bold();choose_content();set_font_size(28);
+set_font_style("Times New Roman");set_font_color("red");
+set_background_color("red");
+choose_content();insert_text("Kujifunza kwa uimarishaji ni aina ya kujifunza kwa mashine ambayo algorithm hujifunza kupitia majaribio na makosa. Mara nyingi hutumiwa kufundisha mashine jinsi ya kufanya maamuzi katika mazingira magumu.");
+
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("Jina la Mfano");choose_table_cell(0, 1);insert_text("ChatGPT");choose_table_cell(1, 0);insert_text("Usanifu");choose_table_cell(1, 1);insert_text("GPT (Generative Pre-trained Transformer)");choose_table_cell(2, 0);insert_text("Ukubwa wa Data ya Mafunzo");choose_table_cell(2, 1);insert_text("Terabaiti nyingi za data mbalimbali za maandishi")
+choose_title();insert_text("GPT");set_font_bold();
+choose_content();insert_text("Generative Pre-trained Transformer 3 (GPT-3) ni muundo wa lugha unaojirudia uliotolewa mwaka wa 2020 ambao hutumia mafunzo ya kina kutoa maandishi yanayofanana na binadamu.");
+set_font_underline();set_font_color("dark red");choose_title();set_font_color("dark red");
+insert_picture("gpt-3_architecture");set_right("picture","content");
+
+create_slide();choose_title();insert_text("Wuthering Height");set_font_italic();
+choose_content();insert_text("Hadithi inasimuliwa na Lockwood, mtu asiyependezwa, ambaye masimulizi yake yanatumika kama fremu ya mfululizo wa masimulizi mafupi ya Ellen Dean, mfanyakazi wa nyumbani.");set_font_bold();
+set_font_color("red");choose_title();set_font_color("red");
+insert_right_arrow();
+set_width(6);set_height(4);
+create_slide();insert_cloud();
+insert_picture("wuthering_height_bookcover");
+choose_content();insert_text("Wuthering Heights, riwaya ya Emily Brontë, iliyochapishwa mnamo 1847 chini ya jina bandia la Ellis Bell");
+set_font_style("Times New Roman");set_font_size(18);
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("Jamii");choose_table_cell(0, 1);insert_text("Habari")
+insert_note("Microsoft");
+
+create_slide();choose_title();insert_text("Kiburi na Ubaguzi wa Jane Austen");
+choose_content();insert_text("Riwaya inachunguza mada za mapenzi, ndoa, na matarajio ya kijamii kati ya waungwana wa Uingereza");set_font_bold();set_font_underline();
+insert_right_arrow();set_left("right_arrow", "content");
+set_fill_color("light orange");choose_content();set_font_color("dark green");
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("kitengo");choose_table_cell(0, 1);insert_text("habari");choose_table_cell(1, 0);insert_text("mwandishi");choose_table_cell(1, 1);insert_text("Jane Austen")
+insert_picture("jane_austen_portrait");
+set_height(6);align_top_right_corner();
+
+create_slide();choose_title();insert_text("Safari ya maisha ya Sirsa");set_font_bold();
+set_font_size(24);
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("Utoto");choose_table_cell(0, 1);insert_text("miaka 0-10");choose_table_cell(0, 2);insert_text("Shule");choose_table_cell(1, 0);insert_text("Ujana");choose_table_cell(1, 1);insert_text("miaka 11-18");choose_table_cell(1, 2);insert_text("Shule ya upili")
+insert_picture("school");
+set_left("picture","table");
+
+create_slide();choose_title();insert_text("Kuchunguza Ulimwengu");set_font_underline();
+insert_picture("galaxy");
+choose_content();insert_bullet_point("Stars");insert_bullet_point("Planets");insert_bullet_point("Nebulae");insert_bullet_point("Black Holes");insert_bullet_point("Dark Matter");
+set_font_bold();set_font_italic();
+set_font_color("dark red");
+insert_pie_chart([35, 25, 40], ["Jengo la kufundishia", "Uwanja", "Uwanja wa michezo"]);
+align_slide_top();
+insert_line_chart([20, 30, 40, 10], ["Year 1", "Year 2", "Year 3", "Year 4"]);
+insert_bar_chart([20, 30, 40, 10], ["1st year", "2nd year", "3rd year", "4th year"]);
+set_background_color("blue");
+
+create_slide();choose_title();insert_text("utangulizi");
+choose_content();insert_text("Katika karatasi hii, tunachunguza jinsi kutumia njia nyingi na za ziada kwa muda mrefu huleta uwezekano na mitego, pamoja na ugumu na kutokuwa na uhakika.");
+set_font_color("red");
+set_font_size(20);
+set_background_color("light blue");choose_content();set_font_size(40);
+
+choose_content();insert_text("Nanyang ni mji wa kitaifa wa kihistoria na kitamaduni, wenye urithi wa kihistoria na mkusanyiko mkubwa wa kitamaduni.");
+insert_bullet_point("");
+set_font_size(18);set_font_italic();set_font_style("Arial");
+choose_title();insert_text("Jiji Langu- Nanjing");
+insert_picture("Nanjing");align_slide_right();
+create_slide();choose_title();insert_text("Katalogi");insert_note("Katalogi");
+set_font_italic();set_font_size(24);
+choose_content();insert_text("Katalogi hutumika kama nyenzo pana na inayovutia, inayoonyesha bidhaa au huduma mbalimbali.");
+set_font_color("green");set_background_color("dark blue");
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("Bidhaa");choose_table_cell(0, 1);insert_text("Bei");choose_table_cell(1, 0);insert_text("shati");choose_table_cell(1, 1);insert_text("$29.99");choose_table_cell(2, 0);insert_text("mavazi");choose_table_cell(2, 1);insert_text("$59.99")
+insert_pie_chart([40, 30, 30], ["shati", "nguo", "suruali"]);
+insert_line_chart([40, 30, 30], ["shirt", "dress", "pants"]);
+insert_bar_chart([40, 30, 30], ["shirt", "dress", "pants"]);
+
+choose_title();insert_text("Furahia maisha ya furaha");
+insert_star();set_top("star","title");
+set_font_style("Arial Black");
+choose_content();insert_text("Kufurahia maisha ya furaha kunahusisha kupata furaha katika muda mfupi, kukuza mahusiano yenye maana, kufuatilia shauku, kudumisha uwiano mzuri wa maisha ya kazi, na kufanya mazoezi ya kujitunza.");set_line_space(2);
+insert_picture("happy_person");align_top_right_corner();
+set_height(4);set_width(5);align_bottom_left_corner();
+
+choose_table();insert_table(5, 1);choose_table_cell(0, 0);insert_text("Marathon iliyokamilika");choose_table_cell(1, 0);insert_text("Kitabu Cha Kwanza Kuchapishwa");choose_table_cell(2, 0);insert_text("Amepandishwa cheo kuwa Meneja");choose_table_cell(3, 0);insert_text("Kujitolea kwa Masaa 100+");choose_table_cell(4, 0);insert_text("Kuanzisha Biashara yenye Mafanikio");
+choose_title();insert_text("Mafanikio yangu makubwa mnamo 2023");
+choose_content();insert_text("Mnamo 2023, nilitimiza hatua muhimu zaidi ambazo zilizidi matarajio yangu. Kuanzia kukamilisha mbio za marathoni hadi kuchapisha kitabu changu cha kwanza na kupata ukuzaji, mafanikio haya yanachochea bidii yangu ya ukuaji zaidi na kunitia moyo kufikia usawa. urefu mkubwa zaidi.");
+insert_picture("book");align_slide_top();
+insert_pie_chart([30, 25, 45], ["Marathon", "Kitabu", "Kujitolea"]);
+insert_rectangle();set_left("rectangle","chart");
+insert_note("2023");
+
+choose_title();insert_text("Ukosoaji wa kimaadili wa fasihi");
+set_font_bold();set_font_color("blue");align_slide_bottom();
+insert_picture("mountain_landscape");align_slide_right();
+choose_content();insert_text("Mbinu ya uhakiki wa kimaadili wa fasihi ni mbinu ya riwaya iliyopendekezwa na Profesa Nie Zhenzhao kutoka Chuo Kikuu cha Kawaida cha China.");
+set_font_underline();set_font_style("Times New Roman");set_font_size(24);set_line_space(2);
+set_font_color("dark blue");
+insert_rectangle();align_slide_left();
+set_fill_color("green");insert_text("kijani");
+align_top_right_corner();
+insert_right_arrow();set_right("right_arrow","content");
+
+create_slide();choose_title();insert_text("Wanachama wa Timu");
+insert_picture("team_member");align_slide_bottom();
+set_width(6.5);
+insert_note("Mjumbe wa timu");choose_title();set_font_bold();
+
+create_slide();choose_title();insert_text("Utendaji wa Uuzaji");
+set_font_color("blue");set_font_size(24);set_font_underline();set_background_color("green");
+choose_content();insert_text("Utendaji wa mauzo ni kiashirio kikuu cha mafanikio ya kampuni katika kuzalisha mapato. Inaonyesha ufanisi wa timu ya mauzo na mahitaji ya jumla ya soko la bidhaa au huduma.");
+set_font_color("dark red");set_font_size(18);
+insert_table(3, 5);choose_table_cell(1, 1);insert_text("Mwaka");choose_table_cell(1, 2);insert_text("Robo");choose_table_cell(1, 3);insert_text("Mapato");choose_table_cell(2, 1);insert_text("2018");choose_table_cell(2, 2);insert_text("Q1");choose_table_cell(2, 3);insert_text("$500,000");
+set_font_size(18);
+
+create_slide();choose_title();insert_text("Ripoti ya Mauzo");
+insert_line_chart(["Product A","Product B","Product C"], ["Bidhaa A", "Bidhaa B", "Bidhaa C"]);
+set_chart_title("Revenue Trend");
+insert_picture("T-shirt");insert_textbox();insert_text("T-shati");
+insert_star();set_right("star","picture");
+create_slide();choose_title();insert_text("Muundo wa Shirika");
+insert_table(4,2);choose_table_cell(0,0);insert_text("MKURUGENZI MTENDAJI");choose_table_cell(0,1);insert_text("John Smith");choose_table_cell(1,0);insert_text("CFO");choose_table_cell(1,1);insert_text("Jane Doe");choose_table_cell(2,0);insert_text("COO");choose_table_cell(2,1);insert_text("Tom Jones");choose_table_cell(3,0);insert_text("CMO");choose_table_cell(3,1);insert_text("Sarah Lee");
+choose_title();set_font_underline();move_to_previous_slide();choose_title();set_font_underline();
+set_font_size(20);set_font_color("purple");
+insert_note("Muundo wa shirika");
+set_background_color("green");
+
+create_slide();choose_title();insert_text("Utangulizi");
+choose_content();insert_text("Asante kwa kuungana nasi leo. Tumefurahi.");
+insert_text("kuwa na wewe hapa na tunatazamia kushiriki nawe habari za kusisimua.");
+set_font_style("Times New Roman");set_font_size(20);
+insert_picture("landscape");set_height(3);set_width(5);
+insert_triangle();insert_rectangle();set_right("rectangle","triangle");
+set_background_color("purple");insert_note("2023");
+
+choose_title();insert_text("Uzinduzi wa Bidhaa");set_font_bold();set_font_color("red");
+insert_picture("computer");
+set_height(2);set_width(2);
+choose_content();insert_text("Bidhaa yetu mpya ni kifaa cha mkononi cha hali ya juu kinachochanganya teknolojia ya kisasa na muundo maridadi na unaomfaa mtumiaji.");
+set_font_bold();set_font_color("red");
+create_slide();choose_title();insert_text("Vipengele vya Bidhaa");
+insert_table(2, 5);choose_table_cell(0, 0);insert_text("Kipengele");choose_table_cell(0, 1);insert_text("Maelezo");
+insert_bar_chart([0.25,0.50,0.25], ["Bidhaa A", "Bidhaa B", "Bidhaa C"]);
+set_chart_title("Feature Importance");
+set_background_color("light blue");insert_note("Umuhimu wa Kipengele");
+
+create_slide();choose_title();insert_text("Matokeo ya Kila Robo ya Fedha");
+set_font_style("Arial");
+choose_content();insert_text("Kampuni yetu ilipata mapato ya $1.5 milioni na faida ya $500,000 robo hii.");
+set_font_bold();set_font_underline();
+insert_table(4, 5);
+choose_table();choose_table_cell(0, 0);insert_text("Mwezi");choose_table_cell(0, 1);insert_text("Mapato");choose_table_cell(0, 2);insert_text("Gharama");choose_table_cell(0, 3);insert_text("Faida")
+insert_bar_chart([50, 60, 55, 70], series=["Q1 2022", "Q2 2022", "Q3 2022", "Q4 2022"]);
+set_chart_title("Quarterly Financial Results in 2022");
+set_background_color("red");
+create_slide();choose_title();insert_text("Uchambuzi wa Kifedha");
+insert_picture("company_logo");
+choose_content();insert_text("Asante kwa umakini wako!");set_font_underline();set_font_italic();set_font_size(26);
+
+create_slide();choose_title();insert_text("Data ya Uuzaji");
+insert_bar_chart([500000, 400000, 600000, 450000], series=["Eneo A", "Eneo B", "Eneo C", "Eneo D"]);
+set_chart_title("Regional Sales");
+choose_title();set_font_underline();insert_note("Chanzo cha data: Ripoti ya Mauzo 2023");
+
+create_slide();choose_title();insert_text("Tafiti ya Wateja");
+insert_pie_chart([0.4, 0.3, 0.2, 0.05, 0.05], ["Nimeridhika Sana", "Nimeridhika", "Nutral", "Sijaridhika", "Sijaridhika Sana"]);
+align_slide_bottom();
+insert_picture("questionnaire");align_slide_top();
+insert_note("2023/5");
+
+choose_title();insert_text("Habari ya Isimu");set_background_color("light blue");
+choose_title();set_font_style("Arial");set_font_color("red");set_font_size(36);
+insert_text("Isimu ni uchunguzi wa kisayansi wa lugha na muundo wake. Huchunguza ugumu wa mawasiliano ya binadamu, kuanzia fonetiki na sintaksia hadi semantiki na pragmatiki.");
+set_font_style("Verdana");set_font_color("yellow");set_font_size(18);set_line_space(2);
+create_slide();choose_title();insert_text("Matawi ya Isimu");
+insert_table(3, 4);
+choose_table_cell(0, 0);insert_text("Matawi ya Isimu");choose_table_cell(0, 1);insert_text("Maelezo");choose_table_cell(0, 2);insert_text("Mifano");choose_table_cell(1, 0);insert_text("Fonetiki");choose_table_cell(1, 1);insert_text("Utafiti wa sauti za usemi");choose_table_cell(1, 2);insert_text("fonetiki ya matamshi, fonetiki ya sauti, fonetiki ya ukaguzi")
+insert_picture("book_about_linguistics");align_slide_bottom();
+set_height(6);set_width(5);
+move_to_slide(0);set_background_color("purple");move_to_slide(1);set_background_color("purple");
+
+set_background_color("light green");choose_title();insert_text("Familia za Lugha");
+set_font_bold();set_font_italic();
+insert_bar_chart([445, 1526,1290, 452], ["Indo-European", "Niger-Congo", "Austronesia", "Sino-Tibetan"]);
+set_chart_title("Language familiy and its number of languages");
+create_slide();choose_title();insert_text("Upataji wa Lugha");set_font_bold();set_font_italic();
+choose_content();insert_text(" ");
+set_font_style("Times New Roman");set_font_color("red");set_font_size(22);
+set_font_underline();set_font_bold();choose_title();set_font_color("red");
+insert_picture("English book");
+insert_rectangle();align_slide_right();
+choose_picture();align_slide_top();
+
+create_slide();choose_title();insert_text("Hitimisho");
+choose_title();set_font_style("bold");set_font_style("underline");set_font_color("red");
+choose_content();insert_text(" ");
+set_font_style("Verdana");set_font_color("yellow");
+create_slide();set_background_color("purple");create_slide();set_background_color("purple");create_slide();set_background_color("purple");create_slide();set_background_color("purple");
+move_to_slide(1);choose_title();insert_text("Muhtasari wa Sera za Mali isiyohamishika nchini Uchina");insert_picture("China_map");
+move_to_slide(2);choose_title();insert_text("Mabadiliko ya Hivi Majuzi");set_font_style("italic");set_font_style("Verdana");
+choose_content();insert_text("Mabadiliko ya hivi majuzi nchini China yameshuhudia ukuaji wa haraka wa uchumi, maendeleo ya kiteknolojia, na mabadiliko ya kijamii, yakiweka nchi hiyo kama nguvu ya kimataifa na kuathiri mienendo ya kimataifa katika nyanja mbalimbali.");
+move_to_slide(3);choose_title();insert_text("Juhudi za Kudhibiti Bei za Nyumba,");insert_triangle();
+align_top_right_corner();
+move_to_slide(4);choose_title();insert_text("Hatua za Kuongeza Makazi ya bei nafuu,");set_font_color("red");
+choose_content();insert_text("Mipango ya kuongeza nyumba za bei nafuu imetekelezwa, ikiwa ni pamoja na ruzuku ya serikali, taratibu za uidhinishaji zilizoratibiwa, na ubia kati ya sekta ya umma na sekta binafsi, zinazolenga kushughulikia tatizo la uwezo wa kumudu nyumba na kuhakikisha upatikanaji wa nyumba bora kwa wote.");set_font_underline();set_font_italic();
+choose_chart();insert_pie_chart([0.35, 0.25, 0.20, 0.10, 0.10], ["Ruzuku za Serikali", "Michakato Iliyoratibiwa ya Uidhinishaji", "Ubia kati ya Umma na Binafsi", "Sera za Matumizi ya Ardhi", "Mipango ya Usaidizi wa Kukodisha"]);
+create_slide();choose_title();insert_text("Udhibiti wa Waendelezaji wa Mali.");insert_note("Udhibiti wa Waendelezaji wa Mali.");
+choose_content();insert_text("Katika slaidi hii, fupisha hatua muhimu za China za kudhibiti waendelezaji mali na hatua za serikali kuzuia udanganyifu na kukuza mazoea ya maendeleo endelevu.");
+choose_title();set_font_italic();choose_content();set_font_bold();
+move_to_slide(0);insert_note("Taarifa kuhusu China");move_to_slide(1);insert_note("Taarifa kuhusu China");move_to_slide(2);insert_note("Taarifa kuhusu China");move_to_slide(3);insert_note("Taarifa kuhusu China");move_to_slide(4);insert_note("Taarifa kuhusu China");move_to_slide(5);insert_note("Taarifa kuhusu China");
+
+move_to_slide(8);choose_title();insert_text("Uendelezaji wa mbele wa Vifaa vya Kupiga picha za Matibabu");choose_title();set_font_size(24);
+insert_line_chart([0.15, 0.12, 0.18, 0.20], ['Q1', 'Q2', 'Q3', 'Q4']);
+choose_chart();set_chart_title("Revenue Growth");
+insert_table(5, 2);choose_table_cell(0, 0);insert_text("Kipengele 1");choose_table_cell(0, 1);insert_text("Picha zenye azimio la juu");
+set_background_color("light blue");
+insert_triangle();
+choose_content();insert_text("Uendelezaji wa mipaka ya vifaa vya kufikiria vya matibabu ni kuleta mapinduzi katika huduma ya afya na picha zenye azimio la juu, algorithms ya hali ya juu ya AI, uchanganuzi wa data wa wakati halisi, faraja ya mgonjwa iliyoimarishwa, ujumuishaji wa hali nyingi, na utiririshaji wa kazi ulioratibiwa, kuwawezesha wataalamu wa matibabu na uwezo wa uchunguzi ambao haujawahi kufanywa.");
+set_font_bold();set_line_space(2);set_font_underline();set_font_italic();
+insert_note("Vifaa vya Vyombo vya Habari");
+
+set_background_color("blue");insert_rectangle();
+create_slide();choose_title();insert_text("Mbinu na Mbinu katika Anthropolojia");set_font_size(20);
+choose_content();insert_text("Anthropolojia ni sayansi ya kijamii inayosoma tabia, utamaduni na jamii za binadamu kwa kutumia mbinu mbalimbali za utafiti.");set_line_space(2);
+insert_circle();align_slide_right();
+set_width(4);
+
+create_slide();choose_title();insert_text("Umuhimu wa Uingizaji hewa Sahihi");
+set_font_style("underline");set_font_style("italic");
+set_font_size(24);set_font_style("Arial");
+insert_picture("person_drinking_water");align_slide_right();
+set_width(6.5);insert_textbox();insert_text("Kunywa maji");set_bottom("textbox", "picture");
+set_background_color("purple");create_slide();set_background_color("purple");
+insert_picture("folder");set_width(6.5);set_height(5.5);
+choose_title();insert_text("Manufaa ya Kutumia SmartArt.");set_font_color("red");set_font_size(40);
+set_font_style("Arial");set_font_style("italic");
+
+choose_title();insert_text("Kujenga Biashara Yako.");set_background_color("light green");
+choose_content();insert_text("Kujenga chapa ni sehemu muhimu ya biashara yoyote iliyofanikiwa. Weka mtindo wa fonti kuwa ");set_font_style("Arial");set_font_size(14);
+insert_rectangle();align_slide_right();
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("Utambulisho wa Biashara");choose_table_cell(0, 1);insert_text("Ujumbe wa Biashara");choose_table_cell(0, 2);insert_text("Sauti ya Biashara");choose_table_cell(0, 3);insert_text("Mkakati wa Biashara");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("Utambulisho wa Biashara");choose_table_cell(0, 1);insert_text("Ujumbe wa Biashara");choose_table_cell(0, 2);insert_text("Sauti ya Biashara");choose_table_cell(0, 3);insert_text("Mkakati wa Biashara");
+choose_content();set_font_size(14);set_font_style("Times New Roman");
+
+create_slide();choose_title();insert_text("Misingi ya Mawasiliano Yenye Ufanisi");set_font_style("Times New Roman");
+choose_content();insert_text("Vidokezo muhimu");insert_text("Maelezo");
+set_font_size(24);set_font_underline();set_font_bold();
+set_background_color("light orange");
+
+set_background_color("light blue");
+choose_title();insert_text("Mkutano wa Tencent");choose_content();insert_text("Mkutano wa Tencent");
+set_font_underline();set_font_color("dark red");
+choose_content();delete_text();insert_text("Tencent Meeting ni jukwaa dhabiti la mikutano ya video ambalo huwezesha ushirikiano na mawasiliano kati ya timu na watu binafsi. Inatoa vipengele mbalimbali vya mikutano ya mtandaoni yenye ufanisi, ikijumuisha kushiriki skrini, gumzo na kurekodi.");
+set_font_bold();set_font_italic();choose_title();set_font_bold();set_font_italic();
+insert_picture("tencent_meeting");
+
+insert_table(2, 3);
+choose_table_cell(0, 0);insert_text("Vipengele");choose_table_cell(0, 1);insert_text("Maelezo");choose_table_cell(0, 2);insert_text("Manufaa")
+insert_note("APP");set_background_color("purple");
+
+set_background_color("blue");choose_title();insert_text("Tathmini ya Ubora");
+choose_content();insert_text("Tathmini ya ubora ni mchakato muhimu katika kutathmini utendakazi na viwango vya bidhaa au huduma. Inahusisha uchanganuzi wa kina, kipimo, na ulinganisho ili kuhakikisha uzingatiaji wa vigezo vya ubora na uboreshaji endelevu.");
+insert_picture("checklist");
+set_left("picture","content");
+insert_pie_chart([0.40, 0.15, 0.25, 0.20], ["Bora", "Nzuri", "Haki", "Maskini"]);
+set_chart_title("Quality Ratings Distribution");
+align_slide_bottom();
+create_slide();insert_pie_chart([0.40, 0.15, 0.25, 0.20], ["Excellent", "Good", "Fair", "Poor"]);set_chart_title("Quality Ratings Distribution");align_slide_bottom();
+
+create_slide();choose_title();insert_text("Mwongozo wa Kukamilisha Mradi.");
+insert_right_arrow();align_top_right_corner();
+rotate_element(90);
+move_to_slide(0);choose_title();insert_text("Utangulizi");set_font_bold();move_to_slide(1);choose_title();set_font_bold();
+move_to_slide(0);insert_note("2022/6/10");
+set_background_color("light blue");insert_cloud();
+
+set_background_color("yellow");
+choose_content();insert_text("Trados Studio ni zana madhubuti ya utafsiri inayosaidiwa na kompyuta (CAT) iliyotengenezwa na SDL. Inatoa vipengele mbalimbali na utendakazi ambavyo vinarahisisha mchakato wa kutafsiri, ikiwa ni pamoja na kumbukumbu ya tafsiri, usimamizi wa istilahi. , na zana za usimamizi wa mradi.");set_line_space(2);
+insert_note("Iliyoundwa na Eva");choose_title();insert_text("Trados Studio");
+set_font_color("dark green");set_font_size(30);
+insert_picture("Trados_Studio_logo");align_slide_right();
+set_width(4);set_height(3);
+choose_picture();rotate_element(-15);
+set_background_color("purple");
+
+insert_table(2, 3);
+choose_table();choose_table_cell(0, 0);insert_text("Mwaka");choose_table_cell(0, 1);insert_text("Maelezo");choose_table_cell(0, 2);insert_text("Mabadiliko")
+choose_title();insert_text("Mabadiliko makubwa katika muongo uliopita");
+set_font_bold();set_font_italic();
+set_background_color("light blue");
+
+choose_title();insert_text("Je, Unapaswa Kuzingatia Kusoma Nje ya Nchi?");set_font_bold();set_font_underline();
+insert_picture("students_studying_abroad");align_slide_bottom();
+set_width(5);set_height(3);
+set_background_color("purple");insert_note("Je, Unapaswa Kuzingatia Kusoma Nje ya Nchi?");
+
+insert_bar_chart([0.45,0.35,0.20], ["Watafsiri wa Muda Wote", "Wafanyabiashara Huru", "Mawakala wa Tafsiri"]);
+set_chart_title("Trados Studio Usage Statistics");
+create_slide();choose_title();insert_text("ABBYY FineReader");
+set_font_bold();set_font_underline();set_font_size(30);
+choose_content();insert_text("ABBYY FineReader ni programu ya utambuzi wa wahusika (OCR) inayowaruhusu watumiaji kubadilisha hati zilizochanganuliwa, faili za PDF na picha kuwa umbizo zinazoweza kuhaririwa na kutafutwa. Ikiwa na utambuzi wa hali ya juu wa maandishi na uwezo wa kubadilisha hati, inaweza hurahisisha uchakataji wa hati na kuongeza tija.");
+set_line_space(2);set_font_italic();
+insert_picture("ABBYY_FineReader_logo");insert_textbox();insert_text("ABBYY FineReader");
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("Kipengele");choose_table_cell(0, 1);insert_text("Maelezo");choose_table_cell(0, 2);insert_text("Manufaa")
+choose_picture();set_right("picture","table");
+insert_pie_chart([0.45,0.45,0.05], ["Usahihi wa Juu", "Usahihi wa Kati", "Usahihi wa Chini"]);
+set_chart_title("Document Conversion Accuracy");
+insert_note("Ukurasa wa 2");
+
+create_slide();choose_title();insert_text("Kampeni ya Uuzaji");
+set_font_bold();set_font_underline();set_font_size(26);
+choose_content();insert_text("Kampeni yetu ya uuzaji inalenga kuongeza ufahamu wa chapa, kuwasiliana na hadhira lengwa, na kukuza mauzo. Pamoja na mchanganyiko wa kimkakati wa chaneli za uuzaji za mtandaoni na nje ya mtandao, tunalenga katika kutoa ujumbe wenye matokeo na matokeo yanayoweza kupimika. .");
+align_slide_left();
+insert_picture("promotional_banner");insert_textbox();insert_text("bango_la_matangazo");
+set_width(5);set_height(5);
+set_background_color("green");
+
+choose_title();insert_text("Nishati Endelevu");set_font_color("red");
+insert_picture("wind_turbine");set_width(6);
+insert_table(4, 3);choose_table_cell(0,0);insert_text("upepo");choose_table_cell(1,0);insert_text("jua");choose_table_cell(2,0);insert_text("hydro");choose_table_cell(3,0);insert_text("jotoardhi");choose_table_cell(0,1);insert_text("gharama nafuu");choose_table_cell(1,1);insert_text("athari ndogo ya mazingira");choose_table_cell(2,1);insert_text("upatikanaji wa juu");choose_table_cell(0,2);insert_text("uwekezaji mkubwa wa awali");choose_table_cell(1,2);insert_text("upatikanaji wa mara kwa mara");choose_table_cell(2,2);insert_text("migogoro ya matumizi ya ardhi");
+set_top("picture", "table");
+create_slide();choose_title();insert_text("Ununuzi wa Mtandaoni");set_font_color("red");
+choose_content();insert_text("Ununuzi mtandaoni ni mchakato wa kununua bidhaa na huduma kutoka kwa wafanyabiashara kupitia Mtandao. Umezidi kuwa maarufu kutokana na urahisi na ufikiaji wake.");
+choose_title();set_font_color("blue");set_font_bold();set_line_space(2);
+create_slide();insert_picture("TV_series");set_width(6);
+set_background_color("blue");insert_note("Kuhusu Mfululizo wa TV");
+
+choose_title();insert_text("Tabia za Kula kwa Afya");set_background_color("dark blue");
+choose_content();insert_text("Bonyeza cheza ili kuanza video");set_font_style("Verdana");
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("Kikundi cha Chakula");choose_table_cell(0, 1);insert_text("Huduma Zinazopendekezwa")
+align_slide_bottom();
+insert_picture("laptop");
+insert_rectangle();set_height(2);
+rotate_element(-45);
+
+choose_content();insert_text("Kwa kumalizia, huduma za TV zimebadilisha jinsi tunavyotumia burudani, na kutoa chaguzi mbalimbali za maudhui na urahisishaji.");
+set_font_style("Futura");
+choose_title();insert_text("Hitimisho");set_font_bold();
+insert_picture("colorful_plate");
+align_slide_bottom();
+set_background_color("green");
+
+create_slide();set_background_color("purple");
+choose_title();insert_text("Hasara");
+set_font_bold();set_font_size(24);set_font_style("Arial");
+insert_note("2023/3/9");
+insert_pie_chart([0.30, 0.25, 0.15, 0.5, 0.25], ["Matunda", "Mboga", "Nafaka", "Protini", "Maziwa"]);
+align_slide_bottom();
+insert_textbox();insert_text("Hasara ya kula chakula kingi ni kwamba itakufanya unene.");set_bottom("textbox", "chart");
+choose_chart();set_chart_title("Daily Food Group Servings");
+
+insert_right_arrow();set_width(3.5);
+rotate_element(-90);
+align_slide_right();
+
+choose_title();insert_text("Mitindo ya Teknolojia");set_font_underline();
+set_font_color("green");set_font_size(26);
+choose_content();insert_text("Kufuata mitindo ya kisasa zaidi ni muhimu katika mazingira ya kisasa ya kidijitali yanayobadilika kwa kasi. Kuanzia akili ya bandia na blockchain hadi kompyuta ya wingu na Mtandao wa Mambo, mitindo hii inaunda tasnia na kuleta mapinduzi katika njia yetu. kuishi, kufanya kazi na kuungana na ulimwengu.");
+set_background_color("green");
+insert_picture("interconnected_networks");
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("Mtindo wa Teknolojia");choose_table_cell(0, 1);insert_text("Maelezo");choose_table_cell(0, 2);insert_text("Athari")
+insert_line_chart([15,10,7,6,24], ["Vifaa vya Mkononi", "Watumiaji wa Mtandao", "AI Applications", "Huduma za Wingu", "Smart Home Devices"]);
+set_chart_title("Technology Values");
+insert_pie_chart([15,10,7,6,24], ["Mobile Devices", "Internet Users", "AI Applications", "Cloud Services", "Smart Home Devices"]);set_chart_title("Technology Values");
+
+set_background_color("green");
+choose_title();insert_text("Maisha Endelevu");set_font_italic();
+insert_picture("solar_panel");align_slide_left();
+choose_content();insert_text("Maisha endelevu yanakuza matumizi ya kuwajibika, nishati mbadala, na mazoea rafiki kwa mazingira ili kulinda mazingira na kuhakikisha maisha bora yajayo kwa vizazi vijavyo. Kwa kufanya maamuzi makini katika maisha yetu ya kila siku, tunaweza kupunguza alama yetu ya kaboni na kuunda ulimwengu endelevu zaidi.");
+set_font_color("dark orange");
+insert_line_chart([1.6, 2.4, 4.8, 11], ["2013", "2014", "2015", "2016"]);
+set_chart_title("Renewable Energy Consumption Trend");
+set_bottom("chart","title");
+insert_cloud();rotate_element(-30);
+
+insert_table(3, 4);
+choose_table_cell(0,0);insert_text("Lishe Bora,");choose_table_cell(1,0);insert_text("Udhibiti wa Sehemu,");choose_table_cell(2,0);insert_text("Ugavi wa maji.");
+insert_picture("green_city");
+align_slide_top();
+choose_table();align_slide_bottom();
+
+choose_title();insert_text("Usimamizi wa Mradi");
+insert_picture("team");
+choose_title();set_font_underline();set_font_italic();
+choose_picture();align_top_left_corner();
+
+create_slide();choose_title();insert_text("Ripoti ya Maendeleo ya Mradi.");
+choose_content();insert_table(3, 5);choose_table_cell(0, 0);insert_text("Majina ya Kazi");choose_table_cell(0, 1);insert_text("Tarehe za Mwisho");choose_table_cell(0, 2);insert_text("Hali ya Maendeleo")
+set_background_color("purple");choose_title();set_font_color("green");
+
+choose_title();insert_text("Chuo Kikuu na Shule ya Utaalam");
+set_font_size(36);set_font_underline();
+choose_content();insert_text("Shule za chuo kikuu na taaluma hutoa elimu ya juu na mafunzo maalum ili kuwapa wanafunzi ujuzi na ujuzi unaohitajika kwa taaluma yenye mafanikio. Taasisi hizi hutoa programu mbalimbali za kitaaluma, fursa za utafiti na maendeleo ya kitaaluma kukuza ukuaji wa kibinafsi na maendeleo ya kazi.");
+set_line_space(2);
+set_background_color("purple");
+
+insert_picture("professional_school");
+align_slide_right();
+insert_triangle();align_slide_left();
+set_width(10);set_height(15);
+set_bottom("picture","triangle");
+
+create_slide();set_background_color("blue");
+choose_title();insert_text("NFC");set_font_bold();
+choose_content();insert_text("NFC (Near Field Communication) huwezesha mawasiliano ya bila waya kati ya vifaa vilivyo karibu.");
+set_font_color("dark green");set_font_size(20);
+insert_picture("nfc_logo");
+set_background_color("purple");
+choose_picture();set_right("picture","slide");
+
+insert_table(4, 2);choose_table();choose_table_cell(0, 0);insert_text("Bidhaa");choose_table_cell(1, 0);insert_text("Mapato");choose_table_cell(2, 0);insert_text("Vitengo Vilivyouzwa");choose_table_cell(3, 0);insert_text("Upeo wa Faida")
+set_background_color("light blue");
+
+insert_line_chart([500000, 1300000, 2500000, 4000000], series=["2018", "2019", "2020", "2021"]);
+set_chart_title("NFC Device Growth");
+insert_table(3, 2);choose_table_cell(0, 1);insert_text("Isiyo na Kiwasilisho");choose_table_cell(1, 1);insert_text("Huwasha miamala inayotegemea mguso");choose_table_cell(2, 1);insert_text("Malipo rahisi na ya haraka zaidi")
+insert_star();set_width(6.5);set_height(6.5);
+align_slide_top();
+align_slide_right();
+
+choose_title();insert_text("Kukumbatia Usumbufu");set_font_bold();
+set_font_size(20);set_font_style("Times New Roman");
+insert_picture("futuristic_cityscape");
+align_slide_bottom();
+insert_note("Imeundwa kwa [Jina Lako].");set_background_color("purple");
+set_background_color("light blue");
+
+choose_title();insert_text("Power Bank");align_top_left_corner();
+set_font_size(24);set_font_italic();
+choose_content();insert_text("Power bank ni kifaa kinachobebeka ambacho hutoa malipo ya popote ulipo kwa simu mahiri, kompyuta za mkononi na vifaa vingine vya kielektroniki.");
+set_font_underline();set_line_space(2);set_font_size(24);set_font_color("orange");
+insert_picture("yoobao_power_bank");align_slide_bottom();
+insert_table(4, 3);choose_table();insert_table_row(["Chapa", "Uwezo (mAh)", "Lango la Kutoa", "Bei ($)"])
+insert_pie_chart([0.40, 0.30, 0.20, 0.10], ["Brand A", "Brand B", "Brand C", "Nyingine"]);
+set_chart_title("Power Bank Market Share");
+insert_note("2023");
+insert_callout();align_slide_right();
+
+choose_title();insert_text("NBA");set_font_color("red");
+choose_content();insert_text("Chama cha Kitaifa cha Mpira wa Kikapu (NBA) ni ligi ya kitaalamu ya mpira wa vikapu inayojumuisha timu 30 kutoka Amerika Kaskazini.");
+set_font_size(20);
+align_bottom_left_corner();
+
+insert_picture("basketball_court");
+align_slide_top();
+insert_textbox();insert_text("Uwanja wa mpira wa kikapu");set_background_color("blue");
+insert_table(4,3);
+choose_table();insert_table_row(["Timu", "Jiji", "Mashindano"]);insert_table_row(["Los Angeles", "Lakers", "17"]);insert_table_row(["Boston", "Celtics", "17"]);insert_table_row(["Chicago", "Bulls", "6"])
+insert_bar_chart([17, 17, 6], ["Lakers", "Celtics", "Bulls"]);
+set_chart_title("NBA Championships Distribution");
+create_slide();choose_title();insert_text("Utangulizi wa Uendeshaji Kiotomatiki.");set_font_underline();
+insert_picture("futuristic_self-driving_car");set_height(7);
+choose_content();insert_text("Uendeshaji wa kujitegemea, unaojulikana pia kama teknolojia ya kujiendesha au isiyo na udereva, inarejelea magari yenye uwezo wa kuelekeza na kufanya kazi bila kuingizwa na mwanadamu.");
+align_bottom_left_corner();
+insert_right_arrow();set_left("right_arrow", "content");
+set_right("right_arrow", "content");
+
+choose_content();insert_text("Uendeshaji wa gari bila kusita unaleta mageuzi katika sekta ya usafiri kwa kutoa usalama ulioimarishwa, urahisi na ufanisi.");
+set_font_size(18);set_font_bold();set_font_italic();
+set_font_underline();set_line_space(2);
+insert_table(5, 2);choose_table_cell(0, 0);insert_text("Aina za Sensor");choose_table_cell(1, 0);insert_text("Lidar");choose_table_cell(2, 0);insert_text("Rada");choose_table_cell(3, 0);insert_text("Kamera");choose_table_cell(4, 0);insert_text("Jumla")
+choose_content();set_font_style("Times New Roman");
+insert_pie_chart([0.40, 0.30, 0.30], ["Lidar", "Radar", "Cameras"]);
+set_chart_title("Sensor Types in Autonomous Driving");
+insert_note("Aina za Sensorer katika Uendeshaji wa Uhuru");
+
+choose_title();insert_text("Uendeshaji wa Kujiendesha");
+insert_picture("company_logo");align_bottom_left_corner();
+set_width(6.5);set_height(6);
+create_slide();choose_title();insert_text("Mapitio ya Kuendesha Kiendeshi kwa Eneo.");
+set_font_style("Calibri");set_font_size(32);
+choose_content();insert_text("Teknolojia za kuendesha gari kwa uhuru zinabadilisha mandhari ya usafiri, kuleta mapinduzi katika sekta na kuimarisha usalama na ufanisi.");
+set_font_color("dark orange");
+
+create_slide();choose_title();insert_text("Nguvu ya Kupanda.");set_font_style("Calibri");set_font_size(36);
+set_background_color("green");
+choose_content();insert_text("Kupanda hakupendezi mazingira yetu tu bali pia kunakuza uendelevu wa mazingira na kutoa manufaa mengi ya kiafya.");
+set_font_color("green");choose_title();set_font_color("green");
+insert_picture("lush_garden");
+insert_pie_chart([0.40, 0.30, 0.30], ["Mazingira", "Afya", "Jumuiya"]);
+set_chart_title("Planting Benefits");
+set_bottom("chart", "picture");
+insert_right_arrow();rotate_element(60);
+set_height(2);set_width(4);insert_note("Ukurasa wa 2");
+
+insert_table(3, 4);
+choose_table();insert_table_row(["Manufaa ya Kupanda", "Mazingira", "Afya", "Jumuiya"])
+set_background_color("green");
+choose_title();insert_text("Maelezo Mengine");
+set_font_color("dark orange");set_font_underline();
+choose_title();align_top_left_corner();
+
+insert_picture("GoogleLogo");insert_textbox();insert_text("Google");
+choose_content();insert_text("Google na Microsoft Edge ni vivinjari viwili maarufu vya wavuti vinavyotoa vipengele na utendaji wa kipekee. Ingawa Google Chrome inatawala soko kwa kasi yake na mfumo mpana wa ikolojia, Microsoft Edge inalenga kutoa uzoefu wa kuvinjari usio na mshono na thabiti. kuunganishwa na mifumo ya uendeshaji ya Windows.");
+set_font_size(16);
+choose_title();insert_text("Google dhidi ya Microsoft Edge");set_font_color("red");
+choose_picture();align_bottom_left_corner();
+insert_table(3, 3);choose_table_cell(0, 0);insert_text("Vipengele");choose_table_cell(0, 1);insert_text("Google Chrome");choose_table_cell(0, 2);insert_text("Microsoft Edge");choose_table_cell(1, 0);insert_text("Speed");choose_table_cell(1, 1);insert_text("Juu");choose_table_cell(1, 2);insert_text("Moderate");choose_table_cell(2, 0);insert_text("Ecosystem");choose_table_cell(2, 1);insert_text("Extensive");choose_table_cell(2, 2);insert_text("Integrated")
+insert_bar_chart([0.50, 0.25, 0.25], ["Google Chrome", "Microsoft Edge", "Nyingine"]);
+set_chart_title("Web Browser Market Share");insert_note("Ukurasa wa 1");
+
+set_background_color("blue");choose_title();insert_text("Mtandao na LinkedIn");
+choose_content();insert_text("Mitandao ina jukumu muhimu katika ukuzaji wa taaluma, na LinkedIn ni jukwaa madhubuti la mitandao ya kitaalamu. Pamoja na mamilioni ya watumiaji duniani kote, LinkedIn hutoa vipengele mbalimbali vya kuunganishwa na wataalamu, ujuzi wa kuonyesha na kugundua nafasi za kazi.");
+choose_title();set_font_color("dark red");choose_content();set_font_color("light red");
+choose_title();set_font_style("Arial");choose_content();set_font_style("Arial");
+choose_title();set_font_underline();choose_content();set_font_italic();set_font_size(24);
+insert_pie_chart([0.30,0.20,0.15,0.10,0.25], ["Teknolojia", "Fedha", "Huduma ya Afya", "Uuzaji", "Nyingine"]);
+set_chart_title("LinkedIn User Distribution");
+insert_line_chart([0.30,0.20,0.15,0.10,0.25],["Technology", "Finance", "Healthcare", "Marketing", "Others"]);
+insert_bar_chart([0.30,0.20,0.15,0.10,0.25],["Technology", "Finance", "Healthcare", "Marketing", "Others"]);
+
+create_slide();choose_title();insert_text("Vipiko Tofauti");
+choose_content();insert_text("Kuna aina mbalimbali za wapishi zinazopatikana ambazo hukidhi mahitaji tofauti ya kupikia. Kuanzia jiko la kawaida hadi vijiko vya hali ya juu vya umeme na vijiko vya kisasa vya kuelimisha, kila aina hutoa vipengele na manufaa ya kipekee.");
+insert_table(4, 3);choose_table_cell(0, 0);insert_text("Aina ya Jiko");choose_table_cell(0, 1);insert_text("Vipengele");choose_table_cell(0, 2);insert_text("Faida");choose_table_cell(1, 0);insert_text("Stovetop");choose_table_cell(1, 1);insert_text("Vichomaji vya gesi au umeme");choose_table_cell(1, 2);insert_text("Udhibiti sahihi wa joto")
+insert_pie_chart([0.40, 0.25, 0.20, 0.10, 0.5], ["Stovetop", "Jiko la Umeme", "Vijiko vya Kujitambulisha", "Jiko la polepole", "Kikaangizi hewa"]);
+set_chart_title("Cooker Type Popularity");
+insert_picture("stovetop");
+set_width(7);set_height(6);
+align_slide_right();
+align_slide_left();
+move_to_slide(0);set_background_color("green");
+
+choose_title();insert_text("Gundua Furaha ya Oreo");
+set_font_bold();set_font_italic();
+set_font_size(30);
+choose_content();insert_text("Oreo, kidakuzi maarufu cha sandwich, kimekuwa kitoweo kinachopendwa na watu wa rika zote. Pamoja na mchanganyiko wake usiozuilika wa kaki za chokoleti na kujaza maridadi, Oreo inatoa uzoefu wa kupendeza wa vitafunio ambao huleta furaha kwa kila mtu. kuumwa.");
+set_font_color("dark blue");
+insert_picture("Oreo");
+align_top_right_corner();
+insert_star();align_top_left_corner();
+insert_pie_chart([0.40,0.10,0.50], ["Asilia", "Mint", "Siagi ya Karanga"]);insert_line_chart([0.40,0.10,0.50],["Original","Mint","Peanut Butter"]);
+insert_bar_chart([0.40,0.10,0.50],["Original","Mint","Peanut Butter"]);set_chart_title("Oreo Flavor Popularity");
+
+set_background_color("purple");
+choose_title();insert_text("Tofauti za Msimu");set_font_bold();set_font_italic();
+choose_content();insert_text("Tofauti za msimu huleta haiba ya kipekee katika maisha yetu. Kuanzia rangi angavu za majira ya kuchipua hadi rangi ya joto ya kiangazi, mandhari maridadi ya vuli, na mandhari tulivu ya majira ya baridi, kila msimu hutoa uzoefu wa kipekee. Kubali uzuri wa mabadiliko ya asili mwaka mzima.");
+set_font_style("Arial");set_font_size(18);
+insert_table(4, 4);choose_table_cell(0, 0);insert_text("Msimu");choose_table_cell(0, 1);insert_text("Wastani wa Halijoto");choose_table_cell(0, 2);insert_text("Vipengele Muhimu");choose_table_cell(0, 3);insert_text("Shughuli")
+insert_callout();align_slide_left();
+
+choose_title();insert_text("Hali ya hewa katika Guangdong: Hali ya Hewa ya Anuwai");
+align_top_left_corner();
+choose_content();insert_text("Guangdong hupitia hali mbalimbali za hali ya hewa kwa mwaka mzima. Kuanzia siku za joto na jua hadi mvua za mara kwa mara, asubuhi yenye ukungu na anga yenye mawingu, hali ya hewa katika Guangdong ni tofauti na yenye nguvu. Gundua misimu na mifumo tofauti ya hali ya hewa katika eneo hili lenye kupendeza.");set_line_space(2);
+insert_picture("beach");align_top_right_corner();
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("Msimu");choose_table_cell(0, 1);insert_text("Wastani wa Joto");choose_table_cell(1, 0);insert_text("chemchemi");choose_table_cell(1, 1);insert_text("20-28 ℃")
+set_background_color("purple");
+choose_table();align_slide_bottom();
+insert_cloud();align_slide_left();
+
+insert_picture("sunrise");
+set_width(6);set_height(6);
+choose_title();insert_text("Nguvu ya Fikra Chanya: Kukumbatia Matumaini");set_font_italic();set_font_bold();
+choose_content();insert_text("Fikra chanya ni mtazamo unaozingatia matumaini, uthabiti, na kujiamini. Kwa kusitawisha mawazo na mitazamo chanya, tunaweza kuboresha hali yetu njema, kushinda changamoto. , na utengeneze maisha yenye furaha na kuridhisha zaidi. Kubali uwezo wa kufikiri chanya na ufungue uwezo wako wa kweli.");set_font_italic();set_font_bold();
+set_font_color("purple");set_font_size(20);
+insert_note("fikra za posta");
+
+insert_table(3, 4);choose_table();choose_table_cell(0, 0);insert_text("Faida");choose_table_cell(0, 1);insert_text("Maelezo");choose_table_cell(0, 2);insert_text("Mifano");choose_table_cell(1, 0);insert_text("Ustawi Ulioboreshwa")
+choose_content();insert_text("Fikra chanya ni fikra inayozingatia matumaini, uthabiti, na kujiamini. Kwa kusitawisha mawazo na mitazamo chanya, tunaweza kuimarisha ustawi wetu, kushinda changamoto, na kuunda furaha na furaha zaidi. maisha yenye kuridhisha zaidi. Kubali nguvu ya fikra chanya na ufungue uwezo wako wa kweli.");
+set_font_italic();set_font_color("light blue");
+set_background_color("light green");
+choose_title();insert_text("Ufafanuzi");set_font_bold();
+align_top_left_corner();
+insert_picture("laugh");align_slide_right();
+
+choose_title();insert_text("Ainisho la Taka: Kukuza Udhibiti Endelevu wa Taka");choose_content();insert_text("Uainishaji wa takataka ni zoezi muhimu katika kukuza usimamizi endelevu wa taka. Kwa kupanga na kutupa taka ipasavyo, tunaweza kupunguza uchafuzi wa mazingira, kuhifadhi rasilimali , na kuchangia katika sayari safi na yenye afya zaidi. Kubali jukumu la uainishaji wa takataka na kuleta matokeo chanya kwa mazingira yetu.");
+set_font_color("orange");set_font_underline();
+set_font_size(18);
+choose_title();set_font_style("Times New Roman");choose_content();set_font_style("Times New Roman");
+insert_right_arrow();align_bottom_right_corner();
+set_width(4.0);set_height(3.0);
+rotate_element(-90);
+insert_bar_chart([60, 50, 45, 40, 40], series=["Karatasi", "Plastiki", "Kioo", "Vyuma", "Taka Kikaboni"]);set_chart_title("Waste Material Recycling Rates.");
+insert_picture("recycling_bin");
+create_slide();set_background_color("purple");
+choose_title();insert_text("Taka Kikaboni");set_font_size(18);
+choose_content();insert_text(" Takataka za kikaboni zina jukumu kubwa katika maisha endelevu. Kwa kutengeneza mboji kama vile mabaki ya chakula, taka ya shambani, na mabaki ya kilimo, tunaweza kupunguza taka za taka, kuimarisha ubora wa udongo, na kufunga mzunguko wa virutubisho. . Kubali mazoezi ya kutengeneza mboji na uchangie katika siku zijazo zenye kijani kibichi.");
+
+create_slide();choose_title();insert_text("filamu ya Oldroyd ya Lady Macbeth");set_font_bold();
+set_font_size(28);set_font_underline();
+choose_content();insert_text("Onyesho la skrini la Birch linatanguliza mabadiliko machache makubwa kwenye simulizi la Leskov. Kwa mfano. Birch na Oldroyd huondoa kabisa vipindi vya Siberia na kuchagua kuacha kujiua kwa Katherine.");
+set_font_size(20);set_font_bold();
+choose_title();set_font_color("red");choose_content();set_font_color("yellow");
+insert_picture("Lady Macbeth");
+set_width(8);set_height(8);
+set_right("picture","content");
+set_left("picture","content");
+insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("Mhusika wa Filamu");choose_table_cell(0, 1);insert_text("Mwigizaji/Mwigizaji");choose_table_cell(1, 0);insert_text("Lady Macbeth");choose_table_cell(1, 1);insert_text("Florence Pugh");choose_table_cell(2, 0);insert_text("Macbeth");choose_table_cell(2, 1);insert_text("Cosmo Jarvis")
+insert_note("Mei 1");
+set_background_color("purple");
+
+create_slide();choose_title();insert_text("Umuhimu wa Mazoezi");set_font_underline();
+set_font_size(24);set_font_color("green");
+choose_content();insert_text("Mazoezi ya mara kwa mara yanaweza kuboresha afya ya moyo na mishipa, kuongeza hisia, na kuongeza viwango vya nishati.");
+set_font_size(20);set_font_bold();
+set_font_color("red");
+insert_picture("exercise");
+insert_pie_chart([0.10,0.30,0.50,0.10], ["Afya ya Moyo na Mishipa", "Nguvu ya Misuli", "Ustawi wa Akili", "Kuzuia Magonjwa"]);
+insert_table(5,2);choose_table_cell(0,0);insert_text("Aina za mazoezi");choose_table_cell(0,1);insert_text("Faida");
+set_right("table","picture");
+insert_star();set_background_color("purple");
+align_bottom_left_corner();
+set_width(8);set_height(4);
+
+create_slide();choose_title();insert_text("Faida za Kusoma");set_font_size(24);set_font_underline();
+choose_content();insert_text("Kusoma kunaweza kuboresha kazi ya utambuzi, kuongeza huruma, na kupunguza mkazo.");
+set_font_bold();set_font_italic();
+set_font_style("Arial");set_font_color("green");
+insert_picture("person_reading");
+insert_bar_chart([1400, 992, 400, 661, 234], ["kubuni", "zisizo za kubuni", "wasifu", "kujisaidia", "njozi"]);
+set_chart_title("Book sales");
+insert_table(3, 3);
+choose_table_cell(0, 0);insert_text("Faida za kusoma");choose_table_cell(1, 0);insert_text("kukuza maarifa");choose_table_cell(2, 0);insert_text("upanuzi wa msamiati");
+set_background_color("red");
+insert_note("Kusoma vitabu");
+create_slide();set_background_color("red");insert_picture("clock");
+set_width(10);set_height(15);
+insert_note("KUHUSU KUSOMA");
+
+create_slide();choose_title();insert_text("Manufaa ya Kujitolea");set_font_underline();
+choose_title();set_font_color("dark red");set_font_size(30);
+choose_content();insert_text("Kujitolea kunaweza kuongeza furaha, kuboresha ujuzi wa kijamii, na kutoa hisia ya kusudi.");
+set_font_color("green");
+set_font_bold();set_font_size(18);
+align_bottom_left_corner();
+insert_picture("volunteers");
+align_bottom_left_corner();
+insert_table(3, 3);choose_table_cell(0, 0);insert_text("Faida");choose_table_cell(1, 0);insert_text("ukuaji wa kibinafsi");choose_table_cell(2, 0);insert_text("mahusiano ya kijamii");
+choose_content();set_font_bold();set_font_size(20);
+insert_bar_chart([25, 45, 10, 15, 5], ["huduma za jamii", "elimu", "afya", "uhifadhi wa mazingira", "misaada ya majanga"]);
+set_chart_title("Volunteergin Importance");
+
+set_background_color("purple");
+choose_title();insert_text("Mbizo la CAJ");set_font_underline();set_font_italic();
+set_font_color("purple");
+choose_content();insert_text("Muundo wa CAJ ni umbizo la faili linalotumika sana nchini Uchina kwa karatasi za kitaaluma na hati za utafiti. Inatoa muundo na mpangilio sanifu wa kushiriki na uchapishaji kwa ufanisi.");
+set_line_space(2);
+set_font_style("Arial");set_font_bold();
+set_font_color("green");
+align_slide_top();
+insert_picture("sample_caj");
+align_top_right_corner();
+insert_table(2,3);
+choose_table_cell(0, 0);insert_text("Sehemu");choose_table_cell(0, 1);insert_text("Kichwa");choose_table_cell(0, 2);insert_text("Maudhui")
+create_slide();insert_bar_chart([30, 25, 20, 15, 10], ["CAJ", "PDF", "DOC", "PPT", "XLS"]);
+set_chart_title("File Format Usage");
+insert_note("Fomati ya Faili");set_background_color("purple");
+
+choose_content();insert_text("Uandishi wa habari unaweza kupunguza mkazo, kuboresha kumbukumbu, na kuongeza kujitambua.");
+set_font_underline();set_font_size(18);set_font_color("purple");
+choose_title();insert_text("Journaling");
+set_font_italic();set_font_style("Arial");
+insert_picture("person_writing");
+align_slide_bottom();
+insert_star();align_slide_right();
+rotate_element(60);
+
+create_slide();choose_title();insert_text("Faida za Kupanda Bustani");set_font_size(28);set_font_bold();
+choose_content();insert_text("Kutunza bustani kunaweza kupunguza msongo wa mawazo, kuboresha afya ya kimwili, na kuongeza ubunifu.");
+set_font_italic();set_font_style("Arial");
+insert_cloud();align_slide_right();
+set_left("cloud","title");
+insert_picture("person_working_in_garden");set_width(10);
+create_slide();set_background_color("light blue");
+insert_triangle();align_slide_left();
+set_height(15);rotate_element(45);
+
+create_slide();choose_title();insert_text("Kampuni za IT");
+set_font_style("Times");set_font_bold();set_font_size(32);
+insert_picture("Apple Company Logo");set_height(2);set_width(2);
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("2020");choose_table_cell(0, 1);insert_text("2021");choose_table_cell(0, 2);insert_text("2022");choose_table_cell(1, 0);insert_text("274B");choose_table_cell(1, 1);insert_text("365B");choose_table_cell(1, 2);insert_text("394B")

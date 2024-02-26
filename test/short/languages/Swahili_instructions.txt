@@ -1,0 +1,1876 @@
+Sogeza sehemu ya kichwa kwenye kona ya chini na ujaze na "Tathmini ya Binadamu". ## 0, title, slide, bottom corner
+Jaza maudhui na "Kwa ujumla, tafsiri hutolewa bila kujulikana na wakaguzi wengi, na kisha alama ya mwisho hutolewa kwa kuchanganya matokeo ya tathmini ya wakaguzi wote".
+Ingiza meza na safu mbili na safu mbili.
+Ongeza "Faida" na "Hasara" kwenye nafasi mbili za kushoto. Ongeza "Onyesha kwa usahihi ubora wa utafsiri wa sentensi, iliyo na mamlaka zaidi, uaminifu wa juu zaidi na "Tathmini ya muda mrefu" kwenye nafasi mbili sahihi.
+Rekebisha ukubwa wa fonti ya maudhui hadi 20. Badilisha mtindo wa fonti kuwa "Arial".
+Ingiza picha ya kahawa kwenye slaidi ya kushoto. ## 0, picture, slide, left
+Sogeza picha upande wa kulia wa slaidi. ## 0, picture, slide, right
+Unda slaidi mpya. Fanya kichwa cha slaidi mpya "Kiwango cha Kuashiria" na sehemu ya mwili "Tathmini ya Moja kwa moja" na "Cheo cha Uhusiano".
+Badilisha rangi ya fonti ya kichwa kuwa kijani na uongeze alama mbili za vitone.
+Badilisha saizi ya fonti ya kichwa hadi 24 na ile ya yaliyomo iwe 20.
+
+Weka picha ya mnara. Isogeze hadi chini ya slaidi. ## 0, picture, slide, bottom
+Jaza kichwa na "Yaliyomo" , na usogeze juu ya picha. ## 0, title, picture, top
+Unda mstatili wa kijani.
+Badilisha rangi ya kichwa kuwa rangi ya pembetatu.
+Badilisha saizi ya fonti ya kichwa kuwa 24.
+Badilisha mtindo wa fonti wa kichwa kuwa "Arial" na ukubwa wa fonti mara mbili.
+Emm, badilisha mtindo wa fonti wa kichwa kuwa "Microsoft New Tai Lue".
+
+Ipe slaidi rangi ya mandharinyuma ya kijani kibichi.
+Unda sura ya wingu. Isogeze hadi upande wa chini wa slaidi. ## 0, cloud, slide, bottom
+Jaza yaliyomo na "Unakimbia polepole sana".
+Weka picha ya sungura. Sogeza picha ya sungura upande wa kulia wa slaidi. ## 0, picture, slide, right
+Ingiza yaliyomo, "Siku moja, kuna mashindano kati ya sungura na kobe".
+Unda slaidi mpya na yaliyomo ni "Nitashinda siku moja." Sogeza maudhui hadi juu. ## 1, content, slide, top
+
+Ingiza picha kuhusu somo katikati ya slaidi. ## 0, picture, slide, center
+Unda mraba. Isogeze hadi katikati ya slaidi. ## 0, rectangle, slide, center
+Taja jina kama "Ligi ya Legends". Ingiza maandishi yafuatayo kwenye sehemu ya maudhui,"League of Legends ni mchezo wa msingi wa timu na mabingwa zaidi ya 140 wa kufanya nao michezo kuu. Cheza sasa bila malipo. Cheza Bila Malipo."
+Mtindo wa fonti na saizi ya fonti ya kichwa inapaswa kuwa "Times New Roman" na 24.
+Rekebisha upana na urefu wa picha hadi inchi 6 na inchi 5.
+Zungusha picha kwa digrii 15.
+Unda slaidi mpya na uweke picha ya mvulana aliyeshika kitabu.
+Sogeza picha katikati ya slaidi. ## 1, picture, slide, center
+Tengeneza kichwa "Jinsi ya kufanya vizuri shuleni".
+
+Weka wingu moja. Fanya kwa upande wa kushoto. ## 0, cloud, slide, left.
+Weka saa moja. Fanya kwa upande wa kulia. ## 0, picture, slide, right.
+Fanya rangi ya mandharinyuma kuwa ya samawati. Taja kichwa cha slaidi kama "Akili Bandia".
+Ingiza maudhui yafuatayo katika sehemu ya maudhui,"Athari za akili Bandia kwa jamii zinajadiliwa sana. Wengi wanahoji kuwa AI inaboresha ubora wa maisha ya kila siku kwa kufanya kazi za kawaida na hata ngumu zaidi kuliko wanadamu wanaweza, kufanya maisha kuwa rahisi, salama na ufanisi zaidi. ."
+Badilisha rangi ya fonti ya yaliyomo kuwa kijani kibichi.
+
+Unda slaidi mpya na uongeze kichwa chekundu kwenye slaidi inayosomeka "Ratiba mwezi Machi".
+Fanya saizi ya fonti ya kichwa 28 na rangi ya bluu iliyokolea.
+Ingiza jedwali na safu mlalo moja na safu wima tatu, na ujaze safu ya kwanza na" utafiti kutoka 1 hadi 10", "fanya kazi kutoka 11 hadi 20" na "safari kutoka 21 hadi 31".
+Badilisha mtindo wa fonti wa kichwa kuwa "Arial" .
+Weka picha ya mvulana mwenye furaha. Isogeze upande wa kulia wa meza. ## 1, picture, table, right
+Tumia usuli wa bluu kwenye slaidi.
+Weka picha inchi 6.5 kwa upana na inchi 5 kwa urefu.
+Emm, sasa rangi ya mandharinyuma si nzuri. Badilisha kuwa njano.
+
+Unda slaidi mpya na uipe jina "Faida za Kutafakari".
+Ingiza picha ya mtu anayetafakari na kuiweka katikati ya slaidi. ## 1, picture, slide, center
+Andika "Kutafakari ni mbinu rahisi lakini yenye nguvu ambayo inaweza kukusaidia kufikia hali ya amani ya ndani na utulivu." katika sehemu ya yaliyomo.
+Badilisha saizi ya fonti ya yaliyomo hadi 24 na uweke rangi ya fonti kuwa samawati iliyokolea.
+Ingiza mstatili. Weka upande wa kulia wa yaliyomo. ## 1, rectangle, content, right
+Badilisha rangi ya usuli hadi kijani kibichi.
+Unda slaidi mpya na bcakgound sawa na uweke kichwa "Aina za Kutafakari".
+Badilisha mtindo wa fonti wa kichwa kuwa "Arial".
+Ingiza meza na safu mbili na safu tatu.
+Katika safu wima ya kwanza, andika "Kutafakari kwa Umakini", "Kutafakari kwa Kuvuka mipaka", na "Kutafakari kwa Kuchanganua Mwili".
+
+Unda slaidi mpya na uipe mandharinyuma ya kijani kibichi.
+Ingiza picha ya kipande cha nyasi upande wa kushoto wa slaidi. ## 1, picture, slide, left.
+Na ubadilishe upana na urefu wa picha hadi inchi 6.5 na 5.5. Ongeza kichwa kwenye slaidi na uifanye "Kazi za Misitu."
+Badilisha rangi ya fonti iwe machungwa na saizi ya fonti hadi 40.
+Ingiza umbo la "mshale". Isogeze hadi upande wa juu wa slaidi. ## 1, right_arrow, slide, top
+
+Ongeza slaidi mpya na ingiza jedwali lenye safu wima mbili na safu mlalo mbili.
+Jaza safu ya kwanza na "Aina ya Mti" na "Matumizi" mtawalia. Jaza safu mbili zifuatazo na "aina tofauti za miti" na "rangi tofauti za majani".
+Ingiza maudhui yanayosomeka "Kumbuka kupanda mti leo!"
+Fanya saizi ya fonti ya yaliyomo 20 na rangi ya fonti kuwa ya kijani. Pigia mstari.
+
+Unda slaidi tano na uzifanye zote ziwe na mandharinyuma ya manjano.
+Katika slaidi ya kwanza, ingiza kichwa "Familia yenye Furaha" na ufanye mtindo wa fonti "Microsoft JhengHei".
+Katika slaidi ya pili, ingiza picha ya familia.
+Katika slaidi ya tatu, ingiza meza na safu mbili na safu mbili.
+Jaza meza na "Baba", "Mama", "Babu", "Watoto"
+
+Unda slaidi na uingize kichwa "Mpango wa Biashara".
+Ingiza picha ya balbu kwenye upande wa kushoto wa slaidi. ## 1, picture, slide, left
+Badilisha ukubwa wake uwe inchi 3 kwa upana. Aina "Ujasiriamali ni mchakato wa kubuni, kuanzisha na kuendesha biashara mpya, ambayo mara nyingi ni biashara ndogo. Watu wanaounda biashara hizi huitwa wajasiriamali." katika sehemu ya yaliyomo.
+Weka saizi ya fonti ya yaliyomo hadi 20 na rangi ya fonti iwe kijani.
+Tengeneza rangi ya usuli ya slaidi ya samawati iliyokolea.
+Ongeza umbo la duara nyekundu kwenye slaidi.
+Ingiza maudhui yafuatayo, "Mpango wa biashara ni hati iliyoandikwa ambayo inaelezea kwa kina jinsi biashara, kwa kawaida mpya, itafikia malengo yake."
+Badilisha saizi ya fonti ya slaidi hadi 18.
+Ingiza jedwali lenye safu 3 na safu wima 4.
+Jaza safu mlalo ya kwanza ya jedwali na "Mseto wa Uuzaji", "Soko Lengwa", "Bei", na "Matangazo".
+
+Unda slaidi mpya na uipe rangi ya mandharinyuma ya samawati.
+Andika maudhui yafuatayo, "Uwekaji chapa ya bidhaa ni uundaji wa chapa mahususi kwa bidhaa fulani kwa nia ya kufikia wateja wanaolengwa na chapa."
+Italiki maudhui. Fanya saizi ya herufi 18.
+Sogeza maudhui hadi chini ya slaidi. ## 1, content, slide, bottom
+Weka picha ya nembo ya Lancome juu. ## 1, picture, slide, top
+
+Unda slaidi mpya na ukipe jina "Mambo muhimu ya uundaji wa kiwango kikubwa" na uweke saizi ya fonti hadi 24.
+Badilisha mtindo wa fonti wa kichwa kuwa "Arial".
+Ingiza meza na safu mbili na safu moja.
+Kwa safu ya kwanza, ijaze na "Umuhimu" na uweke saizi ya fonti hadi 18 na rangi iwe samawati nyepesi.
+Ongeza picha ya kompyuta. Isogeze hadi katikati ya slaidi. ## 1, picture, slide, center
+Andika "Model wa kiwango kikubwa" katika sehemu ya maudhui.
+Weka saizi ya fonti ya slaidi hadi 14 na rangi iwe kijani.
+
+Ingiza picha ya mnara kwenye slaidi kushoto. Picha inapaswa kuwa ya mnara wenye sura mbaya, unaotisha. ## 0, picture, slide, left
+Kichwa cha slaidi kinapaswa kuwa "The Ultimate Heist".
+Tengeneza mtindo wa fonti wa mada "Times New Roman".Badilisha rangi ya mada hadi kijani.
+Unda pembetatu. Isogeze upande wa kulia wa slaidi. ## 0, triangle, slide, right
+Ipe slaidi mandharinyuma ya samawati hafifu.
+
+Ingiza meza na safu tatu na safu tatu. Jaza jedwali na "'zambarau', 'bluu', 'bluu isiyokolea', 'bluu iliyokolea', 'kijani', 'kijani hafifu', 'kijani iliyokolea', 'njano', 'njano isiyokolea'"
+Ipe slaidi rangi ya mandharinyuma ya kijani kibichi.
+Emm, rangi sio nzuri. Ibadilishe iwe rangi ya samawati iliyokolea.
+Taja jina "Aina za Rangi". Ongeza picha ya saa.
+Unda slaidi mpya na uipe rangi ya njano ya mandharinyuma.
+Ingiza maudhui yafuatayo kwenye slaidi,"Speedwell, pia huitwa bird's eye au gypsy weed, ni mzaliwa wa kudumu barani Ulaya.
+
+Unda slaidi na ingiza picha ya mwanamume na mwanamke wakigombana.
+Tafadhali taja kichwa "Ndoa Inaleta Nini kwa Wanaume na Wanawake?"
+Unda slaidi mpya na uweke picha moja ya mwanamke aliyevaa kimono ya Kijapani, na picha nyingine ya mwanamke aliyeolewa wa Kiafrika akiwa na watoto wake.
+Ongeza "Mambo ya Kuamua Taratibu Tofauti za Ndoa" kama kichwa.
+Ifuatayo, unda slaidi zingine tatu na uzifanye ziwe na usuli nyekundu.
+Sogeza hadi slaidi ya 2 na ukipe jina "Faida za Kawaida za Ndoa kwa Wanaume na Wanawake."
+Kweli, ninataka kusisitiza kichwa, na tafadhali badilisha rangi ya fonti ya kichwa hadi manjano.
+Ingiza picha ya familia yenye furaha ya watu watatu katikati ya slaidi.
+Ingiza mistatili mitatu nyekundu.
+unda slaidi mpya na uipatie kichwa "Mageuzi ya Taasisi ya Ndoa nchini China".
+ingiza picha ya saa na uweke upana wake kama 6.5.
+Sogeza saa upande wa kushoto wa slaidi. ## 3, picture, slide, left
+Sasa unda slaidi mpya na ukipe jina kama "Matatizo Wanayokabiliana nayo Wanawake Ulimwenguni." Weka picha moja ya mama wa muda.
+Tafadhali weka urefu wa picha ya mama wa muda inchi 5.
+
+Weka kichwa cha slaidi mpya kama "Neural Network"
+Kisha, ingiza maudhui ya slaidi "Mitandao ya Neural ni seti ya algoriti zinazoiga utendakazi wa ubongo wa binadamu. Imeundwa kutambua ruwaza, kuainisha data, na kufanya ubashiri."
+Badilisha saizi ya fonti hadi 12, na ubadilishe rangi ya fonti kuwa ya machungwa. Badilisha usuli wa slaidi kuwa nyekundu.
+
+tafadhali taja jina "Alama ya Nukuu"
+Pigia mstari kichwa na ufanye saizi yake ya fonti 24.
+ingiza maudhui katika slaidi hii kama ifuatavyo, "Alama ya alama za nukuu ni aina ya uakifishaji unaotumika kutenganisha maneno na vifungu kutoka kwa maandishi mengine."
+badilisha rangi ya fonti ya yaliyomo hadi kijani kibichi. emmm, saizi ya fonti ni kubwa sana, tafadhali ifanye iwe ndogo
+weka picha ya alama kubwa ya nukuu. Sogeza alama upande wa kushoto wa slaidi. ## 0, picture, slide, left
+sasa, tafadhali unda slaidi mpya na uipe usuli wa samawati.
+kisha ongeza mstatili mmoja upande wa kulia. ## 1, rectangle, slide, right
+ingiza meza na safu mbili na safu moja.
+jaza jedwali na '"Unaendeleaje?" Alisema muungwana.' katika ngeli ya kwanza na "Mojawapo ya matumizi ya kawaida ya alama za nukuu ni kuashiria nukuu ya moja kwa moja, kifungu ambacho kimenakiliwa kwa neno kutoka kwa chanzo kingine." katika ngeli ya pili.
+
+tafadhali unda slaidi mpya na uipe mandharinyuma ya kijani kibichi
+emm, hakuna kichwa. Nisaidie kuongeza kichwa "Sehemu na Matawi ya Anthropolojia", na uweke saizi ya fonti kuwa 18.
+Ninataka kuingiza maudhui yenye saizi sawa ya fonti, "Kuna nyanja mbili pana za anthropolojia."
+Ndiyo, ndivyo ninavyotaka. Tafadhali panga maudhui kulia.
+
+Katika slaidi, uh, ongeza mshale katika upande wa kushoto
+weka upana wa mshale kama 4.0 na urefu kama 3.0
+ingiza maudhui yafuatayo,"Sehemu kubwa za Asia ya kati huhisi kutokuwa na watu wa kutisha."
+fanya mshale kuwa mkubwa zaidi kuwa wa upana 5.0 na kimo 4.0, na uzungushe kwa digrii 90.
+hatimaye, weka nafasi mbili kwa yaliyomo
+
+Ingiza "Elimu/Maalimu/Uwakilishi wa PPT" kama kichwa.
+Ingiza "Athari mbaya ya ongezeko la joto duniani" katika maudhui,
+fanya rangi ya fonti ya kichwa kuwa ya samawati iliyokolea na yaliyomo kuwa ya zambarau.
+Ingiza mstatili katika rangi sawa ya maudhui.
+Sogeza mstatili hadi sehemu ya juu ya kushoto ya slaidi. ## 0, rectangles, slide, left top
+Ingiza jedwali na safu wima nne na safu mbili, na ujaze safu ya kwanza na "kutoa", "kutoa", "kutoa" na "kutolewa".
+Badilisha rangi ya fonti ya yaliyomo ili ilingane na kichwa.
+
+Fanya mandharinyuma ya machungwa.
+Ingiza picha ya paka na uweke upana na urefu wake kama inchi 5.
+Unda slaidi tatu zaidi na uzifanye ziwe na rangi ya usuli ya chungwa sawa.
+Taja kichwa kama "Habari ya DingTalk"
+Ingiza jedwali na safu tatu na safu wima tano.
+Jaza safu mlalo ya kwanza na "Njia za Kupakua", "Jinsi ya kujiunga na shirika", "Jinsi ya kupata marafiki", "Manufaa" na "Kumbuka" katika kila nafasi iliyo wazi.
+Ingiza nyota kwenye sehemu ya kulia ya slaidi. ## 3, star, slide, right
+Ingiza maudhui yafuatayo katika sehemu ya maudhui, "uhifadhi msitu unarejelea kuzuia au kuzuia kwa kufanya jambo kabla ya wakati"
+Sasa asili ya machungwa sio nzuri. Ibadilishe kuwa ya bluu.
+Fanya yaliyomo yasawazishwe kushoto.
+
+Ingiza mshale (kulia) na uipake rangi ya manjano.
+Taja kichwa kilichopangiliwa kushoto kama "Siku ya wiki shuleni"
+fanya rangi ya fonti ya kichwa kuwa bluu iliyokolea. italiki na upigie mstari kichwa.
+Ingiza maudhui yafuatayo katika sehemu ya maudhui, "uuzaji miti unamaanisha kununua (bidhaa) mapema ili kuongeza bei inapouzwa upya"
+Weka picha ya beji ya shule. Weka kama mraba 2.5 x 2.5.
+Unda slaidi moja mpya na uweke rangi ya usuli kama kijani.
+Ipe slaidi kichwa kilichopangiliwa kulia, "Kumbuka"
+Badilisha rangi ya kichwa hadi kijani kibichi na saizi ya fonti iwe 26.
+ingiza pointi tatu za risasi.
+ongeza dokezo "2023/4/9" na "2023/4/8" kwenye slaidi iliyotangulia.
+
+Ingiza nyota na uiweke kuelekea upande wa kulia wa slaidi. ## 0, star, slide, right
+Jaza nyota na rangi ya bluu.
+Ongeza mshale mwekundu kwenye upande wa kushoto wa slaidi. ## 0, arrow, slide, left
+Taja slaidi "Kufanya Uamuzi"
+Ingiza yaliyomo, "Janga la sasa la ulimwengu limevuruga maisha yetu ya kila siku na kuunda upya ulimwengu kwa njia ambayo hatukuwahi kufikiria."
+Pigia mstari yaliyomo na uweke saizi ya fonti ya kichwa kama 24.
+Weka mtindo wa fonti wa maudhui na kichwa kama "Times New Roman"
+
+Unda slaidi tano.
+Ongeza maudhui yafuatayo katika sehemu ya mada ya kila slaidi mtawalia, "Utangulizi", "Maendeleo", "Tathmini", "Uchambuzi" na "Hitimisho".
+Weka mandharinyuma yote ya slaidi kuwa ya manjano.
+Katika upande wa kwanza, fanya mtindo wa fonti wa "Utangulizi" ubadilike kuwa "Microsoft JhengHei",
+Katika slaidi ya pili, ingiza picha ya saa.
+Katika slaidi ya tatu, ingiza chati ya mwambaa. Data kwa mlalo ni Oktoba, Novemba, Desemba na 160,170,130 kwa wima.
+Katika slaidi ya nne, ingiza meza na safu tatu na safu mbili.
+Ingiza maudhui yafuatayo katika safu mlalo ya kwanza, "toIPA", "Faida" na "Hasara"
+Katika slaidi ya mwisho, tengeneza mtindo wa fonti "Times New Roman",
+Ingiza wingu kwenye slaidi ya mwisho.
+Pia, ingiza dokezo "Iliyoundwa na Eva" katika kila slaidi.
+
+Unda mduara. Rangi miduara ya zambarau.
+Ingiza picha ya chupa ya maji na nukuu "chupa".
+Weka "QUALITY" kama kichwa.
+Badilisha rangi ya "QUALITY" iwe nyekundu.
+Ingiza meza na safu mbili na safu mbili.
+Jaza kila seli na "Tathmini ya Mashine", Tathmini ya Binadamu ", "Tathmini ya Kiotomatiki 1", na "Tathmini ya Kiotomatiki 2",
+Unda slaidi mpya na uipe jina "Mafanikio", fanya rangi ifanane na miduara.
+
+tafadhali unda slaidi mpya na ukipe jina kama "Mikakati ya Uuzaji kwa Q2"
+ipe slaidi rangi ya mandharinyuma ya samawati.
+Unda slaidi mpya na ukipe jina kama "Kuongezeka kwa Mauzo na Uhamasishaji wa Biashara."
+emm, tafadhali badilisha saizi ya fonti ya kichwa hadi 60.
+Sasa, toa slaidi ya 2 mandharinyuma ya kijani kibichi.
+Unda slaidi nyingine tatu na uhakikishe kuwa zote zina mandharinyuma sawa ya kijani.
+Kazi nzuri. Sasa nenda kwenye slaidi ya tatu. Ongeza kichwa "Mitindo ya Soko na Uchambuzi wa Washindani"
+Ingiza picha ya bahari ya bluu.
+Naam, tafadhali rekebisha urefu wa picha hadi 4 na upana hadi 5, na uweke upande wa kushoto wa kichwa. ## 2, picture, title, left
+Sawa, ndivyo ninavyotaka. Sasa nenda kwenye slaidi ya nne. Ongeza kichwa "Dhamira na Maadili Yetu."
+Ingiza maudhui "VISION.Watu wote wanaoishi maisha marefu wakiwa na afya kamili.MISSION.IHME huwasilisha kwa ulimwengu ushahidi unaofaa, unaofaa na wa kisayansi ili kuboresha sera na mazoezi ya afya."
+Inaonekana ni fujo kidogo, jaribu kurekebisha nafasi ya mstari kuwa 1.5.
+Sio mbaya, lakini jaribu kuweka saizi ya fonti ya yaliyomo hadi 40. Badilisha mtindo wa fonti wa yaliyomo kuwa "Times New Roman".
+
+Tafadhali unda slaidi mpya na utumie mandharinyuma ya manjano.
+Kuhusu kichwa, nisaidie kuongeza kichwa "Ulinganisho wa Elimu nchini Uchina na Amerika."
+emm, badilisha kichwa kuwa"Gundua Tofauti na Ufanano" .
+Ohno, ninataka kubadilisha kichwa kuwa "Tofauti na Ufanano".
+Sasa, unda slaidi tano mpya.
+Fanya slaidi tano mpya ziwe na usuli sawa wa manjano.
+Nenda kwenye slaidi ya pili na uongeze kichwa "Mifumo ya Elimu."
+Ingiza maudhui "Elimu nchini China kimsingi inasimamiwa na mfumo wa elimu kwa umma unaoendeshwa na serikali, ambao uko chini ya Wizara ya Elimu. Raia wote wanapaswa kuhudhuria shule kwa muda usiopungua miaka tisa, inayojulikana kama elimu ya lazima ya miaka tisa, ambayo inafadhiliwa. na serikali."
+Nenda kwenye slaidi inayofuata na ukipe jina "Mitindo na Mbinu Tofauti za Kufundisha."
+Taja jina la slaidi ya nne "Uhusiano wa Mwalimu na Mwanafunzi." Kichwa cha slaidi ya tano "Tathmini ya Utendaji wa Mwanafunzi."
+Ingiza picha ya msitu kwenye slaidi ya tano.
+Ingiza maudhui "Mwaka 2014, Jonathan Kaiman wa gazeti la The Guardian aliandika kwamba wazazi na waelimishaji wa China "wanaona mfumo wao wenyewe kuwa mbovu, unaodhalilisha utu, wenye shinikizo na usio wa haki". aliendelea kuzungumzia mtihani wa udahili wa vyuo vya nchi hiyo (unaoitwa gaokao), akiandika. kwamba "wazazi wengi huona jaribio hilo gumu la saa tisa kama njia ya kupanga ambayo itaamua mwelekeo wa maisha ya watoto wao." na wahakikishe kuwa imepigiwa mstari kwa alama za nukuu na kuweka rangi ya fonti kuwa nyekundu.
+Sasa, nenda kwenye slaidi ya mwisho na uingize jedwali lenye safu mlalo moja. Ingiza "Wajibu" kwenye jedwali.
+
+Unda slaidi mpya na uweke picha ya programu ya DingTalk.
+Ipe slaidi hii kichwa "Utangulizi wa ChatGPT". Fanya rangi ya fonti ya kichwa kuwa ya kijani.
+Sasa unda slaidi tano mpya zenye kichwa sawa, "Kufungua Nguvu za Miundo ya Lugha ya AI." na panga vichwa upande wa kushoto.
+Badilisha mtindo wa fonti wa yaliyomo kuwa "Arial".
+Katika sehemu ya mwili, weka maudhui "ChatGPT ni chatbot ya akili bandia (AI) iliyotengenezwa na OpenAI na iliyotolewa Novemba 2022. Imejengwa juu ya familia za OpenAI za GPT-3.5 na GPT-4 za miundo mikubwa ya lugha (LLMs) na imesasishwa (mbinu ya kuhamisha ujifunzaji) kwa kutumia mbinu za ujifunzaji zinazosimamiwa na kuimarisha."
+Sawa, weka saizi ya fonti iwe 30 na nafasi ya mstari iwe 2.
+Ingiza jedwali lenye safu wima moja na safu mlalo moja, na ujaze jedwali na "Jinsi ya kupakua DingTalk".
+Nzuri. Hebu tusogee kwenye slaidi inayofuata.
+Tafadhali ongeza maandishi "Vipengele na Mapungufu" kama kichwa, na uipangilie katikati.
+Ingiza yaliyomo. "Ingawa kazi ya msingi ya chatbot ni kuiga mzungumzaji wa kibinadamu, ChatGPT inaweza kubadilika. Inaweza kuandika na kurekebisha programu za kompyuta, kuiga mtindo wa Wakurugenzi wakuu mashuhuri na kuandika nyanja za biashara, kutunga muziki, michezo ya televisheni, hadithi za hadithi na insha za wanafunzi, kujibu. maswali ya mtihani (wakati mwingine, kulingana na jaribio, katika kiwango cha juu ya mtu anayefanya mtihani wastani), andika mashairi na maneno ya nyimbo, iga mfumo wa Linux. iga vyumba vyote vya mazungumzo, cheza michezo kama vile tiki-tac-toe na uige ATM. ."
+
+tengeneza slaidi mpya, weka mandharinyuma ya kijani kwa slaidi,
+ingiza maudhui yafuatayo: "Maisha ni mafupi sana kutumia muda na watu wanaovuta furaha kutoka kwako." na kuweka pointi moja mara tano nafasi.
+badilisha mtindo wa fonti wa yaliyomo kuwa Verdana na uweke saizi ya fonti kama 20.
+Mwishowe, pigia mstari maudhui na uweke rangi ya maudhui kuwa ya manjano.
+
+Tafadhali unda slaidi mpya na uipe usuli wa samawati. Ongeza kichwa "Kujifunza kwa Mashine"
+Ingiza maandishi yafuatayo kwenye sehemu ya maudhui: "Kujifunza kwa mashine ni matumizi ya akili bandia (AI) ambayo hutoa mifumo uwezo wa kujifunza kiotomatiki na kuboresha kutokana na uzoefu bila kuratibiwa kwa uwazi. Mafunzo ya mashine huzingatia uundaji wa programu za kompyuta zinazoweza kufikia kiotomatiki. data na kuzitumia kujifunza wenyewe."
+Saizi ya fonti ya yaliyomo ni ndogo sana. Tafadhali iongeze hadi 20. Badilisha mtindo wa fonti wa maudhui kuwa Verdana
+Mtindo wa fonti sio mzuri. Ibadilishe kuwa "Times New Roman" na Pangilia yaliyomo kulia.
+Badilisha rangi ya fonti ya kichwa iwe nyekundu, na saizi iwe mara mbili ya yaliyomo
+Nyekundu si nzuri, tafadhali badilisha rangi ya kichwa iwe bluu.
+Hiyo inaonekana bora zaidi. Ongeza picha inayohusiana na kujifunza kwa mashine kwenye slaidi ya kushoto. ## 1, picture, slide, left
+Weka urefu na upana wake hadi 1.2
+Hatimaye, ingiza nyota ya kijani.
+
+Unda slaidi mpya na uongeze kichwa "Mikakati ya Uuzaji"
+Ingiza sehemu ya maudhui: "Uboreshaji wa Injini ya Utafutaji (SEO)", "Uuzaji wa Mitandao ya Kijamii (SMM)", "Uuzaji wa Barua pepe", "Utangazaji wa Maudhui", na "Pay-Per-Click Advertising (PPC)" na uweke alama za vitone kabla. kila mmoja wao.
+Ongeza picha inayohusiana na uuzaji kwenye slaidi yenye ukubwa wa 1*1.
+Ongeza chati ya pai kulingana na data: Apple: 35%,Samsung: 25%,Huawei: 15%, Xiaomi: 10% Nyingine: 15%. Na kuingiza meza na nguzo mbili na safu mbili.
+Ingiza "Masoko" kama kichwa cha chati. Ingiza "MT1" , "MT2", "ST1" na "ST2" kwenye jedwali.
+Sogeza sehemu ya maudhui hadi upande wa chini wa slaidi. ##1, content, slide, bottom
+Unda slaidi na unakili chati ya pai.
+Sasa nakili jedwali.
+
+Tafadhali unda slaidi mpya na uongeze kichwa "Taswira ya Data"
+Weka chati ya upau kulingana na data: mlalo " X" ni New York, Los Angeles, Chicago, Houston na Phoenixna, huku wima "Y" ni 8.4, 4.0, 2.7, 2.3 na 1.7. Na sogeza chati upande wa kushoto wa slaidi. ##1, bar chart, slide, left
+Ingiza kisanduku cha maandishi na uandike "Taswira ya data ni uwasilishaji wa data katika umbizo la picha au picha. Huwawezesha watoa maamuzi kuona uchanganuzi unaowasilishwa kwa mwonekano, ili waweze kufahamu dhana ngumu au kutambua ruwaza mpya."
+Badilisha rangi ya fonti ya kisanduku cha maandishi kuwa kijani.
+Sasa, nenda kwenye slaidi inayofuata. Na ingiza maudhui yafuatayo, "Uji huu hutengenezwa kwa kupika wali wa glutinous, sukari ya kahawia, na aina kumi na nane za matunda yaliyokaushwa pamoja."
+
+Tafadhali unda slaidi mpya na ukipe jina "Laba Porridge"
+Ingiza maandishi yafuatayo katika sehemu ya yaliyomo: "Kwa kuwa ninakumbuka, kila mwaka siku ya nane ya mwezi wa kumi na mbili, mama yangu alikuwa akitupikia uji wa Laba."
+fanya rangi ya fonti kuwa ya manjano na yaliyomo kwa ujasiri.
+Sasa, ongeza jedwali na safu mbili na safu wima moja kwenye slaidi ya kulia. ## 1, table, slide, right
+Ingiza "Historia kwenye kisanduku cha kwanza katika safu mlalo ya kwanza na "Kisasa" kwenye safu mlalo ya pili.
+Ipe slaidi rangi nyekundu isiyo na mwanga.
+
+Ipe slaidi rangi ya njano.
+Usuli sio mzuri. Tafadhali weka mandharinyuma ya kijani kwa slaidi hii na slaidi zingine zote
+Hiyo inaonekana kama nzuri. tafadhali weka kichwa cha slaidi kama "Kampuni Kubwa"
+Rekebisha saizi ya fonti ya kichwa hadi 28 na unisaidie kubadilisha mtindo wa fonti kuwa "Futura".
+Tafadhali ongeza jedwali lenye safu mlalo moja na safu wima mbili. Na ingiza "Nambari", "Majina ya Wafanyakazi" .
+Ongeza nembo za makampuni kwenye slaidi
+Badilisha rangi ya fonti ya yaliyomo kwenye jedwali kuwa ya manjano.
+
+Tafadhali unda slaidi mpya na ukipe jina "Mitandao Bandia ya Neural"
+Ingiza maandishi yafuatayo katika sehemu ya maudhui: "Mitandao Bandia ya neva (ANNs) ni mifumo ya kompyuta inayochochewa na mitandao ya neva ya kibayolojia inayounda ubongo wa wanyama. Mifumo kama hiyo hujifunza kutekeleza majukumu kwa kuzingatia mifano, kwa ujumla bila kuratibiwa na sheria zozote mahususi. . ANN zina uwezo wa kujifunza na kuzoea ingizo mpya, ambayo inazifanya kuwa muhimu kwa anuwai ya programu, ikijumuisha utambuzi wa picha, utambuzi wa matamshi na usindikaji wa lugha asilia."
+Saizi ya fonti ya yaliyomo ni ndogo sana. Tafadhali ongeza hadi 24
+Kisha ubadilishe mtindo wa fonti wa yaliyomo kuwa "Calibri". Weka rangi ya usuli ya slaidi iwe chungwa hafifu.
+Pangilia maudhui katikati na kichwa kushoto
+Badilisha rangi ya usuli ya slaidi kuwa samawati.
+Ingiza picha inayohusiana na mitandao ya neva bandia kwenye slaidi
+Rekebisha saizi ya picha hadi inchi 5.5 kwa upana.
+Sogeza picha upande wa kulia wa slaidi. ## 1, picture, slide, right
+Ingiza meza na safu tatu na safu mbili. Na jaza safu ya kwanza na "1", "2", "3".
+Na ingiza "michezo ya video", "Badilisha", "mfululizo wa TV" kwenye safu ya pili.
+
+Tafadhali niundie slaidi mbili mpya nyekundu
+Taja jina la slaidi 0 "Changamoto" na ufanye mtindo wa fonti wa kichwa "Calibri"
+Ingiza maandishi yafuatayo katika sehemu ya maudhui ya slaidi ya kwanza:"Changamoto za kutekeleza AI mahali pa kazi ni pamoja na ukosefu wa utaalamu, gharama, na upinzani wa mabadiliko."
+Badilisha rangi ya fonti ya yaliyomo hadi kijani kibichi
+Nenda kwenye slaidi ya pili, na uongeze picha inayohusiana na AI kwenye slaidi. Weka picha kwenye slaidi. ## 1, picture, slide, center
+
+Tafadhali unda slaidi mpya na uongeze kichwa "Utangulizi"
+Ingiza maandishi yafuatayo katika sehemu ya maudhui: "Karibu kwenye wasilisho langu kuhusu historia ya michezo ya video. Michezo ya video imetoka mbali tangu mchezo wa kwanza wa kielektroniki ulipovumbuliwa miaka ya 1950. Leo, michezo ya video ni tasnia ya mabilioni ya dola ambayo inafurahiwa na watu ulimwenguni kote."
+Ongeza picha ya mchezo wa kwanza wa kielektroniki kwenye slaidi.
+weka picha kwenye sehemu ya chini ya kulia ya slaidi. ##1, picture, slide, right bottom
+Badilisha rangi ya fonti ya kichwa kuwa bluu
+Ongeza kisanduku cha maandishi kwenye slaidi na ingiza maandishi: "Iliyowasilishwa na John Smith".
+
+Tafadhali unda slaidi mpya inayoitwa "Neural Networks"
+Ingiza maandishi yafuatayo katika sehemu ya maudhui: "Mitandao ya neva ni seti ya algoriti zinazoiga utendakazi wa ubongo wa binadamu. Hutumika kwa matumizi mbalimbali kama vile utambuzi wa picha, utambuzi wa usemi na uchakataji wa lugha asilia."
+Badilisha mtindo wa fonti wa maudhui kuwa Arial
+Weka pembetatu ya kijani. Na usonge kwenye kona ya kushoto. ##1, triangle, slide, left corner
+Ongeza picha ya mtandao wa neva kwenye slaidi
+Weka urefu na upana wake hadi 1.2
+Unda slaidi mpya. Ingiza mshale wa bluu upande wa kulia. ## 2, right arrow, slide, right
+Ongeza chati ya mstari. Mlalo " X" ni Januari, Februari, Machi, Aprili. "Y" ya wima ni 120,140,110 na 90. Ipe kichwa, "Chatgpt"
+Ingiza kisanduku cha maandishi ambacho kina jina la maktaba maarufu ya mtandao wa neva (k.m., TensorFlow, PyTorch, Keras)
+Badilisha rangi ya fonti ya kichwa kuwa bluu. na rangi ya usuli ya slaidi hadi samawati hafifu.
+
+Ingiza hii katika sehemu ya maudhui:"Kamusi inaweza kutumika kupata maana za maneno, na matamshi, tahajia, na kutafuta maneno mapya."
+Unda mduara mmoja juu ya sehemu ya maudhui. ## 0, circle, content, top
+Ingiza "maneno ya nomino" kwenye duara
+Badilisha rangi ya fonti ya yaliyomo iwe nyekundu, mtindo uwe "Athari"
+
+Tafadhali unda slaidi 3 mpya na mada zake ni "Utangulizi", "Mbinu" na "Matokeo" mtawalia.
+Katika slaidi ya "Utangulizi", weka maandishi yafuatayo kwenye sehemu ya maudhui: "Onyesho hili litatambulisha mradi wetu wa utafiti na kueleza umuhimu wake." Katika slaidi ya "Mbinu", ingiza maandishi yafuatayo katika sehemu ya maudhui: "Mbinu yetu ya utafiti ilihusisha kukusanya data kutoka kwa vyanzo mbalimbali na kutumia uchambuzi wa takwimu ili kufikia hitimisho."
+Pangilia maandishi upande wa kushoto.
+Badilisha rangi ya usuli ya slaidi zote kuwa samawati hafifu
+Ongeza picha ya grafu kwenye slaidi ya "Matokeo". Weka picha kwa urefu wa inchi 6.5.
+Ongeza dokezo kwenye kila slaidi yenye tarehe ya leo 2022/1/1.
+
+Tafadhali unda slaidi 2 mpya na mada zake ni "Muhtasari wa Bidhaa" na "Vipengele" mtawalia.
+Katika slaidi ya "Muhtasari wa Bidhaa", ingiza picha ya bidhaa
+Ingiza maandishi yafuatayo katika sehemu ya maudhui: "Bidhaa yetu imeundwa ili kukidhi mahitaji ya soko letu tunalolenga kwa kutoa suluhisho rahisi na la ufanisi kwa tatizo lao."
+Katika slaidi ya "Vipengele", ingiza jedwali iliyo na safu 5 na safu 2.
+Ingiza "DingTalk" kwenye kisanduku cha mwisho.
+Badilisha mtindo wa fonti wa "DingTalk" uwe "Times New Roman"
+Ongeza dokezo kwenye kila slaidi na saa ya sasa 12:00 PM.
+
+Unda slaidi mpya na upe kichwa kilichopangiliwa katikati "Ripoti ya Mauzo" kwenye slaidi ya 1.
+Weka chati ya pai yenye data ifuatayo: Bidhaa A: 120, Bidhaa B: 220, Bidhaa C: 180.
+badilisha saizi ya fonti ya kichwa hadi 28.
+Ongeza picha ya nembo ya kampuni kwenye kona ya juu kulia ya slaidi
+Ingiza maandishi yafuatayo katika sehemu ya maudhui: "Ripoti hii inaonyesha utendaji wa mauzo ya bidhaa zetu katika robo ya kwanza ya 2023."
+Badilisha mtindo wa fonti wa maandishi kuwa "Times New Roman".
+Maudhui yanapaswa kusawazishwa kwa njia sawa na kichwa.
+
+Unda slaidi mpya na uongeze kichwa "Mikakati ya Uuzaji"
+Badilisha mtindo wa fonti wa kichwa kuwa "Calibri" na saizi ya fonti iwe 36
+Ingiza picha ya kampeni ya uuzaji kwenye sehemu ya yaliyomo
+Zungusha picha kwa digrii 45 na uipanganishe kwa upande wa kulia. ## 1, picture, slide, right
+unda slaidi mpya na uweke kichwa "Nguvu MT"
+Badilisha mtindo wa fonti wa kichwa kuwa "Arial" na saizi ya fonti hadi 24
+Ongeza kisanduku kipya cha maandishi chini ya kichwa kidogo, na uongeze vidokezo kwake na uandike "SEO", "Utangazaji wa Barua pepe", na "PPC"
+Weka rangi ya usuli iwe bluu.
+Ingiza chati ya upau kulingana na data: kipengeeA 27, kipengeeB 30, kipengeeC 29.Na usogeze chati kwenye upande wa kushoto wa slaidi. ##1, bar chart, slide, left
+Badilisha kichwa cha chati kuwa "Bajeti ya Uuzaji".
+Ingiza meza na safu nne na safu mbili.
+Ingiza maudhui yafuatayo kwenye jedwali, "Tarehe", "Jumatatu", "Jumanne", "Jumatano", "Alhamisi", "Ijumaa", "Jumamosi", "Jumapili".
+Sogeza jedwali upande wa kulia wa chati. ##1, table, chart, right
+
+Unda slaidi mpya na uipe mandharinyuma ya manjano
+Ongeza kichwa "Vipimo vya Tathmini"
+Ongeza meza na safu mbili na safu tatu
+Ongeza maudhui yafuatayo kwenye safu mlalo ya kwanza: "Metric", "Formula". Ongeza maudhui yafuatayo kwenye safu ya pili: "Usahihi", "(TP+TN)/(TP+TN+FP+FN)". Ongeza maudhui yafuatayo kwenye safu mlalo ya tatu: "Precision", "TP/(TP+FP)"
+Ongeza chati ya mstari. Data ni Oktoba, Novemba, Desemba kama X ya mlalo, 160,170 na 130 ni data katika Y. Ipe kichwa, "Time Machine"
+Ongeza chati ya upau iliyo na data sawa.
+
+Ongeza slaidi mpya na uongeze kichwa "Taswira ya Data"
+Ingiza chati ya upau iliyo na data ifuatayo: "Jicho" , "Mkono" "Mguu" na "Goti" kama X mlalo, na 60,70,80,90 kama Y wima.
+Badilisha ukubwa wa chati hadi iwe inchi 4 kwa inchi 4
+Ongeza kichwa "Mauzo kwa Mkoa" kwenye chati
+Ingiza mshale wa kijani kwenye slaidi.
+
+Unda slaidi mpya na uongeze kichwa "Kampeni ya Uuzaji"
+Ingiza picha ya bidhaa upande wa kulia wa sehemu ya maudhui. ## 1, picture, content, right
+Weka picha kwa upana wa inchi 5.
+Ingiza maudhui yafuatayo katika sehemu ya maudhui, "Familia ya lugha ya Ulaya ambayo ina uhusiano wa karibu na lugha za Kifrisia, Kijerumani, na Kiholanzi (katika Ubelgiji zinazoitwa Flemish)."
+Ongeza mduara mwekundu kwenye sehemu ya chini ya kulia ya slaidi. ## 1, circle, slide, bottom right
+Ipe usuli rangi ya kijani.
+Badilisha rangi ya usuli ya slaidi hadi rangi ya samawati isiyokolea
+Kisha, unda slaidi mpya na uongeze kichwa "Data ya Mauzo"
+Ingiza jedwali lenye safu wima 4 na safu mlalo moja
+Ingiza data ifuatayo kwenye jedwali: jina la muuzaji, jumla ya mauzo, kiwango cha kamisheni na kiasi cha kamisheni
+Nenda kwenye slaidi inayofuata. Fanya rangi ya usuli kuwa sawa na slaidi ya mwisho.
+
+Unda slaidi mpya na uongeze kichwa "Ripoti ya Mauzo". Weka ukubwa wa fonti ya kichwa hadi 25
+Ingiza maandishi yafuatayo kwenye sehemu ya maudhui: "Hii hapa ni ripoti ya mauzo ya robo mwaka ya kampuni yetu:"
+Weka saizi yake ya fonti hadi 16, na ubadilishe rangi yake kuwa zambarau.
+Ongeza mstatili 8*5 kwenye slaidi.
+Badilisha rangi ya usuli ya slaidi kuwa kijani.
+
+Tafadhali unda slaidi mpya na uongeze kichwa "Mitandao Bandia ya Neural
+Ingiza maandishi yafuatayo katika maudhui: "Mitandao Bandia ya neva (ANNs) ni mifumo ya kompyuta ambayo imechochewa na, lakini si sawa na, mitandao ya neva ya kibayolojia inayounda ubongo wa wanyama. Mifumo kama hii hujifunza kufanya kazi kwa kuzingatia mifano, kwa ujumla bila kuratibiwa. na sheria mahususi za kazi."',
+Ongeza saizi ya fonti ya yaliyomo hadi 24. Pia, tumia mtindo wa fonti wa "Arial" kwa yaliyomo.
+Badilisha rangi ya fonti ya kichwa kuwa zambarau.
+Ongeza picha ya ubongo kwenye slaidi na ubadili ukubwa wa upana wake hadi 6.5
+Zungusha picha kwa digrii 90 kisaa
+Ongeza kisanduku kipya cha maandishi na uandike "Programu za ANN" ndani yake.
+Badilisha ukubwa wa fonti ya kichwa hadi 36 na mtindo wa fonti uwe Calibri
+ingiza meza yenye safu mbili tu na safu wima moja.
+weka maudhui yafuatayo kwenye jedwali: "Utambuzi wa picha" na "Uchakataji wa lugha asilia"
+
+Taja kichwa kama "Tathmini ya Ubora wa Tafsiri ya Mashine"
+Ongeza dokezo chini ya kichwa, "Ripota: Eva." ## 0, textbox, title, bottom
+Weka saizi ya fonti ya kichwa kama 66.
+Weka usuli kwa rangi ya samawati na nyekundu ya fonti.
+Emm, hiyo sio nzuri. Badilisha rangi ya usuli kuwa nyekundu na ufanye rangi ya fonti kuwa ya bluu.
+
+Tafadhali unda slaidi mpya na uongeze kichwa "Mitandao ya Neural"
+Ingiza maandishi yafuatayo kwenye sehemu ya maudhui: "Mitandao ya Neural ni seti ya algoriti zinazoiga utendakazi wa ubongo wa binadamu. Zimeundwa kutambua ruwaza, kuainisha data na kufanya ubashiri."
+Saizi ya fonti ya yaliyomo ni ndogo sana. Tafadhali ongeza hadi 24
+Kisha ubadilishe mtindo wa fonti wa maudhui kuwa Arial. Pangilia yaliyomo katikati
+Badilisha rangi ya fonti ya kichwa kuwa bluu
+Bluu sio nzuri...tafadhali badilisha rangi ya kichwa iwe ya kijani
+Ongeza picha ya ubongo kwenye slaidi na uweke urefu na upana wake hadi 1.5.
+Ingiza "Ubongo wa mwanadamu uliongoza ukuzaji wa mitandao ya neva" katika yaliyomo.
+Hatimaye, ongeza dokezo kuhusu usanifu wa mtandao wa neural unaotumika sana, kama vile mtandao wa neva wa kubadilisha (CNN) au mtandao wa neva unaorudiwa (RNN)
+Sasa nenda kwenye slaidi inayofuata. na Badilisha rangi ya usuli ya slaidi zote mbili kuwa njano.
+
+Tafadhali unda slaidi mpya na utaje jina lake kama "Fedha za Kibinafsi". Andika maandishi sawa na kichwa.
+Pigia mstari kichwa na uongeze saizi yake ya fonti hadi 24.
+Kisha, ingiza hii katika sehemu ya maudhui: "Fedha za kibinafsi hujumuisha ulimwengu mzima wa kusimamia fedha za mtu binafsi na familia, kuwajibika kwa hali yako ya kifedha ya sasa na ya baadaye, na kuweka malengo ya kifedha. Pia inajumuisha kushughulikia kazi za kifedha za kibinafsi na kuokoa kwa dharura. "
+Ndiyo, sasa badilisha rangi ya fonti iwe ya machungwa.
+Weka picha ya kitabu cha fedha za shirika.
+Weka upana wa picha kama inchi 6.5.
+ndio, na sasa ipe slaidi hii mandharinyuma ya samawati
+ngoja! bluu sio nzuri, badilisha rangi ya asili kuwa samawati nyepesi.
+unda slaidi mbili zaidi na tafadhali fanya slaidi zingine ziwe na usuli sawa wa samawati.
+Ingiza jedwali lenye safu wima mbili na safu mlalo moja hadi slaidi ya pili.
+
+Ingiza yaliyomo, "Karibu kwenye tovuti ya Katalogi ya Usasishaji ya Microsoft."
+Badilisha rangi ya fonti ya yaliyomo kuwa ya chungwa huku telezesha samawati iliyokolea.
+Ingiza picha ya kompyuta. Isogeze hadi chini ya slaidi. ## 0, picture, slide, bottom
+Emm, sio nzuri. hamisha picha upande wa kushoto wa slaidi. ## 0, picture, slide, left
+Sasa unda meza na safu mbili na safu nne. Na ingiza "Dhana za Msingi", "Asili", "Kategoria", na "Maendeleo" kwenye safu ya kwanza.
+Unda slaidi mpya na uweke nyota nyekundu.
+Ingiza chati ya pai kulingana na data, Q1 milioni 10; Q2, milioni 12; Q3 milioni 14. Na usogeze nyota katika upande wa chini wa kona ya chati. ## 1, star, pie chart, bottom corner
+Fanya chati kuwa kubwa hadi 10*10.
+
+Unda slaidi mpya na uipe rangi ya mandharinyuma ya samawati.
+tafadhali ongeza kichwa "Utangulizi".
+Na ingiza maneno katika maudhui: "Pesa ya Watu Plus inalingana na fedha za kibinafsi."
+Italiki na upigie mstari yaliyomo.
+Badilisha rangi ya fonti ya yaliyomo kuwa kijani.
+Ongeza picha ya mtu mmoja akishika pesa. Sogeza picha kwenye kona ya chini. ## 1, picture, slide, bottom corner
+weka picha inchi 8 kwa upana na inchi 7 kwa urefu.
+Unda slaidi mpya. tafadhali andika maneno katika sehemu ya yaliyomo: "Pesa sio kila kitu, lakini hakuna pesa haiwezekani"
+badilisha mtindo wa fonti kuwa "Futura", rangi kuwa samawati.
+Bluu sio nzuri sana. Zambarau itakuwa bora zaidi.
+Weka chati ya pai yenye data:1,2,3,4,5. Na usogeze upande wa kulia wa yaliyomo. ## 2, pie chart, content, right
+Taja slaidi "Athari za pesa"
+
+tafadhali tengeneza slaidi mpya na utaje kichwa chake kama "Tofauti kati ya fedha za kibinafsi na za shirika"
+kisha, ingiza meza na safu mbili na safu tatu,
+Ingiza picha ya nembo ya kampuni upande wa kushoto wa jedwali. ## 1, picture, table, left
+Ingiza jedwali na data ifuatayo, "Borderlands 2", "Divinity: Original Sin 2", "Final Fantasy VII", "Assassin's Creed IV: Black Flag", "Mega Man 3", "Mega Man 3".
+Ingiza wingu, na usogeze hadi upande wa kulia wa jedwali. ## 1, cloud, table, right
+Kisha, ongeza dokezo "2023/4/23" kwenye slaidi hii.
+
+Ipe slaidi rangi ya usuli ya chungwa.
+na uunde slaidi mpya yenye usuli sawa, weka kichwa: "Bridget Fonda"
+italiki kichwa na kuweka saizi ya fonti kama 18
+ongeza picha ya Bridget Fonda kwenye kona ya juu kulia. ## 1, picture, slide, top right
+weka picha inchi 8 kwa upana na inchi 7 kwa urefu.
+ndio, na unda slaidi mpya.
+tafadhali ingiza maudhui: "Bridget Fonda aliyezaliwa Los Angeles, anatoka katika familia ya mwigizaji inayoheshimika, ambayo ni pamoja na Henry Fonda, Peter Fonda na Jane Fonda. Alianza kujihusisha na ukumbi wa michezo baada ya kuonekana katika utayarishaji wa shule ya Harvey, na baadaye kuwa na Katika 1988, alionekana katika Scandal, jukumu lake la kwanza la kuzungumza, akiwa na majukumu madogo madogo baadaye.
+emmm, saizi ya fonti ya yaliyomo ni kubwa sana, tafadhali fanya saizi yake iwe 12. na italikize yaliyomo.
+taja jina la slaidi, "Orodha ya Sinema"
+ingiza meza na safu tatu na safu tatu, na ingiza nambari, 1,2,3,4,5,6,7,8,9 kwenye meza.
+Sogeza meza upande wa kulia wa slaidi. ##1, table, slide, right
+
+unda slaidi mpya
+kisha ongeza kichwa "Ghost Bear" na ukiweke chini
+weka maudhui : " Dubu Adimu Zaidi Ambaye Hujawahi Kumsikia"
+na uweke picha ya Ghost Bear.
+Badilisha mtindo wa fonti kuwa "Arial" na saizi ya fonti hadi 20.
+Sogeza picha upande wa kulia wa maudhui. ## 1, photo, content, right
+kisha unda slaidi mpya, na ingiza ramani ya miti kuhusu dubu,
+sogeza ramani ya miti katikati, ## 2, treemap, slide, center
+weka picha inchi 4 kwa upana.
+Ingiza maudhui, "Nilipokuwa na njaa ya Dungeons and Dragons, Divinity: Original Sin 2 ilijaza pengo hilo kwangu."
+taja jina lake kama "Mchezo Wangu Ninaopenda"
+sasa ingiza meza na safu mbili na safu mbili
+Ingiza data ifuatayo kwenye jedwali, "SMS", "WeChat", "QQ" na "DingTalk".
+
+Unda slaidi mpya. Weka mandharinyuma ya samawati kwa slaidi.
+Ingiza taswira ya ulimwengu kwenye kona ya chini kushoto. ## 1, picture, slide, bottom left
+Weka upana wa picha kama inchi 6.5 na urefu mara mbili ya upana.
+Andika kufuatia sehemu ya maudhui, "Inaweza kusemwa kuwa mimi ni mtu wa kuchagua. Sipendi vyakula vitamu sana, kama vile peremende, chokoleti na kadhalika"
+Ipe slaidi jina "Chakula ninachopenda zaidi"
+badilisha rangi ya kichwa na yaliyomo kuwa ya manjano.
+pigia mstari kichwa. badilisha saizi ya fonti ya kichwa hadi 24 na yaliyomo hadi 22.
+Ingiza wingu na usogeze hadi upande wa kulia wa picha. ## 1, cloud, picture, right
+
+tengeneza kichwa kama ilivyopigiwa mstari "Idol"
+ingiza mstatili nyekundu na usogeze hadi chini ya kichwa. ## 0, rectangle, title, bottom
+na ingiza maudhui yaliyosawazishwa kushoto: "I want you! (I want you!) I need you! (I need you!)I love you! (I love you!)"
+ili kufanya maneno yavutie, weka saizi ya fonti kama 24
+Hapana, ukubwa wa fonti mara mbili.
+tafadhali weka picha ya AKB48
+weka picha 6.5 inchi kwa urefu na mara mbili kwa upana.
+ingiza jedwali lenye safu wima moja na safu mlalo mbili na uingize "Wakati wa sanamu ni mfupi. Kuna uso mpya kila mara na mara chache hutoka kwenye hali iliyopo kama ya mwanasesere." katika meza.
+badilisha rangi ya fonti kuwa samawati, mtindo wa fonti kuwa "Futura"
+ingiza "Safari kuu ya sanamu, kutoka kwa Sylvie Vartan hadi kwa sanamu zinazouza viwanja vya michezo, inazua swali: Ni nini kinachofuata kwa sanamu na utamaduni ambao walianzisha?" katika seli ya pili.
+ongeza kidokezo "2023/05/17" kwenye faili.
+
+Ingiza "MAUDHUI" katikati ya slaidi.
+Ingiza maudhui yafuatayo katika safu mlalo chini ya "MAUDHUI", Mandharinyuma, Misheni ya Tathmini, Muundo na Programu, pia zipe nambari.
+Weka saizi ya fonti ya "CONTENTS" kama 80 na rangi kama kijani.
+Pigia mstari yaliyomo. Weka mtindo wa fonti wa maudhui kama "Pecita".
+
+ipe slaidi rangi ya usuli ya chungwa. na ingiza kichwa, "Programu Bora"
+Italikie kichwa na ufanye ukubwa wa fonti kuwa 24.
+Ingiza maudhui yafuatayo, "Unataka programu yenye nguvu? Si lazima uilipie. Kila kitu unachohitaji ili kuzalisha na salama kwenye Kompyuta yako kiko kwenye orodha hii, na yote ni bure kabisa."
+weka rangi ya fonti ya yaliyomo kuwa ya manjano.
+sasa rangi ya mandharinyuma si nzuri, ibadilishe kuwa bluu iliyokolea.
+sisitiza yaliyomo na ufanye mtindo wake wa fonti "Arial"
+ingiza mshale na usogeze chini ya slaidi. ## 0, arrow, slide, bottom
+kinachofuata, ongeza dokezo "2023/4/25" kwenye slaidi hii.
+
+tafadhali unda slaidi mpya na ukipe jina lake kama "Jay Chou"
+kisha ongeza maelezo ya msingi ya Jay Chou katika maudhui kama ifuatavyo, "Jay Chou ni mwanamuziki wa Taiwan, mwimbaji-mtunzi wa nyimbo, mpiga vyombo vingi, mwigizaji na mkurugenzi."
+unda slaidi mpya na jina: "Mojito"
+punguza kichwa na uweke saizi yake ya fonti kama 20
+emmm, fanya saizi ya fonti kuongezeka maradufu
+tafadhali ingiza maudhui: ""Mojito" ilipokelewa vyema na umma kwa ujumla kutoka jumuiya ya kimataifa. Mwangaza wa jua wa Cuba, mashati ya kitropiki, magari ya kale na midundo ya kupendeza hufanya wimbo sio tu kuwa wavu wa kuvutia lakini pia msisimko mkubwa wa kuona."
+badilisha mtindo wa fonti kuwa "Futura". Badilisha rangi ya mandharinyuma hadi kijani kibichi.
+sawa, sasa ingiza picha ya jalada la wimbo katika upande wa kulia. ## 2, picture, slide, right
+
+Taja slaidi "Maisha yangu ya chuo kikuu"
+ingiza picha ya mwenzako kwenye slaidi na nukuu inasema "chuo".
+Nataka kuingiza yaliyomo, "utamani wa kusoma nje ya nchi kati ya wanafunzi wa vyuo vikuu"
+fanya rangi ya fonti ya yaliyomo kuwa nyekundu na upigie mstari yaliyomo.
+fanya mtindo wa fonti wa yaliyomo kuwa "Futura" na uweke saizi ya fonti ya kichwa kama 22
+sawa, kisha panga yaliyomo kushoto.
+ingiza meza na safu moja na safu tatu.
+jaza jedwali na "Daraja la Kwanza", "Daraja la Pili","Daraja la Tatu"
+sawa, unda slaidi mpya na uweke maudhui: "Hotuba ya Michelle Obama katika Chuo Kikuu cha Peking"
+Lo, ingiza nembo ya Chuo Kikuu cha Peking na usogeze katika sehemu ya juu ya kulia ya slaidi. ## 1, picture, slide, right top
+weka nembo inchi 6.5 kwa urefu.
+
+unda slaidi mpya na uipe jina kama "Python ya Kujifunza"
+italiki kichwa na uweke saizi ya fonti kuwa 26, kisha ubadilishe mtindo wa fonti kuwa "Times New Roman"
+na weka rangi ya mandharinyuma ya kijani
+tafadhali unda slaidi mbili zaidi na ufanye slaidi zingine ziwe na usuli sawa.
+Ongeza mstatili na usogeze hadi upande wa chini wa slaidi2.## 2, rectangles, slide, bottom
+ingiza meza na safu moja na safu moja.
+Jaza jedwali na "Mifano haijatolewa, tafadhali jaza jedwali"
+
+Tafadhali unda slaidi mpya na uipe mandharinyuma ya kijani kibichi. Ingiza kichwa "Tafsiri ya Mashine"
+Ingiza maandishi yafuatayo katika sehemu ya maudhui: "Tafsiri ya mashine ni matumizi ya teknolojia ya kompyuta kutafsiri maandishi kutoka lugha moja hadi nyingine."
+Saizi ya fonti ya yaliyomo ni ndogo sana. Tafadhali ongeza hadi 20
+Hapana, mara mbili.
+Rangi ya fonti sio nzuri. Ibadilishe kuwa ya kijani na Pangilia yaliyomo kulia.
+Hiyo inaonekana bora zaidi. Ongeza picha ya nembo ya trados.
+Weka urefu na upana wake hadi inchi 2
+Sogeza picha hadi chini ya slaidi. ## 1, picture, slide, bottom
+Ingiza mstatili na usogeze upande wa kulia wa picha. ## 1, rectangle, picture, right
+
+Ingiza kichwa na kumbuka "Usuli" .
+Ingiza maudhui "Masharti ya kuelewa ubora wa tafsiri wa mashine ya kutafsiri", na uongeze sentensi hii chini ya maudhui, "Zingatia kutegemewa kwa kila nukta ya tarehe."
+Unda wingu katika sehemu ya chini na uweke upana wake kama inchi 6.5. ## 0, cloud, slide, bottom
+Tafadhali fanya ukubwa wa mada 30 na ukubwa wa maudhui 20. Italikie fonti katika maudhui.
+
+Ingiza mduara upande wa kushoto, na weka rangi yake kama kijani. ## 0, circle, slide, left
+Weka upana na urefu wa duara kama 10.
+Ongeza "Moduli ya Kipengele cha Kujifunza" na "Moduli ya Tathmini ya Ubora" katika maudhui.
+Taja slaidi kama "Mfumo wa Msingi".
+Ongeza kidokezo "2023/4" kwenye faili hii pia kwenye mduara.
+
+Taja jina kama "Malipo Machi" kwa kijani kibichi.
+Unda meza na safu moja na safu wima tatu.
+Ongeza "Kitambulisho cha Mfanyakazi" , "Kiasi" na "Kumbuka" katika safu ya kwanza kwa mtiririko huo.
+Ongeza maelezo chini ya jedwali, "Mfanyakazi atatoa kitambulisho chake cha benki na kitambulisho chake." ## 0, textbox, table, bottom
+Ingiza picha ya jina la chapa ya kampuni na usogeze kwenye kona ya kulia ya slaidi. ##0, picture, slide, right corner
+unda slaidi mpya na mandharinyuma inapaswa kuwa ya manjano,
+kichwa kinaandika "Sura ya 2", na yaliyomo yanaandika "Bonasi ya Mfanyakazi".
+Itake kichwa na ubadilishe ukubwa wa fonti hadi 44. Dumisha rangi ya mada sawa kwenye kila slaidi.
+badilisha mtindo wa fonti wa yaliyomo kuwa Verdana na rangi kuwa nyepesi.
+Ongeza dokezo "2023/4" katika slaidi hii.
+
+Unda slaidi mpya, taja jina "Vipengele vya kujifunza kwa kina", na usaidie kupigia mstari kichwa.
+Weka saizi ya fonti ya kichwa kama 26 na rangi kama samawati hafifu.
+Weka mduara mdogo.
+Ingiza maandishi yafuatayo katika sehemu ya maudhui, "Kujifunza kwa kina ni mbinu ya mashine ya kujifunza ambayo hufundisha kompyuta kufanya kile ambacho huja kwa kawaida kwa wanadamu."
+weka mtindo wa fonti wa yaliyomo kama "Arial'.
+Ingiza pembetatu upande wa kushoto. ## 1, triangle, slide, left
+Sogeza pembetatu upande wa kulia wa maandishi. ## 1, triangle, text, right
+Badilisha rangi ya pembetatu kuwa nyekundu na upana wake hadi 5.
+Ingiza vitone vitatu, na uandike "Jumapili", "Jumatatu" na "Jumanne" baada ya kila nukta ya risasi.
+Nenda kwenye slaidi inayofuata, na uifanye kuwa slaidi ya manjano.
+taja jina na noti kama "Mitandao Isiyo na Upande wowote". Pigia mstari na italiki kichwa.
+
+Kichwa cha slaidi kinahitaji kuwekwa kama "Historia ya Sanaa".
+Badilisha fonti ya mada iwe Times New Roman na uifanye kuwa ya herufi nzito.
+Andika katika "Sanaa ni aina mbalimbali za shughuli za binadamu katika kuunda vizalia vya kuona, vya kusikia au vinavyoigizwa, vinavyoonyesha mawazo dhahania ya mwandishi, au ustadi wa kiufundi, unaokusudiwa kuthaminiwa hasa kwa uzuri wao au nguvu zao za kihisia."
+Badilisha mtindo wa fonti wa maandishi kuwa Arial na uyafanye kuwa ya italiki.
+Ongeza sehemu ya kitone kwenye slaidi.
+Orodhesha vitu vifuatavyo: uchoraji, uchongaji, usanifu, muziki, na fasihi.
+Pata picha ya "Mona Lisa" na uiingiza kwenye upande wa chini. ## 0, picture, slide, bottom
+Sogeza picha kwenye kona ya juu ya slaidi. ## 0, picture, slide, top corner
+Ongeza dokezo linalosema "Mona Lisa na Leonardo da Vinci".
+
+Chagua umbo la nyota ya manjano kutoka kwenye menyu na uchore kwenye slaidi.
+Taja slaidi "Nyota" na uweke saizi ya fonti ya kichwa hadi 24.
+Ingiza maandishi yanayosema "Karibu kwenye Usiku wa Nyota" kwenye sehemu ya maudhui.
+Tafuta picha ya ulimwengu na uiweke chini ya yaliyomo. ## 0, picture, content, bottom
+Ongeza dokezo linalosema "Nyota Ing'aayo, Nyota Inayong'aa, Nyota Inayong'aa" kwenye slaidi. Badilisha kichwa ili kumbuka.
+
+Tafadhali unda slaidi mpya na ukipe jina "Maoni ya Wateja".
+Ingiza picha ya mteja mwenye furaha na usogeze hadi chini ya slaidi. ## 1, picture, slide, bottom
+Badilisha kichwa chekundu "Wateja Wetu Wanatupenda!"
+Ongeza "!!" hadi mwisho wa kichwa.
+Andika "Maoni ya Wateja" katika maudhui.
+Weka mtindo wa fonti wa maudhui kuwa "Times New Roman" na rangi ya fonti iwe kijani,
+fanya slaidi iwe na rangi ya kichwa.
+emm, sio nzuri. Badilisha rangi ya usuli iwe rangi ya yaliyomo.
+
+Tafadhali unda slaidi mpya na ukipe jina "Mpango wa Uuzaji".
+Kisha chapa "Utangulizi" kwenye sehemu ya kichwa. pigia mstari kichwa na ubadilishe fonti yake kuwa Calibri.
+Kisha, weka picha ya nembo ya kampuni kwenye kona ya chini kushoto. ## 1, picture, slide, bottom left
+Weka upana na urefu wa picha kama inchi 5 na inchi 3 na uende upande wa kulia. ## 1, picture, slide, right
+Ingiza jedwali lenye safu wima mbili na safu mlalo mbili: Kitengo na Habari, Umri na 25.
+Unda slaidi mpya na uweke usuli wa samawati kwa slaidi hii.
+Taja slaidi "Chapa za rununu"
+weka chati ya mstari na Huawei, Apple, Xiaomi katika X, 120,140 na 150 kwenye Y.
+Taja chati "Mauzo mwezi Aprili"
+
+Tafadhali unda slaidi na uipe jina "Ripoti ya Fedha ya Q2".
+badilisha mtindo wa fonti wa kichwa kuwa Arial na saizi ya fonti kuwa 20.
+Ingiza jedwali na safu wima tatu na safu moja na ingiza data ifuatayo: "Metric", "Q2", "Q3".
+Weka picha ya ripoti ya fedha. Sogeza picha kwenye upande wa juu wa jedwali. ## 1, picture, table, top
+Ingiza maudhui yafuatayo,"Ripoti ya kifedha ya Q2 inaonyesha ukuaji mkubwa wa mapato na faida iliyoboreshwa, inayotokana na hatua za ufanisi za uboreshaji wa gharama na ongezeko la mahitaji ya soko la bidhaa na huduma zetu."
+Fanya yaliyomo kuwa ya italiki na ya herufi nzito.
+Ingiza kitone kwenye maudhui.
+Badilisha rangi ya usuli ya slaidi kuwa samawati isiyokolea.
+
+Unda slaidi mpya na uipe rangi ya mandharinyuma ya kijani kibichi
+tengeneza kichwa: Ufeministi
+Weka rangi ya fonti ya kichwa chinichini na saizi ya fonti iwe 26
+Ingiza maudhui yafuatayo, "Ufeministi ni imani na utafutaji wa haki sawa, mamlaka, na fursa kwa wanawake, sambamba na za wanaume."
+Weka rangi ya fonti ya yaliyomo sawa na kichwa, weka maandishi kwa maandishi
+Unda slaidi mpya na ukipe jina" Wimbi la 3 la Mwendo wa Ufeministi", rangi sawa na slaidi iliyotangulia.
+Thibitisha kichwa na uweke mtindo wa fonti kuwa "Times New Roman". Weka rangi ya kichwa iwe samawati na saizi iwe 28
+Ingiza picha ya vita, na usogeze hadi chini ya slaidi. ## 2, picture, slide, bottom
+Weka chati ya pai yenye data ifuatayo: Marekani (40%), Urusi (30%), Ufaransa (30%).
+Ingiza meza na safu tatu na safu mbili. Safu ya kwanza inaingiza Mahali, Miji mbalimbali duniani kote.
+
+Tafadhali unda slaidi mpya na uipe jina "Uzinduzi wa Bidhaa".
+Ingiza maudhui yanayosema "Lengo". Weka dokezo lenye maudhui sawa.
+Pigia mstari yaliyomo na ubadilishe mtindo wake wa fonti kuwa Times New Roman.
+Ingiza picha ya Penseli ya Apple kwenye sehemu ya chini ya kushoto. ## 1, picture, slide, left bottom
+Sogeza picha kwenye upande wa juu wa kulia wa slaidi. ## 1, picture, slide, right top
+
+Tafadhali taja slaidi "Maendeleo ya Timu".
+Ingiza "Lengo" katika sehemu ya maudhui.
+Ingiza maudhui yafuatayo, "Lengo la shirika ni kukuza vijana na makundi yaliyotengwa ya kizazi hiki kupitia ushauri wa wafanyakazi huru wenye uzoefu."
+badilisha saizi ya fonti ya yaliyomo kuwa 18, na upigie mstari yaliyomo,
+Ingiza picha ya kikundi cha timu upande wa kulia. ## 0, picture, content, right
+
+Taja slaidi "Nguvu ya Ubunifu"
+Weka mtindo wa fonti ya kichwa kama Arial, na uweke kichwa kwa herufi nzito.
+ingiza maudhui yafuatayo, "Katika dunia ya leo inayobadilika kwa kasi, uvumbuzi una jukumu muhimu katika kukuza ukuaji wa uchumi, kuunda mandhari ya kisiasa, na kubadilisha kanuni za kitamaduni. Huchochea maendeleo, hukuza ushindani, na kufungua uwezekano mpya kwa watu binafsi na jamii."
+weka rangi ya yaliyomo kama samawati giza na uifanye iwe nafasi mbili,
+Ingiza taswira ya mandhari ya jiji ya siku zijazo inayowakilisha uvumbuzi na maendeleo kwenye slaidi ya kushoto. ## 0, picture, slide, left
+Ingiza mstatili mdogo kwenye slaidi ya kulia. ## 0, rectangle, slide, right
+Weka rangi ya maudhui ya mandharinyuma,
+Unda slaidi mpya na uweke yaliyomo, "Inafanya kazi bila busara, ikipuuza maadili ya jamii na viwango vya nje."
+kwa ujasiri na kupigia mstari yaliyomo, Taja slaidi "Hadithi za Hadithi"
+
+Weka kichwa kama: Kuishi Mjini
+Weka rangi ya usuli kama samawati hafifu
+ingiza meza yenye safu tatu na nguzo mbili. Katika safu ya pili, ingiza "Wingi", "Ubora", "Kiwango"
+ingiza pembetatu na mstatili kwenye slaidi. Pembetatu inapaswa kuwa juu ya mstatili. ## 0, triangle, rectangle, top
+songa pembetatu hadi chini ya mstatili. ## 0, triangle, rectangle, bottom
+ingiza picha ya Shanghai kwenye kona ya chini ya kushoto ya slaidi. ## 0, picture, slide, left bottom
+
+ingiza meza yenye nguzo sita na safu nne.
+ingiza Mwaka,Marafiki,Kuvunja Mbaya,Mchezo wa Viti vya Enzi,Vitu Vigeni,Taji kwenye safu ya kwanza,
+Ingiza nyota kwenye slaidi.
+Ingiza picha ya Marafiki kulia ili kuweka nyota. ## 0, picture, star, right
+Sogeza nyota hadi upande wa juu wa picha. ## 0, star, picture, top
+taja slaidi "mfululizo wa TV". italiki kichwa na upigie mstari kichwa,
+Ongeza dokezo "2023-2025" kwenye slaidi.
+
+ingiza pembetatu ya digrii 45 iliyozunguka.
+Ingiza mstatili kulia kwake. ## 0, rectangle, triangle, right
+Ingiza nyota upande wa kulia wa mstatili. ## 0, star, rectangle, right
+Ingiza mduara upande wa kulia wa nyota. ## 0, circle, star, right
+Ingiza mwito uliozungushwa wa digrii -45 upande wa kulia wa duara. ## 0, callout, circle, right
+Ingiza "maumbo" kwa vipengele vyote.
+
+Weka picha ya dunia,
+Taja slaidi kama "Mkakati wa Upanuzi wa Ulimwengu".
+Sogeza picha kwenye sehemu ya juu ya kushoto ya slaidi. ## 0, picture, slide, left top
+Ingiza maudhui yafuatayo, "Amani na Upendo"
+
+Weka chati ya pai yenye data ifuatayo, Shanghai 40%, Beijing 45%, Nyingine 5%.
+Taja slaidi "Mchango",
+ingiza maudhui yafuatayo, "Pato la taifa la Beijing kwa mwaka lilizidi yuan trilioni 4 (dola bilioni 630) kwa mara ya kwanza mwaka 2021"
+badilisha mtindo wa fonti wa yaliyomo kuwa Arial,
+Weka chati yenye data ifuatayo, 2016 6.7%, 2017 6.9%, 2018 6.6%, 2019 6.1%, 2020 2.3%, 2021 8.1%.
+Taja slaidi "Ukuaji wa Pato la Taifa",
+Ingiza chati ya upau iliyo na data ifuatayo, 2022 6.5%, 2023 6.3%, 2024 6.1%, 2025 5.9%, 2026 5.7%, 2027 5.5%.
+
+Tafadhali unda slaidi mpya na ukipe jina "Mpango wa Uuzaji".
+Ipe slaidi rangi ya usuli nyekundu.
+Tafadhali weka picha ya nembo ya kampuni juu ya kichwa. ## 0, picture, title, top
+Tafadhali fanya upana wa picha kuwa inchi 3.
+
+Weka kichwa "Queencard"
+Ialic kichwa na herufi nzito kichwa. badilisha rangi ya fonti ya kichwa kuwa zambarau.
+ipe slaidi mandharinyuma ya samawati.
+ingiza picha ya Poker kulia kwa kichwa, ## 1, picture, title, right
+sogeza picha kwenye kona ya juu ya slaidi, ## 0, picture, slide, top corner
+ingiza mduara, na uisogeze hadi kwenye kona ya kulia ya slaidi, ## 0, circle, slide, right corner
+weka upana wa duara kama inchi 6 na urefu kama inchi 4
+unda slaidi mpya na ukipe slaidi jina kama "Mfalme"
+ingiza picha ya Mfalme kwenye slaidi ya kulia. ## 1, picture, slide, right
+
+Tafadhali unda slaidi mpya na uipe jina "Rekodi ya Maeneo Uliyotembelea ya Mradi".
+Ingiza meza yenye safu na safu wima nne,
+Ingiza Januari, Februari, Machi, Aprili kwenye meza,
+Ingiza "k.m., "Uzinduzi wa programu", "Kampeni ya uuzaji inaanza""kwenye slaidi,
+Ingiza picha ya timu ya mradi chini ya jedwali, ## 1, picture, table, bottom
+Ongeza umbo la mshale, usogeze upande wa kushoto wa picha. ## 1, arrow, picture, left
+Rekebisha urefu na upana wa mshale hadi inchi 3 na inchi 3.
+
+Weka chati ya pai yenye data ifuatayo, Wanawake 40% na Wanaume 60%
+Ipe chati ya pai jina "Darasa la 1"
+Ongeza picha ya timu ya wanafunzi wanaofanya kazi pamoja,
+ingiza mstatili kwenye slaidi, sogeza mstatili hadi chini ya chati ya pai. ## 0, rectangle, pie chart, bottom
+Taja slaidi "Daraja la 1"
+weka maudhui yafuatayo, "yafuatayo yanaonyesha asilimia ya jinsia katika kila darasa"
+fafanua yaliyomo, na ufanye saizi ya fonti 20.
+ongeza dokezo "Kanuni：Eva" kwenye slaidi.
+Unda slaidi na unakili chati.
+Nakili picha.
+Nakili mstatili.
+
+Tafadhali unda slaidi mpya na ukipe jina "Ushuhuda wa Wateja".
+Ingiza"Wateja wetu wanasema nini kutuhusu" kwenye sehemu ya maudhui, kwa herufi nzito na italiki maudhui,
+Weka picha ya mteja mwenye furaha,
+Ongeza pembetatu na ujaze na rangi ya zambarau.
+Sogeza pembetatu upande wa kulia wa slaidi, ## 1, triangle, slide, right
+
+Tafadhali unda slaidi mpya na uipe jina "Mkakati".
+Andika "Mkakati wetu wa uuzaji unategemea 4 Ps: Bidhaa, Bei, Mahali, na Matangazo." katika sehemu ya yaliyomo,
+Badilisha saizi ya fonti ya yaliyomo hadi 20pt na uifanye iwe na nafasi mbili. pigia mstari kichwa na uweke yaliyomo kwa ujasiri,
+weka rangi ya fonti ya kichwa na yaliyomo kama nyekundu,
+Ongeza umbo la mstatili, na usogeze hadi upande wa kushoto wa slaidi.## 1, rectangle, slide, left
+weka picha ya nembo ya kampuni ya Apple upande wa kulia wa mstatili.## 1, picture, rectangle, right
+Sogeza picha kwenye upande wa juu wa mstatili. ## 1, picture, rectangle, top
+
+taja slaidi "Mashabiki" na ubadilishe mtindo na ukubwa kuwa Arial, ukubwa wa 24pt.
+Ongeza vidokezo na vitu 4: "Manufaa ya bidhaa zetu", "Soko lengwa", "Mkakati wa bei", "Njia za uuzaji".
+Ongeza picha ya sanamu na uweke urefu wa picha kuwa inchi 6.5
+sogeza picha kwenye upande wa chini wa slaidi, ## 0, picture, slide, bottom
+ongeza mstatili upande wa juu wa slaidi, ## 0, rectangle, slide, top
+ongeza dokezo "Mtangazaji:"Eva" kwenye slaidi.
+
+Tafadhali unda slaidi mpya na uipe jina "Takwimu za Mauzo".
+Ongeza chati ya upau iliyo na data "Januari:20, Feburuary： 30" upande wa kushoto wa slaidi.
+Ongeza chati ya mstari yenye data "Januari:10, Feburuary： 15" upande wa kulia wa slaidi.
+Ongeza kichwa kwenye chati ya mstari kama "Mauzo kwa Mwezi".
+Ongeza umbo la mstatili, usogeze hadi juu ya slaidi. ## 1, rectangle, slide, top
+chapa "Mapato yetu pia yamekuwa yakiongezeka kwa kasi katika kipindi cha miezi 6 iliyopita" katika sehemu ya maudhui,
+
+Tafadhali unda slaidi mpya na uweke kichwa "Ripoti ya Mauzo",
+ingiza meza yenye safu mbili na safu tano.
+Ongeza data ifuatayo kwenye meza: "Bidhaa", "Vitengo Vilivyouzwa", "Mapato", "Gharama", "Faida".
+Ingiza data ifuatayo kwenye jedwali: "Kompyuta", "1000", "$1000000", "$500000", "$500000".
+Jedwali lingine 1 * 5 na data: "Printer", "500", "$100000", "$50000", "$50000".
+
+ingiza picha ya anga ya jiji juu. ## 0, picture, slide, top
+weka upana wa picha kama inchi 6 na urefu kama inchi 4
+Sasa, ongeza kichwa "Maisha ya Jiji".
+sogeza picha kwenye kona ya kushoto ya slaidi. ## 0, picture, slide, left corner
+Badilisha ukubwa wa fonti ya kichwa hadi 20 na uweke kichwa kwa herufi nzito.
+
+Weka chati ya mstari kulingana na data ifuatayo, Tamasha 40%, Albamu 30%, Kitabu 30%.
+Taja slaidi kama "Nguvu ya Fandom"
+Ingiza "Mashabiki wana jukumu muhimu katika kuchagiza mafanikio na athari za aina mbalimbali za burudani, kuanzia filamu na vipindi vya televisheni hadi michezo na muziki. "katika sehemu ya maudhui,
+weka mtindo wa fonti wa yaliyomo kama Arial, Badilisha saizi ya fonti ya yaliyomo kuwa 20,
+Ongeza mshale kwenye slaidi, na usogeze upande wa juu wa slaidi.## 0, arrow, slide, top
+Ongeza mduara kwenye slaidi, na uisogeze hadi chini ya slaidi.## 0, circle, slide, bottom
+Sogeza juu. ## 0, circle, slide, top
+
+Weka mandhari ya slaidi kuwa "Tencent".
+ingiza mstatili, usogeze hadi upande wa juu wa slaidi, ## 0, rectangle, slide, top
+zungusha mstatili na digrii 90,
+Badilisha fonti ya kichwa iwe Georgia na uifanye kuwa italiki.
+Ingiza maandishi yafuatayo katika sehemu ya maudhui:"Tencent ni jumuiya ya kimataifa ya Kichina inayoongoza iliyoanzishwa mwaka wa 1998. Inataalamu katika huduma na bidhaa mbalimbali zinazohusiana na mtandao, ikiwa ni pamoja na mitandao ya kijamii, michezo ya kubahatisha mtandaoni, biashara ya mtandaoni, kompyuta ya wingu, na akili bandia. "
+Rekebisha saizi ya fonti ya yaliyomo hadi 24 kwa mwonekano bora. Badilisha mtindo wa fonti wa yaliyomo kuwa "Arial".
+
+Tumia mandharinyuma ya kijani kwenye slaidi ili kuendana na chapa ya Tencent.
+Ingiza nembo ya Tencent kama picha kwenye slaidi.
+Weka picha kwa upana wa inchi 6.5,
+Ingiza chati ya mstari yenye utendakazi wa miundo: Model A 40%, Model B 30%, Model C 30%.
+pia chati ya bar kwa hili.
+
+tafadhali unda slaidi mpya na ukiita jina lake kama "Asili ya Waingereza" na utoe ufafanuzi wa kichwa.
+Sawa, kisha ingiza hii katika sehemu ya yaliyomo:"Asili ya Uingereza inaweza kufuatiliwa hadi wakati wa mfalme wa Anglo-Saxon Athelstan, ambaye mwanzoni mwa karne ya 10 alipata utii wa falme jirani za Celtic na kuwa "wa kwanza." kutawala yale ambayo hapo awali wafalme wengi walishiriki kati yao,"
+Hiyo inaonekana kama nzuri. Lakini saizi ya fonti ya maneno ni ndogo sana. Badilisha hadi 20.
+Badilisha rangi ya usuli wa slaidi hadi kijani kibichi na saizi ya fonti mara mbili.
+
+Sasa, ingiza umbo la mstatili, usogeze hadi upande wa kulia wa slaidi.## 0, rectangle, slide, right
+Tafadhali badilisha rangi ya kujaza ya mstatili iwe ya manjano.
+Weka kichwa cha slaidi kwa "Vinda".
+Ingiza maandishi yafuatayo kwenye sehemu ya maudhui:"Vinda Group ni kampuni inayoongoza ya bidhaa za usafi iliyoanzishwa mwaka wa 1985. Inataalamu katika utengenezaji na usambazaji wa karatasi za tishu, bidhaa za usafi zinazoweza kutumika, na bidhaa za utunzaji wa kibinafsi."
+Tafadhali badilisha saizi ya fonti ya maandishi hadi 20 na rangi yake iwe kijani. Fanya mtindo wa fonti kuwa sawa na kichwa.
+weka nafasi mbili kwenye slaidi hii.
+
+Sasa, ongeza kichwa cha slaidi "Mapenzi Yangu".
+Tafadhali weka picha ya gitaa juu kulia. ## 0, picture, slide, right top
+Andika "Kucheza gitaa ni mojawapo ya mambo ninayopenda." katika sehemu ya yaliyomo.
+Tafadhali badilisha saizi ya fonti ya maandishi hadi 24 na rangi yake iwe zambarau.
+
+Tafadhali unda slaidi mpya na uipe jina "Mpango wa Uuzaji."
+Tafadhali ingiza kichwa katika sehemu ya maudhui.
+Badilisha mtindo wa fonti wa maudhui kuwa fonti safi na ya kitaalamu kama vile "Calibri".
+Ingiza nembo ya Vinda kama picha kwenye slaidi.
+Sogeza picha kwenye kona ya kushoto ya slaidi. ## 1, picture, slide, left corner
+
+Tafadhali unda slaidi mpya na uongeze kichwa "Kampeni ya Uuzaji" ya ukubwa wa 20.
+Sawa, sasa weka picha ya mteja anayetabasamu. Sogeza picha kwenye sehemu ya juu ya kushoto ya slaidi. ## 1, picture, slide, left top
+Hiyo ni nzuri, lakini picha ni kubwa sana. Tafadhali rekebisha ukubwa wake uwe inchi 5 kwa urefu na inchi 6 kwa upana.
+Sawa, sasa ongeza vidokezo vya manufaa ya kampeni ya uuzaji, ikiwa ni pamoja na faida, sifa, uorodheshaji.
+tafadhali ongeza saizi ya fonti ya yaliyomo kwenye slaidi hadi 20.
+
+Taja slaidi kama "Aina za Betri".
+Kichwa kinapaswa kuwa na herufi nzito na italiki.
+Sasa ongeza picha ya "Bidhaa A" .
+Hiyo ni nzuri, sasa sogeza picha upande wa kushoto wa slaidi. ## 0, picture, slide, left
+Ingiza jedwali lenye safu wima mbili na safu mlalo nne, ikiwa na data ifuatayo: Aina ya Betri, Maelezo katika safu ya kwanza, Betri za Alkali na za kawaida za kaya zenye maisha marefu ya rafu katika safu ya pili, Betri za Lithium-ion na Betri zinazoweza Kuchajiwa tena zinazotumika katika vifaa vya kielektroniki kwenye safu ya tatu, na Nickel-cadmium, Betri zinazoweza Kuchajiwa na msongamano mkubwa wa nishati katika safu ya nne.
+
+Ingiza chati ya pai ukitumia data ifuatayo:Chapa A: 30%;Chapa B: 25%;Chapa C: 20%;Chapa D: 15%;Bia Nyingine: 10%
+Taja chati ya pai "Bidhaa za Hali ya Hewa"
+Ingiza "slaidi hii inajumuisha maelezo mafupi au mambo muhimu kuhusu kila chapa"katika sehemu ya maudhui,
+ingiza picha ya Haier kwenye slaidi ya chini, ## 0, picture, slide, bottom
+sisitiza yaliyomo, na ubadilishe rangi ya fonti ya yaliyomo kuwa kijani kibichi,
+ingiza pembetatu na mstatili kwenye slaidi,
+sogeza pembetatu kwa upande wa chini wa mstatili. ## 0, triangle, rectangle, bottom
+zungusha mstatili na digrii 45.
+
+Andika "Timu Yetu" kama kichwa.
+Ingiza picha ya timu na ubadili ukubwa wake hadi inchi 4 kwa upana na inchi 3 kwa urefu.
+Zungusha picha kwa digrii 45.
+sogeza picha kwenye sehemu ya juu ya kushoto ya slaidi. ## 0, picture, slide, left top
+Badilisha mtindo wa fonti wa kichwa kuwa Calibri na uongeze ukubwa wa fonti hadi 28.
+
+Weka mandhari ya slaidi kuwa "Kadi ya Kitambulisho"
+Weka chati mpya na uchague aina ya chati yenye data ifuatayo, Fujian, Shanghai, Beijing katika X na 120, 140, 110 katika Y.
+Taja kichwa cha chati kuwa "Uendeshaji wa Kadi ya Kitambulisho".
+Ingiza picha kuhusu kadi ya kitambulisho kwenye slaidi, isogeze kulia. ## 0, picture, slide, right
+Badilisha mtindo wa fonti wa kichwa cha slaidi hadi Verdana na uongeze ukubwa wa fonti hadi 32.
+Ipe slaidi rangi ya mandharinyuma ya zambarau.
+
+Andika "Ripoti ya Mauzo" kama kichwa.
+Badilisha fonti ya kichwa kuwa Arial. Fanya saizi ya fonti ya kichwa iwe alama 48. Weka kichwa kiwe kwa ujasiri.
+Ongeza jedwali jipya lenye safu wima tatu na safu mlalo tano.
+Ongeza habari ifuatayo kwenye safu ya kwanza: "Mkoa", "Mauzo", "Ukuaji". Ongeza maelezo yafuatayo kwenye safu mlalo nne zinazofuata: "Kaskazini", "$50,000", "5%", "East", "$75,000", "10%", "South", "$45,000", "3%", " Magharibi", "$ 60,000", "8%".
+Weka rangi ya usuli wa slaidi kuwa kijani.
+Ingiza maandishi yafuatayo katika sehemu ya maudhui:"Jina: John Doe,Tarehe ya Kuzaliwa: Januari 1, 1990,Jinsia: Mwanaume,Nambari ya Kitambulisho: 123456789,Mamlaka ya Utoaji: Idara ya Magari,Tarehe ya Kuisha Muda wake: Desemba 31, 2023"
+Ingiza picha ya ufuo kwenye slaidi.
+ingiza mshale kwenye slaidi.
+Sogeza picha hadi upande wa juu wa mshale. ## 0, picture, arrow, top
+
+ongeza umbo jipya la mstatili.
+Badilisha rangi ya kujaza ya mstatili hadi machungwa.
+weka upana wa mstatili kama inchi 6 na urefu kama inchi 5
+Andika "Taarifa Muhimu" kwa herufi nzito kama kichwa.
+Rekebisha saizi ya fonti ya kichwa hadi 24 na ubadilishe rangi ya fonti kuwa kijani.
+Ongeza orodha ya pointi na vitu hivi, sufuria, mkasi, scoup.
+Ongeza picha ya alama ya kusisimua kwenye slaidi.
+sogeza picha kwenye kona ya juu ya slaidi. ## 0, picture, slide, top corner
+Unda slaidi mpya na ingiza mstatili upande wa kushoto. ## 1, rectangle, slide, left
+Taja slaidi mpya kama "Maelezo ya Ziada".
+
+Andika "Hizi hapa ni baadhi ya takwimu kuhusu ukuaji wa kampuni yetu" katika sehemu ya maudhui.
+Badilisha rangi ya fonti ya yaliyomo kuwa zambarau.
+Ongeza jedwali jipya na safu wima tatu safu moja.
+Ongeza" mapato, faida, na idadi ya wafanyikazi" kwenye jedwali.
+
+Ingiza taswira ya viatu vya Ongea kwenye slaidi.
+Ongeza maudhui yafuatayo kwenye slaidi: "Converse ni chapa maarufu ya viatu inayojulikana kwa viatu vyake vya kitabia na mtindo wa kawaida."
+Badilisha saizi ya fonti ya yaliyomo hadi 18 na rangi ya fonti iwe nyekundu.
+
+Ongeza maudhui yafuatayo kwenye slaidi: "Juisi ya limau ni kinywaji kinachoburudisha na kitamu kilichotengenezwa kwa ndimu zilizokamuliwa hivi karibuni. Ina vitamini C nyingi na hutoa ladha ya machungwa."
+Taja slaidi mpya kwa "juisi ya limao".
+Unda jedwali lenye safu wima 3 na safu 2. Ingiza "Bidhaa", "Bei", na "Vipengele" kwenye safu mlalo ya kwanza. Ingiza "A", "B", "C" kwenye safu ya pili.
+Ingiza taswira ya maji ya limao mapya yaliyobanwa kwenye upande wa kulia wa jedwali. ## 0, picture, table, right
+Ongeza "Ukurasa wa 1" kwenye slaidi.
+
+Ingiza picha ya ufuo juu kushoto. ## 0, picture, slide, top left
+Ongeza "Hifadhi likizo yako leo!" kwenye sehemu ya maudhui.
+Ongeza kichwa "Muda wa Likizo".
+Badilisha ukubwa wa fonti na mtindo wa zote hadi 18 na Times New Roman.
+Ongeza orodha ya risasi na vitu vifuatavyo: "Kupumzika kwenye pwani", "Kuogelea baharini", "Kula dagaa ladha".
+
+Tafadhali unda slaidi mpya na ukipe jina "Chili".
+Badilisha rangi ya usuli ya slaidi kuwa nyekundu.
+Ingiza picha ya bakuli ladha ya pilipili kwenye slaidi.
+Ongeza maudhui yafuatayo kwenye slaidi: "Chili ni sahani ya viungo na ladha iliyofanywa kwa mchanganyiko wa nyama, maharagwe, na viungo mbalimbali. Inajulikana kwa ladha yake tajiri na joto la kuridhisha."
+
+Taja slaidi "Chili". Ingiza picha ya mandhari ya Chili kwenye slaidi.
+Unda jedwali lenye safu wima 4 na safu 3. Ingiza "Kiungo", "Wingi", "Kiwango cha Spiciness", na "Asili" kwenye safu mlalo ya kwanza. Ingiza "Nyama ya Ng'ombe", "paundi 2", "Kati", na "Mexico" kwenye safu ya pili. Weka "Maharagwe", "1 can", "Mild", na "United States" kwenye safu mlalo ya tatu. Ingiza "Nyanya", "3", "Moto", na "Hispania" kwenye safu ya nne.
+Ongeza kidokezo "Ukurasa wa 2" ili kuonyesha nambari ya slaidi.
+
+ingiza picha ya mtu anayekula hamburger chini. ## 0, picture, slide, bottom
+Fanya kichwa cha slaidi kiwe "Makadirio ya Mauzo ya Q3."
+Ongeza maudhui yafuatayo kwenye slaidi: "Makadirio ya mauzo ya Q3 yanaonyesha ukuaji thabiti wa mapato na ugavi wa soko. Kwa mikakati inayolengwa ya uuzaji na uboreshaji wa bidhaa, tunatarajia ongezeko kubwa la utendaji wa mauzo."
+
+Kichwa hakina maelezo ya kutosha, tafadhali kibadilishe kuwa "Mkakati wa Uuzaji".
+Nzuri, andika "Mkakati wa uuzaji wa kampuni yetu ni kuzingatia utangazaji wa mitandao ya kijamii na uuzaji wa ushawishi".
+Ifuatayo, ongeza orodha ya vidokezo vya Instagram, Facebook, na Twitter.
+Tafadhali weka picha ya mtu anayetumia simu mahiri.
+Ongeza umbo la mstatili juu ya picha. ## 0, rectangle, picture, top
+Unda jedwali lenye safu wima 4 na safu 6. Ingiza "Mwezi", "Mapato", "Vitengo Vilivyouzwa", na "Kiwango cha Ukuaji" kwenye safu mlalo ya kwanza.
+
+Tafadhali unda slaidi mpya na uipe jina "Uzinduzi wa Bidhaa".
+Ongeza kichwa kwenye slaidi , "Tunatanguliza bidhaa zetu mpya".
+Weka picha ya bidhaa,
+Sogeza picha kwenye upande wa chini wa slaidi, ## 1, picture, slide, bottom
+ipe slaidi usuli wa zambarau na picha iwe juu. ## 1, picture, slide, top
+
+Ipe slaidi jina kama "Gundua Uchina".
+Weka ramani ya Uchina ili kuonyesha maeneo mbalimbali ya utalii nchini humo.
+Sogeza picha ya Uchina kwenye kona ya kushoto ya slaidi. ## 0, picture, slide, left corner
+Ongeza maudhui yafuatayo kwenye slaidi: "China ni kivutio cha kuvutia cha watalii kinachojulikana kwa historia yake tajiri, utamaduni mchangamfu, na mandhari ya kuvutia. Kutoka kwa Ukuta Mkuu wa kitabia hadi jiji kuu la Shanghai lenye shughuli nyingi, kuna jambo kwa kila msafiri katika eneo hili kubwa na la kuvutia. nchi mbalimbali."
+Unda jedwali lenye safu wima 5 na safu 8. Weka "Mkoa", "Vivutio Maarufu", "Wastani wa Joto", "Nambari za Watalii", na "Msimu Unaopendekezwa" kwenye safu mlalo ya kwanza.
+Tafadhali unda slaidi mpya na uipe jina "Rekodi ya Maeneo Uliyotembelea ya Mradi".
+ingiza nyota kwenye slaidi iliyoachwa baada ya kichwa. ## 1, star, slide, left
+Sogeza nyota kwenye upande wa kulia wa slaidi. ## 1, star, slide, right
+
+Taja jina kama "OPPO". Weka rangi ya fonti iwe nyekundu, saizi ya fonti iwe 20, na uweke mstari chini, na uweke kichwa kwa herufi nzito.
+Ingiza maudhui yafuatayo kwenye sehemu ya maudhui: "OPPO ni mtengenezaji maarufu wa simu mahiri anayejulikana kwa ubunifu wake na teknolojia ya kisasa.
+Weka picha ya simu mahiri ya OPPO ili kuonyesha chapa, inapaswa kuachwa kwa maudhui. ## 0, picture, content, left
+unda slaidi mpya, na uipe jina "Xiaomi"
+Unda jedwali na safu wima 4 na safu 3. Katika safu ya kwanza, ingiza "Bidhaa", "Bei", "Sifa", na "Upatikanaji" kwenye safu ya kwanza. Katika safu ya pili, ingiza data ifuatayo ya bidhaa za Xiaomi: "Mi 11", "$699", "Snapdragon 888, 108MP camera", "Global".Katika safu ya tatu, weka data ifuatayo ya bidhaa za Xiaomi: "Redmi Note 10", "$249", "Onyesho la AMOLED, kamera ya 48MP ", "Ulimwenguni".
+
+Tafadhali unda slaidi mpya na uipe jina "Muhtasari wa Bidhaa".
+Ingiza jedwali lenye safu wima 3 na safu 4 kwenye slaidi. Katika safu ya kwanza, chapa "Jina la Bidhaa", "SKU", "Bei", na "Kiasi".
+Weka rangi ya mandharinyuma kama kijani.
+
+Weka rangi ya usuli ya samawati kwa slaidi hii. Weka kichwa kama "Uandishi wa Utafiti".
+Ingiza maudhui yafuatayo kwenye slaidi: "Uandishi wa utafiti unahusisha uchunguzi na uwekaji kumbukumbu wa mada ili kuchangia maarifa na maarifa mapya kwenye nyanja fulani."
+Badilisha rangi ya fonti ya yaliyomo iwe ya manjano na saizi ya fonti hadi 18.
+Saizi ya fonti mara mbili.
+Unda chati ya mstari, ukitumia data ifuatayo, 2016, 2017,2018 kama data katika X, 120,140,160 kama data katika Y.
+Taja chati ya mstari "Machapisho kwa Wakati".
+Ingiza taswira ya jalada la maandishi ya utafiti. Badilisha rangi ya mandharinyuma iwe sawa na ile iliyotangulia.
+
+Unda slaidi mpya na uongeze kichwa kwenye slaidi inayosomeka "Ratiba mwezi Machi".
+Weka ukubwa wa fonti ya kichwa kuwa 28 na rangi iwe samawati iliyokolea.
+Ingiza meza na safu wima nne na safu tatu. Safu ya kwanza ni "Tarehe", "Kazi", "Saa ya kuanza", "Saa ya mwisho". Safu ya pili ni "Machi 15", "Mkutano na wadau"," 9:00 AM", na "10:30AM". Safu mlalo ya mwisho ni "tarehe 23 Machi", "Mapitio na sasisho la mradi"," 2:00 PM", na "4:00PM"
+Weka picha ya kalenda. Isogeze upande wa juu wa meza.
+
+Unda slaidi mpya na uipe jina "Faida za Kutafakari".
+Weka picha ya mtu anayetafakari. Isogeze chini ya slaidi. ## 1, image, slide, bottom
+Andika "Kutafakari ni mbinu rahisi lakini yenye nguvu ambayo inaweza kukusaidia kufikia hali ya amani ya ndani na utulivu." katika sehemu ya yaliyomo.
+Badilisha ukubwa wa fonti ya maudhui hadi 24 na uweke mtindo wa fonti kuwa Times New Roman.
+Ingiza mstatili. Isogeze upande wa kulia wa picha. ## 1, rectangle, image, right
+Badilisha rangi ya mstatili hadi kijani kibichi.
+Unda slaidi nyingine na rangi ya usuli inapaswa kuwa samawati hafifu.
+Ingiza meza na safu mbili na safu tatu.
+Katika safu wima ya kwanza, andika "Kutafakari kwa Umakini", "Kutafakari kwa Kuvuka mipaka", na "Kutafakari kwa Kuchanganua Mwili". Katika safu ya pili, ingiza "Kutafakari husaidia kutuliza akili na kupunguza viwango vya mfadhaiko, kukuza utulivu.","Mazoezi ya kutafakari ya mara kwa mara huongeza uwezo wa kuzingatia na kuzingatia.", na "Kutafakari kunakuza utulivu wa kihisia, kuzingatia, na ustawi wa jumla. "
+
+Unda slaidi mpya na uipe mandharinyuma ya kijani kibichi.
+Ingiza picha ya kipande cha nyasi na ufanye upana na urefu wa 6.5 na 5.5.
+Ongeza kichwa kwenye slaidi na uiite "Kazi za Misitu." Badilisha rangi ya fonti iwe nyekundu iliyokolea na saizi ya fonti iwe 40.
+Ingiza umbo la "mshale" wa manjano.
+Sogeza mshale upande wa kulia wa picha. ## 1, arrow, picture, right
+
+Weka chati ya pai. "chakula, nyumba, usafiri, burudani, wengine" ni jamii, na 40%,20%,15%,10%,15% ni asilimia.
+Ingiza meza na safu mbili na safu sita. Safu ya kwanza inaandika Jamii na Asilimia.
+Sogeza jedwali hadi upande wa chini wa chati ya pai. ## 0, table, pie chart, bottom
+Taja slaidi "Matumizi Yangu Mei 2023"
+Italic kichwa.
+
+Unda slaidi tano na kila moja utumie mandharinyuma ya manjano.
+Katika slaidi ya kwanza, taja jina "Likizo Yangu ya Majira ya joto" na ubadilishe mtindo wa fonti kuwa "Microsoft JhengHei".
+Katika slaidi ya pili, ingiza picha ya familia.
+Katika slaidi ya tatu, ingiza chati ya mwambaa. "Mauzo", "Gharama", "Faida", "Uwekezaji" ni data kwenye X, 120, 80,40,60 ni data kwenye Y.
+Katika slaidi ya nne, ingiza maudhui yafuatayo, "Wakati wa likizo yangu ya kiangazi, nilianza tukio lisilosahaulika. Nilichunguza maeneo mapya, nikizama katika joto la machweo ya dhahabu na kustarehe kwenye fuo za mchanga."
+Katika slaidi ya tano, ingiza meza na safu mbili na safu moja. Jaza meza na "Mauzo" na "Gharama". Saizi ya herufi inapaswa kuwa 26.
+
+Unda slaidi na upe kichwa "Mpango wa Biashara".
+Weka picha ya balbu. Isogeze upande wa kushoto wa slaidi. ## 1, picture, slide, left
+Aina "Ujasiriamali ni mchakato wa kubuni, kuanzisha na kuendesha biashara mpya, ambayo mara nyingi ni biashara ndogo. Watu wanaounda biashara hizi huitwa wajasiriamali." katika sehemu ya yaliyomo.
+Weka mtindo wa fonti kama "Georgia" na saizi ya fonti kama 10.
+Badilisha rangi ya usuli ya slaidi kuwa kijani.
+Ongeza sura ya duara kwenye slaidi.
+Sogeza mduara upande wa kulia wa slaidi. ## 1, picture, slide, right
+Sogeza hadi kwenye slaidi 0 na uandike "Mkakati wa Uuzaji" katika sehemu ya maudhui.
+Ingiza jedwali lenye safu 3 na safu wima 4. Safu ya kwanza inaandika "Kampeni ya Mitandao ya Kijamii", "Ushirikiano wa Washawishi" na "Uuzaji wa Barua pepe"
+Safu ya nne inaandika $10000, $15000, $5000.
+Ongeza dokezo "2023/5".
+
+Taja slaidi "Hadhira Lengwa" na uifanye mtindo wa fonti "Arial"
+Sogeza kichwa kwenye kona ya kulia ya slaidi. ## 0, title, slide, right corner
+Ingiza picha kuhusu Gen Z na uweke upana wake 4.
+Sogeza picha kwenye sehemu ya chini ya kushoto ya slaidi.## 0, picture, slide, left bottom
+Ingiza maudhui yafuatayo katika sehemu ya maudhui, "Kuelewa na kulenga hadhira inayofaa ni muhimu kwa kuwasilisha ujumbe maalum na kuongeza athari za juhudi za uuzaji."
+
+Ingiza kichwa "Mambo muhimu ya uundaji wa kiwango kikubwa" na uweke saizi ya fonti hadi 24.
+Ingiza picha ya mtandao usio na upande. Isogeze hadi upande wa chini wa slaidi. ## 0, picture, slide, bottom
+Ingiza meza na safu mbili na safu moja. Jaza meza na "Nambari" na "Kumbuka".
+Sogeza meza hadi juu. ## 0, table, slide, top
+
+Ingiza picha ya mnara mbovu na unaotisha. Isogeze hadi sehemu ya juu ya kulia ya slaidi. ## 0, picture, slide, right top
+Kichwa cha slaidi kinapaswa kuwa "The Ultimate Heist".
+Unda mstatili. Sogeza mstatili hadi juu ya kichwa. ## 0, rectangle, title, top
+Badilisha rangi ya fonti ya kichwa hadi kijani kibichi na saizi ya fonti iwe 28.
+Badilisha mtindo wa fonti kuwa "Microsoft New Tai Lue".
+Ipe slaidi rangi ya mandharinyuma ya samawati hafifu.
+
+Ingiza jedwali lenye safu wima 4 na safu 2. Safu ya kwanza inaandika Kazi, Kipaumbele, Wakati wa Kuanza, Wakati wa Kuisha. Safu ya pili inaandika Upangaji wa Mradi, Juu, 9:00 AM, 10:30 AM.
+Andika maudhui "Udhibiti wa wakati unaofaa ni ujuzi muhimu kwa mafanikio katika mipangilio ya kibinafsi na ya kitaaluma."katika sehemu ya maudhui.
+Pigia mstari na italiki maudhui.
+Sogeza jedwali hadi chini ya maudhui. ## 0, table, content, bottom
+Ingiza picha ya saa kwenye slaidi.
+Ongeza kidokezo "Mtangazaji: Eva".
+
+Unda slaidi mpya na uongeze kichwa "Wasifu wa Kampuni"
+Ingiza maandishi yafuatayo kwenye sehemu ya yaliyomo: "Kampuni yetu ilianzishwa mnamo 2005 kwa lengo la kutoa bidhaa na huduma za hali ya juu kwa wateja wetu. Tangu wakati huo, tumekua mtoaji anayeongoza wa suluhisho za ubunifu kwa anuwai ya tasnia. . Timu yetu ya wataalamu imejitolea kutoa ubora katika kila jambo tunalofanya."
+Badilisha mtindo wa fonti wa kichwa kuwa "Calibri Light" na saizi ya fonti iwe 40
+Ongeza picha ya nembo ya kampuni kwenye slaidi ya kulia ## 1, picture, slide, right
+Badilisha ukubwa wa picha ili urefu wake ni inchi 2 na upana wake ni inchi 3. Isogeze kwenye slaidi ya kushoto. ## 1, picture, slide, left
+Sogeza picha kwenye kona ya kushoto ya slaidi.## 1, picture, slide, left corner
+Unda slaidi mpya na uipe rangi ya mandharinyuma ya samawati.
+Ongeza maandishi yafuatayo katika sehemu ya maudhui: "Kuwa kiongozi katika uvumbuzi na uendelevu, kutoa thamani kwa wadau wetu na kuathiri vyema ulimwengu."
+Pigia mstari yaliyomo na uweke yaliyomo katika nafasi mbili.
+Ingiza meza na safu mbili na safu moja. Ingiza data ifuatayo kwenye jedwali, "A-72", "C-71"
+Ingiza meza na safu mbili na safu moja. Ingiza data ifuatayo kwenye jedwali, "B-72", "D-71"
+
+Tafadhali unda slaidi mpya na uipe jina "Data ya Mauzo"
+Ingiza jedwali lenye safu wima 6 na safu mlalo 15 kwenye sehemu ya maudhui ya slaidi
+Jaza jedwali na data ifuatayo: "Bidhaa", "Mauzo ya Januari", "Mauzo ya Februari", "Mauzo ya Machi", "Jumla ya Mauzo", na "Mauzo ya Wastani" katika safu ya kwanza, na "iPhone", "22" , "13","15","17","12"katika safu ya pili.
+Sogeza jedwali kwenye kona ya juu kushoto ya slaidi. ## 1, table, slide, left corner
+Hatimaye, ongeza dokezo "Chanzo cha data: Idara ya Mauzo" kwenye slaidi.
+Unda slaidi mpya na unakili jedwali.
+
+Ongeza kichwa "Mikakati ya Uuzaji"
+Badilisha fonti ya kichwa kuwa "Arial Black"
+Ongeza sehemu ifuatayo ya maudhui: "Uboreshaji wa Injini ya Utafutaji (SEO)", Uuzaji wa Mitandao ya Kijamii (SMM)", "Utangazaji wa Barua pepe", "Utangazaji wa Maudhui", na "Pay-Per-Click Advertising (PPC)".
+Badilisha rangi ya fonti ya yaliyomo iwe samawati iliyokolea
+Maudhui hayaonekani. Badilisha rangi ya yaliyomo kuwa ya kijani.
+Ingiza picha ya kidole gumba chini ya maudhui. Weka upana wake kama inchi 5. ## 0, picture, content, bottom
+
+Ingiza kichwa "The Grand Canyon" na uifanye kuwa ya italiki.
+Fanya fonti kuwa kubwa zaidi. Labda saizi ya herufi inapaswa kuwa 30.
+Badilisha mtindo wa fonti wa kichwa kuwa "Times New Roman"
+Ingiza picha ya Grand Canyon kwenye sehemu ya maudhui ya slaidi
+Sogeza picha upande wa kulia wa kichwa. ## 0, picture, title, right
+Badilisha ukubwa wa picha ili iwe na urefu wa inchi 4 na upana wa inchi 6
+Unda meza yenye safu wima nne na safu 2. Ingiza "Guangdong", "Beijing", "Shanghai" na "Hainan" katika safu ya kwanza. Ingiza "34%", "36%", "20%", "10%" katika safu ya pili.
+Ingiza chati ya pai kulingana na data kwenye jedwali, yaani ["Guangdong","Beijing", "Shanghai" na "Hainan"], ["34%", "36%", "20%", "10 %"]
+Sogeza chati ya pai chini ya jedwali. ## 0, pie chart, table, bottom
+Weka chati ya upau iliyo na data sawa.
+Hatimaye, ongeza dokezo "Chanzo cha picha: Huduma ya Hifadhi ya Kitaifa" .
+
+Tafadhali unda slaidi mpya na uipe jina "Ulinganisho wa Bidhaa"
+Ingiza jedwali lenye safu wima 2 na safu 5. Ingiza data ifuatayo kwenye jedwali, "Smartphone (Apple iPhone 13)"，"Laptop (Dell XPS 13)"，"Smartwatch (Apple Watch Series 7)"，"Vipokea sauti (Sony WH-1000XM4)"，"Kamera (Canon EOS R5)"，"Televisheni (Samsung QLED Q90T)"，"Gaming Console (PlayStation 5)"，"Fitness Tracker (Fitbit Charge 4)"，"Earbuds Zisizotumia Waya (AirPods Pro)"，"Tablet (iPad Pro)".
+Sogeza kichwa kwenye kona ya chini ya slaidi. ## 1, title, slide, bottom corner
+Hatimaye, ipe slaidi rangi ya mandharinyuma ya samawati.
+
+Tafadhali unda slaidi mpya na uipe jina "Ripoti ya Mauzo ya Kila Mwezi"
+Ingiza chati ya pau kwenye sehemu ya maudhui ya slaidi yenye data ifuatayo: "Januari: $10,000", "Februari: $12,000", "Machi: $15,000", "Aprili: $18,000", "Mei: $20,000", "Juni: $25,000 ", "Julai: $28,000", "Agosti: $30,000", "Septemba: $32,000", "Oktoba: $35,000", "Novemba: $40,000", "Desemba: $45,000"
+Taja chati kama "Mauzo Yangu ya Kila Mwezi 2023"
+Sogeza chati hadi upande wa juu wa slaidi. ## 1, chart, slide, top
+Ingiza maandishi yafuatayo katika sehemu ya maudhui: "Ripoti ya mauzo ya kila mwezi inaonyesha ongezeko kubwa la mapato."
+Hatimaye, ongeza dokezo "Iliyowasilishwa na: xxx" kwenye slaidi.
+
+Badilisha rangi ya usuli iwe nyekundu isiyokolea na uweke picha ya sitroberi.
+Unda slaidi tatu mpya. Na utaje majina yao: "Upeo wa Mradi", "Ratiba ya Mradi", na "Bajeti ya Mradi" mtawalia.
+Weka kijani hafifu, samawati hafifu, na zambarau kwa kila slaidi mtawalia.
+Ongeza maandishi yafuatayo kwenye sehemu ya maudhui katika slaidi ya 1: "Mradi wetu unahusisha kutengeneza programu mpya ya programu kwa ajili ya wateja wetu. Programu itaboresha michakato yao ya biashara na kuboresha msingi wao."
+Ingiza jedwali lenye safu wima 6 na safu 2 kwenye slaidi ya pili. Na ongeza data ifuatayo kwenye jedwali: Mwezi, Kazi, Tarehe ya Kuanza, Tarehe ya Mwisho, Maendeleo, na Maoni katika safu mlalo ya kwanza.
+Tengeneza chati ya mstari, na data ni [2016,2017,2018,2019], [10,12,15,11]. Sogeza upande wa kushoto wa meza. ## 1, line chart, table, left
+Ingiza umbo la nyota kwenye slaidi. Isogeze kwenye kona ya juu ya slaidi. ## 1, star, slide, top corner
+Sogeza hadi slaidi ya 2, na ufanye kichwa chake "Rekodi ya Maeneo Uliyotembelea ya Mradi" kupigwa mstari
+Hamishia kwenye slaidi ya 3, weka maudhui yafuatayo, "Gharama za Wafanyakazi: Hii inajumuisha gharama zinazohusiana na washiriki wa timu ya mradi, kama vile mishahara, mishahara, marupurupu na gharama za mafunzo."
+Badilisha mtindo wa fonti wa yaliyomo kuwa "Arial"
+Ongeza dokezo "Asante!" kwa faili.
+
+Taja slaidi "Rekodi ya Maeneo Uliyotembelea ya Kampuni"
+Ingiza mstatili na kisha uzungushe kulia na digrii 45
+Sogeza mstatili hadi sehemu ya chini ya kulia ya slaidi.## 0, rectangle, slide, right bottom
+Tengeneza rangi ya mandharinyuma ya samawati nyepesi ya slaidi
+Ingiza meza na safu wima nne na safu mbili. Ongeza tarehe nne zifuatazo: "1980", "1990", "2000", "2010" katika safu ya kwanza.
+Ongeza matukio manne yafuatayo: "Kampuni iliyoanzishwa", "Kampuni ilihamia jengo jipya", "Kampuni ilienda kwa umma", "Kampuni iliyopatikana na mshindani" katika safu ya pili.
+
+Weka picha ya nembo ya kampuni ya Google chini. ## 0, picture, slide, bottom
+Kisha, jina kichwa kama "Hitimisho" na italikike
+Hiyo inaonekana sawa. Ingiza maudhui, "Tunazidi kuwa moja, idadi ya watu duniani kote - tunachanganya kwa uhuru. Hilo litaunda ulimwengu wa mchanganyiko - wenye ngozi ya rangi ya hudhurungi, wenye nywele nyeusi, Afro-Euro-Australo-Americo-Asians, rangi ya ngozi zao na sura zao za usoni. kuelekea wastani wa kimataifa."
+Pangilia yaliyomo kulia
+Ingiza mstatili kwenye slaidi na uweke urefu wake kama 5.
+Kisha, songa mstatili hadi chini ya slaidi. ## 0, rectangle, slide, bottom
+
+tafadhali unda slaidi mpya na uweke kichwa kama "Ukosoaji wa Kimaadili wa Kifasihi" na uweke kwa herufi nzito.
+Rangi ya kichwa haivutii sana, kwa hivyo weka rangi ya kichwa kama samawati
+kisha ingiza maandishi haya: "Mbinu ya uhakiki wa kimaadili wa fasihi ni mbinu mpya ya uhakiki wa kifasihi iliyotolewa na Profesa Nie Zhenzhao wa Chuo Kikuu cha Kawaida cha China baada ya uchunguzi linganishi, kuchana vizuri na kufikiria upya historia na hali ya sasa ya uhakiki wa fasihi wa Kichina na Magharibi. nadharia na mbinu."
+kisha tafadhali weka picha ya jalada la kitabu Utangulizi wa Uhakiki wa Maadili wa Kifasihi na Nie Zhenzhao
+kuwa mahususi, sogeza picha iliyo upande wa kushoto wa slaidi.## 1, picture, slide, left
+kisha ingiza mstatili upande wa kulia. ## 1, rectangle, slide, right
+Mandharinyuma si mazuri, kwa hivyo badilisha rangi ya usuli kuwa ya manjano hafifu
+
+unda slaidi mpya na uweke kichwa kama "Jane Eyre na Charlotte Bronte" na uandike kichwa.
+kisha, ingiza maandishi: "Katika mwisho unaoonekana kuwa wa furaha, Charlotte anatumia urithi na moto ili kujenga njama." na kwa ujasiri
+badilisha rangi ya fonti iwe nyekundu iliyokolea, kisha ubadilishe mtindo wa fonti wa maandishi kuwa "Arial"
+ingiza mshale upande wa kulia wa maandishi. ## 1, arrow, text, right
+ingiza meza na safu mbili na safu mbili, safu ya kwanza inaandika kitengo, habari; safu ya pili inaandika mwaka wa uchapishaji, 1847.
+kisha ingiza picha ya picha ya Charlotte Bronte chini ya jedwali. ## 1, picture, table, bottom
+sogeza picha moja juu ya jedwali. ## 1, picture, table, top
+
+weka usuli wa samawati kwa slaidi hii
+aliweka kichwa kama "Id katika David Copperfield" na italiki David Copperfield
+kisha ingiza hii katika sehemu ya yaliyomo:"Id ni aina ya msukumo wa kisilika wa mnyama, huchanganyikiwa bila busara, na hutafuta kuridhika kwa upofu na hujilimbikiza nafasi za kuvunjika. moja. Id haijali viwango vya kijamii vya maadili au tabia ya nje. Id ni mahali pa kuhifadhi silika."
+kisha tafadhali ongeza picha ya kitabu David Copperfield juu ya maudhui. ## 0, picture, content, top
+picha ni ndogo sana, kwa hivyo tafadhali ifanye kuwa kubwa zaidi, yenye urefu wa inchi 5 na upana wa inchi 6.
+ingiza nyota, isogeze hadi upande wa kulia wa picha. ## 0, star, image, right
+hatimaye, ongeza nukta ya kitone kwa maandishi katika sehemu ya maudhui.
+
+Ingiza meza na safu tatu na safu mbili. Ingiza Mahali, Miji mbalimbali duniani kote, katika safu ya kwanza, Kabila,jamii na utamaduni wa Wachina, katika safu ya pili na Sifa,usanifu wa Kichina, biashara, vyakula, sherehe za kitamaduni, katika safu ya tatu.
+ongeza kichwa "Mji wa China" na usome kichwa hicho kwa herufi nzito.
+Weka chati ya pai, zifuatazo ni data, Migahawa ya Kichina, 40%; Maduka ya Rejareja ya Kichina, 30%; Sherehe za Utamaduni na Matukio 30%
+Ingiza picha ya mji wa Uchina kwenye slaidi.
+Sogeza picha kwenye upande wa chini wa slaidi. ## 0, picture, slide, bottom
+Ingiza nyota kwenye slaidi ya kulia. ## 0, star, slide, bottom
+Ongeza dokezo "Mji wa China" kwenye slaidi.
+
+unda slaidi mpya na uipe rangi ya mandharinyuma ya kijani kibichi.
+fanya kichwa cha slaidi "ufeministi" na uweke rangi ya fonti ya kichwa sawa na rangi ya usuli.
+kisha ingiza maudhui "Ufeministi ni imani na lengo kwamba wanawake wanapaswa kuwa na haki, nguvu, na fursa sawa na wanaume"
+rangi ya fonti haivutii, tafadhali weka rangi ya fonti kuwa ya manjano, na uyafanye yaliyomo kuwa ya italiki.
+
+weka kichwa kama "wimbi la 3 la harakati za Ufeministi" na ulitie kwa ujasiri
+badilisha mtindo wa fonti wa kichwa kuwa "Times New Roman". weka rangi ya kichwa kama samawati na saizi kama 28
+kisha ingiza maudhui "Inazingatia imani za dini za rangi nyingi, desturi za makabila, tamaduni nyingi, ulinzi wa mazingira, ulaji, mwelekeo wa utofauti"
+Weka picha ya kike juu ya maudhui. ## 0, picture, content, top
+
+tafadhali unda slaidi mpya na uweke kichwa kama "mabadiliko ya filamu ya Pride and Prejudice"
+kisha weka saizi ya fonti kama 24 na italiki kichwa.
+ingiza hii katika sehemu ya maudhui:"Miaka kumi na nne baada ya kuonyeshwa kwa mara ya kwanza, uigaji wa riwaya ya Jane Austen ya Pride and Prejudice mwaka wa 1995, mwandishi wa skrini Andrew Davies unasalia kuwa kigezo ambacho utohoaji wa Austen hupimwa sana. Inajulikana kwa 'kufanya ngono' kwa tamthilia ya kipindi. , urekebishaji unashughulikia hisia za kisasa na matarajio makubwa ya kisasa. Chaguo za kufasiri za Davies zinakazia juu ya uasherati na kuleta umakini kwa matamanio ya Darcy."
+Ongeza vidokezo kwenye sehemu ya maudhui.
+fanya saizi ya fonti ya yaliyomo 20 na uweke nafasi mbili
+tafadhali weka picha ya wavuti ya filamu ya 1995 ya Pride and Prejudice
+ingiza mstatili, songa kwenye kona ya kulia ya slaidi, ## 1, rectangle, slide, right corner
+emm, badilisha rangi ya usuli hadi rangi ya chungwa isiyokolea
+
+Ingiza meza na safu tatu na safu mbili.
+Jaza jedwali na "Mahali", "kabila" katika safu wima ya kwanza.
+ingiza maandishi yafuatayo: "Elizabeth Bennet na Bw. Darcy wanapitia maendeleo muhimu ya wahusika katika riwaya yote, wakijifunza masomo muhimu kuwahusu wao na jamii.
+weka picha ya Elizabeth Bennet na Bw. Darcy chini ya meza. ## 0, picture, table, bottom
+sogeza picha upande wa kulia wa slaidi. ## 0, picture, slide, right
+chora mstatili. Isogeze kwenye kona ya kushoto ya slaidi. ## 0, rectangle, slide, left corner
+kisha unda slaidi mpya na ukipe jina "Jukumu la Daraja la Kijamii katika Kiburi na Ubaguzi" na upigie mstari kichwa.
+weka maandishi haya: "Tabaka la kijamii lina jukumu kubwa katika riwaya, kuathiri uhusiano wa wahusika, maamuzi, na mitazamo ya kibinafsi."
+chora duara ndogo kwenye kona ya chini ya kulia na uweke rangi yake kuwa ya machungwa
+badilisha rangi ya usuli wa slaidi kutoka samawati hafifu hadi rangi ya chungwa.
+
+unda slaidi mpya na ufanye kichwa "Maumbo"
+Ingiza mstatili nyekundu kwenye slaidi ya kushoto. ## 0, rectangle, slide, left
+Ingiza mduara wa bluu kwenye slaidi ya kulia. ## 0, circle, slide, right
+Ingiza pembetatu ya kijani kwenye slaidi ya kushoto. ## 0, triangle, slide, left
+Ingiza mwito wa manjano kwenye slaidi ya kulia. ## 0, callout, slide, right
+
+weka picha inayoonyesha tukio la ndoa la karne ya 19 kwenye upande wa kulia wa slaidi. ## 0, picture, slide, right
+ongeza pembetatu. Sogeza pembetatu upande wa kulia wa picha. ## 0, triangle, picture, right
+Taja jina "ndoa ya karne ya 19"
+italiki na herufi nzito kichwa. Badilisha rangi ya fonti iwe ya chungwa iliyokolea.
+
+Weka chati ya pai kulingana na data ifuatayo, Vanila: 30%,Chokoleti: 25%,Sitroberi: 15%,Chipu ya Chokoleti ya Mint: 10%,Vidakuzi na Cream: 10%,Siagi Pecan: 10%
+pata picha ya jordgubbar. Sogeza picha kwenye upande wa chini wa chati ya pai. ## 0, picture, pie chart, bottom
+ingiza maudhui yafuatayo: "Matumizi yaliongezeka kwa kiasi kikubwa robo ya mwisho kutokana na gharama kubwa za uendeshaji na kuongezeka kwa uwekezaji katika mipango ya masoko."
+Badilisha mtindo wa fonti kuwa Times New Roman, na saizi ya fonti kuwa 18.
+
+tafadhali tengeneza slaidi mpya na utaje kichwa na tanbihi "Utengenezaji wa PPT"
+weka maudhui yafuatayo: "Kuunda mawasilisho ya PowerPoint ya kuvutia na yenye athari kunahitaji upangaji na utekelezaji makini."
+pigia mstari yaliyomo na ufanye rangi ya fonti kuwa nyekundu nyeusi.
+fanya kichwa cha slaidi kuwa kikali na kitaliki
+ongeza dokezo "PPT" kwenye slaidi.
+
+unda slaidi mpya na upe jina jina "Mitandao ya Neural"
+andika maudhui yaliyo na vitone vifuatavyo: "Mitandao ya neva ni aina ya algoriti ya kujifunza kwa mashine ambayo ina muundo wa muundo wa ubongo wa binadamu. Inajumuisha safu za nodi zilizounganishwa ambazo huchakata taarifa na kujifunza kutambua ruwaza."
+badilisha rangi ya fonti ya kichwa kuwa nyekundu
+ongeza picha ya usanifu wa mtandao wa neva kwenye slaidi
+ingiza wingu upande wa kulia wa picha. ## 1, cloud, picture, right
+hatimaye, fanya rangi ya asili kuwa ya njano
+
+unda slaidi mpya na upande wa kulia ingiza umbo jekundu la wingu. ## 0, cloud, slide, right
+ingiza "Toa Vipodozi Vilivyochukuliwa"katika sehemu ya maudhui.
+badilisha rangi ya fonti ya kichwa kuwa chungwa. kisha unda slaidi mpya na uipe jina "Utayarishaji wa data"
+rangi ya mandharinyuma ya sasa haifai kwa slaidi hii. Tafadhali ibadilishe iwe rangi ya wingu.
+
+unda slaidi mpya na uipe jina "Hamisha Mafunzo"
+weka saizi ya fonti kwenye slaidi kama 28 na uifanye kwa ujasiri
+badilisha mtindo wa fonti wa kichwa kuwa "Times New Roman". badilisha rangi ya fonti ya kichwa kuwa nyekundu
+Fanya slaidi iwe na rangi ya usuli sawa.
+andika maudhui yafuatayo: "Kujifunza kwa uimarishaji ni aina ya kujifunza kwa mashine ambayo algorithm hujifunza kupitia majaribio na makosa. Mara nyingi hutumiwa kufundisha mashine jinsi ya kufanya maamuzi katika mazingira magumu."
+
+ingiza jedwali lenye safu 3 na safu wima 2, jaza safu mlalo ya kwanza na Jina la Mfano,ChatGPT; safu ya pili yenye Usanifu,GPT (Generative Pre-trained Transformer); safu mlalo ya tatu yenye Ukubwa wa Data ya Mafunzo,Terabaiti nyingi za data mbalimbali za maandishi.
+fanya kichwa "GPT", na ufanye kichwa kwa ujasiri.
+weka maudhui, "Generative Pre-trained Transformer 3 (GPT-3) ni muundo wa lugha unaojirudia uliotolewa mwaka wa 2020 ambao hutumia mafunzo ya kina kutoa maandishi yanayofanana na binadamu."
+pigia mstari maudhui na ufanye rangi ya fonti kwenye slaidi hii kuwa nyekundu iliyokolea.
+ongeza picha ya usanifu wa GPT-3 kwa haki ya yaliyomo. ## 0, picture, content, right
+
+unda slaidi mpya na uweke kichwa kama "Wuthering Height" na uifanye italiki
+Ongeza maandishi "Hadithi inasimuliwa na Lockwood, mtu asiyependezwa, ambaye masimulizi yake yanatumika kama fremu ya mfululizo wa masimulizi mafupi ya Ellen Dean, mfanyakazi wa nyumbani." Na maandishi kwa ujasiri
+badilisha rangi ya fonti ya kichwa na maandishi kuwa nyekundu
+ingiza sura ya mshale,
+mshale ni mdogo kidogo, tafadhali uifanye kuwa kubwa zaidi, na upana wa 6 na urefu wa 4
+Unda slaidi mpya na ingiza wingu,
+Weka picha ya jalada la vitabu la Wuthering Height
+Ingiza maandishi "Wuthering Heights, riwaya ya Emily Brontë, iliyochapishwa mnamo 1847 chini ya jina bandia la Ellis Bell",
+weka fonti kuwa Times New Roman na saizi ya fonti hadi 18
+Ingiza meza na safu moja na safu mbili. Jaza jedwali na "Jamii" na "Habari" kwenye jedwali.
+ongeza kidokezo "Microsoft" kwenye slaidi.
+
+unda slaidi mpya na uweke kichwa kuwa "Kiburi na Ubaguzi wa Jane Austen"
+ingiza maandishi: "Riwaya inachunguza mada za mapenzi, ndoa, na matarajio ya kijamii kati ya waungwana wa Uingereza", fanya maandishi kuwa ya ujasiri na kupigia mstari.
+ingiza mshale. Sogeza mshale upande wa kushoto wa maandishi. ## 1, arrow, text, left
+tafadhali badilisha rangi ya maandishi hadi kijani kibichi. badilisha rangi ya mshale kuwa rangi ya chungwa nyepesi
+ingiza meza na safu mbili na safu mbili, safu ya kwanza inaandika kitengo, habari; safu ya pili anaandika mwandishi, Jane Austen.
+ingiza picha ya picha ya Jane Austen
+weka urefu wa picha kuwa 6 na usogeze hadi kona ya kulia ya slaidi. ## 1, image, slide, right corner
+
+tafadhali unda slaidi mpya na uweke kichwa "Safari ya maisha ya Sirsa" na ukitie kwa herufi nzito
+fonti ni ndogo kidogo, tafadhali weka fonti hadi 24
+unda meza na safu tatu na safu nne. Ingiza Utoto,miaka 0-10,Shule katika safu ya kwanza, Ujana,miaka 11-18,Shule ya upili katika safu ya pili.
+ingiza picha ya shule kwenye slaidi.
+sogeza picha upande wa kushoto wa jedwali. ## 1, image, table, left
+
+Unda slaidi mpya na ukipe jina la kichwa "Kuchunguza Ulimwengu" na upigie mstari kichwa.
+ingiza picha ya galaksi,
+Unda orodha ya vitone yenye vipengee 5 katika sehemu ya maudhui. Vipengee hivyo ni "Nyota", "Sayari", "Nebulae", "Mashimo meusi", na "Jambo la Giza".
+yaliyomo kwa ujasiri na italiki,
+badilisha rangi ya fonti ya yaliyomo kuwa nyekundu nyeusi,
+ingiza chati ya pai, Jengo la kufundishia 35%, Uwanja 25%, Uwanja wa michezo 40%.
+sogeza chati ya pai juu ya slaidi. ## 1, pie chart, slide, top
+ingiza chati ya mstari, mwaka wa 1 20%, mwaka wa 2 30%, mwaka wa 3 40%, mwaka wa 4 10%.
+ingiza chati ya upau na data sawa.
+ipe slaidi usuli wa samawati.
+
+unda slaidi mpya na ingiza kichwa "utangulizi"
+weka maudhui ambayo Katika karatasi hii, tunachunguza jinsi kutumia mbinu nyingi na za ziada kwa muda mrefu huleta uwezekano na mitego, pamoja na utata na kutokuwa na uhakika.
+weka rangi ya fonti ya yaliyomo kama nyekundu
+saizi ya fonti ya yaliyomo ni ndogo sana, tafadhali iweke kama 20
+fanya rangi ya mandharinyuma kuwa ya samawati. Mara mbili ya ukubwa wa fonti ya maudhui
+
+ongeza "Nanyang ni mji wa kitaifa wa kihistoria na kitamaduni, wenye urithi wa kihistoria na mkusanyiko mkubwa wa kitamaduni." katika sehemu ya yaliyomo.
+ongeza kitone kwa yaliyomo
+na fanya saizi ya fonti ya yaliyomo 18. na italiki yaliyomo, fanya mtindo wa fonti wa yaliyomo "Arial"
+Taja slaidi "Jiji Langu- Nanjing"
+Weka picha kuhusu Nanjing. Isogeze upande wa kulia wa slaidi. ## 0, picture, slide, right
+Sasa, unda slaidi mpya na ukipe jina kama "Orodha", weka jina ili kukumbuka.
+Italic kichwa na uongeze saizi yake ya fonti hadi 24.
+Ingiza maudhui yafuatayo katika sehemu ya maudhui, "Katalogi hutumika kama nyenzo pana na inayovutia, inayoonyesha bidhaa au huduma mbalimbali."
+Badilisha rangi ya fonti ya yaliyomo hadi kijani kibichi. Ipe slaidi rangi ya mandharinyuma ya samawati iliyokolea.
+ingiza meza yenye safu tatu na nguzo mbili. Andika Bidhaa, Bei katika safu ya kwanza, shati, $29.99 katika safu ya pili, mavazi, $59.99 katika safu ya mwisho.
+kisha ingiza chati ya pai, "shati, nguo, suruali" ni kategoria, 40%, 30% na 30% ni asilimia.
+tumia chati ya mstari kueleza
+Ongeza chati ya upau iliyo na data sawa.
+
+Ingiza kichwa: "Furahia maisha ya furaha"
+Ingiza nyota juu ya mada.## 0, star, title, top
+kisha weka mtindo wa fonti wa kichwa kama "Arial Black"
+ingiza maudhui yafuatayo yenye nafasi mbili, "Kufurahia maisha ya furaha kunahusisha kupata furaha katika muda mfupi, kukuza mahusiano yenye maana, kufuatilia shauku, kudumisha uwiano mzuri wa maisha ya kazi, na kufanya mazoezi ya kujitunza."
+Weka picha kuhusu mtu mwenye furaha. Sogeza picha kwenye sehemu ya juu ya kulia ya slaidi. ## 0, picture, slide, right top
+Weka picha inchi 4 kwa urefu na inchi 5 kwa upana. Isogeze hadi chini kushoto. ## 0, picture, slide, left bottom
+
+ingiza meza yenye nguzo moja na safu tano. Safu ya ngumi ni Completed Marathon, ya pili ni Published First Book, safu ya tatu imepandishwa cheo na kuwa Meneja na safu ya nne ni ya Kujitolea kwa Masaa 100+ na safu ya mwisho ni Anza Biashara yenye Mafanikio.
+taja slaidi kama "Mafanikio yangu makubwa mnamo 2023"
+weka maandishi yafuatayo katika sehemu ya maudhui, "Mnamo 2023, nilitimiza hatua muhimu zaidi ambazo zilizidi matarajio yangu. Kuanzia kukamilisha mbio za marathoni hadi kuchapisha kitabu changu cha kwanza na kupata ukuzaji, mafanikio haya yanachochea bidii yangu ya ukuaji zaidi na kunitia moyo kufikia usawa. urefu mkubwa zaidi."
+Weka picha ya kitabu. Isogeze hadi upande wa juu wa slaidi.## 0, picture, slide, top
+Ingiza chati ya pai, na data ni marathon 30%, kitabu 25% na kujitolea 45%.
+Ingiza mstatili kwenye slaidi. Isogeze upande wa kushoto wa chati ya pai. ## 0, rectangle, pie chart, left
+ongeza dokezo "2023" kwenye slaidi.
+
+Weka kichwa kama: Uhakiki wa Kifasihi wa Maadili
+Kichwa kinapaswa kuwa na ujasiri na bluu, songa chini. ## 0, title, slide, bottom
+Tafuta picha ya mandhari ya mlima na uiingize kulia. ## 0, picture, slide, right
+Ingiza maudhui yafuatayo, "Mbinu ya uhakiki wa kimaadili wa fasihi ni mbinu ya riwaya iliyopendekezwa na Profesa Nie Zhenzhao kutoka Chuo Kikuu cha Kawaida cha China."
+pigia mstari maudhui, na uyaweke katika fonti ya Times New Roman yenye ukubwa wa fonti 24, na nafasi mbili.
+weka rangi ya fonti ya yaliyomo kama bluu giza,
+Chagua umbo la mstatili kutoka kwenye menyu na uchore kwenye slaidi ya kushoto. ## 0, rectangle, slide, left
+Badilisha rangi ya sura kwa kijani na ingiza "kijani".
+Sogeza mstatili kwenye kona ya juu ya kulia ya slaidi. ## 0, rectangle, slide, right corner
+Ingiza mshale na usogeze upande wa kulia wa maudhui. ## 0, arrow, content, right
+
+Unda slaidi mpya yenye kichwa "Wanachama wa Timu"
+Ingiza picha ya mshiriki wa timu na usogeze picha kwenye upande wa chini wa slaidi. ## 0, picture, slide, bottom
+weka upana wa picha hadi 6.5 cm
+Ongeza kidokezo sawa kwa kichwa kwenye slaidi. Fanya fonti ya kichwa iwe nzito.
+
+Unda slaidi mpya na uipe kichwa "Utendaji wa Uuzaji"
+Weka rangi ya fonti iwe samawati, saizi ya fonti hadi 24, na upigie mstari kichwa. Weka rangi ya mandharinyuma ya kijani kwa slaidi hii.
+Ingiza maudhui yafuatayo kwenye slaidi: "Utendaji wa mauzo ni kiashirio kikuu cha mafanikio ya kampuni katika kuzalisha mapato. Inaonyesha ufanisi wa timu ya mauzo na mahitaji ya jumla ya soko la bidhaa au huduma."
+Badilisha rangi ya fonti ya yaliyomo iwe nyekundu iliyokolea na saizi ya fonti iwe 18.
+Unda meza na safu tatu na safu tano. Katika safu ya kwanza, ingiza "Mwaka, Robo, Mapato". Katika safu ya pili, ingiza "2018. Q1, $ 500,000".
+Tumia ukubwa wa fonti ya maudhui kwenye kichwa
+
+Unda slaidi mpya na uongeze kichwa "Ripoti ya Mauzo"
+Ongeza chati ya mstari kulingana na data ifuatayo, "Bidhaa A: $2,000", "Bidhaa B: $1,500", "Bidhaa C: $1,000"
+Taja chati ya mstari "Mtindo wa Mapato".
+Ingiza taswira ya shati la T-shirt kwenye slaidi na uongeze maelezo mafupi yanayoitwa "T-shirt".
+Ongeza umbo la nyota na usogeze hadi upande wa kulia wa picha. ## 1, star, image, right
+Unda slaidi moja zaidi, na uipe jina "Muundo wa Shirika"
+Ingiza jedwali lenye safu wima mbili na safu nne, ingiza data ifuatayo, Mkurugenzi Mtendaji, John Smith katika safu ya kwanza, CFO, Jane Doe katika safu ya pili, COO: Tom Jones katika safu ya tatu na CMO: Sarah Lee" katika safu ya nne. safu
+pigia mstari mada zote.
+badilisha saizi ya fonti ya yaliyomo kwenye kichwa hadi 20. na ubadilishe rangi ya fonti kuwa zambarau,
+Ongeza kidokezo sawa na kichwa kwenye slaidi.
+Ipe slaidi rangi ya mandharinyuma ya kijani kibichi.
+
+Unda slaidi mpya na uipe jina "Utangulizi"
+Ongeza maandishi yafuatayo kwa sehemu ya maudhui: "Asante kwa kujiunga nasi leo. Tunafurahia
+endelea na "kuwa na wewe hapa na tunatazamia kushiriki nawe habari za kusisimua."
+Badilisha mtindo wa fonti wa yaliyomo kuwa Times New Roman na saizi ya fonti hadi 20.
+Ongeza picha ya mandhari ya Guangdong. Badilisha ukubwa wa picha ili urefu wake ni inchi 3 na upana wake ni inchi 5
+Ingiza pembetatu kwenye slaidi. Ingiza mstatili kwenye slaidi. Fanya mstatili upande wa kulia wa mstatili. ## 1, rectangle, triangle, right
+Ipe slaidi rangi ya mandharinyuma ya zambarau. Ongeza kidokezo "2023" kwenye slaidi.
+
+Taja slaidi "Uzinduzi wa Bidhaa" na uweke kichwa kwa herufi nzito na uifanye nyekundu.
+Ingiza picha ya kompyuta kwenye slaidi
+Badilisha ukubwa wa picha na uifanye urefu na upana hadi 2 cm
+Ongeza maandishi yafuatayo kwenye sehemu ya maudhui: "Bidhaa yetu mpya ni kifaa cha mkononi cha hali ya juu kinachochanganya teknolojia ya kisasa na muundo maridadi na unaomfaa mtumiaji."
+Fanya yaliyomo kuwa ya mtindo sawa na kichwa.
+Ingiza slaidi mpya na uipe jina "Vipengele vya Bidhaa"
+Ingiza jedwali lenye safu wima 2 na safu mlalo 5 kwenye slaidi Ongeza data ifuatayo kwenye safu mlalo ya kwanza: Kipengele, Maelezo.
+Unda chati ya pau kulingana na data ifuatayo, Bidhaa A 25%, Bidhaa B 50%, Bidhaa C 25%.
+Taja chati ya mwambaa "Umuhimu wa Kipengele".
+Badilisha rangi ya usuli iwe samawati hafifu na ufanye noti sawa na kichwa cha chati.
+
+Unda slaidi mpya na uongeze kichwa "Matokeo ya Kila Robo ya Fedha"
+Badilisha mtindo wa fonti wa kichwa kuwa Arial
+Ongeza maandishi yafuatayo kwenye sehemu ya maudhui : "Kampuni yetu ilipata mapato ya $1.5 milioni na faida ya $500,000 robo hii."
+Tumia madoido ya ujasiri na ya mstari kwenye sehemu ya maudhui
+Ingiza jedwali lenye safu wima 4 na safu 5 kwenye slaidi
+Ongeza data ifuatayo kwenye safu mlalo ya kwanza ya jedwali: Mwezi, Mapato, Gharama na Faida
+Weka chati ya upau iliyo na data ifuatayo, Q1 2022, Q2 2022, Q3 2022, Q4 2022 in X, 50, 60,55, 70 in Y.
+Taja chati ya miraba "Matokeo ya Kifedha ya Kila Robo mwaka wa 2022".
+Ipe slaidi rangi ya usuli nyekundu.
+Ingiza slaidi mpya na uongeze kichwa "Uchambuzi wa Kifedha"
+Ingiza picha ya nembo ya kampuni kwenye slaidi
+Ingiza "Asante kwa umakini wako!" kwa sehemu ya yaliyomo. Pigia mstari na italiki maudhui. Ongeza saizi ya fonti ya yaliyomo hadi 26.
+
+Unda slaidi mpya na uipe jina "Data ya Uuzaji"
+Weka chati ya upau iliyo na data ifuatayo:"Eneo A: $500,000; Eneo B: $400,000; Eneo C: $600,000; Eneo D: $450,000"
+Hakikisha kuwa chati ina kichwa "Mauzo ya Kikanda"
+Pigia mstari kichwa cha slaidi. Ongeza dokezo "Chanzo cha data: Ripoti ya Mauzo 2023"
+
+Unda slaidi mpya na uhakikishe kuwa kichwa chake ni "Tafiti ya Wateja"
+Weka chati ya pai iliyo na data ifuatayo:""Nimeridhika Sana | 40%", "Nimeridhika | 30%", "Nutral | 20%", "Sijaridhika | 5%", "Sijaridhika Sana | 5%"
+Sogeza chati ya pai kwenye upande wa chini wa slaidi. ## 1, chart, slide, bottom
+Ingiza picha ya qustionnaire kwenye slaidi. Isogeze upande wa juu wa slaidi. ## 1, picture, slide, top
+Ongeza kidokezo "2023/5" kwenye slaidi.
+
+Ongeza jina la kichwa kwenye slaidi 0, "Habari ya Isimu". Weka mandharinyuma ya samawati,
+weka mtindo wa fonti wa kichwa kama Arial, rangi ya fonti kuwa nyekundu, saizi ya fonti kama 36.
+Ingiza "Hi" kwa maudhui, ohno, inapaswa kuwa " "Isimu ni uchunguzi wa kisayansi wa lugha na muundo wake. Inachunguza ugumu wa mawasiliano ya binadamu, kutoka kwa fonetiki na sintaksia hadi semantiki na pragmatiki."hadi sehemu ya maudhui.
+weka mtindo wa fonti wa maudhui kama Verdana, rangi ya fonti kuwa ya manjano, saizi ya fonti kuwa 18. nafasi mbili.
+Unda slaidi mpya, na uipe jina "Matawi ya Isimu"
+Ingiza jedwali na safu wima 3 na safu 4,
+ingiza Matawi ya Isimu, Maelezo, Mifano katika safu ya kwanza. "Fonetiki", "Utafiti wa sauti za usemi", "fonetiki ya matamshi, fonetiki ya sauti, fonetiki ya ukaguzi"katika safu ya pili.
+Ingiza picha ya kitabu kuhusu Isimu kwenye slaidi. Sogeza picha kwenye upande wa chini wa slaidi. ## 1, picture, slide, bottom
+Weka picha 6cm kwa urefu na 5 cm kwa upana.
+Tengeneza slaidi zote usuli wa zambarau.
+
+Weka mandharinyuma ya kijani kibichi, patia jina "Familia za Lugha"
+Italiki na herufi nzito kichwa,
+weka chati ya upau kulingana na data, Indo-European, Niger-Congo,Austronesia, Sino-Tibetan kama data katika X, 445, 1526,1290, 452 kama data katika Y.
+Taja chati ya upau"Familia ya lugha na idadi yake ya lugha"
+Unda slaidi mpya na uipe jina "Upataji wa Lugha". Mtindo wa kichwa sawa na slaidi iliyotangulia.
+Ingiza maudhui yafuatayo, " "Upataji wa lugha ni mchakato ambao binadamu hupata uwezo wa kutambua, kuelewa na kuzalisha lugha. Inahusisha taratibu za asili na kujifunza na huathiriwa na mambo mbalimbali kama vile mazingira na mwingiliano wa kijamii."
+Tengeneza mtindo wa fonti Times New Roman, rangi ya fonti kuwa nyekundu, na saizi ya fonti 22.
+Pigia mstari na uweke maudhui kwa ujasiri, fanya kichwa na maudhui yawe rangi sawa.
+ingiza picha ya kitabu cha Kiingereza kwenye slaidi,
+ingiza mraba kwenye slaidi ya kulia, ## 1, rectangle, slide, right
+sogeza picha kwenye upande wa juu wa mraba. ## 1, picture, rectangle, top
+
+Taja slaidi "Hitimisho"
+Kwa herufi nzito na upigie mstari kichwa, na ufanye fonti iwe nyekundu.
+Ingiza " "Isimu ni nyanja ya kuvutia ambayo inatatua utata wa lugha ya binadamu. Kuanzia kusoma miundo ya lugha hadi kuchanganua familia za lugha na upataji, inatoa maarifa ya kina kuhusu asili ya mawasiliano na utambuzi wa binadamu."katika sehemu ya maudhui.
+Badilisha mtindo wa fonti wa maudhui kuwa Verdana, rangi ya fonti iwe ya manjano.
+Unda slaidi zingine nne, weka rangi ya asili ya zambarau kwao.
+Kichwa cha slaidi cha 1 "Muhtasari wa Sera za Mali isiyohamishika nchini Uchina", na uweke picha ya ramani ya Uchina kwenye slaidi.
+Kichwa slaidi 2 "Mabadiliko ya Hivi Majuzi" , na italiki kichwa. Mtindo sawa wa fonti na vichwa vilivyotangulia.
+"Mabadiliko ya hivi majuzi nchini China yameshuhudia ukuaji wa haraka wa uchumi, maendeleo ya kiteknolojia, na mabadiliko ya kijamii, yakiweka nchi hiyo kama nguvu ya kimataifa na kuathiri mienendo ya kimataifa katika nyanja mbalimbali." ndani ya yaliyomo.
+Kichwa cha Slaidi ya 3 "Juhudi za Kudhibiti Bei za Nyumba," na uweke pembetatu kwenye slaidi.
+sogeza pembetatu hadi sehemu ya juu ya kulia ya slaidi. ## 3, triangle, slide, right top
+Kichwa cha Slaidi ya 4 "Hatua za Kuongeza Makazi ya bei nafuu," na ubadilishe rangi ya fonti ya kichwa kuwa nyekundu,
+ingiza "Mipango ya kuongeza nyumba za bei nafuu imetekelezwa, ikiwa ni pamoja na ruzuku ya serikali, taratibu za uidhinishaji zilizoratibiwa, na ubia kati ya sekta ya umma na sekta binafsi, zinazolenga kushughulikia tatizo la uwezo wa kumudu nyumba na kuhakikisha upatikanaji wa nyumba bora kwa wote." kama maudhui. na pigia mstari na italiki maudhui.
+unda chati pai kulingana na data, Ruzuku za Serikali: 35%,Michakato Iliyoratibiwa ya Uidhinishaji: 25%,Ubia kati ya Umma na Binafsi: 20%,Sera za Matumizi ya Ardhi: 10%,Mipango ya Usaidizi wa Kukodisha: 10%.
+Unda slaidi mpya na uipatie kichwa "Udhibiti wa Wasanidi wa Mali.". ongeza sentensi zile zile ili uzingatie.
+Ingiza "Katika slaidi hii, fupisha hatua muhimu za China za kudhibiti waendelezaji mali na hatua za serikali kuzuia udanganyifu na kukuza mazoea ya maendeleo endelevu." kama yaliyomo.
+herufi nzito sehemu ya maudhui na italiki kichwa.
+ongeza dokezo "Maelezo kuhusu Uchina" kwenye slaidi zote.
+
+Taja kichwa "Uendelezaji wa mbele wa Vifaa vya Kupiga picha za Matibabu". Ongeza saizi ya fonti ya mada hadi 24.
+Weka chati ya mstari. Data ni: Q1: 15%, Q2: 12%, Q3: 18%, Q4: 20%, na Q1, Q2, Q3, Q4 ziko katika X.
+Taja chati "Ukuaji wa Mapato"
+Ingiza jedwali lenye safu mlalo tano na safu wima mbili, weka Kipengele cha 1, picha yenye mwonekano wa juu kwenye safu mlalo ya kwanza.
+Rekebisha rangi ya usuli iwe samawati hafifu.
+Ingiza mstatili, ohno, pembetatu kwenye slaidi
+ingiza "Uendelezaji wa mipaka ya vifaa vya kufikiria vya matibabu ni kuleta mapinduzi katika huduma ya afya na picha zenye azimio la juu, algorithms ya hali ya juu ya AI, uchanganuzi wa data wa wakati halisi, faraja ya mgonjwa iliyoimarishwa, ujumuishaji wa hali nyingi, na utiririshaji wa kazi ulioratibiwa, kuwawezesha wataalamu wa matibabu na uwezo wa uchunguzi ambao haujawahi kufanywa." ndani ya yaliyomo.
+bold maudhui na kuweka maudhui na nafasi mbili. pigia mstari na italiki maudhui.
+ongeza kidokezo "Vifaa vya Vyombo vya Habari" kwenye slaidi.
+
+Fanya rangi ya usuli kuwa ya bluu. Ingiza mstatili.
+Ongeza kichwa "Mbinu na Mbinu katika Anthropolojia" na ufanye saizi yake ya fonti 20.
+Ingiza maudhui "Anthropolojia ni sayansi ya kijamii inayosoma tabia, utamaduni na jamii za binadamu kwa kutumia mbinu mbalimbali za utafiti." katika sehemu ya yaliyomo na kuiweka na nafasi mbili.
+Ongeza umbo la duara na usogeze upande wa kulia wa slaidi. ## 0, circle, slide, right
+weka upana wa mduara kuwa 4cm.
+
+Unda slaidi mpya na uipatie kichwa kwa "Umuhimu wa Uingizaji hewa Sahihi".
+pigia mstari na italiki kichwa.
+Badilisha ukubwa wa fonti ya kichwa hadi 24 na mtindo wa fonti uwe Arial.
+Ingiza picha ya mtu anayekunywa maji na usonge upande wa kulia wa slaidi. ## 1, picture, slide, right
+Fanya picha 6.5 cm kwa upana. Ongeza maelezo chini ya picha na uandike kichwa "Kunywa Maji". ## 1, textbox, picture, bottom
+ipe slaidi rangi ya mandharinyuma ya zambarau. Unda slaidi mpya na uipe usuli sawa.
+Ingiza picha ya folda kwenye slaidi. Rekebisha upana na urefu wa picha hadi 6.5 na 5.5.
+Ongeza kichwa kwenye slaidi na ukipe jina "Manufaa ya Kutumia SmartArt.". Badilisha rangi ya fonti ya kichwa iwe nyekundu na saizi ya fonti iwe 40 .
+Badilisha mtindo wa fonti wa kichwa kuwa Arial na uifanye kuwa italiki.
+
+Taja jina "Kujenga Biashara Yako." na upe slaidi rangi ya mandharinyuma ya kijani kibichi.
+Katika sehemu ya maudhui, andika "Kujenga chapa ni sehemu muhimu ya biashara yoyote iliyofanikiwa. Weka mtindo wa fonti kuwa "Arial" na saizi ya fonti iwe 14.
+Ongeza umbo la mstatili na usogeze upande wa kulia wa slaidi. ## 0, rectangle, slide, right
+Ingiza jedwali lenye safu 3 na safu wima 4. Jaza safu mlalo ya kwanza ya jedwali na "Utambulisho wa Biashara", "Ujumbe wa Biashara", "Sauti ya Biashara", na "Mkakati wa Biashara".
+Nakili jedwali.
+Badilisha saizi ya fonti ya yaliyomo na ubadilishe mtindo wa fonti kuwa "Times New Roman"
+
+Unda slaidi mpya na uweke kichwa "Misingi ya Mawasiliano Yenye Ufanisi" na uweke mtindo wa fonti kuwa Times New Roman.
+ingiza vitu vifuatavyo, "Vidokezo muhimu" na "Maelezo".
+Ongeza saizi ya fonti ya vipengee hadi 24. Piga mstari na uweke vipengee kwa ujasiri.
+Weka rangi ya usuli ya slaidi kama chungwa hafifu.
+
+Weka rangi ya usuli iwe samawati hafifu.
+Ingiza "Mkutano wa Tencent" kwenye kichwa na maudhui.
+Pigia mstari kichwa na uweke rangi ya fonti iwe nyekundu iliyokolea.
+Sasisha sehemu ya maudhui kwa kutumia: "Tencent Meeting ni jukwaa dhabiti la mikutano ya video ambalo huwezesha ushirikiano na mawasiliano kati ya timu na watu binafsi. Inatoa vipengele mbalimbali vya mikutano ya mtandaoni yenye ufanisi, ikijumuisha kushiriki skrini, gumzo na kurekodi."
+Maudhui ya herufi nzito na italiki, sawa na kichwa.
+Weka picha ya kiolesura cha Mkutano wa Tencent.
+
+Ingiza meza na safu tatu na safu mbili.
+Ingiza "Vipengele", "Maelezo", na "Manufaa" kwenye safu mlalo ya kwanza.
+Ongeza dokezo "APP" kwenye slaidi na upe slaidi rangi ya usuli ya zambarau.
+
+Toa slaidi "Tathmini ya Ubora" yenye rangi ya samawati ya mandharinyuma.
+Ingiza maandishi yafuatayo katika sehemu ya maudhui: "Tathmini ya ubora ni mchakato muhimu katika kutathmini utendakazi na viwango vya bidhaa au huduma. Inahusisha uchanganuzi wa kina, kipimo, na ulinganisho ili kuhakikisha uzingatiaji wa vigezo vya ubora na uboreshaji endelevu."
+Ingiza picha ya orodha.
+Sogeza picha upande wa kushoto wa maudhui, ## 0, picture, content, left
+Unda chati ya pai inayoonyesha usambazaji wa ukadiriaji wa ubora. Jumuisha kategoria za data kama vile "Bora", "Nzuri", "Haki", na "Maskini" , na uwiano ni 40%,15%,25%,20%.
+Taja chati ya pai "Usambazaji wa Ukadiriaji wa Ubora".
+Sogeza chati ya pai kwenye upande wa chini wa slaidi. ## 0, chart, slide, bottom
+Nakili chati ya pai kwenye slaidi inayofuata.
+
+Unda slaidi mpya na uipe kichwa"Mwongozo wa Kukamilisha Mradi."
+Ingiza mshale kwenye slaidi, na usogeze kwenye kona ya juu ya slaidi. ## 1, right_arrow, slide, top corner
+zungusha mshale kwa digrii 90.
+nenda kwenye slaidi 0 na upe jina slaidi "Utangulizi". Majina yenye herufi nzito yote mawili.
+ongeza dokezo "2022/6/10" kwenye slaidi 0.
+ipe slaidi rangi ya mandharinyuma ya samawati. Ingiza umbo la wingu kwenye slaidi.
+
+Weka rangi ya usuli iwe njano.
+Ingiza maandishi yafuatayo kwenye sehemu ya maudhui yenye nafasi mbili:"Trados Studio ni zana madhubuti ya utafsiri inayosaidiwa na kompyuta (CAT) iliyotengenezwa na SDL. Inatoa vipengele mbalimbali na utendakazi ambavyo vinarahisisha mchakato wa kutafsiri, ikiwa ni pamoja na kumbukumbu ya tafsiri, usimamizi wa istilahi. , na zana za usimamizi wa mradi."
+Weka kidokezo "Iliyoundwa na Eva". Ingiza kichwa "Trados Studio".
+Weka rangi ya fonti ya kichwa iwe kijani kibichi. Weka saizi ya herufi hadi 30.
+Ingiza picha ya nembo ya Studio ya Trados kwenye slaidi. Sogeza picha upande wa kulia wa maudhui. ## 0, image, content, right
+Rekebisha upana na urefu wa picha hadi 4 na 3 cm.
+Zungusha picha kwa digrii 15 kinyume cha saa.
+badilisha rangi ya usuli hadi zambarau.
+
+Ingiza meza na safu tatu na safu mbili.
+Ingiza "Mwaka", "Maelezo", na "Mabadiliko" kwenye safu mlalo ya kwanza ya jedwali.
+Taja slaidi "Mabadiliko makubwa katika muongo uliopita"
+herufi nzito na italiki kichwa.
+Weka rangi ya usuli iwe samawati hafifu.
+
+Ongeza kichwa "Je, Unapaswa Kuzingatia Kusoma Nje ya Nchi?", kilichopigwa mstari na kwa herufi nzito.
+Weka picha ya wanafunzi wanaosoma katika nchi ya kigeni. Isogeze hadi chini ya slaidi. ## 0, picture, slide, bottom
+Weka upana wa picha hadi 5cm, na urefu hadi 3cm.
+Ipe slaidi rangi ya mandharinyuma ya zambarau. Ongeza kichwa ili kukumbuka.
+
+Unda chati ya pau inayoonyesha takwimu za matumizi ya Trados Studio kati ya watafsiri. Jumuisha kategoria za data kama vile "Watafsiri wa Muda Wote", "Wafanyabiashara Huru", na "Mawakala wa Tafsiri" na asilimia zao zinazolingana ni 45%,35%,20%,
+Taja chati ya mwambaa "Takwimu za Matumizi ya Studio ya Trados".
+Unda slaidi mpya na uweke kichwa "ABBYY FineReader".
+pigia mstari kichwa, na uifanye kwa herufi nzito, Weka saizi ya fonti ya kichwa kuwa 30.
+Ingiza maandishi yafuatayo kwenye sehemu ya maudhui:"ABBYY FineReader ni programu ya utambuzi wa wahusika (OCR) inayowaruhusu watumiaji kubadilisha hati zilizochanganuliwa, faili za PDF na picha kuwa umbizo zinazoweza kuhaririwa na kutafutwa. Ikiwa na utambuzi wa hali ya juu wa maandishi na uwezo wa kubadilisha hati, inaweza hurahisisha uchakataji wa hati na kuongeza tija."
+weka maudhui kwa nafasi mbili na ufanye yaliyomo kuwa ya italiki.
+Weka picha inayowakilisha ABBYY FineReader, kama vile nembo ya ABBYY FineReader yenye nukuu "ABBYY FineReader".
+Ingiza meza na safu tatu na safu mbili. Ingiza "Kipengele", "Maelezo", na "Manufaa" kwenye safu mlalo ya kwanza.
+Sogeza picha upande wa kulia wa jedwali. ## 1, picture, table, right
+unda chati ya pai kulingana na data ifuatayo, "Usahihi wa Juu" 45%, "Usahihi wa Kati" 45%, na "Usahihi wa Chini" 5%
+Taja chati ya pai "Usahihi wa Ubadilishaji Hati".
+Ongeza kidokezo "Ukurasa wa 2" kwenye slaidi.
+
+Ingiza kichwa "Kampeni ya Uuzaji".
+pigia mstari na uweke kichwa kwa herufi nzito, weka saizi yake ya fonti hadi 26.
+Ingiza maandishi yafuatayo kwenye sehemu ya maudhui:"Kampeni yetu ya uuzaji inalenga kuongeza ufahamu wa chapa, kuwasiliana na hadhira lengwa, na kukuza mauzo. Pamoja na mchanganyiko wa kimkakati wa chaneli za uuzaji za mtandaoni na nje ya mtandao, tunalenga katika kutoa ujumbe wenye matokeo na matokeo yanayoweza kupimika. ."
+Sogeza yaliyomo kwenye upande wa kushoto wa slaidi. ## 0, content, slide, left
+Ingiza picha ya bango la matangazo, toa jina la picha hapa chini. ## 1, textbox, picture, bottom
+weka upana wa picha hadi 5cm kwa urefu,
+ipe slaidi rangi ya mandharinyuma ya kijani kibichi.
+
+Ipe slaidi jina nyekundu linaloitwa "Nishati Endelevu".
+Weka picha inayohusiana na nishati endelevu kama vile turbine ya upepo au paneli za jua. Ang kuweka ukubwa wake hadi 6 cm kwa upana.
+Unda jedwali lenye safu wima 3 na safu 4. Katika safu ya kwanza, orodhesha upepo, jua, maji na jotoardhi. Katika safu ya pili, orodhesha gharama ya chini, athari ya chini ya mazingira, na upatikanaji wa juu. Katika safu ya tatu, orodhesha uwekezaji mkubwa wa awali, upatikanaji wa mara kwa mara, na migogoro ya matumizi ya ardhi.
+Sogeza picha kwenye upande wa juu wa jedwali. ## 0, picture, table, top
+Unda slaidi moja zaidi na utaje kichwa chake kama "Ununuzi wa Mtandaoni", rangi sawa na kichwa kilichotangulia.
+Ongeza maudhui yafuatayo katika sehemu ya maudhui: "Ununuzi mtandaoni ni mchakato wa kununua bidhaa na huduma kutoka kwa wafanyabiashara kupitia Mtandao. Umezidi kuwa maarufu kutokana na urahisi na ufikiaji wake."
+Weka kichwa kwa herufi nzito na ubadilishe rangi ya fonti kuwa samawati. Tengeneza yaliyomo na nafasi mbili.
+Unda slaidi moja zaidi na uweke picha kuhusu mfululizo wa TV. Weka upana wake sawa na picha katika slaidi iliyopita.
+Ipe slaidi rangi ya mandharinyuma ya samawati. Ongeza dokezo "Kuhusu Mfululizo wa TV" kwenye slaidi.
+
+Weka "Tabia za Kula kwa Afya" katika kichwa. Badilisha usuli wa slaidi uwe rangi ya samawati iliyokolea.
+Ingiza maudhui "Bonyeza cheza ili kuanza video". Tengeneza mtindo wa fonti wa yaliyomo kuwa Verdana.
+Ingiza meza na safu mbili na safu mbili. Ingiza "Kikundi cha Chakula", "Huduma Zinazopendekezwa"katika safu ya kwanza.
+Sogeza jedwali hadi upande wa chini wa maudhui. ## 0, table, content, bottom
+Ingiza picha ya mtu anayetumia kompyuta ya mkononi.
+Ingiza mraba kwenye slaidi. Weka urefu wake hadi 2cm.
+Kisha izungushe kushoto na digrii 45.
+
+Ingiza maudhui: "Kwa kumalizia, huduma za TV zimebadilisha jinsi tunavyotumia burudani, na kutoa chaguzi mbalimbali za maudhui na urahisishaji."
+Badilisha mtindo wa fonti wa yaliyomo kuwa "Futura".
+Taja jina kama "Hitimisho" na uifanye kwa ujasiri.
+Weka picha ya sahani ya rangi iliyojaa matunda na mboga.
+Sogeza picha kwenye kona ya chini ya slaidi. ## 0, picture, slide, bottom corner
+badilisha rangi ya usuli wa slaidi kuwa kijani.
+
+Tafadhali unda slaidi mpya na uipe rangi ya usuli ya zambarau,
+ingiza kichwa chake "Hasara",
+weka kichwa kwa ujasiri, na ufanye saizi ya fonti ya mada 24, mtindo wa fonti Arial.
+Ongeza dokezo "2023/3/9" kwenye faili hii.
+Unda chati ya pai, ikijumuisha "Matunda"30%, "Mboga"25%, "Nafaka"15%, "Protini"5%, na "Maziwa25%"
+sogeza chati ya pai kwenye upande wa chini wa slaidi. ## 1, chart, slide, bottom
+Ingiza kisanduku cha maandishi chini ya chati ya pai, na uandike "Hasara ya kula chakula kingi ni kwamba itakufanya unene." kwenye kisanduku cha maandishi. ## 1, textbox, chart, bottom
+Taja chati ya pai "Huduma za Kikundi cha Chakula cha Kila Siku".
+
+Ingiza mshale kwenye slaidi.Weka upana wake kama 3.5,
+izungushe kushoto na digrii 90.
+isogeze hadi upande wa kulia wa slaidi. ## 0, right_arrow, slide, right
+
+Ingiza kichwa "Mitindo ya Teknolojia" na uisisitize.
+Weka rangi ya fonti iwe kijani.Weka ukubwa wa fonti hadi 26.
+Ingiza maandishi yafuatayo katika sehemu ya maudhui:"Kufuata mitindo ya kisasa zaidi ni muhimu katika mazingira ya kisasa ya kidijitali yanayobadilika kwa kasi. Kuanzia akili ya bandia na blockchain hadi kompyuta ya wingu na Mtandao wa Mambo, mitindo hii inaunda tasnia na kuleta mapinduzi katika njia yetu. kuishi, kufanya kazi na kuungana na ulimwengu."
+Weka rangi ya usuli sawa na rangi ya fonti ya kichwa.
+Ingiza picha ya mitandao iliyounganishwa.
+Ingiza meza na safu tatu na safu mbili. Ingiza"Mtindo wa Teknolojia", "Maelezo", na "Athari" kwenye safu mlalo ya kwanza.
+Unda chati ya mstari inayoonyesha ukuaji wa utumiaji wa teknolojia kwa wakati. Jumuisha kategoria za data katika X kama vile "Vifaa vya Mkononi", "Watumiaji wa Mtandao", "AI Applications", "Huduma za Wingu", na "Smart Home Devices" , na thamani zinazolingana katika Y: 15,10,7,6 milioni 24.
+Taja chati ya mstari "Maadili ya Teknolojia".
+Weka chati ya pai iliyo na data na kichwa sawa.
+
+Weka usuli wa slaidi na rangi ya kijani.
+Ingiza kichwa "Maisha Endelevu" na uyafanye kuwa ya italiki.
+Ongeza picha ya chanzo cha nishati mbadala, kama vile paneli ya jua, na uisogeze hadi upande wa kushoto wa slaidi. ## 0, picture, slide, left
+Ingiza maandishi yafuatayo katika sehemu ya maudhui:"Maisha endelevu yanakuza matumizi ya kuwajibika, nishati mbadala, na mazoea rafiki kwa mazingira ili kulinda mazingira na kuhakikisha maisha bora yajayo kwa vizazi vijavyo. Kwa kufanya maamuzi makini katika maisha yetu ya kila siku, tunaweza kupunguza alama yetu ya kaboni na kuunda ulimwengu endelevu zaidi."
+Weka rangi ya fonti iwe ya machungwa iliyokolea.
+Unda chati ya mstari inayoonyesha ukuaji wa matumizi ya nishati mbadala baada ya muda. Jumuisha 2013, 2014 ,2015, 2016 katika X, na data inayolingana katika Y ni 1.6 , 2.4,4.8 na 11 milioni.
+Taja chati ya mstari "Mwenendo wa Matumizi ya Nishati Mbadala".
+Sogeza chati ya mstari hadi upande wa chini wa kichwa. ## 0, chart, title, bottom
+Ingiza umbo la wingu kwenye slaidi. Zungusha wingu kwa digrii 30 kinyume cha saa.
+
+Ingiza meza na safu wima nne na safu tatu.
+Ingiza vitu vitatu kwenye safu wima ya kwanza "Lishe Bora," "Udhibiti wa Sehemu," na "Ugavi wa maji."
+Ingiza picha ya jiji la kijani kibichi kwenye slaidi.
+Sogeza picha kwenye upande wa juu wa slaidi.## 0, picture, slide, top
+Sogeza jedwali hadi upande wa chini wa slaidi.## 0, table, slide, bottom
+
+Ingiza kichwa "Usimamizi wa Mradi" .
+Ongeza picha ya timu inayoshirikiana kwenye mradi.
+Pigia mstari na italiki kichwa.
+Sogeza picha kwenye sehemu ya juu ya kushoto ya slaidi. ## 0, image, slide, left top
+
+Ingiza kichwa, "Ripoti ya Maendeleo ya Mradi."
+Unda jedwali lenye safu wima tatu na safu mlalo tano, weka majina ya kazi, tarehe za mwisho na hali ya maendeleo kwenye safu mlalo ya kwanza.
+Weka rangi ya usuli kuwa zambarau, kichwa kiwe kijani.
+
+Ingiza kichwa "Chuo Kikuu na Shule ya Utaalam"
+Rekebisha saizi ya fonti hadi 36, na upigie mstari kichwa,
+Ingiza maandishi yafuatayo katika sehemu ya maudhui:"Shule za chuo kikuu na taaluma hutoa elimu ya juu na mafunzo maalum ili kuwapa wanafunzi ujuzi na ujuzi unaohitajika kwa taaluma yenye mafanikio. Taasisi hizi hutoa programu mbalimbali za kitaaluma, fursa za utafiti na maendeleo ya kitaaluma kukuza ukuaji wa kibinafsi na maendeleo ya kazi."
+Weka yaliyomo na nafasi mbili.
+Ipe slaidi rangi ya mandharinyuma ya kijani kibichi. Umm, ibadilishe iwe zambarau.
+
+Ingiza taswira ya mazingira ya shule ya kitaaluma.
+Sogeza picha iliyo upande wa kulia wa slaidi.## 0, picture, slide, right
+Ingiza pembetatu kwenye slaidi, na usonge upande wa kushoto wa slaidi. ## 0, triangle, slide, left
+Ongeza upana wa pembetatu hadi 10cm na urefu hadi 15cm.
+Hakikisha kuwa picha iko chini ya pembetatu.## 0, picture, triangle, below
+
+Unda slaidi mpya na uipe usuli wa samawati.
+Ingiza kichwa "NFC", na usome kichwa kwa ujasiri.
+Ingiza maandishi yafuatayo kwenye sehemu ya maudhui:"NFC (Near Field Communication) huwezesha mawasiliano ya bila waya kati ya vifaa vilivyo karibu."
+Weka rangi ya fonti iwe kijani kibichi, weka saizi ya fonti hadi 20.
+Ingiza picha ya nembo ya NFC kwenye slaidi.
+Weka rangi ya usuli kuwa zambarau.
+sogeza picha upande wa kulia wa maudhui. ## 1, picture, slide, right
+
+Ingiza meza na safu wima nne na safu mbili. Ingiza "Bidhaa," "Mapato," "Vitengo Vilivyouzwa," na "Upeo wa Faida." kwenye safu ya kwanza.
+Ipe slaidi rangi ya mandharinyuma ya samawati hafifu.
+
+Unda chati ya mstari inayoonyesha ukuaji wa vifaa vinavyotumia NFC kadri muda unavyopita. Data kwenye X ni 2018. 2019.2020 na 2021. Data sambamba ni 500000; 1300000,2500000,4000000 zinazowakilisha idadi ya vifaa vinavyowashwa na NFC.
+Taja chati ya mstari "Ukuaji wa Kifaa cha NFC".
+Ingiza meza na safu tatu na safu mbili. Ingiza Isiyo na Kiwasilisho, Huwasha miamala inayotegemea mguso, malipo rahisi na ya haraka zaidi kwenye safu mlalo ya pili.
+Ingiza nyota na ufanye upana na urefu wa 6.5cm.
+Sogeza nyota hadi upande wa juu wa jedwali. ## 0, star, table, top
+Sogeza nyota upande wa kulia wa meza. ## 0, star, table, right
+
+Ingiza kichwa na uifanye kwa ujasiri: "Kukumbatia Usumbufu"
+Fanya ukubwa wa fonti ya kichwa 20 na mtindo wa fonti "Times New Roman"
+Weka picha ya mandhari ya jiji ya siku zijazo ili kuwakilisha mabadiliko ya dijitali na uvumbuzi.
+Sogeza picha kwenye upande wa chini wa slaidi. ## 0, picture, slide, bottom
+ongeza kidokezo "Imeundwa kwa [Jina Lako]." kwa slaidi. Ipe slaidi mandharinyuma ya zambarau.
+Si nzuri sana. Badilisha rangi ya usuli kuwa samawati hafifu.
+
+Ingiza kichwa "Power Bank", na usogeze kwenye kona ya kushoto ya slaidi. ## 0, title, slide, left corner
+ongeza saizi ya fonti ya kichwa kuwa 24 na italiki.
+Ingiza maandishi yafuatayo kwenye sehemu ya maudhui: "Power bank ni kifaa kinachobebeka ambacho hutoa malipo ya popote ulipo kwa simu mahiri, kompyuta za mkononi na vifaa vingine vya kielektroniki."
+sisitiza yaliyomo, na uifanye na nafasi mbili, saizi sawa ya kichwa, na uweke rangi yake ya fonti kama machungwa,
+Ingiza picha ya benki ya nguvu ya Yoobao kwenye slaidi. Isogeze hadi upande wa chini wa slaidi. ## 0, picture, slide, bottom
+Ingiza meza na safu wima nne na safu tatu. Ingiza data ifuatayo kwenye jedwali: Chapa, Uwezo (mAh), Lango la Kutoa, Bei ($) kwenye safu mlalo ya kwanza.
+Unda chati ya pai inayoonyesha sehemu ya soko ya chapa tofauti za benki ya nguvu. Data ni Brand A, 40%; Brand B 30%, Brand C 20% na Nyingine 10%.
+Ingiza chati ya pai "Shiriki ya Soko la Power Bank".
+Ongeza dokezo "2023" kwenye slaidi hii.
+Ingiza umbo la callout katika upande wa kulia wa slaidi. ## 0, callout, slide, right
+
+Ingiza kichwa "NBA" na uweke rangi ya fonti kuwa nyekundu.
+Ingiza maandishi yafuatayo kwenye sehemu ya maudhui:"Chama cha Kitaifa cha Mpira wa Kikapu (NBA) ni ligi ya kitaalamu ya mpira wa vikapu inayojumuisha timu 30 kutoka Amerika Kaskazini."
+saizi ya fonti ya maneno ni ndogo sana, weka saizi ya fonti hadi 20.
+Sogeza yaliyomo kwenye kona ya chini ya slaidi. ## 0, content, slide, bottom corner.
+
+Ingiza picha ya uwanja wa mpira wa vikapu kwenye slaidi.
+Sogeza picha kwenye upande wa juu wa slaidi. ## 0, picture, slide, top
+Ongeza kisanduku cha maandishi kinachoonyesha jina la picha. Badilisha usuli hadi rangi ya samawati.
+Ingiza meza na safu nne na safu tatu.
+Ingiza data ifuatayo kwenye jedwali: Timu, Jiji, Mashindano katika safu ya kwanza, Los Angeles, Lakers, 17 kwenye safu ya pili, Boston, Celtics, 17 kwenye safu ya tatu, na Chicago, Bulls, 6 kwenye safu ya nne.
+Unda chati ya pau kulingana na data iliyo kwenye jedwali, data ya X ni Lakers, Celtics na Bulls, data ya Y ni 17, 17 na 6.
+Taja chati ya pai "Usambazaji wa Mashindano ya NBA".
+Unda slaidi mpya na ufanye kichwa kipigiwe mstari "Utangulizi wa Uendeshaji Kiotomatiki."
+Ingiza picha ya gari la siku zijazo linalojiendesha kwenye slaidi. Weka urefu wa picha kama 7cm.
+Ingiza maandishi yafuatayo kwenye sehemu ya maudhui: "Uendeshaji wa kujitegemea, unaojulikana pia kama teknolojia ya kujiendesha au isiyo na udereva, inarejelea magari yenye uwezo wa kuelekeza na kufanya kazi bila kuingizwa na mwanadamu."
+Sogeza yaliyomo kwenye kona ya chini ya slaidi. ## 1, content, slide, bottom corner
+ingiza mshale kwenye slaidi. Isogeze upande wa kushoto wa maudhui. ## 1, right_arrow, content, left
+Lo, sogeza mshale upande wa kulia wa maudhui. ## 1, right_arrow, content, right
+
+Ingiza maudhui yafuatayo, "Uendeshaji wa gari bila kusita unaleta mageuzi katika sekta ya usafiri kwa kutoa usalama ulioimarishwa, urahisi na ufanisi."
+Ongeza saizi ya fonti ya yaliyomo hadi 18, na ufanye yaliyomo kuwa ya herufi nzito na italiki.
+Pia sisitiza yaliyomo na uweke na nafasi mbili.
+Ingiza jedwali na safu wima tano na safu mbili. Safu ya kwanza inaandika Aina za Sensor, Lidar, Rada, Kamera, Jumla.
+Badilisha mtindo wa fonti wa maudhui kuwa "Times New Roman".
+Unda chati ya pai inayoonyesha usambazaji wa aina za vitambuzi zinazotumika katika mifumo ya kuendesha gari inayojiendesha. Data ni Lidar 40%, Rada 30%, Kamera 30%.
+Taja chati ya pai "Aina za Sensorer katika Uendeshaji Kiotomatiki".
+Ongeza dokezo la jina la chati ya pai kwenye slaidi.
+
+Taja slaidi "Uendeshaji wa Kujiendesha"
+Ingiza picha ya nembo ya kampuni na usogeze hadi sehemu ya chini ya kushoto ya slaidi. ## 0, picture, slide, left bottom
+Weka upana na urefu wa alama kama 6.5 cm na 6 cm kwa mtiririko huo.
+Unda slaidi mpya, na uingize kichwa, "Mapitio ya Kuendesha Kiendeshi kwa Eneo."
+Weka fonti ya kichwa kuwa "Calibri" na saizi ya fonti hadi 32.
+Andika taarifa ifuatayo: "Teknolojia za kuendesha gari kwa uhuru zinabadilisha mandhari ya usafiri, kuleta mapinduzi katika sekta na kuimarisha usalama na ufanisi."
+Badilisha rangi ya fonti ya yaliyomo kuwa chungwa iliyokolea.
+
+Unda slaidi mpya. Andika kichwa kama "Nguvu ya Kupanda." Weka fonti ya kichwa iwe "Calibri" yenye saizi ya fonti 36.
+Weka mandharinyuma yenye rangi ya kijani kibichi.
+Jumuisha maudhui yafuatayo: "Kupanda hakupendezi mazingira yetu tu bali pia kunakuza uendelevu wa mazingira na kutoa manufaa mengi ya kiafya."katika sehemu ya maudhui.
+Fanya yaliyomo na kichwa kuwa kijani.
+Ingiza picha ya bustani yenye lush kwenye slaidi,
+Unda chati ya pai kulingana na data, Mazingira 40%, Afya 30% na Jumuiya 30%.
+Taja chati ya pai "Faida za Kupanda".
+Sogeza chati ya pai kwenye upande wa chini wa picha. ## 1, chart, image, bottom
+Ingiza mshale kwenye slaidi. Zungusha kwa digrii 60.
+Weka urefu wake hadi 2cm na upana wake hadi 4cm. Andika "Ukurasa wa 2" kama kidokezo kwenye slaidi.
+
+Ingiza meza na safu wima nne na safu tatu.
+Ingiza data ifuatayo kwenye safu mlalo ya kwanza ya jedwali, Manufaa ya Kupanda, Mazingira, Afya, Jumuiya.
+Weka rangi ya usuli wa slaidi kuwa kijani.
+Taja align_slide_center kama "Maelezo Mengine",
+pigia mstari kichwa na uweke rangi yake ya fonti kama chungwa iliyokolea,
+sogeza kichwa kwenye kona ya juu ya slaidi. ## 0, title, slide, top corner
+
+Ingiza picha ya nembo ya Google kwenye slaidi na kisanduku cha maelezo "Google".
+Ingiza maandishi yafuatayo kwenye sehemu ya maudhui: "Google na Microsoft Edge ni vivinjari viwili maarufu vya wavuti vinavyotoa vipengele na utendaji wa kipekee. Ingawa Google Chrome inatawala soko kwa kasi yake na mfumo mpana wa ikolojia, Microsoft Edge inalenga kutoa uzoefu wa kuvinjari usio na mshono na thabiti. kuunganishwa na mifumo ya uendeshaji ya Windows."
+Weka yaliyomo na nafasi mbili na ufanye saizi ya fonti 16.
+Ingiza kichwa "Google dhidi ya Microsoft Edge".Weka rangi ya fonti iwe nyekundu.
+Sogeza picha kwenye kona ya chini ya slaidi. ## 0, picture, slide, bottom corner
+Ingiza meza na safu tatu na safu tatu. Safu ya kwanza inaandika Vipengele, Google Chrome, Microsoft Edge. Ya pili inaandika Speed,Juu,Moderate, safu ya tatu inaandika Ecosystem,Extensive,Integrated.
+Unda chati ya pau kulinganisha sehemu ya soko ya Google Chrome na Microsoft Edge. Google Chrome ni 50%, Microsoft Edge ni 25% na Nyingine ni 25%.
+Taja chati ya upau "Shiriki Soko la Kivinjari cha Wavuti". Ongeza "Ukurasa wa 1" kama kidokezo kwenye slaidi.
+
+Ipe slaidi rangi ya mandharinyuma ya samawati. Ingiza kichwa "Mtandao na LinkedIn"
+Ingiza maandishi yafuatayo katika sehemu ya maudhui: "Mitandao ina jukumu muhimu katika ukuzaji wa taaluma, na LinkedIn ni jukwaa madhubuti la mitandao ya kitaalamu. Pamoja na mamilioni ya watumiaji duniani kote, LinkedIn hutoa vipengele mbalimbali vya kuunganishwa na wataalamu, ujuzi wa kuonyesha na kugundua nafasi za kazi."
+Weka rangi ya fonti ya kichwa iwe nyekundu iliyokolea na yaliyomo iwe nyekundu.
+weka mtindo wa fonti wa kichwa na yaliyomo kwa Arial.
+Pigia mstari kichwa na italiki maudhui . Ongeza saizi ya fonti ya yaliyomo hadi 24.
+Unda chati ya pai inayoonyesha usambazaji wa watumiaji wa LinkedIn kulingana na tasnia, kulingana na data ifuatayo, Teknolojia 30%, Fedha 20%, Huduma ya Afya 15%, Uuzaji 10%, Nyingine 25%
+Taja chati ya pai "LinkedIn User Distribution".
+ingiza chati ya mstari na data sawa.
+ingiza chati ya upau na data sawa.
+
+Unda slaidi mpya na uweke kichwa "Vipiko Tofauti"
+Ingiza maandishi yafuatayo katika sehemu ya maudhui:"Kuna aina mbalimbali za wapishi zinazopatikana ambazo hukidhi mahitaji tofauti ya kupikia. Kuanzia jiko la kawaida hadi vijiko vya hali ya juu vya umeme na vijiko vya kisasa vya kuelimisha, kila aina hutoa vipengele na manufaa ya kipekee."
+Ingiza meza na safu wima nne na safu tatu. Ingiza Aina ya Jiko, Vipengele, Faida kwenye safu ya kwanza. Ingiza Stovetop, Vichomaji vya gesi au umeme,Udhibiti sahihi wa joto kwenye safu ya pili.
+Tengeneza chati ya pai kulingana na data ifuatayo, Stovetop 40%;Jiko la Umeme 25%;Vijiko vya Kujitambulisha 20%; Jiko la polepole 10%; Kikaangizi hewa 5%.
+ingiza kichwa cha chati ya pai "Umaarufu wa Aina ya Mpikaji".
+Ingiza picha ya jiko kwenye slaidi.
+Weka upana wa picha kuwa 7cm na urefu uwe 6 cm.
+sogeza picha upande wa kulia wa slaidi. ## 1, picture, slide, right
+sogeza picha upande wa kushoto wa slaidi. ## 1, picture, slide, left
+Sogeza hadi kwenye slaidi 0 na uipe rangi ya mandharinyuma ya kijani kibichi.
+
+Ingiza kichwa "Gundua Furaha ya Oreo"
+Mada kwa herufi nzito na italiki.
+Weka saizi ya herufi hadi 30.
+Ingiza maandishi yafuatayo kwenye sehemu ya maudhui: "Oreo, kidakuzi maarufu cha sandwich, kimekuwa kitoweo kinachopendwa na watu wa rika zote. Pamoja na mchanganyiko wake usiozuilika wa kaki za chokoleti na kujaza maridadi, Oreo inatoa uzoefu wa kupendeza wa vitafunio ambao huleta furaha kwa kila mtu. kuumwa."
+Weka rangi ya fonti ya maudhui kuwa samawati iliyokolea.
+Ingiza picha ya vidakuzi vya Oreo kwenye slaidi,
+sogeza picha kwenye kona ya kulia ya slaidi. ## 0, picture, slide, right corner
+ingiza umbo la nyota kwenye slaidi. sogeza nyota kwenye kona ya kushoto ya slaidi. ## 0, star, slide, left corner
+ingiza pai na chati ya mstari kwenye slaidi, data ni Asilia 40%, Mint 10%, Siagi ya Karanga 50%.
+Ninataka chati ya baa iliyo na habari sawa lakini na "Oreo Flavour Umaarufu".
+
+Weka mandharinyuma ya zambarau kwenye slaidi.
+Weka kichwa cha slaidi kama "Tofauti za Msimu" na uifanye kuwa nzito na italiki .
+Ingiza maandishi yafuatayo kwenye sehemu ya maudhui:"Tofauti za msimu huleta haiba ya kipekee katika maisha yetu. Kuanzia rangi angavu za majira ya kuchipua hadi rangi ya joto ya kiangazi, mandhari maridadi ya vuli, na mandhari tulivu ya majira ya baridi, kila msimu hutoa uzoefu wa kipekee. Kubali uzuri wa mabadiliko ya asili mwaka mzima."
+Badilisha mtindo wa fonti wa maudhui kuwa Arial. badilisha saizi ya fonti ya yaliyomo kuwa 18.
+Ingiza meza na safu nne na safu nne. Ingiza Msimu, Wastani wa Halijoto, Vipengele Muhimu,Shughuli kwenye safu mlalo ya kwanza.
+Ingiza umbo la callout kwenye slaidi. Isogeze upande wa kushoto wa slaidi. ## 0, callout, slide, left
+
+Ingiza kichwa "Hali ya hewa katika Guangdong: Hali ya Hewa ya Anuwai"
+sogeza kichwa kwenye kona ya kushoto ya slaidi. ## 0, title, slide, left corner
+Ingiza maandishi yafuatayo katika sehemu ya maudhui yenye nafasi mbili:"Guangdong hupitia hali mbalimbali za hali ya hewa kwa mwaka mzima. Kuanzia siku za joto na jua hadi mvua za mara kwa mara, asubuhi yenye ukungu na anga yenye mawingu, hali ya hewa katika Guangdong ni tofauti na yenye nguvu. Gundua misimu na mifumo tofauti ya hali ya hewa katika eneo hili lenye kupendeza."
+Ingiza picha ya ufuo wa jua kwenye slaidi na uisogeze kwenye kona ya kulia ya slaidi. ## 0, picture, slide, right corner
+Ingiza meza na safu mbili na safu mbili. Katika safu ya kwanza, ingiza Msimu na Wastani wa Joto. katika safu ya pili, ingiza chemchemi 20-28 ℃.
+ipe slaidi rangi ya mandharinyuma ya zambarau.
+sogeza jedwali hadi upande wa chini wa slaidi. ## 0, table, slide, bottom
+ingiza umbo la wingu kwenye slaidi na usogeze upande wa kushoto wa jedwali. ## 0, cloud, table, left
+
+ingiza picha ya mawio ya jua kwenye slaidi.
+weka upana wa picha hadi 6cm. Fanya iwe mraba.
+Ingiza kichwa "Nguvu ya Fikra Chanya: Kukumbatia Matumaini", italiki na nzito.
+Ingiza maandishi yafuatayo katika sehemu ya maudhui kwa mtindo sawa na kichwa:"Fikra chanya ni mtazamo unaozingatia matumaini, uthabiti, na kujiamini. Kwa kusitawisha mawazo na mitazamo chanya, tunaweza kuboresha hali yetu njema, kushinda changamoto. , na utengeneze maisha yenye furaha na kuridhisha zaidi. Kubali uwezo wa kufikiri chanya na ufungue uwezo wako wa kweli."
+tengeneza rangi ya fonti ya yaliyomo kuwa zambarau na saizi ya fonti 20.
+ongeza kidokezo "fikra za posta" kwenye slaidi.
+
+Ingiza meza na safu tatu na safu nne. Ingiza data ifuatayo kwenye jedwali: Faida, Maelezo,Mifano katika safu mlalo ya kwanza. Ingiza " Ustawi Ulioboreshwa" kwenye seli ya kwanza katika safu mlalo ya pili.
+Ingiza maandishi yafuatayo katika sehemu ya maudhui: "Fikra chanya ni fikra inayozingatia matumaini, uthabiti, na kujiamini. Kwa kusitawisha mawazo na mitazamo chanya, tunaweza kuimarisha ustawi wetu, kushinda changamoto, na kuunda furaha na furaha zaidi. maisha yenye kuridhisha zaidi. Kubali nguvu ya fikra chanya na ufungue uwezo wako wa kweli."
+italiki maudhui na ubadilishe rangi ya fonti kuwa samawati hafifu.
+ipe slaidi rangi ya mandharinyuma ya kijani kibichi.
+Ingiza na ushikilie kichwa "Ufafanuzi" kwenye slaidi.
+Sogeza kichwa kwenye kona ya juu ya slaidi. ## 0, title, slide, top corner
+Ingiza picha ya kikundi cha watu wanaocheka kwenye slaidi ya kulia. ## 0, picture, slide, right
+
+Ingiza kichwa "Ainisho la Taka: Kukuza Udhibiti Endelevu wa Taka" Ingiza maandishi yafuatayo katika sehemu ya maudhui:"Uainishaji wa takataka ni zoezi muhimu katika kukuza usimamizi endelevu wa taka. Kwa kupanga na kutupa taka ipasavyo, tunaweza kupunguza uchafuzi wa mazingira, kuhifadhi rasilimali , na kuchangia katika sayari safi na yenye afya zaidi. Kubali jukumu la uainishaji wa takataka na kuleta matokeo chanya kwa mazingira yetu."
+sisitiza yaliyomo na uweke rangi yake ya fonti kama machungwa,
+badilisha saizi ya fonti ya yaliyomo kuwa 18.
+badilisha mtindo wa fonti ya kichwa na maudhui kuwa Times New Roman.
+ingiza mshale kwenye slaidi. Isogeze kwenye kona ya kulia ya slaidi. ## 0, arrow, slide, right corner
+Weka upana wa mshale hadi 4.0 na urefu hadi 3.0.
+Zungusha kushoto kwa digrii 90.
+Unda chati ya pau inayoonyesha viwango vya urejelezaji wa taka tofauti tofauti. Jumuisha kategoria za data kama data kwenye mhimili wa X, kama vile "Karatasi," "Plastiki," "Kioo," "Vyuma," na "Taka Kikaboni." Jumuisha viwango vinavyolingana vya kuchakata kwenye mhimili wa Y na 60%, 50%, 45%,40%, 40%. Taja chati ya upau "Viwango vya Urejelezaji wa Nyenzo Takataka."
+Ingiza picha ya pipa la kuchakata kwenye slaidi.
+unda slaidi mpya na uipe rangi ya usuli ya zambarau.
+taja slaidi mpya "Taka Kikaboni", ukubwa sawa na yaliyomo kwenye slaidi iliyotangulia.
+Ingiza maandishi yafuatayo katika sehemu ya yaliyomo:" Takataka za kikaboni zina jukumu kubwa katika maisha endelevu. Kwa kutengeneza mboji kama vile mabaki ya chakula, taka ya shambani, na mabaki ya kilimo, tunaweza kupunguza taka za taka, kuimarisha ubora wa udongo, na kufunga mzunguko wa virutubisho. . Kubali mazoezi ya kutengeneza mboji na uchangie katika siku zijazo zenye kijani kibichi."
+
+Unda slaidi mpya na uweke mada "filamu ya Oldroyd ya Lady Macbeth" kwa herufi nzito
+Tafadhali pigia mstari kichwa na uweke saizi iwe 28
+Ingiza maudhui "Onyesho la skrini la Birch linatanguliza mabadiliko machache makubwa kwenye simulizi la Leskov. Kwa mfano. Birch na Oldroyd huondoa kabisa vipindi vya Siberia na kuchagua kuacha kujiua kwa Katherine."
+Weka saizi ya fonti ya yaliyomo hadi 20 na uweke yaliyomo kwa herufi nzito.
+badilisha rangi ya fonti ya yaliyomo kuwa ya manjano, rangi ya kichwa kuwa nyekundu.
+ingiza picha ya filamu ya Lady Macbeth na Oldroyd kwenye slaidi,
+weka upana wa picha ya mraba 8cm,
+ihamishe hadi upande wa kulia wa maudhui, ## 1, picture, content, right
+Hapana, isogeze hadi upande wa kushoto wa maudhui, ## 1, picture, content, left
+Ingiza meza na safu tatu na safu mbili.
+Katika safu ya kwanza, ingiza Mhusika wa Filamu, Mwigizaji/Mwigizaji. Katika safu ya pili, ingiza Lady Macbeth,Florence Pugh. Katika tatu, ingiza Macbeth, Cosmo Jarvis.
+ongeza dokezo "Mei 1" kwenye slaidi.
+Badilisha rangi ya usuli iwe zambarau.
+
+Unda slaidi mpya na ufanye kichwa "Umuhimu wa Mazoezi" na upige mstari kichwa,
+Tafadhali weka saizi ya fonti ya kichwa hadi 24 na uweke rangi ya fonti kuwa kijani.
+Ingiza maandishi: "Mazoezi ya mara kwa mara yanaweza kuboresha afya ya moyo na mishipa, kuongeza hisia, na kuongeza viwango vya nishati."
+Weka saizi ya fonti ya yaliyomo 20 na ufanye yaliyomo kwa ujasiri,
+badilisha rangi ya fonti ya yaliyomo kuwa nyekundu,
+Weka picha inayohusiana na mazoezi, kama vile mtu anayekimbia au kufanya yoga.
+Unda chati ya pai kulingana na data, afya ya moyo na mishipa, 10%; nguvu ya misuli 30%, ustawi wa akili 50% na kuzuia magonjwa 10%.
+Ingiza jedwali na safu tano na safu mbili. Ingiza Aina za Mazoezi (k.m., Cardio, mafunzo ya nguvu, kunyumbulika) kwenye safu wima ya kwanza, na Manufaa (k.m., ustahimilivu ulioboreshwa, kuongezeka kwa sauti ya misuli, kunyumbulika) kwenye safu ya pili.
+sogeza jedwali upande wa kulia wa picha. ## 1, table, picture, right
+ingiza umbo la nyota kwenye slaidi na upe slaidi rangi ya usuli ya zambarau.
+sogeza nyota upande wa chini wa kulia wa slaidi. ## 1, star, slide, right bottom
+weka upana wa nyota 8cm, urefu wa 4cm.
+
+Unda slaidi mpya na uipe kichwa "Faida za Kusoma" , Tafadhali pigia mstari kichwa na uweke saizi ya fonti kuwa 24.
+Ingiza maandishi: "Kusoma kunaweza kuboresha kazi ya utambuzi, kuongeza huruma, na kupunguza mkazo."
+yaliyomo kwa ujasiri na italiki,
+Badilisha mtindo wa fonti wa maudhui kuwa Arial. Badilisha rangi ya fonti kuwa kijani.
+Tafadhali weka picha ya mtu anayesoma kitabu kwenye benchi ya bustani
+Unda chati ya pau, ikiwa ni pamoja na kategoria za data za kubuni, zisizo za kubuni, wasifu, kujisaidia na njozi katika X, kiasi cha uchapishaji 1400,992,400,661, 234 katika Y kwa mujibu.
+Taja chati ya mwambaa "Mauzo ya kitabu"
+Ingiza meza na safu tatu na safu tatu.
+Jumuisha taarifa ifuatayo kwenye jedwali, Faida za Kusoma, uboreshaji wa maarifa, upanuzi wa msamiati hadi safu ya kwanza.
+ipe slaidi rangi nyekundu ya usuli,
+ongeza dokezo "Kusoma vitabu" kwenye slaidi.
+unda slaidi mpya yenye usuli sawa na ingiza picha ya saa kwenye slaidi.
+Kurekebisha ukubwa wa picha hadi 10 cm kwa upana na 15 cm kwa urefu.
+ongeza dokezo "KUHUSU KUSOMA" kwenye slaidi.
+
+Unda slaidi mpya na uingize kichwa "Manufaa ya Kujitolea" na ukiwekee mstari
+Tafadhali weka rangi ya fonti ya kichwa iwe nyekundu iliyokolea na uweke saizi iwe 30
+Andika "Kujitolea kunaweza kuongeza furaha, kuboresha ujuzi wa kijamii, na kutoa hisia ya kusudi."
+badilisha rangi ya fonti ya yaliyomo kuwa kijani,
+weka maandishi kwa ujasiri, na ubadilishe saizi ya fonti ya yaliyomo hadi 18.
+sogeza yaliyomo kwenye kona ya chini ya slaidi. ## 1, content, slide, bottom corner
+Tafadhali weka picha ya kikundi cha watu waliojitolea wanaofanya kazi pamoja kwenye mradi wa jumuiya
+sogeza picha kwenye sehemu ya chini ya kushoto ya slaidi. ## 1, picture, slide, left bottom
+Ingiza meza na safu tatu na safu tatu. weka Faida , ukuaji wa kibinafsi, miunganisho ya kijamii kwenye safu wima ya kwanza.
+weka maandishi kwa ujasiri, na uongeze saizi yake ya fonti hadi 20.
+Unda chati ya pau inayoonyesha maeneo mbalimbali ya kujitolea. Jumuisha kategoria za data kama data katika X, huduma za jamii, elimu, afya, uhifadhi wa mazingira na misaada ya majanga. Jumuisha uwiano katika Y, 25%, 45%, 10%, 15%,5%.
+Taja chati ya upau "Umuhimu wa Kujitolea"
+
+Weka rangi ya usuli kuwa zambarau.
+Ingiza kichwa "Mbizo la CAJ". pigia mstari kichwa na italiki kichwa,
+Weka rangi ya fonti ya kichwa kwa rangi ya usuli.
+Ingiza maandishi yafuatayo katika sehemu ya maudhui: "Muundo wa CAJ ni umbizo la faili linalotumika sana nchini Uchina kwa karatasi za kitaaluma na hati za utafiti. Inatoa muundo na mpangilio sanifu wa kushiriki na uchapishaji kwa ufanisi."
+weka yaliyomo na nafasi mbili.
+badilisha mtindo wa fonti wa maandishi kuwa "Arial" na uweke maandishi kwa herufi nzito.
+Weka rangi ya fonti ya maudhui kuwa ya kijani.
+Sogeza yaliyomo kwenye upande wa juu wa slaidi. ## 0, content, slide, top
+Weka picha ya sampuli ya hati katika umbizo la CAJ.
+Sogeza picha kwenye kona ya juu ya slaidi. ## 0, picture, slide, top corner
+Ingiza meza na safu tatu na safu mbili.
+Ingiza "Sehemu", "Kichwa", na "Maudhui" kwenye safu mlalo ya kwanza.
+Unda slaidi mpya na uunde chati ya pau ili kuonyesha matumizi ya miundo tofauti ya faili. Jumuisha kategoria za data kwenye mhimili wa X, kama vile "CAJ", "PDF", "DOC", "PPT", na "XLS".Jumuisha uwiano wa matumizi kwenye mhimili wa Y, kama vile 30%, 25% , 20%, 15%, na 10%.
+Taja chati ya mwambaa "Matumizi ya Umbizo la Faili".
+Ongeza kidokezo "Fomati ya Faili" kwenye slaidi na ufanye usuli kuwa sawa na slaidi zingine.
+
+Ingiza maandishi: "Uandishi wa habari unaweza kupunguza mkazo, kuboresha kumbukumbu, na kuongeza kujitambua."
+Pigia mstari yaliyomo, na ubadilishe saizi ya fonti ya yaliyomo kuwa zambarau,
+taja slaidi "Journaling"
+Italic kichwa na ufanye mtindo wa fonti wa kichwa kuwa Arial,
+Tafadhali weka picha ya mtu anayeandika kwenye jarida
+sogeza picha kwenye upande wa chini wa slaidi, ## 0, picture, slide, bottom
+ingiza umbo la nyota kwenye slaidi iliyo upande wa kulia wa slaidi. ## 0, star, slide, right
+zungusha nyota kwa digrii 60.
+
+Unda slaidi mpya na ukipe jina "Faida za Kupanda Bustani" .Tafadhali weka ukubwa wa fonti ya kichwa hadi 28 na uweke kichwa kwa herufi nzito.
+Ingiza maandishi: "Kutunza bustani kunaweza kupunguza msongo wa mawazo, kuboresha afya ya kimwili, na kuongeza ubunifu."
+Fanya maandishi yawe ya italiki na ubadilishe mtindo wa fonti wa maandishi kuwa "Arial"
+Ingiza umbo la wingu kwenye slaidi ya kulia. ## 1, cloud, slide, right
+sogeza umbo la wingu upande wa kushoto wa kichwa. ## 1, cloud, title, left
+Tafadhali weka picha ya mtu anayefanya kazi kwenye bustani. Weka upana wa picha kama 10cm.
+Unda slaidi mpya na uipe usuli wa samawati hafifu.
+Ingiza pembetatu kwenye slaidi ya kushoto. ## 2, cloud, slide, left
+fanya urefu wa pembetatu 15cm na uzungushe pembetatu na digrii 45.
+
+Tafadhali unda slaidi mpya yenye kichwa "Kampuni za IT".
+Emmm, ni afadhali kutumia herufi nzito ya Times na ukubwa wa kichwa unapaswa kuwa 32.
+Ndio, ninataka picha ya Nembo ya Kampuni ya Apple yenye urefu na upana zote zikiwa 2.
+Unda jedwali kuhusu Mapato ya Mwaka ya Apple yenye safu mlalo 2 na safu wima 3. Safu ya kwanza ni "2020", 2021", 2022". Safu ya pili ni "274B", 365B", 394B".

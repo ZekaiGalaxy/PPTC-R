@@ -1,0 +1,210 @@
+move_to_slide(1);choose_textbox(0);set_font_color('black');move_to_slide(3);choose_textbox(0);set_font_color('black');move_to_slide(6);choose_textbox(0);set_font_color('black');move_to_slide(7);choose_textbox(0);set_font_color('black');move_to_slide(10);choose_textbox(0);set_font_color('black');move_to_slide(13);choose_textbox(0);set_font_color('black');move_to_slide(15);choose_textbox(0);set_font_color('black');
+move_to_slide(0);set_background_color('white');move_to_slide(1);set_background_color('white');move_to_slide(2);set_background_color('white');
+move_to_slide(3);choose_picture(0);rotate_element(75);set_width(8);move_to_slide(4);choose_picture(0);set_width(8);choose_picture(1);set_width(8);
+move_to_slide(3);choose_picture(0);rotate_element(60);
+
+move_to_slide(6);choose_textbox(0);delete_text();insert_text("Морско замърсяване");move_to_slide(7);choose_textbox(0);delete_text();insert_text("Морско замърсяване");move_to_slide(8);choose_textbox(0);delete_text();insert_text("Морско замърсяване");move_to_slide(9);choose_picture(0);set_width(12);choose_picture(1);set_width(12);choose_picture(2);set_width(12);choose_picture(3);set_width(12);choose_picture(4);set_width(12);choose_picture(5);set_width(12);
+move_to_slide(15);choose_textbox(0);set_font_color('red');set_font_size(5);choose_textbox(1);set_font_color('red');set_font_size(5);
+move_to_slide(9);choose_textbox(0);set_font_color('yellow');choose_textbox(1);set_font_color('yellow');choose_textbox(2);set_font_color('yellow');choose_textbox(3);set_font_color('yellow');choose_textbox(4);set_font_color('yellow');choose_textbox(5);set_font_color('yellow');
+move_to_slide(9);choose_textbox(0);set_font_color('red');choose_textbox(1);set_font_color('red');choose_textbox(2);set_font_color('red');choose_textbox(3);set_font_color('red');choose_textbox(4);set_font_color('red');choose_textbox(5);set_font_color('red');
+
+move_to_slide(3);choose_textbox(0);set_font_underline();move_to_slide(5);choose_textbox(0);set_font_underline();
+move_to_slide(0);set_background_color('blue');move_to_slide(1);set_background_color('blue');move_to_slide(2);set_background_color('blue');move_to_slide(11);choose_textbox(0);delete_text();insert_text("Изгряваща звезда");
+move_to_slide(11);choose_textbox(0);delete_text();insert_text("Повече подробности");set_font_bold();
+
+move_to_slide(5);choose_textbox(0);set_font_underline();set_font_size(10);
+move_to_slide(5);choose_textbox(0);set_font_bold();set_font_size(12);
+move_to_slide(8);choose_textbox(0);delete_text();insert_text("Компания за човешко бъдеще");move_to_slide(16);choose_textbox(0);delete_text();insert_text("Печалба на компанията");
+move_to_slide(9);choose_textbox(0);delete_text();insert_text("История на нашата компания");move_to_slide(10);choose_textbox(0);delete_text();insert_text("История на нашата компания");
+
+move_to_slide(0);insert_note("Може да има проблеми с поверителността");move_to_slide(3);insert_note("Може да има проблеми с поверителността");move_to_slide(6);insert_note("Може да има проблеми с поверителността");move_to_slide(7);insert_note("Може да има проблеми с поверителността");move_to_slide(8);insert_note("Може да има проблеми с поверителността");
+move_to_slide(2);choose_textbox(0);set_font_color('black');set_font_underline();move_to_slide(1);choose_textbox(0);set_font_color('black');set_font_underline();move_to_slide(4);choose_textbox(0);set_font_color('black');set_font_underline();move_to_slide(6);choose_textbox(0);set_font_color('black');set_font_underline();move_to_slide(7);choose_textbox(0);set_font_color('black');set_font_underline();
+move_to_slide(8);choose_textbox(0);delete_text();insert_text("Членове и приятели");
+
+move_to_slide(2);choose_textbox(0);delete_text();insert_text("10 важни съвета за вашата ранна кариера");set_font_underline();set_font_size(15);
+move_to_slide(12);insert_note("Това е таблица, която записва средния доход всяка година за ерген.");
+move_to_slide(2);set_background_color('white');move_to_slide(4);set_background_color('white');move_to_slide(6);set_background_color('white');move_to_slide(13);set_background_color('white');
+
+move_to_slide(2);choose_textbox(0);delete_text();insert_text("Морски спортове");set_font_underline();move_to_slide(7);choose_textbox(0);delete_text();insert_text("Четири важни стъпки за игра на скейтборд");
+move_to_slide(10);choose_textbox(0);delete_text();insert_text("Безплатен курс за вашето дете");
+move_to_slide(10);choose_textbox(0);delete_text();insert_text("Безплатни курсове");
+move_to_slide(23);choose_textbox(0);set_font_size(10);set_font_bold();
+
+move_to_slide(2);choose_textbox(0);delete_text();insert_text("Важни фактори за проектиране");move_to_slide(1);insert_note("Лили");
+move_to_slide(3);choose_picture(0);set_height(10);choose_textbox(0);delete_text();insert_text("Подходяща информация от Интернет");
+move_to_slide(13);choose_textbox(0);delete_text();insert_text("Нова тенденция от 2022 до 2023 г.");
+
+move_to_slide(2);choose_textbox(0);delete_text();insert_text("Музикален инструмент");set_font_size(12);
+move_to_slide(5);insert_note("Ние наемаме!");
+move_to_slide(2);choose_textbox(0);set_font_color('purple');set_font_underline();move_to_slide(5);choose_textbox(0);set_font_color('purple');set_font_underline();move_to_slide(6);choose_textbox(0);set_font_color('purple');set_font_underline();move_to_slide(18);choose_textbox(0);set_font_color('purple');set_font_underline();move_to_slide(19);choose_textbox(0);set_font_color('purple');set_font_underline();
+
+move_to_slide(1);choose_picture(0);set_height(5);choose_picture(1);set_height(5);choose_picture(2);set_height(5);choose_textbox(0);delete_text();insert_text("The Art of Young");set_font_underline();
+move_to_slide(4);choose_textbox(0);delete_text();insert_text("The Playboys");set_font_bold();
+move_to_slide(6);choose_picture(0);rotate_element(45);choose_picture(1);rotate_element(45);choose_textbox(0);delete_text();insert_text("Азиатска мода");text_align_center();
+
+move_to_slide(6);choose_textbox(0);delete_text();insert_text("Нашите потребители в света");set_font_bold();move_to_slide(9);choose_textbox(0);delete_text();insert_text("Печалба на нашата компания");
+move_to_slide(5);choose_textbox(0);insert_note("Трябва да актуализирам точките от данни в картината");
+move_to_slide(0);set_background_color('blue');move_to_slide(1);set_background_color('blue');move_to_slide(2);set_background_color('blue');move_to_slide(3);set_background_color('blue');move_to_slide(4);set_background_color('blue');move_to_slide(23);set_background_color('red');
+
+move_to_slide(2);choose_textbox(0);delete_text();insert_text("Купувайте и продавайте БЛОКЧЕЙН в три стъпки");set_font_underline();choose_picture(0);rotate_element(15);move_to_slide(3);choose_picture(0);rotate_element(30);move_to_slide(4);choose_picture(0);rotate_element(45);
+move_to_slide(5);choose_textbox(0);set_font_bold();set_font_underline();choose_textbox(1);set_font_bold();set_font_underline();move_to_slide(9);choose_textbox(0);delete_text();insert_text("Приходи и разходи");
+move_to_slide(0);set_background_color('yellow');move_to_slide(2);set_background_color('yellow');move_to_slide(3);set_background_color('yellow');move_to_slide(6);set_background_color('yellow');
+
+move_to_slide(5);choose_textbox(0);delete_text();insert_text("Пътуване с мама");set_font_underline();
+move_to_slide(9);set_background_color('red');choose_picture(0);set_height(14);choose_picture(1);set_height(14);choose_picture(2);set_height(14);choose_picture(3);set_height(14);choose_picture(4);set_height(14);choose_picture(5);set_height(14);
+move_to_slide(10);choose_textbox(0);delete_text();insert_text("Играй с мама");
+
+move_to_slide(4);set_background_color('yellow');move_to_slide(5);set_background_color('yellow');move_to_slide(1);choose_textbox(0);delete_text();insert_text("Да започнем");
+choose_textbox(1);delete_text();choose_textbox(2);delete_text();choose_textbox(3);delete_text();choose_textbox(4);delete_text();choose_textbox(5);delete_text();choose_textbox(6);delete_text();
+move_to_slide(8);set_background_color('white');choose_textbox(0);set_font_underline();move_to_slide(18);set_background_color('white');choose_textbox(0);set_font_underline();
+
+move_to_slide(3);choose_picture(0);set_width(12);insert_note("Здравейте деца!");
+move_to_slide(10);choose_picture(0);align_slide_left();rotate_element(15);
+move_to_slide(3);choose_textbox(0);set_font_color('blue');move_to_slide(8);choose_textbox(0);set_font_color('blue');move_to_slide(10);choose_textbox(0);set_font_color('blue');move_to_slide(21);choose_textbox(0);set_font_color('blue');
+
+move_to_slide(0);choose_textbox(0);delete_text();insert_text("Изкуството на аранжирането на цветя");set_font_underline();move_to_slide(1);choose_textbox(0);delete_text();insert_text("Поема на цветето");set_font_underline();move_to_slide(2);choose_textbox(0);delete_text();insert_text("Три важни стъпки за аранжиране на цветя");set_font_underline();
+move_to_slide(7);choose_textbox(0);delete_text();insert_text("Не само култури");choose_picture(0);set_height(10);
+move_to_slide(14);choose_textbox(0);align_slide_top();choose_picture(0);rotate_element(12);choose_picture(1);rotate_element(12);choose_picture(2);rotate_element(12);move_to_slide(24);choose_textbox(0);align_slide_top();
+
+move_to_slide(13);choose_textbox(0);delete_text();insert_text("Кое животно има най-дълъг живот?");set_font_color('yellow');
+move_to_slide(1);choose_textbox(0);delete_text();insert_text("Какво ще видите");set_font_size(8);choose_textbox(1);set_font_size(8);choose_textbox(2);set_font_size(8);choose_textbox(3);set_font_size(8);choose_textbox(4);set_font_size(8);choose_textbox(5);set_font_size(8);choose_textbox(6);set_font_size(8);
+move_to_slide(21);choose_textbox(1);delete_text();choose_textbox(2);delete_text();choose_textbox(3);delete_text();choose_textbox(4);delete_text();choose_textbox(5);delete_text();
+
+move_to_slide(5);choose_textbox(0);delete_text();insert_text("Глобално затопляне!");set_font_underline();move_to_slide(3);choose_textbox(0);text_align_left();choose_textbox(1);text_align_left();choose_textbox(2);text_align_left();
+move_to_slide(14);choose_textbox(0);delete_text();insert_text("Настоящи членове на екипа");
+move_to_slide(2);set_background_color('blue');move_to_slide(5);set_background_color('blue');
+
+move_to_slide(7);set_background_color('yellow');move_to_slide(8);set_background_color('yellow');move_to_slide(15);choose_textbox(0);delete_text();insert_text("Кой филм си спомняте, когато видите следните снимки?");set_font_bold();
+move_to_slide(1);choose_textbox(0);delete_text();insert_text("Добре дошли на нашия филмов фестивал!");
+move_to_slide(4);choose_textbox(1);delete_text();choose_textbox(2);delete_text();choose_textbox(3);delete_text();choose_textbox(4);delete_text();choose_textbox(5);delete_text();choose_textbox(6);delete_text();choose_textbox(7);delete_text();choose_textbox(8);delete_text();choose_textbox(9);delete_text();
+
+move_to_slide(5);choose_textbox(0);delete_text();insert_text("Три ключа за идентифициране дали се влюбвате");set_font_underline();move_to_slide(14);choose_textbox(0);delete_text();insert_text("Какво можете да правите вие ​​и вашият любим заедно");set_font_underline();
+move_to_slide(18);insert_note("Нашият адрес е: xxx.");
+move_to_slide(2);set_background_color('blue');move_to_slide(3);set_background_color('blue');move_to_slide(4);set_background_color('blue');move_to_slide(5);set_background_color('blue');move_to_slide(6);set_background_color('blue');move_to_slide(7);set_background_color('blue');move_to_slide(13);set_background_color('blue');move_to_slide(14);set_background_color('blue');
+
+move_to_slide(3);choose_textbox(0);rotate_element(90);move_to_slide(8);choose_textbox(0);delete_text();insert_text("Чипове");
+move_to_slide(14);choose_table();choose_table_cell(1,0);delete_text();insert_text("Отчет за доходите");choose_table_cell(1,1);delete_text();insert_text('1450');choose_table_cell(2,1);delete_text();insert_text("1567");choose_table_cell(3,1);delete_text();insert_text("1456");choose_table_cell(4,1);delete_text();insert_text("8900");
+choose_table_cell(0,2);delete_text();insert_text("Разходи");choose_table_cell(0,3);delete_text();insert_text("Приходи");
+
+move_to_slide(1);choose_textbox(0);set_font_color('black');set_font_bold();move_to_slide(2);choose_textbox(0);set_font_color('black');set_font_bold();move_to_slide(3);choose_textbox(0);set_font_color('black');set_font_bold();move_to_slide(22);choose_textbox(1);delete_text();choose_textbox(2);delete_text();choose_textbox(3);delete_text();choose_textbox(4);delete_text();choose_textbox(5);delete_text();
+move_to_slide(19);choose_textbox(1);delete_text();insert_text("Нашата компания, построена през 2012 г.");
+move_to_slide(11);choose_picture(0);set_height(10);
+
+move_to_slide(18);choose_textbox(0);delete_text();insert_text("Цветен свят");set_font_underline();set_font_size(19);move_to_slide(23);choose_textbox(0);delete_text();insert_text("Добре дошли в нашата група");set_font_underline();
+move_to_slide(12);choose_table();choose_table_cell(1,3);delete_text();insert_text('17');choose_table_cell(3,1);delete_text();insert_text('0');choose_table_cell(3,2);delete_text();insert_text('0');choose_table_cell(3,3);delete_text();insert_text('0');
+move_to_slide(11);choose_textbox(0);delete_text();insert_text("Голяма картина на нашата компания");
+
+move_to_slide(5);choose_textbox(0);align_slide_top();move_to_slide(9);choose_textbox(0);align_slide_top();move_to_slide(10);choose_textbox(0);align_slide_top();move_to_slide(11);choose_textbox(0);align_slide_top();move_to_slide(15);choose_textbox(0);align_slide_top();
+move_to_slide(14);choose_textbox(0);delete_text();insert_text("Топ експерти в нашата група");
+move_to_slide(11);choose_textbox(0);delete_text();insert_text("Кръг 2");
+
+move_to_slide(4);choose_textbox(0);delete_text();insert_text("Добре дошли в ерата на AI");set_font_bold();
+move_to_slide(11);choose_textbox(0);delete_text();insert_text("Нашият млад учен");move_to_slide(16);choose_textbox(0);delete_text();insert_text("Нашият най-нов продукт");
+move_to_slide(17);choose_textbox(0);set_font_underline();
+
+move_to_slide(0);choose_textbox(2);delete_text();insert_text("7.18");choose_picture(0);align_slide_top();
+move_to_slide(6);choose_textbox(0);set_font_color('yellow');choose_textbox(1);set_font_color('green');choose_textbox(2);set_font_color('red');choose_textbox(3);set_font_color('purple');choose_textbox(4);set_font_color('blue');
+move_to_slide(9);choose_textbox(0);set_font_bold();choose_textbox(1);set_font_bold();move_to_slide(7);set_background_color('yellow');move_to_slide(8);set_background_color('yellow');move_to_slide(0);choose_picture(0);set_height(3);
+
+insert_textbox();insert_text(здравей);text_align_center();
+move_to_slide(7);insert_textbox();insert_text(здравей);set_font_color('green');move_to_slide(8);insert_textbox();insert_text(здравей);set_font_color('yellow');move_to_slide(9);insert_textbox();insert_text(здравей);set_font_color('red');move_to_slide(10);insert_textbox();insert_text(здравей);set_font_color('blue');
+move_to_slide(6);choose_picture(0);rotate_element(15);move_to_slide(7);choose_picture(0);rotate_element(30);move_to_slide(8);choose_picture(0);rotate_element(45);move_to_slide(9);choose_picture(0);rotate_element(60);
+
+move_to_slide(3);set_background_color('yellow');move_to_slide(4);set_background_color('green');move_to_slide(5);set_background_color('red');move_to_slide(6);set_background_color('red');move_to_slide(7);set_background_color('yellow');
+move_to_slide(12);insert_note("тук има маса");
+choose_table();choose_table_cell(1,0);delete_text();insert_text("зелено");choose_table_cell(1,1);delete_text();insert_text('11');
+
+move_to_slide(7);choose_textbox(6);delete_text();insert_text("Евтино");choose_textbox(1);delete_text();insert_text("Качество");choose_textbox(3);delete_text();insert_text("Ефективно");move_to_slide(2);choose_textbox(0);text_align_right();
+move_to_slide(2);choose_picture(0);align_slide_right();move_to_slide(4);choose_textbox(0);set_font_size(3);choose_textbox(1);set_font_size(3);choose_textbox(2);set_font_size(3);choose_textbox(3);set_font_size(3);choose_textbox(4);set_font_size(3);choose_textbox(5);set_font_size(3);choose_textbox(6);set_font_size(3);
+move_to_slide(11);insert_note("има таблица за попълване в този слайд.");
+
+move_to_slide(4);choose_textbox(1);delete_text();insert_text("Аз съм Джъстин и искам да споделя идеите си с вас, прекрасни хора!");move_to_slide(6);choose_picture(0);align_slide_left();
+move_to_slide(9);choose_textbox(0);delete_text();insert_text("Въведение в зимните спортове");move_to_slide(10);choose_textbox(0);delete_text();insert_text("Въведение в зимните спортове");move_to_slide(7);choose_textbox(0);delete_text();insert_text("Въведение в зимните спортове");move_to_slide(10);choose_picture(0);set_height(7);
+move_to_slide(4);choose_picture(0);rotate_element(45);move_to_slide(5);choose_picture(0);rotate_element(45);move_to_slide(6);choose_picture(0);rotate_element(45);move_to_slide(7);choose_picture(0);rotate_element(45);
+
+move_to_slide(7);choose_textbox(1);delete_text();insert_text("Външен отдел");
+move_to_slide(5);choose_picture(0);set_height(2);move_to_slide(6);choose_picture(0);set_height(3);move_to_slide(9);choose_picture(0);set_height(4);
+move_to_slide(5);set_background_color('yellow');move_to_slide(6);choose_picture(0);set_height(3);move_to_slide(4);set_background_color('red');
+move_to_slide(4);choose_textbox(0);set_font_size(4);choose_textbox(1);set_font_size(4);choose_textbox(2);set_font_size(4);choose_textbox(3);set_font_size(4);choose_textbox(4);set_font_size(4);choose_textbox(5);set_font_size(4);choose_textbox(6);set_font_size(4);choose_textbox(0);set_font_color('yellow');
+
+move_to_slide(6);choose_textbox(0);delete_text();insert_text("ябълка");choose_textbox(1);set_font_color('yellow');
+move_to_slide(4);choose_textbox(1);set_font_bold();move_to_slide(5);choose_textbox(0);set_font_bold();move_to_slide(6);choose_picture(0);rotate_element(45);move_to_slide(7);choose_picture(0);rotate_element(45);
+move_to_slide(4);choose_textbox(0);set_font_bold();choose_textbox(1);set_font_bold();move_to_slide(5);choose_textbox(0);set_font_underline();choose_textbox(1);set_font_underline();choose_textbox(2);set_font_underline();
+
+move_to_slide(1);set_background_color('green');move_to_slide(3);set_background_color('green');move_to_slide(5);set_background_color('green');move_to_slide(0);set_background_color('blue');move_to_slide(2);set_background_color('blue');move_to_slide(4);set_background_color('blue');
+move_to_slide(2);choose_textbox(0);set_font_bold();move_to_slide(3);choose_textbox(0);set_font_underline();
+move_to_slide(6);choose_textbox(0);align_slide_left();
+move_to_slide(3);choose_textbox(0);set_font_color('yellow');choose_textbox(1);set_font_color('yellow');move_to_slide(5);choose_textbox(0);set_font_color('yellow');choose_textbox(1);set_font_color('yellow');
+
+move_to_slide(2);choose_textbox(1);delete_text();insert_text("Дневен ред 1");choose_textbox(2);delete_text();insert_text("Дневен ред 2");choose_textbox(3);delete_text();insert_text("Дневен ред 3");
+move_to_slide(11);choose_table();choose_table_cell(0,0);delete_text();insert_text("T1");choose_table_cell(0,1);delete_text();insert_text("T2");choose_table_cell(0,2);delete_text();insert_text("T3");choose_table_cell(0,3);delete_text();insert_text("T4");
+move_to_slide(6);set_background_color('yellow');move_to_slide(7);set_background_color('yellow');move_to_slide(5);set_background_color('yellow');move_to_slide(3);insert_note('готов');move_to_slide(4);insert_note('готов');
+
+choose_textbox(0);set_font_underline();
+move_to_slide(0);choose_textbox(0);set_font_color('yellow');move_to_slide(1);set_background_color('red');
+move_to_slide(4);choose_picture(0);align_slide_right();move_to_slide(7);choose_picture(0);align_slide_right();
+
+move_to_slide(0);set_background_color('red');move_to_slide(6);choose_picture(0);set_height(4);
+move_to_slide(6);choose_picture(0);align_slide_left();move_to_slide(7);choose_picture(0);align_slide_left();
+
+move_to_slide(6);choose_picture(0);align_slide_right();move_to_slide(7);choose_picture(0);align_slide_right();
+move_to_slide(4);choose_textbox(0);set_font_bold();move_to_slide(7);set_background_color('red');move_to_slide(5);choose_textbox(1);set_font_underline();
+move_to_slide(6);choose_textbox(1);delete_text();
+
+move_to_slide(7);choose_table();choose_table_cell(0,1);delete_text();insert_text("Енигмата на сенките");choose_table_cell(1,1);delete_text();insert_text("Мая Съливан");
+move_to_slide(4);choose_picture(0);rotate_element(45);move_to_slide(5);choose_picture(0);rotate_element(45);move_to_slide(2);choose_picture(0);rotate_element(90);
+move_to_slide(2);choose_textbox(0);set_font_color('blue');choose_textbox(1);set_font_color('blue');choose_textbox(2);set_font_color('blue');choose_textbox(3);set_font_color('blue');move_to_slide(3);set_background_color('yellow');
+
+move_to_slide(2);choose_textbox(0);set_font_color('green');choose_textbox(1);set_font_color('green');move_to_slide(3);choose_textbox(0);set_font_color('red');choose_textbox(1);set_font_color('red');
+move_to_slide(3);choose_textbox(0);text_align_right();move_to_slide(7);choose_textbox(0);text_align_left();move_to_slide(8);choose_textbox(0);text_align_center();
+move_to_slide(10);choose_textbox(0);delete_text();insert_text("По-зелено е по-добре");
+move_to_slide(2);choose_textbox(0);set_height(3000);set_width(3500);choose_textbox(1);set_height(4000);set_width(4500);
+
+move_to_slide(0);choose_picture(0);align_slide_left();move_to_slide(1);choose_textbox(4);set_font_color('green');move_to_slide(3);choose_textbox(0);set_font_size(4);
+move_to_slide(9);choose_table();align_slide_left();
+move_to_slide(6);choose_textbox(0);set_font_bold();choose_textbox(1);set_font_bold();choose_textbox(2);set_font_bold();move_to_slide(0);choose_textbox(0);set_font_size(2);set_font_underline();
+
+move_to_slide(4);choose_textbox(0);align_slide_top();move_to_slide(6);choose_textbox(0);align_slide_top();move_to_slide(4);choose_textbox(0);set_font_color('yellow');
+move_to_slide(0);choose_picture(0);rotate_element(45);move_to_slide(2);choose_picture(0);rotate_element(60);move_to_slide(3);choose_picture(0);rotate_element(90);
+move_to_slide(8);choose_textbox(0);delete_text();insert_text("132 654 897");
+
+move_to_slide(0);choose_textbox(0);set_font_color('blue');
+move_to_slide(4);set_background_color('red');move_to_slide(5);set_background_color('red');move_to_slide(6);set_background_color('blue');move_to_slide(7);set_background_color('blue');move_to_slide(2);choose_picture(0);align_slide_right();
+move_to_slide(5);choose_textbox(6);delete_text();insert_text('ДА НАПРАВЯ');move_to_slide(6);choose_textbox(0);delete_text();insert_text('ДА НАПРАВЯ');move_to_slide(7);choose_textbox(0);delete_text();insert_text('ДА НАПРАВЯ');
+move_to_slide(0);choose_picture(0);set_height(2);move_to_slide(2);choose_picture(0);set_height(2);move_to_slide(3);choose_picture(0);set_height(2);move_to_slide(1);set_background_color('yellow');move_to_slide(2);set_background_color('yellow');
+move_to_slide(6);choose_textbox(0);set_font_color('red');move_to_slide(2);set_background_color('blue');move_to_slide(3);set_background_color('blue');
+
+move_to_slide(5);choose_picture(0);align_slide_right();
+move_to_slide(9);choose_textbox(0);text_align_right();choose_textbox(1);text_align_right();choose_textbox(2);text_align_right();choose_textbox(3);text_align_right();
+move_to_slide(6);choose_picture(0);set_height(2);move_to_slide(11);choose_textbox(0);set_font_size(10);choose_textbox(1);set_font_size(10);choose_textbox(2);set_font_size(10);
+move_to_slide(11);choose_textbox(2);delete_text();insert_text("Google");
+
+move_to_slide(3);insert_note("Има маса");move_to_slide(6);insert_note("Има маса");
+move_to_slide(1);choose_picture(0);align_slide_top();move_to_slide(0);choose_textbox(0);set_font_underline();choose_textbox(1);set_font_underline();move_to_slide(1);choose_textbox(0);set_font_underline();choose_textbox(1);set_font_underline();
+move_to_slide(3);choose_textbox(1);delete_text();insert_text("K1");choose_textbox(2);delete_text();insert_text("K2");choose_textbox(3);delete_text();insert_text('K3');choose_textbox(4);delete_text();insert_text('K4');choose_textbox(5);delete_text();insert_text("K5");choose_textbox(6);delete_text();insert_text('K6');
+move_to_slide(5);choose_textbox(2);delete_text();insert_text("13 милиона");move_to_slide(1);choose_picture(0);set_height(3);
+
+move_to_slide(3);choose_textbox(2);delete_text();insert_text('00');insert_note("това е третият слайд");
+move_to_slide(0);choose_textbox(0);align_slide_bottom();choose_textbox(1);align_slide_bottom();move_to_slide(1);choose_textbox(0);align_slide_bottom();choose_textbox(1);align_slide_bottom();choose_textbox(2);align_slide_bottom();choose_textbox(3);align_slide_bottom();
+move_to_slide(0);choose_textbox(0);set_font_color('yellow');choose_textbox(2);set_font_color('red');set_background_color('green');
+
+move_to_slide(7);choose_picture(0);align_slide_top();move_to_slide(8);choose_picture(0);align_slide_bottom();
+move_to_slide(3);choose_textbox(0);set_font_size(4);choose_textbox(2);set_font_size(5);
+move_to_slide(0);choose_textbox(0);set_font_color('yellow');choose_textbox(1);set_font_color('red');set_background_color('green');
+
+move_to_slide(4);choose_textbox(0);set_font_color('green');choose_textbox(1);set_font_color('green');move_to_slide(3);set_background_color('yellow');
+move_to_slide(6);choose_textbox(0);delete_text();insert_text('КНИГИ');
+move_to_slide(2);choose_textbox(0);set_font_size(6);choose_textbox(1);set_font_size(6);move_to_slide(4);choose_textbox(0);set_font_size(7);choose_textbox(1);set_font_size(7);move_to_slide(4);choose_picture(0);align_slide_bottom();
+
+move_to_slide(0);set_background_color('yellow');choose_textbox(0);set_font_color('red');choose_textbox(1);set_font_color('red');
+move_to_slide(3);choose_picture(0);align_slide_left();choose_textbox(0);align_slide_left();choose_textbox(1);align_slide_left();choose_textbox(2);align_slide_left();choose_textbox(3);align_slide_left();choose_textbox(4);align_slide_left();choose_textbox(5);align_slide_left();choose_textbox(6);align_slide_left();choose_textbox(7);align_slide_left();choose_textbox(8);align_slide_left();choose_textbox(9);align_slide_left();choose_textbox(10);align_slide_left();choose_textbox(11);align_slide_left();choose_textbox(12);align_slide_left();
+move_to_slide(2);insert_triangle();move_to_slide(3);insert_circle();
+
+move_to_slide(3);set_background_color('blue');move_to_slide(4);set_background_color('yellow');move_to_slide(5);set_background_color('red');
+move_to_slide(7);choose_table();choose_table_cell(0,0);delete_text();insert_text("g1");choose_table_cell(1,0);delete_text();insert_text("g2");choose_table_cell(0,1);delete_text();insert_text("g3");choose_table_cell(1,1);delete_text();insert_text("g4");
+move_to_slide(0);insert_note('0');move_to_slide(1);insert_note('1');move_to_slide(2);insert_note("2");move_to_slide(3);insert_note('3');move_to_slide(4);insert_note('4');move_to_slide(5);insert_note("5");
+
+move_to_slide(10);choose_textbox(0);set_font_size(2);choose_textbox(1);set_font_size(2);choose_textbox(2);set_font_size(2);move_to_slide(11);choose_textbox(0);set_font_color('red');choose_textbox(1);set_font_color('red');choose_textbox(2);set_font_color('red');
+move_to_slide(9);choose_picture(0);align_slide_left();
+move_to_slide(5);set_background_color('green');choose_textbox(0);set_font_color('yellow');choose_textbox(1);set_font_color('yellow');choose_textbox(2);set_font_color('yellow');
+

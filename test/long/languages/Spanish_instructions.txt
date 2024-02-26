@@ -1,0 +1,209 @@
+Hola, ¿puedes hacer que el color del título de las diapositivas 1,3,6,7,10,13 y 15 sea negro?
+Y establezca el fondo de las tres primeras diapositivas en blanco.
+Gire la primera imagen en la diapositiva 3 con 75 grados. Cambie el ancho de las dos primeras imágenes en la diapositiva 4 con personas reales a 8.
+Gire la primera imagen con personas reales con 60 grados.
+
+¿Puede cambiar el título de la diapositiva 6,7,8 a "Contaminación marina"? Luego establezca el ancho de las imágenes en las diapositivas 9 a 12.
+Haga el tamaño de fuente de los dos primeros cuadros de texto en las diapositivas 15 a 5 y establezca el color de fuente en "rojo".
+De acuerdo, luego muévase a la diapositiva 9 y establezca el color de fuente de todos los cuadros de texto en amarillo.
+muévase a la diapositiva que tiene una imagen de la tierra y establezca el color de fuente de todos los cuadros de texto en rojo.
+
+Busque las primeras tres diapositivas que tienen mi imagen personal y describa el título de la primera y la última en estas tres diapositivas.
+Bien, establezca el color de fondo de las tres primeras diapositivas en azul y cambie el título de la diapositiva 11 a "Estrella en ascenso".
+También dé un título para la 11-ésima diapositiva. Emm, creo que 'Más detalles' es una buena opción. Establezca el título en negrita.
+
+Subraye el título de la diapositiva "Nuestra empresa" y establezca el tamaño de fuente en 10.
+Ponga en negrita el título de la diapositiva que tiene una imagen de piñas y establezca el tamaño de fuente en 12.
+Bien, elimine el título original de las diapositivas 8 y 16. Agregue el nuevo título "Compañía para el futuro humano" y "Beneficio de la empresa" para las diapositivas 8 y 16 respectivamente.
+Luego reemplace el título de las diapositivas 9, 10 con 'Historia de nuestra empresa'.
+
+Agregue la nota "Puede tener un problema de privacidad" para todas las diapositivas que tengan una imagen de una persona real.
+Establezca el color de los títulos en las diapositivas 2, 1, 4, 6 y 7 como negro y subráyalos.
+Vaya a la diapositiva sobre los miembros del equipo y cambie el título a "Miembros y amigos".
+
+Establezca el título de la diapositiva 2 como '10 consejos importantes para su carrera inicial' y subráyalo. Además, establezca el tamaño de fuente en 15.
+Vaya a la diapositiva que tiene una tabla y anote "Esta es una tabla que registra el ingreso promedio cada año para un soltero".
+Finalmente, establezca el color de fondo de las diapositivas 2,4, 6 y 13 en blanco.
+
+Convierte el título de la diapositiva 2 en "Deportes marinos" y subráyalo. Además, cambie el título de la diapositiva 7 por "Cuatro pasos importantes para jugar al monopatín".
+Cambie el título de la diapositiva de 'Nuestros servicios' por 'Curso gratuito para su hijo'.
+Cambie el título de la diapositiva que tiene la imagen de los niños y el entrenador como "Cursos gratuitos".
+Finalmente, establezca el tamaño de fuente del título en la última diapositiva en 10 y en negrita.
+
+Haga que el título de la diapositiva 2 sea "Factores importantes para el diseño". Luego agregue una nota para mi imagen en la diapositiva 1 como 'Lily'.
+Establezca la altura de la imagen de la computadora en la diapositiva 3 como 10 y establezca el título de esta diapositiva como "Información relevante de Internet".
+Vaya a la diapositiva que tiene dos tablas y establezca el título como "Nueva tendencia de 2022 a 2023".
+
+Haga que el título de la diapositiva 2 sea "Instrumento musical" y establezca su tamaño de fuente en 12.
+Vaya a la diapositiva que presenta quiénes somos y qué hacemos, agregue una nota en esta diapositiva "¡Estamos contratando!"
+Establezca el color del título de las diapositivas 18, 19, 5, 6 y 2 en púrpura y subráyalas.
+
+Establezca la altura de las imágenes de la diapositiva 1 en 5 y establezca el título de esta diapositiva como "El arte de los jóvenes". Subrayarlo.
+Vaya a la diapositiva que tiene una imagen de tres niños. Haz que el título sea "The Playboys" y ponlo en negrita.
+Gire las imágenes en la diapositiva 6 a 45 grados. Haga el título: 'Moda asiática' y alinéelo al centro.
+
+Cambie el título de la diapositiva 6 a "Nuestros usuarios en el mundo" y colóquelo en negrita. Y agregue un nuevo título para la diapositiva 9 como "Beneficio de nuestra empresa".
+Tome nota para la diapositiva cuyo título es 'Informe de diapositiva de infografía' como 'Necesito actualizar los puntos de datos en la imagen'.
+Establezca el fondo de las primeras cinco diapositivas y la última diapositiva en azul y rojo respectivamente.
+
+Establezca el título de la diapositiva 2 como "Comprar y vender BLOCKCHAIN ​​en tres pasos" y subráyelo. Además, gire la primera imagen en la diapositiva 2, 3 y 4 a 15, 30 y 45 grados respectivamente.
+Subraya todas las fuentes y ponlas en negrita en la diapositiva 5 y crea un título para la última diapositiva como "Ingresos y gastos".
+Establezca el color de fondo de la diapositiva 0,2,3,6 en amarillo.
+
+La identificación de la diapositiva es la solución positiva de la ecuación X^2-25=0. Haga que el título de esta diapositiva sea "Viaje con mamá" y subráyelo.
+Establezca la altura de todas las imágenes en la diapositiva 9 como 14 y establezca el color de fondo en rojo.
+Establezca el título de la siguiente diapositiva como "Juega con mamá".
+
+Establezca el color de fondo de las diapositivas con una imagen de una persona real en amarillo y establezca el título de la diapositiva 1 como "Comencemos".
+Elimine todo el contenido de texto de la diapositiva 1 excepto el primer cuadro de texto de la diapositiva.
+Establezca el color de fondo de todas las diapositivas que tengan un título: ¿Cómo jugar? como blanco. Y subraya el título.
+
+Vuelva a configurar el ancho de la imagen que tiene tres niños como 12 y agregue una nota en esta diapositiva: ¡Hola, niños!
+Ok, entonces haga la imagen con un niño alineado a la izquierda en la diapositiva 10. Y luego gírela 15 grados. ## 10, picture 0, slide, left
+Haga que el título sea de color azul para las diapositivas 3, 8, 10 y 21.
+
+Haga que el título de las tres primeras diapositivas sea 'El arte de los arreglos florales', 'Un poema de flores' y 'Tres pasos importantes para los arreglos florales', respectivamente. Subraya estos títulos.
+Muévase a la diapositiva que tiene una imagen de algodón. y Establezca el título como 'No solo cultivos'. Además, establezca la altura de la primera imagen en 10.
+Haga que el primer cuadro de texto de las diapositivas 14 y 24 esté alineado en la parte superior de la diapositiva. Además, gire todas las imágenes de la diapositiva 14 12 grados. ## 14, textbox 0, slide, top ## 24, textbox 0, slide, top
+
+Agregue un título para la diapositiva 13: "¿Qué animal tiene la vida más larga?" y establezca el color de fuente en amarillo.
+Establezca el tamaño de fuente de todas las fuentes en la diapositiva 1 como 8 y vuelva a escribir el título como '¿Qué vería?'.
+Pase a la diapositiva 21 y elimine toda la información personal por estar desactualizada.
+
+Establezca el título de la diapositiva 5 como "¡Calentamiento global!" y subraye el título. Haga que los cuadros de texto en la diapositiva 3 estén alineados a la izquierda.
+Vaya a la diapositiva 14 y edite el título como "Miembros actuales del equipo".
+Haga que el color de fondo de las diapositivas con hielo y mar sea azul.
+
+Haz que el color de fondo de las diapositivas cuyo tema sea Jurassic Park sea amarillo y establece el título de la diapositiva que tiene una imagen de un búho como "¿Qué película recuerdas cuando ves las siguientes imágenes?" y pon el título en negrita.
+El slide-id es la raíz de la ecuación x^2+2x-3=0. Establezca el título de esta diapositiva como: '¡Bienvenidos a nuestro festival de cine!'.
+Elimine todas las fuentes en las diapositivas sobre los miembros del equipo, excepto el primer cuadro de texto.
+
+Establezca el título de las diapositivas 5 y 14 como "Tres claves para identificar si se está enamorando" y "Qué pueden hacer juntos usted y su amante" respectivamente y subraye el título.
+Vaya a la diapositiva sobre la información de contacto y agregue una nota "Nuestra dirección es: xxx".
+Establezca el color de fondo de las diapositivas 2,3,4,5,6,7, 13 y 14 en azul.
+
+Gire el título de la diapositiva 3 a 90 grados y configure el título de la diapositiva 8 como "Fichas".
+Pase a la diapositiva 14 y complete la segunda columna con 'Estado de resultados', 1450', '1567', 1456' y '8900'.
+Luego complete los elementos en la primera fila y las columnas 2 y 3 con 'Costo' e 'Ingresos'.
+
+Establezca el color de fuente del título en las diapositivas 1 a 3 como negro y negrita el título. Además, elimine la información personal en la diapositiva 22.
+Vaya a la diapositiva 19 e inserte la oración: 'Nuestra empresa se construyó en 2012' en el segundo cuadro de texto.
+Vaya a la diapositiva 11 y reduzca la altura de la imagen. Emm, por ejemplo, haz que la altura de la imagen sea 10.
+
+Establezca el título de las diapositivas 18 y 23 como "Mundo colorido" y "Bienvenido a nuestro grupo", respectivamente. Subraye el título y establezca el tamaño de fuente del primer título en 19.
+Vaya a la diapositiva con una tabla (diapositiva 12) y edite el número en la segunda fila y la última columna como 17. Además, restablezca el valor del número en la última columna como cero.
+Pase a la diapositiva 11 y reescriba el título como "Panorama general de nuestra empresa".
+
+Haga que los títulos de las diapositivas 5, 9, 10, 11 y 15 estén alineados en la parte superior. ## 5, textbox 0, slide, top ## 9, textbox 0, slide, top ## 10, textbox 0, slide, top ## 11, textbox 0, slide, top ## 15, textbox 0, slide, top
+Ok, entonces reescriba el título en la diapositiva 14 como "Expertos principales en nuestro grupo".
+Bien, vaya a la diapositiva que tiene dos cubitos de hielo y establezca el título como "Ronda 2".
+
+Vuelva a escribir el título de la diapositiva 4 como "Bienvenido a la era de la IA" y colóquelo en negrita.
+Vaya a la diapositiva de miembros y agregue un nuevo título: 'Nuestro joven científico'. Pase a la diapositiva 16 y edite el título como: Nuestro producto más nuevo.
+Vaya a la diapositiva que presenta nuestro servicio. Subraya las fuentes en el cuadro de texto.
+
+Complete la fecha de hoy con "7.18" en la diapositiva 0 y mueva la imagen de la diapositiva 0 hacia arriba. ## 0, picture 0, slide, top
+Cambie el color del cuadro de texto con el texto '2015', '2016', '2017', '2018', '2019' a amarillo, verde, rojo, morado, azul, respectivamente en la diapositiva 6.
+negrita todo el cuadro de texto en la diapositiva 9, establezca amarillo para el color de fondo en la diapositiva 7,8, y haga la imagen de la altura 3 en la diapositiva 0.
+
+Inserte un cuadro de texto "Hola" en la diapositiva 0 con el mismo estilo de alineación de texto con otros cuadros de texto.
+Inserte el cuadro de texto "Hola" con color verde, amarillo, rojo, azul en la diapositiva 7,8,9,10 respectivamente.
+Cambie la rotación de la primera imagen en la diapositiva 6,7,8,9 a 15,30,45,60.
+
+Coloree la diapositiva 3,4,5 en amarillo, verde, rojo. Colorea la diapositiva 6,7 ​​a rojo, amarillo.
+En la diapositiva donde hay una mesa, inserte una nota "aquí hay una mesa".
+Cambie la segunda fila de la tabla a |Verde|11|20|7|.
+
+Cambie el cuadro de texto Competitive Edge 1,2,3 a "Barato", "Calidad" y "Efectivo" respectivamente en la diapositiva 7. Alinee todos los cuadros de texto a la derecha en la diapositiva 2.
+Mueva la imagen para deslizar hacia la derecha en la diapositiva 2 y cambie el tamaño de fuente de todos los cuadros de texto en la diapositiva 4 a 3. ## 2, picture 0, slide, right
+Agregue una nota a todas las diapositivas que tengan tablas "hay una tabla para completar en esta diapositiva".
+
+Cambie "Soona" por "Justin" en la diapositiva 4. Mueva la imagen de la diapositiva 6 hacia la izquierda. ## 6, picture 0, slide, left
+Cambie el cuadro de texto "Escriba su tema o idea" en la diapositiva 9, 10, 7 a "Introducción a los deportes de invierno". Cambie la altura de la imagen en la diapositiva 10 a 7.
+Gire las primeras imágenes 45 grados en la diapositiva 4,5,6,7.
+
+Cambie el cuadro de texto "In dept" a "Outside dept".
+Cambie la altura de la imagen a 2,3,4 en la diapositiva 5,6,9 respectivamente.
+Cambie el color de los fondos a amarillo en la diapositiva 5. Cambie la altura de la imagen a 3 en la diapositiva 6. Cambie el color de los fondos a rojo en la diapositiva 4.
+Haga todos los cuadros de texto de tamaño de fuente 4 en la diapositiva 4. Haga el primer cuadro de texto de color de fuente amarillo.
+
+Rellene el cuadro de texto "nuestra empresa" con "Apple" en la diapositiva 6. Cambie el color de fuente del segundo cuadro de texto a amarillo.
+Ahora haga que el cuadro de texto Introducción esté en negrita. Haga que las imágenes giren 45 en las diapositivas 6 y 7.
+Ponga en negrita todo el texto de la diapositiva 4, subraye todo el texto de la diapositiva 5.
+
+Cambie el color de fondo a verde en la diapositiva 1,3,5. Cambie el color de fondo a azul en la diapositiva 0,2,4.
+Ponga en negrita el texto "AGREGAR UNA PÁGINA DE LA AGENDA" en la diapositiva 2 y subraye "HOLA AQUÍ" en la diapositiva 3.
+Mueva el cuadro de texto "ESCRIBA SU TEMA O IDEA" para deslizar hacia la izquierda en la diapositiva 6. ## 6, textbox 0, slide, left
+Haga que el color de fuente de todos los cuadros de texto sea amarillo en las diapositivas 3 y 5.
+
+Cambie el contenido de los cuadros de texto "Escribir agenda" a "Agenda 1", "Agenda 2", "Agenda 3" respectivamente en la diapositiva 2.
+Cambie la primera fila de la tabla a "T1","T2","T3","T4" en la diapositiva 11.
+Establezca el fondo amarillo en la diapositiva 6,7,5. Agregue la nota "listo" a la diapositiva 3,4.
+
+Haga que el texto esté subrayado en la diapositiva 0.
+Establezca el color del cuadro de texto en amarillo en la diapositiva 0 y el color de fondo de la diapositiva 1 en rojo.
+Haga que la primera imagen se deslice hacia la derecha en las diapositivas 4 y 7. ## 4, picture 0, slide, right ## 7, picture 0, slide, right
+
+Establezca el color de fondo en rojo en la diapositiva 0. Cambie la altura de la imagen a 4 en la diapositiva 6.
+Haga que la primera imagen se deslice hacia la izquierda en las diapositivas 6 y 7. ## 6, picture 0, slide, left ## 7, picture 0, slide, left
+
+Coloque todas las figuras para deslizar hacia la derecha en la diapositiva 6 y 7. ## 6, picture 0, slide, left ## 7, picture 0, slide, left
+Ponga en negrita el primer cuadro de texto en la diapositiva 4. Establezca el fondo en rojo en la diapositiva 7. Subraye el segundo cuadro de texto en la diapositiva 5.
+Elimine la información personal en la diapositiva 6.
+
+Complete los detalles de la tabla en la diapositiva 7 con el título del libro "El enigma de las sombras" y la autora "Maya Sullivan".
+Haga que la primera imagen gire 45 en las diapositivas 4 y 5. Sin embargo, la imagen en la diapositiva 2 debe girar 90 grados.
+Quiero que el color del texto en la página 2 sea azul mientras que el color de fondo en la página 3 sea amarillo.
+
+Cambie todas las fuentes a verde en la diapositiva 2 y a rojo en la diapositiva 3.
+Haga que el primer cuadro de texto esté alineado a la derecha en la diapositiva 3, alineado a la izquierda en la diapositiva 7 y alineado al centro en la diapositiva 8.
+El cuadro de texto "Escriba un título aquí" debe ser "Más verde es mejor" en la diapositiva 10.
+Cambie el ancho y alto del primer y segundo cuadro de texto en la diapositiva 2 a 3000,3500 y 4000,4500 respectivamente.
+
+Quiero que la imagen de la diapositiva quede a la izquierda en la diapositiva 0. Ponga "Comencemos" en verde en la diapositiva 1. Cambie el tamaño de fuente del primer cuadro de texto en la diapositiva 3 para que sea 4. ## 0, picture 0, slide, left
+Mueva la tabla en la diapositiva 9 para deslizar hacia la izquierda. ## 9, table, slide, left
+Ponga en negrita el texto de la diapositiva 6. Haga todo el texto de tamaño 2 en la diapositiva 0. Subraye el texto de la diapositiva 0.
+
+Mueva el cuadro de texto a la parte superior de la diapositiva en la diapositiva 4,6. Cambie el color del texto a amarillo en la diapositiva 4. ## 4, textbox 0, slide, top ## 6, textbox 0, slide, top
+Establezca la rotación 45,60,90 para la imagen en la diapositiva 0,2,3.
+Cambie el número a 132 654 897 en la diapositiva 8.
+
+Las Rebajas de Invierno deben estar en color azul en la diapositiva 0.
+Establezca el color de fondo en rojo en la diapositiva 4,5 y azul en la diapositiva 6,7. Mueva la primera imagen en la diapositiva 2 para deslizar hacia la derecha. ## 2, picture 0, slide, right
+Cambie todo "Escriba su tema o idea" a "TODO" en la diapositiva 5,6,7.
+Cambie la altura de la primera imagen a 2 en la diapositiva 0,2,3. Colorea la diapositiva 1,2 a amarillo.
+Colorea el texto de la diapositiva 6 de rojo, mientras que el fondo de la diapositiva debe ser de color azul en las diapositivas 2 y 3.
+
+Mueva la primera imagen de la página "Introducción" a la parte derecha de la diapositiva. ## 5, picture 0, slide, right
+Haga todos los cuadros de texto alineados a la derecha en la diapositiva 9.
+La altura de la imagen debe ser 2 en la diapositiva 6, mientras que el tamaño de fuente de todos los cuadros de texto debe ser 10 en la diapositiva 11.
+Cambie el cuadro de texto del nombre de la empresa en la diapositiva 11 a "Google".
+
+Agregue una nota "Hay una mesa" en las páginas donde hay una mesa.
+Mueve todas las imágenes a la parte superior de la diapositiva. Subraye los cuadros de texto en las diapositivas 0 y 1. ## 1, picture 0, slide, top
+Las características clave deben ser K1-K6 (llenar los cuadros de texto de puntos principales) en la diapositiva 3.
+Cambie "12 millones" a "13 millones" en la diapositiva 5 y haga la imagen de la altura 3 en la diapositiva 1.
+
+El número debe ser 00 en la diapositiva 3. Tenga en cuenta la diapositiva con "es la tercera diapositiva".
+Mueve todos los cuadros de texto a la parte inferior de la diapositiva en las diapositivas 0 y 1. ## 0, textbox 0, slide, bottom ## 0, textbox 1, slide, bottom ## 1, textbox 0, slide, bottom ## 1, textbox 1, slide, bottom ## 1, textbox 2, slide, bottom ## 1, textbox 3, slide, bottom
+Quiero que el primer y segundo cuadro de texto sea amarillo, rojo y que el fondo de la diapositiva sea verde en la diapositiva 0.
+
+Haga que la imagen de la diapositiva 7 sea la parte superior de la diapositiva y la imagen de la diapositiva 8 sea la parte inferior de la diapositiva. ## 7, picture 0, slide, top ## 8, picture 0, slide, bottom
+Haga que el tamaño de fuente del primer cuadro de texto sea 4 mientras que el segundo 5 en la diapositiva 3.
+Haz los primeros tres cuadros de texto en la diapositiva 0 de color amarillo, rojo, verde, respectivamente.
+
+Colorea todos los cuadros de texto de verde en la diapositiva 4 y colorea el fondo de amarillo en la diapositiva 3.
+Cambie "ESCRIBA SU TEMA O IDEA" a "LIBROS" en la diapositiva 6.
+Cambie todo el tamaño de fuente a 6 en la diapositiva 2 y a 7 en la diapositiva 4. Mueva la primera imagen de la diapositiva 4 a la parte inferior de la diapositiva. ## 4, picture 0, slide, bottom
+
+Colorea la primera diapositiva con amarillo y los cuadros de texto deben tener el color de fuente rojo en la diapositiva 0.
+Haga que los cuadros de texto y la imagen se deslicen hacia la izquierda en la tercera diapositiva. ## 3, picture, slide, left ## 3, textbox 0, slide, left ## 3, textbox 1, slide, left ## 3, textbox 2, slide, left ## 3, textbox 3, slide, left ## 3, textbox 4, slide, left ## 3, textbox 5, slide, left ## 3, textbox 6, slide, left ## 3, textbox 7, slide, left ## 3, textbox 8, slide, left ## 3, textbox 9, slide, left ## 3, textbox 10, slide, left ## 3, textbox 11, slide, left ## 3, textbox 12, slide, left
+Inserte un rectángulo en la diapositiva 2. Inserte un círculo en la diapositiva 3.
+
+Coloree la diapositiva 3,4,5 con azul, amarillo, rojo respectivamente.
+El nombre del género puede ser "g1" y "g2" para la tabla de la primera columna de la diapositiva 7. Además, complete la tabla de la diapositiva 7 con "g3" y "g4" en la segunda columna.
+Agregue una nota que indique el número de página (por ejemplo, "0" para la diapositiva 0) en la diapositiva 0-5.
+
+Haga las fuentes de tamaño 2 en la diapositiva 10. Haga que las fuentes sean rojas en la diapositiva 11.
+Las imágenes deben estar en el lado izquierdo de la diapositiva en la página 9. ## 9, picture 0, slide, left
+Haga que el fondo sea verde y la fuente amarilla en la diapositiva 5.

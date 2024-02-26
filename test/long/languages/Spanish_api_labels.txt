@@ -1,0 +1,210 @@
+move_to_slide(1);choose_textbox(0);set_font_color('black');move_to_slide(3);choose_textbox(0);set_font_color('black');move_to_slide(6);choose_textbox(0);set_font_color('black');move_to_slide(7);choose_textbox(0);set_font_color('black');move_to_slide(10);choose_textbox(0);set_font_color('black');move_to_slide(13);choose_textbox(0);set_font_color('black');move_to_slide(15);choose_textbox(0);set_font_color('black');
+move_to_slide(0);set_background_color('white');move_to_slide(1);set_background_color('white');move_to_slide(2);set_background_color('white');
+move_to_slide(3);choose_picture(0);rotate_element(75);set_width(8);move_to_slide(4);choose_picture(0);set_width(8);choose_picture(1);set_width(8);
+move_to_slide(3);choose_picture(0);rotate_element(60);
+
+move_to_slide(6);choose_textbox(0);delete_text();insert_text('Contaminación marítima');move_to_slide(7);choose_textbox(0);delete_text();insert_text('Contaminación marítima');move_to_slide(8);choose_textbox(0);delete_text();insert_text('Contaminación marítima');move_to_slide(9);choose_picture(0);set_width(12);choose_picture(1);set_width(12);choose_picture(2);set_width(12);choose_picture(3);set_width(12);choose_picture(4);set_width(12);choose_picture(5);set_width(12);
+move_to_slide(15);choose_textbox(0);set_font_color('red');set_font_size(5);choose_textbox(1);set_font_color('red');set_font_size(5);
+move_to_slide(9);choose_textbox(0);set_font_color('yellow');choose_textbox(1);set_font_color('yellow');choose_textbox(2);set_font_color('yellow');choose_textbox(3);set_font_color('yellow');choose_textbox(4);set_font_color('yellow');choose_textbox(5);set_font_color('yellow');
+move_to_slide(9);choose_textbox(0);set_font_color('red');choose_textbox(1);set_font_color('red');choose_textbox(2);set_font_color('red');choose_textbox(3);set_font_color('red');choose_textbox(4);set_font_color('red');choose_textbox(5);set_font_color('red');
+
+move_to_slide(3);choose_textbox(0);set_font_underline();move_to_slide(5);choose_textbox(0);set_font_underline();
+move_to_slide(0);set_background_color('blue');move_to_slide(1);set_background_color('blue');move_to_slide(2);set_background_color('blue');move_to_slide(11);choose_textbox(0);delete_text();insert_text("Estrella en ascenso");
+move_to_slide(11);choose_textbox(0);delete_text();insert_text('Más detalles');set_font_bold();
+
+move_to_slide(5);choose_textbox(0);set_font_underline();set_font_size(10);
+move_to_slide(5);choose_textbox(0);set_font_bold();set_font_size(12);
+move_to_slide(8);choose_textbox(0);delete_text();insert_text("Compañía para el futuro humano");move_to_slide(16);choose_textbox(0);delete_text();insert_text("Beneficio de la empresa");
+move_to_slide(9);choose_textbox(0);delete_text();insert_text('Historia de nuestra empresa');move_to_slide(10);choose_textbox(0);delete_text();insert_text('Historia de nuestra empresa');
+
+move_to_slide(0);insert_note('Puede tener un problema de privacidad');move_to_slide(3);insert_note('Puede tener un problema de privacidad');move_to_slide(6);insert_note('Puede tener un problema de privacidad');move_to_slide(7);insert_note('Puede tener un problema de privacidad');move_to_slide(8);insert_note('Puede tener un problema de privacidad');
+move_to_slide(2);choose_textbox(0);set_font_color('black');set_font_underline();move_to_slide(1);choose_textbox(0);set_font_color('black');set_font_underline();move_to_slide(4);choose_textbox(0);set_font_color('black');set_font_underline();move_to_slide(6);choose_textbox(0);set_font_color('black');set_font_underline();move_to_slide(7);choose_textbox(0);set_font_color('black');set_font_underline();
+move_to_slide(8);choose_textbox(0);delete_text();insert_text("Miembros y amigos");
+
+move_to_slide(2);choose_textbox(0);delete_text();insert_text('10 consejos importantes para los inicios de su carrera');set_font_underline();set_font_size(15);
+move_to_slide(12);insert_note("Esta es una tabla que registra el ingreso promedio cada año para un soltero");
+move_to_slide(2);set_background_color('white');move_to_slide(4);set_background_color('white');move_to_slide(6);set_background_color('white');move_to_slide(13);set_background_color('white');
+
+move_to_slide(2);choose_textbox(0);delete_text();insert_text("Deportes marinos");set_font_underline();move_to_slide(7);choose_textbox(0);delete_text();insert_text("Cuatro pasos importantes para jugar al monopatín");
+move_to_slide(10);choose_textbox(0);delete_text();insert_text('Curso Gratis para Tu Hijo');
+move_to_slide(10);choose_textbox(0);delete_text();insert_text("Cursos gratuitos");
+move_to_slide(23);choose_textbox(0);set_font_size(10);set_font_bold();
+
+move_to_slide(2);choose_textbox(0);delete_text();insert_text('Factores importantes para el diseño');move_to_slide(1);insert_note('Lirio');
+move_to_slide(3);choose_picture(0);set_height(10);choose_textbox(0);delete_text();insert_text("Información relevante de Internet");
+move_to_slide(13);choose_textbox(0);delete_text();insert_text("Nueva tendencia de 2022 a 2023");
+
+move_to_slide(2);choose_textbox(0);delete_text();insert_text("Instrumento musical");set_font_size(12);
+move_to_slide(5);insert_note("¡Estamos contratando!");
+move_to_slide(2);choose_textbox(0);set_font_color('purple');set_font_underline();move_to_slide(5);choose_textbox(0);set_font_color('purple');set_font_underline();move_to_slide(6);choose_textbox(0);set_font_color('purple');set_font_underline();move_to_slide(18);choose_textbox(0);set_font_color('purple');set_font_underline();move_to_slide(19);choose_textbox(0);set_font_color('purple');set_font_underline();
+
+move_to_slide(1);choose_picture(0);set_height(5);choose_picture(1);set_height(5);choose_picture(2);set_height(5);choose_textbox(0);delete_text();insert_text("El arte de los jóvenes");set_font_underline();
+move_to_slide(4);choose_textbox(0);delete_text();insert_text("The Playboys");set_font_bold();
+move_to_slide(6);choose_picture(0);rotate_element(45);choose_picture(1);rotate_element(45);choose_textbox(0);delete_text();insert_text('Moda asiática');text_align_center();
+
+move_to_slide(6);choose_textbox(0);delete_text();insert_text("Nuestros usuarios en el mundo");set_font_bold();move_to_slide(9);choose_textbox(0);delete_text();insert_text("Beneficio de nuestra empresa");
+move_to_slide(5);choose_textbox(0);insert_note('Necesito actualizar los puntos de datos en la imagen');
+move_to_slide(0);set_background_color('blue');move_to_slide(1);set_background_color('blue');move_to_slide(2);set_background_color('blue');move_to_slide(3);set_background_color('blue');move_to_slide(4);set_background_color('blue');move_to_slide(23);set_background_color('red');
+
+move_to_slide(2);choose_textbox(0);delete_text();insert_text("Comprar y vender BLOCKCHAIN ​​en tres pasos");set_font_underline();choose_picture(0);rotate_element(15);move_to_slide(3);choose_picture(0);rotate_element(30);move_to_slide(4);choose_picture(0);rotate_element(45);
+move_to_slide(5);choose_textbox(0);set_font_bold();set_font_underline();choose_textbox(1);set_font_bold();set_font_underline();move_to_slide(9);choose_textbox(0);delete_text();insert_text("Ingresos y gastos");
+move_to_slide(0);set_background_color('yellow');move_to_slide(2);set_background_color('yellow');move_to_slide(3);set_background_color('yellow');move_to_slide(6);set_background_color('yellow');
+
+move_to_slide(5);choose_textbox(0);delete_text();insert_text("Viaje con mamá");set_font_underline();
+move_to_slide(9);set_background_color('red');choose_picture(0);set_height(14);choose_picture(1);set_height(14);choose_picture(2);set_height(14);choose_picture(3);set_height(14);choose_picture(4);set_height(14);choose_picture(5);set_height(14);
+move_to_slide(10);choose_textbox(0);delete_text();insert_text("Juega con mamá");
+
+move_to_slide(4);set_background_color('yellow');move_to_slide(5);set_background_color('yellow');move_to_slide(1);choose_textbox(0);delete_text();insert_text("Comencemos");
+choose_textbox(1);delete_text();choose_textbox(2);delete_text();choose_textbox(3);delete_text();choose_textbox(4);delete_text();choose_textbox(5);delete_text();choose_textbox(6);delete_text();
+move_to_slide(8);set_background_color('white');choose_textbox(0);set_font_underline();move_to_slide(18);set_background_color('white');choose_textbox(0);set_font_underline();
+
+move_to_slide(3);choose_picture(0);set_width(12);insert_note('¡Hola niños!');
+move_to_slide(10);choose_picture(0);align_slide_left();rotate_element(15);
+move_to_slide(3);choose_textbox(0);set_font_color('blue');move_to_slide(8);choose_textbox(0);set_font_color('blue');move_to_slide(10);choose_textbox(0);set_font_color('blue');move_to_slide(21);choose_textbox(0);set_font_color('blue');
+
+move_to_slide(0);choose_textbox(0);delete_text();insert_text('El arte de los arreglos florales');set_font_underline();move_to_slide(1);choose_textbox(0);delete_text();insert_text('Un poema de flor');set_font_underline();move_to_slide(2);choose_textbox(0);delete_text();insert_text('Tres pasos importantes para el arreglo floral');set_font_underline();
+move_to_slide(7);choose_textbox(0);delete_text();insert_text('No solo cultivos');choose_picture(0);set_height(10);
+move_to_slide(14);choose_textbox(0);align_slide_top();choose_picture(0);rotate_element(12);choose_picture(1);rotate_element(12);choose_picture(2);rotate_element(12);move_to_slide(24);choose_textbox(0);align_slide_top();
+
+move_to_slide(13);choose_textbox(0);delete_text();insert_text("¿Qué animal tiene la vida más larga?");set_font_color('yellow');
+move_to_slide(1);choose_textbox(0);delete_text();insert_text('¿Cuál verías?');set_font_size(8);choose_textbox(1);set_font_size(8);choose_textbox(2);set_font_size(8);choose_textbox(3);set_font_size(8);choose_textbox(4);set_font_size(8);choose_textbox(5);set_font_size(8);choose_textbox(6);set_font_size(8);
+move_to_slide(21);choose_textbox(1);delete_text();choose_textbox(2);delete_text();choose_textbox(3);delete_text();choose_textbox(4);delete_text();choose_textbox(5);delete_text();
+
+move_to_slide(5);choose_textbox(0);delete_text();insert_text("¡Calentamiento global!");set_font_underline();move_to_slide(3);choose_textbox(0);text_align_left();choose_textbox(1);text_align_left();choose_textbox(2);text_align_left();
+move_to_slide(14);choose_textbox(0);delete_text();insert_text("Miembros actuales del equipo");
+move_to_slide(2);set_background_color('blue');move_to_slide(5);set_background_color('blue');
+
+move_to_slide(7);set_background_color('yellow');move_to_slide(8);set_background_color('yellow');move_to_slide(15);choose_textbox(0);delete_text();insert_text("¿Qué película recuerdas cuando ves las siguientes imágenes?");set_font_bold();
+move_to_slide(1);choose_textbox(0);delete_text();insert_text('¿¡Bienvenidos a Nuestro Festival de Cine!?');
+move_to_slide(4);choose_textbox(1);delete_text();choose_textbox(2);delete_text();choose_textbox(3);delete_text();choose_textbox(4);delete_text();choose_textbox(5);delete_text();choose_textbox(6);delete_text();choose_textbox(7);delete_text();choose_textbox(8);delete_text();choose_textbox(9);delete_text();
+
+move_to_slide(5);choose_textbox(0);delete_text();insert_text("Tres claves para identificar si se está enamorando");set_font_underline();move_to_slide(14);choose_textbox(0);delete_text();insert_text("Qué pueden hacer juntos usted y su amante");set_font_underline();
+move_to_slide(18);insert_note("Nuestra dirección es: xxx");
+move_to_slide(2);set_background_color('blue');move_to_slide(3);set_background_color('blue');move_to_slide(4);set_background_color('blue');move_to_slide(5);set_background_color('blue');move_to_slide(6);set_background_color('blue');move_to_slide(7);set_background_color('blue');move_to_slide(13);set_background_color('blue');move_to_slide(14);set_background_color('blue');
+
+move_to_slide(3);choose_textbox(0);rotate_element(90);move_to_slide(8);choose_textbox(0);delete_text();insert_text("Fichas");
+move_to_slide(14);choose_table();choose_table_cell(1,0);delete_text();insert_text('Estado de resultados');choose_table_cell(1,1);delete_text();insert_text('1450');choose_table_cell(2,1);delete_text();insert_text('1567');choose_table_cell(3,1);delete_text();insert_text('1456');choose_table_cell(4,1);delete_text();insert_text('8900');
+choose_table_cell(0,2);delete_text();insert_text('Costo');choose_table_cell(0,3);delete_text();insert_text('Ganancia');
+
+move_to_slide(1);choose_textbox(0);set_font_color('black');set_font_bold();move_to_slide(2);choose_textbox(0);set_font_color('black');set_font_bold();move_to_slide(3);choose_textbox(0);set_font_color('black');set_font_bold();move_to_slide(22);choose_textbox(1);delete_text();choose_textbox(2);delete_text();choose_textbox(3);delete_text();choose_textbox(4);delete_text();choose_textbox(5);delete_text();
+move_to_slide(19);choose_textbox(1);delete_text();insert_text('Nuestra empresa construida en 2012');
+move_to_slide(11);choose_picture(0);set_height(10);
+
+move_to_slide(18);choose_textbox(0);delete_text();insert_text("Mundo colorido");set_font_underline();set_font_size(19);move_to_slide(23);choose_textbox(0);delete_text();insert_text("Bienvenido a nuestro grupo");set_font_underline();
+move_to_slide(12);choose_table();choose_table_cell(1,3);delete_text();insert_text('17');choose_table_cell(3,1);delete_text();insert_text('0');choose_table_cell(3,2);delete_text();insert_text('0');choose_table_cell(3,3);delete_text();insert_text('0');
+move_to_slide(11);choose_textbox(0);delete_text();insert_text("Panorama general de nuestra empresa");
+
+move_to_slide(5);choose_textbox(0);align_slide_top();move_to_slide(9);choose_textbox(0);align_slide_top();move_to_slide(10);choose_textbox(0);align_slide_top();move_to_slide(11);choose_textbox(0);align_slide_top();move_to_slide(15);choose_textbox(0);align_slide_top();
+move_to_slide(14);choose_textbox(0);delete_text();insert_text("Expertos principales en nuestro grupo");
+move_to_slide(11);choose_textbox(0);delete_text();insert_text("Ronda 2");
+
+move_to_slide(4);choose_textbox(0);delete_text();insert_text("Bienvenido a la era de la IA");set_font_bold();
+move_to_slide(11);choose_textbox(0);delete_text();insert_text('Nuestro joven científico');move_to_slide(16);choose_textbox(0);delete_text();insert_text('Nuestro producto más nuevo');
+move_to_slide(17);choose_textbox(0);set_font_underline();
+
+move_to_slide(0);choose_textbox(2);delete_text();insert_text("7.18");choose_picture(0);align_slide_top();
+move_to_slide(6);choose_textbox(0);set_font_color('yellow');choose_textbox(1);set_font_color('green');choose_textbox(2);set_font_color('red');choose_textbox(3);set_font_color('purple');choose_textbox(4);set_font_color('blue');
+move_to_slide(9);choose_textbox(0);set_font_bold();choose_textbox(1);set_font_bold();move_to_slide(7);set_background_color('yellow');move_to_slide(8);set_background_color('yellow');move_to_slide(0);choose_picture(0);set_height(3);
+
+insert_textbox();insert_text('Hola');text_align_center();
+move_to_slide(7);insert_textbox();insert_text('Hola');set_font_color('green');move_to_slide(8);insert_textbox();insert_text('Hola');set_font_color('yellow');move_to_slide(9);insert_textbox();insert_text('Hola');set_font_color('red');move_to_slide(10);insert_textbox();insert_text('Hola');set_font_color('blue');
+move_to_slide(6);choose_picture(0);rotate_element(15);move_to_slide(7);choose_picture(0);rotate_element(30);move_to_slide(8);choose_picture(0);rotate_element(45);move_to_slide(9);choose_picture(0);rotate_element(60);
+
+move_to_slide(3);set_background_color('yellow');move_to_slide(4);set_background_color('green');move_to_slide(5);set_background_color('red');move_to_slide(6);set_background_color('red');move_to_slide(7);set_background_color('yellow');
+move_to_slide(12);insert_note("aquí hay una mesa");
+choose_table();choose_table_cell(1,0);delete_text();insert_text('Verde');choose_table_cell(1,1);delete_text();insert_text('11');
+
+move_to_slide(7);choose_textbox(6);delete_text();insert_text("Barato");choose_textbox(1);delete_text();insert_text("Calidad");choose_textbox(3);delete_text();insert_text("Efectivo");move_to_slide(2);choose_textbox(0);text_align_right();
+move_to_slide(2);choose_picture(0);align_slide_right();move_to_slide(4);choose_textbox(0);set_font_size(3);choose_textbox(1);set_font_size(3);choose_textbox(2);set_font_size(3);choose_textbox(3);set_font_size(3);choose_textbox(4);set_font_size(3);choose_textbox(5);set_font_size(3);choose_textbox(6);set_font_size(3);
+move_to_slide(11);insert_note("hay una tabla para completar en esta diapositiva");
+
+move_to_slide(4);choose_textbox(1);delete_text();insert_text("¡Soy Justin y deseo compartir mis ideas con ustedes, gente maravillosa!");move_to_slide(6);choose_picture(0);align_slide_left();
+move_to_slide(9);choose_textbox(0);delete_text();insert_text('Introducción a los deportes de invierno');move_to_slide(10);choose_textbox(0);delete_text();insert_text('Introducción a los deportes de invierno');move_to_slide(7);choose_textbox(0);delete_text();insert_text('Introducción a los deportes de invierno');move_to_slide(10);choose_picture(0);set_height(7);
+move_to_slide(4);choose_picture(0);rotate_element(45);move_to_slide(5);choose_picture(0);rotate_element(45);move_to_slide(6);choose_picture(0);rotate_element(45);move_to_slide(7);choose_picture(0);rotate_element(45);
+
+move_to_slide(7);choose_textbox(1);delete_text();insert_text('Departamento externo');
+move_to_slide(5);choose_picture(0);set_height(2);move_to_slide(6);choose_picture(0);set_height(3);move_to_slide(9);choose_picture(0);set_height(4);
+move_to_slide(5);set_background_color('yellow');move_to_slide(6);choose_picture(0);set_height(3);move_to_slide(4);set_background_color('red');
+move_to_slide(4);choose_textbox(0);set_font_size(4);choose_textbox(1);set_font_size(4);choose_textbox(2);set_font_size(4);choose_textbox(3);set_font_size(4);choose_textbox(4);set_font_size(4);choose_textbox(5);set_font_size(4);choose_textbox(6);set_font_size(4);choose_textbox(0);set_font_color('yellow');
+
+move_to_slide(6);choose_textbox(0);delete_text();insert_text('Manzana');choose_textbox(1);set_font_color('yellow');
+move_to_slide(4);choose_textbox(1);set_font_bold();move_to_slide(5);choose_textbox(0);set_font_bold();move_to_slide(6);choose_picture(0);rotate_element(45);move_to_slide(7);choose_picture(0);rotate_element(45);
+move_to_slide(4);choose_textbox(0);set_font_bold();choose_textbox(1);set_font_bold();move_to_slide(5);choose_textbox(0);set_font_underline();choose_textbox(1);set_font_underline();choose_textbox(2);set_font_underline();
+
+move_to_slide(1);set_background_color('green');move_to_slide(3);set_background_color('green');move_to_slide(5);set_background_color('green');move_to_slide(0);set_background_color('blue');move_to_slide(2);set_background_color('blue');move_to_slide(4);set_background_color('blue');
+move_to_slide(2);choose_textbox(0);set_font_bold();move_to_slide(3);choose_textbox(0);set_font_underline();
+move_to_slide(6);choose_textbox(0);align_slide_left();
+move_to_slide(3);choose_textbox(0);set_font_color('yellow');choose_textbox(1);set_font_color('yellow');move_to_slide(5);choose_textbox(0);set_font_color('yellow');choose_textbox(1);set_font_color('yellow');
+
+move_to_slide(2);choose_textbox(1);delete_text();insert_text('Programa 1');choose_textbox(2);delete_text();insert_text('Agenda 2');choose_textbox(3);delete_text();insert_text('Agenda 3');
+move_to_slide(11);choose_table();choose_table_cell(0,0);delete_text();insert_text("T1");choose_table_cell(0,1);delete_text();insert_text("T2");choose_table_cell(0,2);delete_text();insert_text("T3");choose_table_cell(0,3);delete_text();insert_text("T4");
+move_to_slide(6);set_background_color('yellow');move_to_slide(7);set_background_color('yellow');move_to_slide(5);set_background_color('yellow');move_to_slide(3);insert_note('listo');move_to_slide(4);insert_note('listo');
+
+choose_textbox(0);set_font_underline();
+move_to_slide(0);choose_textbox(0);set_font_color('yellow');move_to_slide(1);set_background_color('red');
+move_to_slide(4);choose_picture(0);align_slide_right();move_to_slide(7);choose_picture(0);align_slide_right();
+
+move_to_slide(0);set_background_color('red');move_to_slide(6);choose_picture(0);set_height(4);
+move_to_slide(6);choose_picture(0);align_slide_left();move_to_slide(7);choose_picture(0);align_slide_left();
+
+move_to_slide(6);choose_picture(0);align_slide_right();move_to_slide(7);choose_picture(0);align_slide_right();
+move_to_slide(4);choose_textbox(0);set_font_bold();move_to_slide(7);set_background_color('red');move_to_slide(5);choose_textbox(1);set_font_underline();
+move_to_slide(6);choose_textbox(1);delete_text();
+
+move_to_slide(7);choose_table();choose_table_cell(0,1);delete_text();insert_text("El enigma de las sombras");choose_table_cell(1,1);delete_text();insert_text("Maya Sullivan");
+move_to_slide(4);choose_picture(0);rotate_element(45);move_to_slide(5);choose_picture(0);rotate_element(45);move_to_slide(2);choose_picture(0);rotate_element(90);
+move_to_slide(2);choose_textbox(0);set_font_color('blue');choose_textbox(1);set_font_color('blue');choose_textbox(2);set_font_color('blue');choose_textbox(3);set_font_color('blue');move_to_slide(3);set_background_color('yellow');
+
+move_to_slide(2);choose_textbox(0);set_font_color('green');choose_textbox(1);set_font_color('green');move_to_slide(3);choose_textbox(0);set_font_color('red');choose_textbox(1);set_font_color('red');
+move_to_slide(3);choose_textbox(0);text_align_right();move_to_slide(7);choose_textbox(0);text_align_left();move_to_slide(8);choose_textbox(0);text_align_center();
+move_to_slide(10);choose_textbox(0);delete_text();insert_text('Más verde es mejor');
+move_to_slide(2);choose_textbox(0);set_height(3000);set_width(3500);choose_textbox(1);set_height(4000);set_width(4500);
+
+move_to_slide(0);choose_picture(0);align_slide_left();move_to_slide(1);choose_textbox(4);set_font_color('green');move_to_slide(3);choose_textbox(0);set_font_size(4);
+move_to_slide(9);choose_table();align_slide_left();
+move_to_slide(6);choose_textbox(0);set_font_bold();choose_textbox(1);set_font_bold();choose_textbox(2);set_font_bold();move_to_slide(0);choose_textbox(0);set_font_size(2);set_font_underline();
+
+move_to_slide(4);choose_textbox(0);align_slide_top();move_to_slide(6);choose_textbox(0);align_slide_top();move_to_slide(4);choose_textbox(0);set_font_color('yellow');
+move_to_slide(0);choose_picture(0);rotate_element(45);move_to_slide(2);choose_picture(0);rotate_element(60);move_to_slide(3);choose_picture(0);rotate_element(90);
+move_to_slide(8);choose_textbox(0);delete_text();insert_text('132,654,897');
+
+move_to_slide(0);choose_textbox(0);set_font_color('blue');
+move_to_slide(4);set_background_color('red');move_to_slide(5);set_background_color('red');move_to_slide(6);set_background_color('blue');move_to_slide(7);set_background_color('blue');move_to_slide(2);choose_picture(0);align_slide_right();
+move_to_slide(5);choose_textbox(6);delete_text();insert_text('HACER');move_to_slide(6);choose_textbox(0);delete_text();insert_text('HACER');move_to_slide(7);choose_textbox(0);delete_text();insert_text('HACER');
+move_to_slide(0);choose_picture(0);set_height(2);move_to_slide(2);choose_picture(0);set_height(2);move_to_slide(3);choose_picture(0);set_height(2);move_to_slide(1);set_background_color('yellow');move_to_slide(2);set_background_color('yellow');
+move_to_slide(6);choose_textbox(0);set_font_color('red');move_to_slide(2);set_background_color('blue');move_to_slide(3);set_background_color('blue');
+
+move_to_slide(5);choose_picture(0);align_slide_right();
+move_to_slide(9);choose_textbox(0);text_align_right();choose_textbox(1);text_align_right();choose_textbox(2);text_align_right();choose_textbox(3);text_align_right();
+move_to_slide(6);choose_picture(0);set_height(2);move_to_slide(11);choose_textbox(0);set_font_size(10);choose_textbox(1);set_font_size(10);choose_textbox(2);set_font_size(10);
+move_to_slide(11);choose_textbox(2);delete_text();insert_text("Google");
+
+move_to_slide(3);insert_note('Hay una mesa');move_to_slide(6);insert_note('Hay una mesa');
+move_to_slide(1);choose_picture(0);align_slide_top();move_to_slide(0);choose_textbox(0);set_font_underline();choose_textbox(1);set_font_underline();move_to_slide(1);choose_textbox(0);set_font_underline();choose_textbox(1);set_font_underline();
+move_to_slide(3);choose_textbox(1);delete_text();insert_text('K1');choose_textbox(2);delete_text();insert_text('K2');choose_textbox(3);delete_text();insert_text('K3');choose_textbox(4);delete_text();insert_text('K4');choose_textbox(5);delete_text();insert_text('K5');choose_textbox(6);delete_text();insert_text('K6');
+move_to_slide(5);choose_textbox(2);delete_text();insert_text('13 millones');move_to_slide(1);choose_picture(0);set_height(3);
+
+move_to_slide(3);choose_textbox(2);delete_text();insert_text('00');insert_note('es la tercera diapositiva');
+move_to_slide(0);choose_textbox(0);align_slide_bottom();choose_textbox(1);align_slide_bottom();move_to_slide(1);choose_textbox(0);align_slide_bottom();choose_textbox(1);align_slide_bottom();choose_textbox(2);align_slide_bottom();choose_textbox(3);align_slide_bottom();
+move_to_slide(0);choose_textbox(0);set_font_color('yellow');choose_textbox(2);set_font_color('red');set_background_color('green');
+
+move_to_slide(7);choose_picture(0);align_slide_top();move_to_slide(8);choose_picture(0);align_slide_bottom();
+move_to_slide(3);choose_textbox(0);set_font_size(4);choose_textbox(2);set_font_size(5);
+move_to_slide(0);choose_textbox(0);set_font_color('yellow');choose_textbox(1);set_font_color('red');set_background_color('green');
+
+move_to_slide(4);choose_textbox(0);set_font_color('green');choose_textbox(1);set_font_color('green');move_to_slide(3);set_background_color('yellow');
+move_to_slide(6);choose_textbox(0);delete_text();insert_text('LIBROS');
+move_to_slide(2);choose_textbox(0);set_font_size(6);choose_textbox(1);set_font_size(6);move_to_slide(4);choose_textbox(0);set_font_size(7);choose_textbox(1);set_font_size(7);move_to_slide(4);choose_picture(0);align_slide_bottom();
+
+move_to_slide(0);set_background_color('yellow');choose_textbox(0);set_font_color('red');choose_textbox(1);set_font_color('red');
+move_to_slide(3);choose_picture(0);align_slide_left();choose_textbox(0);align_slide_left();choose_textbox(1);align_slide_left();choose_textbox(2);align_slide_left();choose_textbox(3);align_slide_left();choose_textbox(4);align_slide_left();choose_textbox(5);align_slide_left();choose_textbox(6);align_slide_left();choose_textbox(7);align_slide_left();choose_textbox(8);align_slide_left();choose_textbox(9);align_slide_left();choose_textbox(10);align_slide_left();choose_textbox(11);align_slide_left();choose_textbox(12);align_slide_left();
+move_to_slide(2);insert_triangle();move_to_slide(3);insert_circle();
+
+move_to_slide(3);set_background_color('blue');move_to_slide(4);set_background_color('yellow');move_to_slide(5);set_background_color('red');
+move_to_slide(7);choose_table();choose_table_cell(0,0);delete_text();insert_text("g1");choose_table_cell(1,0);delete_text();insert_text("g2");choose_table_cell(0,1);delete_text();insert_text("g3");choose_table_cell(1,1);delete_text();insert_text("g4");
+move_to_slide(0);insert_note('0');move_to_slide(1);insert_note('1');move_to_slide(2);insert_note('2');move_to_slide(3);insert_note('3');move_to_slide(4);insert_note('4');move_to_slide(5);insert_note('5');
+
+move_to_slide(10);choose_textbox(0);set_font_size(2);choose_textbox(1);set_font_size(2);choose_textbox(2);set_font_size(2);move_to_slide(11);choose_textbox(0);set_font_color('red');choose_textbox(1);set_font_color('red');choose_textbox(2);set_font_color('red');
+move_to_slide(9);choose_picture(0);align_slide_left();
+move_to_slide(5);set_background_color('green');choose_textbox(0);set_font_color('yellow');choose_textbox(1);set_font_color('yellow');choose_textbox(2);set_font_color('yellow');
+

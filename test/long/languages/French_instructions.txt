@@ -1,0 +1,209 @@
+Bonjour, pouvez-vous faire en sorte que la couleur du titre des diapositives 1,3,6,7,10,13 et 15 soit noire ?
+Et définissez l'arrière-plan des trois premières diapositives sur blanc.
+Faites pivoter la première image de la diapositive 3 de 75 degrés. Changez la largeur des deux premières images sur la diapositive 4 avec de vraies personnes à 8.
+Faites pivoter la première image avec de vraies personnes à 60 degrés.
+
+Pouvez-vous changer le titre des diapositives 6, 7, 8 en " Pollution marine " ? Définissez ensuite la largeur des images dans les diapositives 9 à 12.
+Définissez la taille de la police des deux premières zones de texte dans les diapositives 15 à 5 et définissez la couleur de la police sur "rouge".
+OK, puis passez à la diapositive 9 et définissez la couleur de police de toutes les zones de texte sur jaune.
+passez à la diapositive contenant une image de la Terre et définissez la couleur de police de toutes les zones de texte sur rouge.
+
+Veuillez trouver les trois premières diapositives qui ont mon image personnelle et décrire le titre de la première et de la dernière dans ces trois diapositives.
+OK, définissez la couleur d'arrière-plan des trois premières diapositives sur bleu et changez le titre de la 11e diapositive en "Étoile montante".
+Donnez également un titre pour la 11e diapositive. Emm, je pense que "Plus de détails" est un bon choix. Mettez le titre en gras.
+
+Soulignez le titre de la diapositive "Notre entreprise" et définissez la taille de la police sur 10.
+Mettez en gras le titre de la diapositive contenant une image d'ananas et définissez la taille de la police sur 12.
+OK, alors veuillez supprimer le titre original des diapositives 8 et 16. Ajoutez le nouveau titre " Company for Human Future " et " Company Profit " pour les diapositives 8 et 16 respectivement.
+Remplacez ensuite le titre des diapositives 9, 10 par " Histoire de notre entreprise ".
+
+Veuillez ajouter la note "Peut avoir un problème de confidentialité" pour toutes les diapositives contenant une photo d'une personne réelle.
+Définissez la couleur des titres dans les diapositives 2, 1, 4, 6 et 7 en noir et soulignez-les.
+Passez à la diapositive sur les membres de l'équipe et changez le titre en "Membres et amis".
+
+Définissez le titre de la diapositive 2 sur "10 conseils importants pour votre début de carrière" et soulignez-le. Définissez également la taille de la police sur 15.
+Déplacez-vous vers la diapositive qui contient un tableau et notez " Ceci est un tableau qui enregistre le revenu moyen chaque année pour un célibataire ".
+Enfin, définissez la couleur d'arrière-plan des diapositives 2, 4, 6 et 13 sur blanc.
+
+Transformez le titre de la diapositive 2 en "Sports marins" et soulignez-le. Changez également le titre de la diapositive 7 en "Quatre étapes importantes pour jouer au skateboard".
+Remplacez le titre de la diapositive " Nos services " par " Cours gratuit pour votre enfant ".
+Changez le titre de la diapositive qui a des enfants et l'image de l'entraîneur en "Cours gratuits".
+Enfin, définissez la taille de la police du titre dans la dernière diapositive sur 10 et gras.
+
+Faites en sorte que le titre de la diapositive 2 soit "Facteurs importants pour la conception". Ajoutez ensuite une note pour mon image dans la diapositive 1 en tant que "Lily".
+Définissez la hauteur de l'image de l'ordinateur dans la diapositive 3 sur 10 et définissez le titre de cette diapositive sur "Informations pertinentes provenant d'Internet".
+Passez à la diapositive qui comporte deux tableaux et définissez le titre sur "Nouvelle tendance de 2022 à 2023".
+
+Définissez le titre de la diapositive 2 sur " Instrument de musique " et définissez sa taille de police sur 12.
+Passez à la diapositive qui présente qui nous sommes et ce que nous faisons, ajoutez une note dans cette diapositive "Nous embauchons !"
+Définissez la couleur du titre des diapositives 18, 19, 5, 6 et 2 sur violet et soulignez-les.
+
+Définissez la hauteur des images de la diapositive 1 sur 5 et définissez le titre de cette diapositive sur "L'art de la jeunesse". Soulignez-le.
+Passez à la diapositive qui contient une photo de trois garçons. Faites le titre comme "The Playboys" et mettez-le en gras.
+Faites pivoter les images de la diapositive 6 à 45 degrés. Créez le titre : "Asian Fashion" et alignez-le au centre.
+
+Remplacez le titre de la diapositive 6 par "Nos utilisateurs dans le monde" et mettez-le en gras. Et ajoutez un nouveau titre pour la diapositive 9 en tant que "Profit de notre entreprise".
+Notez pour la diapositive que le titre est "Rapport de diapositive d'infographie" car "J'ai besoin de mettre à jour les points de données dans l'image".
+Définissez l'arrière-plan des cinq premières diapositives et de la dernière diapositive sur bleu et rouge respectivement.
+
+Définissez le titre de la diapositive 2 sur "Acheter et vendre une BLOCKCHAIN ​​en trois étapes" et soulignez-le. Faites également pivoter la première image des diapositives 2, 3 et 4 à 15, 30 et 45 degrés respectivement.
+Soulignez toutes les polices et mettez-les en gras dans la diapositive 5 et créez un titre pour la dernière diapositive en tant que "Revenus et dépenses".
+Définissez la couleur d'arrière-plan de la diapositive 0,2,3,6 sur jaune.
+
+L'identifiant de la diapositive est la solution positive de l'équation X^2-25=0. Faites en sorte que le titre de cette diapositive soit " Voyage avec maman " et soulignez-le.
+Définissez la hauteur de toutes les images de la diapositive 9 sur 14 et définissez la couleur d'arrière-plan sur rouge.
+Définissez le titre de la diapositive suivante sur "Jouer avec maman".
+
+Définissez la couleur d'arrière-plan des diapositives avec une image de personne réelle sur jaune et définissez le titre de la diapositive 1 sur "Commençons".
+Supprimez tout le contenu textuel de la diapositive 1, à l'exception de la première zone de texte de la diapositive.
+Définissez la couleur d'arrière-plan de toutes les diapositives ayant un titre : Comment jouer ? " en blanc. Et soulignez le titre.
+
+Veuillez redéfinir la largeur de l'image qui a trois enfants à 12 ans et ajouter une note dans cette diapositive : Bonjour les enfants ! "
+Ok, puis faites l'image avec un enfant aligné à gauche sur la diapositive 10. Et puis faites-la pivoter de 15 degrés. ## 10, picture 0, slide, left
+Mettez le titre en bleu pour les diapositives 3, 8, 10 et 21.
+
+Faites le titre des trois premières diapositives comme "L'art de l'arrangement floral", "Un poème de fleur" et "Trois étapes importantes pour l'arrangement floral" respectivement. Soulignez ces titres.
+Déplacez-vous vers la diapositive contenant une image en coton. et Définissez le titre comme "Pas seulement des cultures". Définissez également la hauteur de la première image sur 10.
+Alignez la première zone de texte des diapositives 14 et 24 en haut de la diapositive. Faites également pivoter toutes les images de la diapositive 14 de 12 degrés. ## 14, textbox 0, slide, top ## 24, textbox 0, slide, top
+
+Ajoutez un titre pour la diapositive 13 : " Quel animal a la vie la plus longue ? " et définissez la couleur de la police sur jaune.
+Définissez la taille de police de toutes les polices de la diapositive 1 sur 8 et réécrivez le titre en tant que "Que verriez-vous".
+Passez à la diapositive 21 et supprimez toutes les informations personnelles en raison de leur obsolescence.
+
+Définissez le titre de la diapositive 5 sur " Réchauffement climatique ! " et soulignez le titre. Alignez à gauche les zones de texte de la diapositive 3.
+Passez à la diapositive 14 et modifiez le titre en tant que "Membres actuels de l'équipe".
+Faites en sorte que la couleur de fond des diapositives avec l'image de la glace et de la mer soit bleue.
+
+Faites en sorte que la couleur d'arrière-plan des diapositives dont le sujet est Jurassic Park soit jaune et définissez le titre de la diapositive qui a une image de hibou comme " De quel film vous souvenez-vous lorsque vous voyez les images suivantes ? " et mettez le titre en gras.
+Le slide-id est la racine de l'équation x^2+2x-3=0. Définissez le titre de cette diapositive comme : "Bienvenue à notre festival du film !".
+Supprimez toutes les polices des diapositives concernant les membres de l'équipe, à l'exception de la première zone de texte.
+
+Définissez le titre des diapositives 5 et 14 sur "Trois clés pour identifier si vous tombez amoureux" et "Que pouvez-vous faire ensemble avec votre amant" et soulignez le titre.
+Passez à la diapositive sur les informations de contact et ajoutez une note "Notre adresse est : xxx".
+Définissez la couleur d'arrière-plan des diapositives 2, 3, 4, 5, 6, 7, 13 et 14 sur bleu.
+
+Faites pivoter le titre de la diapositive 3 à 90 degrés et définissez le titre de la diapositive 8 sur "Chips".
+Passez à la diapositive 14 et remplissez la deuxième colonne avec "Income Statement", 1450','1567',1456' et '8900'.
+Remplissez ensuite les éléments de la première ligne et des colonnes 2 et 3 avec "Coût" et "Revenu".
+
+Définissez la couleur de la police du titre dans les diapositives 1 à 3 en noir et en gras le titre. Supprimez également les informations personnelles de la diapositive 22.
+Passez à la diapositive 19 et insérez la phrase : " Notre société créée en 2012 " dans la deuxième zone de texte.
+Passez à la diapositive 11 et réduisez la hauteur de l'image. Emm, par exemple, définissez la hauteur de l'image sur 10.
+
+Définissez le titre des diapositives 18 et 23 sur " Monde coloré " et " Bienvenue dans notre groupe " respectivement. Soulignez le titre et définissez la taille de la police du premier titre sur 19.
+Passez à la diapositive avec un tableau (diapositive 12) et modifiez le nombre dans la deuxième ligne et la dernière colonne en tant que 17. Réinitialisez également la valeur numérique dans la dernière colonne en tant que zéro.
+Passez à la diapositive 11 et réécrivez le titre en tant que " Vue d'ensemble de notre entreprise ".
+
+Alignez les titres des diapositives 5, 9, 10, 11 et 15 en haut. ## 5, textbox 0, slide, top ## 9, textbox 0, slide, top ## 10, textbox 0, slide, top ## 11, textbox 0, slide, top ## 15, textbox 0, slide, top
+Ok, puis réécrivez le titre de la diapositive 14 en tant que "Meilleurs experts de notre groupe".
+Bien, passez à la diapositive qui contient deux glaçons et définissez le titre sur "Round 2".
+
+Réécrivez le titre de la diapositive 4 en tant que "Bienvenue à l'ère de l'IA" et mettez-le en gras.
+Passez à la diapositive des membres et ajoutez un nouveau titre : " Notre jeune scientifique ". Passez à la diapositive 16 et modifiez le titre comme suit : Notre nouveau produit ".
+Passez à la diapositive qui présente notre service. Soulignez les polices dans la zone de texte.
+
+Remplissez la date d'aujourd'hui avec "7.18" dans la diapositive 0 et déplacez l'image de la diapositive 0 vers le haut. ## 0, picture 0, slide, top
+Changez la couleur de la zone de texte avec le texte '2015','2016','2017','2018','2019' en jaune, vert, rouge, violet, bleu, respectivement sur la diapositive 6.
+Mettez en gras toute la zone de texte sur la diapositive 9, définissez le jaune comme couleur d'arrière-plan sur les diapositives 7,8 et créez l'image de hauteur 3 sur la diapositive 0.
+
+Insérez une zone de texte "Salut" sur la diapositive 0 avec le même style d'alignement de texte avec les autres zones de texte.
+Insérez la zone de texte "Salut" avec la couleur verte, jaune, rouge, bleue sur les diapositives 7,8,9,10 respectivement.
+Modifiez la rotation de la première image sur les diapositives 6,7,8,9 en 15,30,45,60.
+
+Diapositive de couleur 3,4,5 en jaune, vert, rouge. Diapositive de couleur 6,7 à rouge, jaune.
+Sur la diapositive où il y a un tableau, insérez une note "voici un tableau".
+Remplacez la deuxième ligne du tableau par |Green|11|20|7|.
+
+Changez la zone de texte Competitive Edge 1,2,3 en "Bon marché", "Qualité" et "Efficace" respectivement sur la diapositive 7. Alignez toutes les zones de texte à droite sur la diapositive 2.
+Déplacez l'image vers la droite de la diapositive 2 et modifiez la taille de la police de toutes les zones de texte de la diapositive 4 à 3. ## 2, picture 0, slide, right
+Ajoutez une note à toutes les diapositives contenant des tableaux "il y a un tableau à remplir dans cette diapositive.".
+
+Remplacez " Soona " par " Justin " sur la diapositive 4. Déplacez l'image de la diapositive 6 vers la gauche. ## 6, picture 0, slide, left
+Remplacez la zone de texte " Rédigez votre sujet ou idée " sur les diapositives 9,10,7 par " Introduction aux sports d'hiver ". Modifiez la hauteur de l'image sur les diapositives 10 à 7.
+Faites pivoter les premières images de 45 degrés sur les diapositives 4,5,6,7.
+
+Remplacez la zone de texte "En service" par "En dehors du service".
+Changez la hauteur de l'image en 2,3,4 sur les diapositives 5,6,9 respectivement.
+Modifiez la couleur des arrière-plans en jaune sur la diapositive 5. Modifiez la hauteur de l'image sur 3 sur la diapositive 6. Modifiez la couleur des arrière-plans en rouge sur la diapositive 4.
+Créez toutes les zones de texte de taille de police 4 sur la diapositive 4. Créez la première zone de texte de couleur de police jaune.
+
+Remplissez la zone de texte "notre entreprise" avec "Apple" sur la diapositive 6. Changez la couleur de police de la deuxième zone de texte en jaune.
+Maintenant, mettez la zone de texte Introduction en gras. Faites pivoter les images de 45 sur les diapositives 6 et 7.
+Mettez en gras tout le texte de la diapositive 4, Soulignez tout le texte de la diapositive 5.
+
+Changez la couleur d'arrière-plan en vert sur les diapositives 1,3,5. Changez la couleur d'arrière-plan en bleu sur les diapositives 0,2,4.
+Mettez en gras le texte " AJOUTER UNE PAGE D'AGENDA " sur la diapositive 2 et soulignez " BONJOUR " sur la diapositive 3.
+Déplacez la zone de texte "ÉCRIVEZ VOTRE SUJET OU IDÉE" pour faire glisser vers la gauche sur la diapositive 6. ## 6, textbox 0, slide, left
+Faites en sorte que la couleur de police de toutes les zones de texte soit jaune sur les diapositives 3 et 5.
+
+Modifiez le contenu des zones de texte " Écrire l'ordre du jour " en " Agenda 1 ", " Agenda 2 ", " Agenda 3 " respectivement sur la diapositive 2.
+Remplacez la première ligne du tableau par "T1","T2","T3","T4" sur la diapositive 11.
+Définissez le fond jaune sur les diapositives 6,7,5. Ajoutez la note "prêt" à la diapositive 3,4.
+
+Soulignez le texte sur la diapositive 0.
+Définissez la couleur de la zone de texte sur jaune sur la diapositive 0 et la couleur d'arrière-plan de la diapositive 1 sur rouge.
+Faites glisser la première image à droite sur les diapositives 4 et 7. ## 4, picture 0, slide, right ## 7, picture 0, slide, right
+
+Définissez la couleur d'arrière-plan sur le rouge sur la diapositive 0. Modifiez la hauteur de l'image sur 4 sur la diapositive 6.
+Faites glisser la première image vers la gauche dans les diapositives 6 et 7. ## 6, picture 0, slide, left ## 7, picture 0, slide, left
+
+Mettez tous les chiffres à glisser à droite sur les diapositives 6 et 7. ## 6, picture 0, slide, left ## 7, picture 0, slide, left
+Mettez en gras la première zone de texte sur la diapositive 4. Définissez l'arrière-plan sur le rouge sur la diapositive 7. Soulignez la deuxième zone de texte sur la diapositive 5.
+Supprimez les informations personnelles sur la diapositive 6.
+
+Complétez les détails du tableau sur la diapositive 7 avec le titre du livre "L'énigme des ombres" et l'auteur "Maya Sullivan".
+Faites pivoter la première image de 45 sur les diapositives 4 et 5. Cependant, l'image de la diapositive 2 doit pivoter de 90 degrés.
+Je veux que la couleur du texte de la page 2 soit bleue tandis que la couleur de fond de la page 3 soit jaune.
+
+Changez toutes les polices en vert sur la diapositive 2 et en rouge sur la diapositive 3.
+Alignez la première zone de texte à droite sur la diapositive 3, à gauche sur la diapositive 7 et au centre sur la diapositive 8.
+La zone de texte "Ecrire un titre ici" devrait être "Plus vert, c'est mieux" sur la diapositive 10.
+Changez la largeur, la hauteur de la première et de la deuxième zone de texte sur la diapositive 2 à 3000,3500 et 4000,4500 respectivement.
+
+Je veux que l'image sur la diapositive soit à gauche sur la diapositive 0. Rendez le vert "Commençons" sur la diapositive 1. Modifiez la taille de la police de la première zone de texte sur la diapositive 3 pour qu'elle soit 4. ## 0, picture 0, slide, left
+Déplacez le tableau sur la diapositive 9 pour glisser vers la gauche. ## 9, table, slide, left
+Mettez le texte en gras sur la diapositive 6. Mettez tout le texte de taille 2 sur la diapositive 0. Soulignez le texte sur la diapositive 0.
+
+Déplacez la zone de texte vers le haut de la diapositive sur la diapositive 4,6. Changez la couleur du texte en jaune sur la diapositive 4. ## 4, textbox 0, slide, top ## 6, textbox 0, slide, top
+Définissez la rotation 45,60,90 pour l'image sur la diapositive 0,2,3.
+Changez le nombre en 132 654 897 sur la diapositive 8.
+
+Les soldes d'hiver doivent être en bleu sur la diapositive 0.
+Définissez la couleur d'arrière-plan sur le rouge sur la diapositive 4,5 et sur le bleu sur la diapositive 6,7. Déplacez la première image de la diapositive 2 vers la droite. ## 2, picture 0, slide, right
+Remplacez tous les "Ecrivez votre sujet ou idée" par "TODO" sur les diapositives 5,6,7.
+Modifiez la hauteur de la première image à 2 sur les diapositives 0,2,3. Colorez la diapositive 1,2 en jaune.
+Colorez le texte de la diapositive 6 en rouge tandis que l'arrière-plan de la diapositive doit être coloré en bleu sur les diapositives 2,3.
+
+Déplacez la première image de la page "Introduction" vers la partie droite de la diapositive. ## 5, picture 0, slide, right
+Alignez toutes les zones de texte à droite sur la diapositive 9.
+La hauteur de l'image doit être de 2 sur la diapositive 6 tandis que la taille de police de toutes les zones de texte doit être de 10 sur la diapositive 11.
+Remplacez la zone de texte du nom de l'entreprise sur la diapositive 11 par "Google"
+
+Ajoutez une note "Il y a un tableau" sur les pages où il y a un tableau.
+Déplacez toutes les images vers le haut de la diapositive. Soulignez les zones de texte sur les diapositives 0 et 1. ## 1, picture 0, slide, top
+Les fonctionnalités clés doivent être K1-K6 (remplir les zones de texte principales) sur la diapositive 3.
+Remplacez " 12 millions " par " 13 millions " sur la diapositive 5 et créez l'image de hauteur 3 sur la diapositive 1.
+
+Le nombre devrait être 00 sur la diapositive 3. Notez la diapositive avec "c'est la troisième diapositive".
+Déplacez toutes les zones de texte vers le bas de la diapositive dans les diapositives 0 et 1. ## 0, textbox 0, slide, bottom ## 0, textbox 1, slide, bottom ## 1, textbox 0, slide, bottom ## 1, textbox 1, slide, bottom ## 1, textbox 2, slide, bottom ## 1, textbox 3, slide, bottom
+Je veux que la première, la deuxième zone de texte soit jaune, rouge et que l'arrière-plan de la diapositive soit vert sur la diapositive 0.
+
+Mettez l'image de la diapositive 7 en haut de la diapositive et l'image de la diapositive 8 en bas. ## 7, picture 0, slide, top ## 8, picture 0, slide, bottom
+Faites la première taille de police de la zone de texte 4 tandis que la seconde 5 sur la diapositive 3.
+Faites les trois premières zones de texte sur la diapositive 0 de couleur jaune, rouge, vert, respectivement.
+
+Colorez toutes les zones de texte en vert sur la diapositive 4 et colorez le fond en jaune sur la diapositive 3.
+Remplacez " ÉCRIVEZ VOTRE SUJET OU IDÉE " par " LIVRES " sur la diapositive 6.
+Modifiez toutes les tailles de police à 6 sur la diapositive 2 et à 7 sur la diapositive 4. Déplacez la première image de la diapositive 4 vers le bas de la diapositive. ## 4, picture 0, slide, bottom
+
+Colorez la première diapositive en jaune et les zones de texte doivent être de couleur rouge sur la diapositive 0.
+Faites glisser les zones de texte ainsi que l'image à gauche sur la troisième diapositive. ## 3, picture, slide, left ## 3, textbox 0, slide, left ## 3, textbox 1, slide, left ## 3, textbox 2, slide, left ## 3, textbox 3, slide, left ## 3, textbox 4, slide, left ## 3, textbox 5, slide, left ## 3, textbox 6, slide, left ## 3, textbox 7, slide, left ## 3, textbox 8, slide, left ## 3, textbox 9, slide, left ## 3, textbox 10, slide, left ## 3, textbox 11, slide, left ## 3, textbox 12, slide, left
+Insérez un rectangle sur la diapositive 2. Insérez un cercle dans la diapositive 3.
+
+Diapositive de couleur 3,4,5 avec respectivement bleu, jaune, rouge.
+Le nom du genre peut être "g1" et "g2" pour le tableau de la première colonne de la diapositive 7. Remplissez également le tableau de la diapositive 7 avec "g3" et "g4" dans la deuxième colonne.
+Ajoutez une note indiquant le numéro de page (par exemple "0" pour la diapositive 0) sur la diapositive 0-5.
+
+Faites les polices de taille 2 sur la diapositive 10. Faites les polices rouges sur la diapositive 11.
+Les images doivent être sur le côté gauche de la diapositive sur la page 9. ## 9, picture 0, slide, left
+Rendez l'arrière-plan vert et la police jaune sur la diapositive 5.

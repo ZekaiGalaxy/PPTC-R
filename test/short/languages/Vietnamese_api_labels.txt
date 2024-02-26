@@ -1,0 +1,1876 @@
+choose_title();align_bottom_left_corner();insert_text("Đánh giá con người");
+choose_content();insert_text("Nói chung, bản dịch được cho điểm ẩn danh bởi nhiều người đánh giá, sau đó điểm cuối cùng được đưa ra bằng cách kết hợp kết quả đánh giá của tất cả những người đánh giá");
+insert_table(2, 2);
+choose_table_cell(0, 0);insert_text("Ưu điểm");choose_table_cell(1, 0);insert_text("Nhược điểm");choose_table_cell(0, 1);insert_text("Phản ánh chính xác chất lượng bản dịch của câu, có thẩm quyền nhất, độ tin cậy cao nhất");choose_table_cell(1, 1);insert_text("Đánh giá trong thời gian dài");
+choose_content();set_font_size(20);set_font_style("Arial");
+insert_picture('coffee');align_slide_left();
+align_slide_right();
+create_slide();choose_title();insert_text("Tiêu chuẩn chấm điểm");choose_content();insert_text("Đánh giá trực tiếp");insert_text("Xếp hạng tương đối");
+choose_title();set_font_color("green");choose_content();insert_bullet_point("");insert_bullet_point("");
+choose_title();set_font_size(24);choose_content();set_font_size(20);
+
+insert_picture('tower');align_slide_bottom();
+choose_title();insert_text("Contents");set_top("title","picture");
+insert_rectangle();set_fill_color("green");
+choose_title();set_font_color("green");
+set_font_size(24);
+set_font_style("Arial");set_font_size(48);
+set_font_style("Microsoft New Tai Lue");
+
+set_background_color("green");
+insert_cloud();align_slide_bottom();
+choose_content();insert_text("Bạn chạy chậm quá");
+insert_picture('rabbit');align_slide_right();
+choose_content();insert_text("Một ngày nọ, có cuộc đua giữa thỏ và rùa");
+create_slide();choose_content();insert_text("Một ngày nào đó tôi sẽ thắng.");align_slide_top();
+
+insert_picture('study');align_slide_center();
+insert_rectangle();align_slide_center();
+choose_title();insert_text("Liên minh huyền thoại");choose_content();insert_text("Liên minh huyền thoại là một trò chơi dựa trên đội với hơn 140 nhà vô địch để thực hiện các trận đấu hoành tráng. Chơi miễn phí ngay bây giờ. Chơi miễn phí.");
+choose_title();set_font_style("Times New Roman");set_font_size(24);
+choose_picture();set_width(6);set_height(5);
+rotate_element(15);
+create_slide();insert_picture('boy_holding_book');
+align_slide_center();
+choose_title();insert_text("Làm thế nào để học tốt hơn ở trường");
+
+insert_cloud();align_slide_left();
+insert_picture("clock");align_slide_right();
+set_background_color("light blue");choose_title();insert_text("Trí tuệ nhân tạo");
+choose_content();insert_text("Tác động của trí tuệ nhân tạo đối với xã hội đang được tranh luận rộng rãi. Nhiều người cho rằng AI cải thiện chất lượng cuộc sống hàng ngày bằng cách thực hiện các công việc thường ngày và thậm chí phức tạp tốt hơn con người có thể làm, giúp cuộc sống đơn giản hơn, an toàn hơn và hiệu quả hơn .");
+set_font_color("light green");
+
+create_slide();choose_title();insert_text("Lên lịch vào tháng 3");set_font_color("red");
+set_font_size(28);set_font_color("dark blue");
+insert_table(1, 3);choose_table_cell(0, 0);insert_text("học từ ngày 1 đến ngày 10");choose_table_cell(0, 1);insert_text("làm việc từ ngày 11 đến ngày 20");choose_table_cell(0, 2);insert_text("du lịch từ ngày 21 đến ngày 31");
+choose_title();set_font_style("Arial");
+insert_picture('happy_boy');set_right("picture","table");
+set_background_color("blue");
+choose_picture();set_width(6.5);set_height(5);
+set_background_color("yellow");
+
+create_slide();choose_title();insert_text("Lợi ích của thiền định");
+insert_picture('meditation');align_slide_center();
+choose_content();insert_text("Thiền là một kỹ thuật đơn giản nhưng mạnh mẽ có thể giúp bạn đạt được trạng thái bình yên và tĩnh lặng bên trong.");
+set_font_size(24);set_font_color("dark blue");
+insert_rectangle();set_right("rectangle", "content");
+set_background_color("light green");
+create_slide();set_background_color("light green");choose_title();insert_text("Các loại thiền định");
+set_font_style("Arial");
+insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("Thiền chánh niệm");choose_table_cell(1, 0);insert_text("Thiền siêu việt");choose_table_cell(2, 0);insert_text("Thiền quét cơ thể");
+
+create_slide();set_background_color("green");
+insert_picture('grassland');align_slide_left();
+set_width(6.5);set_height(5.5);choose_title();insert_text("Chức năng của rừng");
+set_font_color("orange");set_font_size(40);
+insert_right_arrow();align_slide_top();
+
+create_slide();insert_table(2, 2);
+choose_table_cell(0,0);insert_text("Type of Tree");choose_table_cell(0,1);insert_text("Uses");choose_table_cell(1,0);insert_text("các loại cây khác nhau");choose_table_cell(1,1);insert_text("Màu sắc khác nhau của lá");
+choose_content();insert_text("Hôm nay nhớ trồng cây!");
+set_font_size(20);set_font_color("green");set_font_underline();
+
+create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");
+move_to_slide(0);choose_title();insert_text("Gia đình hạnh phúc");set_font_style("Microsoft JhengHei");
+move_to_slide(1);insert_picture('family');
+move_to_slide(2);insert_table(2, 2);
+choose_table_cell(0, 0);insert_text("Cha");choose_table_cell(0, 1);insert_text("Mẹ");choose_table_cell(1, 0);insert_text("Ông");choose_table_cell(1, 1);insert_text("Các con");
+
+create_slide();choose_title();insert_text("Kế hoạch kinh doanh");
+insert_picture('light_bulb');align_slide_left();
+set_width(3);choose_content();insert_text("Khởi nghiệp là quá trình thiết kế, ra mắt và điều hành một doanh nghiệp mới, ban đầu thường là một doanh nghiệp nhỏ. Những người tạo ra các doanh nghiệp này được gọi là doanh nhân.");
+set_font_size(20);set_font_color("green");
+set_background_color("dark blue");
+insert_circle();set_fill_color("red");
+choose_content();insert_text("Kế hoạch kinh doanh là một tài liệu bằng văn bản mô tả chi tiết cách thức một doanh nghiệp, thường là một doanh nghiệp mới, sẽ đạt được mục tiêu của mình.");
+choose_title();set_font_size(18);choose_content();set_font_size(18);
+insert_table(3, 4);
+choose_table_cell(0, 0);insert_text("Tiếp thị hỗn hợp");choose_table_cell(0, 1);insert_text("Thị trường mục tiêu");choose_table_cell(0, 2);insert_text("Giá");choose_table_cell(0, 3);insert_text("Khuyến mãi");
+
+create_slide();set_background_color("light blue");
+choose_content();insert_text("Thương hiệu sản phẩm là sự phát triển của một thương hiệu đặc biệt cho một sản phẩm nhất định với mục đích tiếp cận người tiêu dùng mục tiêu của thương hiệu.");
+set_font_italic();set_font_size(18);
+align_slide_bottom();
+insert_picture('lancome');align_slide_top();
+
+create_slide();choose_title();insert_text("The essentials of large-scale modelling");set_font_size(24);
+set_font_style("Arial");
+insert_table(1, 2);
+choose_table_cell(0, 0);insert_text("Importance");set_font_size(18);set_font_color("light blue");
+insert_picture('computer');align_slide_center();
+choose_content();insert_text("Mô hình quy mô lớn");
+set_font_size(14);set_font_color("green");choose_title();set_font_size(14);set_font_color("green");
+
+insert_picture('tower');align_slide_left();
+choose_title();insert_text("The Ultimate Heist");
+set_font_style("Times New Roman");set_font_color("green");
+insert_triangle();align_slide_right();
+set_background_color("light blue");
+
+insert_table(3, 3);choose_table();choose_table_cell(0, 0);insert_text("tím");choose_table_cell(0, 1);insert_text("xanh dương");choose_table_cell(0, 2);insert_text("xanh nhạt");choose_table_cell(1, 0);insert_text("xanh đậm");choose_table_cell(1, 1);insert_text("xanh lục");choose_table_cell(1, 2);insert_text("xanh nhạt");choose_table_cell(2, 0);insert_text("xanh đậm");choose_table_cell(2, 1);insert_text("vàng");choose_table_cell(2, 2);insert_text("vàng nhạt")
+set_background_color("green");
+set_background_color("dark blue");
+choose_title();insert_text("Types of Color");insert_picture("clock");
+create_slide();set_background_color("yellow");
+choose_content();insert_text("Speedwell, còn được gọi là cỏ mắt chim hoặc cỏ dại gypsy, là một loại cây lâu năm khỏe mạnh có nguồn gốc từ Châu Âu.");
+
+create_slide();insert_picture('arguing');
+choose_title();insert_text("Hôn nhân mang lại điều gì cho cả nam và nữ?");
+create_slide();insert_picture('japanese_woman');insert_picture('african_woman');
+choose_title();insert_text("Các yếu tố quyết định các chế độ hôn nhân khác nhau");
+create_slide();set_background_color("red");create_slide();set_background_color("red");create_slide();set_background_color("red");
+move_to_slide(2);choose_title();insert_text("Lợi ích chung của hôn nhân giữa nam và nữ.");
+set_font_underline();set_font_color("yellow");
+insert_picture('happy_family');align_slide_center();
+insert_rectangle();set_fill_color("red");insert_rectangle();set_fill_color("red");insert_rectangle();set_fill_color("red");
+create_slide();choose_title();insert_text("Sự phát triển của thể chế hôn nhân ở Trung Quốc");
+insert_picture('clock');set_width(6.5);
+align_slide_left();
+create_slide();choose_title();insert_text("Những khó khăn mà phụ nữ trên thế giới phải đối mặt");insert_picture('full_time_mother');
+set_height(5);
+
+choose_title();insert_text("Mạng thần kinh");
+choose_content();insert_text("Mạng lưới thần kinh là một tập hợp các thuật toán bắt chước chức năng của bộ não con người. Chúng được thiết kế để nhận dạng các mẫu, phân loại dữ liệu và đưa ra dự đoán.");
+set_font_size(12);set_font_color("orange");set_background_color("red");
+
+choose_title();insert_text("Dấu ngoặc kép");
+choose_title();set_font_underline();set_font_size(24);
+choose_content();insert_text("Biểu tượng dấu ngoặc kép là một loại dấu chấm câu được sử dụng để phân biệt các từ và đoạn văn với phần còn lại của văn bản.");
+set_font_color("green");set_font_size(12);
+insert_picture('quotation_mark');align_slide_left();
+create_slide();set_background_color("blue");
+insert_rectangle();align_slide_right();
+insert_table(2, 1);
+choose_table_cell(0, 0);insert_text("Xin chào?" quý ông nói.");choose_table_cell(1, 0);insert_text("Một trong những cách sử dụng phổ biến nhất của dấu ngoặc kép là để chỉ ra một trích dẫn trực tiếp, một đoạn văn được sao chép nguyên văn từ một nguồn khác.");
+
+create_slide();set_background_color("dark green");
+choose_title();insert_text("Lĩnh vực và ngành Nhân học");set_font_size(18);
+choose_content();insert_text("Có hai lĩnh vực nhân chủng học rộng lớn.");set_font_size(18);
+text_align_right();
+
+insert_right_arrow();align_slide_left();
+set_width(4.0);set_height(3.0);
+choose_content();insert_text("Những dải đất rộng lớn của Trung Á cảm thấy không có người ở một cách kỳ lạ.");
+choose_shape("right_arrow");set_width(5.0);set_height(4.0);rotate_element(90);
+choose_content();set_line_space(2);
+
+choose_title();insert_text("Giáo dục/Dạy học/Đại diện PPT");
+choose_content();insert_text("Tác động bất lợi của sự nóng lên toàn cầu");
+choose_title();set_font_color("dark blue");choose_content();set_font_color("purple");
+insert_rectangle();set_fill_color("purple");
+align_top_left_corner();
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("give");choose_table_cell(0, 1);insert_text("given");choose_table_cell(0, 2);insert_text("given");choose_table_cell(0, 3);insert_text("given");
+choose_content();set_font_color("dark blue");
+
+set_background_color("orange");
+insert_picture("cat");set_width(5);set_height(5);
+create_slide();set_background_color("orange");create_slide();set_background_color("orange");create_slide();set_background_color("orange");
+choose_title();insert_text("Thông tin DingTalk");
+insert_table(3, 5);
+choose_table_cell(0, 0);insert_text("Phương pháp tải xuống");choose_table_cell(0, 1);insert_text("Cách tham gia tổ chức");choose_table_cell(0, 2);insert_text("Cách tìm bạn bè");choose_table_cell(0, 3);insert_text("Ưu điểm");choose_table_cell(0, 4);insert_text("Ghi chú");
+insert_star();align_slide_right();
+choose_content();insert_text("forestall đề cập đến việc ngăn chặn hoặc cản trở bằng cách làm điều gì đó trước thời hạn");
+set_background_color("blue");
+choose_content();text_align_left();
+
+insert_right_arrow();set_fill_color("yellow");
+choose_title();insert_text("Các ngày trong tuần ở trường");text_align_left();
+choose_title();set_font_color("dark blue");set_font_italic();set_font_underline();
+choose_content();insert_text("chặn trước có nghĩa là mua trước (hàng hóa) để tăng giá khi bán lại");
+insert_picture("school_badge");set_width(2.5);set_height(2.5);
+create_slide();set_background_color("green");
+choose_title();insert_text("Ghi chú");text_align_right();
+set_font_color("light green");set_font_size(26);
+choose_content();insert_bullet_point("");insert_bullet_point("");insert_bullet_point("");
+insert_note("2023/4/9");move_to_previous_slide();insert_note("2023/4/8");
+
+insert_star();align_slide_right();
+set_fill_color("blue");
+insert_right_arrow();align_slide_left();set_fill_color("red");
+choose_title();insert_text("Ra quyết định");
+choose_content();insert_text("Đại dịch toàn cầu hiện nay đã làm gián đoạn cuộc sống hàng ngày của chúng ta và định hình lại thế giới theo cách mà chúng ta không bao giờ có thể tưởng tượng được.");
+choose_content();set_font_underline();choose_title();set_font_size(24);
+choose_content();set_font_style("Times New Roman");choose_title();set_font_style("Times New Roman");
+
+create_slide();create_slide();create_slide();create_slide();create_slide();
+move_to_slide(0);choose_title();insert_text("Giới thiệu");move_to_slide(1);choose_title();insert_text("Phát triển");move_to_slide(2);choose_title();insert_text("Đánh giá");move_to_slide(3);choose_title();insert_text("Phân tích");move_to_slide(4);choose_title();insert_text("Kết luận");
+move_to_slide(0);set_background_color("yellow");move_to_slide(1);set_background_color("yellow");move_to_slide(2);set_background_color("yellow");move_to_slide(3);set_background_color("yellow");move_to_slide(4);set_background_color("yellow");
+move_to_slide(0);choose_title();set_font_style("Microsoft JhengHei");
+move_to_slide(1);insert_picture("clock");
+move_to_slide(2);insert_bar_chart([160, 170, 130], ["Tháng 10", "Tháng 11", "Tháng 12"]);
+move_to_slide(3);insert_table(2, 3);
+choose_table_cell(0, 0);insert_text("toIPA");choose_table_cell(0, 1);insert_text("Ưu điểm");choose_table_cell(0, 2);insert_text("Nhược điểm");
+move_to_slide(4);choose_title();set_font_style("Times New Roman");
+move_to_slide(4);insert_cloud();
+move_to_slide(0);insert_note("Được tạo bởi Eva");move_to_slide(1);insert_note("Được tạo bởi Eva");move_to_slide(2);insert_note("Được tạo bởi Eva");move_to_slide(3);insert_note("Được tạo bởi Eva");move_to_slide(4);insert_note("Được tạo bởi Eva");
+
+insert_circle();set_fill_color("purple");
+insert_picture("water_bottle");insert_textbox();insert_text("cái chai");
+choose_title();insert_text("CHẤT LƯỢNG");
+set_font_color("red");
+insert_table(2, 2);
+choose_table_cell(0, 0);insert_text("Đánh giá máy");choose_table_cell(0, 1);insert_text("Đánh giá con người");choose_table_cell(1, 0);insert_text("Đánh giá tự động 1");choose_table_cell(1, 1);insert_text("Đánh giá tự động 2");
+create_slide();choose_title();insert_text("Thành tích");set_background_color("purple");
+
+create_slide();choose_title();insert_text("Chiến lược tiếp thị cho quý 2");
+set_background_color("blue");
+create_slide();choose_title();insert_text("Tăng doanh số bán hàng và nhận thức về thương hiệu");
+set_font_size(60);
+move_to_slide(1);set_background_color("green");
+create_slide();set_background_color("green");create_slide();set_background_color("green");create_slide();set_background_color("green");
+move_to_slide(2);choose_title();insert_text("Xu hướng thị trường và phân tích đối thủ cạnh tranh");
+choose_content();insert_picture("blue_sea");
+set_height(4);set_width(5);set_left("picture", "title");
+move_to_slide(3);choose_title();insert_text("Sứ mệnh và giá trị của chúng tôi.");
+choose_content();insert_text("TẦM NHÌN.Tất cả mọi người sống lâu trong tình trạng sức khỏe đầy đủ.SỨ MỆNH.IHME cung cấp cho thế giới bằng chứng kịp thời, phù hợp và có giá trị khoa học để cải thiện chính sách và thực hành y tế.");
+set_line_space(1.5);
+choose_content();set_font_size(40);set_font_style("Times New Roman");
+
+create_slide();set_background_color("yellow");
+choose_title();insert_text("So sánh giáo dục ở Trung Quốc và Mỹ.");
+delete_text();insert_text("Khám phá sự khác biệt và tương đồng");
+delete_text();insert_text("Sự khác biệt và tương đồng");
+create_slide();create_slide();create_slide();create_slide();create_slide();
+move_to_slide(1);set_background_color("yellow");move_to_slide(2);set_background_color("yellow");move_to_slide(3);set_background_color("yellow");move_to_slide(4);set_background_color("yellow");move_to_slide(5);set_background_color("yellow");
+move_to_slide(1);choose_title();insert_text("Hệ thống giáo dục");
+choose_content();insert_text("Giáo dục ở Trung Quốc chủ yếu được quản lý bởi hệ thống giáo dục công lập do nhà nước điều hành, trực thuộc Bộ Giáo dục. Mọi công dân phải đi học tối thiểu 9 năm, được gọi là giáo dục bắt buộc 9 năm, được tài trợ bởi chính phủ.");
+move_to_next_slide();choose_title();insert_text("Các phương pháp và phong cách giảng dạy khác nhau.");
+move_to_next_slide();choose_title();insert_text("Mối quan hệ giữa giáo viên và học sinh.");move_to_next_slide();choose_title();insert_text("Đánh giá hiệu suất của học sinh.");
+move_to_slide(4);insert_picture("forest");
+choose_content();insert_text('Vào năm 2014, Jonathan Kaiman của The Guardian đã viết rằng các bậc cha mẹ và các nhà giáo dục Trung Quốc "coi hệ thống của chính họ là thối nát, mất nhân tính, gây áp lực và không công bằng". anh ấy tiếp tục thảo luận về kỳ thi tuyển sinh đại học của đất nước (được gọi là gaokao), viết rằng "nhiều bậc cha mẹ coi bài kiểm tra kéo dài 9 tiếng mệt mỏi là một cơ chế phân loại sẽ quyết định quỹ đạo cuộc đời của con cái họ."');set_font_color("red");set_font_underline();
+move_to_slide(5);insert_table(1, 1);choose_table_cell(0,0);insert_text("Trách nhiệm");
+
+create_slide();choose_content();insert_picture("DingTalk_app");
+choose_title();insert_text("Giới thiệu về ChatGPT");set_font_color("green");
+create_slide();choose_title();insert_text("Giải phóng sức mạnh của các mô hình ngôn ngữ AI.");text_align_left();create_slide();choose_title();insert_text("Giải phóng sức mạnh của các mô hình ngôn ngữ AI.");text_align_left();create_slide();choose_title();insert_text("Giải phóng sức mạnh của các mô hình ngôn ngữ AI.");text_align_left();create_slide();choose_title();insert_text("Giải phóng sức mạnh của các mô hình ngôn ngữ AI.");text_align_left();create_slide();choose_title();insert_text("Giải phóng sức mạnh của các mô hình ngôn ngữ AI.");text_align_left();
+move_to_slide(1);choose_content();set_font_style("Arial");
+insert_text("ChatGPT là một chatbot trí tuệ nhân tạo (AI) do OpenAI phát triển và phát hành vào tháng 11 năm 2022. Nó được xây dựng dựa trên các họ mô hình ngôn ngữ lớn (LLM) GPT-3.5 và GPT-4 của OpenAI và đã được tinh chỉnh (một cách tiếp cận để chuyển đổi học tập) bằng cách sử dụng cả kỹ thuật học tập có giám sát và tăng cường.");
+set_font_size(30);set_line_space(2);
+insert_table(1, 1);choose_table_cell(0,0);insert_text("Cách tải xuống DingTalk");
+move_to_next_slide();
+choose_title();insert_text("Tính năng và Hạn chế");text_align_center();
+choose_content();insert_text("Mặc dù chức năng cốt lõi của chatbot là bắt chước người đối thoại với con người, nhưng ChatGPT rất linh hoạt. Nó có thể viết và gỡ lỗi các chương trình máy tính, bắt chước phong cách của các CEO nổi tiếng và viết bài thuyết trình kinh doanh, soạn nhạc, dịch chuyển từ xa, truyện cổ tích và bài luận của sinh viên, trả lời câu hỏi kiểm tra (đôi khi, tùy thuộc vào bài kiểm tra, ở trình độ cao hơn mức trung bình của người làm bài kiểm tra), viết thơ và lời bài hát, mô phỏng hệ thống Linux. .");
+
+create_slide();set_background_color("green");
+choose_content();insert_text("Cuộc sống quá ngắn để dành thời gian với những người hút mất hạnh phúc của bạn.");set_line_space(1.5);
+set_font_style("Verdana");set_font_size(20);
+set_font_underline();set_font_color("yellow");
+
+create_slide();set_background_color("blue");choose_title();insert_text("Machine Learning");
+choose_content();insert_text("Học máy là một ứng dụng của trí tuệ nhân tạo (AI) cung cấp cho các hệ thống khả năng tự động học hỏi và cải thiện từ kinh nghiệm mà không cần lập trình rõ ràng. Học máy tập trung vào việc phát triển các chương trình máy tính có thể truy cập dữ liệu và sử dụng nó để tự học.");
+set_font_size(20);set_font_style("Verdana");
+set_font_style("Times New Roman");text_align_right();
+choose_title();set_font_color("red");set_font_size(40);
+set_font_color("blue");
+insert_picture("machine_learning");align_slide_left();
+set_height(1.2);set_width(1.2);
+choose_content();insert_star();set_fill_color("green");
+
+create_slide();choose_title();insert_text("Chiến lược tiếp thị");
+choose_content();insert_bullet_point("Search Engine Optimization (SEO)");insert_bullet_point("Social Media Marketing (SMM)");insert_bullet_point("Email Marketing");insert_bullet_point("Content Marketing");insert_bullet_point("Pay-Per-Click Advertising (PPC)");
+insert_picture("marketing");set_height(1);set_width(1);
+insert_pie_chart([35, 25, 15, 10, 15], ["Apple", "Samsung", "Huawei", "Xiaomi", "Other"]);insert_table(2, 2);
+choose_chart();set_chart_title("Tiếp thị");choose_table_cell(0, 0);insert_text("MT1");choose_table_cell(0, 1);insert_text("MT2");choose_table_cell(1, 0);insert_text("ST1");choose_table_cell(1, 1);insert_text("ST2")
+choose_content();align_slide_bottom();
+create_slide();insert_pie_chart([35, 25, 15, 10, 15],["Apple", "Samsung", "Huawei", "Xiaomi", "Other"]);set_chart_title("Marketing");
+create_slide();insert_table(2, 2);choose_table();insert_table_row(["MT1", "MT2"]);insert_table_row(["ST1", "ST2"])
+
+create_slide();choose_title();insert_text("Trực quan hóa dữ liệu");
+insert_bar_chart([8.4, 4.0, 2.7, 2.3, 1.7], ["New York", "Los Angeles", "Chicago", "Houston", "Phoenix"]);align_slide_left();
+insert_textbox();insert_text("Trực quan hóa dữ liệu là trình bày dữ liệu ở định dạng hình ảnh hoặc đồ họa. Nó cho phép những người ra quyết định xem các phân tích được trình bày một cách trực quan, để họ có thể nắm bắt các khái niệm khó hoặc xác định các mẫu mới.");
+set_font_color("green");
+create_slide();choose_content();insert_text("Cháo này được nấu bằng cách nấu gạo nếp, đường nâu và mười tám loại trái cây khô với nhau.");
+
+create_slide();choose_title();insert_text("Cháo Laba");
+choose_content();insert_text("Từ khi tôi còn nhớ, cứ đến ngày 8 tháng 12 âm lịch hàng năm, mẹ tôi lại nấu cháo Laba cho chúng tôi ăn");
+set_font_color("yellow");set_font_bold();
+insert_table(2, 1);align_slide_right();
+choose_table_cell(0, 0);insert_text("Lịch sử");choose_table_cell(1, 0);insert_text("Hiện đại");
+set_background_color("light red");
+
+set_background_color("yellow");
+set_background_color("green");
+choose_title();insert_text("Công ty lớn");
+set_font_size(28);set_font_style("Futura");
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("Số");choose_table_cell(0, 1);insert_text("Tên nhân viên")
+insert_picture("company1");insert_picture("company2");insert_picture("company3");
+choose_table();choose_table_cell(0,0);set_font_color("yellow");choose_table_cell(0,1);set_font_color("yellow");
+
+create_slide();choose_title();insert_text("Artificial Neural Networks");
+choose_content();insert_text("Mạng nơ-ron nhân tạo (ANN) là các hệ thống máy tính lấy cảm hứng từ mạng nơ-ron sinh học cấu thành bộ não động vật. Các hệ thống như vậy học cách thực hiện các tác vụ bằng cách xem xét các ví dụ, thường không được lập trình với bất kỳ quy tắc cụ thể nào cho tác vụ . ANN có khả năng học hỏi và thích ứng với đầu vào mới, giúp chúng trở nên hữu ích cho nhiều ứng dụng, bao gồm nhận dạng hình ảnh, nhận dạng giọng nói và xử lý ngôn ngữ tự nhiên.");
+set_font_size(24);
+set_font_style("Calibri");set_background_color("light orange");
+text_align_center();choose_title();text_align_left();
+set_background_color("blue");
+insert_picture("artificial_neural_networks");
+set_width(5.5);
+align_slide_right();
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("1");choose_table_cell(0, 1);insert_text("2");choose_table_cell(0, 2);insert_text("3")
+insert_table_row(["trò chơi điện tử", "Chuyển đổi", "phim truyền hình"])
+
+create_slide();set_background_color("red");create_slide();set_background_color("red");
+move_to_slide(0);choose_title();insert_text("Thử thách");set_font_style("Calibri");
+choose_content();insert_text("Những thách thức khi triển khai AI tại nơi làm việc bao gồm thiếu chuyên môn, chi phí và khả năng chống lại sự thay đổi.");
+set_font_color("green");
+move_to_slide(1);insert_picture("AI");align_slide_center();
+
+create_slide();choose_title();insert_text("Giới thiệu");
+choose_content();insert_text("Chào mừng đến với phần trình bày của tôi về lịch sử trò chơi điện tử. Trò chơi điện tử đã đi một chặng đường dài kể từ khi trò chơi điện tử đầu tiên được phát minh vào những năm 1950. Ngày nay, trò chơi điện tử là một ngành công nghiệp trị giá hàng tỷ đô la được mọi người trên khắp thế giới yêu thích.");
+insert_picture("first_electronic_game");
+align_bottom_right_corner();
+choose_title();set_font_color("blue");
+insert_textbox();choose_textbox();insert_text("Được trình bày bởi John Smith");
+
+create_slide();choose_title();insert_text("Mạng lưới thần kinh");
+choose_content();insert_text("Mạng lưới thần kinh là một tập hợp các thuật toán bắt chước hoạt động của bộ não con người. Chúng được sử dụng cho nhiều ứng dụng như nhận dạng hình ảnh, nhận dạng giọng nói và xử lý ngôn ngữ tự nhiên.");
+set_font_style("Arial");
+insert_triangle();align_top_left_corner();
+insert_picture("neutral_network");
+set_height(1.2);set_width(1.2);
+create_slide();insert_right_arrow();set_fill_color("blue");align_slide_right();
+insert_line_chart([120,140,110,90], ["Tháng 1", "Tháng 2", "Tháng 3", "Tháng 4"]);set_chart_title("Chatgpt");
+choose_content();insert_textbox();insert_text("TensorFlow");
+choose_title();set_font_color("blue");set_background_color("light blue");
+
+choose_content();insert_text("Từ điển có thể được sử dụng để tìm nghĩa của từ, cách phát âm, cách viết và tra cứu từ mới.");
+insert_circle();set_top("circle","content");
+insert_text("cụm danh từ");
+choose_content();set_font_color("red");set_font_style("Impact");
+
+create_slide();choose_title();insert_text("Introduction");create_slide();choose_title();insert_text("Methodology");create_slide();choose_title();insert_text("Results");
+move_to_slide(0);choose_content();insert_text("Bài thuyết trình này sẽ giới thiệu dự án nghiên cứu của chúng tôi và giải thích tầm quan trọng của nó.");move_to_slide(1);choose_content();insert_text("Phương pháp nghiên cứu của chúng tôi liên quan đến việc thu thập dữ liệu từ nhiều nguồn khác nhau và sử dụng phân tích thống kê để đưa ra kết luận.");
+choose_content();text_align_left();
+move_to_slide(0);set_background_color("light blue");move_to_slide(1);set_background_color("light blue");move_to_slide(2);set_background_color("light blue");
+insert_picture("graph");set_height(6.5);
+move_to_slide(0);insert_note("2022/1/1");move_to_slide(1);insert_note("2022/1/1");move_to_slide(2);insert_note("2022/1/1");
+
+create_slide();choose_title();insert_text("Product Overview");create_slide();choose_title();insert_text("Features");
+move_to_slide(0);insert_picture("product");
+choose_content();insert_text("Sản phẩm của chúng tôi được thiết kế để đáp ứng nhu cầu của thị trường mục tiêu bằng cách cung cấp giải pháp đơn giản và hiệu quả cho vấn đề của họ.");
+move_to_slide(1);insert_table(5, 2);
+choose_table_cell(4, 1);insert_text("DingTalk");
+choose_table_cell(4, 1);set_font_style("Times New Roman");
+move_to_slide(0);insert_note("Thời gian hiện tại là 12:00 trưa");move_to_slide(1);insert_note("Thời gian hiện tại là 12:00 trưa");move_to_slide(2);
+
+create_slide();choose_title();insert_text("Báo cáo bán hàng");text_align_center();
+insert_pie_chart([120, 220, 180], ["Sản phẩm A", "Sản phẩm B", "Sản phẩm C"]);
+choose_title();set_font_size(28);
+insert_picture("company_logo");align_top_right_corner();
+choose_content();insert_text("Báo cáo này cho thấy hiệu suất bán hàng của các sản phẩm của chúng tôi trong quý đầu tiên của năm 2023.");
+set_font_style("Times New Roman");
+text_align_center();
+
+create_slide();choose_title();insert_text("Chiến lược tiếp thị");
+choose_title();set_font_style("Calibri");set_font_size(36);
+choose_content();insert_picture("marketing_campaign");
+rotate_element(45);align_slide_right();
+create_slide();choose_title();insert_text("MT mạnh mẽ");
+set_font_style("Arial");set_font_size(24);
+insert_textbox();insert_bullet_point("SEO");insert_bullet_point("Email Marketing");insert_bullet_point("PPC");set_bottom("textbox","title");
+set_background_color("blue");
+insert_bar_chart([27, 30, 29], ["mục A", "mục B", "mục C"]);align_slide_left();
+set_chart_title("Marketing Budget");
+insert_table(4, 2);
+choose_table_cell(0, 0);insert_text("Ngày");choose_table_cell(0, 1);insert_text("Thứ hai");choose_table_cell(1, 0);insert_text("Thứ ba");choose_table_cell(1, 1);insert_text("Thứ tư");choose_table_cell(2, 0);insert_text("Thứ năm");choose_table_cell(2, 1);insert_text("Thứ sáu");choose_table_cell(3, 0);insert_text("Thứ bảy");choose_table_cell(3, 1);insert_text("Chủ nhật");
+choose_table();set_right("table","chart");
+
+create_slide();set_background_color("yellow");
+choose_title();insert_text("Số liệu đánh giá");
+choose_content();insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("Số liệu");choose_table_cell(0, 1);insert_text("Công thức");choose_table_cell(1, 0);insert_text("Độ chính xác");choose_table_cell(1, 1);insert_text("(TP+TN)/(TP+TN+FP+FN)");choose_table_cell(2, 0);insert_text("Precision");choose_table_cell(2, 1);insert_text("TP/(TP+FP)");
+insert_line_chart([160, 170, 130], ["Tháng 10", "Tháng 11", "Tháng 12"]);set_chart_title("Time Machine");
+insert_bar_chart([160, 170, 130], ["October", "November", "December"]);
+
+create_slide();choose_title();insert_text("Trực quan hóa dữ liệu");
+insert_bar_chart([60,70,80,90], ["Mắt", "Tay", "Chân", "Đầu gối"]);
+choose_chart();set_height(4);set_width(4);
+set_chart_title("Sales by Region");
+insert_right_arrow();set_fill_color("green");
+
+create_slide();choose_title();insert_text("Chiến dịch tiếp thị");
+choose_content();insert_picture("product");set_right("picture","content");
+set_width(5);
+choose_content();insert_text("Ngữ hệ châu Âu có quan hệ gần gũi với các ngôn ngữ Frisia, Đức và Hà Lan (ở Bỉ được gọi là tiếng Flemish).");
+insert_circle();set_fill_color("red");align_bottom_right_corner();
+set_background_color("green");
+set_background_color("light blue");
+create_slide();choose_title();insert_text("Dữ liệu bán hàng");
+insert_table(1, 4);
+choose_table_cell(0, 0);insert_text("Tên nhân viên bán hàng");choose_table_cell(0, 1);insert_text("Tổng doanh số");choose_table_cell(0, 2);insert_text("Tỷ lệ hoa hồng");choose_table_cell(0, 3);insert_text("Số tiền hoa hồng")
+create_slide();set_background_color("light blue");
+
+create_slide();choose_title();insert_text("Báo cáo bán hàng");set_font_size(25);
+choose_content();insert_text("Đây là báo cáo bán hàng hàng quý của công ty chúng tôi:");
+set_font_size(16);set_font_color("purple");
+insert_rectangle();set_width(8);set_height(5);
+set_background_color("green");
+
+create_slide();choose_title();insert_text("Mạng lưới thần kinh nhân tạo");
+choose_content();insert_text("Mạng nơ-ron nhân tạo (ANN) là các hệ thống máy tính được lấy cảm hứng từ, nhưng không giống với mạng nơ-ron sinh học cấu thành bộ não động vật. Các hệ thống như vậy học cách thực hiện các tác vụ bằng cách xem xét các ví dụ, nói chung là không được lập trình với các quy tắc dành riêng cho nhiệm vụ.");
+set_font_size(24);set_font_style("Arial");
+choose_title();set_font_color("purple");
+insert_picture("brain");set_width(6.5);
+rotate_element(90);
+insert_textbox();insert_text("Ứng dụng của ANN");
+choose_title();set_font_size(36);set_font_style("Calibri");
+insert_table(2, 1);
+choose_table_cell(0, 0);insert_text("Nhận dạng hình ảnh");choose_table_cell(1, 0);insert_text("Xử lý ngôn ngữ tự nhiên");
+
+choose_title();insert_text("Đánh giá chất lượng dịch máy");
+insert_textbox();insert_text("Phóng viên: Eva.");set_bottom("textbox","title");
+choose_title();set_font_size(66);
+set_background_color("blue");choose_title();set_font_color("red");choose_textbox();set_font_color("red");
+set_background_color("red");choose_title();set_font_color("blue");choose_textbox();set_font_color("blue");
+
+create_slide();choose_title();insert_text("Mạng lưới thần kinh");
+choose_content();insert_text("Mạng lưới thần kinh là một tập hợp các thuật toán bắt chước chức năng của bộ não con người. Chúng được thiết kế để nhận dạng các mẫu, phân loại dữ liệu và đưa ra dự đoán.");
+set_font_size(24);
+set_font_style("Arial");text_align_center();
+choose_title();set_font_color("blue");
+set_font_color("green");
+insert_picture("brain");set_width(1.5);set_height(1.5);
+choose_content();insert_text("Bộ não con người đã truyền cảm hứng cho sự phát triển của mạng lưới thần kinh");
+insert_note("mạng nơ ron tích chập");
+create_slide();set_background_color("yellow");
+
+create_slide();choose_title();insert_text("Tài chính cá nhân");insert_note("Tài chính cá nhân");
+choose_title();set_font_size(24);set_font_underline();
+choose_content();insert_text("Tài chính cá nhân bao gồm toàn bộ việc quản lý tài chính cá nhân và gia đình, chịu trách nhiệm về tình hình tài chính hiện tại và tương lai của bạn, đồng thời đặt ra các mục tiêu tài chính. Nó cũng bao gồm xử lý các nhiệm vụ tài chính cá nhân và tiết kiệm cho những trường hợp khẩn cấp. ");
+set_font_color("orange");
+insert_picture("corporate_finance_book");
+set_width(6.5);
+set_background_color("blue");
+set_background_color("light blue");
+create_slide();set_background_color("light blue");create_slide();set_background_color("light blue");
+move_to_slide(1);insert_table(1, 2);
+
+choose_content();insert_text("Chào mừng bạn đến với trang Danh mục Microsoft Update.");
+set_font_color("orange");set_background_color("dark blue");
+insert_picture("computer");align_slide_bottom();
+align_slide_left();
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("Khái niệm cơ bản");choose_table_cell(0, 1);insert_text("Xuất xứ");choose_table_cell(0, 2);insert_text("Danh mục");choose_table_cell(0, 3);insert_text("Phát triển")
+create_slide();insert_star();set_fill_color("red");
+insert_pie_chart([10, 12, 14], ["Q1", "Q2", "Q3"]);choose_shape("star");align_bottom_left_corner();
+choose_chart();set_height(10);set_width(10);
+
+create_slide();set_background_color("blue");
+choose_title();insert_text("Giới thiệu");
+choose_content();insert_text("People Plus Money ngang bằng với tài chính cá nhân.");
+set_font_italic();set_font_underline();
+set_font_color("green");
+insert_picture("person_grasping_money");align_bottom_right_corner();
+set_width(8);set_height(7);
+create_slide();choose_content();insert_text("Tiền không phải là tất cả, nhưng không có tiền là không thể");
+set_font_style("Futura");set_font_color("blue");
+set_font_color("purple");
+insert_pie_chart([1, 2, 3, 4, 5])], ["1", "2", "3", "4", "5"]);set_right("chart", "content");
+choose_title();insert_text("Tác động của đồng tiền");
+
+create_slide();choose_title();insert_text("Sự khác biệt giữa tài chính cá nhân và doanh nghiệp");
+insert_table(2, 3);
+insert_picture("company_logo");set_left("picture", "table");
+choose_table();choose_table_cell(0,0);insert_text("Borderlands 2");choose_table_cell(0,1);insert_text("Divinity: Original Sin 2");choose_table_cell(0,2);insert_text("Final Fantasy VII");choose_table_cell(1,0);insert_text("Assassin's Creed IV: Black Flag");choose_table_cell(1,1);insert_text("Mega Man 3");choose_table_cell(1,2);insert_text("Mega Man 3");
+insert_cloud();align_slide_right();
+insert_note("2023/4/23");
+
+set_background_color("orange");
+create_slide();choose_title();insert_text("Bridget Fonda");set_background_color("orange");
+set_font_italic();set_font_size(18);
+insert_picture("bridget_fonda");align_top_right_corner();
+choose_picture();set_width(8);set_height(7);
+create_slide();
+choose_content();insert_text("Sinh ra ở Los Angeles, Bridget Fonda xuất thân từ một gia đình diễn xuất được kính trọng, bao gồm Henry Fonda, Peter Fonda và Jane Fonda. Cô bén duyên với nhà hát sau khi xuất hiện trong vở kịch Harvey của trường học, và sau đó có một vai im lặng trong Partners. Năm 1988, cô xuất hiện trong Scandal, vai diễn nói đầu tiên của cô, có một vài vai nhỏ sau đó.");
+set_font_size(12);set_font_italic();
+choose_title();insert_text("Danh sách phim");
+insert_table(3, 3);choose_table_cell(0,0);insert_text("1");choose_table_cell(0,1);insert_text("2");choose_table_cell(0,2);insert_text("3");choose_table_cell(1,0);insert_text("4");choose_table_cell(1,1);insert_text("5");choose_table_cell(1,2);insert_text("6");choose_table_cell(2,0);insert_text("7");choose_table_cell(2,1);insert_text("số 8");choose_table_cell(2,2);insert_text("9");
+choose_table();align_slide_right();
+
+create_slide();
+choose_title();insert_text("Gấu ma");set_font_underline();
+choose_content();insert_text("Loài Gấu Hiếm Nhất Có Thể Bạn Chưa Từng Nghe Đến");
+insert_picture("ghost_bear");
+choose_title();set_font_style("Arial");set_font_size(20);choose_content();set_font_style("Arial");set_font_size(20);
+choose_picture();set_right("picture","content");
+create_slide();insert_picture("treemap_about_bears");
+align_slide_center();
+set_width(4);
+choose_content();insert_text("Khi tôi say mê Dungeons and Dragons, Divinity: Original Sin 2 đã lấp đầy khoảng trống đó cho tôi.");
+choose_title();insert_text("Trò chơi yêu thích của tôi");
+insert_table(2, 2);
+choose_table();choose_table_cell(0,0);insert_text("SMS");choose_table_cell(0,1);insert_text("WeChat");choose_table_cell(1,0);insert_text("QQ");choose_table_cell(1,1);insert_text("DingTalk");
+
+create_slide();set_background_color("blue");
+insert_picture("universe");align_bottom_left_corner();
+set_width(6.5);set_height(13);
+choose_content();insert_text("Có thể nói là mình hơi kén ăn. Mình không thích đồ ăn quá ngọt, như bánh kẹo, sô cô la, v.v.");
+choose_title();insert_text("Món ăn yêu thích của tôi");
+set_font_color("yellow");choose_content();set_font_color("yellow");
+choose_title();set_font_underline();set_font_size(24);choose_content();set_font_size(22);
+insert_cloud();align_slide_right();
+
+choose_title();insert_text("Thần tượng");set_font_underline();
+insert_rectangle();set_fill_color("red");set_bottom("rectangle","title");
+choose_content();insert_text("Anh muốn em! (Anh muốn em!) Anh cần em! (Anh cần em!) Anh yêu em! (Anh yêu em!)");text_align_left();
+set_font_size(24);
+set_font_size(48);
+insert_picture("AKB48");
+set_height(6.5);set_width(13);
+insert_table(2,1);choose_table_cell(0,0);insert_text("Thời gian của một thần tượng rất ngắn. Luôn có một gương mặt mới tươi tắn và họ hiếm khi đi lạc khỏi hiện trạng giống như búp bê.");
+choose_table();choose_table_cell(0,0);set_font_color("blue");set_font_style("Futura");
+choose_table_cell(1,0);insert_text("Hành trình hoành tráng của các thần tượng, từ Sylvie Vartan đến những thần tượng cháy vé ở các sân vận động, đặt ra câu hỏi: Điều gì tiếp theo cho các thần tượng và nền văn hóa mà họ khơi dậy?");
+insert_note("2023/05/17");
+
+choose_content();insert_text("NỘI DUNG");text_align_center();
+choose_content();insert_text("1. Bối cảnh");insert_text("2. Nhiệm vụ đánh giá");insert_text("3. Người mẫu");insert_text("4. Ứng dụng");
+set_font_size(80);set_font_color("green");
+set_font_underline();set_font_style("Pecita");
+
+set_background_color("orange");choose_title();insert_text("Phần mềm tốt nhất");
+set_font_italic();set_font_size(24);
+choose_content();insert_text("Bạn muốn có phần mềm mạnh mẽ? Bạn không phải trả tiền cho phần mềm đó. Mọi thứ bạn cần để làm việc hiệu quả và an toàn trên PC của mình đều có trong danh sách này và tất cả đều hoàn toàn miễn phí.");
+set_font_color("yellow");
+set_background_color("dark blue");
+choose_content();set_font_underline();set_font_style("Arial");
+insert_right_arrow();align_slide_bottom();
+insert_note("2023/4/25");
+
+create_slide();choose_title();insert_text("Jay Chou");
+choose_content();insert_text("Jay Chou là một nhạc sĩ, ca sĩ kiêm nhạc sĩ, nghệ sĩ đa nhạc cụ, diễn viên và đạo diễn người Đài Loan.");
+create_slide();choose_title();insert_text("Mojito");
+set_font_underline();set_font_size(20);
+set_font_size(48);
+choose_content();insert_text('"Mojito" đã được công chúng từ cộng đồng quốc tế đón nhận nồng nhiệt. Ánh nắng Cuba, những chiếc áo sơ mi nhiệt đới, những chiếc ô tô cổ và nhịp điệu sôi động khiến bài hát không chỉ là một giai điệu bắt tai mà còn là một niềm vui thị giác tuyệt vời. Vui lòng KHÔNG đặt câu hỏi.');
+set_font_style("Futura");set_background_color("green");
+insert_picture("mojito_cover");align_slide_right();
+
+choose_title();insert_text("Cuộc sống đại học của tôi");
+insert_picture("collegue");insert_textbox();insert_text("trường cao đẳng");
+choose_content();insert_text("cơn sốt du học của sinh viên đại học");
+set_font_color("red");set_font_underline();
+set_font_style("Futura");choose_title();set_font_size(22);
+choose_content();text_align_left();
+insert_table(1, 3);
+choose_table_cell(0, 0);insert_text("Lớp một");choose_table_cell(0, 1);insert_text("Lớp hai");choose_table_cell(0, 2);insert_text("Lớp ba");
+create_slide();choose_content();insert_text("Bài phát biểu của Michelle Obama tại Đại học Bắc Kinh");
+insert_picture("logo");align_top_right_corner();
+set_height(6.5);
+
+create_slide();choose_title();insert_text("Học Python");
+set_font_italic();set_font_size(26);set_font_style("Times New Roman");
+set_background_color("green");
+create_slide();set_background_color("green");create_slide();set_background_color("green");
+insert_rectangle();align_slide_bottom();
+insert_table(1, 1);
+choose_table_cell(0, 0);insert_text("Ví dụ không được đưa ra, vui lòng điền vào bảng");
+
+create_slide();set_background_color("green");choose_title();insert_text("Dịch máy");
+choose_content();insert_text("Dịch máy là việc sử dụng công nghệ máy tính để dịch văn bản từ ngôn ngữ này sang ngôn ngữ khác.");
+set_font_size(20);
+set_font_size(40);
+set_font_color("green");text_align_right();
+insert_picture("trados");
+set_height(2);set_width(2);
+align_slide_bottom();
+insert_rectangle();align_slide_bottom();
+
+choose_title();insert_text("Lý lịch");insert_note("Lý lịch");
+choose_content();insert_text("Các yêu cầu để hiểu chất lượng bản dịch của máy dịch");insert_text("Tập trung vào độ tin cậy của từng mốc thời gian");
+insert_cloud();set_width(6.5);align_slide_bottom();
+choose_title();set_font_size(30);choose_content();set_font_size(20);set_font_italic();
+
+insert_circle();align_slide_left();set_fill_color("green");
+set_width(10);set_height(10);
+choose_content();insert_text("Mô-đun học tập tính năng");insert_text("Mô-đun đánh giá chất lượng");
+choose_title();insert_text("Khung cơ bản");
+insert_note("2023/4");choose_shape("circle");insert_text("2023/4");
+
+choose_title();insert_text("Bảng lương tháng 3");set_font_color("green");
+insert_table(1, 3);
+choose_table_cell(0, 0);insert_text("ID nhân viên");choose_table_cell(0, 1);insert_text("Số tiền");choose_table_cell(0, 2);insert_text("Ghi chú");
+insert_textbox();insert_text("Người lao động phải cung cấp ID ngân hàng và thẻ căn cước của mình.");set_bottom("textbox","table");
+insert_picture("company_brand_name");align_top_right_corner();
+create_slide();set_background_color("yellow");
+choose_title();insert_text("Chương 2");choose_content();insert_text("Thưởng cho nhân viên");
+choose_title();set_font_italic();set_font_size(44);set_font_color("green");
+choose_content();set_font_style("Verdana");set_font_color("light green");
+insert_note("2023/4");
+
+create_slide();choose_title();insert_text("Các tính năng của học sâu");set_font_underline();
+set_font_size(26);set_font_color("light blue");
+insert_circle();
+choose_content();insert_text("Học sâu là một kỹ thuật học máy dạy máy tính làm những gì con người tự nhiên có được.");
+set_font_style("Arial");
+insert_triangle();align_slide_left();
+align_slide_right();
+set_fill_color("red");set_width(5);
+choose_content();insert_bullet_point("Sunday");insert_bullet_point("Monday");insert_bullet_point("Tuesday");
+move_to_next_slide();set_background_color("yellow");
+choose_title();insert_text("Mạng trung lập");set_font_underline();set_font_italic();insert_note("Mạng trung lập");
+
+choose_title();insert_text("Lịch sử nghệ thuật");
+set_font_bold();set_font_style("Times New Roman");
+choose_content();insert_text("Nghệ thuật là một loạt các hoạt động đa dạng của con người trong việc tạo ra các tạo tác thị giác, thính giác hoặc biểu diễn, thể hiện trí tưởng tượng, ý tưởng khái niệm hoặc kỹ năng kỹ thuật của tác giả, nhằm mục đích được đánh giá cao chủ yếu nhờ vẻ đẹp hoặc sức mạnh cảm xúc.");
+set_font_italic();set_font_style("Arial");
+insert_bullet_point("");
+insert_bullet_point("painting");insert_bullet_point("sculpture");insert_bullet_point("architecture");insert_bullet_point("music");insert_bullet_point("literature");
+insert_picture("Mona Lisa");align_slide_bottom();
+align_top_left_corner();
+insert_note("Mona Lisa của Leonardo da Vinci");
+
+insert_star();set_fill_color("yellow");
+choose_title();insert_text("Stars");set_font_size(24);
+choose_content();insert_text("Welcome to the Starry Night");
+insert_picture("universe");set_bottom("picture","content");
+insert_note("Ngôi sao sáng, Ngôi sao sáng, Ngôi sao lấp lánh");choose_title();delete_text();insert_text("Ngôi sao sáng, Ngôi sao sáng, Ngôi sao lấp lánh");
+
+create_slide();choose_title();insert_text("Phản hồi của khách hàng");
+insert_picture("happy_customer");align_slide_bottom();
+choose_title();delete_text();insert_text("Khách hàng của chúng tôi yêu chúng tôi!");set_font_color("red");
+delete_text();insert_text("!!");
+choose_content();insert_text("Nhận xét của khách hàng");
+set_font_style("Times New Roman");set_font_color("green");
+set_background_color("red");
+set_background_color("green");
+
+create_slide();choose_title();insert_text("Kế hoạch tiếp thị");
+insert_text("Giới thiệu");set_font_underline();set_font_style("Calibri");
+insert_picture("company_logo");align_bottom_left_corner();
+set_height(5);set_width(3);align_slide_right();
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("Danh mục");choose_table_cell(0, 1);insert_text("Thông tin");choose_table_cell(1, 0);insert_text("Tuổi");choose_table_cell(1, 1);insert_text("25")
+create_slide();set_background_color("blue");
+choose_title();insert_text("Thương hiệu di động");
+insert_line_chart([120, 140, 150], ["Huawei", "Apple", "Xiaomi"]);
+set_chart_title("Sales in April");
+
+create_slide();choose_title();insert_text("Báo cáo tài chính quý 2");
+set_font_style("Arial");set_font_size(20);
+insert_table(1, 3);choose_table_cell(0, 0);insert_text("Số liệu");choose_table_cell(0, 1);insert_text("Q2");choose_table_cell(0, 2);insert_text("Q3")
+insert_picture("financial report");set_top("picture","table");
+choose_content();insert_text("Báo cáo tài chính quý 2 cho thấy mức tăng trưởng doanh thu mạnh mẽ và khả năng sinh lời được cải thiện nhờ các biện pháp tối ưu hóa chi phí thành công và nhu cầu thị trường ngày càng tăng đối với các sản phẩm và dịch vụ của chúng tôi.");
+set_font_italic();set_font_bold();
+insert_bullet_point("");
+set_background_color("light blue");
+
+create_slide();set_background_color("green");
+choose_title();insert_text("nữ quyền");
+set_font_color("green");set_font_size(26);
+choose_content();insert_text("Nữ quyền là niềm tin và theo đuổi các quyền, quyền lực và cơ hội bình đẳng cho phụ nữ, song song với nam giới.");
+set_font_color("green");set_font_italic();
+create_slide();choose_title();insert_text("Làn sóng thứ 3 của phong trào nữ quyền");set_font_color("green");
+set_font_bold();set_font_style("Times New Roman");set_font_color("blue");set_font_size(28);
+insert_picture("war");align_slide_bottom();
+insert_pie_chart([40, 30, 30], ["Mỹ", "Nga", "Pháp"]);
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("Vị trí");choose_table_cell(0, 1);insert_text("Các thành phố khác nhau trên thế giới")
+
+create_slide();choose_title();insert_text("Product Launch");
+choose_content();insert_text("Khách quan");insert_note("Khách quan");
+set_font_underline();set_font_style("Times New Roman");
+insert_picture("Apple_Pencil");align_bottom_left_corner();
+align_top_right_corner();
+
+choose_title();insert_text("Tiến độ nhóm");
+choose_content();insert_text("Mục tiêu");
+choose_content();insert_text("Mục đích của tổ chức là thúc đẩy giới trẻ và các nhóm yếu thế của thế hệ này thông qua sự cố vấn của các dịch giả tự do có kinh nghiệm.");
+set_font_size(18);set_font_underline();
+insert_picture("team_group");set_right("picture", "content");
+
+choose_title();insert_text("Sức mạnh của Đổi mới");
+set_font_style("Arial");set_font_bold();
+choose_content();insert_text("Trong thế giới đang thay đổi nhanh chóng ngày nay, đổi mới đóng một vai trò quan trọng trong việc thúc đẩy tăng trưởng kinh tế, định hình bối cảnh chính trị và chuyển đổi các chuẩn mực văn hóa. Nó thúc đẩy tiến bộ, thúc đẩy khả năng cạnh tranh và mở ra những khả năng mới cho các cá nhân và xã hội.");
+set_font_color("dark blue");set_line_space(2);
+insert_picture("cityscape");align_slide_left();
+insert_rectangle();align_slide_right();
+set_background_color("dark blue");
+create_slide();choose_content();insert_text(" Nó hoạt động không có lý trí, coi thường đạo đức xã hội và các tiêu chuẩn bên ngoài.");
+set_font_bold();set_font_underline();choose_title();insert_text("Truyện cổ tích");
+
+choose_title();insert_text("Sống đô thị");
+set_background_color("light blue");
+choose_table();insert_table(3, 2);choose_table_cell(0, 1);delete_text();insert_text("Số lượng");choose_table_cell(1, 1);delete_text();insert_text("Chất lượng");choose_table_cell(2, 1);delete_text();insert_text("Mức độ");
+insert_triangle();insert_rectangle();set_top("triangle", "rectangle");
+choose_shape("triangle");set_bottom("triangle", "rectangle");
+insert_picture("Shanghai");align_bottom_left_corner();
+
+choose_table();insert_table(4, 6);
+choose_table_cell(0, 0);insert_text("Year");choose_table_cell(0, 1);insert_text("Friends");choose_table_cell(0, 2);insert_text("Breaking Bad");choose_table_cell(0, 3);insert_text("Game of Thrones");choose_table_cell(0, 4);insert_text("Stranger Things");choose_table_cell(0, 5);insert_text("The Crown")
+insert_star();
+insert_picture("Friends");set_right("picture", "star");
+choose_shape("star");set_top("star", "picture");
+choose_title();insert_text("phim truyền hình");set_font_italic();set_font_underline();
+insert_note("2023-2025");
+
+insert_triangle();rotate_element(45);
+insert_rectangle();set_right("rectangle","triangle");
+insert_star();set_right("star","rectangle");
+insert_circle();set_right("circle","star");
+insert_callout();set_right("callout","circle");rotate_element(-45);
+choose_shape("triangle");insert_text("hình dạng");choose_shape("rectangle");insert_text("hình dạng");choose_shape("star");insert_text("hình dạng");choose_shape("circle");insert_text("hình dạng");choose_shape("callout");insert_text("hình dạng");
+
+insert_picture("globe");
+choose_title();insert_text("Chiến lược mở rộng toàn cầu");
+choose_picture();align_top_left_corner();
+choose_content();insert_text("Hòa bình và tình yêu");
+
+insert_pie_chart([40, 45, 5], ["Thượng Hải", "Bắc Kinh", "Khác"]);
+choose_title();insert_text("Đóng góp");
+choose_content();insert_text("Tổng sản phẩm quốc nội hàng năm của Bắc Kinh lần đầu tiên vượt quá 4 nghìn tỷ nhân dân tệ (630 tỷ USD) vào năm 2021");
+set_font_style("Arial");
+insert_line_chart([6.7, 6.9, 6.6, 6.1, 2.3, 8.1], ["2016", "2017", "2018", "2019", "2020", "2021"]);
+choose_title();insert_text("Tăng trưởng GDP");
+insert_bar_chart([6.5, 6.3, 6.1, 5.9, 5.7, 5.5], ["2022", "2023", "2024", "2025", "2026", "2027"]);
+
+create_slide();choose_title();insert_text("Kế hoạch tiếp thị");
+set_background_color("red");
+insert_picture("company_logo");set_top("picture", "title");
+set_width(3);
+
+create_slide();choose_title();insert_text("Queencard");
+set_font_italic();set_font_bold();set_font_color("purple");
+set_background_color("light blue");
+insert_picture("Poker");set_right("picture", "title");
+align_top_right_corner();
+insert_circle();align_bottom_right_corner();
+set_width(6);set_height(4);
+create_slide();choose_title();insert_text("King");
+insert_picture("King");align_slide_right();
+
+create_slide();choose_title();insert_text("Project Timeline");
+insert_table(1, 4);
+choose_table();choose_table_cell(0, 0);insert_text("Jan");choose_table_cell(0, 1);insert_text("Feb");choose_table_cell(0, 2);insert_text("Mar");choose_table_cell(0, 3);insert_text("April")
+choose_content();insert_text("ví dụ: \"Ra mắt phần mềm\", \"Chiến dịch tiếp thị bắt đầu\"");
+insert_picture("project_team");set_bottom("picture", "table");
+insert_right_arrow();set_left("right_arrow", "picture");
+set_width(3);set_height(3);
+
+insert_pie_chart([40, 60], ["Nữ", "Nam"]);
+set_chart_title("Class 1");
+insert_picture("team_of_students");
+insert_rectangle();set_bottom("rectangle", "chart");
+choose_title();insert_text("Lớp 1");
+choose_content();insert_text("phần sau hiển thị tỷ lệ phần trăm giới tính trong mỗi lớp");
+set_font_underline();set_font_size(20);
+insert_note("Principle：Eva");
+create_slide();insert_pie_chart([40, 60],["Female", "Male"]);set_chart_title("Class 1");
+insert_picture("team_of_students");
+insert_rectangle();set_bottom("rectangle", "chart");
+
+create_slide();choose_title();insert_text("Lời chứng thực của khách hàng");
+choose_content();insert_text("Khách hàng nói gì về chúng tôi");set_font_bold();set_font_italic();
+insert_picture("happy_customer");
+insert_triangle();set_fill_color("purple");
+align_slide_right();
+
+create_slide();choose_title();insert_text("Strategy");
+choose_content();insert_text("Chiến lược tiếp thị của chúng tôi dựa trên 4P: Sản phẩm, Giá cả, Địa điểm và Quảng cáo.");
+set_font_size(20);set_line_space(2);set_font_bold();choose_title();set_font_underline();
+set_font_color("red");choose_content();set_font_color("red");
+insert_rectangle();align_slide_left();
+insert_picture("Apple_company_logo");set_right("picture", "rectangle");
+choose_picture();set_top("picture", "rectangle");
+
+create_slide();choose_title();insert_text("Người hâm mộ");set_font_style("Arial");set_font_size(24);
+choose_content();insert_bullet_point("Benefits of our product");insert_bullet_point("Target market");insert_bullet_point("Pricing strategy");insert_bullet_point("Marketing channels");
+insert_picture("idol");set_height(6.5);
+align_slide_bottom();
+insert_rectangle();align_slide_top();
+insert_note("Người thuyết trình：Eva");
+
+create_slide();choose_title();insert_text("Sales Figures");
+insert_bar_chart([20, 30], ["Tháng 1", "Tháng 2"]);
+insert_line_chart([10, 15], ["Tháng 1", "Tháng 2"]);
+set_chart_title("Sales by Month");
+insert_rectangle();align_slide_top();
+choose_content();insert_text("Doanh thu của chúng tôi cũng tăng đều trong 6 tháng qua");
+
+create_slide();choose_title();insert_text("Báo cáo bán hàng");
+insert_table(2, 5);
+choose_table();choose_table_cell(0, 0);insert_text("Sản phẩm");choose_table_cell(0, 1);insert_text("Số lượng bán được");choose_table_cell(0, 2);insert_text("Doanh thu");choose_table_cell(0, 3);insert_text("Chi phí");choose_table_cell(0, 4);insert_text("Lợi nhuận")
+insert_table_row(["Máy tính", "1000", "$1000000", "$500000", "$500000"])
+insert_table(1, 5);insert_table_row(["Máy in", "500", "$100000", "$50000", "$50000"])
+
+create_slide();insert_picture("city_skyline");align_slide_top();
+set_width(6);set_height(4);
+choose_title();insert_text("Cuộc sống thành phố");
+choose_picture();align_top_left_corner();
+choose_title();set_font_size(20);set_font_bold();
+
+create_slide();insert_line_chart([40, 30, 30], ["Hòa nhạc", "Album", "Sách"]);
+choose_title();insert_text("Sức mạnh của Fandom");
+choose_content();insert_text("Người hâm mộ đóng một vai trò quan trọng trong việc định hình thành công và tác động của nhiều hình thức giải trí khác nhau, từ phim ảnh và chương trình truyền hình đến thể thao và âm nhạc.");
+set_font_style("Arial");set_font_size(20);
+insert_right_arrow();align_slide_top();
+insert_textbox();align_slide_bottom();
+align_slide_top();
+
+create_slide();choose_title();insert_text("Tencent");
+insert_rectangle();align_slide_top();
+rotate_element(90);
+choose_title();set_font_style("Georgia");set_font_italic();
+choose_content();insert_text("Tencent là tập đoàn đa quốc gia hàng đầu của Trung Quốc được thành lập vào năm 1998. Tập đoàn này chuyên về các sản phẩm và dịch vụ liên quan đến internet, bao gồm mạng xã hội, trò chơi trực tuyến, thương mại điện tử, điện toán đám mây và trí tuệ nhân tạo. ");
+set_font_size(24);set_font_style("Arial");
+
+set_background_color("green");
+insert_picture("Tencent_logo");
+set_width(6.5);
+insert_line_chart([40, 30, 30], ["Mô hình A", "Mô hình B", "Mô hình C"]);
+insert_bar_chart([40, 30, 30],["Model A", "Model B", "Model C"]);
+
+create_slide();choose_title();insert_text("Nguồn gốc của người Anh");set_font_underline();
+choose_content();insert_text("Nguồn gốc của Vương quốc Anh có thể bắt nguồn từ thời của vua Anglo-Saxon Athelstan, người vào đầu thế kỷ thứ 10 sau Công Nguyên đã giành được lòng trung thành của các vương quốc Celtic lân cận và trở thành ");
+set_font_size(20);
+set_font_size(40);set_background_color("green");
+
+insert_rectangle();align_slide_right();
+set_fill_color("yellow");
+choose_title();insert_text("Vinda");
+choose_content();insert_text("Tập đoàn Vinda là công ty sản phẩm vệ sinh hàng đầu được thành lập vào năm 1985. Tập đoàn chuyên sản xuất và phân phối khăn giấy, sản phẩm vệ sinh dùng một lần và sản phẩm chăm sóc cá nhân.");
+set_font_size(20);set_font_color("green");set_font_style("Vinda");
+set_line_space(2);choose_title();set_line_space(2);
+
+choose_title();insert_text("Sở thích của tôi");
+insert_picture("guitar");align_top_right_corner();
+choose_content();insert_text("Chơi ghi-ta là một trong những sở thích yêu thích của tôi.");
+set_font_size(24);set_font_color("purple");
+
+create_slide();choose_title();insert_text("Kế hoạch tiếp thị");
+choose_content();insert_text("Kế hoạch tiếp thị");
+set_font_style("Calibri");
+insert_picture("vinda_logo");
+align_top_left_corner();
+
+create_slide();choose_title();insert_text("Chiến dịch tiếp thị");
+insert_picture("smiling_customer");align_top_left_corner();
+set_height(5);set_width(6);
+choose_content();insert_bullet_point("Profits");insert_bullet_point("Repute");insert_bullet_point("Go listing");
+set_font_size(20);choose_title();set_font_size(20);
+
+create_slide();choose_title();insert_text("Các loại pin");
+set_font_bold();set_font_italic();
+insert_picture("Product A");
+align_slide_left();
+insert_table(4, 2);choose_table_cell(0, 0);insert_text("Loại pin");choose_table_cell(0, 1);insert_text("Mô tả");choose_table_cell(1, 0);insert_text("Pin kiềm và pin gia dụng thông thường");choose_table_cell(1, 1);insert_text("Có thời hạn sử dụng dài");choose_table_cell(2, 0);insert_text("Pin lithium-ion và Pin sạc");choose_table_cell(2, 1);insert_text("Được sử dụng trong các thiết bị điện tử");choose_table_cell(3, 0);insert_text("Niken-cadmium");choose_table_cell(3, 1);insert_text("Pin sạc có mật độ năng lượng cao")
+
+insert_pie_chart([30, 25, 20, 15, 10], ["Nhãn hiệu A", "Nhãn hiệu B", "Nhãn hiệu C", "Nhãn hiệu D", "Nhãn hiệu khác"]);
+set_chart_title("Air Condition Brands");
+choose_content();insert_text("trang trình bày này bao gồm một mô tả ngắn gọn hoặc các điểm chính về từng thương hiệu");
+insert_picture("Haier");align_slide_bottom();
+choose_content();set_font_underline();set_font_color("green");
+insert_triangle();insert_rectangle();
+choose_shape("triangle");set_bottom("triangle", "rectangle");
+choose_shape("rectangle");rotate_element(45);
+
+choose_title();insert_text("Nhóm của chúng tôi");
+insert_picture("team");set_width(4);set_height(3);
+rotate_element(45);
+align_top_left_corner();
+choose_title();set_font_style("Calibri");set_font_size(28);
+
+choose_title();insert_text("Thẻ nhận dạng");
+insert_line_chart([120, 140, 110], ["Phúc Kiến", "Thượng Hải", "Bắc Kinh"]);
+set_chart_title("ID Card Operation");
+insert_picture("ID_card");align_slide_right();
+choose_title();set_font_style("Verdana");set_font_size(32);
+set_background_color("purple");
+
+choose_title();insert_text("Báo cáo bán hàng");
+set_font_style("Arial");set_font_size(48);set_font_bold();
+insert_table(5, 3);
+choose_table_cell(0, 0);insert_text("Khu vực");choose_table_cell(0, 1);insert_text("Bán hàng");choose_table_cell(0, 2);insert_text("Tăng trưởng");choose_table_cell(1, 0);insert_text("Bắc");choose_table_cell(1, 1);insert_text("$50.000");choose_table_cell(1, 2);insert_text("5%");choose_table_cell(2, 0);insert_text("Đông");choose_table_cell(2, 1);insert_text("$75.000");choose_table_cell(2, 2);insert_text("10%");choose_table_cell(3, 0);insert_text("Nam");choose_table_cell(3, 1);insert_text("$45.000");choose_table_cell(3, 2);insert_text("3%");choose_table_cell(4, 0);insert_text(" Tây");choose_table_cell(4, 1);insert_text("60.000 USD");choose_table_cell(4, 2);insert_text("8%")
+set_background_color("green");
+choose_content();insert_text("Tên: John Doe,Ngày sinh: 1 tháng 1 năm 1990,Giới tính: Nam,Số CMND: 123456789,Cơ quan cấp: Cục Xe cơ giới,Ngày hết hạn: 31 tháng 12 năm 2023");
+insert_picture("beach");
+insert_right_arrow();
+choose_picture();set_top("picture", "right_arrow");
+
+insert_rectangle();
+set_fill_color("orange");
+set_width(6);set_height(5);
+choose_title();insert_text("Thông tin quan trọng");set_font_bold();
+set_font_size(24);set_font_color("green");
+choose_content();insert_bullet_point("pot");insert_bullet_point("scissors");insert_bullet_point("scoup");
+insert_picture("exclamatory_mark");
+align_top_left_corner();
+create_slide();insert_rectangle();align_slide_left();
+choose_title();insert_text("Chi tiết bổ sung");
+
+choose_content();insert_text("Đây là một số thống kê về sự phát triển của công ty chúng tôi");
+set_font_color("purple");
+choose_table();insert_table(1, 3);
+choose_table_cell(0, 0);insert_text("doanh thu");choose_table_cell(0, 1);insert_text("lợi nhuận");choose_table_cell(0, 2);insert_text("số lượng nhân viên")
+
+insert_picture("converse_shoes");
+choose_content();insert_text("Converse là một thương hiệu giày dép phổ biến được biết đến với giày thể thao mang tính biểu tượng và phong cách giản dị.");
+set_font_size(18);set_font_color("red");
+
+choose_content();insert_text("Nước chanh là một loại nước giải khát có vị ngọt và sảng khoái được làm từ những quả chanh mới vắt. Nó rất giàu vitamin C và cung cấp một loạt hương vị cam quýt.");
+create_slide();choose_title();insert_text("Nước chanh");
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("Sản phẩm");choose_table_cell(0, 1);insert_text("Giá");choose_table_cell(0, 2);insert_text("Tính năng");choose_table_cell(1, 0);insert_text("A");choose_table_cell(1, 1);insert_text("B");choose_table_cell(1, 2);insert_text("C")
+insert_picture("lemon_juice");set_right("picture","table");
+choose_content();insert_text("Trang 1");
+
+insert_picture("beach");align_top_left_corner();
+choose_content();insert_text("Đặt kỳ nghỉ của bạn ngay hôm nay!");
+choose_title();insert_text("Thời gian nghỉ");
+set_font_size(18);set_font_style("Times New Roman");choose_content();set_font_size(18);set_font_style("Times New Roman");
+choose_content();insert_bullet_point("Relaxing on the beach");insert_bullet_point("Swimming in the ocean");insert_bullet_point("Eating delicious seafood");
+
+create_slide();choose_title();insert_text("Ớt");
+set_background_color("red");
+insert_picture("chili");
+choose_content();insert_text("Ớt là một món ăn cay và có hương vị được chế biến từ sự kết hợp của thịt, đậu và nhiều loại gia vị khác nhau. Nó được biết đến với hương vị đậm đà và tính giải nhiệt.");
+
+choose_title();insert_text("Chili");insert_picture("chili_landscape");
+insert_table(4, 3);choose_table_cell(0, 0);insert_text("Thành phần");choose_table_cell(0, 1);insert_text("Số lượng");choose_table_cell(0, 2);insert_text("Mức độ cay");choose_table_cell(0, 3);insert_text("Xuất xứ");choose_table_cell(1, 0);insert_text("Beef");choose_table_cell(1, 1);insert_text("2 lbs");choose_table_cell(1, 2);insert_text("Medium");choose_table_cell(1, 3);insert_text("Mexico");choose_table_cell(2, 0);insert_text("Đậu");choose_table_cell(2, 1);insert_text("1 lon");choose_table_cell(2, 2);insert_text("Nhẹ");choose_table_cell(2, 3);insert_text("Hoa Kỳ");choose_table_cell(3, 0);insert_text("Tomatoes");choose_table_cell(3, 1);insert_text("3");choose_table_cell(3, 2);insert_text("Hot");choose_table_cell(3, 3);insert_text("Spain")
+insert_note("Page 2");
+
+insert_picture("eating_humburger");align_slide_bottom();
+choose_title();insert_text("Dự báo doanh số cho quý 3");
+choose_content();insert_text("Dự báo doanh số bán hàng cho Quý 3 cho thấy doanh thu và thị phần tăng trưởng ổn định. Với các chiến lược tiếp thị có mục tiêu và cải tiến sản phẩm, chúng tôi dự đoán hiệu suất bán hàng sẽ tăng đáng kể.");
+
+choose_title();insert_text("Chiến lược tiếp thị");
+choose_content();insert_text("Chiến lược tiếp thị của công ty chúng tôi là tập trung vào quảng cáo trên mạng xã hội và tiếp thị có ảnh hưởng");
+insert_bullet_point("Instagram");insert_bullet_point("Facebook");insert_bullet_point("Twitter");
+insert_picture("using_smartphone");
+insert_rectangle();set_top("rectangle","picture");
+insert_table(6, 4);choose_table_cell(0, 0);insert_text("Tháng");choose_table_cell(0, 1);insert_text("Doanh thu");choose_table_cell(0, 2);insert_text("Số lượng đã bán");choose_table_cell(0, 3);insert_text("Tỷ lệ tăng trưởng")
+
+create_slide();choose_title();insert_text("Product Launch");
+insert_text("Giới thiệu sản phẩm mới nhất của chúng tôi");
+insert_picture("product");
+align_slide_bottom();
+set_background_color("purple");align_slide_top();
+
+choose_title();insert_text("Khám phá Trung Quốc");
+insert_picture("china_map");
+align_top_left_corner();
+choose_content();insert_text("Trung Quốc là một điểm đến du lịch hấp dẫn được biết đến với lịch sử phong phú, văn hóa rực rỡ và phong cảnh ngoạn mục. Từ Vạn Lý Trường Thành mang tính biểu tượng đến đô thị nhộn nhịp của Thượng Hải, có điều gì đó cho mọi du khách ở quốc gia rộng lớn và đất nước đa dạng.");
+insert_table(8, 5);choose_table_cell(0, 0);insert_text("Tỉnh");choose_table_cell(0, 1);insert_text("Danh lam thắng cảnh nổi tiếng");choose_table_cell(0, 2);insert_text("Nhiệt độ trung bình");choose_table_cell(0, 3);insert_text("Số lượng khách du lịch");choose_table_cell(0, 4);insert_text("Mùa được đề xuất")
+create_slide();choose_title();insert_text("Project Timeline");
+insert_star();align_slide_right();
+align_slide_right();
+
+choose_title();insert_text("OPPO");set_font_color("red");set_font_size(20);set_font_underline();set_font_bold();
+choose_content();insert_text("OPPO là nhà sản xuất điện thoại thông minh hàng đầu nổi tiếng với thiết kế sáng tạo và công nghệ tiên tiến.");
+insert_picture("oppo_smartphone");set_left("picture","content");
+create_slide();choose_title();insert_text("Xiaomi");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("Sản phẩm");choose_table_cell(0, 1);insert_text("Giá");choose_table_cell(0, 2);insert_text("Tính năng");choose_table_cell(0, 3);insert_text("Tình trạng còn hàng");choose_table_cell(1, 0);insert_text("Mi 11");choose_table_cell(1, 1);insert_text("$699");choose_table_cell(1, 2);insert_text("Snapdragon 888, camera 108MP");choose_table_cell(1, 3);insert_text("Global");choose_table_cell(2, 0);insert_text("Redmi Note 10");choose_table_cell(2, 1);insert_text("$249");choose_table_cell(2, 2);insert_text("Màn hình AMOLED, camera 48MP");choose_table_cell(2, 3);insert_text("Toàn cầu")
+
+create_slide();choose_title();insert_text("Tổng quan về sản phẩm");
+choose_table();insert_table(4, 3);choose_table_cell(0, 0);insert_text("Tên sản phẩm");choose_table_cell(1, 0);insert_text("SKU");choose_table_cell(2, 0);insert_text("Giá");choose_table_cell(3, 0);insert_text("Số lượng");
+set_background_color("green");
+
+set_background_color("blue");choose_title();insert_text("Research Writing");
+choose_content();insert_text("Viết nghiên cứu liên quan đến việc điều tra có hệ thống và tài liệu về một chủ đề để đóng góp kiến ​​thức và hiểu biết mới cho một lĩnh vực cụ thể.");
+set_font_color("yellow");set_font_size(18);
+set_font_size(36);
+insert_line_chart([120, 140, 160], ["2016", "2017", "2018"]);
+set_chart_title("Publications Over Time");
+insert_picture("research_writing_cover");set_background_color("light blue");
+
+create_slide();choose_title();insert_text("Lên lịch vào tháng 3");
+set_font_size(28);set_font_color("dark blue");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("Ngày");choose_table_cell(0, 1);insert_text("Nhiệm vụ");choose_table_cell(0, 2);insert_text("Thời gian bắt đầu");choose_table_cell(0, 3);insert_text("Thời gian kết thúc");choose_table_cell(1, 0);insert_text("Ngày 15 tháng 3");choose_table_cell(1, 1);insert_text("Cuộc họp với các bên liên quan");choose_table_cell(1, 2);insert_text("9:00 sáng");choose_table_cell(1, 3);insert_text("10:30 sáng");choose_table_cell(2, 0);insert_text("23 tháng 3");choose_table_cell(2, 1);insert_text("Đánh giá và cập nhật dự án");choose_table_cell(2, 2);insert_text("2:00 chiều");choose_table_cell(2, 3);insert_text("4:00 chiều")
+insert_picture("calendar");set_top(picture, table);
+
+create_slide();choose_title();insert_text("Lợi ích của thiền định");
+insert_picture("person_meditating");align_slide_bottom();
+choose_content();insert_text("Thiền là một kỹ thuật đơn giản nhưng mạnh mẽ có thể giúp bạn đạt được trạng thái bình yên và tĩnh lặng bên trong.");
+set_font_size(24);set_font_style("Times New Roman");
+insert_rectangle();set_right("rectangle", "picture");
+set_fill_color("light green");
+create_slide();set_background_color("light blue");
+choose_table();insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("Thiền chánh niệm");choose_table_cell(1, 0);insert_text("Thiền siêu việt");choose_table_cell(2, 0);insert_text("Thiền quét cơ thể");choose_table_cell(0, 1);insert_text("Thiền định giúp làm dịu tâm trí và giảm mức độ căng thẳng, thúc đẩy thư giãn.");choose_table_cell(1, 1);insert_text("Thiền định thường xuyên giúp tăng cường khả năng tập trung và tập trung.");choose_table_cell(2, 1);insert_text("Thiền định thúc đẩy sự ổn định cảm xúc, chánh niệm và sức khỏe tổng thể. ");
+
+create_slide();set_background_color("green");
+insert_picture("grassland");set_width(6.5);set_height(5.5);
+choose_title();insert_text("Chức năng của rừng");set_font_color("dark red");set_font_size(40);
+insert_right_arrow();set_fill_color("yellow");
+set_right("right_arrow", "picture");
+
+insert_pie_chart([40, 20, 15, 10, 15], ["thực phẩm", "nhà ở", "giao thông", "giải trí", "khác"]);
+insert_table(6, 2);choose_table_cell(0, 0);insert_text("Danh mục");choose_table_cell(0, 1);insert_text("Tỷ lệ phần trăm")
+set_bottom("table",pie_chart");
+choose_title();insert_text("Chi tiêu của tôi vào tháng 5 năm 2023");
+set_font_italic();
+
+create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");
+move_to_slide(0);choose_title();insert_text("Kỳ nghỉ hè của tôi");set_font_style("Microsoft JhengHei");
+move_to_slide(1);insert_picture("family");
+move_to_slide(2);insert_bar_chart([120, 80, 40, 60], ["Doanh thu", "Chi phí", "Lợi nhuận", "Đầu tư"]);
+move_to_slide(3);choose_content();insert_text("Trong kỳ nghỉ hè, tôi đã dấn thân vào một cuộc phiêu lưu khó quên. Tôi đã khám phá những điểm đến mới, đắm mình trong sự ấm áp của hoàng hôn vàng và thư giãn trên những bãi biển đầy cát.");
+move_to_slide(4);choose_table();insert_table(2, 1);choose_table_cell(0,0);insert_text("Doanh thu");set_font_size(26);choose_table_cell(1,0);insert_text("Chi phí");set_font_size(26);
+
+create_slide();choose_title();insert_text("Kế hoạch kinh doanh");
+insert_picture("light_bulb");align_slide_left();
+choose_content();insert_text("Khởi nghiệp là quá trình thiết kế, ra mắt và điều hành một doanh nghiệp mới, ban đầu thường là một doanh nghiệp nhỏ. Những người tạo ra các doanh nghiệp này được gọi là doanh nhân.");
+set_font_style("Georgia");set_font_size(10);
+set_background_color("green");
+insert_circle();
+align_slide_right();
+move_to_slide(0);choose_content();insert_text("Chiến lược tiếp thị");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("Chiến dịch truyền thông xã hội");choose_table_cell(1, 0);insert_text("Đối tác có ảnh hưởng");choose_table_cell(2, 0);insert_text("Tiếp thị qua email")
+choose_table_cell(0,3);insert_text("$10000");choose_table_cell(1,3);insert_text("$15000");choose_table_cell(2,3);insert_text("$5000");
+insert_note("2023/5");
+
+choose_title();insert_text("Khán giả mục tiêu");set_font_style("Arial");
+align_top_right_corner();
+insert_picture("Gen_Z");set_width(4);
+align_bottom_left_corner();
+choose_content();insert_text("Hiểu và nhắm mục tiêu hiệu quả đến đúng đối tượng là rất quan trọng để truyền tải thông điệp phù hợp và tối đa hóa tác động của các nỗ lực tiếp thị.");
+
+choose_title();insert_text("Các yếu tố cần thiết của mô hình quy mô lớn");set_font_size(24);
+insert_picture("neutral_network");align_slide_bottom();
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("Số");choose_table_cell(0, 1);insert_text("Ghi chú")
+align_slide_top();
+
+insert_picture("tower");align_top_right_corner();
+choose_title();insert_text("The Ultimate Heist");
+insert_rectangle();set_top("rectangle", "title");
+choose_title();set_font_color("dark green");set_font_size(28);
+set_font_style("Microsoft New Tai Lue");
+set_background_color("light blue");
+
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("Nhiệm vụ");choose_table_cell(0, 1);insert_text("Mức độ ưu tiên");choose_table_cell(0, 2);insert_text("Thời gian bắt đầu");choose_table_cell(0, 3);insert_text("Thời gian kết thúc");choose_table_cell(1, 0);insert_text("Lập kế hoạch dự án");choose_table_cell(1, 1);insert_text("Cao");choose_table_cell(1, 2);insert_text("9:00 sáng");choose_table_cell(1, 3);insert_text("10:30 sáng")
+choose_content();insert_text("Quản lý thời gian hiệu quả là một kỹ năng quan trọng để thành công trong cả môi trường cá nhân và nghề nghiệp.");
+set_font_italic();
+choose_table();set_bottom("table","content");
+insert_picture("clock");
+insert_note("Người trình bày: Eva");
+
+create_slide();choose_title();insert_text("Hồ sơ công ty");
+choose_content();insert_text("Công ty chúng tôi được thành lập năm 2005 với mục đích cung cấp các sản phẩm và dịch vụ chất lượng cao cho khách hàng. Kể từ đó, chúng tôi đã phát triển thành nhà cung cấp giải pháp sáng tạo hàng đầu cho nhiều ngành công nghiệp . Đội ngũ chuyên gia của chúng tôi cam kết mang lại sự xuất sắc trong mọi việc chúng tôi làm.");
+choose_title();set_font_style("Calibri Light");set_font_size(40);
+insert_picture("company_logo");align_slide_right();
+set_height(2);set_width(3);align_slide_left();
+align_bottom_left_corner();
+create_slide();set_background_color("blue");
+choose_content();insert_text("Trở thành người dẫn đầu về đổi mới và bền vững, mang lại giá trị cho các bên liên quan của chúng tôi và tác động tích cực đến thế giới.");
+set_font_underline();set_line_space(2);
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("A-72");choose_table_cell(0, 1);insert_text("C-71")
+insert_table(1, 2);insert_table_row(["B-72", "D-71"])
+
+create_slide();choose_title();insert_text("Dữ liệu bán hàng");
+insert_table(15, 6);
+choose_table_cell(0, 0);insert_text("Sản phẩm");choose_table_cell(0, 1);insert_text("Doanh số tháng 1");choose_table_cell(0, 2);insert_text("Doanh số tháng 2");choose_table_cell(0, 3);insert_text("Doanh số tháng 3");choose_table_cell(0, 4);insert_text("Tổng doanh số");choose_table_cell(0, 5);insert_text("Doanh số trung bình");choose_table_cell(1, 0);insert_text("iPhone");choose_table_cell(1, 1);insert_text("22");choose_table_cell(1, 2);insert_text("13");choose_table_cell(1, 3);insert_text("15");choose_table_cell(1, 4);insert_text("17");choose_table_cell(1, 5);insert_text("12")
+align_top_left_corner();
+insert_note("Nguồn dữ liệu: Bộ phận bán hàng");
+create_slide();choose_table();copy_table();paste_table()
+
+choose_title();insert_text("Chiến lược tiếp thị");
+set_font_style("Arial Black");
+choose_content();insert_text("Search Engine Optimization (SEO)");insert_text(", ");insert_text(", ");insert_text(" và ");
+set_font_color("dark blue");
+set_font_color("green");
+insert_picture("thumb");set_width(5);set_bottom("picture", "content");
+
+choose_title();insert_text("The Grand Canyon");set_font_italic();
+set_font_size(30);
+set_font_style("Times New Roman");
+insert_picture("GrandCanyon");
+set_right("picture","title");
+set_height(4);set_width(6);
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("Quảng Đông");choose_table_cell(0, 1);insert_text("Bắc Kinh");choose_table_cell(0, 2);insert_text("Thượng Hải");choose_table_cell(0, 3);insert_text("Hải Nam");choose_table_cell(1, 0);insert_text("34%");choose_table_cell(1, 1);insert_text("36%");choose_table_cell(1, 2);insert_text("20%");choose_table_cell(1, 3);insert_text("10%")
+insert_pie_chart([34, 36, 20, 10], ["Quảng Đông", "Bắc Kinh", "Thượng Hải", "Hải Nam"]);
+choose_chart();set_bottom("chart", "table");
+insert_bar_chart([34, 36, 20, 10],["Guangdong","Beijing", "Shanghai", "Hainan"]);
+insert_note("Nguồn ảnh: National Park Service");
+
+create_slide();choose_title();insert_text("So sánh sản phẩm");
+insert_table(5, 2);choose_table_cell(0, 0);insert_text("Điện thoại thông minh (Apple iPhone 13)");choose_table_cell(0, 1);insert_text("Truyền hình (Samsung QLED Q90T)");choose_table_cell(1, 0);insert_text("Máy tính xách tay (Dell XPS 13)");choose_table_cell(1, 1);insert_text("Máy chơi game (PlayStation 5)");choose_table_cell(2, 0);insert_text("Đồng hồ thông minh (Apple Watch Series 7)");choose_table_cell(2, 1);insert_text("Thiết bị theo dõi sức khỏe (Fitbit Charge 4)");choose_table_cell(3, 0);insert_text("Tai nghe (Sony WH-1000XM4)");choose_table_cell(3, 1);insert_text("Tai nghe không dây (AirPods Pro)");choose_table_cell(4, 0);insert_text("Máy ảnh (Canon EOS R5)");choose_table_cell(4, 1);insert_text("Máy tính bảng (iPad Pro)")
+choose_title();align_bottom_right_corner();
+set_background_color("light blue");
+
+create_slide();choose_title();insert_text("Báo cáo bán hàng hàng tháng");
+choose_content();insert_bar_chart([10000, 12000, 15000, 18000, 20000, 25000, 28000, 30000, 32000, 35000, 40000, 45000], ["Tháng 1", "Tháng 2", "Tháng 3", "Tháng 4", "Tháng 5", "Tháng 6", "Tháng 7", "Tháng 8", "Tháng 9", "Tháng 10", "Tháng 11", "Tháng 12"]);
+set_chart_title("My Monthly Sales in 2023");
+align_slide_top();
+choose_content();insert_text("Báo cáo bán hàng hàng tháng cho thấy doanh thu tăng đáng kể.");
+insert_note("Trình bày bởi: xxx");
+
+set_background_color("light red");insert_picture("strawberry");
+create_slide();choose_title();insert_text("Phạm vi dự án");create_slide();choose_title();insert_text("Dòng thời gian dự án");create_slide();choose_title();insert_text("Ngân sách dự án");
+move_to_slide(1);set_background_color("light green");move_to_slide(2);set_background_color("light blue");move_to_slide(3);set_background_color("purple");
+move_to_slide(1);choose_content();insert_text("Dự án của chúng tôi liên quan đến việc phát triển một ứng dụng phần mềm mới cho khách hàng của chúng tôi. Ứng dụng này sẽ hợp lý hóa các quy trình kinh doanh của họ và cải thiện lợi nhuận của họ.");
+move_to_slide(2);insert_table(2, 6);choose_table();insert_table_row(["Tháng", "Nhiệm vụ", "Ngày bắt đầu", "Ngày kết thúc", "Tiến độ", "Nhận xét"])
+insert_line_chart([10, 12, 15, 11], ["2016", "2017", "2018", "2019"]);set_left("chart","table");
+insert_star();align_top_right_corner();
+move_to_slide(2);choose_title();set_font_underline();
+move_to_slide(3);choose_content();insert_text("Chi phí nhân sự: Chi phí này bao gồm các chi phí liên quan đến các thành viên trong nhóm dự án, chẳng hạn như tiền lương, tiền công, phúc lợi và chi phí đào tạo.");
+choose_content();set_font_style("Arial");
+insert_note("Thank You!");
+
+choose_title();insert_text("Dòng thời gian của công ty");
+insert_rectangle();rotate_element(45);
+align_bottom_right_corner();
+set_background_color("light blue");
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("1980");choose_table_cell(0, 1);insert_text("1990");choose_table_cell(0, 2);insert_text("2000");choose_table_cell(0, 3);insert_text("2010")
+choose_table();insert_table_row(["Thành lập công ty", "Công ty chuyển đến tòa nhà mới", "Công ty lên sàn", "Công ty bị đối thủ cạnh tranh mua lại"])
+
+insert_picture("google_logo");align_slide_bottom();
+choose_title();insert_text("Kết luận");set_font_italic();
+choose_content();insert_text("Chúng ta ngày càng trở thành một, dân số trên toàn thế giới – hòa trộn tự do. Điều đó sẽ tạo ra một thế giới lai – da nâu nhạt, tóc đen, người Phi-Euro-Australo-Americo-Asian, màu da và các đặc điểm khuôn mặt của họ có xu hướng hướng tới mức trung bình toàn cầu.");
+text_align_right();
+insert_rectangle();set_height(5);
+align_slide_bottom();
+
+create_slide();choose_title();insert_text("Đạo đức phê bình văn học");set_font_bold();
+set_font_color("blue");
+choose_content();insert_text("Phương pháp phê bình văn học đạo đức là một phương pháp phê bình văn học mới do Giáo sư Nie Zhenzhao của Đại học Sư phạm Trung ương Trung Quốc đưa ra sau khi nghiên cứu so sánh, tổng hợp và suy nghĩ lại về lịch sử và hiện trạng của phê bình văn học Trung Quốc và phương Tây thuyết và phương pháp");
+insert_picture("book_cover");
+align_slide_left();
+insert_rectangle();align_slide_right();
+set_background_color("light yellow");
+
+create_slide();choose_title();insert_text("Jane Eyre by Charlotte Bronte");set_font_italic();
+choose_content();insert_text("Trong một kết thúc có vẻ hạnh phúc, Charlotte sử dụng di sản và ngọn lửa để xây dựng cốt truyện.");set_font_bold();
+set_font_color("dark red");set_font_style("Arial");
+insert_right_arrow();set_right("right_arrow", "content");
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("danh mục");choose_table_cell(0, 1);insert_text("thông tin");choose_table_cell(1, 0);insert_text("năm xuất bản");choose_table_cell(1, 1);insert_text("1847")
+insert_picture("Charlotte_Bronte's_portrait");set_bottom("picture", "table");
+set_top("picture", "table");
+
+set_background_color("blue");
+choose_title();insert_text("Id in David Copperfield");set_font_italic();
+choose_content();insert_text("Id là một loại xung động bản năng của động vật, nó bị mê muội mà không có lý trí, nó mù quáng theo đuổi sự thỏa mãn và tích lũy cơ hội để thoát ly. Id không quan tâm đến chuẩn mực đạo đức xã hội hay hành vi bên ngoài. Id là nơi cất giữ bản năng.");
+insert_picture("book");set_top("book","content");
+set_height(5);set_width(6);
+insert_star();set_right("star","picture");
+choose_content();insert_bullet_point("");
+
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("Vị trí");choose_table_cell(0, 1);insert_text("Các thành phố khác nhau trên thế giới");choose_table_cell(1, 0);insert_text("Dân tộc");choose_table_cell(1, 1);insert_text("cộng đồng và văn hóa Trung Quốc");choose_table_cell(2, 0);insert_text("Đặc điểm");choose_table_cell(2, 1);insert_text("kiến ​​trúc Trung Quốc, doanh nghiệp, ẩm thực, lễ kỷ niệm văn hóa")
+choose_title();insert_text("China Town");set_font_bold();
+insert_pie_chart([40, 30, 30], ["Nhà hàng Trung Quốc", "Cửa hàng bán lẻ Trung Quốc", "Lễ hội và sự kiện văn hóa"]);
+insert_picture("China_town");
+align_slide_bottom();
+insert_star();align_slide_right();
+insert_note("Phố Tàu");
+
+create_slide();set_background_color("green");
+choose_title();insert_text("chủ nghĩa nữ quyền");set_font_color("green");
+choose_content();insert_text("Nữ quyền là niềm tin và mục tiêu rằng phụ nữ nên có quyền, quyền lực và cơ hội như nam giới");
+set_font_color("yellow");set_font_italic();
+
+choose_title();insert_text("Làn sóng phong trào nữ quyền thứ 3");set_font_bold();
+set_font_style("Times New Roman");set_font_color("blue");set_font_size(28);
+choose_content();insert_text("Nó tập trung vào tín ngưỡng tôn giáo đa chủng tộc, phong tục dân tộc, đa văn hóa, bảo vệ môi trường, chủ nghĩa tiêu dùng, định hướng đa dạng");
+insert_picture("female_portrait");set_top("picture","content");
+
+create_slide();choose_title();insert_text("phim chuyển thể từ Kiêu hãnh và Định kiến");
+set_font_size(24);set_font_italic();
+choose_content();insert_text("Mười bốn năm sau lần phát sóng đầu tiên, tác phẩm chuyển thể từ tiểu thuyết Kiêu hãnh và Định kiến ​​của nhà biên kịch Andrew Davies năm 1995 vẫn là một tiêu chuẩn để đánh giá tác phẩm chuyển thể của Austen. , bản chuyển thể có vẻ như đề cập đến sự nhạy cảm hiện đại và những kỳ vọng về kịch tính đương thời. Các lựa chọn diễn giải của Davies nhấn mạnh vào sự gợi cảm và tập trung vào mong muốn của Darcy.");
+insert_bullet_point("");
+set_font_size(20);set_line_space(2);
+insert_picture("web_image");
+insert_rectangle();align_top_right_corner();
+set_background_color("light orange");
+
+insert_table(3, 2);
+choose_table();choose_table_cell(0, 0);insert_text("Vị trí");choose_table_cell(1, 0);insert_text("Dân tộc")
+choose_content();insert_text("Elizabeth Bennet và Mr. Darcy trải qua quá trình phát triển nhân vật quan trọng trong suốt cuốn tiểu thuyết, học những bài học quan trọng về bản thân và xã hội.");
+insert_picture("Elizabeth_Bennet_and_Mr. Darcy");set_bottom("picture", "table");
+align_slide_right();
+insert_rectangle();align_top_left_corner();
+create_slide();choose_title();insert_text("Vai trò của giai cấp xã hội trong Kiêu hãnh và định kiến");set_font_underline();
+choose_content();insert_text("Tầng lớp xã hội đóng một vai trò quan trọng trong tiểu thuyết, ảnh hưởng đến các mối quan hệ, quyết định và nhận thức về bản thân của các nhân vật.");
+insert_circle();align_bottom_right_corner();set_fill_color("orange");
+set_background_color("orange");
+
+create_slide();choose_title();insert_text("Hình dạng");
+insert_rectangle();set_fill_color("red");align_slide_left();
+insert_circle();set_fill_color("blue");align_slide_right();
+insert_triangle();set_fill_color("green");align_slide_left();
+insert_callout();set_fill_color("yellow");align_slide_right();
+
+insert_picture("19th-century_marriage_scene");align_slide_right();
+insert_triangle();set_right("triangle", "picture");
+choose_title();insert_text("hôn nhân thế kỷ 19");
+set_font_italic();set_font_bold();
+
+insert_pie_chart([30, 25, 15, 10, 10, 10], ["Vani", "Sô cô la", "Dâu tây", "Chip sô cô la bạc hà", "Bánh quy và kem", "Bơ hồ đào"]);
+insert_picture("strawberry");set_bottom("picture", "chart");
+choose_content();insert_text("Các khoản chi tăng đáng kể trong quý trước do chi phí hoạt động cao hơn và tăng đầu tư vào các sáng kiến ​​​​tiếp thị.");
+set_font_style("Times New Roman");set_font_size(18);
+
+create_slide();choose_title();insert_text("làm PPT");insert_note("làm PPT");
+choose_content();insert_text("Tạo bản trình bày PowerPoint hấp dẫn và có tác động đòi hỏi phải lập kế hoạch và thực hiện cẩn thận.");
+choose_content();set_font_underline();set_font_color("dark red");
+choose_title();set_font_bold();set_font_italic();
+insert_note("PPT");
+
+create_slide();choose_title();insert_text("Mạng lưới thần kinh");
+choose_content();insert_bullet_point("Neural networks are a type of machine learning algorithm that are modeled after the structure of the human brain. They consist of layers of interconnected nodes that process information and learn to recognize patterns.");
+choose_title();set_font_color("red");
+insert_picture("neural_network_architecture");
+insert_cloud();set_right("cloud","picture");
+set_background_color("yellow");
+
+create_slide();insert_cloud();set_fill_color("red");align_slide_right();
+choose_content();insert_text("Cung cấp bài học rõ ràng");
+choose_title();set_font_color("orange");create_slide();choose_title();insert_text("Tiền xử lý dữ liệu");
+set_background_color("red");
+
+create_slide();choose_title();insert_text("Transfer Learning");
+set_font_size(28);set_font_bold();choose_content();set_font_size(28);
+set_font_style("Times New Roman");set_font_color("red");
+set_background_color("red");
+choose_content();insert_text("Học tăng cường là một loại học máy trong đó thuật toán học thông qua thử và sai. Nó thường được dùng để dạy máy cách đưa ra quyết định trong môi trường phức tạp.");
+
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("Model Name");choose_table_cell(0, 1);insert_text("ChatGPT");choose_table_cell(1, 0);insert_text("Architecture");choose_table_cell(1, 1);insert_text("GPT (Generative Pre-training Transformer)");choose_table_cell(2, 0);insert_text("Kích thước dữ liệu đào tạo");choose_table_cell(2, 1);insert_text("Nhiều terabyte dữ liệu văn bản đa dạng")
+choose_title();insert_text("GPT");set_font_bold();
+choose_content();insert_text("Generative Pre-training Transformer 3 (GPT-3) là một mô hình ngôn ngữ tự hồi quy được phát hành vào năm 2020, sử dụng công nghệ học sâu để tạo ra văn bản giống con người.");
+set_font_underline();set_font_color("dark red");choose_title();set_font_color("dark red");
+insert_picture("gpt-3_architecture");set_right("picture","content");
+
+create_slide();choose_title();insert_text("Wuthering Height");set_font_italic();
+choose_content();insert_text("Câu chuyện được kể lại bởi Lockwood, một bên không quan tâm, câu chuyện của họ đóng vai trò là khung cho một loạt các câu chuyện ngắn hồi tưởng của Ellen Dean, một quản gia.");set_font_bold();
+set_font_color("red");choose_title();set_font_color("red");
+insert_right_arrow();
+set_width(6);set_height(4);
+create_slide();insert_cloud();
+insert_picture("wuthering_height_bookcover");
+choose_content();insert_text("Wuthering Heights, tiểu thuyết của Emily Brontë, xuất bản năm 1847 dưới bút danh Ellis Bell");
+set_font_style("Times New Roman");set_font_size(18);
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("Thể loại");choose_table_cell(0, 1);insert_text("Thông tin")
+insert_note("Microsoft");
+
+create_slide();choose_title();insert_text("Kiêu hãnh và định kiến ​​của Jane Austen");
+choose_content();insert_text("Cuốn tiểu thuyết khám phá các chủ đề về tình yêu, hôn nhân và kỳ vọng xã hội của giới quý tộc Anh");set_font_bold();set_font_underline();
+insert_right_arrow();set_left("right_arrow", "content");
+set_fill_color("light orange");choose_content();set_font_color("dark green");
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("danh mục");choose_table_cell(0, 1);insert_text("thông tin");choose_table_cell(1, 0);insert_text("tác giả");choose_table_cell(1, 1);insert_text("Jane Austen")
+insert_picture("jane_austen_portrait");
+set_height(6);align_top_right_corner();
+
+create_slide();choose_title();insert_text("Hành trình cuộc đời của Sirsa");set_font_bold();
+set_font_size(24);
+insert_table(4, 3);choose_table_cell(0, 0);insert_text("Thời thơ ấu");choose_table_cell(0, 1);insert_text("0-10 tuổi");choose_table_cell(0, 2);insert_text("Đi học");choose_table_cell(1, 0);insert_text("Tuổi vị thành niên");choose_table_cell(1, 1);insert_text("11-18 tuổi");choose_table_cell(1, 2);insert_text("Trung học phổ thông")
+insert_picture("school");
+set_left("picture","table");
+
+create_slide();choose_title();insert_text("Khám phá vũ trụ");set_font_underline();
+insert_picture("galaxy");
+choose_content();insert_bullet_point("Stars");insert_bullet_point("Planets");insert_bullet_point("Nebulae");insert_bullet_point("Black Holes");insert_bullet_point("Dark Matter");
+set_font_bold();set_font_italic();
+set_font_color("dark red");
+insert_pie_chart([35, 25, 40], ["Công trình dạy học", "Sân vận động", "Sân chơi"]);
+align_slide_top();
+insert_line_chart([20, 30, 40, 10], ["Year 1", "Year 2", "Year 3", "Year 4"]);
+insert_bar_chart([20, 30, 40, 10], ["1st year", "2nd year", "3rd year", "4th year"]);
+set_background_color("blue");
+
+create_slide();choose_title();insert_text("giới thiệu");
+choose_content();insert_text("Trong bài báo này, chúng tôi khám phá cách sử dụng nhiều phương pháp và bổ sung cho nhau trong một khoảng thời gian dài hơn mang lại cả tiềm năng và cạm bẫy, cũng như sự phức tạp và không chắc chắn.");
+set_font_color("red");
+set_font_size(20);
+set_background_color("light blue");choose_content();set_font_size(40);
+
+choose_content();insert_text("Nanyang là một thành phố lịch sử và văn hóa quốc gia, với di sản lịch sử sâu sắc và sự tích lũy văn hóa phong phú.");
+insert_bullet_point("");
+set_font_size(18);set_font_italic();set_font_style("Arial");
+choose_title();insert_text("Thành phố của tôi- Nam Kinh");
+insert_picture("Nanjing");align_slide_right();
+create_slide();choose_title();insert_text("Mục lục");insert_note("Mục lục");
+set_font_italic();set_font_size(24);
+choose_content();insert_text("Danh mục phục vụ như một nguồn tài nguyên toàn diện và hấp dẫn trực quan, giới thiệu nhiều loại sản phẩm hoặc dịch vụ.");
+set_font_color("green");set_background_color("dark blue");
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("Sản phẩm");choose_table_cell(0, 1);insert_text("Giá");choose_table_cell(1, 0);insert_text("áo sơ mi");choose_table_cell(1, 1);insert_text("$29,99");choose_table_cell(2, 0);insert_text("váy");choose_table_cell(2, 1);insert_text("$59,99")
+insert_pie_chart([40, 30, 30], ["áo sơ mi", "váy", "quần"]);
+insert_line_chart([40, 30, 30], ["shirt", "dress", "pants"]);
+insert_bar_chart([40, 30, 30], ["shirt", "dress", "pants"]);
+
+choose_title();insert_text("tận hưởng cuộc sống hạnh phúc");
+insert_star();set_top("star","title");
+set_font_style("Arial Black");
+choose_content();insert_text("Tận hưởng cuộc sống hạnh phúc bao gồm tìm kiếm niềm vui trong những khoảnh khắc nhỏ, nuôi dưỡng các mối quan hệ có ý nghĩa, theo đuổi đam mê, duy trì sự cân bằng giữa công việc và cuộc sống lành mạnh và thực hành chăm sóc bản thân.");set_line_space(2);
+insert_picture("happy_person");align_top_right_corner();
+set_height(4);set_width(5);align_bottom_left_corner();
+
+choose_table();insert_table(5, 1);choose_table_cell(0, 0);insert_text("Hoàn thành Marathon");choose_table_cell(1, 0);insert_text("Cuốn sách đầu tiên được xuất bản");choose_table_cell(2, 0);insert_text("Thăng chức lên Quản lý");choose_table_cell(3, 0);insert_text("Hơn 100 giờ tình nguyện");choose_table_cell(4, 0);insert_text("Khởi Nghiệp Thành Công");
+choose_title();insert_text("Thành tích tuyệt vời của tôi vào năm 2023");
+choose_content();insert_text("Vào năm 2023, tôi đã đạt được những cột mốc quan trọng vượt xa mong đợi của mình. Từ việc hoàn thành cuộc chạy marathon đến xuất bản cuốn sách đầu tiên của mình và được thăng chức, những thành công này đã thúc đẩy tôi phát triển hơn nữa và truyền cảm hứng cho tôi để đạt được chiều cao lớn hơn.");
+insert_picture("book");align_slide_top();
+insert_pie_chart([30, 25, 45], ["Chạy marathon", "Đặt trước", "Tình nguyện"]);
+insert_rectangle();set_left("rectangle","chart");
+insert_note("2023");
+
+choose_title();insert_text("Phê bình văn học đạo đức");
+set_font_bold();set_font_color("blue");align_slide_bottom();
+insert_picture("mountain_landscape");align_slide_right();
+choose_content();insert_text("Phương pháp phê bình văn học đạo đức là một cách tiếp cận mới do Giáo sư Nie Zhenzhao từ Đại học Sư phạm Trung ương đề xuất.");
+set_font_underline();set_font_style("Times New Roman");set_font_size(24);set_line_space(2);
+set_font_color("dark blue");
+insert_rectangle();align_slide_left();
+set_fill_color("green");insert_text("màu xanh lá cây");
+align_top_right_corner();
+insert_right_arrow();set_right("right_arrow","content");
+
+create_slide();choose_title();insert_text("Thành viên nhóm");
+insert_picture("team_member");align_slide_bottom();
+set_width(6.5);
+insert_note("Thành viên của đội");choose_title();set_font_bold();
+
+create_slide();choose_title();insert_text("Sales Performance");
+set_font_color("blue");set_font_size(24);set_font_underline();set_background_color("green");
+choose_content();insert_text("Hiệu suất bán hàng là chỉ số chính cho sự thành công của công ty trong việc tạo doanh thu. Nó phản ánh hiệu quả của nhóm bán hàng và nhu cầu chung của thị trường đối với sản phẩm hoặc dịch vụ.");
+set_font_color("dark red");set_font_size(18);
+insert_table(3, 5);choose_table_cell(1, 1);insert_text("Năm");choose_table_cell(1, 2);insert_text("Một phần tư");choose_table_cell(1, 3);insert_text("Doanh thu");choose_table_cell(2, 1);insert_text("2018");choose_table_cell(2, 2);insert_text("Q1");choose_table_cell(2, 3);insert_text("500.000 đô la");
+set_font_size(18);
+
+create_slide();choose_title();insert_text("Báo cáo bán hàng");
+insert_line_chart(["Product A","Product B","Product C"], ["Sản phẩm A", "Sản phẩm B", "Sản phẩm C"]);
+set_chart_title("Revenue Trend");
+insert_picture("T-shirt");insert_textbox();insert_text("Áo thun");
+insert_star();set_right("star","picture");
+create_slide();choose_title();insert_text("Cấu trúc tổ chức");
+insert_table(4,2);choose_table_cell(0,0);insert_text("CEO");choose_table_cell(0,1);insert_text("John Smith");choose_table_cell(1,0);insert_text("giám đốc tài chính");choose_table_cell(1,1);insert_text("Jane Doe");choose_table_cell(2,0);insert_text("COO");choose_table_cell(2,1);insert_text("Tom Jones");choose_table_cell(3,0);insert_text("CMO");choose_table_cell(3,1);insert_text("Sarah Lee");
+choose_title();set_font_underline();move_to_previous_slide();choose_title();set_font_underline();
+set_font_size(20);set_font_color("purple");
+insert_note("Cơ cấu tổ chức");
+set_background_color("green");
+
+create_slide();choose_title();insert_text("Giới thiệu");
+choose_content();insert_text("Cảm ơn bạn đã tham gia cùng chúng tôi ngày hôm nay. Chúng tôi rất vui mừng.");
+insert_text("có bạn ở đây và mong được chia sẻ một số tin tức thú vị với bạn.");
+set_font_style("Times New Roman");set_font_size(20);
+insert_picture("landscape");set_height(3);set_width(5);
+insert_triangle();insert_rectangle();set_right("rectangle","triangle");
+set_background_color("purple");insert_note("2023");
+
+choose_title();insert_text("Ra mắt sản phẩm");set_font_bold();set_font_color("red");
+insert_picture("computer");
+set_height(2);set_width(2);
+choose_content();insert_text("Sản phẩm mới của chúng tôi là thiết bị di động hiện đại kết hợp công nghệ mới nhất với kiểu dáng đẹp và thân thiện với người dùng.");
+set_font_bold();set_font_color("red");
+create_slide();choose_title();insert_text("Tính năng sản phẩm");
+insert_table(2, 5);choose_table_cell(0, 0);insert_text("Tính năng");choose_table_cell(0, 1);insert_text("Sự miêu tả");
+insert_bar_chart([0.25,0.50,0.25], ["Sản phẩm A", "Sản phẩm B", "Sản phẩm C"]);
+set_chart_title("Feature Importance");
+set_background_color("light blue");insert_note("Tầm quan trọng của tính năng");
+
+create_slide();choose_title();insert_text("Kết quả tài chính hàng quý");
+set_font_style("Arial");
+choose_content();insert_text("Công ty chúng tôi đạt doanh thu 1,5 triệu đô la và lợi nhuận 500.000 đô la trong quý này.");
+set_font_bold();set_font_underline();
+insert_table(4, 5);
+choose_table();choose_table_cell(0, 0);insert_text("Tháng");choose_table_cell(0, 1);insert_text("Doanh thu");choose_table_cell(0, 2);insert_text("Chi phí");choose_table_cell(0, 3);insert_text("Lợi nhuận")
+insert_bar_chart([50, 60, 55, 70], ["Q1 2022", "Q2 2022", "Q3 2022", "Q4 2022"]);
+set_chart_title("Quarterly Financial Results in 2022");
+set_background_color("red");
+create_slide();choose_title();insert_text("Phân tích tài chính");
+insert_picture("company_logo");
+choose_content();insert_text("Cảm ơn bạn đã quan tâm!");set_font_underline();set_font_italic();set_font_size(26);
+
+create_slide();choose_title();insert_text("Dữ liệu bán hàng");
+insert_bar_chart([500000, 400000, 600000, 450000], ["Khu vực A", "Khu vực B", "Khu vực C", "Khu vực D"]);
+set_chart_title("Regional Sales");
+choose_title();set_font_underline();insert_note("Nguồn dữ liệu: Báo cáo bán hàng 2023");
+
+create_slide();choose_title();insert_text("Khảo sát khách hàng");
+insert_pie_chart([0.4, 0.3, 0.2, 0.05, 0.05], ["Rất hài lòng", "Hài lòng", "Trung lập", "Không hài lòng", "Rất không hài lòng"]);
+align_slide_bottom();
+insert_picture("questionnaire");align_slide_top();
+insert_note("2023/5");
+
+choose_title();insert_text("Sự quyến rũ của ngôn ngữ học");set_background_color("light blue");
+choose_title();set_font_style("Arial");set_font_color("red");set_font_size(36);
+insert_text("Ngôn ngữ học là nghiên cứu khoa học về ngôn ngữ và cấu trúc của nó. Nó khám phá những điều phức tạp trong giao tiếp của con người, từ ngữ âm và cú pháp đến ngữ nghĩa và ngữ dụng.");
+set_font_style("Verdana");set_font_color("yellow");set_font_size(18);set_line_space(2);
+create_slide();choose_title();insert_text("Branches of Linguistics");
+insert_table(3, 4);
+choose_table_cell(0, 0);insert_text("Ngôn ngữ học");choose_table_cell(0, 1);insert_text("Mô tả");choose_table_cell(0, 2);insert_text("Ví dụ");choose_table_cell(1, 0);insert_text("Ngữ âm");choose_table_cell(1, 1);insert_text("Nghiên cứu về âm thanh lời nói");choose_table_cell(1, 2);insert_text("Ngữ âm phát âm, Ngữ âm âm thanh, Ngữ âm thính giác")
+insert_picture("book_about_linguistics");align_slide_bottom();
+set_height(6);set_width(5);
+move_to_slide(0);set_background_color("purple");move_to_slide(1);set_background_color("purple");
+
+set_background_color("light green");choose_title();insert_text("Các họ ngôn ngữ");
+set_font_bold();set_font_italic();
+insert_bar_chart([445, 1526,1290, 452], ["Indo-European", "Niger-Congo", "Austronesian", "Sino-Tibetan"]);
+set_chart_title("Language familiy and its number of languages");
+create_slide();choose_title();insert_text("Học ngôn ngữ");set_font_bold();set_font_italic();
+choose_content();insert_text(" ");
+set_font_style("Times New Roman");set_font_color("red");set_font_size(22);
+set_font_underline();set_font_bold();choose_title();set_font_color("red");
+insert_picture("English book");
+insert_rectangle();align_slide_right();
+choose_picture();align_slide_top();
+
+create_slide();choose_title();insert_text("Kết luận");
+choose_title();set_font_style("bold");set_font_style("underline");set_font_color("red");
+choose_content();insert_text(" ");
+set_font_style("Verdana");set_font_color("yellow");
+create_slide();set_background_color("purple");create_slide();set_background_color("purple");create_slide();set_background_color("purple");create_slide();set_background_color("purple");
+move_to_slide(1);choose_title();insert_text("Tổng quan về chính sách bất động sản ở Trung Quốc");insert_picture("China_map");
+move_to_slide(2);choose_title();insert_text("Những thay đổi gần đây");set_font_style("italic");set_font_style("Verdana");
+choose_content();insert_text("Những thay đổi gần đây ở Trung Quốc đã chứng kiến ​​sự tăng trưởng kinh tế nhanh chóng, tiến bộ công nghệ và chuyển đổi xã hội, đưa quốc gia này trở thành một cường quốc toàn cầu và ảnh hưởng đến động lực toàn cầu trong các lĩnh vực khác nhau.");
+move_to_slide(3);choose_title();insert_text("Nỗ lực Kiểm soát Giá Nhà ở");insert_triangle();
+align_top_right_corner();
+move_to_slide(4);choose_title();insert_text("Các sáng kiến ​​để tăng cường nhà ở hợp túi tiền");set_font_color("red");
+choose_content();insert_text("Các sáng kiến ​​​​để tăng nhà ở giá rẻ đã được thực hiện, bao gồm trợ cấp của chính phủ, quy trình phê duyệt hợp lý và quan hệ đối tác công tư, nhằm giải quyết cuộc khủng hoảng khả năng chi trả nhà ở và đảm bảo khả năng tiếp cận nhà ở tử tế cho tất cả mọi người.");set_font_underline();set_font_italic();
+choose_chart();insert_pie_chart([0.35, 0.25, 0.20, 0.10, 0.10], ["Trợ cấp của Chính phủ", "Quy trình phê duyệt đơn giản hóa", "Quan hệ đối tác công tư", "Chính sách sử dụng đất", "Chương trình hỗ trợ cho thuê"]);
+create_slide();choose_title();insert_text("Quy định của các nhà phát triển tài sản.");insert_note("Quy định của các nhà phát triển tài sản.");
+choose_content();insert_text("Trong slide này, tóm tắt các biện pháp chính của Trung Quốc để điều chỉnh các nhà phát triển bất động sản và hành động của chính phủ để ngăn chặn gian lận và thúc đẩy các hoạt động phát triển bền vững.");
+choose_title();set_font_italic();choose_content();set_font_bold();
+move_to_slide(0);insert_note("Thông tin về Trung Quốc");move_to_slide(1);insert_note("Thông tin về Trung Quốc");move_to_slide(2);insert_note("Thông tin về Trung Quốc");move_to_slide(3);insert_note("Thông tin về Trung Quốc");move_to_slide(4);insert_note("Thông tin về Trung Quốc");move_to_slide(5);insert_note("Thông tin về Trung Quốc");
+
+move_to_slide(8);choose_title();insert_text("Frontier Development of Medical Imaging Equipment");choose_title();set_font_size(24);
+insert_line_chart([0.15, 0.12, 0.18, 0.20], ['Q1', 'Q2', 'Q3', 'Q4']);
+choose_chart();set_chart_title("Revenue Growth");
+insert_table(5, 2);choose_table_cell(0, 0);insert_text("Tính năng 1");choose_table_cell(0, 1);insert_text("Hình ảnh độ phân giải cao");
+set_background_color("light blue");
+insert_triangle();
+choose_content();insert_text("Sự phát triển vượt bậc của thiết bị hình ảnh y tế đang cách mạng hóa hoạt động chăm sóc sức khỏe với hình ảnh độ phân giải cao, thuật toán AI tiên tiến, phân tích dữ liệu thời gian thực, nâng cao sự thoải mái cho bệnh nhân, tích hợp đa phương thức và quy trình làm việc hợp lý, trao quyền cho các chuyên gia y tế với khả năng chẩn đoán chưa từng có.");
+set_font_bold();set_line_space(2);set_font_underline();set_font_italic();
+insert_note("Thiết bị y tế");
+
+set_background_color("blue");insert_rectangle();
+create_slide();choose_title();insert_text("Phương pháp và cách tiếp cận trong nhân chủng học");set_font_size(20);
+choose_content();insert_text("Nhân học là một ngành khoa học xã hội nghiên cứu hành vi, văn hóa và xã hội của con người bằng nhiều phương pháp nghiên cứu.");set_line_space(2);
+insert_circle();align_slide_right();
+set_width(4);
+
+create_slide();choose_title();insert_text("Tầm quan trọng của việc hydrat hóa thích hợp");
+set_font_style("underline");set_font_style("italic");
+set_font_size(24);set_font_style("Arial");
+insert_picture("person_drinking_water");align_slide_right();
+set_width(6.5);insert_textbox();insert_text("Uống nước");set_bottom("textbox", "picture");
+set_background_color("purple");create_slide();set_background_color("purple");
+insert_picture("folder");set_width(6.5);set_height(5.5);
+choose_title();insert_text("Lợi ích của việc sử dụng SmartArt.");set_font_color("red");set_font_size(40);
+set_font_style("Arial");set_font_style("italic");
+
+choose_title();insert_text("Building Your Brand.");set_background_color("light green");
+choose_content();insert_text("Xây dựng thương hiệu là một thành phần quan trọng của bất kỳ doanh nghiệp thành công nào. Đặt kiểu phông chữ thành ");set_font_style("Arial");set_font_size(14);
+insert_rectangle();align_slide_right();
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("Nhận diện thương hiệu");choose_table_cell(0, 1);insert_text("Thông điệp thương hiệu");choose_table_cell(0, 2);insert_text("Tiếng nói thương hiệu");choose_table_cell(0, 3);insert_text("Chiến lược thương hiệu")
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("Nhận diện thương hiệu");choose_table_cell(0, 1);insert_text("Thông điệp thương hiệu");choose_table_cell(0, 2);insert_text("Tiếng nói thương hiệu");choose_table_cell(0, 3);insert_text("Chiến lược thương hiệu")
+choose_content();set_font_size(14);set_font_style("Times New Roman");
+
+create_slide();choose_title();insert_text("Nguyên tắc cơ bản của giao tiếp hiệu quả");set_font_style("Times New Roman");
+choose_content();insert_text("Điểm chính");insert_text("Mô tả");
+set_font_size(24);set_font_underline();set_font_bold();
+set_background_color("light orange");
+
+set_background_color("light blue");
+choose_title();insert_text("Cuộc họp Tencent");choose_content();insert_text("Cuộc họp Tencent");
+set_font_underline();set_font_color("dark red");
+choose_content();delete_text();insert_text("Tencent Meet là một nền tảng hội nghị truyền hình mạnh mẽ cho phép cộng tác và liên lạc liền mạch giữa các nhóm và cá nhân. Nền tảng này cung cấp nhiều tính năng cho các cuộc họp ảo hiệu quả, bao gồm chia sẻ màn hình, trò chuyện và ghi âm.");
+set_font_bold();set_font_italic();choose_title();set_font_bold();set_font_italic();
+insert_picture("tencent_meeting");
+
+insert_table(2, 3);
+choose_table_cell(0, 0);insert_text("Tính năng");choose_table_cell(0, 1);insert_text("Mô tả");choose_table_cell(0, 2);insert_text("Lợi ích")
+insert_note("APP");set_background_color("purple");
+
+set_background_color("blue");choose_title();insert_text("Đánh giá chất lượng");
+choose_content();insert_text("Đánh giá chất lượng là một quy trình quan trọng trong việc đánh giá hiệu suất và tiêu chuẩn của sản phẩm hoặc dịch vụ. Nó bao gồm phân tích, đo lường và so sánh kỹ lưỡng để đảm bảo tuân thủ các tiêu chuẩn chất lượng và cải tiến liên tục.");
+insert_picture("checklist");
+set_left("picture","content");
+insert_pie_chart([0.40, 0.15, 0.25, 0.20], ["Xuất sắc", "Tốt", "Khá", "Kém"]);
+set_chart_title("Quality Ratings Distribution");
+align_slide_bottom();
+create_slide();insert_pie_chart([0.40, 0.15, 0.25, 0.20], ["Excellent", "Good", "Fair", "Poor"]);set_chart_title("Quality Ratings Distribution");align_slide_bottom();
+
+create_slide();choose_title();insert_text("Hướng dẫn Hoàn thành Dự án");
+insert_right_arrow();align_top_right_corner();
+rotate_element(90);
+move_to_slide(0);choose_title();insert_text("Giới thiệu");set_font_bold();move_to_slide(1);choose_title();set_font_bold();
+move_to_slide(0);insert_note("2022/6/10");
+set_background_color("light blue");insert_cloud();
+
+set_background_color("yellow");
+choose_content();insert_text("Trados Studio là một công cụ dịch thuật hỗ trợ máy tính (CAT) mạnh mẽ được phát triển bởi SDL. Nó cung cấp một loạt các tính năng và chức năng giúp hợp lý hóa quy trình dịch thuật, bao gồm bộ nhớ dịch thuật, quản lý thuật ngữ và các công cụ quản lý dự án.");set_line_space(2);
+insert_note("Được tạo bởi Eva");choose_title();insert_text("Trados Studio");
+set_font_color("dark green");set_font_size(30);
+insert_picture("Trados_Studio_logo");align_slide_right();
+set_width(4);set_height(3);
+choose_picture();rotate_element(-15);
+set_background_color("purple");
+
+insert_table(2, 3);
+choose_table_cell(0, 0);insert_text("Năm");choose_table_cell(0, 1);insert_text("Mô tả");choose_table_cell(0, 2);insert_text("Thay đổi")
+choose_title();insert_text("Những thay đổi lớn trong thập kỷ qua");
+set_font_bold();set_font_italic();
+set_background_color("light blue");
+
+choose_title();insert_text("Bạn có Nên Cân nhắc Du học?");set_font_bold();set_font_underline();
+insert_picture("students_studying_abroad");align_slide_bottom();
+set_width(5);set_height(3);
+set_background_color("purple");insert_note("Bạn có nên cân nhắc việc đi du học?");
+
+insert_bar_chart([0.45,0.35,0.20], ["Dịch giả toàn thời gian", "Dịch giả tự do", "Công ty dịch thuật"]);
+set_chart_title("Trados Studio Usage Statistics");
+create_slide();choose_title();insert_text("ABBYY FineReader");
+set_font_bold();set_font_underline();set_font_size(30);
+choose_content();insert_text("ABBYY FineReader là phần mềm nhận dạng ký tự quang học (OCR) cho phép người dùng chuyển đổi tài liệu được quét, tệp PDF và hình ảnh thành các định dạng có thể chỉnh sửa và tìm kiếm được. Với khả năng chuyển đổi tài liệu và nhận dạng văn bản nâng cao, phần mềm này đơn giản hóa việc xử lý tài liệu và nâng cao năng suất.");
+set_line_space(2);set_font_italic();
+insert_picture("ABBYY_FineReader_logo");insert_textbox();insert_text("ABBYY FineReader");
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("Tính năng");choose_table_cell(0, 1);insert_text("Mô tả");choose_table_cell(0, 2);insert_text("Lợi ích")
+choose_picture();set_right("picture","table");
+insert_pie_chart([0.45,0.45,0.05], ["Độ chính xác cao", "Độ chính xác trung bình", "Độ chính xác thấp"]);
+set_chart_title("Document Conversion Accuracy");
+insert_note("Trang 2");
+
+create_slide();choose_title();insert_text("Chiến dịch tiếp thị");
+set_font_bold();set_font_underline();set_font_size(26);
+choose_content();insert_text("Chiến dịch tiếp thị của chúng tôi nhằm nâng cao nhận thức về thương hiệu, tương tác với đối tượng mục tiêu và thúc đẩy doanh số bán hàng. Với sự kết hợp chiến lược giữa các kênh tiếp thị trực tuyến và ngoại tuyến, chúng tôi tập trung vào việc truyền tải thông điệp có sức ảnh hưởng và kết quả có thể đo lường được .");
+align_slide_left();
+insert_picture("promotional_banner");insert_textbox();insert_text("quảng cáo_banner");
+set_width(5);set_height(5);
+set_background_color("green");
+
+choose_title();insert_text("Năng lượng bền vững");set_font_color("red");
+insert_picture("wind_turbine");set_width(6);
+insert_table(4, 3);choose_table_cell(0,0);insert_text("gió");choose_table_cell(1,0);insert_text("mặt trời");choose_table_cell(2,0);insert_text("thủy điện");choose_table_cell(3,0);insert_text("địa nhiệt");choose_table_cell(0,1);insert_text("giá thấp");choose_table_cell(1,1);insert_text("tác động môi trường thấp");choose_table_cell(2,1);insert_text("tính khả dụng cao");choose_table_cell(0,2);insert_text("đầu tư ban đầu cao");choose_table_cell(1,2);insert_text("liên tục có sẵn");choose_table_cell(2,2);insert_text("xung đột sử dụng đất");
+set_top("picture", "table");
+create_slide();choose_title();insert_text("Mua sắm trực tuyến");set_font_color("red");
+choose_content();insert_text("Mua sắm trực tuyến là quá trình mua hàng hóa và dịch vụ từ các thương gia qua Internet. Nó ngày càng trở nên phổ biến do sự tiện lợi và khả năng tiếp cận của nó.");
+choose_title();set_font_color("blue");set_font_bold();set_line_space(2);
+create_slide();insert_picture("TV_series");set_width(6);
+set_background_color("blue");insert_note("Giới thiệu về phim truyền hình");
+
+choose_title();insert_text("Thói quen ăn uống lành mạnh");set_background_color("dark blue");
+choose_content();insert_text("Nhấn phát để bắt đầu video");set_font_style("Verdana");
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("Nhóm thực phẩm");choose_table_cell(0, 1);insert_text("Khẩu phần khuyến nghị")
+align_slide_bottom();
+insert_picture("laptop");
+insert_rectangle();set_height(2);
+rotate_element(-45);
+
+choose_content();insert_text("Tóm lại, các dịch vụ truyền hình đã cách mạng hóa cách chúng ta tiêu thụ giải trí, cung cấp nhiều lựa chọn nội dung và sự tiện lợi.");
+set_font_style("Futura");
+choose_title();insert_text("Kết luận");set_font_bold();
+insert_picture("colorful_plate");
+align_slide_bottom();
+set_background_color("green");
+
+create_slide();set_background_color("purple");
+choose_title();insert_text("Bất lợi");
+set_font_bold();set_font_size(24);set_font_style("Arial");
+insert_note("2023/3/9");
+insert_pie_chart([0.30, 0.25, 0.15, 0.5, 0.25], ["Trái cây", "Rau", "Ngũ cốc", "Protein", "Bơ sữa"]);
+align_slide_bottom();
+insert_textbox();insert_text("Điều bất lợi của việc ăn quá nhiều thức ăn là nó sẽ khiến bạn béo.");set_bottom("textbox", "chart");
+choose_chart();set_chart_title("Daily Food Group Servings");
+
+insert_right_arrow();set_width(3.5);
+rotate_element(-90);
+align_slide_right();
+
+choose_title();insert_text("Xu hướng công nghệ");set_font_underline();
+set_font_color("green");set_font_size(26);
+choose_content();insert_text("Bắt kịp các xu hướng công nghệ mới nhất là điều cần thiết trong bối cảnh kỹ thuật số đang phát triển nhanh chóng ngày nay. Từ trí tuệ nhân tạo và chuỗi khối đến điện toán đám mây và Internet vạn vật, những xu hướng này đang định hình các ngành và cách mạng hóa cách chúng ta sống, làm việc và kết nối với thế giới.");
+set_background_color("green");
+insert_picture("interconnected_networks");
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("Xu hướng công nghệ");choose_table_cell(0, 1);insert_text("Mô tả");choose_table_cell(0, 2);insert_text("Tác động")
+insert_line_chart([15,10,7,6,24], ["Thiết bị di động", "Người dùng Internet", "Ứng dụng AI", "Dịch vụ đám mây", "Thiết bị nhà thông minh"]);
+set_chart_title("Technology Values");
+insert_pie_chart([15,10,7,6,24], ["Mobile Devices", "Internet Users", "AI Applications", "Cloud Services", "Smart Home Devices"]);set_chart_title("Technology Values");
+
+set_background_color("green");
+choose_title();insert_text("Sống bền vững");set_font_italic();
+insert_picture("solar_panel");align_slide_left();
+choose_content();insert_text("Sống bền vững khuyến khích tiêu dùng có trách nhiệm, sử dụng năng lượng tái tạo và thực hành thân thiện với môi trường để bảo vệ môi trường và đảm bảo một tương lai tốt đẹp hơn cho các thế hệ mai sau. Bằng cách đưa ra những lựa chọn có ý thức trong cuộc sống hàng ngày, chúng ta có thể giảm lượng khí thải carbon của chúng ta và tạo ra một thế giới bền vững hơn.");
+set_font_color("dark orange");
+insert_line_chart([1.6, 2.4, 4.8, 11], ["2013", "2014", "2015", "2016"]);
+set_chart_title("Renewable Energy Consumption Trend");
+set_bottom("chart","title");
+insert_cloud();rotate_element(-30);
+
+insert_table(3, 4);
+choose_table_cell(0,0);insert_text("Chế độ ăn uống cân bằng");choose_table_cell(1,0);insert_text("Kiểm soát khẩu phần");choose_table_cell(2,0);insert_text("Hydration");
+insert_picture("green_city");
+align_slide_top();
+choose_table();align_slide_bottom();
+
+choose_title();insert_text("Quản lý dự án");
+insert_picture("team");
+choose_title();set_font_underline();set_font_italic();
+choose_picture();align_top_left_corner();
+
+create_slide();choose_title();insert_text("Báo cáo tiến độ dự án.");
+insert_table(5, 3);choose_table_cell(0, 0);insert_text("Tên nhiệm vụ");choose_table_cell(0, 1);insert_text("Thời hạn");choose_table_cell(0, 2);insert_text("Trạng thái tiến độ")
+set_background_color("purple");choose_title();set_font_color("green");
+
+choose_title();insert_text("Đại học và Trung cấp chuyên nghiệp");
+set_font_size(36);set_font_underline();
+choose_content();insert_text("Trường đại học và trường chuyên nghiệp cung cấp giáo dục đại học và đào tạo chuyên ngành để trang bị cho sinh viên kiến ​​thức và kỹ năng cần thiết cho sự nghiệp thành công. Các tổ chức này cung cấp nhiều chương trình học thuật, cơ hội nghiên cứu và phát triển chuyên môn cho sinh viên thúc đẩy sự phát triển cá nhân và thăng tiến nghề nghiệp.");
+set_line_space(2);
+set_background_color("purple");
+
+insert_picture("professional_school");
+align_slide_right();
+insert_triangle();align_slide_left();
+set_width(10);set_height(15);
+set_bottom("picture","triangle");
+
+create_slide();set_background_color("blue");
+choose_title();insert_text("NFC");set_font_bold();
+choose_content();insert_text("NFC (Giao tiếp trường gần) cho phép giao tiếp không dây liền mạch giữa các thiết bị ở gần nhau.");
+set_font_color("dark green");set_font_size(20);
+insert_picture("nfc_logo");
+set_background_color("purple");
+choose_picture();set_right("picture","slide");
+
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("Sản phẩm");choose_table_cell(0, 1);insert_text("Doanh thu");choose_table_cell(0, 2);insert_text("Số đơn vị đã bán");choose_table_cell(0, 3);insert_text("Biên lợi nhuận")
+set_background_color("light blue");
+
+insert_line_chart([500000, 1300000, 2500000, 4000000], ['2018', '2019', '2020', '2021']);
+set_chart_title("NFC Device Growth");
+insert_table(2, 3);choose_table_cell(1, 0);insert_text("Không tiếp xúc");choose_table_cell(1, 1);insert_text("Cho phép giao dịch dựa trên cảm ứng");choose_table_cell(1, 2);insert_text("Thanh toán thuận tiện và nhanh hơn")
+insert_star();set_width(6.5);set_height(6.5);
+align_slide_top();
+align_slide_right();
+
+choose_title();insert_text("Embracing Disruption");set_font_bold();
+set_font_size(20);set_font_style("Times New Roman");
+insert_picture("futuristic_cityscape");
+align_slide_bottom();
+insert_note("Được tạo bởi [Tên của bạn].");set_background_color("purple");
+set_background_color("light blue");
+
+choose_title();insert_text("Power Bank");align_top_left_corner();
+set_font_size(24);set_font_italic();
+choose_content();insert_text("Sạc dự phòng là một thiết bị di động cung cấp khả năng sạc khi đang di chuyển cho điện thoại thông minh, máy tính bảng và các thiết bị điện tử khác.");
+set_font_underline();set_line_space(2);set_font_size(24);set_font_color("orange");
+insert_picture("yoobao_power_bank");align_slide_bottom();
+insert_table(3, 4);choose_table();choose_table_cell(0, 0);insert_text("Nhãn hiệu");choose_table_cell(0, 1);insert_text("Dung lượng (mAh)");choose_table_cell(0, 2);insert_text("Cổng ra");choose_table_cell(0, 3);insert_text("Giá ($)")
+insert_pie_chart([0.40, 0.30, 0.20, 0.10], ["Thương hiệu A", "Thương hiệu B", "Thương hiệu C", "Khác"]);
+set_chart_title("Power Bank Market Share");
+insert_note("2023");
+insert_callout();align_slide_right();
+
+choose_title();insert_text("NBA");set_font_color("red");
+choose_content();insert_text("Hiệp hội Bóng rổ Quốc gia (NBA) là giải bóng rổ chuyên nghiệp bao gồm 30 đội đến từ Bắc Mỹ.");
+set_font_size(20);
+align_bottom_left_corner();
+
+insert_picture("basketball_court");
+align_slide_top();
+insert_textbox();insert_text("sân bóng rổ");set_background_color("blue");
+insert_table(4,3);
+choose_table();insert_table_row(["Đội", "Thành phố", "Giải vô địch"]);insert_table_row(["Los Angeles", "Lakers", 17]);insert_table_row(["Boston", "Celtics", 17]);insert_table_row(["Chicago", "Bulls", 6])
+insert_bar_chart([17, 17, 6], ["Lakers", "Celtics", "Bulls"]);
+set_chart_title("NBA Championships Distribution");
+create_slide();choose_title();insert_text("Giới thiệu về lái xe tự hành");set_font_underline();
+insert_picture("futuristic_self-driving_car");set_height(7);
+choose_content();insert_text("Lái xe tự động, còn được gọi là công nghệ tự lái hoặc không người lái, đề cập đến các phương tiện có khả năng điều hướng và vận hành mà không cần con người nhập liệu.");
+align_bottom_left_corner();
+insert_right_arrow();set_left("right_arrow", "content");
+set_right("right_arrow", "content");
+
+choose_content();insert_text("Lái xe tự lái đang cách mạng hóa ngành vận tải bằng cách mang lại sự an toàn, tiện lợi và hiệu quả nâng cao.");
+set_font_size(18);set_font_bold();set_font_italic();
+set_font_underline();set_line_space(2);
+insert_table(2, 5);choose_table();insert_table_row(["Loại cảm biến", "Lidar", "Radar", "Máy ảnh", "Tổng số"])
+choose_content();set_font_style("Times New Roman");
+insert_pie_chart([0.40, 0.30, 0.30], ["Lidar", "Radar", "Camera"]);
+set_chart_title("Sensor Types in Autonomous Driving");
+insert_note("Các loại cảm biến trong lái xe tự động");
+
+choose_title();insert_text("Lái xe tự động");
+insert_picture("company_logo");align_bottom_left_corner();
+set_width(6.5);set_height(6);
+create_slide();choose_title();insert_text("Việc áp dụng xe tự hành theo khu vực.");
+set_font_style("Calibri");set_font_size(32);
+choose_content();insert_text("Công nghệ lái xe tự động đang thay đổi cục diện giao thông, cách mạng hóa các ngành, đồng thời nâng cao tính an toàn và hiệu quả.");
+set_font_color("dark orange");
+
+create_slide();choose_title();insert_text("Sức mạnh của trồng trọt.");set_font_style("Calibri");set_font_size(36);
+set_background_color("green");
+choose_content();insert_text("Trồng cây không chỉ làm đẹp môi trường xung quanh chúng ta mà còn thúc đẩy sự bền vững của môi trường và mang lại vô số lợi ích cho sức khỏe.");
+set_font_color("green");choose_title();set_font_color("green");
+insert_picture("lush_garden");
+insert_pie_chart([0.40, 0.30, 0.30], ["Môi trường", "Sức khỏe", "Cộng đồng"]);
+set_chart_title("Planting Benefits");
+set_bottom("chart", "picture");
+insert_right_arrow();rotate_element(60);
+set_height(2);set_width(4);insert_note("Trang 2");
+
+insert_table(3, 4);
+choose_table();choose_table_cell(0, 0);insert_text("Lợi ích trồng trọt");choose_table_cell(0, 1);insert_text("Môi trường");choose_table_cell(0, 2);insert_text("Sức khỏe");choose_table_cell(0, 3);insert_text("Cộng đồng")
+set_background_color("green");
+choose_title();insert_text("Thông tin khác");
+set_font_color("dark orange");set_font_underline();
+choose_title();align_top_left_corner();
+
+insert_picture("GoogleLogo");insert_textbox();insert_text("Google");
+choose_content();insert_text("Google và Microsoft Edge là hai trình duyệt web phổ biến cung cấp các tính năng và chức năng độc đáo. Trong khi Google Chrome thống trị thị trường với tốc độ và hệ sinh thái rộng lớn, Microsoft Edge nhắm đến việc cung cấp trải nghiệm duyệt web liền mạch và chặt chẽ tích hợp với hệ điều hành Windows.");
+set_font_size(16);
+choose_title();insert_text("Google vs Microsoft Edge");set_font_color("red");
+choose_picture();align_bottom_left_corner();
+insert_table(3, 3);choose_table_cell(0, 0);insert_text("Tính năng");choose_table_cell(0, 1);insert_text("Google Chrome");choose_table_cell(0, 2);insert_text("Microsoft Edge");choose_table_cell(1, 0);insert_text("Tốc độ");choose_table_cell(1, 1);insert_text("Cao");choose_table_cell(1, 2);insert_text("Trung bình");choose_table_cell(2, 0);insert_text("Hệ sinh thái");choose_table_cell(2, 1);insert_text("Mở rộng");choose_table_cell(2, 2);insert_text("Tích hợp")
+insert_bar_chart([0.50, 0.25, 0.25], ["Google Chrome", "Microsoft Edge", "Others"]);
+set_chart_title("Web Browser Market Share");insert_note("Trang 1");
+
+set_background_color("blue");choose_title();insert_text("Mạng và LinkedIn");
+choose_content();insert_text("Mạng lưới đóng một vai trò quan trọng trong sự phát triển nghề nghiệp và LinkedIn là một nền tảng mạnh mẽ cho mạng lưới chuyên nghiệp. Với hàng triệu người dùng trên toàn thế giới, LinkedIn cung cấp một loạt các tính năng để kết nối với các chuyên gia, giới thiệu các kỹ năng và khám phá các cơ hội việc làm.");
+choose_title();set_font_color("dark red");choose_content();set_font_color("light red");
+choose_title();set_font_style("Arial");choose_content();set_font_style("Arial");
+choose_title();set_font_underline();choose_content();set_font_italic();set_font_size(24);
+insert_pie_chart([0.30,0.20,0.15,0.10,0.25], ["Công nghệ", "Tài chính", "Chăm sóc sức khỏe", "Tiếp thị", "Khác"]);
+set_chart_title("LinkedIn User Distribution");
+insert_line_chart([0.30,0.20,0.15,0.10,0.25],["Technology", "Finance", "Healthcare", "Marketing", "Others"]);
+insert_bar_chart([0.30,0.20,0.15,0.10,0.25],["Technology", "Finance", "Healthcare", "Marketing", "Others"]);
+
+create_slide();choose_title();insert_text("Các loại bếp khác nhau");
+choose_content();insert_text("Có nhiều loại bếp đáp ứng các nhu cầu nấu nướng khác nhau. Từ bếp truyền thống đến bếp điện cao cấp và bếp cảm ứng hiện đại, mỗi loại đều có những tính năng và lợi ích riêng.");
+insert_table(3, 4);choose_table();choose_table_cell(0, 0);insert_text("Loại bếp");choose_table_cell(0, 1);insert_text("Tính năng");choose_table_cell(0, 2);insert_text("Lợi ích");choose_table_cell(1, 0);insert_text("Bếp");choose_table_cell(1, 1);insert_text("Đầu đốt gas hoặc điện");choose_table_cell(1, 2);insert_text("Kiểm soát nhiệt chính xác")
+insert_pie_chart([0.40, 0.25, 0.20, 0.10, 0.5], ["Bếp từ", "Bếp điện", "Bếp cảm ứng", "Nồi nấu chậm", "Nồi chiên không khí"]);
+set_chart_title("Cooker Type Popularity");
+insert_picture("stovetop");
+set_width(7);set_height(6);
+align_slide_right();
+align_slide_left();
+move_to_slide(0);set_background_color("green");
+
+choose_title();insert_text("Khám phá niềm vui của Oreo");
+set_font_bold();set_font_italic();
+set_font_size(30);
+choose_content();insert_text("Oreo, loại bánh quy sandwich mang tính biểu tượng, đã là món ăn yêu thích của mọi người ở mọi lứa tuổi. Với sự kết hợp không thể cưỡng lại giữa bánh xốp sô cô la và nhân kem, Oreo mang đến trải nghiệm ăn vặt thú vị mang lại niềm vui cho mọi người cắn.");
+set_font_color("dark blue");
+insert_picture("Oreo");
+align_top_right_corner();
+insert_star();align_top_left_corner();
+insert_pie_chart([0.40,0.10,0.50], ["Original", "Mint", "Peanut Butter"]);insert_line_chart([0.40,0.10,0.50],["Original","Mint","Peanut Butter"]);
+insert_bar_chart([0.40,0.10,0.50],["Original","Mint","Peanut Butter"]);set_chart_title("Oreo Flavor Popularity");
+
+set_background_color("purple");
+choose_title();insert_text("Các biến thể theo mùa");set_font_bold();set_font_italic();
+choose_content();insert_text("Sự thay đổi theo mùa mang lại nét quyến rũ riêng biệt cho cuộc sống của chúng ta. Từ màu sắc rực rỡ của mùa xuân đến màu sắc ấm áp của mùa hè, bầu không khí ấm cúng của mùa thu và phong cảnh thanh bình của mùa đông, mỗi mùa mang đến một trải nghiệm độc đáo. Nắm bắt vẻ đẹp của sự biến đổi của thiên nhiên trong suốt cả năm.");
+set_font_style("Arial");set_font_size(18);
+insert_table(4, 4);choose_table_cell(0, 0);insert_text("Mùa");choose_table_cell(0, 1);insert_text("Nhiệt độ Trung bình");choose_table_cell(0, 2);insert_text("Tính năng Chính");choose_table_cell(0, 3);insert_text("Hoạt động")
+insert_callout();align_slide_left();
+
+choose_title();insert_text("Thời tiết ở Quảng Đông: Khí hậu đa dạng");
+align_top_left_corner();
+choose_content();insert_text("Quảng Đông trải qua nhiều điều kiện thời tiết khác nhau trong suốt cả năm. Từ những ngày nắng ấm cho đến thỉnh thoảng có mưa, buổi sáng có sương mù và bầu trời nhiều mây, khí hậu ở Quảng Đông rất đa dạng và năng động. Khám phá các mùa khác nhau và các kiểu thời tiết trong khu vực sôi động này.");set_line_space(2);
+insert_picture("beach");align_top_right_corner();
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("Mùa");choose_table_cell(0, 1);insert_text("Nhiệt độ trung bình");choose_table_cell(1, 0);insert_text("Lò xo");choose_table_cell(1, 1);insert_text("20-28℃")
+set_background_color("purple");
+choose_table();align_slide_bottom();
+insert_cloud();align_slide_left();
+
+insert_picture("sunrise");
+set_width(6);set_height(6);
+choose_title();insert_text("Sức mạnh của Tư duy Tích cực: Nắm lấy Sự lạc quan");set_font_italic();set_font_bold();
+choose_content();insert_text("Tư duy tích cực là tư duy tập trung vào sự lạc quan, kiên cường và tự tin. Bằng cách nuôi dưỡng những suy nghĩ và thái độ tích cực, chúng ta có thể nâng cao sức khỏe, vượt qua thử thách , và tạo ra một cuộc sống hạnh phúc và viên mãn hơn. Nắm bắt sức mạnh của suy nghĩ tích cực và khai phá tiềm năng thực sự của bạn.");set_font_italic();set_font_bold();
+set_font_color("purple");set_font_size(20);
+insert_note("tư duy tích cực");
+
+insert_table(4, 3);choose_table();insert_table_row(["Lợi ích", "Mô tả", "Ví dụ"]);choose_table_cell(1, 0);insert_text("Cải thiện sức khỏe")
+choose_content();insert_text("Tư duy tích cực là tư duy tập trung vào sự lạc quan, kiên cường và tự tin. Bằng cách nuôi dưỡng những suy nghĩ và thái độ tích cực, chúng ta có thể nâng cao sức khỏe, vượt qua thử thách và tạo ra một cuộc sống hạnh phúc và hạnh phúc hơn. cuộc sống viên mãn hơn. Hãy nắm bắt sức mạnh của suy nghĩ tích cực và mở khóa tiềm năng thực sự của bạn.");
+set_font_italic();set_font_color("light blue");
+set_background_color("light green");
+choose_title();insert_text("Định nghĩa");set_font_bold();
+align_top_left_corner();
+insert_picture("laugh");align_slide_right();
+
+choose_title();insert_text("Phân loại rác: Thúc đẩy quản lý chất thải bền vững");choose_content();insert_text("Phân loại rác là một thực tiễn quan trọng trong việc thúc đẩy quản lý chất thải bền vững. Bằng cách phân loại và xử lý rác đúng cách, chúng ta có thể giảm ô nhiễm môi trường, bảo tồn tài nguyên , đồng thời đóng góp cho một hành tinh sạch hơn và khỏe mạnh hơn. Hãy nắm bắt trách nhiệm phân loại rác và tạo ra tác động tích cực đến môi trường của chúng ta.");
+set_font_color("orange");set_font_underline();
+set_font_size(18);
+choose_title();set_font_style("Times New Roman");choose_content();set_font_style("Times New Roman");
+insert_right_arrow();align_bottom_right_corner();
+set_width(4.0);set_height(3.0);
+rotate_element(-90);
+insert_bar_chart([60, 50, 45, 40, 40], ["Giấy", "Nhựa", "Thủy tinh", "Kim loại", "Chất thải hữu cơ"]);set_chart_title("Waste Material Recycling Rates.");
+insert_picture("recycling_bin");
+create_slide();set_background_color("purple");
+choose_title();insert_text("Organic Waste");set_font_size(18);
+choose_content();insert_text("Chất thải hữu cơ đóng một vai trò quan trọng trong cuộc sống bền vững. Bằng cách ủ phân hữu cơ như thức ăn thừa, rác sân vườn và phế thải nông nghiệp, chúng ta có thể giảm lượng rác chôn lấp, làm giàu chất lượng đất và khép kín chu trình dinh dưỡng . Chấp nhận thực hành ủ phân hữu cơ và đóng góp cho một tương lai xanh hơn.");
+
+create_slide();choose_title();insert_text("Oldroyd's film of Lady Macbeth");set_font_bold();
+set_font_size(28);set_font_underline();
+choose_content();insert_text("Kịch bản của Birch giới thiệu một vài thay đổi lớn đối với câu chuyện của Leskov. Ví dụ: Birch và Oldroyd loại bỏ hoàn toàn các tình tiết ở Siberia và chọn cắt bỏ vụ tự sát của Katherine.");
+set_font_size(20);set_font_bold();
+choose_title();set_font_color("red");choose_content();set_font_color("yellow");
+insert_picture("Lady Macbeth");
+set_width(8);set_height(8);
+set_right("picture","content");
+set_left("picture","content");
+insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("Nhân vật trong phim");choose_table_cell(0, 1);insert_text("Diễn viên/Nữ diễn viên");choose_table_cell(1, 0);insert_text("Quý bà Macbeth");choose_table_cell(1, 1);insert_text("Florence Pugh");choose_table_cell(2, 0);insert_text("Macbeth");choose_table_cell(2, 1);insert_text("Cosmo Jarvis")
+insert_note("Ngày 1 tháng 5");
+set_background_color("purple");
+
+create_slide();choose_title();insert_text("Tầm quan trọng của việc tập thể dục");set_font_underline();
+set_font_size(24);set_font_color("green");
+choose_content();insert_text("Tập thể dục thường xuyên có thể cải thiện sức khỏe tim mạch, cải thiện tâm trạng và tăng mức năng lượng.");
+set_font_size(20);set_font_bold();
+set_font_color("red");
+insert_picture("exercise");
+insert_pie_chart([0.10,0.30,0.50,0.10], ["Sức khỏe tim mạch", "Sức mạnh cơ bắp", "Sức khỏe tinh thần", "Khả năng phòng chống bệnh tật"]);
+insert_table(5,2);choose_table_cell(0,0);insert_text("Các loại bài tập");choose_table_cell(0,1);insert_text("Những lợi ích");
+set_right("table","picture");
+insert_star();set_background_color("purple");
+align_bottom_left_corner();
+set_width(8);set_height(4);
+
+create_slide();choose_title();insert_text("Lợi ích của việc đọc sách");set_font_size(24);set_font_underline();
+choose_content();insert_text("Đọc sách có thể cải thiện chức năng nhận thức, tăng sự đồng cảm và giảm căng thẳng.");
+set_font_bold();set_font_italic();
+set_font_style("Arial");set_font_color("green");
+insert_picture("person_reading");
+insert_bar_chart([1400, 992, 400, 661, 234], ["hư cấu", "phi hư cấu", "tiểu sử", "tự trợ giúp", "giả tưởng"]);
+set_chart_title("Book sales");
+insert_table(3, 3);
+choose_table_cell(0, 0);insert_text("Lợi ích đọc sách");choose_table_cell(1, 0);insert_text("nâng cao kiến ​​thức");choose_table_cell(2, 0);insert_text("mở rộng từ vựng");
+set_background_color("red");
+insert_note("Đọc sách");
+create_slide();set_background_color("red");insert_picture("clock");
+set_width(10);set_height(15);
+insert_note("GIỚI THIỆU ĐỌC");
+
+create_slide();choose_title();insert_text("Lợi ích của việc tình nguyện");set_font_underline();
+choose_title();set_font_color("dark red");set_font_size(30);
+choose_content();insert_text("Hoạt động tình nguyện có thể làm tăng hạnh phúc, cải thiện các kỹ năng xã hội và mang lại ý thức về mục đích.");
+set_font_color("green");
+set_font_bold();set_font_size(18);
+align_bottom_left_corner();
+insert_picture("volunteers");
+align_bottom_left_corner();
+insert_table(3, 3);choose_table_cell(0, 0);insert_text("Những lợi ích");choose_table_cell(1, 0);insert_text("phát triển cá nhân");choose_table_cell(2, 0);insert_text("kết nối xã hội");
+choose_content();set_font_bold();set_font_size(20);
+insert_bar_chart([25, 45, 10, 15, 5], ["Dịch vụ cộng đồng", "Giáo dục", "Chăm sóc sức khỏe", "Bảo tồn môi trường", "Cứu trợ thiên tai"]);
+set_chart_title("Volunteergin Importance");
+
+set_background_color("purple");
+choose_title();insert_text("Định dạng CAJ");set_font_underline();set_font_italic();
+set_font_color("purple");
+choose_content();insert_text("Định dạng CAJ là định dạng tệp được sử dụng rộng rãi ở Trung Quốc cho các bài báo học thuật và tài liệu nghiên cứu. Nó cung cấp cấu trúc và bố cục được tiêu chuẩn hóa để chia sẻ và xuất bản hiệu quả.");
+set_line_space(2);
+set_font_style("Arial");set_font_bold();
+set_font_color("green");
+align_slide_top();
+insert_picture("sample_caj");
+align_top_right_corner();
+insert_table(2,3);
+choose_table_cell(0, 0);insert_text("Phần");choose_table_cell(0, 1);insert_text("Tiêu đề");choose_table_cell(0, 2);insert_text("Nội dung")
+create_slide();insert_bar_chart([30, 25, 20, 15, 10], ["CAJ", "PDF", "DOC", "PPT", "XLS"]);
+set_chart_title("File Format Usage");
+insert_note("Định dạng tệp");set_background_color("purple");
+
+choose_content();insert_text("Ghi nhật ký có thể giảm căng thẳng, cải thiện trí nhớ và nâng cao nhận thức về bản thân.");
+set_font_underline();set_font_size(18);set_font_color("purple");
+choose_title();insert_text("Nhật ký");
+set_font_italic();set_font_style("Arial");
+insert_picture("person_writing");
+align_slide_bottom();
+insert_star();align_slide_right();
+rotate_element(60);
+
+create_slide();choose_title();insert_text("Lợi ích của việc làm vườn");set_font_size(28);set_font_bold();
+choose_content();insert_text("Làm vườn có thể giảm căng thẳng, cải thiện sức khỏe thể chất và tăng khả năng sáng tạo.");
+set_font_italic();set_font_style("Arial");
+insert_cloud();align_slide_right();
+set_left("cloud","title");
+insert_picture("person_working_in_garden");set_width(10);
+create_slide();set_background_color("light blue");
+insert_triangle();align_slide_left();
+set_height(15);rotate_element(45);
+
+create_slide();choose_title();insert_text("Các công ty CNTT");
+set_font_style("Times");set_font_bold();set_font_size(32);
+insert_picture("Apple Company Logo");set_height(2);set_width(2);
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("2020");choose_table_cell(0, 1);insert_text("2021");choose_table_cell(0, 2);insert_text("2022");choose_table_cell(1, 0);insert_text("274B");choose_table_cell(1, 1);insert_text("365B");choose_table_cell(1, 2);insert_text("394B")

@@ -1,0 +1,1877 @@
+choose_title();align_bottom_left_corner();insert_text("Αξιολόγηση ανθρώπου");
+choose_content();insert_text("Γενικά, η μετάφραση βαθμολογείται ανώνυμα από πολλούς κριτές και στη συνέχεια δίνεται η τελική βαθμολογία συνδυάζοντας τα αποτελέσματα αξιολόγησης όλων των κριτών");
+insert_table(2, 2);
+choose_table_cell(0, 0);insert_text("Πλεονεκτήματα");choose_table_cell(1, 0);insert_text("Μειονεκτήματα");choose_table_cell(0, 1);insert_text("Αντικατοπτρίστε με ακρίβεια τη μεταφραστική ποιότητα των προτάσεων, την πιο έγκυρη, την υψηλότερη αξιοπιστία");choose_table_cell(1, 1);insert_text("Μακροχρόνια αξιολόγηση");
+choose_content();set_font_size(20);set_font_style("Arial");
+insert_picture('coffee');align_slide_left();
+align_slide_right();
+create_slide();choose_title();insert_text("Πρότυπο σήμανσης");choose_content();insert_text("Άμεση αξιολόγηση");insert_text("Σχετική κατάταξη");
+choose_title();set_font_color("green");choose_content();insert_bullet_point("");insert_bullet_point("");
+choose_title();set_font_size(24);choose_content();set_font_size(20);
+
+insert_picture('tower');align_slide_bottom();
+choose_title();insert_text("Περιεχόμενα");set_top("title","picture");
+insert_rectangle();set_fill_color("green");
+choose_title();set_font_color("green");
+set_font_size(24);
+set_font_style("Arial");set_font_size(48);
+set_font_style("Microsoft New Tai Lue");
+
+set_background_color("green");
+insert_cloud();align_slide_bottom();
+choose_content();insert_text("Τρέχεις τόσο αργά");
+insert_picture('rabbit');align_slide_right();
+choose_content();insert_text("Μια μέρα, υπάρχει ένας αγώνας ανάμεσα σε ένα κουνέλι και μια χελώνα");
+create_slide();choose_content();insert_text("Θα κερδίσω μια μέρα");align_slide_top();
+
+insert_picture('study');align_slide_center();
+insert_rectangle();align_slide_center();
+choose_title();insert_text("League of Legends");choose_content();insert_text("Το League of Legends είναι ένα παιχνίδι που βασίζεται σε ομάδες με πάνω από 140 πρωταθλητές για να κάνετε επικά παιχνίδια. Παίξτε τώρα δωρεάν. Παίξτε δωρεάν.");
+choose_title();set_font_style("Times New Roman");set_font_size(24);
+choose_picture();set_width(6);set_height(5);
+rotate_element(15);
+create_slide();insert_picture('boy_holding_book');
+align_slide_center();
+choose_title();insert_text("Πώς να αποδώσετε καλύτερα στο σχολείο");
+
+insert_cloud();align_slide_left();
+insert_picture("clock");align_slide_right();
+set_background_color("light blue");choose_title();insert_text("Τεχνητή Νοημοσύνη");
+choose_content();insert_text("Ο αντίκτυπος της τεχνητής νοημοσύνης στην κοινωνία συζητείται ευρέως. Πολλοί υποστηρίζουν ότι η τεχνητή νοημοσύνη βελτιώνει την ποιότητα της καθημερινής ζωής κάνοντας συνήθεις και ακόμη και πολύπλοκες εργασίες καλύτερα από ό,τι μπορούν οι άνθρωποι, κάνοντας τη ζωή πιο απλή, ασφαλή και αποτελεσματική.");
+set_font_color("light green");
+
+create_slide();choose_title();insert_text("Προγραμματισμός τον Μάρτιο");set_font_color("red");
+set_font_size(28);set_font_color("dark blue");
+insert_table(1, 3);choose_table_cell(0, 0);insert_text("μελέτη από 1η έως 10η");choose_table_cell(0, 1);insert_text("εργασία από την 11η έως την 20η");choose_table_cell(0, 2);insert_text("ταξίδι από την 21η στην 31η");
+choose_title();set_font_style("Arial");
+insert_picture('happy_boy');set_right("picture","table");
+set_background_color("blue");
+choose_picture();set_width(6.5);set_height(5);
+set_background_color("yellow");
+
+create_slide();choose_title();insert_text("Τα οφέλη του διαλογισμού");
+insert_picture('meditation');align_slide_center();
+choose_content();insert_text("Ο διαλογισμός είναι μια απλή αλλά ισχυρή τεχνική που μπορεί να σας βοηθήσει να επιτύχετε μια κατάσταση εσωτερικής γαλήνης και ηρεμίας");
+set_font_size(24);set_font_color("dark blue");
+insert_rectangle();set_right("rectangle", "content");
+set_background_color("light green");
+create_slide();set_background_color("light green");choose_title();insert_text("Types of Meditation");
+set_font_style("Arial");
+insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("Midfulness Meditation");choose_table_cell(1, 0);insert_text("Transcendental Meditation");choose_table_cell(2, 0);insert_text("Body Scan Meditation");
+
+create_slide();set_background_color("green");
+insert_picture('grassland');align_slide_left();
+set_width(6.5);set_height(5.5);choose_title();insert_text("Οι λειτουργίες των δασών");
+set_font_color("orange");set_font_size(40);
+insert_right_arrow();align_slide_top();
+
+create_slide();insert_table(2, 2);
+choose_table_cell(0,0);insert_text("Type of Tree");choose_table_cell(0,1);insert_text("Uses");choose_table_cell(1,0);insert_text("διαφορετικά είδη δέντρων");choose_table_cell(1,1);insert_text("Διαφορετικά χρώματα φύλλων");
+choose_content();insert_text("Να θυμάστε να φυτέψετε ένα δέντρο σήμερα!");
+set_font_size(20);set_font_color("green");set_font_underline();
+
+create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");
+move_to_slide(0);choose_title();insert_text("Ευτυχισμένη οικογένεια");set_font_style("Microsoft JhengHei");
+move_to_slide(1);insert_picture('family');
+move_to_slide(2);insert_table(2, 2);
+choose_table_cell(0, 0);insert_text("Πατέρας");choose_table_cell(0, 1);insert_text("Μάνα");choose_table_cell(1, 0);insert_text("Παππούς");choose_table_cell(1, 1);insert_text("Παιδιά");
+
+create_slide();choose_title();insert_text("Επιχειρηματικό Σχέδιο");
+insert_picture('light_bulb');align_slide_left();
+set_width(3);choose_content();insert_text("Επιχειρηματικότητα είναι η διαδικασία σχεδιασμού, έναρξης και λειτουργίας μιας νέας επιχείρησης, η οποία συχνά είναι αρχικά μια μικρή επιχείρηση. Τα άτομα που δημιουργούν αυτές τις επιχειρήσεις ονομάζονται επιχειρηματίες.");
+set_font_size(20);set_font_color("green");
+set_background_color("dark blue");
+insert_circle();set_fill_color("red");
+choose_content();insert_text("Ένα επιχειρηματικό σχέδιο είναι ένα γραπτό έγγραφο που περιγράφει λεπτομερώς πώς μια επιχείρηση, συνήθως μια νέα, πρόκειται να επιτύχει τους στόχους της.");
+choose_title();set_font_size(18);choose_content();set_font_size(18);
+insert_table(3, 4);
+choose_table_cell(0, 0);insert_text("Μίγμα μάρκετινγκ");choose_table_cell(0, 1);insert_text("Αγορά-στόχος");choose_table_cell(0, 2);insert_text("Τιμή");choose_table_cell(0, 3);insert_text("Προώθηση");
+
+create_slide();set_background_color("light blue");
+choose_content();insert_text("Η επωνυμία προϊόντων είναι η ανάπτυξη μιας διακριτικής επωνυμίας για ένα δεδομένο προϊόν με σκοπό να προσεγγίσει τους καταναλωτές-στόχους μιας επωνυμίας.");
+set_font_italic();set_font_size(18);
+align_slide_bottom();
+insert_picture('lancome');align_slide_top();
+
+create_slide();choose_title();insert_text("Τα βασικά στοιχεία της μοντελοποίησης μεγάλης κλίμακας");set_font_size(24);
+set_font_style("Arial");
+insert_table(1, 2);
+choose_table_cell(0, 0);insert_text("Σημασία");set_font_size(18);set_font_color("light blue");
+insert_picture('computer');align_slide_center();
+choose_content();insert_text("Μοντελοποίηση μεγάλης κλίμακας");
+set_font_size(14);set_font_color("green");choose_title();set_font_size(14);set_font_color("green");
+
+insert_picture('tower');align_slide_left();
+choose_title();insert_text("The Ultimate Heist");
+set_font_style("Times New Roman");set_font_color("green");
+insert_triangle();align_slide_right();
+set_background_color("light blue");
+
+insert_table(3, 3);choose_table_cell(0, 0);insert_text("μωβ");choose_table_cell(0, 1);insert_text("μπλε");choose_table_cell(0, 2);insert_text("γαλάζιο");choose_table_cell(1, 0);insert_text("σκούρο μπλε");choose_table_cell(1, 1);insert_text("πράσινο");choose_table_cell(1, 2);insert_text("ανοιχτό πράσινο");choose_table_cell(2, 0);insert_text("σκούρο πράσινο");choose_table_cell(2, 1);insert_text("κίτρινο");choose_table_cell(2, 2);insert_text("ανοιχτό κίτρινο")
+set_background_color("green");
+set_background_color("dark blue");
+choose_title();insert_text("Τύποι χρώματος");insert_picture("clock");
+create_slide();set_background_color("yellow");
+choose_content();insert_text("Το Speedwell, που ονομάζεται επίσης bird’s eye ή gypsy weed, είναι ένα ανθεκτικό πολυετές φυτό εγγενές στην Ευρώπη.");
+
+create_slide();insert_picture('arguing');
+choose_title();insert_text("Τι φέρνει ο γάμος τόσο στους άνδρες όσο και στις γυναίκες;");");
+create_slide();insert_picture('japanese_woman');insert_picture('african_woman');
+choose_title();insert_text("Παράγοντες που καθορίζουν διαφορετικά καθεστώτα γάμου");
+create_slide();set_background_color("red");create_slide();set_background_color("red");create_slide();set_background_color("red");
+move_to_slide(2);choose_title();insert_text("Κοινά οφέλη του γάμου για άνδρες και γυναίκες");
+set_font_underline();set_font_color("yellow");
+insert_picture('happy_family');align_slide_center();
+insert_rectangle();set_fill_color("red");insert_rectangle();set_fill_color("red");insert_rectangle();set_fill_color("red");
+create_slide();choose_title();insert_text("Η Εξέλιξη του Ιδρύματος Γάμου στην Κίνα");
+insert_picture('clock');set_width(6.5);
+align_slide_left();
+create_slide();choose_title();insert_text("Δυσκολίες που αντιμετωπίζουν οι γυναίκες στον κόσμο");insert_picture('full_time_mother');
+set_height(5);
+
+choose_title();insert_text("Νευρωνικό Δίκτυο");
+choose_content();insert_text("Τα νευρωνικά δίκτυα είναι ένα σύνολο αλγορίθμων που μιμούνται τη λειτουργία ενός ανθρώπινου εγκεφάλου. Έχουν σχεδιαστεί για να αναγνωρίζουν μοτίβα, να ταξινομούν δεδομένα και να κάνουν προβλέψεις.");
+set_font_size(12);set_font_color("orange");set_background_color("red");
+
+choose_title();insert_text("Εισαγωγικό");
+choose_title();set_font_underline();set_font_size(24);
+choose_content();insert_text("Το σύμβολο των εισαγωγικών είναι ένας τύπος σημείων στίξης που χρησιμοποιείται για τον διαχωρισμό λέξεων και αποσπασμάτων από το υπόλοιπο κείμενο.");
+set_font_color("green");set_font_size(12);
+insert_picture('quotation_mark');align_slide_left();
+create_slide();set_background_color("blue");
+insert_rectangle();align_slide_right();
+insert_table(2, 1);
+choose_table_cell(0, 0);insert_text("Πώς τα πάτε;");choose_table_cell(1, 0);insert_text(". στο πρώτο κελί και ");
+
+create_slide();set_background_color("dark green");
+choose_title();insert_text("Fields and Branches of Anthropology");set_font_size(18);
+choose_content();insert_text("Υπάρχουν δύο μεγάλα πεδία ανθρωπολογίας");set_font_size(18);
+text_align_right();
+
+insert_right_arrow();align_slide_left();
+set_width(4.0);set_height(3.0);
+choose_content();insert_text("Τεράστια τμήματα της κεντρικής Ασίας αισθάνονται τρομακτικά ακατοίκητα.");
+choose_shape("right_arrow");set_width(5.0);set_height(4.0);rotate_element(90);
+choose_content();set_line_space(2);
+
+choose_title();insert_text("Εκπαίδευση/Διδασκαλία/Αναπαράσταση PPT");
+choose_content();insert_text("Οι επιβλαβείς επιπτώσεις της υπερθέρμανσης του πλανήτη");
+choose_title();set_font_color("dark blue");choose_content();set_font_color("purple");
+insert_rectangle();set_fill_color("purple");
+align_top_left_corner();
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("δώσε");choose_table_cell(0, 1);insert_text("έδωσε");choose_table_cell(0, 2);insert_text("δίνοντας");choose_table_cell(0, 3);insert_text("δόθηκε");
+choose_content();set_font_color("dark blue");
+
+set_background_color("orange");
+insert_picture("cat");set_width(5);set_height(5);
+create_slide();set_background_color("orange");create_slide();set_background_color("orange");create_slide();set_background_color("orange");
+choose_title();insert_text("Πληροφορίες DingTalk");
+insert_table(3, 5);
+choose_table_cell(0, 0);insert_text("Μέθοδοι λήψης");choose_table_cell(0, 1);insert_text("Πώς να εγγραφείτε σε οργανισμό");choose_table_cell(0, 2);insert_text("Πώς να βρείτε φίλους");choose_table_cell(0, 3);insert_text("Πλεονεκτήματα");choose_table_cell(0, 4);insert_text("Σημείωση");
+insert_star();align_slide_right();
+choose_content();insert_text("η αποτροπή αναφέρεται στην πρόληψη ή την παρεμπόδιση κάνοντας κάτι εκ των προτέρων");
+set_background_color("blue");
+choose_content();text_align_left();
+
+insert_right_arrow();set_fill_color("yellow");
+choose_title();insert_text("Weekday in School");text_align_left();
+choose_title();set_font_color("dark blue");set_font_italic();set_font_underline();
+choose_content();insert_text("αποτροπή σημαίνει να αγοράζετε (αγαθά) εκ των προτέρων για να αυξήσετε την τιμή κατά τη μεταπώληση");
+insert_picture("school_badge");set_width(2.5);set_height(2.5);
+create_slide();set_background_color("green");
+choose_title();insert_text("Σημείωση");text_align_right();
+set_font_color("light green");set_font_size(26);
+choose_content();insert_bullet_point("");insert_bullet_point("");insert_bullet_point("");
+insert_note("2023/4/9");move_to_previous_slide();insert_note("2023/4/8");
+
+insert_star();align_slide_right();
+set_fill_color("blue");
+insert_right_arrow();align_slide_left();set_fill_color("red");
+choose_title();insert_text("Λήψη απόφασης");
+choose_content();insert_text("Η τρέχουσα παγκόσμια πανδημία έχει αναστατώσει την καθημερινότητά μας και έχει αναδιαμορφώσει τον κόσμο με τρόπο που δεν θα μπορούσαμε ποτέ να φανταστούμε.");
+choose_content();set_font_underline();choose_title();set_font_size(24);
+choose_content();set_font_style("Times New Roman");choose_title();set_font_style("Times New Roman");
+
+create_slide();create_slide();create_slide();create_slide();create_slide();
+move_to_slide(0);choose_title();insert_text("Εισαγωγή");move_to_slide(1);choose_title();insert_text("Ανάπτυξη");move_to_slide(2);choose_title();insert_text("Αξιολόγηση");move_to_slide(3);choose_title();insert_text("Ανάλυση");move_to_slide(4);choose_title();insert_text("Συμπεράσματα");
+move_to_slide(0);set_background_color("yellow");move_to_slide(1);set_background_color("yellow");move_to_slide(2);set_background_color("yellow");move_to_slide(3);set_background_color("yellow");move_to_slide(4);set_background_color("yellow");
+move_to_slide(0);choose_title();set_font_style("Microsoft JhengHei");
+move_to_slide(1);insert_picture("clock");
+move_to_slide(2);insert_bar_chart([160, 170, 130], ["Οκτώβριος", "Νοέμβριος", "Δεκέμβριος"]);
+move_to_slide(3);insert_table(2, 3);
+choose_table_cell(0, 0);insert_text("toIPA");choose_table_cell(0, 1);insert_text("Πλεονεκτήματα");choose_table_cell(0, 2);insert_text("Μειονεκτήματα");
+move_to_slide(4);choose_title();set_font_style("Times New Roman");
+move_to_slide(4);insert_cloud();
+move_to_slide(0);insert_note("Δημιουργήθηκε από την Εύα");move_to_slide(1);insert_note("Δημιουργήθηκε από την Εύα");move_to_slide(2);insert_note("Δημιουργήθηκε από την Εύα");move_to_slide(3);insert_note("Δημιουργήθηκε από την Εύα");move_to_slide(4);insert_note("Δημιουργήθηκε από την Εύα");
+
+insert_circle();set_fill_color("purple");
+insert_picture("water_bottle");insert_textbox();insert_text("μπουκάλι");
+choose_title();insert_text("QUALITY");
+set_font_color("red");
+insert_table(2, 2);
+choose_table_cell(0, 0);insert_text("Αξιολόγηση Μηχανής");choose_table_cell(0, 1);insert_text("Αξιολόγηση Ανθρώπου ");choose_table_cell(1, 0);insert_text("Αυτόματη Αξιολόγηση 1");choose_table_cell(1, 1);insert_text("Αυτόματη Αξιολόγηση 2");
+create_slide();choose_title();insert_text("Επίτευγμα");set_background_color("purple");
+
+create_slide();choose_title();insert_text("Στρατηγικές μάρκετινγκ για το 2ο τρίμηνο");
+set_background_color("blue");
+create_slide();choose_title();insert_text("Αύξηση πωλήσεων και αναγνωρισιμότητας επωνυμίας");
+set_font_size(60);
+move_to_slide(1);set_background_color("green");
+create_slide();set_background_color("green");create_slide();set_background_color("green");create_slide();set_background_color("green");
+move_to_slide(2);choose_title();insert_text("Τάσεις αγοράς και ανάλυση ανταγωνιστών");
+choose_content();insert_picture("blue_sea");
+set_height(4);set_width(5);set_left("picture", "title");
+move_to_slide(3);choose_title();insert_text("Η αποστολή και οι αξίες μας");
+choose_content();insert_text("VISION.Όλοι οι άνθρωποι που ζουν μακροχρόνια με πλήρη υγεία. MISSION.IHME παρέχει στον κόσμο έγκαιρα, σχετικά και επιστημονικά έγκυρα στοιχεία για τη βελτίωση της πολιτικής και της πρακτικής για την υγεία.");
+set_line_space(1.5);
+choose_content();set_font_size(40);set_font_style("Times New Roman");
+
+create_slide();set_background_color("yellow");
+choose_title();insert_text("Σύγκριση της εκπαίδευσης στην Κίνα και την Αμερική");
+delete_text();insert_text("Εξερευνήστε τις διαφορές και τις ομοιότητες");
+delete_text();insert_text("The Differences and Similarities");
+create_slide();create_slide();create_slide();create_slide();create_slide();
+move_to_slide(1);set_background_color("yellow");move_to_slide(2);set_background_color("yellow");move_to_slide(3);set_background_color("yellow");move_to_slide(4);set_background_color("yellow");move_to_slide(5);set_background_color("yellow");
+move_to_slide(1);choose_title();insert_text("The Education Systems");
+choose_content();insert_text("Η εκπαίδευση στην Κίνα διοικείται κατά κύριο λόγο από το κρατικό δημόσιο εκπαιδευτικό σύστημα, το οποίο υπάγεται στο Υπουργείο Παιδείας. Όλοι οι πολίτες πρέπει να φοιτούν στο σχολείο για τουλάχιστον εννέα χρόνια, γνωστή ως εννεαετής υποχρεωτική εκπαίδευση, η οποία χρηματοδοτείται από την κυβέρνηση");
+move_to_next_slide();choose_title();insert_text("Διαφορετικά στυλ και μέθοδοι διδασκαλίας");
+move_to_next_slide();choose_title();insert_text("Σχέση δασκάλου-μαθητή");move_to_next_slide();choose_title();insert_text("Αξιολόγηση της απόδοσης των μαθητών");
+move_to_slide(4);insert_picture("forest");
+choose_content();insert_text("Το 2014, ο Jonathan Kaiman του The Guardian έγραψε ότι οι Κινέζοι γονείς και εκπαιδευτικοί "βλέπουν το δικό τους σύστημα διεφθαρμένο, απανθρωπιστικό, υπό πίεση και άδικο". συνέχισε συζητώντας τις εξετάσεις εισαγωγής στο κολέγιο της χώρας (που ονομάζεται gaokao), γράφοντας ότι "πολλοί γονείς θεωρούν το εξαντλητικό τεστ των εννέα ωρών έναν μηχανισμό ταξινόμησης που θα καθορίσει την τροχιά της ζωής των παιδιών τους".");set_font_color("red");set_font_underline();
+move_to_slide(5);insert_table(1, 1);choose_table_cell(0,0);insert_text("Ευθύνη");
+
+create_slide();choose_content();insert_picture("DingTalk_app");
+choose_title();insert_text("Εισαγωγή στο ChatGPT");set_font_color("green");
+create_slide();choose_title();insert_text("Απελευθερώνοντας τη δύναμη των μοντέλων γλώσσας AI.");text_align_left();create_slide();choose_title();insert_text("Απελευθερώνοντας τη δύναμη των μοντέλων γλώσσας AI.");text_align_left();create_slide();choose_title();insert_text("Απελευθερώνοντας τη δύναμη των μοντέλων γλώσσας AI.");text_align_left();create_slide();choose_title();insert_text("Απελευθερώνοντας τη δύναμη των μοντέλων γλώσσας AI.");text_align_left();create_slide();choose_title();insert_text("Απελευθερώνοντας τη δύναμη των μοντέλων γλώσσας AI.");text_align_left();
+move_to_slide(1);choose_content();set_font_style("Arial");
+insert_text("Το ChatGPT είναι ένα chatbot τεχνητής νοημοσύνης (AI) που αναπτύχθηκε από την OpenAI και κυκλοφόρησε τον Νοέμβριο του 2022. Είναι χτισμένο πάνω από τις οικογένειες μεγάλων γλωσσικών μοντέλων GPT-3.5 και GPT-4 του OpenAI (LLM) και έχει τελειοποιηθεί (μια προσέγγιση για τη μεταφορά της μάθησης) χρησιμοποιώντας τόσο εποπτευόμενες όσο και ενισχυτικές τεχνικές μάθησης.");
+set_font_size(30);set_line_space(2);
+insert_table(1, 1);choose_table_cell(0,0);insert_text("Πώς να κατεβάσετε το DingTalk");
+move_to_next_slide();
+choose_title();insert_text("Δυνατότητες και περιορισμοί");text_align_center();
+choose_content();insert_text("Αν και η βασική λειτουργία ενός chatbot είναι να μιμείται έναν άνθρωπο συνομιλητή, το ChatGPT είναι ευέλικτο. Μπορεί να γράψει και να διορθώσει προγράμματα υπολογιστών, να μιμηθεί το στυλ των διασημοτήτων CEO και να γράψει επαγγελματικά μηνύματα, να συνθέσει μουσική, τηλεπαιχνίδια, παραμύθια και δοκίμια μαθητών, να απαντήσει ερωτήσεις δοκιμής (μερικές φορές, ανάλογα με το τεστ, σε επίπεδο πάνω από τον μέσο άνθρωπο που κάνει τεστ), γράψτε ποίηση και στίχους τραγουδιών, μιμηθείτε ένα σύστημα Linux. προσομοιώστε ολόκληρα δωμάτια συνομιλίας, παίξτε παιχνίδια όπως tic-tac-toe και προσομοίωση ATM .");
+
+create_slide();set_background_color("green");
+choose_content();insert_text("Η ζωή είναι πολύ μικρή για να περάσετε χρόνο με ανθρώπους που σας απομυζούν την ευτυχία.");set_line_space(1.5);
+set_font_style("Verdana");set_font_size(20);
+set_font_underline();set_font_color("yellow");
+
+create_slide();set_background_color("blue");choose_title();insert_text("Μηχανική Εκμάθηση");
+choose_content();insert_text("Η μηχανική μάθηση είναι μια εφαρμογή τεχνητής νοημοσύνης (AI) που παρέχει στα συστήματα τη δυνατότητα να μαθαίνουν και να βελτιώνονται αυτόματα από την εμπειρία χωρίς να προγραμματίζονται ρητά. Η μηχανική μάθηση εστιάζει στην ανάπτυξη προγραμμάτων υπολογιστών που έχουν πρόσβαση δεδομένα και να τα χρησιμοποιήσουν για να μάθουν μόνοι τους");
+set_font_size(20);set_font_style("Verdana");
+set_font_style("Times New Roman");text_align_right();
+choose_title();set_font_color("red");set_font_size(40);
+set_font_color("blue");
+insert_picture("machine_learning");align_slide_left();
+set_height(1.2);set_width(1.2);
+choose_content();insert_star();set_fill_color("green");
+
+create_slide();choose_title();insert_text("Στρατηγικές μάρκετινγκ");
+choose_content();insert_bullet_point("Search Engine Optimization (SEO)");insert_bullet_point("Social Media Marketing (SMM)");insert_bullet_point("Email Marketing");insert_bullet_point("Content Marketing");insert_bullet_point("Pay-Per-Click Advertising (PPC)");
+insert_picture("marketing");set_height(1);set_width(1);
+insert_pie_chart([35, 25, 15, 10, 15], ["Apple", "Samsung", "Huawei", "Xiaomi", "Άλλο"]);insert_table(2, 2);
+choose_chart();set_chart_title("Μάρκετινγκ");choose_table();choose_table_cell(0, 0);insert_text("MT1");choose_table_cell(0, 1);insert_text("MT2");choose_table_cell(1, 0);insert_text("ST1");choose_table_cell(1, 1);insert_text("ST2")
+choose_content();align_slide_bottom();
+create_slide();insert_pie_chart([35, 25, 15, 10, 15],["Apple", "Samsung", "Huawei", "Xiaomi", "Other"]);set_chart_title("Marketing");
+choose_table();insert_table(2, 2);insert_table_row(["MT1", "MT2"]);insert_table_row(["ST1", "ST2"])
+
+create_slide();choose_title();insert_text("Οπτικοποίηση δεδομένων");
+insert_bar_chart([8.4, 4.0, 2.7, 2.3, 1.7], series=["Νέα Υόρκη", "Λος Άντζελες", "Σικάγο", "Χιούστον", "Φοίνιξαντ"]);align_slide_left();
+insert_textbox();insert_text("Η οπτικοποίηση δεδομένων είναι η παρουσίαση δεδομένων σε εικονογραφική ή γραφική μορφή. Δίνει τη δυνατότητα στους λήπτες αποφάσεων να δουν τα αναλυτικά στοιχεία που παρουσιάζονται οπτικά, ώστε να μπορούν να κατανοήσουν δύσκολες έννοιες ή να εντοπίσουν νέα μοτίβα.");
+set_font_color("green");
+create_slide();choose_content();insert_text("Αυτός ο χυλός παρασκευάζεται μαγειρεύοντας κολλώδες ρύζι, καστανή ζάχαρη και δεκαοκτώ είδη αποξηραμένων φρούτων μαζί.");
+
+create_slide();choose_title();insert_text("Laba Porridge");
+choose_content();insert_text("Από τότε που θυμάμαι τον εαυτό μου, κάθε χρόνο την όγδοη ημέρα του δωδέκατου σεληνιακού μήνα, η μητέρα μου μαγείρευε για εμάς χυλό Laba.");
+set_font_color("yellow");set_font_bold();
+insert_table(2, 1);align_slide_right();
+choose_table_cell(0, 0);insert_text("Ιστορικό");choose_table_cell(1, 0);insert_text("Σύγχρονο");
+set_background_color("light red");
+
+set_background_color("yellow");
+set_background_color("green");
+choose_title();insert_text("Μεγάλη εταιρεία");
+set_font_size(28);set_font_style("Futura");
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("Αριθμός");choose_table_cell(0, 1);insert_text("Ονόματα εργαζομένων")
+insert_picture("company1");insert_picture("company2");insert_picture("company3");
+choose_table();choose_table_cell(0,0);set_font_color("yellow");choose_table_cell(0,1);set_font_color("yellow");
+
+create_slide();choose_title();insert_text("Τεχνητά Νευρωνικά Δίκτυα");
+choose_content();insert_text("Τα τεχνητά νευρωνικά δίκτυα (ANN) είναι υπολογιστικά συστήματα εμπνευσμένα από τα βιολογικά νευρωνικά δίκτυα που αποτελούν τους εγκεφάλους των ζώων. Αυτά τα συστήματα μαθαίνουν να εκτελούν εργασίες εξετάζοντας παραδείγματα, γενικά χωρίς να προγραμματίζονται με κανόνες που αφορούν συγκεκριμένες εργασίες Τα ANN είναι ικανά να μαθαίνουν και να προσαρμόζονται σε νέες εισόδους, γεγονός που τα καθιστά χρήσιμα για ένα ευρύ φάσμα εφαρμογών, συμπεριλαμβανομένης της αναγνώρισης εικόνας, της αναγνώρισης ομιλίας και της επεξεργασίας φυσικής γλώσσας.");
+set_font_size(24);
+set_font_style("Calibri");set_background_color("light orange");
+text_align_center();choose_title();text_align_left();
+set_background_color("blue");
+insert_picture("artificial_neural_networks");
+set_width(5.5);
+align_slide_right();
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("1");choose_table_cell(0, 1);insert_text("2");choose_table_cell(0, 2);insert_text("3")
+insert_table_row(["video games", "Switch", "TV series"])
+
+create_slide();set_background_color("red");create_slide();set_background_color("red");
+move_to_slide(0);choose_title();insert_text("Προκλήσεις");set_font_style("Calibri");
+choose_content();insert_text("Οι προκλήσεις της εφαρμογής της τεχνητής νοημοσύνης στον χώρο εργασίας περιλαμβάνουν την έλλειψη τεχνογνωσίας, το κόστος και την αντίσταση στην αλλαγή.");
+set_font_color("green");
+move_to_slide(1);insert_picture("AI");align_slide_center();
+
+create_slide();choose_title();insert_text("Εισαγωγή");
+choose_content();insert_text("Καλώς ήρθατε στην παρουσίασή μου για την ιστορία των βιντεοπαιχνιδιών. Τα βιντεοπαιχνίδια έχουν διανύσει πολύ δρόμο από τότε που εφευρέθηκε το πρώτο ηλεκτρονικό παιχνίδι στη δεκαετία του 1950. Σήμερα, τα βιντεοπαιχνίδια είναι μια βιομηχανία πολλών δισεκατομμυρίων δολαρίων που απολαμβάνουν οι άνθρωποι σε όλο τον κόσμο");
+insert_picture("first_electronic_game");
+align_bottom_right_corner();
+choose_title();set_font_color("blue");
+insert_textbox();choose_textbox();insert_text("Παρουσίαση από τον John Smith");
+
+create_slide();choose_title();insert_text("Νευρωνικά Δίκτυα");
+choose_content();insert_text("Τα νευρωνικά δίκτυα είναι ένα σύνολο αλγορίθμων που μιμούνται τη λειτουργία του ανθρώπινου εγκεφάλου. Χρησιμοποιούνται για μια ποικιλία εφαρμογών όπως η αναγνώριση εικόνας, η αναγνώριση ομιλίας και η επεξεργασία φυσικής γλώσσας.");
+set_font_style("Arial");
+insert_triangle();align_top_left_corner();
+insert_picture("neutral_network");
+set_height(1.2);set_width(1.2);
+create_slide();insert_right_arrow();set_fill_color("blue");align_slide_right();
+insert_line_chart([120,140,110,90], ["Ιανουάριος", "Φεβρουάριος", "Μάρτιος", "Απρίλιος"]);set_chart_title("Chatgpt");
+choose_content();insert_textbox();insert_text("TensorFlow");
+choose_title();set_font_color("blue");set_background_color("light blue");
+
+choose_content();insert_text("Το λεξικό μπορεί να χρησιμοποιηθεί για να βρείτε έννοιες λέξεων, προφορές, ορθογραφία και αναζήτηση νέων λέξεων.");
+insert_circle();set_top("circle","content");
+insert_text("ονομαστική φράση");
+choose_content();set_font_color("red");set_font_style("Impact");
+
+create_slide();choose_title();insert_text("Εισαγωγή");create_slide();choose_title();insert_text("Μεθοδολογία");create_slide();choose_title();insert_text("Αποτελέσματα");
+move_to_slide(0);choose_content();insert_text("Αυτή η παρουσίαση θα παρουσιάσει το ερευνητικό μας έργο και θα εξηγήσει τη σημασία του".");move_to_slide(1);choose_content();insert_text("Η μεθοδολογία της έρευνάς μας περιλάμβανε τη συλλογή δεδομένων από διάφορες πηγές και τη χρήση στατιστικής ανάλυσης για την εξαγωγή συμπερασμάτων".");
+choose_content();text_align_left();
+move_to_slide(0);set_background_color("light blue");move_to_slide(1);set_background_color("light blue");move_to_slide(2);set_background_color("light blue");
+insert_picture("graph");set_height(6.5);
+move_to_slide(0);insert_note("2022/1/1");move_to_slide(1);insert_note("2022/1/1");move_to_slide(2);insert_note("2022/1/1");
+
+create_slide();choose_title();insert_text("Επισκόπηση προϊόντος");create_slide();choose_title();insert_text("Δυνατότητες");
+move_to_slide(0);insert_picture("product");
+choose_content();insert_text("Το προϊόν μας έχει σχεδιαστεί για να ανταποκρίνεται στις ανάγκες της αγοράς-στόχου μας παρέχοντας μια απλή και αποτελεσματική λύση στο πρόβλημά τους.");
+move_to_slide(1);insert_table(5, 2);
+choose_table_cell(4, 1);insert_text("DingTalk");
+choose_table_cell(4, 1);set_font_style("Times New Roman");
+move_to_slide(0);insert_note("Η τρέχουσα ώρα είναι 12:00 μ.μ.");move_to_slide(1);insert_note("Η τρέχουσα ώρα είναι 12:00 μ.μ.");move_to_slide(2);
+
+create_slide();choose_title();insert_text("Αναφορά πωλήσεων");text_align_center();
+insert_pie_chart([120, 220, 180], ["Προϊόν Α", "Προϊόν Β", "Προϊόν Γ"]);
+choose_title();set_font_size(28);
+insert_picture("company_logo");align_top_right_corner();
+choose_content();insert_text("Αυτή η αναφορά δείχνει την απόδοση των πωλήσεων των προϊόντων μας το πρώτο τρίμηνο του 2023.");
+set_font_style("Times New Roman");
+text_align_center();
+
+create_slide();choose_title();insert_text("Στρατηγικές μάρκετινγκ");
+choose_title();set_font_style("Calibri");set_font_size(36);
+choose_content();insert_picture("marketing_campaign");
+rotate_element(45);align_slide_right();
+create_slide();choose_title();insert_text("Powerful MT");
+set_font_style("Arial");set_font_size(24);
+insert_textbox();insert_bullet_point("SEO");insert_bullet_point("Email Marketing");insert_bullet_point("PPC");set_bottom("textbox","title");
+set_background_color("blue");
+insert_bar_chart([27, 30, 29], ["itemA", "itemB", "itemC"]);align_slide_left();
+set_chart_title("Marketing Budget");
+insert_table(4, 2);
+choose_table_cell(0, 0);insert_text("Ημερομηνία");choose_table_cell(0, 1);insert_text("Δευτέρα");choose_table_cell(1, 0);insert_text("Τρίτη");choose_table_cell(1, 1);insert_text("Τετάρτη");choose_table_cell(2, 0);insert_text("Πέμπτη");choose_table_cell(2, 1);insert_text("Παρασκευή");choose_table_cell(3, 0);insert_text("Σάββατο");choose_table_cell(3, 1);insert_text("Κυριακή");
+choose_table();set_right("table","chart");
+
+create_slide();set_background_color("yellow");
+choose_title();insert_text("Μετρήσεις αξιολόγησης");
+choose_content();insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("Metric");choose_table_cell(0, 1);insert_text("Formula");choose_table_cell(1, 0);insert_text("Accuracy");choose_table_cell(1, 1);insert_text("(TP+TN)/(TP+TN+FP+FN)");choose_table_cell(2, 0);insert_text("Precision");choose_table_cell(2, 1);insert_text("TP/(TP+FP)");
+insert_line_chart([160, 170, 130], ["Οκτώβριος", "Νοέμβριος", "Δεκέμβριος"]);set_chart_title("Time Machine");
+insert_bar_chart([160, 170, 130], ["October", "November", "December"]);
+
+create_slide();choose_title();insert_text("Οπτικοποίηση δεδομένων");
+insert_bar_chart([60,70,80,90], ["Μάτι", "Χέρι", "Πόδι", "Γόνατο"]);
+choose_chart();set_height(4);set_width(4);
+set_chart_title("Sales by Region");
+insert_right_arrow();set_fill_color("green");
+
+create_slide();choose_title();insert_text("Καμπάνια μάρκετινγκ");
+choose_content();insert_picture("product");set_right("picture","content");
+set_width(5);
+choose_content();insert_text("Ευρωπαϊκή οικογένεια γλωσσών που σχετίζεται στενά με τις φρισικές, γερμανικές και ολλανδικές (στο Βέλγιο ονομάζονται φλαμανδικές) γλώσσες.");
+insert_circle();set_fill_color("red");align_bottom_right_corner();
+set_background_color("green");
+set_background_color("light blue");
+create_slide();choose_title();insert_text("Δεδομένα πωλήσεων");
+insert_table(1, 4);
+choose_table();insert_table_row(["όνομα πωλητή", "συνολικές πωλήσεις", "ποσοστό προμήθειας", "ποσό προμήθειας"])
+create_slide();set_background_color("light blue");
+
+create_slide();choose_title();insert_text("Αναφορά πωλήσεων");set_font_size(25);
+choose_content();insert_text("Ακολουθεί η τριμηνιαία αναφορά πωλήσεων για την εταιρεία μας:");
+set_font_size(16);set_font_color("purple");
+insert_rectangle();set_width(8);set_height(5);
+set_background_color("green");
+
+create_slide();choose_title();insert_text("Τεχνητά Νευρωνικά Δίκτυα");
+choose_content();insert_text("Τα τεχνητά νευρωνικά δίκτυα (ANN) είναι υπολογιστικά συστήματα που εμπνέονται, αλλά όχι πανομοιότυπα με, βιολογικά νευρωνικά δίκτυα που αποτελούν εγκεφάλους ζώων. Αυτά τα συστήματα μαθαίνουν να εκτελούν εργασίες εξετάζοντας παραδείγματα, γενικά χωρίς προγραμματισμό με κανόνες για συγκεκριμένες εργασίες.");
+set_font_size(24);set_font_style("Arial");
+choose_title();set_font_color("purple");
+insert_picture("brain");set_width(6.5);
+rotate_element(90);
+insert_textbox();insert_text("Εφαρμογές ANN");
+choose_title();set_font_size(36);set_font_style("Calibri");
+insert_table(2, 1);
+choose_table_cell(0, 0);insert_text("Αναγνώριση εικόνας");choose_table_cell(1, 0);insert_text("Επεξεργασία φυσικής γλώσσας");
+
+choose_title();insert_text("Αξιολόγηση Ποιότητας Μηχανικής Μετάφρασης");
+insert_textbox();insert_text("Ρεπόρτερ: Εύα".");set_bottom("textbox","title");
+choose_title();set_font_size(66);
+set_background_color("blue");choose_title();set_font_color("red");choose_textbox();set_font_color("red");
+set_background_color("red");choose_title();set_font_color("blue");choose_textbox();set_font_color("blue");
+
+create_slide();choose_title();insert_text("Νευρωνικά Δίκτυα");
+choose_content();insert_text("Τα νευρωνικά δίκτυα είναι ένα σύνολο αλγορίθμων που μιμούνται τη λειτουργία ενός ανθρώπινου εγκεφάλου. Έχουν σχεδιαστεί για να αναγνωρίζουν μοτίβα, να ταξινομούν δεδομένα και να κάνουν προβλέψεις.");
+set_font_size(24);
+set_font_style("Arial");text_align_center();
+choose_title();set_font_color("blue");
+set_font_color("green");
+insert_picture("brain");set_width(1.5);set_height(1.5);
+choose_content();insert_text("The human brain inspired the development of neural networks");
+insert_note("συνελικτικό νευρωνικό δίκτυο");
+create_slide();set_background_color("yellow");
+
+create_slide();choose_title();insert_text("Προσωπικά οικονομικά");insert_note("Προσωπικά οικονομικά");
+choose_title();set_font_size(24);set_font_underline();
+choose_content();insert_text("Η προσωπική χρηματοδότηση περιλαμβάνει ολόκληρο το σύμπαν της διαχείρισης των ατομικών και οικογενειακών οικονομικών, της ανάληψης ευθύνης για την τρέχουσα και μελλοντική οικονομική σας κατάσταση και του καθορισμού οικονομικών στόχων. Περιλαμβάνει επίσης χειρισμό μεμονωμένων οικονομικών εργασιών και εξοικονόμηση χρημάτων για έκτακτες ανάγκες. ");
+set_font_color("orange");
+insert_picture("corporate_finance_book");
+set_width(6.5);
+set_background_color("blue");
+set_background_color("light blue");
+create_slide();set_background_color("light blue");create_slide();set_background_color("light blue");
+move_to_slide(1);insert_table(1, 2);
+
+choose_content();insert_text("Καλώς ήρθατε στην τοποθεσία Καταλόγου του Microsoft Update.");
+set_font_color("orange");set_background_color("dark blue");
+insert_picture("computer");align_slide_bottom();
+align_slide_left();
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("Βασικές έννοιες");choose_table_cell(0, 1);insert_text("Προέλευση");choose_table_cell(0, 2);insert_text("Κατηγορίες");choose_table_cell(0, 3);insert_text("Ανάπτυξη")
+create_slide();insert_star();set_fill_color("red");
+insert_pie_chart([10, 12, 14], ["Q1", "Q2", "Q3"]);choose_shape("star");align_bottom_left_corner();
+choose_chart();set_height(10);set_width(10);
+
+create_slide();set_background_color("blue");
+choose_title();insert_text("Εισαγωγή");
+choose_content();insert_text("Άνθρωποι συν χρήματα ισοδυναμούν με προσωπικά οικονομικά");
+set_font_italic();set_font_underline();
+set_font_color("green");
+insert_picture("person_grasping_money");align_bottom_right_corner();
+set_width(8);set_height(7);
+create_slide();choose_content();insert_text("Τα χρήματα δεν είναι το παν, αλλά κανένα χρήμα δεν είναι αδύνατο");
+set_font_style("Futura");set_font_color("blue");
+set_font_color("purple");
+insert_pie_chart([1, 2, 3, 4, 5])], ["1", "2", "3", "4", "5"]);set_right("chart", "content");
+choose_title();insert_text("Τα αποτελέσματα των χρημάτων");
+
+create_slide();choose_title();insert_text("Η διαφορά μεταξύ προσωπικής και εταιρικής χρηματοδότησης");
+insert_table(2, 3);
+insert_picture("company_logo");set_left("picture", "table");
+choose_table();choose_table_cell(0,0);insert_text("Borderlands 2");choose_table_cell(0,1);insert_text("Divinity: Original Sin 2");choose_table_cell(0,2);insert_text("Final Fantasy VII");choose_table_cell(1,0);insert_text("Assassin's Creed IV: Black Flag");choose_table_cell(1,1);insert_text("Mega Man 3");choose_table_cell(1,2);insert_text("Mega Man 3");
+insert_cloud();align_slide_right();
+insert_note("2023/4/23");
+
+set_background_color("orange");
+create_slide();choose_title();insert_text("Bridget Fonda");set_background_color("orange");
+set_font_italic();set_font_size(18);
+insert_picture("bridget_fonda");align_top_right_corner();
+choose_picture();set_width(8);set_height(7);
+create_slide();
+choose_content();insert_text("Γεννημένη στο Λος Άντζελες, η Μπρίτζετ Φόντα προέρχεται από μια αξιοσέβαστη οικογένεια ηθοποιών, η οποία περιλαμβάνει τον Χένρι Φόντα, τον Πίτερ Φόντα και την Τζέιν Φόντα. Ασχολήθηκε με το θέατρο αφού εμφανίστηκε σε μια σχολική παραγωγή του Χάρβεϊ και αργότερα είχε μια βουβός ρόλος στο Partners. Το 1988, εμφανίστηκε στο Scandal, τον πρώτο της ρόλο ομιλίας, έχοντας στη συνέχεια μερικούς μικρούς ρόλους.");
+set_font_size(12);set_font_italic();
+choose_title();insert_text("Λίστα ταινιών");
+insert_table(3, 3);choose_table_cell(0,0);insert_text("1");choose_table_cell(0,1);insert_text("2");choose_table_cell(0,2);insert_text("3");choose_table_cell(1,0);insert_text("4");choose_table_cell(1,1);insert_text("5");choose_table_cell(1,2);insert_text("6");choose_table_cell(2,0);insert_text("7");choose_table_cell(2,1);insert_text("8");choose_table_cell(2,2);insert_text("9");
+choose_table();align_slide_right();
+
+create_slide();
+choose_title();insert_text("Ghost Bear");set_font_underline();
+choose_content();insert_text("Η πιο σπάνια αρκούδα που ίσως δεν έχετε ακούσει ποτέ");
+insert_picture("ghost_bear");
+choose_title();set_font_style("Arial");set_font_size(20);choose_content();set_font_style("Arial");set_font_size(20);
+choose_picture();set_right("picture","content");
+create_slide();insert_picture("treemap_about_bears");
+align_slide_center();
+set_width(4);
+choose_content();insert_text("Όταν ήμουν πεινασμένος για Dungeons and Dragons, το Divinity: Original Sin 2 γέμισε αυτό το κενό για μένα.");
+choose_title();insert_text("Το αγαπημένο μου παιχνίδι");
+insert_table(2, 2);
+choose_table();choose_table_cell(0,0);insert_text("SMS");choose_table_cell(0,1);insert_text("WeChat");choose_table_cell(1,0);insert_text("QQ");choose_table_cell(1,1);insert_text("DingTalk");
+
+create_slide();set_background_color("blue");
+insert_picture("universe");align_bottom_left_corner();
+set_width(6.5);set_height(13);
+choose_content();insert_text("Μπορεί να ειπωθεί ότι είμαι λίγο επιλεκτικός. Δεν μου αρέσουν τα πολύ γλυκά τρόφιμα, όπως καραμέλες, σοκολάτα και ούτω καθεξής");
+choose_title();insert_text("Το αγαπημένο μου φαγητό");
+set_font_color("yellow");choose_content();set_font_color("yellow");
+choose_title();set_font_underline();set_font_size(24);choose_content();set_font_size(22);
+insert_cloud();align_slide_right();
+
+choose_title();insert_text("Idol");set_font_underline();
+insert_rectangle();set_fill_color("red");set_bottom("rectangle","title");
+choose_content();insert_text("Σε θέλω! (Σε θέλω!) Σε χρειάζομαι! (Σε χρειάζομαι!) Σε αγαπώ! (Σ' αγαπώ!)");text_align_left();
+set_font_size(24);
+set_font_size(48);
+insert_picture("AKB48");
+set_height(6.5);set_width(13);
+insert_table(2,1);choose_table_cell(0,0);insert_text("Ο χρόνος για ένα είδωλο είναι σύντομος. Υπάρχει πάντα ένα νέο φρέσκο ​​πρόσωπο και σπάνια ξεφεύγουν από το status quo που μοιάζει με κούκλα");
+choose_table();choose_table_cell(0,0);set_font_color("blue");set_font_style("Futura");
+choose_table_cell(1,0);insert_text("Το επικό ταξίδι των ειδώλων, από τη Sylvie Vartan έως τα είδωλα που ξεπουλάνε γήπεδα, θέτει το ερώτημα: Τι είναι επόμενο για τα είδωλα και την κουλτούρα που πυροδότησε;"); Παρακαλώ ΜΗΝ κάνετε ερωτήσεις.");
+insert_note("2023/05/17");
+
+choose_content();insert_text("ΠΕΡΙΕΧΟΜΕΝΑ");text_align_center();
+choose_content();insert_text("1. Ιστορικό");insert_text("2. Αποστολές αξιολόγησης");insert_text("3. Μοντέλο");insert_text("4. Εφαρμογές");
+set_font_size(80);set_font_color("green");
+set_font_underline();set_font_style("Pecita");
+
+set_background_color("orange");choose_title();insert_text("Καλύτερο λογισμικό");
+set_font_italic();set_font_size(24);
+choose_content();insert_text("Θέλετε ισχυρό λογισμικό; Δεν χρειάζεται να πληρώσετε για αυτό. Όλα όσα χρειάζεστε για να είστε παραγωγικοί και ασφαλείς στον υπολογιστή σας βρίσκονται σε αυτήν τη λίστα και είναι όλα εντελώς δωρεάν."); Δεν χρειάζεται να πληρώσετε για αυτό. Όλα όσα χρειάζεστε για να είστε παραγωγικοί και ασφαλείς στον υπολογιστή σας βρίσκονται σε αυτήν τη λίστα και είναι όλα εντελώς δωρεάν.");
+set_font_color("yellow");
+set_background_color("dark blue");
+choose_content();set_font_underline();set_font_style("Arial");
+insert_right_arrow();align_slide_bottom();
+insert_note("2023/4/25");
+
+create_slide();choose_title();insert_text("Jay Chou");
+choose_content();insert_text("Ο Jay Chou είναι Ταϊβανέζος μουσικός, τραγουδιστής-τραγουδοποιός, πολυοργανίστας, ηθοποιός και σκηνοθέτης.");
+create_slide();choose_title();insert_text("Mojito");
+set_font_underline();set_font_size(20);
+set_font_size(48);
+choose_content();insert_text("Το "Mojito" έτυχε θετικής υποδοχής από το ευρύ κοινό από τη διεθνή κοινότητα. Η κουβανέζικη ηλιοφάνεια, τα τροπικά πουκάμισα, τα αυτοκίνητα αντίκες και τα ζωηρά beats κάνουν το τραγούδι όχι μόνο ένα πιασάρικο σκουλήκι των αυτιών αλλά και μια μεγάλη οπτική απόλαυση. Παρακαλώ ΜΗΝ κάνετε ερώτηση.");
+set_font_style("Futura");set_background_color("green");
+insert_picture("mojito_cover");align_slide_right();
+
+choose_title();insert_text("My college life");
+insert_picture("collegue");insert_textbox();insert_text("Κολλέγιο");
+choose_content();insert_text(" η τρέλα των σπουδών στο εξωτερικό μεταξύ των φοιτητών κολεγίου");
+set_font_color("red");set_font_underline();
+set_font_style("Futura");choose_title();set_font_size(22);
+choose_content();text_align_left();
+insert_table(1, 3);
+choose_table_cell(0, 0);insert_text("Πρώτη τάξη");choose_table_cell(0, 1);insert_text("Δεύτερη τάξη");choose_table_cell(0, 2);insert_text("Τρίτη τάξη");
+create_slide();choose_content();insert_text("Η ομιλία της Μισέλ Ομπάμα στο Πανεπιστήμιο του Πεκίνου");
+insert_picture("logo");align_top_right_corner();
+set_height(6.5);
+
+create_slide();choose_title();insert_text("Learning Python");
+set_font_italic();set_font_size(26);set_font_style("Times New Roman");
+set_background_color("green");
+create_slide();set_background_color("green");create_slide();set_background_color("green");
+insert_rectangle();align_slide_bottom();
+insert_table(1, 1);
+choose_table_cell(0, 0);insert_text("Δεν δίνονται παραδείγματα, συμπληρώστε τον πίνακα");
+
+create_slide();set_background_color("green");choose_title();insert_text("Μηχανική μετάφραση");
+choose_content();insert_text("Μηχανική μετάφραση είναι η χρήση τεχνολογίας υπολογιστή για τη μετάφραση κειμένου από μια γλώσσα σε άλλη.");
+set_font_size(20);
+set_font_size(40);
+set_font_color("green");text_align_right();
+insert_picture("trados");
+set_height(2);set_width(2);
+align_slide_bottom();
+insert_rectangle();align_slide_bottom();
+
+choose_title();insert_text("Ιστορικό");insert_note("Ιστορικό");
+choose_content();insert_text("Οι απαιτήσεις για την κατανόηση της ποιότητας μετάφρασης της μηχανής μετάφρασης");insert_text("Εστίαση στην αξιοπιστία κάθε σημείου ημερομηνίας");
+insert_cloud();set_width(6.5);align_slide_bottom();
+choose_title();set_font_size(30);choose_content();set_font_size(20);set_font_italic();
+
+insert_circle();align_slide_left();set_fill_color("green");
+set_width(10);set_height(10);
+choose_content();insert_text("Feature Learning Module");insert_text("Quality Assessment Module");
+choose_title();insert_text("Βασικό πλαίσιο");
+insert_note("2023/4");choose_shape("circle");insert_text("2023/4");
+
+choose_title();insert_text("Μισθοδοσία τον Μάρτιο");set_font_color("green");
+insert_table(1, 3);
+choose_table_cell(0, 0);insert_text("Αναγνωριστικό υπαλλήλου");choose_table_cell(0, 1);insert_text("Ποσό");choose_table_cell(0, 2);insert_text("Σημείωση");
+insert_textbox();insert_text("Ο εργαζόμενος πρέπει να προσκομίσει την τραπεζική του ταυτότητα και την αστυνομική του ταυτότητα".");set_bottom("textbox","table");
+insert_picture("company_brand_name");align_top_right_corner();
+create_slide();set_background_color("yellow");
+choose_title();insert_text("Κεφάλαιο 2");choose_content();insert_text("Το Μπόνους Εργαζομένων");
+choose_title();set_font_italic();set_font_size(44);set_font_color("green");
+choose_content();set_font_style("Verdana");set_font_color("light green");
+insert_note("2023/4");
+
+create_slide();choose_title();insert_text("Τα χαρακτηριστικά της βαθιάς μάθησης");set_font_underline();
+set_font_size(26);set_font_color("light blue");
+insert_circle();
+choose_content();insert_text("Η βαθιά μάθηση είναι μια τεχνική μηχανικής μάθησης που διδάσκει στους υπολογιστές να κάνουν αυτό που είναι φυσικό στους ανθρώπους.");
+set_font_style("Arial");
+insert_triangle();align_slide_left();
+align_slide_right();
+set_fill_color("red");set_width(5);
+choose_content();insert_bullet_point("Sunday");insert_bullet_point("Monday");insert_bullet_point("Tuesday");
+move_to_next_slide();set_background_color("yellow");
+choose_title();insert_text("Ουδέτερα Δίκτυα");set_font_underline();set_font_italic();insert_note("Ουδέτερα Δίκτυα");
+
+choose_title();insert_text("Η ιστορία της τέχνης");
+set_font_bold();set_font_style("Times New Roman");
+choose_content();insert_text("Η τέχνη είναι ένα ποικίλο φάσμα ανθρώπινων δραστηριοτήτων για τη δημιουργία οπτικών, ακουστικών ή εκτελεστικών τεχνουργημάτων, που εκφράζουν τη φαντασία, τις εννοιολογικές ιδέες ή τις τεχνικές δεξιότητες του συγγραφέα, που προορίζονται να εκτιμηθούν κυρίως για την ομορφιά ή τη συναισθηματική τους δύναμη.");
+set_font_italic();set_font_style("Arial");
+insert_bullet_point("");
+insert_bullet_point("painting");insert_bullet_point("sculpture");insert_bullet_point("architecture");insert_bullet_point("music");insert_bullet_point("literature");
+insert_picture("Mona Lisa");align_slide_bottom();
+align_top_left_corner();
+insert_note("Mona Lisa by Leonardo da Vinci");
+
+insert_star();set_fill_color("yellow");
+choose_title();insert_text("Αστέρια");set_font_size(24);
+choose_content();insert_text("Καλώς ήρθατε στην Έναστρη Νύχτα");
+insert_picture("universe");set_bottom("picture","content");
+insert_note("Λαμπρό αστέρι, φωτεινό αστέρι, αστραφτερό αστέρι");choose_title();delete_text();insert_text("Λαμπρό αστέρι, φωτεινό αστέρι, αστραφτερό αστέρι");
+
+create_slide();choose_title();insert_text("Σχόλια πελατών");
+insert_picture("happy_customer");align_slide_bottom();
+choose_title();delete_text();insert_text("Οι πελάτες μας μας αγαπούν!");set_font_color("red");
+delete_text();insert_text("!!");
+choose_content();insert_text("Κριτικές πελατών");
+set_font_style("Times New Roman");set_font_color("green");
+set_background_color("red");
+set_background_color("green");
+
+create_slide();choose_title();insert_text("Σχέδιο Μάρκετινγκ");
+insert_text("Εισαγωγή");set_font_underline();set_font_style("Calibri");
+insert_picture("company_logo");align_bottom_left_corner();
+set_height(5);set_width(3);align_slide_right();
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("Κατηγορία");choose_table_cell(0, 1);insert_text("Πληροφορίες");choose_table_cell(1, 0);insert_text("Ηλικία");choose_table_cell(1, 1);insert_text("25")
+create_slide();set_background_color("blue");
+choose_title();insert_text("Μάρκες για κινητά");
+insert_line_chart([120, 140, 150], ["Huawei", "Apple", "Xiaomi"]);
+set_chart_title("Sales in April");
+
+create_slide();choose_title();insert_text("Οικονομική Έκθεση 2ου τριμήνου");
+set_font_style("Arial");set_font_size(20);
+insert_table(1, 3);choose_table_cell(0, 0);insert_text("Metric");choose_table_cell(0, 1);insert_text("Q2");choose_table_cell(0, 2);insert_text("Q3")
+insert_picture("financial report");set_top("picture","table");
+choose_content();insert_text("Η οικονομική έκθεση του 2ου τριμήνου δείχνει ισχυρή αύξηση εσόδων και βελτιωμένη κερδοφορία, με γνώμονα τα επιτυχημένα μέτρα βελτιστοποίησης κόστους και την αυξημένη ζήτηση της αγοράς για τα προϊόντα και τις υπηρεσίες μας.");
+set_font_italic();set_font_bold();
+insert_bullet_point("");
+set_background_color("light blue");
+
+create_slide();set_background_color("green");
+choose_title();insert_text("Φεμινισμός");
+set_font_color("green");set_font_size(26);
+choose_content();insert_text("Ο φεμινισμός είναι η πίστη και η επιδίωξη ίσων δικαιωμάτων, δύναμης και ευκαιριών για τις γυναίκες, παράλληλα με εκείνα των ανδρών");
+set_font_color("green");set_font_italic();
+create_slide();choose_title();insert_text("3rd Wave of Feminism Movement");set_font_color("green");
+set_font_bold();set_font_style("Times New Roman");set_font_color("blue");set_font_size(28);
+insert_picture("war");align_slide_bottom();
+insert_pie_chart([40, 30, 30], ["ΗΠΑ", "Ρωσία", "Γαλλία"]);
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("Τοποθεσία");choose_table_cell(0, 1);insert_text("Διάφορες πόλεις σε όλο τον κόσμο")
+
+create_slide();choose_title();insert_text("Εκκίνηση προϊόντος");
+choose_content();insert_text("Σκοπός");insert_note("Σκοπός");
+set_font_underline();set_font_style("Times New Roman");
+insert_picture("Apple_Pencil");align_bottom_left_corner();
+align_top_right_corner();
+
+choose_title();insert_text("Πρόοδος ομάδας");
+choose_content();insert_text("Objective");
+choose_content();insert_text("Στόχος της οργάνωσης είναι η προώθηση της νεολαίας και των περιθωριοποιημένων ομάδων αυτής της γενιάς μέσω της καθοδήγησης έμπειρων ελεύθερων επαγγελματιών");
+set_font_size(18);set_font_underline();
+insert_picture("team_group");set_right("picture", "content");
+
+choose_title();insert_text("Η δύναμη της καινοτομίας");
+set_font_style("Arial");set_font_bold();
+choose_content();insert_text("Στον σημερινό ταχέως μεταβαλλόμενο κόσμο, η καινοτομία διαδραματίζει κρίσιμο ρόλο στην προώθηση της οικονομικής ανάπτυξης, στη διαμόρφωση των πολιτικών τοπίων και στη μετατροπή των πολιτιστικών κανόνων. Τροφοδοτεί την πρόοδο, ενισχύει την ανταγωνιστικότητα και ανοίγει νέες δυνατότητες για άτομα και κοινωνίες.");
+set_font_color("dark blue");set_line_space(2);
+insert_picture("cityscape");align_slide_left();
+insert_rectangle();align_slide_right();
+set_background_color("dark blue");
+create_slide();choose_content();insert_text("Λειτουργεί χωρίς ορθολογισμό, αδιαφορώντας για τα κοινωνικά ήθη και τα εξωτερικά πρότυπα.");
+set_font_bold();set_font_underline();choose_title();insert_text("Παραμύθια");
+
+choose_title();insert_text("Αστική Διαβίωση");
+set_background_color("light blue");
+choose_table();insert_table(3, 2);choose_table_cell(0, 1);delete_text();insert_text("Ποσότητα");choose_table_cell(1, 1);delete_text();insert_text("Ποιότητα");choose_table_cell(2, 1);delete_text();insert_text("Επίπεδο");
+insert_triangle();insert_rectangle();set_top("triangle", "rectangle");
+choose_shape("triangle");set_bottom("triangle", "rectangle");
+insert_picture("Shanghai");align_bottom_left_corner();
+
+choose_table();insert_table(4, 6);
+choose_table_cell(0, 0);insert_text("Year");choose_table_cell(0, 1);insert_text("Friends");choose_table_cell(0, 2);insert_text("Breaking Bad");choose_table_cell(0, 3);insert_text("Game of Thrones");choose_table_cell(0, 4);insert_text("Stranger Things");choose_table_cell(0, 5);insert_text("The Crown")
+insert_star();
+insert_picture("Friends");set_right("picture", "star");
+choose_shape("star");set_top("star", "picture");
+choose_title();insert_text("τηλεοπτική σειρά");set_font_italic();set_font_underline();
+insert_note("2023-2025");
+
+insert_triangle();rotate_element(45);
+insert_rectangle();set_right("rectangle","triangle");
+insert_star();set_right("star","rectangle");
+insert_circle();set_right("circle","star");
+insert_callout();set_right("callout","circle");rotate_element(-45);
+choose_shape("triangle");insert_text("σχήματα");choose_shape("rectangle");insert_text("σχήματα");choose_shape("star");insert_text("σχήματα");choose_shape("circle");insert_text("σχήματα");choose_shape("callout");insert_text("σχήματα");
+
+insert_picture("globe");
+choose_title();insert_text("Στρατηγική παγκόσμιας επέκτασης");
+choose_picture();align_top_left_corner();
+choose_content();insert_text("Ειρήνη και αγάπη");
+
+insert_pie_chart([40, 45, 5], ["Σαγκάη", "Πεκίνο", "Άλλα"]);
+choose_title();insert_text("Συμβολή");
+choose_content();insert_text("Το ετήσιο ακαθάριστο εγχώριο προϊόν του Πεκίνου ξεπέρασε τα 4 τρισεκατομμύρια γιουάν (630 δισεκατομμύρια δολάρια) για πρώτη φορά το 2021");
+set_font_style("Arial");
+insert_line_chart([6.7, 6.9, 6.6, 6.1, 2.3, 8.1], ["2016", "2017", "2018", "2019", "2020", "2021"]);
+choose_title();insert_text("Ανάπτυξη ΑΕΠ");
+insert_bar_chart([6.5, 6.3, 6.1, 5.9, 5.7, 5.5], ["2022", "2023", "2024", "2025", "2026", "2027"]);
+
+create_slide();choose_title();insert_text("Σχέδιο Μάρκετινγκ");
+set_background_color("red");
+insert_picture("company_logo");set_top("picture", "title");
+set_width(3);
+
+create_slide();choose_title();insert_text("Queencard");
+set_font_italic();set_font_bold();set_font_color("purple");
+set_background_color("light blue");
+insert_picture("Poker");set_right("picture", "title");
+align_top_right_corner();
+insert_circle();align_bottom_right_corner();
+set_width(6);set_height(4);
+create_slide();choose_title();insert_text("Βασιλιάς");
+insert_picture("King");align_slide_right();
+
+create_slide();choose_title();insert_text("Χρονολόγιο έργου");
+insert_table(1, 4);
+choose_table();choose_table_cell(0, 0);insert_text("Ιαν");choose_table_cell(0, 1);insert_text("Φεβ");choose_table_cell(0, 2);insert_text("Μάρτιο");choose_table_cell(0, 3);insert_text("Απρίλιο")
+choose_content();insert_text("π.χ., \"Εκκίνηση λογισμικού\", \"Έναρξη καμπάνιας μάρκετινγκ\"");
+insert_picture("project_team");set_bottom("picture", "table");
+insert_right_arrow();set_left("right_arrow", "picture");
+set_width(3);set_height(3);
+
+insert_pie_chart([40, 60], ["Γυναίκες", "Άνδρες"]);
+set_chart_title("Class 1");
+insert_picture("team_of_students");
+insert_rectangle();set_bottom("rectangle", "chart");
+choose_title();insert_text("Βαθμός 1");
+choose_content();insert_text("το παρακάτω δείχνει το ποσοστό φύλου σε κάθε τάξη");
+set_font_underline();set_font_size(20);
+insert_note("Principle：Eva");
+create_slide();insert_pie_chart([40, 60],["Female", "Male"]);set_chart_title("Class 1");
+insert_picture("team_of_students");
+insert_rectangle();set_bottom("rectangle", "chart");
+
+create_slide();choose_title();insert_text("Μαρτυρίες πελατών");
+choose_content();insert_text("Τι λένε οι πελάτες μας για εμάς");set_font_bold();set_font_italic();
+insert_picture("happy_customer");
+insert_triangle();set_fill_color("purple");
+align_slide_right();
+
+create_slide();choose_title();insert_text("Στρατηγική");
+choose_content();insert_text("Η στρατηγική μάρκετινγκ μας βασίζεται στα 4 Ps: Προϊόν, Τιμή, Τόπος και Προώθηση.");
+set_font_size(20);set_line_space(2);set_font_bold();choose_title();set_font_underline();
+set_font_color("red");choose_content();set_font_color("red");
+insert_rectangle();align_slide_left();
+insert_picture("Apple_company_logo");set_right("picture", "rectangle");
+choose_picture();set_top("picture", "rectangle");
+
+create_slide();choose_title();insert_text("Fans");set_font_style("Arial");set_font_size(24);
+choose_content();insert_bullet_point("Benefits of our product");insert_bullet_point("Target market");insert_bullet_point("Pricing strategy");insert_bullet_point("Marketing channels");
+insert_picture("idol");set_height(6.5);
+align_slide_bottom();
+insert_rectangle();align_slide_top();
+insert_note("Presenter：Eva");
+
+create_slide();choose_title();insert_text("Στοιχεία πωλήσεων");
+insert_bar_chart([20, 30], series=["Ιανουάριος", "Φεβρουάριος"]);
+insert_line_chart([10, 15], ["Ιανουάριος", "Φεβρουάριος"]);
+set_chart_title("Sales by Month");
+insert_rectangle();align_slide_top();
+choose_content();insert_text("Τα έσοδά μας αυξάνονται επίσης σταθερά τους τελευταίους 6 μήνες");
+
+create_slide();choose_title();insert_text("Αναφορά πωλήσεων");
+insert_table(2, 5);
+choose_table();insert_table_row(["Προϊόν", "Πωλήσεις μονάδων", "Έσοδα", "Έξοδα", "Κέρδη"])
+insert_table_row(["Computer", "1000", "$1000000", "$500000", "$500000"])
+insert_table(1, 5);insert_table_row(["Printer", "500", "$100000", "$50000", "$50000"])
+
+create_slide();insert_picture("city_skyline");align_slide_top();
+set_width(6);set_height(4);
+choose_title();insert_text("City Life");
+choose_picture();align_top_left_corner();
+choose_title();set_font_size(20);set_font_bold();
+
+create_slide();insert_line_chart([40, 30, 30], ["Συναυλία", "Άλμπουμ", "Βιβλίο"]);
+choose_title();insert_text("The Power of Fandom");
+choose_content();insert_text("Οι θαυμαστές διαδραματίζουν ζωτικό ρόλο στη διαμόρφωση της επιτυχίας και του αντίκτυπου των διαφόρων μορφών ψυχαγωγίας, από ταινίες και τηλεοπτικές εκπομπές μέχρι αθλήματα και μουσική. ");
+set_font_style("Arial");set_font_size(20);
+insert_right_arrow();align_slide_top();
+insert_textbox();align_slide_bottom();
+align_slide_top();
+
+create_slide();choose_title();insert_text("Tencent");
+insert_rectangle();align_slide_top();
+rotate_element(90);
+choose_title();set_font_style("Georgia");set_font_italic();
+choose_content();insert_text("Η Tencent είναι ένας κορυφαίος κινεζικός πολυεθνικός όμιλος ετερογενών δραστηριοτήτων που ιδρύθηκε το 1998. Ειδικεύεται σε διάφορες υπηρεσίες και προϊόντα που σχετίζονται με το Διαδίκτυο, συμπεριλαμβανομένων των μέσων κοινωνικής δικτύωσης, των διαδικτυακών παιχνιδιών, του ηλεκτρονικού εμπορίου, του υπολογιστικού νέφους και της τεχνητής νοημοσύνης. ");
+set_font_size(24);set_font_style("Arial");
+
+set_background_color("green");
+insert_picture("Tencent_logo");
+set_width(6.5);
+insert_line_chart([40, 30, 30], ["Μοντέλο Α", "Μοντέλο Β", "Μοντέλο Γ"]);
+insert_bar_chart([40, 30, 30],["Model A", "Model B", "Model C"]);
+
+create_slide();choose_title();insert_text("The origin of British");set_font_underline();
+choose_content();insert_text("Η προέλευση του Ηνωμένου Βασιλείου μπορεί να εντοπιστεί στην εποχή του αγγλοσαξονικού βασιλιά Athelstan, ο οποίος στις αρχές του 10ου αιώνα μ.Χ. εξασφάλισε την πίστη των γειτονικών κελτικών βασιλείων και έγινε ");
+set_font_size(20);
+set_font_size(40);set_background_color("green");
+
+insert_rectangle();align_slide_right();
+set_fill_color("yellow");
+choose_title();insert_text("Vinda");
+choose_content();insert_text("Ο Όμιλος Vinda είναι μια κορυφαία εταιρεία προϊόντων υγιεινής που ιδρύθηκε το 1985. Ειδικεύεται στην κατασκευή και διανομή χαρτιού, προϊόντων υγιεινής μιας χρήσης και προϊόντων προσωπικής φροντίδας.");
+set_font_size(20);set_font_color("green");set_font_style("Vinda");
+set_line_space(2);choose_title();set_line_space(2);
+
+choose_title();insert_text("Τα χόμπι μου");
+insert_picture("guitar");align_top_right_corner();
+choose_content();insert_text("Το να παίζω κιθάρα είναι ένα από τα αγαπημένα μου χόμπι.");
+set_font_size(24);set_font_color("purple");
+
+create_slide();choose_title();insert_text("Σχέδιο Μάρκετινγκ");
+choose_content();insert_text("Σχέδιο μάρκετινγκ");
+set_font_style("Calibri");
+insert_picture("vinda_logo");
+align_top_left_corner();
+
+create_slide();choose_title();insert_text("Καμπάνια μάρκετινγκ");
+insert_picture("smiling_customer");align_top_left_corner();
+set_height(5);set_width(6);
+choose_content();insert_bullet_point("Profits");insert_bullet_point("Repute");insert_bullet_point("Go listing");
+set_font_size(20);choose_title();set_font_size(20);
+
+create_slide();choose_title();insert_text("Τύποι μπαταριών");
+set_font_bold();set_font_italic();
+insert_picture("Product A");
+align_slide_left();
+insert_table(4, 2);choose_table_cell(0, 0);insert_text("Τύπος μπαταρίας");choose_table_cell(0, 1);insert_text("Περιγραφή");choose_table_cell(1, 0);insert_text("Αλκαλικές");choose_table_cell(1, 1);insert_text("Κοινές οικιακές μπαταρίες με μεγάλη διάρκεια ζωής");choose_table_cell(2, 0);insert_text("Μπαταρίες ιόντων λιθίου");choose_table_cell(2, 1);insert_text("Επαναφορτιζόμενες μπαταρίες που χρησιμοποιούνται σε ηλεκτρονικές συσκευές");choose_table_cell(3, 0);insert_text("Νικελίου-καδμίου");choose_table_cell(3, 1);insert_text("Επαναφορτιζόμενες μπαταρίες με υψηλή ενεργειακή πυκνότητα")
+
+insert_pie_chart([30, 25, 20, 15, 10], ["Επωνυμία A", "Επωνυμία B", "Επωνυμία C", "Επωνυμία D", "Άλλες επωνυμίες"]);
+set_chart_title("Air Condition Brands");
+choose_content();insert_text("αυτή η διαφάνεια περιλαμβάνει μια σύντομη περιγραφή ή βασικά σημεία για κάθε επωνυμία");
+insert_picture("Haier");align_slide_bottom();
+choose_content();set_font_underline();set_font_color("green");
+insert_triangle();insert_rectangle();
+choose_shape("triangle");set_bottom("triangle", "rectangle");
+choose_shape("rectangle");rotate_element(45);
+
+choose_title();insert_text("Η ομάδα μας");
+insert_picture("team");set_width(4);set_height(3);
+rotate_element(45);
+align_top_left_corner();
+choose_title();set_font_style("Calibri");set_font_size(28);
+
+choose_title();insert_text("Κάρτα Ταυτότητας");
+insert_line_chart([120, 140, 110], ["Fujian", "Shanghai", "Beijing"]);
+set_chart_title("ID Card Operation");
+insert_picture("ID_card");align_slide_right();
+choose_title();set_font_style("Verdana");set_font_size(32);
+set_background_color("purple");
+
+choose_title();insert_text("Αναφορά πωλήσεων");
+set_font_style("Arial");set_font_size(48);set_font_bold();
+insert_table(5, 3);
+choose_table_cell(0, 0);insert_text("Περιοχή");choose_table_cell(0, 1);insert_text("Πωλήσεις");choose_table_cell(0, 2);insert_text("Ανάπτυξη");choose_table_cell(1, 0);insert_text("North");choose_table_cell(1, 1);insert_text("$50.000");choose_table_cell(1, 2);insert_text("5%");choose_table_cell(2, 0);insert_text("East");choose_table_cell(2, 1);insert_text("$75.000");choose_table_cell(2, 2);insert_text("10%");choose_table_cell(3, 0);insert_text("South");choose_table_cell(3, 1);insert_text("$45.000");choose_table_cell(3, 2);insert_text("3%");choose_table_cell(4, 0);insert_text("West");choose_table_cell(4, 1);insert_text("$60.000");choose_table_cell(4, 2);insert_text("8%")
+set_background_color("green");
+choose_content();insert_text("Όνομα: John Doe, Ημερομηνία Γέννησης: 1 Ιανουαρίου 1990, Φύλο: Άνδρας, Αριθμός Ταυτότητας: 123456789, Αρχή Έκδοσης: Τμήμα Μηχανοκίνητων Οχημάτων, Ημερομηνία Λήξης: 31 Δεκεμβρίου 2023");
+insert_picture("beach");
+insert_right_arrow();
+choose_picture();set_top("picture", "right_arrow");
+
+insert_rectangle();
+set_fill_color("orange");
+set_width(6);set_height(5);
+choose_title();insert_text("Σημαντικές πληροφορίες");set_font_bold();
+set_font_size(24);set_font_color("green");
+choose_content();insert_bullet_point("pot");insert_bullet_point("scissors");insert_bullet_point("scoup");
+insert_picture("exclamatory_mark");
+align_top_left_corner();
+create_slide();insert_rectangle();align_slide_left();
+choose_title();insert_text("Πρόσθετες λεπτομέρειες");
+
+choose_content();insert_text("Εδώ είναι μερικά στατιστικά στοιχεία για την ανάπτυξη της εταιρείας μας");
+set_font_color("purple");
+choose_table();insert_table(1, 3);
+choose_table_cell(0, 0);insert_text("έσοδα");choose_table_cell(0, 1);insert_text("κέρδη");choose_table_cell(0, 2);insert_text("αριθμό εργαζομένων")
+
+insert_picture("converse_shoes");
+choose_content();insert_text("Η Converse είναι μια δημοφιλής μάρκα υποδημάτων γνωστή για τα εμβληματικά αθλητικά παπούτσια και το καθημερινό στυλ της.");
+set_font_size(18);set_font_color("red");
+
+choose_content();insert_text("Ο χυμός λεμονιού είναι ένα δροσιστικό και πικάντικο ρόφημα φτιαγμένο από φρεσκοστυμμένα λεμόνια. Είναι πλούσιο σε βιταμίνη C και προσφέρει μια έκρηξη γεύσης εσπεριδοειδών.");
+create_slide();choose_title();insert_text("Χυμός λεμονιού");
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("Προϊόν");choose_table_cell(0, 1);insert_text("Τιμή");choose_table_cell(0, 2);insert_text("Δυνατότητες");choose_table_cell(1, 0);insert_text("A");choose_table_cell(1, 1);insert_text("B");choose_table_cell(1, 2);insert_text("C")
+insert_picture("lemon_juice");set_right("picture","table");
+choose_content();insert_text("Σελίδα 1");
+
+insert_picture("beach");align_top_left_corner();
+choose_content();insert_text("Κλείστε τις διακοπές σας σήμερα!");
+choose_title();insert_text("Ώρα διακοπών");
+set_font_size(18);set_font_style("Times New Roman");choose_content();set_font_size(18);set_font_style("Times New Roman");
+choose_content();insert_bullet_point("Relaxing on the beach");insert_bullet_point("Swimming in the ocean");insert_bullet_point("Eating delicious seafood");
+
+create_slide();choose_title();insert_text("Chili");
+set_background_color("red");
+insert_picture("chili");
+choose_content();insert_text("Το τσίλι είναι ένα πικάντικο και γευστικό πιάτο που παρασκευάζεται με συνδυασμό κρέατος, φασολιών και διαφόρων μπαχαρικών. Είναι γνωστό για την πλούσια γεύση του και την χορταστική του ζέστη.");
+
+choose_title();insert_text("Chili");insert_picture("chili_landscape");
+insert_table(4, 3);choose_table_cell(0, 0);insert_text("Συστατικό");choose_table_cell(0, 1);insert_text("Ποσότητα");choose_table_cell(0, 2);insert_text("Επίπεδο πικάντικου");choose_table_cell(0, 3);insert_text("Προέλευση");choose_table_cell(1, 0);insert_text("Beef");choose_table_cell(1, 1);insert_text("2 lbs");choose_table_cell(1, 2);insert_text("Medium");choose_table_cell(1, 3);insert_text("Mexico");choose_table_cell(2, 0);insert_text("Beans");choose_table_cell(2, 1);insert_text("1 can");choose_table_cell(2, 2);insert_text("Mild");choose_table_cell(2, 3);insert_text("United States");choose_table_cell(3, 0);insert_text("Tomatoes");choose_table_cell(3, 1);insert_text("3");choose_table_cell(3, 2);insert_text("Hot");choose_table_cell(3, 3);insert_text("Spain")
+insert_note("Σελίδα 2");
+
+insert_picture("eating_humburger");align_slide_bottom();
+choose_title();insert_text("Προβολές πωλήσεων για το τρίτο τρίμηνο");
+choose_content();insert_text("Οι προβλέψεις πωλήσεων για το τρίτο τρίμηνο δείχνουν μια σταθερή αύξηση των εσόδων και του μεριδίου αγοράς. Με στοχευμένες στρατηγικές μάρκετινγκ και βελτιώσεις προϊόντων, αναμένουμε σημαντική αύξηση στην απόδοση των πωλήσεων.");
+
+choose_title();insert_text("Στρατηγική Μάρκετινγκ");
+choose_content();insert_text("Η στρατηγική μάρκετινγκ της εταιρείας μας είναι να επικεντρωθεί στη διαφήμιση στα μέσα κοινωνικής δικτύωσης και στο μάρκετινγκ επιρροής");
+insert_bullet_point("Instagram");insert_bullet_point("Facebook");insert_bullet_point("Twitter");
+insert_picture("using_smartphone");
+insert_rectangle();set_top("rectangle","picture");
+insert_table(6, 4);choose_table_cell(0, 0);insert_text("Μήνας");choose_table_cell(0, 1);insert_text("Έσοδα");choose_table_cell(0, 2);insert_text("Πωλήσεις μονάδων");choose_table_cell(0, 3);insert_text("Ρυθμός ανάπτυξης")
+
+create_slide();choose_title();insert_text("Εκκίνηση προϊόντος");
+insert_text("Παρουσίαση του νεότερου προϊόντος μας");
+insert_picture("product");
+align_slide_bottom();
+set_background_color("purple");align_slide_top();
+
+choose_title();insert_text("Εξερευνήστε την Κίνα");
+insert_picture("china_map");
+align_top_left_corner();
+choose_content();insert_text("Η Κίνα είναι ένας μαγευτικός τουριστικός προορισμός γνωστός για την πλούσια ιστορία, τον ζωντανό πολιτισμό και τα συναρπαστικά τοπία της. Από το εμβληματικό Σινικό Τείχος μέχρι την πολυσύχναστη μητρόπολη της Σαγκάης, υπάρχει κάτι για κάθε ταξιδιώτη σε αυτήν την τεράστια και διαφορετική χώρα");
+insert_table(8, 5);choose_table_cell(0, 0);insert_text("Επαρχία");choose_table_cell(0, 1);insert_text("Διάσημα αξιοθέατα");choose_table_cell(0, 2);insert_text("Μέση θερμοκρασία");choose_table_cell(0, 3);insert_text("Αριθμοί τουριστών");choose_table_cell(0, 4);insert_text("Προτεινόμενη σεζόν")
+create_slide();choose_title();insert_text("Χρονολόγιο έργου");
+insert_star();align_slide_right();
+align_slide_right();
+
+choose_title();insert_text("OPPO");set_font_color("red");set_font_size(20);set_font_underline();set_font_bold();
+choose_content();insert_text("Η OPPO είναι ένας κορυφαίος κατασκευαστής smartphone, γνωστός για τα καινοτόμα σχέδια και την τεχνολογία αιχμής.");
+insert_picture("oppo_smartphone");set_left("picture","content");
+create_slide();choose_title();insert_text("Xiaomi");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("Προϊόν");choose_table_cell(0, 1);insert_text("Τιμή");choose_table_cell(0, 2);insert_text("Δυνατότητες");choose_table_cell(0, 3);insert_text("Διαθεσιμότητα");choose_table_cell(1, 0);insert_text("Mi 11");choose_table_cell(1, 1);insert_text("$699");choose_table_cell(1, 2);insert_text("Snapdragon 888, κάμερα 108MP");choose_table_cell(1, 3);insert_text("Global");choose_table_cell(2, 0);insert_text("Redmi Note 10");choose_table_cell(2, 1);insert_text("$249");choose_table_cell(2, 2);insert_text("AMOLED οθόνη, κάμερα 48MP");choose_table_cell(2, 3);insert_text("Παγκόσμια")
+
+create_slide();choose_title();insert_text("Επισκόπηση προϊόντος");
+choose_table();insert_table(4, 3);choose_table_cell(0, 0);insert_text("Όνομα προϊόντος");choose_table_cell(1, 0);insert_text("SKU");choose_table_cell(2, 0);insert_text("Τιμή");choose_table_cell(3, 0);insert_text("Ποσότητα");
+set_background_color("green");
+
+set_background_color("blue");choose_title();insert_text("Ερευνητική Γραφή");
+choose_content();insert_text("Η γραφή έρευνας περιλαμβάνει τη συστηματική διερεύνηση και τεκμηρίωση ενός θέματος για τη συμβολή νέων γνώσεων και γνώσεων σε ένα συγκεκριμένο πεδίο.");
+set_font_color("yellow");set_font_size(18);
+set_font_size(36);
+insert_line_chart([120, 140, 160], ["2016", "2017", "2018"]);
+set_chart_title("Publications Over Time");
+insert_picture("research_writing_cover");set_background_color("light blue");
+
+create_slide();choose_title();insert_text("Προγραμματισμός τον Μάρτιο");
+set_font_size(28);set_font_color("dark blue");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("Ημερομηνία");choose_table_cell(0, 1);insert_text("Εργασία");choose_table_cell(0, 2);insert_text("Ώρα έναρξης");choose_table_cell(0, 3);insert_text("Ώρα λήξης");choose_table_cell(1, 0);insert_text("15 Μαρτίου");choose_table_cell(1, 1);insert_text("Συνάντηση με ενδιαφερόμενα μέρη");choose_table_cell(1, 2);insert_text("9:00 π.μ.");choose_table_cell(1, 3);insert_text("10:30 π.μ.");choose_table_cell(2, 0);insert_text("23 Μαρτίου");choose_table_cell(2, 1);insert_text("Έλεγχος και ενημέρωση έργου");choose_table_cell(2, 2);insert_text("2:00 μ.μ.");choose_table_cell(2, 3);insert_text("4:00 μ.μ.")
+insert_picture("calendar");set_top(picture, table);
+
+create_slide();choose_title();insert_text("Τα οφέλη του διαλογισμού");
+insert_picture("person_meditating");align_slide_bottom();
+choose_content();insert_text("Ο διαλογισμός είναι μια απλή αλλά ισχυρή τεχνική που μπορεί να σας βοηθήσει να επιτύχετε μια κατάσταση εσωτερικής γαλήνης και ηρεμίας");
+set_font_size(24);set_font_style("Times New Roman");
+insert_rectangle();set_right("rectangle", "picture");
+set_fill_color("light green");
+create_slide();set_background_color("light blue");
+choose_table();insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("Midfulness Meditation");choose_table_cell(1, 0);insert_text("Transcendental Meditation");choose_table_cell(2, 0);insert_text("Body Scan Meditation");choose_table_cell(0, 1);insert_text("Ο διαλογισμός βοηθά στην ηρεμία του μυαλού και στη μείωση των επιπέδων στρες, προάγοντας τη χαλάρωση.");choose_table_cell(1, 1);insert_text("Η τακτική πρακτική διαλογισμού ενισχύει τις ικανότητες εστίασης και συγκέντρωσης.");choose_table_cell(2, 1);insert_text("Ο διαλογισμός προάγει τη συναισθηματική σταθερότητα, την επίγνωση και τη συνολική ευεξία. ");
+
+create_slide();set_background_color("green");
+insert_picture("grassland");set_width(6.5);set_height(5.5);
+choose_title();insert_text("Οι λειτουργίες των δασών");set_font_color("dark red");set_font_size(40);
+insert_right_arrow();set_fill_color("yellow");
+set_right("right_arrow", "picture");
+
+insert_pie_chart([40, 20, 15, 10, 15], ["φαγητό", "στέγαση", "μεταφορές", "διασκέδαση", "άλλα"]);
+insert_table(6, 2);choose_table_cell(0, 0);insert_text("Κατηγορία");choose_table_cell(0, 1);insert_text("Ποσοστό")
+set_bottom("table",pie_chart");
+choose_title();insert_text("Οι δαπάνες μου τον Μάιο του 2023");
+set_font_italic();
+
+create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");
+move_to_slide(0);choose_title();insert_text("Οι καλοκαιρινές μου διακοπές");set_font_style("Microsoft JhengHei");
+move_to_slide(1);insert_picture("family");
+move_to_slide(2);insert_bar_chart([120, 80, 40, 60], ["Πωλήσεις", "Έξοδα", "Κέρδη", "Επένδυση"]);
+move_to_slide(3);choose_content();insert_text("Κατά τη διάρκεια των καλοκαιρινών μου διακοπών, ξεκίνησα μια αξέχαστη περιπέτεια. Εξερευνούσα νέους προορισμούς, απολαμβάνοντας τη ζεστασιά των χρυσών ηλιοβασιλέματος και χαλαρώνοντας σε αμμώδεις παραλίες.");
+move_to_slide(4);choose_table();insert_table(2, 1);choose_table_cell(0,0);insert_text("Πωλήσεις");set_font_size(26);choose_table_cell(1,0);insert_text("Έξοδα");set_font_size(26);
+
+create_slide();choose_title();insert_text("Επιχειρηματικό σχέδιο");
+insert_picture("light_bulb");align_slide_left();
+choose_content();insert_text("Επιχειρηματικότητα είναι η διαδικασία σχεδιασμού, έναρξης και λειτουργίας μιας νέας επιχείρησης, η οποία συχνά είναι αρχικά μια μικρή επιχείρηση. Τα άτομα που δημιουργούν αυτές τις επιχειρήσεις ονομάζονται επιχειρηματίες.");
+set_font_style("Georgia");set_font_size(10);
+set_background_color("green");
+insert_circle();
+align_slide_right();
+move_to_slide(0);choose_content();insert_text("Στρατηγική μάρκετινγκ");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("Social Media Campaign");choose_table_cell(1, 0);insert_text("Influencer Partnerships");choose_table_cell(2, 0);insert_text("Email Marketing")
+choose_table_cell(0,3);insert_text("10000$");choose_table_cell(1,3);insert_text("15000$");choose_table_cell(2,3);insert_text("5000$");
+insert_note("2023/5");
+
+choose_title();insert_text("Στοχευμένο κοινό");set_font_style("Arial");
+align_top_right_corner();
+insert_picture("Gen_Z");set_width(4);
+align_bottom_left_corner();
+choose_content();insert_text("Η κατανόηση και η αποτελεσματική στόχευση του σωστού κοινού είναι ζωτικής σημασίας για την παράδοση εξατομικευμένων μηνυμάτων και τη μεγιστοποίηση του αντίκτυπου των προσπαθειών μάρκετινγκ");
+
+choose_title();insert_text("Τα βασικά στοιχεία της μοντελοποίησης μεγάλης κλίμακας");set_font_size(24);
+insert_picture("neutral_network");align_slide_bottom();
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("Αριθμός");choose_table_cell(0, 1);insert_text("Σημείωση")
+align_slide_top();
+
+insert_picture("tower");align_top_right_corner();
+choose_title();insert_text("The Ultimate Heist");
+insert_rectangle();set_top("rectangle", "title");
+choose_title();set_font_color("dark green");set_font_size(28);
+set_font_style("Microsoft New Tai Lue");
+set_background_color("light blue");
+
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("Εργασία");choose_table_cell(0, 1);insert_text("Προτεραιότητα");choose_table_cell(0, 2);insert_text("Ώρα έναρξης");choose_table_cell(0, 3);insert_text("Ώρα λήξης");choose_table_cell(1, 0);insert_text("Προγραμματισμός Έργου");choose_table_cell(1, 1);insert_text("Υψηλό");choose_table_cell(1, 2);insert_text("9:00 π.μ.");choose_table_cell(1, 3);insert_text("10:30 π.μ.")
+choose_content();insert_text("Η αποτελεσματική διαχείριση χρόνου είναι μια κρίσιμη δεξιότητα για την επιτυχία τόσο σε προσωπικό όσο και σε επαγγελματικό περιβάλλον.");
+set_font_italic();
+choose_table();set_bottom("table","content");
+insert_picture("clock");
+insert_note("Παρουσιάστρια: Εύα");
+
+create_slide();choose_title();insert_text("Εταιρικό Προφίλ");
+choose_content();insert_text("Η εταιρεία μας ιδρύθηκε το 2005 με στόχο την παροχή προϊόντων και υπηρεσιών υψηλής ποιότητας στους πελάτες μας. Από τότε, έχουμε εξελιχθεί σε κορυφαίο πάροχο καινοτόμων λύσεων για ένα ευρύ φάσμα βιομηχανιών Η ομάδα των ειδικών μας είναι αφοσιωμένη στην παροχή αριστείας σε ό,τι κάνουμε.");
+choose_title();set_font_style("Calibri Light");set_font_size(40);
+insert_picture("company_logo");align_slide_right();
+set_height(2);set_width(3);align_slide_left();
+align_bottom_left_corner();
+create_slide();set_background_color("blue");
+choose_content();insert_text("Να είμαστε ηγέτης στην καινοτομία και τη βιωσιμότητα, παρέχοντας αξία στους ενδιαφερόμενους φορείς μας και επηρεάζοντας θετικά τον κόσμο");
+set_font_underline();set_line_space(2);
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("A-72");choose_table_cell(0, 1);insert_text("C-71")
+insert_table(1, 2);insert_table_row(["B-72", "D-71"])
+
+create_slide();choose_title();insert_text("Δεδομένα πωλήσεων");
+insert_table(15, 6);
+choose_table();insert_table_row(["Προϊόν", "Πωλήσεις Ιανουαρίου", "Πωλήσεις Φεβρουαρίου", "Πωλήσεις Μαρτίου", "Συνολικές πωλήσεις", "Μέσες πωλήσεις"]);insert_table_row(["iPhone", "22", "13", "15", "17", "12"])
+align_top_left_corner();
+insert_note("Πηγή δεδομένων: Τμήμα πωλήσεων");
+create_slide();insert_table(15, 6);insert_table_row(["Product", "January Sales", "February Sales", "March Sales", "Total Sales", "Average Sales"]);insert_table_row(["iPhone", "22", "13", "15", "17", "12"]);align_top_left_corner()
+
+choose_title();insert_text("Στρατηγικές μάρκετινγκ");
+set_font_style("Arial Black");
+choose_content();insert_text("Βελτιστοποίηση μηχανών αναζήτησης (SEO)");insert_text(", ");insert_text(", ");insert_text(" και ");
+set_font_color("dark blue");
+set_font_color("green");
+insert_picture("thumb");set_width(5);set_bottom("picture", "content");
+
+choose_title();insert_text("The Grand Canyon");set_font_italic();
+set_font_size(30);
+set_font_style("Times New Roman");
+insert_picture("GrandCanyon");
+set_right("picture","title");
+set_height(4);set_width(6);
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("Guangdong");choose_table_cell(0, 1);insert_text("Beijing");choose_table_cell(0, 2);insert_text("Shanghai");choose_table_cell(0, 3);insert_text("Hainan");choose_table_cell(1, 0);insert_text("34%");choose_table_cell(1, 1);insert_text("36%");choose_table_cell(1, 2);insert_text("20%");choose_table_cell(1, 3);insert_text("10%")
+insert_pie_chart([34, 36, 20, 10], ["Guangdong", "Beijing", "Shanghai", "Hainan"]);
+choose_chart();set_bottom("chart", "table");
+insert_bar_chart([34, 36, 20, 10], ["Guangdong", "Beijing", "Shanghai", "Hainan"]);
+insert_note("Πηγή εικόνας: Υπηρεσία Εθνικού Πάρκου");
+
+create_slide();choose_title();insert_text("Σύγκριση προϊόντων");
+insert_table(5, 2);choose_table_cell(0, 0);insert_text("Smartphone (Apple iPhone 13)");choose_table_cell(0, 1);insert_text("Τηλεόραση (Samsung QLED Q90T)");choose_table_cell(1, 0);insert_text("Laptop (Dell XPS 13)");choose_table_cell(1, 1);insert_text("Κονσόλα παιχνιδιών (PlayStation 5)");choose_table_cell(2, 0);insert_text("Smartwatch (Apple Watch Series 7)");choose_table_cell(2, 1);insert_text("Fitness Tracker (Fitbit Charge 4)");choose_table_cell(3, 0);insert_text("Ακουστικά (Sony WH-1000XM4)");choose_table_cell(3, 1);insert_text("Ασύρματα ακουστικά (AirPods Pro)");choose_table_cell(4, 0);insert_text("Φωτογραφική μηχανή (Canon EOS R5)");choose_table_cell(4, 1);insert_text("Tablet (iPad Pro)")
+choose_title();align_bottom_right_corner();
+set_background_color("light blue");
+
+create_slide();choose_title();insert_text("Μηνιαία αναφορά πωλήσεων");
+choose_content();insert_bar_chart([10000, 12000, 15000, 18000, 20000, 25000, 28000, 30000, 32000, 35000, 40000, 45000], series=["Ιανουάριος", "Φεβρουάριος", "Μάρτιος", "Απρίλιος", "Μάιος", "Ιούνιος", "Ιούλιος", "Αύγουστος", "Σεπτέμβριος", "Οκτώβριος", "Νοέμβριος", "Δεκέμβριος"]);
+set_chart_title("My Monthly Sales in 2023");
+align_slide_top();
+choose_content();insert_text("Η μηνιαία αναφορά πωλήσεων δείχνει μια σημαντική αύξηση στα έσοδα.");
+insert_note("Παρουσιάστηκε από: xxx");
+
+set_background_color("light red");insert_picture("strawberry");
+create_slide();choose_title();insert_text("Πεδίο εφαρμογής έργου");create_slide();choose_title();insert_text("Χρονολόγιο έργου");create_slide();choose_title();insert_text("Προϋπολογισμός έργου");
+move_to_slide(1);set_background_color("light green");move_to_slide(2);set_background_color("light blue");move_to_slide(3);set_background_color("purple");
+move_to_slide(1);choose_content();insert_text("Το έργο μας περιλαμβάνει την ανάπτυξη μιας νέας εφαρμογής λογισμικού για τους πελάτες μας. Η εφαρμογή θα βελτιστοποιήσει τις επιχειρηματικές τους διαδικασίες και θα βελτιώσει το τελικό αποτέλεσμα.");
+move_to_slide(2);insert_table(2, 6);choose_table_cell(0, 0);insert_text("Μήνας");choose_table_cell(0, 1);insert_text("Εργασία");choose_table_cell(0, 2);insert_text("Ημερομηνία έναρξης");choose_table_cell(0, 3);insert_text("Ημερομηνία λήξης");choose_table_cell(0, 4);insert_text("Πρόοδος");choose_table_cell(0, 5);insert_text("Σχόλια")
+insert_line_chart([10, 12, 15, 11], [10, 12, 15, 11]);set_left("chart","table");
+insert_star();align_top_right_corner();
+move_to_slide(2);choose_title();set_font_underline();
+move_to_slide(3);choose_content();insert_text("Έξοδα προσωπικού: Περιλαμβάνονται δαπάνες που σχετίζονται με τα μέλη της ομάδας έργου, όπως μισθοί, μισθοί, παροχές και έξοδα εκπαίδευσης");
+choose_content();set_font_style("Arial");
+insert_note("Ευχαριστώ!");
+
+choose_title();insert_text("Company Timeline");
+insert_rectangle();rotate_element(45);
+align_bottom_right_corner();
+set_background_color("light blue");
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("1980");choose_table_cell(0, 1);insert_text("1990");choose_table_cell(0, 2);insert_text("2000");choose_table_cell(0, 3);insert_text("2010")
+choose_table();insert_table_row(["Εταιρεία ιδρύθηκε", "Η εταιρεία μεταφέρθηκε σε νέο κτίριο", "Η εταιρεία έγινε δημόσια", "Εταιρεία που αποκτήθηκε από ανταγωνιστή"])
+
+insert_picture("google_logo");align_slide_bottom();
+choose_title();insert_text("Συμπέρασμα");set_font_italic();
+choose_content();insert_text("Είμαστε όλο και περισσότερο ένας, παγκόσμιος πληθυσμός – ανακατεύουμε ελεύθερα. Αυτό θα δημιουργήσει έναν κόσμο υβριδίων – ανοιχτό καφέ δέρμα, μελαχρινή, Αφρο-Ευρω-Αυστραλοαμερικανο-Ασιάτες, το χρώμα του δέρματός τους και τα χαρακτηριστικά του προσώπου τους φροντίζουν προς έναν παγκόσμιο μέσο όρο");
+text_align_right();
+insert_rectangle();set_height(5);
+align_slide_bottom();
+
+create_slide();choose_title();insert_text("Ηθική Λογοτεχνική Κριτική");set_font_bold();
+set_font_color("blue");
+choose_content();insert_text("Η μέθοδος ηθικής λογοτεχνικής κριτικής είναι μια νέα μέθοδος λογοτεχνικής κριτικής που προτάθηκε από τον καθηγητή Nie Zhenzhao του Central China Normal University μετά από συγκριτική έρευνα, λεπτομερή ανάλυση και επανεξέταση της ιστορίας και της παρούσας κατάστασης της κινεζικής και δυτικής λογοτεχνικής κριτικής θεωρίες και μεθόδους");
+insert_picture("book_cover");
+align_slide_left();
+insert_rectangle();align_slide_right();
+set_background_color("light yellow");
+
+create_slide();choose_title();insert_text("Jane Eyre by Charlotte Bronte");set_font_italic();
+choose_content();insert_text("Στο φαινομενικά αίσιο τέλος, η Σάρλοτ χρησιμοποιεί μια κληρονομιά και μια φωτιά για να δημιουργήσει την πλοκή.");set_font_bold();
+set_font_color("dark red");set_font_style("Arial");
+insert_right_arrow();set_right("right_arrow", "content");
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("κατηγορία");choose_table_cell(0, 1);insert_text("πληροφορίες");choose_table_cell(1, 0);insert_text("έτος έκδοσης");choose_table_cell(1, 1);insert_text("1847")
+insert_picture("Charlotte_Bronte's_portrait");set_bottom("picture", "table");
+set_top("picture", "table");
+
+set_background_color("blue");
+choose_title();insert_text("Id in David Copperfield");set_font_italic();
+choose_content();insert_text("Το Id είναι ένα είδος ζωικής ενστικτώδους παρόρμησης, συγχέεται χωρίς ορθολογισμό, και επιδιώκει τυφλά την ικανοποίηση και συσσωρεύει πιθανότητες διάρρηξης. ένα. Το Id δεν ενδιαφέρεται για το κοινωνικό ηθικό ή την εξωτερική συμπεριφορά. Το Id είναι το μέρος για την αποθήκευση του ενστίκτου");
+insert_picture("book");set_top("book","content");
+set_height(5);set_width(6);
+insert_star();set_right("star","picture");
+choose_content();insert_bullet_point("");
+
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("Τοποθεσία");choose_table_cell(0, 1);insert_text("Διάφορες πόλεις σε όλο τον κόσμο");choose_table_cell(1, 0);insert_text("Εθνότητα");choose_table_cell(1, 1);insert_text("Κινεζική κοινότητα και πολιτισμός");choose_table_cell(2, 0);insert_text("Χαρακτηριστικά");choose_table_cell(2, 1);insert_text("Κινεζική αρχιτεκτονική, επιχειρήσεις, κουζίνα, πολιτιστικές γιορτές")
+choose_title();insert_text("China Town");set_font_bold();
+insert_pie_chart([40, 30, 30], ["Chinese Restaurants", "Chinese Retail Stores", "Cultural Festivals and Events"]);
+insert_picture("China_town");
+align_slide_bottom();
+insert_star();align_slide_right();
+insert_note("China Town");
+
+create_slide();set_background_color("green");
+choose_title();insert_text("φεμινισμός");set_font_color("green");
+choose_content();insert_text("Ο φεμινισμός είναι η πεποίθηση και ο στόχος ότι οι γυναίκες πρέπει να έχουν τα ίδια δικαιώματα, δύναμη και ευκαιρίες με τους άνδρες");
+set_font_color("yellow");set_font_italic();
+
+choose_title();insert_text("3ο κύμα του κινήματος του φεμινισμού");set_font_bold();
+set_font_style("Times New Roman");set_font_color("blue");set_font_size(28);
+choose_content();insert_text("Εστιάζει σε πολυφυλετικές θρησκευτικές πεποιθήσεις, εθνοτικά έθιμα, πολυπολιτισμικότητα, προστασία του περιβάλλοντος, καταναλωτισμό, προσανατολισμό στη διαφορετικότητα");
+insert_picture("female_portrait");set_top("picture","content");
+
+create_slide();choose_title();insert_text("προσαρμογή ταινίας του Pride and Prejudice");
+set_font_size(24);set_font_italic();
+choose_content();insert_text("Δεκατέσσερα χρόνια μετά την πρώτη προβολή της, η προσαρμογή του σεναριογράφου Andrew Davies το 1995 του μυθιστορήματος Pride and Prejudice της Jane Austen παραμένει ένα σημείο αναφοράς με το οποίο μετριέται ευρέως η προσαρμογή της Austen. Σημειωμένη για το "σεξουαλικό" της δράματος εποχής, η μεταφορά φαινομενικά απευθύνεται στις σύγχρονες ευαισθησίες και σύγχρονες δραματικές προσδοκίες.Οι ερμηνευτικές επιλογές του Ντέιβις δίνουν έμφαση στον αισθησιασμό και εστιάζουν στις επιθυμίες του Ντάρσυ".");
+insert_bullet_point("");
+set_font_size(20);set_line_space(2);
+insert_picture("web_image");
+insert_rectangle();align_top_right_corner();
+set_background_color("light orange");
+
+insert_table(3, 2);
+choose_table();choose_table_cell(0, 0);insert_text("Τοποθεσία");choose_table_cell(1, 0);insert_text("Εθνότητα")
+choose_content();insert_text("Η Ελίζαμπεθ Μπένετ και ο κύριος Ντάρσι υφίστανται σημαντική ανάπτυξη χαρακτήρων σε όλη τη διάρκεια του μυθιστορήματος, μαθαίνοντας σημαντικά μαθήματα για τον εαυτό τους και την κοινωνία".");
+insert_picture("Elizabeth_Bennet_and_Mr. Darcy");set_bottom("picture", "table");
+align_slide_right();
+insert_rectangle();align_top_left_corner();
+create_slide();choose_title();insert_text("Ο ρόλος της κοινωνικής τάξης στην υπερηφάνεια και την προκατάληψη");set_font_underline();
+choose_content();insert_text("Η κοινωνική τάξη παίζει σημαντικό ρόλο στο μυθιστόρημα, επηρεάζοντας τις σχέσεις, τις αποφάσεις και την αυτοαντίληψη των χαρακτήρων.");
+insert_circle();align_bottom_right_corner();set_fill_color("orange");
+set_background_color("orange");
+
+create_slide();choose_title();insert_text("Σχήματα");
+insert_rectangle();set_fill_color("red");align_slide_left();
+insert_circle();set_fill_color("blue");align_slide_right();
+insert_triangle();set_fill_color("green");align_slide_left();
+insert_callout();set_fill_color("yellow");align_slide_right();
+
+insert_picture("19th-century_marriage_scene");align_slide_right();
+insert_triangle();set_right("triangle", "picture");
+choose_title();insert_text("γάμος του 19ου αιώνα");
+set_font_italic();set_font_bold();
+
+insert_pie_chart([30, 25, 15, 10, 10, 10], ["Βανίλια", "Σοκολάτα", "Φράουλα", "Τσιπ σοκολάτας δυόσμου", "Μπισκότα και κρέμα", "βούτυρο πεκάν"]);
+insert_picture("strawberry");set_bottom("picture", "chart");
+choose_content();insert_text("Οι δαπάνες αυξήθηκαν σημαντικά το τελευταίο τρίμηνο λόγω του υψηλότερου λειτουργικού κόστους και της αύξησης των επενδύσεων σε πρωτοβουλίες μάρκετινγκ.");
+set_font_style("Times New Roman");set_font_size(18);
+
+create_slide();choose_title();insert_text("Παραγωγή PPT");insert_note("Παραγωγή PPT");
+choose_content();insert_text("Η δημιουργία ελκυστικών και εντυπωσιακών παρουσιάσεων PowerPoint απαιτεί προσεκτικό σχεδιασμό και εκτέλεση.");
+choose_content();set_font_underline();set_font_color("dark red");
+choose_title();set_font_bold();set_font_italic();
+insert_note("PPT");
+
+create_slide();choose_title();insert_text("Νευρωνικά Δίκτυα");
+choose_content();insert_bullet_point("Neural networks are a type of machine learning algorithm that are modeled after the structure of the human brain. They consist of layers of interconnected nodes that process information and learn to recognize patterns.");
+choose_title();set_font_color("red");
+insert_picture("neural_network_architecture");
+insert_cloud();set_right("cloud","picture");
+set_background_color("yellow");
+
+create_slide();insert_cloud();set_fill_color("red");align_slide_right();
+choose_content();insert_text("Provide Clear Takeaways");
+choose_title();set_font_color("orange");create_slide();choose_title();insert_text("Προεπεξεργασία δεδομένων");
+set_background_color("red");
+
+create_slide();choose_title();insert_text("Μεταφορά μάθησης");
+set_font_size(28);set_font_bold();choose_content();set_font_size(28);
+set_font_style("Times New Roman");set_font_color("red");
+set_background_color("red");
+choose_content();insert_text("Η ενισχυτική μάθηση είναι ένας τύπος μηχανικής μάθησης στην οποία ο αλγόριθμος μαθαίνει μέσω δοκιμής και λάθους. Χρησιμοποιείται συχνά για να διδάξει τις μηχανές πώς να λαμβάνουν αποφάσεις σε πολύπλοκα περιβάλλοντα.");
+
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("Όνομα μοντέλου");choose_table_cell(0, 1);insert_text("ChatGPT");choose_table_cell(1, 0);insert_text("Architecture");choose_table_cell(1, 1);insert_text("GPT (Generative Pre-trained Transformer)");choose_table_cell(2, 0);insert_text("Μέγεθος δεδομένων εκπαίδευσης");choose_table_cell(2, 1);insert_text("Πολλαπλά terabyte διαφορετικών δεδομένων κειμένου")
+choose_title();insert_text("GPT");set_font_bold();
+choose_content();insert_text("Το Generative Pre-trained Transformer 3 (GPT-3) είναι ένα μοντέλο γλώσσας αυτόματης παλινδρόμησης που κυκλοφόρησε το 2020 και χρησιμοποιεί βαθιά μάθηση για την παραγωγή κειμένου που μοιάζει με άνθρωπο.");
+set_font_underline();set_font_color("dark red");choose_title();set_font_color("dark red");
+insert_picture("gpt-3_architecture");set_right("picture","content");
+
+create_slide();choose_title();insert_text("Wuthering Height");set_font_italic();
+choose_content();insert_text("Η ιστορία αφηγείται ο Λόκγουντ, ένα αδιάφορο μέρος, του οποίου η αφήγηση χρησιμεύει ως πλαίσιο για μια σειρά αναδρομικών μικρότερων αφηγήσεων από την Έλεν Ντιν, μια οικονόμο.");set_font_bold();
+set_font_color("red");choose_title();set_font_color("red");
+insert_right_arrow();
+set_width(6);set_height(4);
+create_slide();insert_cloud();
+insert_picture("wuthering_height_bookcover");
+choose_content();insert_text("Wuthering Heights, μυθιστόρημα της Emily Brontë, που δημοσιεύτηκε το 1847 με το ψευδώνυμο Ellis Bell");
+set_font_style("Times New Roman");set_font_size(18);
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("Κατηγορία");choose_table_cell(0, 1);insert_text("Πληροφορίες")
+insert_note("Microsoft");
+
+create_slide();choose_title();insert_text("Pride and Prejudice by Jane Austen");
+choose_content();insert_text("Το μυθιστόρημα διερευνά θέματα αγάπης, γάμου και κοινωνικών προσδοκιών μεταξύ των Βρετανών ευγενών");set_font_bold();set_font_underline();
+insert_right_arrow();set_left("right_arrow", "content");
+set_fill_color("light orange");choose_content();set_font_color("dark green");
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("κατηγορία");choose_table_cell(0, 1);insert_text("πληροφορίες");choose_table_cell(1, 0);insert_text("η συγγραφέας");choose_table_cell(1, 1);insert_text("Jane Austen")
+insert_picture("jane_austen_portrait");
+set_height(6);align_top_right_corner();
+
+create_slide();choose_title();insert_text("Το ταξίδι της ζωής της Σίρσας");set_font_bold();
+set_font_size(24);
+insert_table(4, 3);choose_table_cell(0, 0);insert_text("Παιδική ηλικία");choose_table_cell(0, 1);insert_text("0-10 ετών");choose_table_cell(0, 2);insert_text("Σχολείο");choose_table_cell(1, 0);insert_text("Εφηβεία");choose_table_cell(1, 1);insert_text("11-18 ετών");choose_table_cell(1, 2);insert_text("Λύκειο")
+insert_picture("school");
+set_left("picture","table");
+
+create_slide();choose_title();insert_text("Exploring the Universe");set_font_underline();
+insert_picture("galaxy");
+choose_content();insert_bullet_point("Stars");insert_bullet_point("Planets");insert_bullet_point("Nebulae");insert_bullet_point("Black Holes");insert_bullet_point("Dark Matter");
+set_font_bold();set_font_italic();
+set_font_color("dark red");
+insert_pie_chart([35, 25, 40], ["Κτίριο διδασκαλίας", "Γήπεδο", "Παιδική χαρά"]);
+align_slide_top();
+insert_line_chart([20, 30, 40, 10], ["1ο έτος", "2ο έτος", "3ο έτος", "4ο έτος"]);
+insert_bar_chart([20, 30, 40, 10], ["1st year", "2nd year", "3rd year", "4th year"]);
+set_background_color("blue");
+
+create_slide();choose_title();insert_text("εισαγωγή");
+choose_content();insert_text("Σε αυτό το έγγραφο, διερευνούμε πώς η χρήση πολλαπλών και συμπληρωματικών μεθόδων για μεγαλύτερο χρονικό διάστημα φέρνει δυνατότητες και παγίδες, καθώς και πολυπλοκότητες και αβεβαιότητες".");
+set_font_color("red");
+set_font_size(20);
+set_background_color("light blue");choose_content();set_font_size(40);
+
+choose_content();insert_text("Η Nanyang είναι μια εθνική ιστορική και πολιτιστική πόλη, με βαθιά ιστορική κληρονομιά και πλούσια πολιτιστική συσσώρευση.");
+insert_bullet_point("");
+set_font_size(18);set_font_italic();set_font_style("Arial");
+choose_title();insert_text("My City- Nanjing");
+insert_picture("Nanjing");align_slide_right();
+create_slide();choose_title();insert_text("Κατάλογος");insert_note("Κατάλογος");
+set_font_italic();set_font_size(24);
+choose_content();insert_text("Ένας κατάλογος χρησιμεύει ως μια περιεκτική και οπτικά ελκυστική πηγή, που παρουσιάζει μια ποικιλία προϊόντων ή υπηρεσιών");
+set_font_color("green");set_background_color("dark blue");
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("Προϊόν");choose_table_cell(0, 1);insert_text("Τιμή");choose_table_cell(1, 0);insert_text("πουκάμισο");choose_table_cell(1, 1);insert_text("29,99 $");choose_table_cell(2, 0);insert_text("φόρεμα");choose_table_cell(2, 1);insert_text("59,99 $")
+insert_pie_chart([40, 30, 30], ["πουκάμισο", "φόρεμα", "παντελόνι"]);
+insert_line_chart([40, 30, 30], ["shirt", "dress", "pants"]);
+insert_bar_chart([40, 30, 30], ["shirt", "dress", "pants"]);
+
+choose_title();insert_text("Απολαύστε ευτυχισμένη ζωή");
+insert_star();set_top("star","title");
+set_font_style("Arial Black");
+choose_content();insert_text("Η απόλαυση μιας ευτυχισμένης ζωής περιλαμβάνει την εύρεση χαράς στις μικρές στιγμές, την καλλιέργεια ουσιαστικών σχέσεων, την επιδίωξη παθών, τη διατήρηση μιας υγιούς ισορροπίας μεταξύ επαγγελματικής και προσωπικής ζωής και εξάσκηση της αυτοφροντίδας.");set_line_space(2);
+insert_picture("happy_person");align_top_right_corner();
+set_height(4);set_width(5);align_bottom_left_corner();
+
+choose_table();insert_table(5, 1);choose_table_cell(0, 0);insert_text("Ολοκληρώθηκε ο Μαραθώνιος");choose_table_cell(1, 0);insert_text("Δημοσιεύτηκε το πρώτο βιβλίο");choose_table_cell(2, 0);insert_text("Προαγωγή σε Διευθυντή");choose_table_cell(3, 0);insert_text("Εθελοντές 100+ ώρες");choose_table_cell(4, 0);insert_text("Ξεκίνησε μια επιτυχημένη επιχείρηση");
+choose_title();insert_text("Το μεγάλο μου επίτευγμα το 2023");
+choose_content();insert_text("Το 2023, πέτυχα αξιοσημείωτα ορόσημα που ξεπέρασαν τις προσδοκίες μου. Από την ολοκλήρωση ενός μαραθωνίου έως την έκδοση του πρώτου μου βιβλίου και την επίτευξη μιας προώθησης, αυτές οι επιτυχίες τροφοδοτούν την ορμή μου για περαιτέρω ανάπτυξη και με εμπνέουν να φτάσω ακόμη και μεγαλύτερα ύψη");
+insert_picture("book");align_slide_top();
+insert_pie_chart([30, 25, 45], ["Μαραθώνιος", "Βιβλίο", "Εθελοντισμός"]);
+insert_rectangle();set_left("rectangle","chart");
+insert_note("2023");
+
+choose_title();insert_text("Ηθική Λογοτεχνική Κριτική");
+set_font_bold();set_font_color("blue");align_slide_bottom();
+insert_picture("mountain_landscape");align_slide_right();
+choose_content();insert_text("Η μέθοδος της ηθικής λογοτεχνικής κριτικής είναι μια νέα προσέγγιση που προτείνεται από τον καθηγητή Nie Zhenzhao από το Central China Normal University.");
+set_font_underline();set_font_style("Times New Roman");set_font_size(24);set_line_space(2);
+set_font_color("dark blue");
+insert_rectangle();align_slide_left();
+set_fill_color("green");insert_text("πράσινο");
+align_top_right_corner();
+insert_right_arrow();set_right("right_arrow","content");
+
+create_slide();choose_title();insert_text("Μέλη ομάδας");
+insert_picture("team_member");align_slide_bottom();
+set_width(6.5);
+insert_note("Μέλος της ομάδας");choose_title();set_font_bold();
+
+create_slide();choose_title();insert_text("Απόδοση πωλήσεων");
+set_font_color("blue");set_font_size(24);set_font_underline();set_background_color("green");
+choose_content();insert_text("Η απόδοση των πωλήσεων είναι ένας βασικός δείκτης της επιτυχίας μιας εταιρείας στη δημιουργία εσόδων. Αντικατοπτρίζει την αποτελεσματικότητα της ομάδας πωλήσεων και τη συνολική ζήτηση της αγοράς για τα προϊόντα ή τις υπηρεσίες.");
+set_font_color("dark red");set_font_size(18);
+insert_table(3, 5);choose_table_cell(1, 1);insert_text("Ετος");choose_table_cell(1, 2);insert_text("Τέταρτο");choose_table_cell(1, 3);insert_text("Εσοδα");choose_table_cell(2, 1);insert_text("2018");choose_table_cell(2, 2);insert_text("Q1");choose_table_cell(2, 3);insert_text("500.000 $");
+set_font_size(18);
+
+create_slide();choose_title();insert_text("Αναφορά πωλήσεων");
+insert_line_chart(["Product A","Product B","Product C"], ["Προϊόν Α", "Προϊόν Β", "Προϊόν Γ"]);
+set_chart_title("Revenue Trend");
+insert_picture("T-shirt");insert_textbox();insert_text("Κοντομάνικη μπλούζα");
+insert_star();set_right("star","picture");
+create_slide();choose_title();insert_text("Οργανωτική δομή");
+insert_table(4,2);choose_table_cell(0,0);insert_text("Διευθύνων Σύμβουλος");choose_table_cell(0,1);insert_text("Τζον Σμιθ");choose_table_cell(1,0);insert_text("CFO");choose_table_cell(1,1);insert_text("Jane Doe");choose_table_cell(2,0);insert_text("ΕΡΩΤΟΛΟΓΩ");choose_table_cell(2,1);insert_text("Τομ Τζόουνς");choose_table_cell(3,0);insert_text("CMO");choose_table_cell(3,1);insert_text("Σάρα Λι");
+choose_title();set_font_underline();move_to_previous_slide();choose_title();set_font_underline();
+set_font_size(20);set_font_color("purple");
+insert_note("Οργανωτική δομή");
+set_background_color("green");
+
+create_slide();choose_title();insert_text("Εισαγωγή");
+choose_content();insert_text("Σας ευχαριστούμε που ήρθατε σήμερα μαζί μας. Είμαστε ενθουσιασμένοι.");
+insert_text("έχετε εδώ και ανυπομονώ να μοιραστώ μαζί σας μερικά συναρπαστικά νέα.");
+set_font_style("Times New Roman");set_font_size(20);
+insert_picture("landscape");set_height(3);set_width(5);
+insert_triangle();insert_rectangle();set_right("rectangle","triangle");
+set_background_color("purple");insert_note("2023");
+
+choose_title();insert_text("Εκκίνηση προϊόντος");set_font_bold();set_font_color("red");
+insert_picture("computer");
+set_height(2);set_width(2);
+choose_content();insert_text("Το νέο μας προϊόν είναι μια υπερσύγχρονη κινητή συσκευή που συνδυάζει την τελευταία λέξη της τεχνολογίας με έναν κομψό και φιλικό προς τον χρήστη σχεδιασμό.");
+set_font_bold();set_font_color("red");
+create_slide();choose_title();insert_text("Δυνατότητες προϊόντος");
+insert_table(2, 5);choose_table_cell(0, 0);insert_text("Χαρακτηριστικό");choose_table_cell(0, 1);insert_text("Περιγραφή");
+insert_bar_chart([0.25,0.50,0.25], ["Προϊόν Α", "Προϊόν Β", "Προϊόν Γ"]);
+set_chart_title("Feature Importance");
+set_background_color("light blue");insert_note("Σημασία χαρακτηριστικών");
+
+create_slide();choose_title();insert_text("Τριμηνιαία Οικονομικά Αποτελέσματα");
+set_font_style("Arial");
+choose_content();insert_text("Η εταιρεία μας πέτυχε έσοδα 1,5 εκατομμυρίων $ και κέρδος 500.000 $ αυτό το τρίμηνο.");
+set_font_bold();set_font_underline();
+insert_table(4, 5);
+choose_table();choose_table_cell(0, 0);insert_text("Μήνας");choose_table_cell(0, 1);insert_text("Έσοδα");choose_table_cell(0, 2);insert_text("Έξοδα");choose_table_cell(0, 3);insert_text("Κέρδη")
+insert_bar_chart([50, 60, 55, 70], ["Q1 2022", "Q2 2022", "Q3 2022", "Q4 2022"]);
+set_chart_title("Quarterly Financial Results in 2022");
+set_background_color("red");
+create_slide();choose_title();insert_text("Οικονομική Ανάλυση");
+insert_picture("company_logo");
+choose_content();insert_text("Ευχαριστώ για την προσοχή σας!");set_font_underline();set_font_italic();set_font_size(26);
+
+create_slide();choose_title();insert_text("Δεδομένα πωλήσεων");
+insert_bar_chart([500000, 400000, 600000, 450000], series=["Περιοχή A", "Περιοχή Β", "Περιοχή C", "Περιοχή D"]);
+set_chart_title("Regional Sales");
+choose_title();set_font_underline();insert_note("Πηγή δεδομένων: Αναφορά πωλήσεων 2023");
+
+create_slide();choose_title();insert_text("Έρευνα πελατών");
+insert_pie_chart([0.4, 0.3, 0.2, 0.05, 0.05], ["Πολύ ικανοποιημένος", "Ικανοποιημένος", "Ουδέτερο", "Δυσαρεστημένος", "Πολύ δυσαρεστημένος"]);
+align_slide_bottom();
+insert_picture("questionnaire");align_slide_top();
+insert_note("2023/5");
+
+choose_title();insert_text("The Charm of Linguistics");set_background_color("light blue");
+choose_title();set_font_style("Arial");set_font_color("red");set_font_size(36);
+insert_text("Η γλωσσολογία είναι η επιστημονική μελέτη της γλώσσας και της δομής της. Εξερευνά τις περιπλοκές της ανθρώπινης επικοινωνίας, από τη φωνητική και τη σύνταξη έως τη σημασιολογία και την πραγματιστική.");
+set_font_style("Verdana");set_font_color("yellow");set_font_size(18);set_line_space(2);
+create_slide();choose_title();insert_text("Κλάδοι Γλωσσολογίας");
+insert_table(3, 4);
+choose_table_cell(0, 0);insert_text("Κλάδοι Γλωσσολογίας");choose_table_cell(0, 1);insert_text("Περιγραφή");choose_table_cell(0, 2);insert_text("Παραδείγματα");choose_table_cell(1, 0);insert_text("Φωνητική");choose_table_cell(1, 1);insert_text("Η μελέτη των ήχων ομιλίας");choose_table_cell(1, 2);insert_text("Αρθρωτική φωνητική, Ακουστική φωνητική, Ακουστική φωνητική")
+insert_picture("book_about_linguistics");align_slide_bottom();
+set_height(6);set_width(5);
+move_to_slide(0);set_background_color("purple");move_to_slide(1);set_background_color("purple");
+
+set_background_color("light green");choose_title();insert_text("Γλωσσικές οικογένειες");
+set_font_bold();set_font_italic();
+insert_bar_chart([445, 1526,1290, 452], ["Ινδοευρωπαϊκά", "Νίγηρα-Κονγκό", "Αυστρονησιακά", "Σινο-Θιβετιανά"]);
+set_chart_title("Language familiy and its number of languages");
+create_slide();choose_title();insert_text("Απόκτηση γλώσσας");set_font_bold();set_font_italic();
+choose_content();insert_text(" ");
+set_font_style("Times New Roman");set_font_color("red");set_font_size(22);
+set_font_underline();set_font_bold();choose_title();set_font_color("red");
+insert_picture("English book");
+insert_rectangle();align_slide_right();
+choose_picture();align_slide_top();
+
+create_slide();choose_title();insert_text("Συμπέρασμα");
+choose_title();set_font_style("bold");set_font_style("underline");set_font_color("red");
+choose_content();insert_text(" ");
+set_font_style("Verdana");set_font_color("yellow");
+create_slide();set_background_color("purple");create_slide();set_background_color("purple");create_slide();set_background_color("purple");create_slide();set_background_color("purple");
+move_to_slide(1);choose_title();insert_text("Επισκόπηση των πολιτικών ακινήτων στην Κίνα");insert_picture("China_map");
+move_to_slide(2);choose_title();insert_text("Πρόσφατες αλλαγές");set_font_style("italic");set_font_style("Verdana");
+choose_content();insert_text("Οι πρόσφατες αλλαγές στην Κίνα έχουν δει ταχεία οικονομική ανάπτυξη, τεχνολογικές προόδους και κοινωνικούς μετασχηματισμούς, τοποθετώντας τη χώρα ως παγκόσμια δύναμη και επηρεάζοντας την παγκόσμια δυναμική σε διάφορους τομείς.");
+move_to_slide(3);choose_title();insert_text("Προσπάθειες για τον έλεγχο των τιμών των κατοικιών");insert_triangle();
+align_top_right_corner();
+move_to_slide(4);choose_title();insert_text("Initiatives to Increase Affordable Housing");set_font_color("red");
+choose_content();insert_text("Έχουν εφαρμοστεί πρωτοβουλίες για την αύξηση της οικονομικής στέγης, συμπεριλαμβανομένων κρατικών επιδοτήσεων, βελτιωμένων διαδικασιών έγκρισης και συμπράξεων δημόσιου-ιδιωτικού τομέα, με στόχο την αντιμετώπιση της κρίσης της οικονομικής προσιτότητας στέγασης και τη διασφάλιση της πρόσβασης σε αξιοπρεπή στέγαση για όλους.");set_font_underline();set_font_italic();
+choose_chart();insert_pie_chart([0.35, 0.25, 0.20, 0.10, 0.10], ["Κρατικές επιχορηγήσεις", "Βελτιωμένες Διαδικασίες Έγκρισης", "Συμπράξεις Δημόσιου και Ιδιωτικού Τομέα", "Πολιτικές Χρήσης Γης", "Προγράμματα Βοήθειας Ενοικίασης"]);
+create_slide();choose_title();insert_text("Κανονισμός Υπεύθυνων Ανάπτυξης Ακινήτων.");insert_note("Κανονισμός Υπεύθυνων Ανάπτυξης Ακινήτων.");
+choose_content();insert_text("Σε αυτήν τη διαφάνεια, συνοψίστε τα βασικά μέτρα της Κίνας για τη ρύθμιση των κατασκευαστών ακινήτων και τις ενέργειες της κυβέρνησης για την πρόληψη της απάτης και την προώθηση πρακτικών βιώσιμης ανάπτυξης.");
+choose_title();set_font_italic();choose_content();set_font_bold();
+move_to_slide(0);insert_note("Πληροφορίες για την Κίνα");move_to_slide(1);insert_note("Πληροφορίες για την Κίνα");move_to_slide(2);insert_note("Πληροφορίες για την Κίνα");move_to_slide(3);insert_note("Πληροφορίες για την Κίνα");move_to_slide(4);insert_note("Πληροφορίες για την Κίνα");move_to_slide(5);insert_note("Πληροφορίες για την Κίνα");
+
+move_to_slide(8);choose_title();insert_text("Προσωπική Ανάπτυξη Εξοπλισμού Ιατρικής Απεικόνισης");choose_title();set_font_size(24);
+insert_line_chart([0.15, 0.12, 0.18, 0.20], ["Q1", "Q2", "Q3", "Q4"]);
+choose_chart();set_chart_title("Revenue Growth");
+insert_table(5, 2);choose_table_cell(0, 0);insert_text("Δυνατότητα 1");choose_table_cell(0, 1);insert_text("Απεικόνιση υψηλής ανάλυσης");
+set_background_color("light blue");
+insert_triangle();
+choose_content();insert_text("Η ανάπτυξη στα σύνορα του ιατρικού εξοπλισμού απεικόνισης φέρνει επανάσταση στην υγειονομική περίθαλψη με απεικόνιση υψηλής ανάλυσης, προηγμένους αλγόριθμους τεχνητής νοημοσύνης, αναλύσεις δεδομένων σε πραγματικό χρόνο, βελτιωμένη άνεση ασθενών, ενσωμάτωση πολλαπλών τρόπων και βελτιωμένη ροή εργασίας, ενδυναμώνοντας τους επαγγελματίες του ιατρικού τομέα με πρωτοφανείς διαγνωστικές δυνατότητες.");
+set_font_bold();set_line_space(2);set_font_underline();set_font_italic();
+insert_note("Mediacal Equipment");
+
+set_background_color("blue");insert_rectangle();
+create_slide();choose_title();insert_text("Methods and Approaches in Anthropology");set_font_size(20);
+choose_content();insert_text("Η ανθρωπολογία είναι μια κοινωνική επιστήμη που μελετά την ανθρώπινη συμπεριφορά, τον πολιτισμό και τις κοινωνίες χρησιμοποιώντας μια ποικιλία μεθόδων έρευνας.");set_line_space(2);
+insert_circle();align_slide_right();
+set_width(4);
+
+create_slide();choose_title();insert_text("Η σημασία της σωστής ενυδάτωσης");
+set_font_style("underline");set_font_style("italic");
+set_font_size(24);set_font_style("Arial");
+insert_picture("person_drinking_water");align_slide_right();
+set_width(6.5);insert_textbox();insert_text("Πίνουν νερό");set_bottom("textbox", "picture");
+set_background_color("purple");create_slide();set_background_color("purple");
+insert_picture("folder");set_width(6.5);set_height(5.5);
+choose_title();insert_text("Τα οφέλη από τη χρήση του SmartArt");set_font_color("red");set_font_size(40);
+set_font_style("Arial");set_font_style("italic");
+
+choose_title();insert_text("Δημιουργία της επωνυμίας σας");set_background_color("light green");
+choose_content();insert_text("Η δημιουργία μιας επωνυμίας είναι ένα κρίσιμο στοιχείο κάθε επιτυχημένης επιχείρησης. Ορίστε το στυλ γραμματοσειράς σε ");set_font_style("Arial");set_font_size(14);
+insert_rectangle();align_slide_right();
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("Ταυτότητα επωνυμίας");choose_table_cell(0, 1);insert_text("Μηνύματα επωνυμίας");choose_table_cell(0, 2);insert_text("Φωνή επωνυμίας");choose_table_cell(0, 3);insert_text("Στρατηγική επωνυμίας")
+choose_table();copy_table()
+choose_content();set_font_size(14);set_font_style("Times New Roman");
+
+create_slide();choose_title();insert_text("The Fundamentals of Effective Communication");set_font_style("Times New Roman");
+choose_content();insert_text("Βασικά σημεία");insert_text("Περιγραφή");
+set_font_size(24);set_font_underline();set_font_bold();
+set_background_color("light orange");
+
+set_background_color("light blue");
+choose_title();insert_text("Συνάντηση Tencent");choose_content();insert_text("Συνάντηση Tencent");
+set_font_underline();set_font_color("dark red");
+choose_content();delete_text();insert_text("Το Tencent Meeting είναι μια ισχυρή πλατφόρμα τηλεδιάσκεψης που επιτρέπει την απρόσκοπτη συνεργασία και επικοινωνία μεταξύ ομάδων και ατόμων. Προσφέρει μια σειρά λειτουργιών για αποτελεσματικές εικονικές συσκέψεις, όπως κοινή χρήση οθόνης, συνομιλία και εγγραφή.");
+set_font_bold();set_font_italic();choose_title();set_font_bold();set_font_italic();
+insert_picture("tencent_meeting");
+
+insert_table(2, 3);
+choose_table_cell(0, 0);insert_text("Δυνατότητες");choose_table_cell(0, 1);insert_text("Περιγραφή");choose_table_cell(0, 2);insert_text("Πλεονεκτήματα")
+insert_note("APP");set_background_color("purple");
+
+set_background_color("blue");choose_title();insert_text("Αξιολόγηση ποιότητας");
+choose_content();insert_text("Η αξιολόγηση ποιότητας είναι μια κρίσιμη διαδικασία για την αξιολόγηση της απόδοσης και των προτύπων προϊόντων ή υπηρεσιών. Περιλαμβάνει ενδελεχή ανάλυση, μέτρηση και σύγκριση για να διασφαλιστεί η τήρηση των ποιοτικών σημείων αναφοράς και η συνεχής βελτίωση.");
+insert_picture("checklist");
+set_left("picture","content");
+insert_pie_chart([0.40, 0.15, 0.25, 0.20], ["Εξαιρετικό", "Καλό", "Δίκαιο", "Κακή"]);
+set_chart_title("Quality Ratings Distribution");
+align_slide_bottom();
+create_slide();insert_pie_chart([0.40, 0.15, 0.25, 0.20], ["Excellent", "Good", "Fair", "Poor"]);set_chart_title("Quality Ratings Distribution");align_slide_bottom();
+
+create_slide();choose_title();insert_text("Οδηγός για την ολοκλήρωση ενός έργου");
+insert_right_arrow();align_top_right_corner();
+rotate_element(90);
+move_to_slide(0);choose_title();insert_text("Εισαγωγή");set_font_bold();move_to_slide(1);choose_title();set_font_bold();
+move_to_slide(0);insert_note("2022/6/10");
+set_background_color("light blue");insert_cloud();
+
+set_background_color("yellow");
+choose_content();insert_text("Το Trados Studio είναι ένα ισχυρό εργαλείο μετάφρασης με τη βοήθεια υπολογιστή (CAT) που αναπτύχθηκε από την SDL. Προσφέρει μια σειρά από χαρακτηριστικά και λειτουργίες που βελτιστοποιούν τη διαδικασία μετάφρασης, συμπεριλαμβανομένης της μεταφραστικής μνήμης, της διαχείρισης ορολογίας και εργαλεία διαχείρισης έργου.");set_line_space(2);
+insert_note("Δημιουργήθηκε από την Εύα");choose_title();insert_text("Trados Studio");
+set_font_color("dark green");set_font_size(30);
+insert_picture("Trados_Studio_logo");align_slide_right();
+set_width(4);set_height(3);
+choose_picture();rotate_element(-15);
+set_background_color("purple");
+
+insert_table(2, 3);
+choose_table();choose_table_cell(0, 0);insert_text("Έτος");choose_table_cell(0, 1);insert_text("Περιγραφή");choose_table_cell(0, 2);insert_text("Αλλαγές")
+choose_title();insert_text("Μεγάλες αλλαγές την τελευταία δεκαετία");
+set_font_bold();set_font_italic();
+set_background_color("light blue");
+
+choose_title();insert_text("Shoud You Consider Study Abroad;");");set_font_bold();set_font_underline();
+insert_picture("students_studying_abroad");align_slide_bottom();
+set_width(5);set_height(3);
+set_background_color("purple");insert_note("Θα πρέπει να σκεφτείς να σπουδάσεις στο εξωτερικό;");
+
+insert_bar_chart([0.45,0.35,0.20], series=["Μεταφραστές πλήρους απασχόλησης", "Ελεύθεροι επαγγελματίες", "Μεταφραστικά γραφεία"]);
+set_chart_title("Trados Studio Usage Statistics");
+create_slide();choose_title();insert_text("ABBYY FineReader");
+set_font_bold();set_font_underline();set_font_size(30);
+choose_content();insert_text("Το ABBYY FineReader είναι ένα λογισμικό οπτικής αναγνώρισης χαρακτήρων (OCR) που επιτρέπει στους χρήστες να μετατρέπουν σαρωμένα έγγραφα, αρχεία PDF και εικόνες σε μορφές επεξεργάσιμες και με δυνατότητα αναζήτησης. Με προηγμένες δυνατότητες αναγνώρισης κειμένου και μετατροπής εγγράφων, απλοποιεί την επεξεργασία των εγγράφων και ενισχύει την παραγωγικότητα");
+set_line_space(2);set_font_italic();
+insert_picture("ABBYY_FineReader_logo");insert_textbox();insert_text("ABBYY FineReader");
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("Δυνατότητα");choose_table_cell(0, 1);insert_text("Περιγραφή");choose_table_cell(0, 2);insert_text("Πλεονεκτήματα")
+choose_picture();set_right("picture","table");
+insert_pie_chart([0.45,0.45,0.05], ["High Accuracy", "Medium Accuracy", "Low Accuracy"]);
+set_chart_title("Document Conversion Accuracy");
+insert_note("Σελίδα 2");
+
+create_slide();choose_title();insert_text("Καμπάνια μάρκετινγκ");
+set_font_bold();set_font_underline();set_font_size(26);
+choose_content();insert_text("Η καμπάνια μάρκετινγκ στοχεύει στην αύξηση της αναγνωρισιμότητας της επωνυμίας, στην αλληλεπίδραση με το κοινό-στόχο μας και στην αύξηση των πωλήσεων. Με έναν στρατηγικό συνδυασμό καναλιών μάρκετινγκ στο διαδίκτυο και εκτός σύνδεσης, επικεντρωνόμαστε στην παροχή αποτελεσματικών μηνυμάτων και μετρήσιμων αποτελεσμάτων .");
+align_slide_left();
+insert_picture("promotional_banner");insert_textbox();insert_text("promotional_banner");
+set_width(5);set_height(5);
+set_background_color("green");
+
+choose_title();insert_text("Sustainable Energy");set_font_color("red");
+insert_picture("wind_turbine");set_width(6);
+insert_table(4, 3);choose_table_cell(0,0);insert_text("άνεμος");choose_table_cell(1,0);insert_text("ηλιακός");choose_table_cell(2,0);insert_text("υδρο");choose_table_cell(3,0);insert_text("γεωθερμία");choose_table_cell(0,1);insert_text("χαμηλό κόστος");choose_table_cell(1,1);insert_text("χαμηλή περιβαλλοντική επίπτωση");choose_table_cell(2,1);insert_text("μεγάλη διαθεσιμότητα");choose_table_cell(0,2);insert_text("υψηλή αρχική επένδυση");choose_table_cell(1,2);insert_text("διακοπτόμενη διαθεσιμότητα");choose_table_cell(2,2);insert_text("συγκρούσεις χρήσης γης");
+set_top("picture", "table");
+create_slide();choose_title();insert_text("Διαδικτυακές αγορές");set_font_color("red");
+choose_content();insert_text("Διαδικτυακές αγορές είναι η διαδικασία αγοράς αγαθών και υπηρεσιών από εμπόρους μέσω Διαδικτύου. Έχει γίνει ολοένα και πιο δημοφιλής λόγω της ευκολίας και της προσβασιμότητας.");
+choose_title();set_font_color("blue");set_font_bold();set_line_space(2);
+create_slide();insert_picture("TV_series");set_width(6);
+set_background_color("blue");insert_note("About TV Series");
+
+choose_title();insert_text("Υγιεινές Διατροφικές Συνήθειες");set_background_color("dark blue");
+choose_content();insert_text("Πατήστε την αναπαραγωγή για να ξεκινήσει το βίντεο");set_font_style("Verdana");
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("Ομάδα τροφίμων");choose_table_cell(0, 1);insert_text("Προτεινόμενες μερίδες")
+align_slide_bottom();
+insert_picture("laptop");
+insert_rectangle();set_height(2);
+rotate_element(-45);
+
+choose_content();insert_text("Συμπερασματικά, οι τηλεοπτικές υπηρεσίες έχουν φέρει επανάσταση στον τρόπο που καταναλώνουμε την ψυχαγωγία, παρέχοντας ένα ευρύ φάσμα επιλογών περιεχομένου και ευκολία.");
+set_font_style("Futura");
+choose_title();insert_text("Συμπέρασμα");set_font_bold();
+insert_picture("colorful_plate");
+align_slide_bottom();
+set_background_color("green");
+
+create_slide();set_background_color("purple");
+choose_title();insert_text("Μειονεκτήματα");
+set_font_bold();set_font_size(24);set_font_style("Arial");
+insert_note("2023/3/9");
+insert_pie_chart([0.30, 0.25, 0.15, 0.5, 0.25], ["Φρούτα", "Λαχανικά", "Σιτηρά", "Πρωτεΐνες", "Γαλακτοκομικά"]);
+align_slide_bottom();
+insert_textbox();insert_text("Το μειονέκτημα του να τρως πολύ φαγητό είναι ότι θα σε παχύνει".");set_bottom("textbox", "chart");
+choose_chart();set_chart_title("Daily Food Group Servings");
+
+insert_right_arrow();set_width(3.5);
+rotate_element(-90);
+align_slide_right();
+
+choose_title();insert_text("Technology Trends");set_font_underline();
+set_font_color("green");set_font_size(26);
+choose_content();insert_text("Η παρακολούθηση των τελευταίων τεχνολογικών τάσεων είναι απαραίτητη στο σημερινό ταχέως εξελισσόμενο ψηφιακό τοπίο. Από την τεχνητή νοημοσύνη και το blockchain έως το cloud computing και το Internet of Things, αυτές οι τάσεις διαμορφώνουν τις βιομηχανίες και φέρνουν επανάσταση στον τρόπο που κάνουμε ζήστε, εργαστείτε και συνδεθείτε με τον κόσμο");
+set_background_color("green");
+insert_picture("interconnected_networks");
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("Technology Trend");choose_table_cell(0, 1);insert_text("Description");choose_table_cell(0, 2);insert_text("Impact")
+insert_line_chart([15,10,7,6,24], ["Κινητές συσκευές", "Χρήστες Διαδικτύου", "Εφαρμογές AI", "Υπηρεσίες Cloud", "Έξυπνες οικιακές συσκευές"]);
+set_chart_title("Technology Values");
+insert_pie_chart([15,10,7,6,24], ["Mobile Devices", "Internet Users", "AI Applications", "Cloud Services", "Smart Home Devices"]);set_chart_title("Technology Values");
+
+set_background_color("green");
+choose_title();insert_text("Sustainable Living");set_font_italic();
+insert_picture("solar_panel");align_slide_left();
+choose_content();insert_text("Η αειφόρος διαβίωση προωθεί την υπεύθυνη κατανάλωση, τις ανανεώσιμες πηγές ενέργειας και πρακτικές φιλικές προς το περιβάλλον για την προστασία του περιβάλλοντος και τη διασφάλιση ενός καλύτερου μέλλοντος για τις επόμενες γενιές. Κάνοντας συνειδητές επιλογές στην καθημερινή μας ζωή, μπορούμε να μειώσουμε το αποτύπωμά μας άνθρακα και να δημιουργήσουμε έναν πιο βιώσιμο κόσμο");
+set_font_color("dark orange");
+insert_line_chart([1.6, 2.4, 4.8, 11], ["2013", "2014", "2015", "2016"]);
+set_chart_title("Renewable Energy Consumption Trend");
+set_bottom("chart","title");
+insert_cloud();rotate_element(-30);
+
+insert_table(3, 4);
+choose_table_cell(0,0);insert_text("Ισορροπημένη διατροφή");choose_table_cell(1,0);insert_text("Έλεγχος μερίδων");choose_table_cell(2,0);insert_text("Ενυδάτωση");
+insert_picture("green_city");
+align_slide_top();
+choose_table();align_slide_bottom();
+
+choose_title();insert_text("Διαχείριση Έργου");
+insert_picture("team");
+choose_title();set_font_underline();set_font_italic();
+choose_picture();align_top_left_corner();
+
+create_slide();choose_title();insert_text("Αναφορά προόδου έργου");
+insert_table(5, 3);choose_table_cell(0, 0);insert_text("Ονόματα Εργασιών");choose_table_cell(0, 1);insert_text("Προθεσμίες");choose_table_cell(0, 2);insert_text("Κατάσταση Προόδου")
+set_background_color("purple");choose_title();set_font_color("green");
+
+choose_title();insert_text("Πανεπιστήμιο και Επαγγελματική Σχολή");
+set_font_size(36);set_font_underline();
+choose_content();insert_text("Τα πανεπιστήμια και τα επαγγελματικά σχολεία παρέχουν τριτοβάθμια εκπαίδευση και εξειδικευμένη κατάρτιση για να εξοπλίσουν τους μαθητές με τις γνώσεις και τις δεξιότητες που απαιτούνται για επιτυχημένη σταδιοδρομία. Αυτά τα ιδρύματα προσφέρουν ένα ευρύ φάσμα ακαδημαϊκών προγραμμάτων, ερευνητικών ευκαιριών και επαγγελματικής εξέλιξης ενθαρρύνει την προσωπική ανάπτυξη και την επαγγελματική ανέλιξη");
+set_line_space(2);
+set_background_color("purple");
+
+insert_picture("professional_school");
+align_slide_right();
+insert_triangle();align_slide_left();
+set_width(10);set_height(15);
+set_bottom("picture","triangle");
+
+create_slide();set_background_color("blue");
+choose_title();insert_text("NFC");set_font_bold();
+choose_content();insert_text("Το NFC (Near Field Communication) επιτρέπει την απρόσκοπτη ασύρματη επικοινωνία μεταξύ συσκευών σε κοντινή απόσταση.");
+set_font_color("dark green");set_font_size(20);
+insert_picture("nfc_logo");
+set_background_color("purple");
+choose_picture();set_right("picture","slide");
+
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("Προϊόν");choose_table_cell(0, 1);insert_text("Έσοδα");choose_table_cell(0, 2);insert_text("Πωλήσεις μονάδων");choose_table_cell(0, 3);insert_text("Περιθώριο κέρδους")
+set_background_color("light blue");
+
+insert_line_chart([500000, 1300000, 2500000, 4000000], ["2018", "2019", "2020", "2021"]);
+set_chart_title("NFC Device Growth");
+insert_table(2, 3);choose_table();insert_table_row(["Contactless", "Ενεργοποιεί συναλλαγές με βάση την αφή", "Βολικές και ταχύτερες πληρωμές"])
+insert_star();set_width(6.5);set_height(6.5);
+align_slide_top();
+align_slide_right();
+
+choose_title();insert_text("Embracing Disruption");set_font_bold();
+set_font_size(20);set_font_style("Times New Roman");
+insert_picture("futuristic_cityscape");
+align_slide_bottom();
+insert_note("Δημιουργήθηκε από [Το όνομά σας].");set_background_color("purple");
+set_background_color("light blue");
+
+choose_title();insert_text("Power Bank");align_top_left_corner();
+set_font_size(24);set_font_italic();
+choose_content();insert_text("Ένα power bank είναι μια φορητή συσκευή που παρέχει εν κινήσει φόρτιση για smartphone, tablet και άλλες ηλεκτρονικές συσκευές.");
+set_font_underline();set_line_space(2);set_font_size(24);set_font_color("orange");
+insert_picture("yoobao_power_bank");align_slide_bottom();
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("Μάρκα");choose_table_cell(0, 1);insert_text("Χωρητικότητα (mAh)");choose_table_cell(0, 2);insert_text("Θύρες εξόδου");choose_table_cell(0, 3);insert_text("Τιμή ($)")
+insert_pie_chart([0.40, 0.30, 0.20, 0.10], ["Μάρκα Α", "Μάρκα B", "Μάρκα C", "Άλλα"]);
+set_chart_title("Power Bank Market Share");
+insert_note("2023");
+insert_callout();align_slide_right();
+
+choose_title();insert_text("NBA");set_font_color("red");
+choose_content();insert_text("Η Εθνική Ομοσπονδία Καλαθοσφαίρισης (NBA) είναι ένα επαγγελματικό πρωτάθλημα μπάσκετ που αποτελείται από 30 ομάδες από τη Βόρεια Αμερική.");
+set_font_size(20);
+align_bottom_left_corner();
+
+insert_picture("basketball_court");
+align_slide_top();
+insert_textbox();insert_text("γήπεδο του μπάσκετ");set_background_color("blue");
+insert_table(4,3);
+choose_table();insert_table_row(["Ομάδα", "Σίτι", "Πρωταθλήματα"]);insert_table_row(["Λος Άντζελες", "Λέικερς", "17"]);insert_table_row(["Βοστώνη", "Σέλτικς", "17"]);insert_table_row(["Σικάγο", "Μπουλς", "6"])
+insert_bar_chart([17, 17, 6], ["Lakers", "Celtics", "Bulls"]);
+set_chart_title("NBA Championships Distribution");
+create_slide();choose_title();insert_text("Εισαγωγή στην Αυτόνομη Οδήγηση");set_font_underline();
+insert_picture("futuristic_self-driving_car");set_height(7);
+choose_content();insert_text("Η αυτόνομη οδήγηση, γνωστή και ως τεχνολογία αυτοοδήγησης ή χωρίς οδηγό, αναφέρεται σε οχήματα ικανά να πλοηγούνται και να λειτουργούν χωρίς ανθρώπινη συνδρομή.");
+align_bottom_left_corner();
+insert_right_arrow();set_left("right_arrow", "content");
+set_right("right_arrow", "content");
+
+choose_content();insert_text("Η αυτόνομη οδήγηση φέρνει επανάσταση στον κλάδο των μεταφορών, προσφέροντας βελτιωμένη ασφάλεια, άνεση και αποτελεσματικότητα.");
+set_font_size(18);set_font_bold();set_font_italic();
+set_font_underline();set_line_space(2);
+insert_table(2, 5);choose_table();choose_table_cell(0, 0);insert_text("Τύποι αισθητήρων");choose_table_cell(0, 1);insert_text("Lidar");choose_table_cell(0, 2);insert_text("Ραντάρ");choose_table_cell(0, 3);insert_text("Κάμερες");choose_table_cell(0, 4);insert_text("Σύνολο")
+choose_content();set_font_style("Times New Roman");
+insert_pie_chart([0.40, 0.30, 0.30], ["Lidar", "Radar", "Cameras"]);
+set_chart_title("Sensor Types in Autonomous Driving");
+insert_note("Τύποι αισθητήρων στην αυτόνομη οδήγηση");
+
+choose_title();insert_text("Αυτόνομη οδήγηση");
+insert_picture("company_logo");align_bottom_left_corner();
+set_width(6.5);set_height(6);
+create_slide();choose_title();insert_text("Autonomous Driving Adoption by Region");
+set_font_style("Calibri");set_font_size(32);
+choose_content();insert_text("Οι τεχνολογίες αυτόνομης οδήγησης μεταμορφώνουν το τοπίο των μεταφορών, φέρνουν επανάσταση στις βιομηχανίες και ενισχύουν την ασφάλεια και την αποτελεσματικότητα");
+set_font_color("dark orange");
+
+create_slide();choose_title();insert_text("Η δύναμη της φύτευσης".");set_font_style("Calibri");set_font_size(36);
+set_background_color("green");
+choose_content();insert_text("Η φύτευση όχι μόνο ομορφαίνει το περιβάλλον μας, αλλά προάγει επίσης την περιβαλλοντική βιωσιμότητα και παρέχει πολλά οφέλη για την υγεία.");
+set_font_color("green");choose_title();set_font_color("green");
+insert_picture("lush_garden");
+insert_pie_chart([0.40, 0.30, 0.30], ["Περιβάλλον", "Υγεία", "Κοινότητα"]);
+set_chart_title("Planting Benefits");
+set_bottom("chart", "picture");
+insert_right_arrow();rotate_element(60);
+set_height(2);set_width(4);insert_note("Σελίδα 2");
+
+insert_table(3, 4);
+choose_table();choose_table_cell(0, 0);insert_text("Οφέλη φύτευσης");choose_table_cell(0, 1);insert_text("Περιβαλλοντικό");choose_table_cell(0, 2);insert_text("Υγεία");choose_table_cell(0, 3);insert_text("Κοινότητα")
+set_background_color("green");
+choose_title();insert_text("Άλλες πληροφορίες");
+set_font_color("dark orange");set_font_underline();
+choose_title();align_top_left_corner();
+
+insert_picture("GoogleLogo");insert_textbox();insert_text("Google");
+choose_content();insert_text("Το Google και το Microsoft Edge είναι δύο δημοφιλή προγράμματα περιήγησης που προσφέρουν μοναδικές δυνατότητες και λειτουργίες. Ενώ το Google Chrome κυριαρχεί στην αγορά με την ταχύτητα και το εκτεταμένο οικοσύστημά του, ο Microsoft Edge στοχεύει να προσφέρει μια απρόσκοπτη και αυστηρή εμπειρία περιήγησης ενσωμάτωση με λειτουργικά συστήματα Windows.");
+set_font_size(16);
+choose_title();insert_text("Google vs Microsoft Edge");set_font_color("red");
+choose_picture();align_bottom_left_corner();
+insert_table(3, 3);choose_table_cell(0, 0);insert_text("Χαρακτηριστικά");choose_table_cell(0, 1);insert_text("Google Chrome");choose_table_cell(0, 2);insert_text("Microsoft Edge");choose_table_cell(1, 0);insert_text("Speed");choose_table_cell(1, 1);insert_text("High");choose_table_cell(1, 2);insert_text("Mederate");choose_table_cell(2, 0);insert_text("Ecosystem");choose_table_cell(2, 1);insert_text("Extensive");choose_table_cell(2, 2);insert_text("Integrated")
+insert_bar_chart([0.50, 0.25, 0.25], ["Google Chrome", "Microsoft Edge", "Others"]);
+set_chart_title("Web Browser Market Share");insert_note("Σελίδα 1");
+
+set_background_color("blue");choose_title();insert_text("Networking and LinkedIn");
+choose_content();insert_text("Η δικτύωση διαδραματίζει κρίσιμο ρόλο στην εξέλιξη της σταδιοδρομίας και το LinkedIn είναι μια ισχυρή πλατφόρμα για επαγγελματική δικτύωση. Με εκατομμύρια χρήστες παγκοσμίως, το LinkedIn προσφέρει μια σειρά λειτουργιών για σύνδεση με επαγγελματίες, προβολή δεξιοτήτων και δεξιοτήτων και ανακαλύψτε ευκαιρίες εργασίας");
+choose_title();set_font_color("dark red");choose_content();set_font_color("light red");
+choose_title();set_font_style("Arial");choose_content();set_font_style("Arial");
+choose_title();set_font_underline();choose_content();set_font_italic();set_font_size(24);
+insert_pie_chart([0.30,0.20,0.15,0.10,0.25], ["Τεχνολογία", "Οικονομικά", "Υγεία", "Μάρκετινγκ", "Άλλα"]);
+set_chart_title("LinkedIn User Distribution");
+insert_line_chart([0.30,0.20,0.15,0.10,0.25],["Technology", "Finance", "Healthcare", "Marketing", "Others"]);
+insert_bar_chart([0.30,0.20,0.15,0.10,0.25],["Technology", "Finance", "Healthcare", "Marketing", "Others"]);
+
+create_slide();choose_title();insert_text("Διαφορετικές κουζίνες");
+choose_content();insert_text("Υπάρχουν διάφοροι τύποι κουζινών που καλύπτουν διαφορετικές ανάγκες μαγειρέματος. Από παραδοσιακές εστίες έως προηγμένες ηλεκτρικές εστίες και σύγχρονες επαγωγικές εστίες, κάθε τύπος προσφέρει μοναδικά χαρακτηριστικά και πλεονεκτήματα.");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("Τύπος κουζίνας");choose_table_cell(0, 1);insert_text("Χαρακτηριστικά");choose_table_cell(0, 2);insert_text("Πλεονεκτήματα");choose_table_cell(1, 0);insert_text("Εστίες μαγειρέματος");choose_table_cell(1, 1);insert_text("Καυστήρες αερίου ή ηλεκτρικούς");choose_table_cell(1, 2);insert_text("Ακριβή έλεγχο θερμότητας")
+insert_pie_chart([0.40, 0.25, 0.20, 0.10, 0.5], ["Μαγειρική εστία", "Ηλεκτρική κουζίνα", "Επαγωγική εστία", "Αργή Κουζίνα", "Φριτέζα αέρα"]);
+set_chart_title("Cooker Type Popularity");
+insert_picture("stovetop");
+set_width(7);set_height(6);
+align_slide_right();
+align_slide_left();
+move_to_slide(0);set_background_color("green");
+
+choose_title();insert_text("Discover the Delight of Oreo");
+set_font_bold();set_font_italic();
+set_font_size(30);
+choose_content();insert_text("Το Oreo, το εμβληματικό μπισκότο σάντουιτς, ήταν μια αγαπημένη απόλαυση για ανθρώπους όλων των ηλικιών. Με τον ακαταμάχητο συνδυασμό από γκοφρέτες σοκολάτας και κρεμώδη γέμιση, το Oreo προσφέρει μια απολαυστική εμπειρία σνακ που φέρνει χαρά σε όλους δάγκωμα.");
+set_font_color("dark blue");
+insert_picture("Oreo");
+align_top_right_corner();
+insert_star();align_top_left_corner();
+insert_pie_chart([0.40,0.10,0.50], ["Πρωτότυπο", "Μέντα", "Φυστικοβούτυρο"]);insert_line_chart([0.40,0.10,0.50],["Original","Mint","Peanut Butter"]);
+insert_bar_chart([0.40,0.10,0.50],["Original","Mint","Peanut Butter"]);set_chart_title("Oreo Flavor Popularity");
+
+set_background_color("purple");
+choose_title();insert_text("Seasonal Variations");set_font_bold();set_font_italic();
+choose_content();insert_text("Οι εποχικές παραλλαγές φέρνουν μια ξεχωριστή γοητεία στη ζωή μας. Από τα ζωηρά χρώματα της άνοιξης έως τις ζεστές αποχρώσεις του καλοκαιριού, τη ζεστή ατμόσφαιρα του φθινοπώρου και τα γαλήνια τοπία του χειμώνα, κάθε εποχή προσφέρει μοναδική εμπειρία. Αγκαλιάστε την ομορφιά της μεταμόρφωσης της φύσης όλο το χρόνο.");
+set_font_style("Arial");set_font_size(18);
+insert_table(4, 4);choose_table_cell(0, 0);insert_text("Εποχή");choose_table_cell(0, 1);insert_text("Μέση θερμοκρασία");choose_table_cell(0, 2);insert_text("Βασικά χαρακτηριστικά");choose_table_cell(0, 3);insert_text("Δραστηριότητες")
+insert_callout();align_slide_left();
+
+choose_title();insert_text("Weather in Guangdong: A Climate of Diversity");
+align_top_left_corner();
+choose_content();insert_text("Το Γκουανγκντόνγκ αντιμετωπίζει ένα ευρύ φάσμα καιρικών συνθηκών καθ' όλη τη διάρκεια του έτους. Από ζεστές και ηλιόλουστες μέρες έως περιστασιακές βροχοπτώσεις, ομιχλώδη πρωινά και συννεφιασμένους ουρανούς, το κλίμα στο Γκουανγκντόνγκ είναι ποικίλο και δυναμικό. Εξερευνήστε τις διαφορετικές εποχές και τα καιρικά μοτίβα σε αυτή τη ζωντανή περιοχή.");set_line_space(2);
+insert_picture("beach");align_top_right_corner();
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("Εποχή");choose_table_cell(0, 1);insert_text("Μέση Θερμοκρασία");choose_table_cell(1, 0);insert_text("Ελατήριο");choose_table_cell(1, 1);insert_text("20-28℃")
+set_background_color("purple");
+choose_table();align_slide_bottom();
+insert_cloud();align_slide_left();
+
+insert_picture("sunrise");
+set_width(6);set_height(6);
+choose_title();insert_text("The Power of Positive Thinking: Embracing Optimism");set_font_italic();set_font_bold();
+choose_content();insert_text("Η θετική σκέψη είναι μια νοοτροπία που εστιάζει στην αισιοδοξία, την ανθεκτικότητα και την αυτοπεποίθηση. Καλλιεργώντας θετικές σκέψεις και στάσεις, μπορούμε να βελτιώσουμε την ευημερία μας, να ξεπεράσουμε τις προκλήσεις , και δημιουργήστε μια πιο ευτυχισμένη και πιο γεμάτη ζωή. Αγκαλιάστε τη δύναμη της θετικής σκέψης και ξεκλειδώστε τις πραγματικές σας δυνατότητες.");set_font_italic();set_font_bold();
+set_font_color("purple");set_font_size(20);
+insert_note("θετική σκέψη");
+
+insert_table(4, 3);choose_table_cell(0, 0);insert_text("Οφέλη");choose_table_cell(0, 1);insert_text("Περιγραφή");choose_table_cell(0, 2);insert_text("Παραδείγματα");choose_table_cell(1, 0);insert_text("Βελτιωμένη ευεξία")
+choose_content();insert_text("Η θετική σκέψη είναι μια νοοτροπία που εστιάζει στην αισιοδοξία, την ανθεκτικότητα και την αυτοπεποίθηση. Καλλιεργώντας θετικές σκέψεις και στάσεις, μπορούμε να βελτιώσουμε την ευημερία μας, να ξεπεράσουμε τις προκλήσεις και να δημιουργήσουμε ένα πιο χαρούμενο πιο γεμάτη ζωή. Αγκαλιάστε τη δύναμη της θετικής σκέψης και ξεκλειδώστε τις πραγματικές σας δυνατότητες.");
+set_font_italic();set_font_color("light blue");
+set_background_color("light green");
+choose_title();insert_text("Definition");set_font_bold();
+align_top_left_corner();
+insert_picture("laugh");align_slide_right();
+
+choose_title();insert_text("Ταξινόμηση απορριμμάτων: Προώθηση της αειφόρου διαχείρισης απορριμμάτων");choose_content();insert_text("Η ταξινόμηση των απορριμμάτων είναι μια κρίσιμη πρακτική για την προώθηση της βιώσιμης διαχείρισης απορριμμάτων. Με τη σωστή ταξινόμηση και διάθεση των απορριμμάτων, μπορούμε να μειώσουμε την περιβαλλοντική ρύπανση, να εξοικονομήσουμε πόρους , και συνεισφέρετε σε έναν καθαρότερο και υγιέστερο πλανήτη. Αποδεχτείτε την ευθύνη της ταξινόμησης των σκουπιδιών και ασκήστε θετική επίδραση στο περιβάλλον μας.");
+set_font_color("orange");set_font_underline();
+set_font_size(18);
+choose_title();set_font_style("Times New Roman");choose_content();set_font_style("Times New Roman");
+insert_right_arrow();align_bottom_right_corner();
+set_width(4.0);set_height(3.0);
+rotate_element(-90);
+insert_bar_chart([60, 50, 45, 40, 40], series=["Χαρτί", "Πλαστικά", "Γυαλί", "Μέταλλα", "Οργανικά απόβλητα"]);set_chart_title("Waste Material Recycling Rates.");
+insert_picture("recycling_bin");
+create_slide();set_background_color("purple");
+choose_title();insert_text("Οργανικά απόβλητα");set_font_size(18);
+choose_content();insert_text("Τα οργανικά απόβλητα διαδραματίζουν σημαντικό ρόλο στη βιώσιμη διαβίωση. Με την κομποστοποίηση οργανικών υλικών όπως υπολείμματα τροφίμων, απορρίμματα αυλής και γεωργικά υπολείμματα, μπορούμε να μειώσουμε τα απόβλητα υγειονομικής ταφής, να εμπλουτίσουμε την ποιότητα του εδάφους και να κλείσουμε τον κύκλο των θρεπτικών ουσιών Αγκαλιάστε την πρακτική της κομποστοποίησης και συμβάλλετε σε ένα πιο πράσινο μέλλον");
+
+create_slide();choose_title();insert_text("Oldroyd's film of Lady Macbeth");set_font_bold();
+set_font_size(28);set_font_underline();
+choose_content();insert_text("Το σενάριο του Birch εισάγει μερικές σημαντικές αλλαγές στην αφήγηση του Leskov. Π.χ. Birch και Oldroyd εξαλείφουν εντελώς τα επεισόδια της Σιβηρίας και επιλέγουν να κόψουν την αυτοκτονία της Katherine.");
+set_font_size(20);set_font_bold();
+choose_title();set_font_color("red");choose_content();set_font_color("yellow");
+insert_picture("Lady Macbeth");
+set_width(8);set_height(8);
+set_right("picture","content");
+set_left("picture","content");
+insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("Χαρακτήρας ταινίας");choose_table_cell(0, 1);insert_text("Ηθοποιός/Ηθοποιός");choose_table_cell(1, 0);insert_text("Lady Macbeth");choose_table_cell(1, 1);insert_text("Florence Pugh");choose_table_cell(2, 0);insert_text("Macbeth");choose_table_cell(2, 1);insert_text("Cosmo Jarvis")
+insert_note("1η Μαΐου");
+set_background_color("purple");
+
+create_slide();choose_title();insert_text("Η σημασία της άσκησης");set_font_underline();
+set_font_size(24);set_font_color("green");
+choose_content();insert_text("Η τακτική άσκηση μπορεί να βελτιώσει την καρδιαγγειακή υγεία, να τονώσει τη διάθεση και να αυξήσει τα επίπεδα ενέργειας.");
+set_font_size(20);set_font_bold();
+set_font_color("red");
+insert_picture("exercise");
+insert_pie_chart([0.10,0.30,0.50,0.10], ["Καρδιαγγειακή υγεία", "Μυϊκή δύναμη", "Ψυχική ευεξία", "Πρόληψη ασθενειών"]);
+insert_table(5,2);choose_table_cell(0,0);insert_text("Τύποι άσκησης");choose_table_cell(0,1);insert_text("Οφέλη");
+set_right("table","picture");
+insert_star();set_background_color("purple");
+align_bottom_left_corner();
+set_width(8);set_height(4);
+
+create_slide();choose_title();insert_text("Τα οφέλη της ανάγνωσης");set_font_size(24);set_font_underline();
+choose_content();insert_text("Η ανάγνωση μπορεί να βελτιώσει τη γνωστική λειτουργία, να αυξήσει την ενσυναίσθηση και να μειώσει το άγχος");
+set_font_bold();set_font_italic();
+set_font_style("Arial");set_font_color("green");
+insert_picture("person_reading");
+insert_bar_chart([1400, 992, 400, 661, 234], ["μυθοπλασία", "μη λογοτεχνικά", "βιογραφίες", "αυτοβοήθεια", "φαντασία"]);
+set_chart_title("Book sales");
+insert_table(3, 3);
+choose_table_cell(0, 0);insert_text("Οφέλη από την ανάγνωση");choose_table_cell(1, 0);insert_text("βελτίωση γνώσης");choose_table_cell(2, 0);insert_text("επέκταση λεξιλογίου");
+set_background_color("red");
+insert_note("Ανάγνωση βιβλίων");
+create_slide();set_background_color("red");insert_picture("clock");
+set_width(10);set_height(15);
+insert_note("ΣΧΕΤΙΚΑ ΜΕ ΤΗΝ ΑΝΑΓΝΩΣΗ");
+
+create_slide();choose_title();insert_text("Τα οφέλη του εθελοντισμού");set_font_underline();
+choose_title();set_font_color("dark red");set_font_size(30);
+choose_content();insert_text("Ο εθελοντισμός μπορεί να αυξήσει την ευτυχία, να βελτιώσει τις κοινωνικές δεξιότητες και να προσφέρει μια αίσθηση σκοπού.");
+set_font_color("green");
+set_font_bold();set_font_size(18);
+align_bottom_left_corner();
+insert_picture("volunteers");
+align_bottom_left_corner();
+insert_table(3, 3);choose_table_cell(0, 0);insert_text("Οφέλη");choose_table_cell(1, 0);insert_text("προσωπική ανάπτυξη");choose_table_cell(2, 0);insert_text("κοινωνικές σχέσεις");
+choose_content();set_font_bold();set_font_size(20);
+insert_bar_chart([25, 45, 10, 15, 5], ["κοινοτική υπηρεσία", "εκπαίδευση", "υγειονομική περίθαλψη", "προστασία του περιβάλλοντος", "ανακούφιση από καταστροφές"]);
+set_chart_title("Volunteergin Importance");
+
+set_background_color("purple");
+choose_title();insert_text("Μορφή CAJ");set_font_underline();set_font_italic();
+set_font_color("purple");
+choose_content();insert_text("Η μορφή CAJ είναι μια μορφή αρχείου που χρησιμοποιείται ευρέως στην Κίνα για ακαδημαϊκές εργασίες και ερευνητικά έγγραφα. Παρέχει μια τυποποιημένη δομή και διάταξη για αποτελεσματική κοινή χρήση και δημοσίευση.");
+set_line_space(2);
+set_font_style("Arial");set_font_bold();
+set_font_color("green");
+align_slide_top();
+insert_picture("sample_caj");
+align_top_right_corner();
+insert_table(2,3);
+choose_table_cell(0, 0);insert_text("Ενότητα");choose_table_cell(0, 1);insert_text("Επικεφαλίδα");choose_table_cell(0, 2);insert_text("Περιεχόμενο")
+create_slide();insert_bar_chart([30, 25, 20, 15, 10], ["CAJ", "PDF", "DOC", "PPT", "XLS"]);
+set_chart_title("File Format Usage");
+insert_note("Μορφή αρχείου");set_background_color("purple");
+
+choose_content();insert_text("Το ημερολόγιο μπορεί να μειώσει το άγχος, να βελτιώσει τη μνήμη και να αυξήσει την αυτογνωσία.");
+set_font_underline();set_font_size(18);set_font_color("purple");
+choose_title();insert_text("Journaling");
+set_font_italic();set_font_style("Arial");
+insert_picture("person_writing");
+align_slide_bottom();
+insert_star();align_slide_right();
+rotate_element(60);
+
+create_slide();choose_title();insert_text("The Benefits of Gardening");set_font_size(28);set_font_bold();
+choose_content();insert_text("Η κηπουρική μπορεί να μειώσει το άγχος, να βελτιώσει τη σωματική υγεία και να αυξήσει τη δημιουργικότητα.");
+set_font_italic();set_font_style("Arial");
+insert_cloud();align_slide_right();
+set_left("cloud","title");
+insert_picture("person_working_in_garden");set_width(10);
+create_slide();set_background_color("light blue");
+insert_triangle();align_slide_left();
+set_height(15);rotate_element(45);
+
+create_slide();choose_title();insert_text("Εταιρείες πληροφορικής");
+set_font_style("Times");set_font_bold();set_font_size(32);
+insert_picture("Apple Company Logo");set_height(2);set_width(2);
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("2020");choose_table_cell(0, 1);insert_text("2021");choose_table_cell(0, 2);insert_text("2022");choose_table_cell(1, 0);insert_text("274B");choose_table_cell(1, 1);insert_text("365B");choose_table_cell(1, 2);insert_text("394B")
+

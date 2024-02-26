@@ -1,0 +1,1876 @@
+Verschieben Sie den Titelteil in die untere Ecke und füllen Sie ihn mit "Human Assessment". ## 0, title, slide, bottom corner
+Füllen Sie den Inhalt mit "Im Allgemeinen wird die Übersetzung anonym von mehreren Prüfern bewertet, und die endgültige Bewertung wird dann durch die Kombination der Bewertungsergebnisse aller Prüfer ermittelt."
+Fügen Sie eine Tabelle mit zwei Zeilen und zwei Spalten ein.
+Fügen Sie "Vorteile" und "Nachteile" in die linken beiden Lücken ein. Fügen Sie in die rechten beiden Lücken "Die Übersetzungsqualität der Sätze, die höchste Aussagekraft, die höchste Glaubwürdigkeit" und "Langzeitbewertung" genau ein.
+Passen Sie die Schriftgröße des Inhalts auf 20 an. Ändern Sie den Schriftstil in "Arial".
+Fügen Sie auf der linken Folie ein Bild eines Kaffees ein. ## 0, picture, slide, left
+Verschieben Sie das Bild auf die rechte Seite der Folie. ## 0, picture, slide, right
+Erstellen Sie eine neue Folie. Machen Sie den Titel der neuen Folie zu "Bewertungsstandard" und den Hauptteil zu "Direkte Bewertung" und "Relatives Ranking".
+Ändern Sie die Schriftfarbe des Titels in Grün und fügen Sie zwei Aufzählungspunkte hinzu.
+Ändern Sie die Schriftgröße des Titels auf 24 und die des Inhalts auf 20.
+
+Fügen Sie ein Turmbild ein. Verschieben Sie es an den unteren Rand der Folie. ## 0, picture, slide, bottom
+Füllen Sie den Titel mit "Inhalt" und verschieben Sie ihn an den oberen Rand des Bildes. ## 0, title, picture, top
+Erstellen Sie ein grünes Rechteck.
+Ändern Sie die Farbe des Titels in die Dreiecksfarbe.
+Ändern Sie die Schriftgröße des Titels in 24.
+Ändern Sie den Schriftstil des Titels in "Arial" und verdoppeln Sie die Schriftgröße.
+Emm, ändere den Schriftstil des Titels in "Microsoft New Tai Lue".
+
+Geben Sie der Folie eine grüne Hintergrundfarbe.
+Erstellen Sie eine Wolkenform. Verschieben Sie es an die Unterseite der Folie. ## 0, cloud, slide, bottom
+Füllen Sie den Inhalt mit "Du rennst so langsam".
+Fügen Sie ein Kaninchenbild ein. Verschieben Sie das Kaninchenbild auf die rechte Seite der Folie. ## 0, picture, slide, right
+Fügen Sie den Inhalt ein: "Eines Tages findet ein Rennen zwischen einem Kaninchen und einer Schildkröte statt."
+Erstellen Sie eine neue Folie mit dem Inhalt "Ich werde eines Tages gewinnen." Verschieben Sie den Inhalt nach oben. ## 1, content, slide, top
+
+Fügen Sie in der Mitte der Folie ein Bild zum Thema Lernen ein. ## 0, picture, slide, center
+Erstelle ein Quadrat. Bewegen Sie es in die Mitte der Folie. ## 0, rectangle, slide, center
+Nennen Sie den Titel "League of Legends". Fügen Sie den folgenden Text in den Inhaltsteil ein: "League of Legends ist ein Teamspiel mit über 140 Champions, mit denen Sie epische Spiele spielen können. Jetzt kostenlos spielen. Kostenlos spielen."
+Der Schriftstil und die Schriftgröße des Titels sollten "Times New Roman" und 24 sein.
+Passen Sie die Breite und Höhe des Bildes auf 6 Zoll und 5 Zoll an.
+Drehen Sie das Bild um etwa 15 Grad.
+Erstellen Sie eine neue Folie und fügen Sie ein Bild eines Jungen ein, der ein Buch hält.
+Verschieben Sie das Bild in die Mitte der Folie. ## 1, picture, slide, center
+Machen Sie den Titel "Wie man in der Schule bessere Leistungen erbringt".
+
+Fügen Sie eine Wolke ein. Machen Sie es auf der linken Seite. ## 0, cloud, slide, left.
+Fügen Sie eine Uhr ein. Machen Sie es auf der rechten Seite. ## 0, picture, slide, right.
+Machen Sie die Hintergrundfarbe hellblau. Nennen Sie den Titel der Folie "Künstliche Intelligenz".
+Fügen Sie den folgenden Inhalt in den Inhaltsteil ein: "Über die Auswirkungen künstlicher Intelligenz auf die Gesellschaft wird viel diskutiert." Viele argumentieren, dass KI die Qualität des Alltags verbessert, indem sie routinemäßige und sogar komplizierte Aufgaben besser erledigt als Menschen und das Leben einfacher, sicherer und effizienter macht . "
+Ändern Sie die Schriftfarbe des Inhalts in Hellgrün.
+
+Erstellen Sie eine neue Folie und fügen Sie der Folie einen roten Titel mit der Aufschrift "Planung im März" hinzu.
+Stellen Sie die Schriftgröße des Titels auf 28 und die Farbe Dunkelblau ein.
+Fügen Sie eine Tabelle mit einer Zeile und drei Spalten ein und füllen Sie die erste Zeile mit "Lernen vom 1. bis 10.", "Arbeiten vom 11. bis 20." und "Reisen vom 21. bis 31.".
+Ändern Sie den Schriftstil des Titels in "Arial".
+Fügen Sie ein Bild eines glücklichen Jungen ein. Verschieben Sie es auf die rechte Seite des Tisches. ## 1, picture, table, right
+Weisen Sie der Folie einen blauen Hintergrund zu.
+Stellen Sie das Bild auf eine Breite von 6,5 Zoll und eine Höhe von 5 Zoll ein.
+Emm, jetzt ist die Hintergrundfarbe nicht gut. Ändern Sie es in Gelb.
+
+Erstellen Sie eine neue Folie und nennen Sie sie "Die Vorteile der Meditation".
+Fügen Sie ein Bild einer meditierenden Person ein und positionieren Sie es in der Mitte der Folie. ## 1, picture, slide, center
+Schreiben Sie: "Meditation ist eine einfache, aber wirkungsvolle Technik, die Ihnen helfen kann, einen Zustand des inneren Friedens und der Ruhe zu erreichen." im Inhaltsteil.
+Ändern Sie die Schriftgröße des Inhalts auf 24 und stellen Sie die Schriftfarbe auf Dunkelblau ein.
+Fügen Sie ein Rechteck ein. Platzieren Sie es auf der rechten Seite des Inhalts. ## 1, rectangle, content, right
+Ändern Sie die Farbe des Hintergrunds in Hellgrün.
+Erstellen Sie eine neue Folie mit demselben Hintergrund und fügen Sie den Titel "Arten der Meditation" ein.
+Ändern Sie den Schriftstil des Titels in "Arial".
+Fügen Sie eine Tabelle mit zwei Spalten und drei Zeilen ein.
+Schreiben Sie in die erste Spalte "Achtsamkeitsmeditation", "Transzendentale Meditation" und "Body-Scan-Meditation".
+
+Erstellen Sie eine neue Folie und geben Sie ihr einen grünen Hintergrund.
+Fügen Sie auf der linken Seite der Folie ein Bild eines Stücks Grasland ein. ## 1, picture, slide, left.
+Und ändern Sie die Breite und Höhe des Bildes auf 6,5 und 5,5 Zoll. Fügen Sie der Folie einen Titel hinzu und nennen Sie sie "Die Funktionen von Wäldern".
+Ändern Sie die Schriftfarbe auf Orange und die Schriftgröße auf 40.
+Fügen Sie eine "Pfeil"-Form ein. Verschieben Sie es an die Oberseite der Folie. ## 1, right_arrow, slide, top
+
+Fügen Sie eine neue Folie hinzu und fügen Sie eine Tabelle mit zwei Spalten und zwei Zeilen ein.
+Füllen Sie die erste Zeile mit "Baumtyp" bzw. "Verwendung" aus. Füllen Sie die nächsten beiden Spalten mit "verschiedene Baumarten" und "verschiedene Blattfarben" aus.
+Fügen Sie den Inhalt mit der Aufschrift "Denken Sie daran, heute einen Baum zu pflanzen!" ein.
+Stellen Sie die Schriftgröße des Inhalts auf 20 und die Schriftfarbe Grün ein. Unterstreiche es.
+
+Erstellen Sie fünf Folien und versehen Sie sie alle mit einem gelben Hintergrund.
+Fügen Sie in der ersten Folie den Titel "Happy Family" ein und stellen Sie den Schriftstil "Microsoft JhengHei" ein.
+Fügen Sie auf der zweiten Folie ein Bild einer Familie ein.
+Fügen Sie auf der dritten Folie eine Tabelle mit zwei Spalten und zwei Zeilen ein.
+Füllen Sie die Tabelle mit "Vater", "Mutter", "Großvater", "Kinder" aus.
+
+Erstellen Sie eine Folie und fügen Sie den Titel "Businessplan" ein.
+Fügen Sie auf der linken Seite der Folie ein Bild einer Glühbirne ein. ## 1, picture, slide, left
+Ändern Sie die Größe auf eine Breite von 3 Zoll. Typ "Unternehmertum ist der Prozess der Konzeption, Gründung und Führung eines neuen Unternehmens, bei dem es sich zunächst oft um ein kleines Unternehmen handelt. Die Menschen, die diese Unternehmen gründen, werden Unternehmer genannt." im Inhaltsteil.
+Stellen Sie die Schriftgröße des Inhalts auf 20 und die Schriftfarbe auf Grün ein.
+Machen Sie die Hintergrundfarbe der Folie dunkelblau.
+Fügen Sie der Folie die Form eines roten Kreises hinzu.
+Fügen Sie den folgenden Inhalt ein: "Ein Businessplan ist ein schriftliches Dokument, das detailliert beschreibt, wie ein Unternehmen, in der Regel ein neues, seine Ziele erreichen wird."
+Ändern Sie die Schriftgröße der Folie auf 18.
+Fügen Sie eine Tabelle mit 3 Zeilen und 4 Spalten ein.
+Füllen Sie die erste Zeile der Tabelle mit "Marketing Mix", "Zielmarkt", "Preis" und "Promotion".
+
+Erstellen Sie eine neue Folie und geben Sie ihr eine hellblaue Hintergrundfarbe.
+Geben Sie den folgenden Inhalt ein: "Produktbranding ist die Entwicklung einer unverwechselbaren Marke für ein bestimmtes Produkt mit der Absicht, die Zielgruppe einer Marke zu erreichen."
+Den Inhalt kursiv setzen. Stellen Sie die Schriftgröße auf 18 ein.
+Verschieben Sie den Inhalt an den unteren Rand der Folie. ## 1, content, slide, bottom
+Fügen Sie oben ein Bild des Lancome-Logos ein. ## 1, picture, slide, top
+
+Erstellen Sie eine neue Folie, nennen Sie sie "The essentials of large-scale modeling" und stellen Sie die Schriftgröße auf 24 ein.
+Ändern Sie den Schriftstil des Titels in "Arial".
+Fügen Sie eine Tabelle mit zwei Spalten und einer Zeile ein.
+Füllen Sie die erste Spalte mit "Wichtigkeit" und stellen Sie die Schriftgröße auf 18 und die Farbe auf Hellblau ein.
+Fügen Sie ein Bild eines Computers hinzu. Bewegen Sie es in die Mitte der Folie. ## 1, picture, slide, center
+Geben Sie im Inhaltsteil "Großmaßstäbliche Modellierung" ein.
+Stellen Sie die Schriftgröße der Folie auf 14 und die Farbe auf Grün ein.
+
+Fügen Sie auf der Folie links ein Turmbild ein. Das Bild sollte einen schroffen, bedrohlich aussehenden Turm zeigen. ## 0, picture, slide, left
+Der Titel der Folie sollte "The Ultimate Heist" lauten.
+Legen Sie den Schriftstil des Titels auf "Times New Roman" fest. Ändern Sie die Farbe des Titels in Grün.
+Erstelle ein Dreieck. Verschieben Sie es auf die rechte Seite der Folie. ## 0, triangle, slide, right
+Geben Sie der Folie einen hellblauen Hintergrund.
+
+Fügen Sie eine Tabelle mit drei Spalten und drei Zeilen ein. Füllen Sie die Tabelle mit "‚lila‘, ‚blau‘, ‚hellblau‘, ‚dunkelblau‘, ‚grün‘, ‚hellgrün‘, ‚dunkelgrün‘, ‚gelb‘, ‚hellgelb‘" aus.
+Geben Sie der Folie eine grüne Hintergrundfarbe.
+Ähm, die Farbe ist nicht gut. Ändern Sie es in dunkelblau.
+Nennen Sie den Titel "Farbtypen". Fügen Sie ein Bild einer Uhr hinzu.
+Erstellen Sie eine neue Folie und geben Sie ihr eine gelbe Hintergrundfarbe.
+Fügen Sie den folgenden Inhalt in die Folie ein: "Ehrenpreis, auch Vogelaugen- oder Zigeunerkraut genannt, ist eine winterharte, ausdauernde Pflanze, die in Europa heimisch ist."
+
+Erstellen Sie eine Folie und fügen Sie ein Bild eines Mannes und einer Frau ein, die miteinander streiten.
+Bitte nennen Sie den Titel "Was bringt die Ehe sowohl Männern als auch Frauen?"
+Erstellen Sie eine neue Folie und fügen Sie ein Bild einer Frau in einem japanischen Kimono und ein weiteres Bild einer verheirateten afrikanischen Frau mit ihren Kindern ein.
+Fügen Sie als Titel "Faktoren, die unterschiedliche Eheregime bestimmen" hinzu.
+Erstellen Sie als Nächstes drei weitere Folien und versehen Sie diese mit einem roten Hintergrund.
+Gehen Sie zu Folie 2 und nennen Sie den Titel "Gemeinsame Vorteile der Ehe für Männer und Frauen".
+Nun, ich möchte den Titel unterstreichen und bitte die Schriftfarbe des Titels in Gelb ändern.
+Fügen Sie in der Mitte der Folie ein Bild einer glücklichen dreiköpfigen Familie ein.
+Fügen Sie drei rote Rechtecke ein.
+Erstellen Sie eine neue Folie und nennen Sie sie "Die Entwicklung der Eheinstitution in China".
+Fügen Sie ein Bild einer Uhr ein und stellen Sie die Breite auf 6,5 ein.
+Bewegen Sie die Uhr auf die linke Seite der Folie. ## 3, picture, slide, left
+Erstellen Sie nun eine neue Folie und nennen Sie den Titel "Schwierigkeiten, mit denen Frauen in der Welt konfrontiert sind". Fügen Sie ein Bild einer Vollzeitmutter ein.
+Bitte stellen Sie die Höhe des Bildes einer Vollzeitmutter auf 5 Zoll ein.
+
+Legen Sie den Titel der neuen Folie als "Neuronales Netzwerk" fest.
+Fügen Sie dann den Inhalt der Folie ein: "Neuronale Netze sind eine Reihe von Algorithmen, die die Funktion eines menschlichen Gehirns nachahmen. Sie sind darauf ausgelegt, Muster zu erkennen, Daten zu klassifizieren und Vorhersagen zu treffen."
+Ändern Sie die Schriftgröße auf 12 und die Schriftfarbe auf Orange. Ändern Sie den Hintergrund der Folie in Rot.
+
+Bitte nennen Sie den Titel "Anführungszeichen"
+Unterstreichen Sie den Titel und stellen Sie die Schriftgröße auf 24 ein.
+Fügen Sie den Inhalt dieser Folie wie folgt ein: "Das Anführungszeichen-Symbol ist eine Art Satzzeichen, mit dem Wörter und Passagen vom Rest des Textes abgegrenzt werden."
+Ändern Sie die Schriftfarbe des Inhalts in Grün. emmm, die Schriftgröße ist zu groß, bitte verkleinern Sie sie
+Fügen Sie ein Bild mit einem großen Anführungszeichen ein. Verschieben Sie die Markierung auf die linke Seite der Folie. ## 0, picture, slide, left
+Erstellen Sie nun bitte eine neue Folie und geben Sie ihr einen blauen Hintergrund.
+Fügen Sie dann rechts ein Rechteck hinzu. ## 1, rectangle, slide, right
+Fügen Sie eine Tabelle mit zwei Zeilen und einer Spalte ein.
+Füllen Sie die Tabelle mit "Wie geht es Ihnen?" sagte der Herr.' in der ersten Zelle und "Eine der häufigsten Verwendungen von Anführungszeichen ist die Angabe eines direkten Zitats, einer Passage, die wörtlich aus einer anderen Quelle übernommen wurde." in der zweiten Zelle.
+
+Bitte erstellen Sie eine neue Folie und geben Sie ihr einen dunkelgrünen Hintergrund
+Emm, es gibt keinen Titel. Helfen Sie mir, den Titel "Fields and Branches of Anthropology" hinzuzufügen und die Schriftgröße auf 18 festzulegen
+Ich möchte den Inhalt mit derselben Schriftgröße einfügen: "Es gibt zwei große Bereiche der Anthropologie."
+Ja, das ist es, was ich will. Bitte richten Sie den Inhalt rechts aus.
+
+Fügen Sie in der Folie auf der linken Seite einen Pfeil hinzu
+Stellen Sie die Breite des Pfeils auf 4,0 und die Höhe auf 3,0 ein
+Fügen Sie den folgenden Inhalt ein: "Große Teile Zentralasiens fühlen sich unheimlich unbewohnt an."
+Vergrößern Sie den Pfeil auf eine Breite von 5,0 und eine Höhe von 4,0 und drehen Sie ihn um 90 Grad.
+Wenden Sie schließlich doppeltes Leerzeichen auf den Inhalt an
+
+Fügen Sie als Titel "Bildung/Lehre/PPT-Repräsentation" ein.
+Fügen Sie "Die schädlichen Auswirkungen der globalen Erwärmung" in den Inhalt ein,
+Machen Sie die Schriftfarbe des Titels dunkelblau und den Inhalt lila.
+Fügen Sie ein Rechteck in derselben Inhaltsfarbe ein.
+Verschieben Sie das Rechteck nach links oben auf der Folie. ## 0, rectangles, slide, left top
+Fügen Sie eine Tabelle mit vier Spalten und zwei Zeilen ein und füllen Sie die erste Zeile mit "give", "gave", "giving" und "given".
+Ändern Sie die Schriftfarbe des Inhalts, damit sie mit dem Titel übereinstimmt.
+
+Machen Sie den Hintergrund orange.
+Fügen Sie ein Katzenbild ein und stellen Sie dessen Breite und Höhe auf 5 Zoll ein.
+Erstellen Sie drei weitere Folien und weisen Sie ihnen die gleiche orange Hintergrundfarbe zu.
+Benennen Sie den Titel als "DingTalk-Informationen".
+Fügen Sie eine Tabelle mit drei Zeilen und fünf Spalten ein.
+Füllen Sie die erste Zeile jeweils mit "Download-Methoden", "So treten Sie der Organisation bei", "So finden Sie Freunde", "Vorteile" und "Hinweis" aus.
+Fügen Sie im rechten Teil der Folie einen Stern ein. ## 3, star, slide, right
+Fügen Sie den folgenden Inhalt in den Inhaltsteil ein: "Vorbeugen bezieht sich auf das Verhindern oder Verhindern, indem etwas im Voraus getan wird."
+Jetzt ist der orangefarbene Hintergrund nicht gut. Ändere es in ein blaues.
+Richten Sie den Inhalt linksbündig aus.
+
+Fügen Sie einen Pfeil (rechts) ein und färben Sie ihn gelb.
+Benennen Sie den linksbündigen Titel als "Wochentag in der Schule".
+Machen Sie die Schriftfarbe des Titels dunkelblau. kursiv schreiben und den Titel unterstreichen.
+Fügen Sie im Inhaltsteil den folgenden Inhalt ein: "Vorbeugen bedeutet, (Waren) im Voraus aufzukaufen, um den Preis beim Weiterverkauf zu erhöhen."
+Fügen Sie ein Bild eines Schulabzeichens ein. Stellen Sie es auf 2,5 x 2,5 Quadrat ein.
+Erstellen Sie eine neue Folie und stellen Sie die Hintergrundfarbe auf Grün ein.
+Geben Sie der Folie den rechtsbündigen Titel "Hinweis".
+Ändern Sie die Farbe des Titels in Hellgrün und die Schriftgröße auf 26.
+Fügen Sie drei Aufzählungspunkte ein.
+Fügen Sie der vorherigen Folie einen Hinweis "2023/4/9" und "2023/4/8" hinzu.
+
+Fügen Sie einen Stern ein und positionieren Sie ihn auf der rechten Seite der Folie. ## 0, star, slide, right
+Füllen Sie den Stern mit blauer Farbe.
+Fügen Sie auf der linken Seite der Folie einen roten Pfeil hinzu. ## 0, arrow, slide, left
+Nennen Sie die Folie "Entscheidung treffen"
+Fügen Sie den Inhalt ein: "Die aktuelle globale Pandemie hat unser tägliches Leben durcheinander gebracht und die Welt auf eine Weise verändert, die wir uns nie hätten vorstellen können."
+Unterstreichen Sie den Inhalt und stellen Sie die Schriftgröße des Titels auf 24 ein.
+Legen Sie sowohl den Schriftstil des Inhalts als auch den Titel auf "Times New Roman" fest.
+
+Erstellen Sie fünf Folien.
+Fügen Sie im Titelteil jeder Folie den folgenden Inhalt hinzu: "Einleitung", "Entwicklung", "Bewertung", "Analyse" und "Schlussfolgerung".
+Stellen Sie den Hintergrund aller Folien auf Gelb ein.
+Ändern Sie auf der ersten Seite den Schriftstil von "Einführung" in "Microsoft JhengHei".
+Fügen Sie auf der zweiten Folie ein Bild einer Uhr ein.
+Fügen Sie auf der dritten Folie ein Balkendiagramm ein. Die horizontalen Daten sind Oktober, November, Dezember und vertikal 160.170.130.
+Fügen Sie in der vierten Folie eine Tabelle mit drei Spalten und zwei Zeilen ein.
+Fügen Sie in der ersten Zeile den folgenden Inhalt ein: "toIPA", "Vorteile" und "Nachteile".
+Stellen Sie auf der letzten Folie den Schriftstil "Times New Roman" ein.
+Fügen Sie auf der letzten Folie eine Wolke ein.
+Fügen Sie außerdem in jede Folie eine Notiz "Erstellt von Eva" ein.
+
+Erstellen Sie einen Kreis. Male die Kreise lila aus.
+Fügen Sie ein Bild einer Wasserflasche mit der Überschrift "Flasche" ein.
+Fügen Sie als Titel "QUALITÄT" ein.
+Ändern Sie die Farbe "QUALITÄT" in Rot.
+Fügen Sie eine Tabelle mit zwei Zeilen und zwei Spalten ein.
+Füllen Sie jede Zelle mit "Machine Assessment", "Human Assessment", "Automatic Assessment 1" und "Automatic Assessment 2" aus.
+Erstellen Sie eine neue Folie und nennen Sie sie "Errungenschaft". Sorgen Sie dafür, dass die Farbe der Kreise konsistent ist.
+
+Bitte erstellen Sie eine neue Folie und nennen Sie den Titel "Marketingstrategien für das 2. Quartal".
+Geben Sie der Folie eine blaue Hintergrundfarbe.
+Erstellen Sie eine neue Folie und nennen Sie den Titel "Steigerung von Umsatz und Markenbekanntheit".
+emm, bitte ändern Sie die Schriftgröße des Titels auf 60.
+Geben Sie nun Folie 2 einen grünen Hintergrund.
+Erstellen Sie drei weitere Folien und stellen Sie sicher, dass alle den gleichen grünen Hintergrund haben.
+Gute Arbeit. Gehen Sie nun zur dritten Folie. Fügen Sie den Titel "Markttrends und Wettbewerbsanalyse" hinzu.
+Fügen Sie ein Bild eines blauen Meeres ein.
+Passen Sie bitte die Höhe des Bildes auf 4 und die Breite auf 5 an und platzieren Sie es links vom Titel. ## 2, picture, title, left
+OK, das ist genau das, was ich will. Gehen Sie nun zur vierten Folie. Fügen Sie den Titel "Unsere Mission und Werte" hinzu.
+Fügen Sie den Inhalt ein: "VISION. Alle Menschen leben ein langes Leben in voller Gesundheit. MISSION.IHME liefert der Welt zeitnahe, relevante und wissenschaftlich valide Beweise zur Verbesserung der Gesundheitspolitik und -praxis."
+Es sieht etwas chaotisch aus. Versuchen Sie, den Zeilenabstand auf 1,5 einzustellen.
+Nicht schlecht, aber versuchen Sie, die Schriftgröße des Inhalts auf 40 einzustellen. Ändern Sie den Schriftstil des Inhalts in "Times New Roman".
+
+Bitte erstellen Sie eine neue Folie und wenden Sie einen gelben Hintergrund an.
+Was den Titel betrifft, helfen Sie mir, den Titel "Vergleich der Bildung in China und Amerika" hinzuzufügen.
+emm, ändere den Titel in "Explore the Differences and Similarities" .
+Oh nein, ich möchte den Titel in "Die Unterschiede und Ähnlichkeiten" ändern.
+Erstellen Sie nun fünf neue Folien.
+Sorgen Sie dafür, dass die fünf neuen Folien denselben gelben Hintergrund haben.
+Gehen Sie zur zweiten Folie und fügen Sie den Titel "The Education Systems" hinzu.
+Fügen Sie den Inhalt ein: "Bildung wird in China in erster Linie durch das staatliche öffentliche Bildungssystem verwaltet, das dem Bildungsministerium untersteht. Alle Bürger müssen mindestens neun Jahre lang die Schule besuchen, die sogenannte neunjährige Schulpflicht, die finanziert wird." von der Regierung."
+Gehen Sie zur nächsten Folie und nennen Sie den Titel "Verschiedene Unterrichtsstile und -methoden".
+Nennen Sie den Titel der vierten Folie "Lehrer-Schüler-Beziehung". Betiteln Sie die fünfte Folie mit "Bewertung der Schülerleistung".
+Fügen Sie auf der fünften Folie ein Bild eines Waldes ein.
+Fügen Sie den Inhalt ein: "Im Jahr 2014 schrieb Jonathan Kaiman von The Guardian, dass chinesische Eltern und Erzieher "ihr eigenes System als korrupt, entmenschlichend, unter Druck gesetzt und ungerecht" betrachten. Anschließend ging er schriftlich auf die College-Zulassungsprüfung des Landes (genannt Gaokao) ein dass "viele Eltern den anstrengenden Neun-Stunden-Test als einen Sortiermechanismus betrachten, der den Verlauf des Lebens ihrer Kinder bestimmt." und stellen Sie sicher, dass er mit Anführungszeichen unterstrichen wird und stellen Sie die Schriftfarbe auf Rot ein.
+Gehen Sie nun zur letzten Folie und fügen Sie eine Tabelle mit einer Zeile ein. Fügen Sie "Verantwortung" in die Tabelle ein.
+
+Erstellen Sie eine neue Folie und fügen Sie ein Bild der DingTalk-App ein.
+Geben Sie dieser Folie den Titel "Einführung in ChatGPT". Machen Sie die Schriftfarbe des Titels grün.
+Erstellen Sie nun fünf neue Folien mit demselben Titel: "Die Leistungsfähigkeit von KI-Sprachmodellen entfesseln". und richten Sie die Titel links aus.
+Ändern Sie den Schriftstil des Inhalts in "Arial".
+Fügen Sie im Hauptteil den Inhalt ein: "ChatGPT ist ein Chatbot mit künstlicher Intelligenz (KI), der von OpenAI entwickelt und im November 2022 veröffentlicht wurde. Er basiert auf den GPT-3.5- und GPT-4-Familien großer Sprachmodelle (LLMs) von OpenAI und wurde mithilfe von Techniken des überwachten und verstärkenden Lernens verfeinert (ein Ansatz zum Transferlernen).
+Stellen Sie die Schriftgröße auf 30 und den Zeilenabstand auf 2 ein.
+Fügen Sie eine Tabelle mit einer Spalte und einer Zeile ein und füllen Sie die Tabelle mit "So laden Sie DingTalk herunter".
+Gut. Kommen wir zur nächsten Folie.
+Bitte fügen Sie als Titel den Text "Funktionen und Einschränkungen" hinzu und richten Sie ihn mittig aus.
+Fügen Sie den Inhalt ein. "Obwohl die Kernfunktion eines Chatbots darin besteht, einen menschlichen Gesprächspartner nachzuahmen, ist ChatGPT vielseitig einsetzbar. Es kann Computerprogramme schreiben und debuggen, den Stil berühmter CEOs nachahmen und Geschäftspräsentationen schreiben, Musik, Fernsehspiele, Märchen und Studentenaufsätze komponieren und antworten." Testfragen beantworten (manchmal, je nach Test, auf einem Niveau, das über dem durchschnittlichen menschlichen Testteilnehmer liegt), Gedichte und Liedtexte schreiben, ein Linux-System emulieren, ganze Chatrooms simulieren, Spiele wie Tic-Tac-Toe spielen und einen Geldautomaten simulieren ."
+
+Erstellen Sie eine neue Folie, legen Sie einen grünen Hintergrund für die Folie fest,
+Fügen Sie den folgenden Inhalt ein: "Das Leben ist zu kurz, um Zeit mit Menschen zu verbringen, die einem das Glück aussaugen." und setzen Sie einen Punkt fünf mal Leerzeichen.
+Ändern Sie den Schriftstil des Inhalts in Verdana und stellen Sie die Schriftgröße auf 20 ein.
+Unterstreichen Sie zuletzt den Inhalt und stellen Sie die Farbe des Inhalts auf Gelb ein.
+
+﻿Bitte erstellen Sie eine neue Folie und geben Sie ihr einen blauen Hintergrund. Fügen Sie den Titel "Maschinelles Lernen" hinzu.
+Fügen Sie den folgenden Text in den Inhaltsteil ein: "Maschinelles Lernen ist eine Anwendung künstlicher Intelligenz (KI), die Systemen die Fähigkeit verleiht, automatisch aus Erfahrungen zu lernen und sich zu verbessern, ohne explizit programmiert zu werden. Maschinelles Lernen konzentriert sich auf die Entwicklung von Computerprogrammen, die darauf zugreifen können." Daten und nutzen sie, um selbst zu lernen.
+Die Schriftgröße des Inhalts ist zu klein. Bitte erhöhen Sie den Wert auf 20. Ändern Sie den Schriftstil des Inhalts in Verdana
+Der Schriftstil ist nicht gut. Ändern Sie es in "Times New Roman" und richten Sie den Inhalt rechts aus.
+Ändern Sie die Schriftfarbe des Titels in Rot und die Größe auf das Doppelte des Inhalts
+Rot ist nicht gut, bitte ändern Sie die Titelfarbe in Blau.
+Das scheint viel besser zu sein. Fügen Sie der linken Folie ein Bild zum Thema maschinelles Lernen hinzu. ## 1, picture, slide, left
+Stellen Sie die Höhe und Breite auf 1,2 ein
+Zum Schluss fügen Sie einen grünen Stern ein.
+
+Erstellen Sie eine neue Folie und fügen Sie den Titel "Marketingstrategien" hinzu.
+Fügen Sie den Inhaltsteil ein: "Suchmaschinenoptimierung (SEO)", "Social Media Marketing (SMM)", "E-Mail-Marketing", "Content Marketing" und "Pay-Per-Click-Werbung (PPC)" und setzen Sie Aufzählungspunkte davor jeder von ihnen.
+Fügen Sie der Folie ein Bild mit Marketingbezug in der Größe 1*1 hinzu.
+Fügen Sie ein Kreisdiagramm entsprechend den Daten hinzu: Apple: 35 %, Samsung: 25 %, Huawei: 15 %, Xiaomi: 10 % Andere: 15 %. Und fügen Sie eine Tabelle mit zwei Spalten und zwei Zeilen ein.
+Fügen Sie "Marketing" als Diagrammtitel ein. Fügen Sie "MT1", "MT2", "ST1" und "ST2" in die Tabelle ein.
+Verschieben Sie den Inhaltsteil an die untere Seite der Folie. ##1, content, slide, bottom
+Erstellen Sie eine Folie und kopieren Sie das Kreisdiagramm.
+Kopieren Sie nun die Tabelle.
+
+Bitte erstellen Sie eine neue Folie und fügen Sie den Titel "Datenvisualisierung" hinzu.
+Fügen Sie ein Balkendiagramm entsprechend den Daten ein: Das horizontale "X" steht für New York, Los Angeles, Chicago, Houston und Phoenixand, während das vertikale "Y" 8,4, 4,0, 2,7, 2,3 und 1,7 beträgt. Und verschieben Sie das Diagramm auf die linke Seite der Folie. ##1, bar chart, slide, left
+Fügen Sie ein Textfeld ein und geben Sie ein: "Datenvisualisierung ist die Darstellung von Daten in einem bildlichen oder grafischen Format. Sie ermöglicht es Entscheidungsträgern, Analysen visuell dargestellt zu sehen, sodass sie schwierige Konzepte erfassen oder neue Muster erkennen können."
+Ändern Sie die Schriftfarbe des Textfelds in Grün.
+Gehen Sie nun zur nächsten Folie. Und fügen Sie den folgenden Inhalt ein: "Dieser Brei wird durch gemeinsames Kochen von Klebreis, braunem Zucker und achtzehn Arten Trockenfrüchten hergestellt."
+
+Bitte erstellen Sie eine neue Folie und nennen Sie den Titel "Laba Porridge".
+Fügen Sie den folgenden Text in den Inhaltsteil ein: "Seit ich mich erinnern kann, kochte meine Mutter jedes Jahr am achten Tag des zwölften Mondmonats Laba-Brei für uns."
+Machen Sie die Schriftfarbe gelb und den Inhalt fett.
+Fügen Sie nun auf der rechten Folie eine Tabelle mit zwei Zeilen und einer Spalte hinzu. ## 1, table, slide, right
+Fügen Sie "History" in die erste Zelle der ersten Zeile und "Modern" in die zweite Zeile ein.
+Geben Sie der Folie eine hellrote Farbe.
+
+Geben Sie der Folie eine gelbe Farbe.
+Der Hintergrund ist nicht gut. Bitte legen Sie für diese Folie und alle anderen Folien einen grünen Hintergrund fest
+Das sieht gut aus. Bitte stellen Sie den Folientitel auf "Großes Unternehmen" ein.
+Passen Sie die Schriftgröße des Titels auf 28 an und helfen Sie mir, den Schriftstil in "Futura" zu ändern.
+Bitte fügen Sie eine Tabelle mit einer Zeile und zwei Spalten hinzu. Und fügen Sie "Nummer", "Namen der Mitarbeiter" ein.
+Fügen Sie die Logos der Unternehmen in die Folie ein
+Ändern Sie die Schriftfarbe des Inhalts in der Tabelle in Gelb.
+
+Bitte erstellen Sie eine neue Folie und nennen Sie sie "Künstliche Neuronale Netze".
+Fügen Sie den folgenden Text in den Inhaltsteil ein: "Künstliche neuronale Netze (ANNs) sind Computersysteme, die von den biologischen neuronalen Netzen inspiriert sind, aus denen tierische Gehirne bestehen. Solche Systeme lernen, Aufgaben durch die Betrachtung von Beispielen auszuführen, im Allgemeinen ohne dass sie mit aufgabenspezifischen Regeln programmiert werden." . ANNs sind in der Lage zu lernen und sich an neue Eingaben anzupassen, was sie für eine Vielzahl von Anwendungen nützlich macht, darunter Bilderkennung, Spracherkennung und Verarbeitung natürlicher Sprache."
+Die Schriftgröße des Inhalts ist zu klein. Bitte erhöhen Sie den Wert auf 24
+Ändern Sie dann den Schriftstil des Inhalts in "Calibri". Stellen Sie die Hintergrundfarbe der Folie auf Hellorange ein.
+Richten Sie den Inhalt zentriert und den Titel links aus
+Ändern Sie die Hintergrundfarbe der Folie in Blau.
+Fügen Sie ein Bild mit Bezug zu künstlichen neuronalen Netzen in die Folie ein
+Passen Sie die Größe des Bildes auf eine Breite von 5,5 Zoll an.
+Verschieben Sie das Bild auf die rechte Seite der Folie. ## 1, picture, slide, right
+Fügen Sie eine Tabelle mit drei Spalten und zwei Zeilen ein. Und füllen Sie die erste Zeile mit "1", "2", "3".
+Und fügen Sie in der zweiten Zeile "Videospiele", "Switch", "TV-Serie" ein.
+
+Bitte erstellen Sie zwei neue rote Folien für mich
+Benennen Sie den Titel von Folie 0 "Herausforderungen" und legen Sie den Schriftstil des Titels "Calibri" fest.
+Fügen Sie den folgenden Text in den Inhaltsteil der ersten Folie ein: "Zu den Herausforderungen bei der Implementierung von KI am Arbeitsplatz gehören der Mangel an Fachwissen, die Kosten und der Widerstand gegen Veränderungen."
+Ändern Sie die Schriftfarbe des Inhalts in Grün
+Gehen Sie zur zweiten Folie und fügen Sie der Folie ein Bild zum Thema KI hinzu. Zentrieren Sie das Bild auf der Folie. ## 1, picture, slide, center
+
+Bitte erstellen Sie eine neue Folie und fügen Sie den Titel "Einleitung" hinzu.
+Fügen Sie den folgenden Text in den Inhaltsteil ein: "Willkommen zu meiner Präsentation über die Geschichte der Videospiele. Videospiele haben seit der Erfindung des ersten elektronischen Spiels in den 1950er Jahren einen langen Weg zurückgelegt. Heute sind Videospiele eine Multimilliarden-Dollar-Industrie wird von Menschen auf der ganzen Welt genossen.
+Fügen Sie der Folie ein Bild des ersten elektronischen Spiels hinzu.
+Positionieren Sie das Bild rechts unten auf der Folie. ##1, picture, slide, right bottom
+Ändern Sie die Schriftfarbe des Titels in Blau
+Fügen Sie der Folie ein Textfeld hinzu und fügen Sie den Text ein: "Präsentiert von John Smith".
+
+Bitte erstellen Sie eine neue Folie mit dem Titel "Neuronale Netze".
+Fügen Sie den folgenden Text in den Inhaltsabschnitt ein: "Neuronale Netze sind eine Reihe von Algorithmen, die die Funktionsweise des menschlichen Gehirns nachahmen. Sie werden für eine Vielzahl von Anwendungen wie Bilderkennung, Spracherkennung und Verarbeitung natürlicher Sprache verwendet."
+Ändern Sie den Schriftstil des Inhalts in Arial
+Fügen Sie ein grünes Dreieck ein. Und verschieben Sie es in die linke Ecke. ##1, triangle, slide, left corner
+Fügen Sie der Folie ein Bild eines neuronalen Netzwerks hinzu
+Stellen Sie die Höhe und Breite auf 1,2 ein
+Erstellen Sie eine neue Folie. Fügen Sie rechts einen blauen Pfeil ein. ## 2, right arrow, slide, right
+Fügen Sie ein Liniendiagramm hinzu. Das horizontale "X" steht für Januar, Februar, März, April. Das vertikale "Y" ist 120,140,110 und 90. Geben Sie ihm den Titel "Chatgpt".
+Fügen Sie ein Textfeld ein, das den Namen einer beliebten neuronalen Netzwerkbibliothek enthält (z. B. TensorFlow, PyTorch, Keras).
+Ändern Sie die Schriftfarbe des Titels in Blau. und die Hintergrundfarbe der Folie auf Hellblau.
+
+Fügen Sie dies in den Inhaltsteil ein: "Das Wörterbuch kann verwendet werden, um Wortbedeutungen, Aussprachen und Schreibweisen zu finden und neue Wörter nachzuschlagen."
+Erstellen Sie einen Kreis über dem Inhaltsteil. ## 0, circle, content, top
+Fügen Sie "Nominalphrase" in den Kreis ein
+Ändern Sie die Schriftfarbe des Inhalts in Rot und den Stil in "Impact".
+
+Bitte erstellen Sie 3 neue Folien mit den Titeln "Einführung", "Methodik" und "Ergebnisse".
+Fügen Sie in der Folie "Einleitung" folgenden Text in den Inhaltsteil ein: "Diese Präsentation stellt unser Forschungsprojekt vor und erläutert seine Bedeutung." Fügen Sie auf der Folie "Methodik" den folgenden Text in den Inhaltsteil ein: "Unsere Forschungsmethodik umfasste das Sammeln von Daten aus verschiedenen Quellen und die Verwendung statistischer Analysen, um Schlussfolgerungen zu ziehen."
+Richten Sie den Text links aus.
+Ändern Sie die Hintergrundfarbe aller Folien in Hellblau
+Fügen Sie der Folie "Ergebnisse" ein Bild einer Grafik hinzu. Stellen Sie das Bild auf eine Höhe von 6,5 Zoll ein.
+Fügen Sie auf jeder Folie eine Notiz mit dem heutigen Datum 1.1.2022 hinzu.
+
+Bitte erstellen Sie zwei neue Folien mit den Titeln "Produktübersicht" bzw. "Funktionen".
+Fügen Sie in der Folie "Produktübersicht" ein Bild des Produkts ein
+Fügen Sie den folgenden Text in den Inhaltsteil ein: "Unser Produkt ist darauf ausgelegt, die Bedürfnisse unserer Zielgruppe zu erfüllen, indem es eine einfache und effiziente Lösung für deren Problem bietet."
+Fügen Sie in der Folie "Features" eine Tabelle mit 5 Zeilen und 2 Spalten ein.
+Fügen Sie "DingTalk" in die letzte Zelle ein.
+Ändern Sie den Schriftstil von "DingTalk" in "Times New Roman".
+Fügen Sie auf jeder Folie eine Notiz mit der aktuellen Uhrzeit 12:00 Uhr hinzu.
+
+Erstellen Sie eine neue Folie und geben Sie Folie 1 den mittig ausgerichteten Titel "Verkaufsbericht".
+Fügen Sie ein Kreisdiagramm mit den folgenden Daten ein: Produkt A: 120, Produkt B: 220, Produkt C: 180.
+Ändern Sie die Schriftgröße des Titels auf 28.
+Fügen Sie in der oberen rechten Ecke der Folie ein Bild des Firmenlogos hinzu
+Fügen Sie folgenden Text in den Inhaltsteil ein: "Dieser Bericht zeigt die Verkaufsleistung unserer Produkte im ersten Quartal 2023."
+Ändern Sie den Schriftstil des Textes in "Times New Roman".
+Der Inhalt sollte in gleicher Weise zum Titel passen.
+
+Erstellen Sie eine neue Folie und fügen Sie den Titel "Marketingstrategien" hinzu.
+Ändern Sie den Schriftstil des Titels auf "Calibri" und die Schriftgröße auf 36
+Fügen Sie im Inhaltsteil ein Bild einer Marketingkampagne ein
+Drehen Sie das Bild um 45 Grad und richten Sie es auf der rechten Seite aus. ## 1, picture, slide, right
+Erstellen Sie eine neue Folie und fügen Sie den Titel "Powerful MT" ein.
+Ändern Sie den Schriftstil des Titels auf "Arial" und die Schriftgröße auf 24
+Fügen Sie unter dem Untertitel ein neues Textfeld hinzu, fügen Sie Aufzählungspunkte hinzu und geben Sie "SEO", "E-Mail-Marketing" und "PPC" ein.
+Stellen Sie die Hintergrundfarbe auf Blau ein.
+Fügen Sie ein Balkendiagramm entsprechend den Daten ein: Element A 27, Element B 30, Element C 29. Und verschieben Sie das Diagramm auf die linke Seite der Folie. ##1, bar chart, slide, left
+Ändern Sie den Diagrammtitel in "Marketingbudget".
+Fügen Sie eine Tabelle mit vier Zeilen und zwei Spalten ein.
+Fügen Sie den folgenden Inhalt in die Tabelle ein: "Datum", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag", "Sonntag".
+Verschieben Sie die Tabelle auf die rechte Seite des Diagramms. ##1, table, chart, right
+
+Erstellen Sie eine neue Folie und geben Sie ihr einen gelben Hintergrund
+Fügen Sie einen Titel "Bewertungsmetriken" hinzu.
+Fügen Sie eine Tabelle mit zwei Spalten und drei Zeilen hinzu
+Fügen Sie der ersten Zeile den folgenden Inhalt hinzu: "Metrik", "Formel". Fügen Sie der zweiten Zeile den folgenden Inhalt hinzu: "Accuracy", "(TP+TN)/(TP+TN+FP+FN)". Fügen Sie der dritten Zeile den folgenden Inhalt hinzu: "Präzision", "TP/(TP+FP)"
+Fügen Sie ein Liniendiagramm hinzu. Die Daten sind Oktober, November, Dezember als horizontales X, 160,170 und 130 sind die Daten im vertikalen Y. Geben Sie ihm den Titel "Zeitmaschine".
+Fügen Sie ein Balkendiagramm mit denselben Daten hinzu.
+
+Fügen Sie eine neue Folie hinzu und fügen Sie den Titel "Datenvisualisierung" hinzu.
+Fügen Sie ein Balkendiagramm mit den folgenden Daten ein: "Auge", "Hand", "Bein" und "Knie" als horizontales X und 60,70,80,90 als vertikales Y
+Ändern Sie die Größe des Diagramms auf 4 x 4 Zoll
+Fügen Sie dem Diagramm einen Titel "Umsatz nach Region" hinzu
+Fügen Sie einen grünen Pfeil in die Folie ein.
+
+Erstellen Sie eine neue Folie und fügen Sie den Titel "Marketingkampagne" hinzu.
+Fügen Sie rechts neben dem Inhaltsteil ein Bild eines Produkts ein. ## 1, picture, content, right
+Stellen Sie das Bild auf eine Breite von 5 Zoll ein.
+Fügen Sie im Inhaltsteil den folgenden Inhalt ein: "Europäische Sprachfamilie, die eng mit den Sprachen Friesisch, Deutsch und Niederländisch (in Belgien Flämisch genannt) verwandt ist."
+Fügen Sie unten rechts auf der Folie einen roten Kreis hinzu. ## 1, circle, slide, bottom right
+Geben Sie dem Hintergrund eine grüne Farbe.
+Ändern Sie die Hintergrundfarbe der Folie in eine hellblaue Farbe
+Erstellen Sie dann eine neue Folie und fügen Sie den Titel "Verkaufsdaten" hinzu.
+Fügen Sie eine Tabelle mit 4 Spalten und einer Zeile ein
+Geben Sie die folgenden Daten in die Tabelle ein: Name des Verkäufers, Gesamtumsatz, Provisionssatz und Provisionsbetrag
+Gehen Sie zur nächsten Folie. Passen Sie die Hintergrundfarbe der letzten Folie an.
+
+Erstellen Sie eine neue Folie und fügen Sie einen Titel "Verkaufsbericht" hinzu. Stellen Sie die Schriftgröße des Titels auf 25 ein
+Fügen Sie den folgenden Text in den Inhaltsteil ein: "Hier ist der vierteljährliche Umsatzbericht für unser Unternehmen:"
+Stellen Sie die Schriftgröße auf 16 ein und ändern Sie die Farbe in Lila.
+Fügen Sie der Folie ein 8*5-Rechteck hinzu.
+Ändern Sie die Hintergrundfarbe der Folie in Grün.
+
+Bitte erstellen Sie eine neue Folie und fügen Sie den Titel "Künstliche Neuronale Netze" hinzu
+Fügen Sie den folgenden Text in den Inhalt ein: "Künstliche neuronale Netze (KNN) sind Computersysteme, die von biologischen neuronalen Netzen inspiriert sind, aus denen tierische Gehirne bestehen, aber nicht mit ihnen identisch sind. Solche Systeme lernen, Aufgaben durch die Betrachtung von Beispielen auszuführen, im Allgemeinen ohne programmiert zu werden." mit aufgabenspezifischen Regeln."',
+Erhöhen Sie die Schriftgröße des Inhalts auf 24. Wenden Sie außerdem den Schriftstil "Arial" auf den Inhalt an.
+Ändern Sie die Schriftfarbe des Titels in Lila.
+Fügen Sie der Folie ein Bild eines Gehirns hinzu und ändern Sie die Breite auf 6,5
+Drehen Sie das Bild um 90 Grad im Uhrzeigersinn
+Fügen Sie ein neues Textfeld hinzu und schreiben Sie "Anwendungen von ANNs" hinein.
+Ändern Sie die Schriftgröße des Titels auf 36 und den Schriftstil auf Calibri
+Fügen Sie eine Tabelle mit nur zwei Zeilen und einer Spalte ein.
+Fügen Sie den folgenden Inhalt in die Tabelle ein: "Bilderkennung" und "Verarbeitung natürlicher Sprache"
+
+Nennen Sie den Titel "Qualitätsbewertung maschineller Übersetzung"
+Fügen Sie eine Notiz unter dem Titel "Reporterin: Eva" hinzu. ## 0, textbox, title, bottom
+Stellen Sie die Schriftgröße des Titels auf 66 ein.
+Legen Sie den Hintergrund mit einer blauen Farbe und einer roten Schrift fest.
+Emm, das ist nicht gut. Ändern Sie die Hintergrundfarbe in Rot und machen Sie die Schriftfarbe blau.
+
+Bitte erstellen Sie eine neue Folie und fügen Sie den Titel "Neuronale Netze" hinzu.
+Fügen Sie den folgenden Text in den Inhaltsteil ein: "Neuronale Netze sind eine Reihe von Algorithmen, die die Funktion eines menschlichen Gehirns nachahmen. Sie sind darauf ausgelegt, Muster zu erkennen, Daten zu klassifizieren und Vorhersagen zu treffen."
+Die Schriftgröße des Inhalts ist zu klein. Bitte erhöhen Sie den Wert auf 24
+Ändern Sie dann den Schriftstil des Inhalts in Arial. Richten Sie den Inhalt zentriert aus
+Ändern Sie die Schriftfarbe des Titels in Blau
+Blau ist nicht gut. Bitte ändern Sie die Titelfarbe in Grün
+Fügen Sie der Folie ein Bild eines Gehirns hinzu und legen Sie dessen Höhe und Breite auf 1,5 fest.
+Fügen Sie im Inhalt "Das menschliche Gehirn hat die Entwicklung neuronaler Netze inspiriert" ein.
+Fügen Sie abschließend einen Hinweis zur am häufigsten verwendeten neuronalen Netzwerkarchitektur hinzu, z. B. dem Convolutional Neural Network (CNN) oder dem Recurrent Neural Network (RNN).
+Fahren Sie nun mit der nächsten Folie fort. und Ändern Sie die Hintergrundfarbe beider Folien in Gelb.
+
+﻿Bitte erstellen Sie eine neue Folie und nennen Sie deren Titel "Persönliche Finanzen". Machen Sie die Notiz mit dem Titel gleich.
+Unterstreichen Sie den Titel und erhöhen Sie die Schriftgröße auf 24.
+Fügen Sie dann Folgendes in den Inhaltsteil ein: "Persönliche Finanzen umfassen das gesamte Universum der Verwaltung der individuellen und familiären Finanzen, der Übernahme von Verantwortung für Ihre aktuelle und zukünftige finanzielle Situation und der Festlegung finanzieller Ziele. Dazu gehört auch die Bewältigung individueller Finanzaufgaben und das Sparen für Notfälle." "
+Ja, ändern Sie jetzt die Schriftfarbe in Orange.
+Fügen Sie ein Bild eines Unternehmensfinanzbuchs ein.
+Stellen Sie die Breite des Bildes auf 6,5 Zoll ein.
+Ja, und geben Sie dieser Folie jetzt einen blauen Hintergrund
+Warten! Wenn das Blau nicht gut ist, ändern Sie die Hintergrundfarbe in Hellblau.
+Erstellen Sie zwei weitere Folien und sorgen Sie bitte dafür, dass die anderen Folien denselben hellblauen Hintergrund haben.
+Fügen Sie auf der zweiten Folie eine Tabelle mit zwei Spalten und einer Zeile ein.
+
+Fügen Sie den Inhalt "Willkommen auf der Website des Microsoft Update-Katalogs" ein.
+Ändern Sie die Schriftfarbe des Inhalts in Orange, während die Folie dunkelblau ist.
+Fügen Sie ein Bild eines Computers ein. Verschieben Sie es an den unteren Rand der Folie. ## 0, picture, slide, bottom
+Emm, es ist nicht gut. Verschieben Sie das Bild auf die linke Seite der Folie. ## 0, picture, slide, left
+Erstellen Sie nun eine Tabelle mit zwei Zeilen und vier Spalten. Und fügen Sie "Grundkonzepte", "Ursprung", "Kategorien" und "Entwicklung" in die erste Zeile ein.
+Erstellen Sie eine neue Folie und fügen Sie einen roten Stern ein.
+Fügen Sie ein Kreisdiagramm entsprechend den Daten ein, Q1 10 Millionen; Q2, 12 Millionen; Q3 14 Millionen. Und verschieben Sie den Stern in der unteren Ecke des Diagramms. ## 1, star, pie chart, bottom corner
+Vergrößern Sie das Diagramm auf 10*10.
+
+Erstellen Sie eine neue Folie und geben Sie ihr eine blaue Hintergrundfarbe.
+Bitte fügen Sie den Titel "Einführung" hinzu.
+Und fügen Sie die Worte in den Inhalt ein: "People Plus Money entspricht persönlichen Finanzen."
+Kursiv setzen und den Inhalt unterstreichen.
+Ändern Sie die Schriftfarbe des Inhalts in Grün.
+Fügen Sie ein Bild von einer Person hinzu, die nach etwas Geld greift. Verschieben Sie das Bild in die untere Ecke. ## 1, picture, slide, bottom corner
+Stellen Sie das Bild auf 8 Zoll Breite und 7 Zoll Höhe ein.
+Erstellen Sie eine neue Folie. Bitte schreiben Sie im Inhaltsteil die Worte: "Geld ist nicht alles, aber kein Geld ist unmöglich"
+Ändern Sie den Schriftstil in "Futura", die Farbe in Blau.
+Blau ist nicht so gut. Lila wäre besser.
+Fügen Sie ein Kreisdiagramm mit den Daten ein: 1,2,3,4,5. Und verschieben Sie es auf die rechte Seite des Inhalts. ## 2, pie chart, content, right
+Benennen Sie die Folie "Die Auswirkungen des Geldes"
+
+Bitte erstellen Sie eine neue Folie und nennen Sie deren Titel "Der Unterschied zwischen Privat- und Unternehmensfinanzierung".
+Fügen Sie dann eine Tabelle mit zwei Zeilen und drei Spalten ein.
+Fügen Sie auf der linken Seite der Tabelle ein Bild eines Firmenlogos ein. ## 1, picture, table, left
+Fügen Sie die Tabelle mit den folgenden Daten ein: "Borderlands 2", "Divinity: Original Sin 2", "Final Fantasy VII", "Assassin’s Creed IV: Black Flag", "Mega Man 3", "Mega Man 3".
+Fügen Sie eine Wolke ein und verschieben Sie sie auf die rechte Seite der Tabelle. ## 1, cloud, table, right
+Fügen Sie als Nächstes einen Hinweis "23.04.2023" in diese Folie ein.
+
+Geben Sie der Folie eine orange Hintergrundfarbe.
+und erstellen Sie eine neue Folie mit demselben Hintergrund, fügen Sie den Titel ein: "Bridget Fonda"
+Setzen Sie den Titel kursiv und stellen Sie die Schriftgröße auf 18 ein
+Fügen Sie oben rechts ein Bild von Bridget Fonda hinzu. ## 1, picture, slide, top right
+Stellen Sie das Bild auf 8 Zoll Breite und 7 Zoll Höhe ein.
+Ja, und erstellen Sie eine neue Folie.
+Bitte fügen Sie den Inhalt ein: "Bridget Fonda wurde in Los Angeles geboren und stammt aus einer angesehenen Schauspielerfamilie, zu der Henry Fonda, Peter Fonda und Jane Fonda gehören. Sie kam mit dem Theater in Kontakt, nachdem sie in einer Schulproduktion von Harvey auftrat und später eine Rolle spielte Sie spielte eine stumme Rolle in "Partners". 1988 trat sie in "Scandal" auf, ihrer ersten Sprechrolle, und hatte danach einige kleinere Rollen.
+Emmm, die Schriftgröße des Inhalts ist zu groß, bitte stellen Sie die Größe auf 12 ein und schreiben Sie den Inhalt kursiv
+Nennen Sie den Titel der Folie: "Filmliste".
+Fügen Sie die Tabelle mit drei Zeilen und drei Spalten ein und fügen Sie die Zahlen 1,2,3,4,5,6,7,8,9 in die Tabelle ein.
+Verschieben Sie die Tabelle auf die rechte Seite der Folie. ##1, table, slide, right
+
+Erstellen Sie eine neue Folie
+Fügen Sie dann den Titel "Geisterbär" hinzu und unterstreichen Sie ihn
+Fügen Sie den Inhalt ein: "Der seltenste Bär, von dem Sie wahrscheinlich noch nie gehört haben"
+und fügen Sie ein Foto von Ghost Bear ein.
+Ändern Sie den Schriftstil auf "Arial" und die Schriftgröße auf 20.
+Verschieben Sie das Foto auf die rechte Seite des Inhalts. ## 1, photo, content, right
+Erstellen Sie dann eine neue Folie und fügen Sie eine Baumkarte über Bären ein.
+Bewegen Sie die Baumkarte in die Mitte, ## 2, treemap, slide, center
+Stellen Sie das Foto auf eine Breite von 4 Zoll ein.
+Fügen Sie den Inhalt ein: "Als ich Hunger auf Dungeons and Dragons hatte, füllte Divinity: Original Sin 2 diese Lücke für mich."
+Nennen Sie den Titel "Mein Lieblingsspiel"
+Fügen Sie nun eine Tabelle mit zwei Zeilen und zwei Spalten ein
+Fügen Sie die folgenden Daten in die Tabelle ein: "SMS", "WeChat", "QQ" und "DingTalk".
+
+Erstellen Sie eine neue Folie. Legen Sie einen blauen Hintergrund für die Folie fest.
+Fügen Sie in der unteren linken Ecke ein Bild des Universums ein. ## 1, picture, slide, bottom left
+Stellen Sie die Breite des Bildes auf 6,5 Zoll und die Höhe auf das Doppelte der Breite ein.
+Geben Sie Folgendes in den Inhaltsteil ein: "Man kann sagen, dass ich etwas wählerisch bin. Ich mag kein zu süßes Essen wie Süßigkeiten, Schokolade usw."
+Benennen Sie die Folie "Mein Lieblingsessen"
+Ändern Sie die Farbe des Titels und des Inhalts in Gelb.
+Unterstreiche den Titel. Ändern Sie die Schriftgröße des Titels auf 24 und des Inhalts auf 22.
+Fügen Sie eine Wolke ein und verschieben Sie sie auf die rechte Seite des Bildes. ## 1, cloud, picture, right
+
+Unterstreichen Sie den Titel mit "Idol".
+Fügen Sie ein rotes Rechteck ein und verschieben Sie es an den unteren Rand des Titels. ## 0, rectangle, title, bottom
+und fügen Sie den linksbündigen Inhalt ein: "Ich will dich! (Ich will dich!) Ich brauche dich! (Ich brauche dich!) Ich liebe dich! (Ich liebe dich!)"
+Um die Wörter attraktiv zu gestalten, stellen Sie die Schriftgröße auf 24 ein
+Nein, verdoppeln Sie die Schriftgröße.
+Bitte fügen Sie ein Bild von AKB48 ein
+Stellen Sie das Bild auf eine Höhe von 6,5 Zoll und eine doppelte Breite ein.
+Fügen Sie eine Tabelle mit einer Spalte und zwei Zeilen ein und fügen Sie ein: "Die Zeit eines Idols ist kurz. Es gibt immer ein neues, frisches Gesicht und sie weichen selten vom puppenhaften Status Quo ab." in der Tabelle.
+Ändern Sie die Schriftfarbe in Blau, den Schriftstil in "Futura".
+Einfügung "Die epische Reise der Idole, von Sylvie Vartan bis zu Idolen, die Stadien ausverkaufen, wirft die Frage auf: Was kommt als nächstes für Idole und die Kultur, die sie hervorgebracht haben?" in der zweiten Zelle.
+Fügen Sie der Datei einen Vermerk "2023/05/17" hinzu.
+
+Fügen Sie "INHALT" in der Mitte der Folie ein.
+Fügen Sie die folgenden Inhalte in einer Zeile unter "INHALTE", "Hintergrund", "Bewertungsmissionen", "Modell" und "Anwendungen" ein und nummerieren Sie diese ebenfalls.
+Stellen Sie die Schriftgröße des "INHALTS" auf 80 und die Farbe auf Grün ein.
+Unterstreichen Sie den Inhalt. Legen Sie den Schriftstil des Inhalts auf "Pecita" fest.
+
+Geben Sie der Folie eine orange Hintergrundfarbe. und fügen Sie den Titel "Beste Software" ein.
+Setzen Sie den Titel kursiv und stellen Sie die Schriftgröße auf 24 ein.
+Fügen Sie den folgenden Inhalt ein: "Sie möchten leistungsstarke Software? Sie müssen nicht dafür bezahlen. Alles, was Sie brauchen, um auf Ihrem PC produktiv und sicher zu arbeiten, finden Sie auf dieser Liste, und das alles völlig kostenlos."
+Stellen Sie die Schriftfarbe des Inhalts auf Gelb ein.
+Jetzt ist die Hintergrundfarbe nicht gut, ändern Sie sie in Dunkelblau.
+Unterstreichen Sie den Inhalt und machen Sie den Schriftstil "Arial".
+Fügen Sie einen Pfeil ein und verschieben Sie ihn am unteren Rand der Folie. ## 0, arrow, slide, bottom
+Fügen Sie als Nächstes eine Notiz "25.04.2023" in diese Folie ein.
+
+Bitte erstellen Sie eine neue Folie und nennen Sie ihren Titel "Jay Chou".
+Fügen Sie dann im Inhalt grundlegende Informationen zu Jay Chou wie folgt hinzu: "Jay Chou ist ein taiwanesischer Musiker, Singer-Songwriter, Multiinstrumentalist, Schauspieler und Regisseur."
+Erstellen Sie eine neue Folie und benennen Sie sie: "Mojito"
+Unterstreichen Sie den Titel und stellen Sie die Schriftgröße auf 20 ein
+emmm, verdoppeln Sie die Schriftgröße
+Bitte fügen Sie den Inhalt ein: ""Mojito" kam beim breiten Publikum der internationalen Gemeinschaft gut an. Kubanische Sonne, tropische Hemden, Oldtimer und flotte Beats machen den Song nicht nur zu einem eingängigen Ohrwurm, sondern auch zu einem großen visuellen Genuss."
+Ändern Sie den Schriftstil in "Futura". Ändern Sie die Hintergrundfarbe in Grün.
+Ok, jetzt füge auf der rechten Seite ein Bild des Covers des Songs ein. ## 2, picture, slide, right
+
+Benennen Sie die Folie "Mein College-Leben"
+Fügen Sie ein Bild eines Kollegen mit der Überschrift "College" in die Folie ein.
+Ich möchte den Inhalt einfügen: "Wahnsinn unter College-Studenten, im Ausland zu studieren"
+Machen Sie die Schriftfarbe des Inhalts rot und unterstreichen Sie den Inhalt.
+Stellen Sie den Schriftstil des Inhalts auf "Futura" ein und legen Sie die Schriftgröße des Titels auf 22 fest
+Gut, dann richten Sie den Inhalt nach links aus.
+Fügen Sie eine Tabelle mit einer Zeile und drei Spalten ein.
+Füllen Sie die Tabelle mit "Erste Klasse", "Zweite Klasse", "Dritte Klasse" aus.
+Ok, erstelle eine neue Folie und füge den Inhalt ein: "Michelle Obamas Rede an der Peking-Universität"
+Oh, fügen Sie das Logo der Peking-Universität ein und verschieben Sie es rechts oben auf der Folie. ## 1, picture, slide, right top
+Stellen Sie das Logo auf eine Höhe von 6,5 Zoll ein.
+
+Erstellen Sie eine neue Folie und nennen Sie sie "Learning Python".
+Setzen Sie den Titel kursiv und stellen Sie die Schriftgröße auf 26 ein. Ändern Sie dann den Schriftstil in "Times New Roman".
+und stellen Sie die Hintergrundfarbe grün ein
+Bitte erstellen Sie zwei weitere Folien und sorgen Sie dafür, dass andere Folien denselben Hintergrund haben.
+Fügen Sie ein Rechteck hinzu und verschieben Sie es an die Unterseite der Folie2.## 2, rectangles, slide, bottom
+Fügen Sie eine Tabelle mit einer Zeile und einer Spalte ein.
+Füllen Sie die Tabelle mit "Beispiele sind nicht angegeben, bitte füllen Sie die Tabelle aus."
+
+Bitte erstellen Sie eine neue Folie und geben Sie ihr einen grünen Hintergrund. Fügen Sie den Titel "Maschinelle Übersetzung" ein.
+Fügen Sie den folgenden Text in den Inhaltsteil ein: "Maschinelle Übersetzung ist der Einsatz von Computertechnologie, um Text von einer Sprache in eine andere zu übersetzen."
+Die Schriftgröße des Inhalts ist zu klein. Bitte erhöhen Sie den Wert auf 20
+Nein, verdoppeln Sie es.
+Die Schriftfarbe ist nicht gut. Ändern Sie es in Grün und richten Sie den Inhalt rechts aus.
+Das scheint viel besser zu sein. Fügen Sie ein Bild des Trados-Logos hinzu.
+Stellen Sie die Höhe und Breite auf 2 Zoll ein
+Verschieben Sie das Bild an den unteren Rand der Folie. ## 1, picture, slide, bottom
+Fügen Sie ein Rechteck ein und verschieben Sie es auf die rechte Seite des Bildes. ## 1, rectangle, picture, right
+
+Fügen Sie den Titel und die Notiz "Hintergrund" ein.
+Fügen Sie den Inhalt "Die Anforderungen zum Verständnis der Übersetzungsqualität der Übersetzungsmaschine" ein und fügen Sie diesen Satz unter dem Inhalt "Konzentrieren Sie sich auf die Zuverlässigkeit jedes Datumspunkts" ein.
+Erstellen Sie im unteren Teil eine Wolke und stellen Sie deren Breite auf 6,5 Zoll ein. ## 0, cloud, slide, bottom
+Bitte stellen Sie die Titelgröße auf 30 und die Inhaltsgröße auf 20 ein. Setzen Sie die Schriftart im Inhalt kursiv.
+
+Fügen Sie links einen Kreis ein und stellen Sie dessen Farbe auf Grün ein. ## 0, circle, slide, left
+Stellen Sie die Breite und Höhe des Kreises auf 10 ein.
+Fügen Sie dem Inhalt "Feature Learning Module" und "Quality Assessment Module" hinzu.
+Benennen Sie die Folie als "Grundgerüst".
+Fügen Sie in dieser Datei eine Notiz "2023/4" sowie den Kreis ein.
+
+Nennen Sie den Titel "Gehaltsabrechnung im März" in Grün.
+Erstellen Sie eine Tabelle mit einer Zeile und drei Spalten.
+Fügen Sie in der ersten Zeile jeweils "Mitarbeiter-ID", "Betrag" und "Anmerkung" hinzu.
+Fügen Sie die Informationen unter der Tabelle hinzu: "Der Mitarbeiter muss seinen Bankausweis und seinen Personalausweis vorlegen." ## 0, textbox, table, bottom
+Fügen Sie ein Bild des Markennamens eines Unternehmens ein und verschieben Sie es in die rechte Ecke der Folie. ##0, picture, slide, right corner
+Erstellen Sie eine neue Folie und der Hintergrund sollte gelb sein.
+Der Titel lautet "Kapitel 2" und der Inhalt lautet "Der Mitarbeiterbonus".
+Setzen Sie den Titel kursiv und ändern Sie die Schriftgröße auf 44. Behalten Sie die gleiche Farbe der Titel auf jeder Folie bei.
+Ändern Sie den Schriftstil des Inhalts in Verdana und die Farbe heller.
+Fügen Sie in dieser Folie einen Hinweis "2023/4" hinzu.
+
+Erstellen Sie eine neue Folie, nennen Sie den Titel "Die Funktionen von Deep Learning" und unterstreichen Sie den Titel.
+Stellen Sie die Schriftgröße des Titels auf 26 und die Farbe auf Hellblau ein.
+Fügen Sie einen kleinen Kreis ein.
+Fügen Sie den folgenden Text in den Inhaltsteil ein: "Deep Learning ist eine Technik des maschinellen Lernens, die Computern beibringt, das zu tun, was für den Menschen selbstverständlich ist."
+Legen Sie den Schriftstil des Inhalts auf "Arial" fest.
+Fügen Sie links ein Dreieck ein. ## 1, triangle, slide, left
+Bewegen Sie das Dreieck auf die rechte Seite des Textes. ## 1, triangle, text, right
+Ändern Sie die Farbe des Dreiecks in Rot und seine Breite auf 5.
+Fügen Sie drei Aufzählungspunkte ein und schreiben Sie nach jedem Aufzählungspunkt "Sonntag", "Montag" und "Dienstag".
+Gehen Sie zur nächsten Folie und machen Sie daraus eine gelbe Folie.
+Benennen Sie den Titel sowie die Anmerkung als "Neutrale Netze". Unterstreichen Sie den Titel und schreiben Sie ihn kursiv.
+
+Der Titel der Folie muss als "Kunstgeschichte" festgelegt werden.
+Ändern Sie die Schriftart des Titels in Times New Roman und machen Sie ihn fett.
+Geben Sie ein: "Kunst ist ein vielfältiges Spektrum menschlicher Aktivitäten zur Schaffung visueller, akustischer oder darstellerischer Artefakte, die die Vorstellungskraft, die konzeptionellen Ideen oder die technischen Fähigkeiten des Autors zum Ausdruck bringen und vor allem wegen ihrer Schönheit oder emotionalen Kraft geschätzt werden sollen."
+Ändern Sie den Schriftstil des Textes in Arial und machen Sie ihn kursiv.
+Fügen Sie der Folie einen Aufzählungspunkt hinzu.
+Listen Sie die folgenden Elemente auf: Malerei, Skulptur, Architektur, Musik und Literatur.
+Suchen Sie ein Bild von "Mona Lisa" und fügen Sie es unten ein. ## 0, picture, slide, bottom
+Verschieben Sie das Bild in die obere Ecke der Folie. ## 0, picture, slide, top corner
+Fügen Sie eine Notiz mit der Aufschrift "Mona Lisa von Leonardo da Vinci" hinzu.
+
+Wählen Sie im Menü eine gelbe Sternform aus und zeichnen Sie sie auf der Folie.
+Benennen Sie die Folie "Sterne" und stellen Sie die Schriftgröße des Titels auf 24 ein.
+Fügen Sie einen Text mit der Aufschrift "Willkommen in der Sternennacht" in den Inhaltsteil ein.
+Suchen Sie ein Bild des Universums und fügen Sie es unter dem Inhalt ein. ## 0, picture, content, bottom
+Fügen Sie der Folie eine Notiz mit der Aufschrift "Shining Star, Bright Star, Glimmering Star" hinzu. Ändern Sie den Titel in "Notiz".
+
+Bitte erstellen Sie eine neue Folie und nennen Sie sie "Kundenfeedback".
+Fügen Sie ein Bild eines zufriedenen Kunden ein und verschieben Sie es an den unteren Rand der Folie. ## 1, picture, slide, bottom
+Ändern Sie den Titel rot "Unsere Kunden lieben uns!"
+Hinzufügen "!!" bis zum Ende des Titels.
+Geben Sie "Kundenrezensionen" in den Inhalt ein.
+Stellen Sie den Schriftstil des Inhalts auf "Times New Roman" und die Schriftfarbe auf Grün ein.
+Stellen Sie sicher, dass die Folie die Titelfarbe hat.
+Ähm, es ist nicht gut. Ändern Sie die Hintergrundfarbe in die Inhaltsfarbe.
+
+Bitte erstellen Sie eine neue Folie und nennen Sie sie "Marketingplan".
+Geben Sie dann "Einleitung" in den Titelteil ein. Unterstreichen Sie den Titel und ändern Sie die Schriftart in Calibri.
+Fügen Sie als Nächstes in der unteren linken Ecke ein Bild eines Firmenlogos ein. ## 1, picture, slide, bottom left
+Stellen Sie die Breite und Höhe des Bildes auf 5 Zoll und 3 Zoll ein und verschieben Sie es auf die rechte Seite. ## 1, picture, slide, right
+Fügen Sie eine Tabelle mit zwei Spalten und zwei Zeilen ein: Kategorie und Informationen, Alter und 25.
+Erstellen Sie eine neue Folie und legen Sie einen blauen Hintergrund für diese Folie fest.
+Benennen Sie die Folie "Mobile Marken"
+Fügen Sie ein Liniendiagramm mit Huawei, Apple, Xiaomi im X, 120,140 und 150 im Y ein.
+Benennen Sie das Diagramm "Umsätze im April"
+
+Bitte erstellen Sie eine Folie und nennen Sie sie "Q2-Finanzbericht".
+Ändern Sie den Schriftstil des Titels in Arial und die Schriftgröße in 20.
+Fügen Sie eine Tabelle mit drei Spalten und einer Zeile ein und fügen Sie die folgenden Daten ein: "Metric", "Q2", "Q3".
+Fügen Sie ein Bild eines Finanzberichts ein. Verschieben Sie das Bild an die obere Seite der Tabelle. ## 1, picture, table, top
+Fügen Sie den folgenden Inhalt ein: "Der Finanzbericht für das zweite Quartal zeigt ein starkes Umsatzwachstum und eine verbesserte Rentabilität, die auf erfolgreiche Kostenoptimierungsmaßnahmen und eine gestiegene Marktnachfrage nach unseren Produkten und Dienstleistungen zurückzuführen sind."
+Machen Sie den Inhalt kursiv und fett.
+Fügen Sie einen Aufzählungspunkt zum Inhalt ein.
+Ändern Sie die Hintergrundfarbe der Folie in Hellblau.
+
+Erstellen Sie eine neue Folie und geben Sie ihr eine grüne Hintergrundfarbe
+Machen Sie den Titel: Feminismus
+Stellen Sie die Schriftfarbe des Titels auf Hintergrund und die Schriftgröße auf 26 ein
+Fügen Sie den folgenden Inhalt ein: "Feminismus ist der Glaube und das Streben nach gleichen Rechten, Macht und Chancen für Frauen, parallel zu denen der Männer."
+Stellen Sie die Schriftfarbe des Inhalts auf die des Titels ein und schreiben Sie den Inhalt kursiv
+Erstellen Sie eine neue Folie und nennen Sie sie "3rd Wave of Feminism Movement", in der gleichen Farbe wie die vorherige Folie.
+Machen Sie den Titel fett und stellen Sie den Schriftstil auf "Times New Roman" ein. Stellen Sie die Titelfarbe auf Blau und die Größe auf 28 ein
+Fügen Sie ein Bild eines Krieges ein und verschieben Sie es an den unteren Rand der Folie. ## 2, picture, slide, bottom
+Fügen Sie ein Kreisdiagramm mit den folgenden Daten ein: USA (40 %), Russland (30 %), Frankreich (30 %).
+Fügen Sie eine Tabelle mit drei Zeilen und zwei Spalten ein. In der ersten Zeile werden "Standort", "Verschiedene Städte auf der ganzen Welt" eingefügt.
+
+Bitte erstellen Sie eine neue Folie und nennen Sie sie "Produkteinführung".
+Fügen Sie den Inhalt mit der Aufschrift "Ziel" ein. Notiz mit gleichem Inhalt einfügen.
+Unterstreichen Sie den Inhalt und ändern Sie den Schriftstil in Times New Roman.
+Fügen Sie links unten ein Bild eines Apple Pencil ein. ## 1, picture, slide, left bottom
+Verschieben Sie das Bild nach rechts oben auf der Folie. ## 1, picture, slide, right top
+
+Bitte nennen Sie die Folie "Teamfortschritt".
+Fügen Sie "Ziel" in den Inhaltsteil ein.
+Fügen Sie folgenden Inhalt ein: "Ziel der Organisation ist es, die Jugend und Randgruppen dieser Generation durch die Betreuung erfahrener Freiberufler zu fördern."
+Ändern Sie die Schriftgröße des Inhalts in 18 und unterstreichen Sie den Inhalt.
+Fügen Sie rechts ein Bild einer Teamgruppe ein. ## 0, picture, content, right
+
+Benennen Sie die Folie "Die Kraft der Innovation"
+Legen Sie den Schriftstil für den Titel auf Arial fest und markieren Sie den Titel in Fettschrift.
+Fügen Sie den folgenden Inhalt ein: "In der sich schnell verändernden Welt von heute spielt Innovation eine entscheidende Rolle bei der Förderung des Wirtschaftswachstums, der Gestaltung politischer Landschaften und der Transformation kultureller Normen. Sie treibt den Fortschritt voran, fördert die Wettbewerbsfähigkeit und eröffnet neue Möglichkeiten für Einzelpersonen und Gesellschaften."
+Stellen Sie die Inhaltsfarbe auf Dunkelblau ein und verdoppeln Sie den Leerraum.
+Fügen Sie auf der linken Folie das Bild einer futuristischen Stadtlandschaft ein, die Innovation und Fortschritt darstellt. ## 0, picture, slide, left
+Fügen Sie auf der rechten Folie ein kleines Rechteck ein. ## 0, rectangle, slide, right
+Legen Sie die Farbe des Hintergrundinhalts fest.
+Erstellen Sie eine neue Folie und fügen Sie den Inhalt ein: "Es funktioniert ohne Rationalität, ohne Rücksicht auf gesellschaftliche Moral und externe Standards."
+Fetten Sie den Inhalt aus und unterstreichen Sie ihn. Benennen Sie die Folie "Märchen".
+
+Legen Sie den Titel fest als: Urban Living
+Stellen Sie die Hintergrundfarbe auf Hellblau ein
+Fügen Sie eine Tabelle mit drei Zeilen und zwei Spalten ein. Geben Sie in der zweiten Spalte "Menge", "Qualität", "Niveau" ein.
+Fügen Sie ein Dreieck und ein Rechteck in die Folie ein. Das Dreieck sollte sich oben auf dem Rechteck befinden. ## 0, triangle, rectangle, top
+Verschieben Sie das Dreieck an den unteren Rand des Rechtecks. ## 0, triangle, rectangle, bottom
+Fügen Sie in der linken unteren Ecke der Folie ein Bild von Shanghai ein. ## 0, picture, slide, left bottom
+
+Fügen Sie eine Tabelle mit sechs Spalten und vier Zeilen ein.
+Fügen Sie Jahr, Freunde, Breaking Bad, Game of Thrones, Stranger Things, The Crown in die erste Zeile ein.
+Fügen Sie einen Stern auf der Folie ein.
+Fügen Sie direkt neben dem Star ein Bild von "Friends" ein. ## 0, picture, star, right
+Bewegen Sie den Stern an die obere Seite des Bildes. ## 0, star, picture, top
+Nennen Sie die Folie "TV-Serie". den Titel kursiv schreiben und den Titel unterstreichen,
+Fügen Sie auf der Folie einen Hinweis "2023–2025" hinzu.
+
+Fügen Sie ein um 45 Grad gedrehtes Dreieck ein.
+Fügen Sie rechts davon ein Rechteck ein. ## 0, rectangle, triangle, right
+Fügen Sie rechts vom Rechteck einen Stern ein. ## 0, star, rectangle, right
+Fügen Sie rechts neben dem Stern einen Kreis ein. ## 0, circle, star, right
+Fügen Sie rechts neben dem Kreis eine um -45 Grad gedrehte Beschriftung ein. ## 0, callout, circle, right
+Fügen Sie "Formen" in alle Elemente ein.
+
+Fügen Sie ein Bild eines Globus ein,
+Nennen Sie die Folie "Globale Expansionsstrategie".
+Verschieben Sie das Bild nach links oben auf der Folie. ## 0, picture, slide, left top
+Fügen Sie den folgenden Inhalt ein: "Frieden und Liebe"
+
+Fügen Sie ein Kreisdiagramm mit den folgenden Daten ein: Shanghai 40 %, Peking 45 %, Andere 5 %.
+Nennen Sie die Folie "Beitrag",
+Fügen Sie den folgenden Inhalt ein: "Pekings jährliches Bruttoinlandsprodukt überstieg im Jahr 2021 zum ersten Mal 4 Billionen Yuan (630 Milliarden US-Dollar)"
+Ändern Sie den Schriftstil des Inhalts in Arial.
+Fügen Sie ein Liniendiagramm mit den folgenden Daten ein: 2016 6,7 %, 2017 6,9 %, 2018 6,6 %, 2019 6,1 %, 2020 2,3 %, 2021 8,1 %.
+Nennen Sie die Folie "BIP-Wachstum",
+Fügen Sie ein Balkendiagramm mit den folgenden Daten ein: 2022 6,5 %, 2023 6,3 %, 2024 6,1 %, 2025 5,9 %, 2026 5,7 %, 2027 5,5 %.
+
+Bitte erstellen Sie eine neue Folie und nennen Sie sie "Marketingplan".
+Geben Sie der Folie eine rote Hintergrundfarbe.
+Bitte fügen Sie über dem Titel ein Bild des Firmenlogos ein. ## 0, picture, title, top
+Bitte stellen Sie eine Breite des Bildes von 3 Zoll ein.
+
+Geben Sie den Titel "Queencard" ein.
+Setzen Sie den Titel in Ialschrift und in Fettschrift. Ändern Sie die Schriftfarbe des Titels in Lila.
+Geben Sie der Folie einen hellblauen Hintergrund.
+Fügen Sie ein Bild eines Pokers rechts in den Titel ein, ## 1, picture, title, right
+Verschieben Sie das Bild in die obere Ecke der Folie, ## 0, picture, slide, top corner
+Fügen Sie einen Kreis ein und verschieben Sie ihn in die rechte Ecke der Folie, ## 0, circle, slide, right corner
+Stellen Sie die Breite des Kreises auf 6 Zoll und die Höhe auf 4 Zoll ein
+Erstellen Sie eine neue Folie und nennen Sie sie "König".
+Fügen Sie ein Bild eines Königs in die rechte Folie ein. ## 1, picture, slide, right
+
+Bitte erstellen Sie eine neue Folie und nennen Sie sie "Projektzeitleiste".
+Fügen Sie eine Tabelle mit einer Zeile und vier Spalten ein.
+Fügen Sie Jan, Feb, Mar, April in die Tabelle ein,
+Fügen Sie "z. B. "Softwareeinführung", "Marketingkampagne beginnt" in die Folie ein,
+Fügen Sie ein Bild des Projektteams unter der Tabelle ein, ## 1, picture, table, bottom
+Fügen Sie eine Pfeilform hinzu und verschieben Sie sie auf die linke Seite des Bildes. ## 1, arrow, picture, left
+Passen Sie die Höhe und Breite des Pfeils auf 3 Zoll und 3 Zoll an.
+
+Fügen Sie ein Kreisdiagramm mit den folgenden Daten ein: weiblich 40 % und männlich 60 %
+Geben Sie dem Kreisdiagramm den Titel "Klasse 1".
+Fügen Sie ein Bild eines zusammenarbeitenden Studententeams hinzu.
+Fügen Sie ein Rechteck in die Folie ein und verschieben Sie das Rechteck an den unteren Rand des Kreisdiagramms. ## 0, rectangle, pie chart, bottom
+Benennen Sie die Folie "Klasse 1"
+Fügen Sie den folgenden Inhalt ein: "Das Folgende zeigt den Geschlechteranteil in jeder Klasse."
+Unterstreichen Sie den Inhalt und stellen Sie die Schriftgröße auf 20 ein.
+Fügen Sie der Folie einen Hinweis "Prinzip:Eva" hinzu.
+Erstellen Sie eine Folie und kopieren Sie das Diagramm.
+Kopieren Sie das Bild.
+Kopieren Sie das Rechteck.
+
+Bitte erstellen Sie eine neue Folie und nennen Sie sie "Kundenreferenzen".
+Fügen Sie "Was unsere Kunden über uns sagen" in den Inhaltsteil ein, fett und kursiv den Inhalt,
+Fügen Sie ein Bild eines zufriedenen Kunden ein.
+Fügen Sie ein Dreieck hinzu und füllen Sie es mit lila Farbe.
+Bewegen Sie das Dreieck auf die rechte Seite der Folie, ## 1, triangle, slide, right
+
+Bitte erstellen Sie eine neue Folie und nennen Sie sie "Strategie".
+Geben Sie ein: "Unsere Marketingstrategie basiert auf den 4 Ps: Produkt, Preis, Ort und Werbung." im Inhaltsteil,
+Ändern Sie die Schriftgröße des Inhalts auf 20pt und sorgen Sie für doppelten Leerraum. Unterstreichen Sie den Titel und fetten Sie den Inhalt hervor.
+Stellen Sie die Schriftfarbe des Titels und des Inhalts auf Rot ein.
+Fügen Sie eine Rechteckform hinzu und verschieben Sie sie auf die linke Seite der Folie.## 1, rectangle, slide, left
+Fügen Sie rechts neben dem Rechteck ein Bild des Apple-Firmenlogos ein.## 1, picture, rectangle, right
+Verschieben Sie das Bild an die obere Seite des Rechtecks. ## 1, picture, rectangle, top
+
+Benennen Sie die Folie "Fans" und ändern Sie den Stil und die Größe in Arial, Größe 24pt.
+Fügen Sie Aufzählungspunkte mit 4 Elementen hinzu: "Vorteile unseres Produkts", "Zielmarkt", "Preisstrategie", "Marketingkanäle".
+Fügen Sie ein Bild eines Idols hinzu und stellen Sie die Höhe des Bildes auf 6,5 Zoll ein
+Verschieben Sie das Bild an die untere Seite der Folie, ## 0, picture, slide, bottom
+Fügen Sie ein Rechteck an der Oberseite der Folie hinzu, ## 0, rectangle, slide, top
+Fügen Sie der Folie eine Notiz "Moderator:Eva" hinzu.
+
+Bitte erstellen Sie eine neue Folie und nennen Sie sie "Umsatzzahlen".
+Fügen Sie auf der linken Seite der Folie ein Balkendiagramm mit den Daten "Januar: 20, Februar: 30" hinzu.
+Fügen Sie auf der rechten Seite der Folie ein Liniendiagramm mit den Daten "Januar: 10, Februar: 15" hinzu.
+Fügen Sie dem Liniendiagramm einen Titel als "Umsätze nach Monat" hinzu.
+Fügen Sie eine Rechteckform hinzu und verschieben Sie sie an den oberen Rand der Folie. ## 1, rectangle, slide, top
+Geben Sie "Unser Umsatz ist in den letzten 6 Monaten ebenfalls stetig gestiegen" in den Inhaltsteil ein.
+
+Bitte erstellen Sie eine neue Folie und fügen Sie den Titel "Verkaufsbericht" ein.
+Fügen Sie eine Tabelle mit zwei Zeilen und fünf Spalten ein.
+Fügen Sie der Tabelle die folgenden Daten hinzu: "Produkt", "Verkaufte Einheiten", "Umsatz", "Ausgaben", "Gewinn".
+Fügen Sie die folgenden Daten in die Tabelle ein: "Computer", "1000", "1000000 $", "500000 $", "500000 $".
+Eine weitere Tabelle 1*5 mit Daten: "Drucker", "500", "100.000 $", "50.000 $", "50.000 $".
+
+Fügen Sie oben ein Bild der Skyline einer Stadt ein. ## 0, picture, slide, top
+Stellen Sie die Breite des Bildes auf 6 Zoll und die Höhe auf 4 Zoll ein
+Fügen Sie nun den Titel "Stadtleben" hinzu.
+Verschieben Sie das Bild in die linke Ecke der Folie. ## 0, picture, slide, left corner
+Ändern Sie die Schriftgröße des Titels auf 20 und fetten Sie den Titel ein.
+
+Fügen Sie ein Liniendiagramm basierend auf den folgenden Daten ein: Konzert 40 %, Album 30 %, Buch 30 %.
+Nennen Sie die Folie "The Power of Fandom"
+Fügen Sie "Fans spielen eine entscheidende Rolle bei der Gestaltung des Erfolgs und der Wirkung verschiedener Formen der Unterhaltung, von Filmen und Fernsehsendungen bis hin zu Sport und Musik", in den Inhaltsteil ein.
+Stellen Sie den Schriftstil des Inhalts auf Arial ein. Ändern Sie die Schriftgröße des Inhalts in 20.
+Fügen Sie der Folie einen Pfeil hinzu und verschieben Sie ihn auf die Oberseite der Folie.## 0, arrow, slide, top
+Fügen Sie der Folie einen Kreis hinzu und verschieben Sie ihn an den unteren Rand der Folie.## 0, circle, slide, bottom
+Nach oben verschieben. ## 0, circle, slide, top
+
+Stellen Sie das Folienthema auf "Tencent" ein.
+Fügen Sie ein Rechteck ein, verschieben Sie es an die Oberseite der Folie, ## 0, rectangle, slide, top
+Drehen Sie das Rechteck um 90 Grad.
+Ändern Sie die Schriftart des Titels in "Georgia" und machen Sie ihn kursiv.
+Fügen Sie den folgenden Text in den Inhaltsteil ein: "Tencent ist ein führendes chinesisches multinationales Konglomerat, das 1998 gegründet wurde. Es ist auf verschiedene internetbezogene Dienste und Produkte spezialisiert, darunter soziale Medien, Online-Spiele, E-Commerce, Cloud Computing und künstliche Intelligenz." "
+Passen Sie die Schriftgröße des Inhalts zur besseren Sichtbarkeit auf 24 an. Ändern Sie den Schriftstil des Inhalts in "Arial".
+
+Fügen Sie der Folie einen grünen Hintergrund hinzu, der zum Tencent-Branding passt.
+Fügen Sie das Tencent-Logo als Bild in die Folie ein.
+Stellen Sie das Bild auf eine Breite von 6,5 Zoll ein.
+Fügen Sie ein Liniendiagramm mit der Leistung der Modelle ein: Modell A 40 %, Modell B 30 %, Modell C 30 %.
+auch ein Balkendiagramm dazu.
+
+Bitte erstellen Sie eine neue Folie mit dem Namen "The origin of British" und unterstreichen Sie den Titel.
+OK, dann fügen Sie dies in den Inhaltsteil ein: "Die Ursprünge des Vereinigten Königreichs lassen sich auf die Zeit des angelsächsischen Königs Athelstan zurückführen, der im frühen 10. Jahrhundert n. Chr. die Treue benachbarter keltischer Königreiche sicherte und "der erste" wurde um zu regieren, was früher viele Könige unter sich teilten",
+Das sieht gut aus. Aber die Schriftgröße der Wörter ist zu klein. Ändere es auf 20.
+Ändern Sie die Farbe des Folienhintergrunds in Grün und verdoppeln Sie die Schriftgröße.
+
+Fügen Sie nun eine Rechteckform ein und verschieben Sie sie auf die rechte Seite der Folie.## 0, rectangle, slide, right
+Bitte ändern Sie die Füllfarbe des Rechtecks ​​in Gelb.
+Legen Sie den Folientitel auf "Vinda" fest.
+Fügen Sie den folgenden Text in den Inhaltsteil ein: "Vinda Group ist ein führendes Unternehmen für Hygieneprodukte, das 1985 gegründet wurde. Es ist auf die Herstellung und den Vertrieb von Seidenpapier, Einweghygieneprodukten und Körperpflegeprodukten spezialisiert."
+Bitte ändern Sie die Schriftgröße des Textes auf 20 und die Farbe auf Grün. Passen Sie den Schriftstil dem Titel an.
+Fügen Sie dieser Folie doppeltes Leerzeichen hinzu.
+
+Fügen Sie nun den Titel der Folie "Meine Hobbys" hinzu.
+Bitte fügen Sie rechts oben ein Bild einer Gitarre ein. ## 0, picture, slide, right top
+Typ "Gitarre spielen ist eines meiner Lieblingshobbys." im Inhaltsteil.
+Bitte ändern Sie die Schriftgröße des Textes auf 24 und die Farbe auf Lila.
+
+Bitte erstellen Sie eine neue Folie und nennen Sie sie "Marketingplan".
+Bitte fügen Sie den Titel in den Inhaltsteil ein.
+Ändern Sie den Schriftstil des Inhalts in eine saubere und professionelle Schriftart wie "Calibri".
+Fügen Sie das Vinda-Logo als Bild in die Folie ein.
+Verschieben Sie das Bild in die linke Ecke der Folie. ## 1, picture, slide, left corner
+
+Bitte erstellen Sie eine neue Folie und fügen Sie den Titel "Marketingkampagne" der Größe 20 hinzu.
+OK, fügen Sie jetzt ein Bild eines lächelnden Kunden ein. Verschieben Sie das Bild nach links oben auf der Folie. ## 1, picture, slide, left top
+Das ist gut, aber das Bild ist zu groß. Bitte ändern Sie die Größe auf 5 Zoll Höhe und 6 Zoll Breite.
+Großartig, fügen Sie jetzt Stichpunkte zu den Vorteilen der Marketingkampagne hinzu, einschließlich Gewinn, Ruf, Listing.
+Bitte erhöhen Sie die Schriftgröße aller Inhalte auf der Folie auf 20.
+
+Benennen Sie die Folie als "Batterietypen".
+Der Titel sollte fett und kursiv geschrieben sein.
+Fügen Sie nun ein Bild von "Produkt A" hinzu.
+Das ist gut, verschieben Sie nun das Bild auf die linke Seite der Folie. ## 0, picture, slide, left
+Fügen Sie eine Tabelle mit zwei Spalten und vier Zeilen mit den folgenden Daten ein: Batterietyp, Beschreibung in der ersten Zeile, Alkali- und herkömmliche Haushaltsbatterien mit langer Haltbarkeit in der zweiten Zeile, Lithium-Ionen- und wiederaufladbare Batterien, die in elektronischen Geräten verwendet werden dritte Reihe und Nickel-Cadmium-Akkus mit hoher Energiedichte in der vierten Reihe.
+
+Fügen Sie ein Kreisdiagramm mit den folgenden Daten ein: Marke A: 30 %; Marke B: 25 %; Marke C: 20 %; Marke D: 15 %; Andere Marken: 10 %
+Benennen Sie das Kreisdiagramm "Marken für Klimaanlagen".
+Fügen Sie "Diese Folie enthält eine kurze Beschreibung oder wichtige Punkte zu jeder Marke" in den Inhaltsteil ein.
+Fügen Sie ein Bild von Haier in die untere Folie ein, ## 0, picture, slide, bottom
+Unterstreichen Sie den Inhalt und ändern Sie die Schriftfarbe des Inhalts in Grün.
+Fügen Sie ein Dreieck und ein Rechteck in die Folie ein.
+Verschieben Sie das Dreieck an die untere Seite des Rechtecks. ## 0, triangle, rectangle, bottom
+Drehen Sie das Rechteck um 45 Grad.
+
+Geben Sie als Titel "Unser Team" ein.
+Fügen Sie ein Bild eines Teams ein und ändern Sie die Größe auf 4 Zoll Breite und 3 Zoll Höhe.
+Drehen Sie das Bild um 45 Grad.
+Verschieben Sie das Bild nach links oben auf der Folie. ## 0, picture, slide, left top
+Ändern Sie den Schriftstil des Titels in Calibri und erhöhen Sie die Schriftgröße auf 28.
+
+Stellen Sie das Folienthema auf "Ausweis" ein.
+Fügen Sie ein neues Diagramm ein und wählen Sie den Liniendiagrammtyp mit den folgenden Daten: Fujian, Shanghai, Peking im X und 120, 140, 110 im Y.
+Benennen Sie den Diagrammtitel als "ID-Karten-Betrieb".
+Fügen Sie ein Bild eines Ausweises in den Schieber ein und verschieben Sie ihn nach rechts. ## 0, picture, slide, right
+Ändern Sie den Schriftstil des Folientitels in "Verdana" und erhöhen Sie die Schriftgröße auf 32.
+Geben Sie der Folie eine violette Hintergrundfarbe.
+
+Schreiben Sie "Verkaufsbericht" als Titel.
+Ändern Sie die Schriftart des Titels in Arial. Stellen Sie die Schriftgröße des Titels auf 48 Punkte ein. Stellen Sie den Titel auf Fettschrift ein.
+Fügen Sie eine neue Tabelle mit drei Spalten und fünf Zeilen hinzu.
+Fügen Sie der ersten Zeile die folgenden Informationen hinzu: "Region", "Umsatz", "Wachstum". Fügen Sie die folgenden Informationen zu den nächsten vier Zeilen hinzu: "Nord", "50.000 $", "5 %", "Ost", "75.000 $", "10 %", "Süd", "45.000 $", "3 %", " Westen", "60.000 $", "8 %".
+Stellen Sie die Hintergrundfarbe der Folie auf Grün ein.
+Fügen Sie den folgenden Text in den Inhaltsteil ein: "Name: John Doe, Geburtsdatum: 1. Januar 1990, Geschlecht: männlich, ID-Nummer: 123456789, ausstellende Behörde: Department of Motor Vehicles, Ablaufdatum: 31. Dezember 2023"
+Fügen Sie ein Bild eines Strandes in die Folie ein.
+Fügen Sie einen Pfeil in die Folie ein.
+Verschieben Sie das Bild an die Oberseite des Pfeils. ## 0, picture, arrow, top
+
+Fügen Sie eine neue Rechteckform hinzu.
+Ändern Sie die Füllfarbe des Rechtecks ​​in Orange.
+Stellen Sie die Breite des Rechtecks ​​auf 6 Zoll und die Höhe auf 5 Zoll ein
+Geben Sie als Titel "Wichtige Informationen" in Fettschrift ein.
+Passen Sie die Schriftgröße des Titels auf 24 an und ändern Sie die Schriftfarbe in Grün.
+Fügen Sie eine Aufzählungsliste mit diesen Gegenständen hinzu: Topf, Schere, Schaufel.
+Fügen Sie der Folie ein Bild eines Excalmatory-Zeichens hinzu.
+Verschieben Sie das Bild in die obere Ecke der Folie. ## 0, picture, slide, top corner
+Erstellen Sie eine neue Folie und fügen Sie links ein Rechteck ein. ## 1, rectangle, slide, left
+Benennen Sie die neue Folie als "Zusätzliche Details".
+
+Geben Sie im Inhaltsteil "Hier sind einige Statistiken über das Wachstum unseres Unternehmens" ein.
+Ändern Sie die Schriftfarbe des Inhalts in Lila.
+Fügen Sie eine neue Tabelle mit drei Spalten und einer Zeile hinzu.
+Fügen Sie "Umsatz, Gewinn und Anzahl der Mitarbeiter" in die Tabelle ein.
+
+Fügen Sie ein Bild von Converse-Schuhen in die Folie ein.
+Fügen Sie der Folie den folgenden Inhalt hinzu: "Converse ist eine beliebte Schuhmarke, die für ihre ikonischen Sneaker und ihren lässigen Stil bekannt ist."
+Ändern Sie die Schriftgröße des Inhalts auf 18 und die Schriftfarbe auf Rot.
+
+Fügen Sie der Folie folgenden Inhalt hinzu: "Zitronensaft ist ein erfrischendes und würziges Getränk aus frisch gepressten Zitronen. Es ist reich an Vitamin C und sorgt für einen Hauch von Zitrusgeschmack."
+Benennen Sie die neue Folie "Zitronensaft".
+Erstellen Sie eine Tabelle mit 3 Spalten und 2 Zeilen. Geben Sie "Produkt", "Preis" und "Funktionen" in die erste Zeile ein. Geben Sie "A", "B", "C" in die zweite Zeile ein.
+Fügen Sie rechts in der Tabelle ein Bild von frisch gepresstem Zitronensaft ein. ## 0, picture, table, right
+Fügen Sie "Seite 1" zur Folie hinzu.
+
+Fügen Sie oben links ein Bild eines Strandes ein. ## 0, picture, slide, top left
+Fügen Sie "Buchen Sie noch heute Ihren Urlaub!" in den Inhaltsteil ein.
+Fügen Sie den Titel "Urlaubszeit" hinzu.
+Ändern Sie die Schriftgröße und den Schriftstil aller auf 18 und Times New Roman.
+Fügen Sie eine Aufzählungsliste mit den folgenden Elementen hinzu: "Entspannen am Strand", "Schwimmen im Meer", "Köstliche Meeresfrüchte essen".
+
+Bitte erstellen Sie eine neue Folie und nennen Sie sie "Chili".
+Ändern Sie die Hintergrundfarbe der Folie in Rot.
+Fügen Sie ein Bild einer köstlichen Schüssel Chili in die Folie ein.
+Fügen Sie der Folie den folgenden Inhalt hinzu: "Chili ist ein würziges und aromatisches Gericht, das aus einer Kombination aus Fleisch, Bohnen und verschiedenen Gewürzen zubereitet wird. Es ist bekannt für seinen reichen Geschmack und seine sättigende Schärfe."
+
+Nennen Sie die Folie "Chili". Fügen Sie ein Bild einer Chili-Landschaft in die Folie ein.
+Erstellen Sie eine Tabelle mit 4 Spalten und 3 Zeilen. Geben Sie "Zutat", "Menge", "Schärfegrad" und "Herkunft" in die erste Zeile ein. Geben Sie "Beef", "2 lbs", "Medium" und "Mexico" in die zweite Zeile ein. Geben Sie in die dritte Zeile "Beans", "1 can", "Mild" und "United States" ein. Geben Sie "Tomaten", "3", "Hot" und "Spanien" in die vierte Zeile ein.
+Fügen Sie eine Notiz "Seite 2" hinzu, um die Foliennummer anzugeben.
+
+Fügen Sie unten ein Bild von jemandem ein, der Hamburger isst. ## 0, picture, slide, bottom
+Geben Sie der Folie den Titel "Umsatzprognosen für das 3. Quartal".
+Fügen Sie der Folie folgenden Inhalt hinzu: "Die Umsatzprognosen für das dritte Quartal deuten auf ein stetiges Wachstum von Umsatz und Marktanteil hin. Mit gezielten Marketingstrategien und Produktverbesserungen rechnen wir mit einer deutlichen Steigerung der Vertriebsleistung."
+
+Der Titel ist nicht aussagekräftig genug. Bitte ändern Sie ihn in "Marketingstrategie".
+Großartig, geben Sie ein: "Die Marketingstrategie unseres Unternehmens besteht darin, sich auf Social-Media-Werbung und Influencer-Marketing zu konzentrieren."
+Fügen Sie als Nächstes eine Aufzählungsliste mit Instagram, Facebook und Twitter hinzu.
+Bitte fügen Sie ein Bild einer Person ein, die ein Smartphone nutzt.
+Fügen Sie über dem Bild eine Rechteckform hinzu. ## 0, rectangle, picture, top
+Erstellen Sie eine Tabelle mit 4 Spalten und 6 Zeilen. Geben Sie "Monat", "Umsatz", "Verkaufte Einheiten" und "Wachstumsrate" in die erste Zeile ein.
+
+Bitte erstellen Sie eine neue Folie und nennen Sie sie "Produkteinführung".
+Fügen Sie der Folie einen Titel hinzu: "Wir stellen unser neuestes Produkt vor".
+Fügen Sie ein Bild des Produkts ein,
+Verschieben Sie das Bild an die untere Seite der Folie, ## 1, picture, slide, bottom
+Geben Sie der Folie einen violetten Hintergrund und das Bild sollte oben sein. ## 1, picture, slide, top
+
+Benennen Sie die Folie als "Explore China".
+Fügen Sie eine Karte von China ein, um die vielfältigen Touristenziele des Landes zu präsentieren.
+Verschieben Sie das Bild von China in die linke Ecke der Folie. ## 0, picture, slide, left corner
+Fügen Sie der Folie den folgenden Inhalt hinzu: "China ist ein faszinierendes Touristenziel, das für seine reiche Geschichte, seine lebendige Kultur und seine atemberaubenden Landschaften bekannt ist. Von der berühmten Chinesischen Mauer bis zur geschäftigen Metropole Shanghai ist in dieser riesigen und geschäftigen Metropole für jeden Reisenden etwas dabei." vielfältiges Land."
+Erstellen Sie eine Tabelle mit 5 Spalten und 8 Zeilen. Geben Sie "Provinz", "Berühmte Sehenswürdigkeiten", "Durchschnittstemperatur", "Touristenzahlen" und "Empfohlene Jahreszeit" in die erste Zeile ein.
+Bitte erstellen Sie eine neue Folie und nennen Sie sie "Projektzeitleiste".
+Fügen Sie links nach dem Titel einen Stern in die Folie ein. ## 1, star, slide, left
+Bewegen Sie den Stern auf die rechte Seite der Folie. ## 1, star, slide, right
+
+Nennen Sie den Titel "OPPO". Stellen Sie die Schriftfarbe auf Rot, die Schriftgröße auf 20 und den Titel unterstreichen und fett formatieren ein.
+Fügen Sie den folgenden Inhalt in den Inhaltsteil ein: "OPPO ist ein führender Smartphone-Hersteller, der für sein innovatives Design und seine Spitzentechnologie bekannt ist."
+Fügen Sie ein Bild eines OPPO-Smartphones ein, um die Marke zu präsentieren. Es sollte dem Inhalt überlassen werden. ## 0, picture, content, left
+Erstellen Sie eine neue Folie und nennen Sie sie "Xiaomi".
+Erstellen Sie eine Tabelle mit 4 Spalten und 3 Zeilen. Geben Sie in der ersten Zeile "Produkt", "Preis", "Funktionen" und "Verfügbarkeit" in die erste Zeile ein. Geben Sie in der zweiten Zeile die folgenden Daten für Xiaomi-Produkte ein: "Mi 11", "699 $", "Snapdragon 888, 108-MP-Kamera", "Global". Geben Sie in der dritten Zeile die folgenden Daten für Xiaomi-Produkte ein: "Redmi Note 10", "249 $", "AMOLED-Display, 48-MP-Kamera". ", "Global".
+
+Bitte erstellen Sie eine neue Folie und nennen Sie sie "Produktübersicht".
+Fügen Sie eine Tabelle mit 3 Spalten und 4 Zeilen auf der Folie ein. Geben Sie in der ersten Spalte "Produktname", "SKU", "Preis" und "Menge" ein.
+Stellen Sie die Hintergrundfarbe auf Grün ein.
+
+Legen Sie eine blaue Hintergrundfarbe für diese Folie fest. Legen Sie den Titel auf "Research Writing" fest.
+Fügen Sie den folgenden Inhalt in die Folie ein: "Beim wissenschaftlichen Schreiben geht es um die systematische Untersuchung und Dokumentation eines Themas, um neue Erkenntnisse und Erkenntnisse zu einem bestimmten Fachgebiet beizutragen."
+Ändern Sie die Schriftfarbe des Inhalts in Gelb und die Schriftgröße auf 18.
+Verdoppeln Sie die Schriftgröße.
+Erstellen Sie ein Liniendiagramm mit den folgenden Daten: 2016, 2017, 2018 als Daten in X, 120.140.160 als Daten in Y.
+Nennen Sie das Liniendiagramm "Veröffentlichungen im Zeitverlauf".
+Fügen Sie ein Bild des Covers eines Forschungsberichts ein. Ändern Sie die Hintergrundfarbe auf die gleiche wie die vorherige.
+
+Erstellen Sie eine neue Folie und fügen Sie der Folie einen Titel mit der Aufschrift "Planung im März" hinzu.
+Formatieren Sie die Schriftgröße des Titels auf 28 und die Farbe auf Dunkelblau.
+Fügen Sie eine Tabelle mit vier Spalten und drei Zeilen ein. Die erste Zeile ist "Datum", "Aufgabe", "Startzeit", "Endzeit". Die zweite Zeile ist "15. März", "Treffen mit Interessenvertretern", "9:00 Uhr" und "10:30 Uhr". Die letzte Zeile lautet "23. März", "Projektüberprüfung und -aktualisierung", "14:00 Uhr" und "16:00 Uhr".
+Fügen Sie ein Bild eines Kalenders ein. Bewegen Sie es auf die Oberseite des Tisches.
+
+Erstellen Sie eine neue Folie und nennen Sie sie "Die Vorteile der Meditation".
+Fügen Sie ein Bild einer meditierenden Person ein. Verschieben Sie es an den unteren Rand der Folie. ## 1, image, slide, bottom
+Schreiben Sie: "Meditation ist eine einfache, aber wirkungsvolle Technik, die Ihnen helfen kann, einen Zustand des inneren Friedens und der Ruhe zu erreichen." im Inhaltsteil.
+Ändern Sie die Schriftgröße des Inhalts auf 24 und stellen Sie den Schriftstil auf Times New Roman ein.
+Fügen Sie ein Rechteck ein. Verschieben Sie es auf die rechte Seite des Bildes. ## 1, rectangle, image, right
+Ändern Sie die Farbe des Rechtecks ​​in Hellgrün.
+Erstellen Sie eine weitere Folie und die Hintergrundfarbe sollte hellblau sein.
+Fügen Sie eine Tabelle mit zwei Spalten und drei Zeilen ein.
+Schreiben Sie in die erste Spalte "Achtsamkeitsmeditation", "Transzendentale Meditation" und "Body-Scan-Meditation". Fügen Sie in die zweite Spalte ein: "Meditation hilft, den Geist zu beruhigen, Stress abzubauen und fördert die Entspannung." Regelmäßige Meditationspraxis verbessert die Konzentrationsfähigkeit und Konzentrationsfähigkeit und "Meditation fördert emotionale Stabilität, Achtsamkeit und allgemeines Wohlbefinden." "
+
+Erstellen Sie eine neue Folie und geben Sie ihr einen grünen Hintergrund.
+Fügen Sie ein Bild eines Stücks Grasland ein und stellen Sie die Breite und Höhe auf 6,5 und 5,5 ein.
+Fügen Sie der Folie einen Titel hinzu und nennen Sie sie "Die Funktionen der Wälder". Ändern Sie die Schriftfarbe auf Dunkelrot und die Schriftgröße auf 40.
+Fügen Sie eine gelbe "Pfeil"-Form ein.
+Bewegen Sie den Pfeil auf die rechte Seite des Bildes. ## 1, arrow, picture, right
+
+Fügen Sie ein Kreisdiagramm ein. "Essen, Unterkunft, Transport, Unterhaltung, Sonstiges" sind die Kategorie und 40 %, 20 %, 15 %, 10 %, 15 % sind der Prozentsatz.
+Fügen Sie eine Tabelle mit zwei Spalten und sechs Zeilen ein. In der ersten Zeile werden Kategorie und Prozentsatz angegeben.
+Verschieben Sie die Tabelle an die untere Seite des Kreisdiagramms. ## 0, table, pie chart, bottom
+Nennen Sie die Folie "Meine Ausgaben im Mai 2023".
+Kursiv den Titel.
+
+Erstellen Sie fünf Folien und wenden Sie jeweils einen gelben Hintergrund an.
+Benennen Sie auf der ersten Folie den Titel "My Summer Holiday" und ändern Sie den Schriftstil in "Microsoft JhengHei".
+Fügen Sie auf der zweiten Folie ein Bild einer Familie ein.
+Fügen Sie auf der dritten Folie ein Balkendiagramm ein. "Umsatz", "Ausgaben", "Gewinne", "Investition" sind Daten auf dem X, 120, 80,40,60 sind Daten auf dem Y.
+Fügen Sie auf der vierten Folie den folgenden Inhalt ein: "Während meines Sommerurlaubs habe ich mich auf ein unvergessliches Abenteuer eingelassen. Ich habe neue Reiseziele erkundet, die Wärme goldener Sonnenuntergänge genossen und an Sandstränden entspannt."
+Fügen Sie auf der fünften Folie eine Tabelle mit zwei Zeilen und einer Spalte ein. Füllen Sie die Tabelle mit "Umsätze" und "Ausgaben" aus. Die Schriftgröße sollte 26 sein.
+
+Erstellen Sie eine Folie und geben Sie ihr den Titel "Businessplan".
+Fügen Sie ein Bild einer Glühbirne ein. Verschieben Sie es auf die linke Seite der Folie. ## 1, picture, slide, left
+Typ "Unternehmertum ist der Prozess der Konzeption, Gründung und Führung eines neuen Unternehmens, bei dem es sich zunächst oft um ein kleines Unternehmen handelt. Die Menschen, die diese Unternehmen gründen, werden Unternehmer genannt." im Inhaltsteil.
+Stellen Sie den Schriftstil auf "Georgia" und die Schriftgröße auf 10 ein.
+Ändern Sie die Hintergrundfarbe der Folie in Grün.
+Fügen Sie der Folie die Form eines Kreises hinzu.
+Verschieben Sie den Kreis auf die rechte Seite der Folie. ## 1, picture, slide, right
+Gehen Sie zu Folie 0 und geben Sie "Marketingstrategie" in den Inhaltsteil ein.
+Fügen Sie eine Tabelle mit 3 Zeilen und 4 Spalten ein. In der ersten Spalte steht "Social-Media-Kampagne", "Influencer-Partnerschaften" und "E-Mail-Marketing".
+Die vierte Spalte schreibt 10.000 $, 15.000 $, 5.000 $.
+Fügen Sie einen Hinweis "2023/5" hinzu.
+
+Nennen Sie die Folie "Zielgruppe" und wählen Sie den Schriftstil "Arial" aus.
+Verschieben Sie den Titel in die rechte Ecke der Folie. ## 0, title, slide, right corner
+Fügen Sie ein Bild über Gen Z ein und stellen Sie die Breite auf 4 ein.
+Verschieben Sie das Bild an den linken unteren Rand der Folie.## 0, picture, slide, left bottom
+Fügen Sie den folgenden Inhalt in den Inhaltsteil ein: "Das Verständnis und die effektive Ansprache der richtigen Zielgruppe ist entscheidend für die Übermittlung maßgeschneiderter Botschaften und die Maximierung der Wirkung von Marketingbemühungen."
+
+Fügen Sie den Titel "Das Wesentliche der Großmodellierung" ein und stellen Sie die Schriftgröße auf 24 ein.
+Fügen Sie ein Bild eines neutralen Netzwerks ein. Verschieben Sie es an die Unterseite der Folie. ## 0, picture, slide, bottom
+Fügen Sie eine Tabelle mit zwei Spalten und einer Zeile ein. Füllen Sie die Tabelle mit "Nummer" und "Anmerkung" aus.
+Bewegen Sie den Tisch nach oben. ## 0, table, slide, top
+
+Fügen Sie ein Bild eines schroffen, bedrohlich aussehenden Turms ein. Verschieben Sie es an den rechten oberen Rand der Folie. ## 0, picture, slide, right top
+Der Titel der Folie sollte "The Ultimate Heist" lauten.
+Erstellen Sie ein Rechteck. Verschieben Sie das Rechteck an den oberen Rand des Titels. ## 0, rectangle, title, top
+Ändern Sie die Schriftfarbe des Titels in Dunkelgrün und die Schriftgröße auf 28.
+Ändern Sie den Schriftstil in "Microsoft New Tai Lue".
+Geben Sie der Folie eine hellblaue Hintergrundfarbe.
+
+Fügen Sie eine Tabelle mit 4 Spalten und 2 Zeilen ein. In der ersten Zeile steht "Aufgabe", "Priorität", "Startzeit", "Endzeit". In der zweiten Zeile steht "Projektplanung", "Hoch", "9:00 Uhr", "10:30 Uhr".
+Geben Sie im Inhaltsteil den Inhalt "Effektives Zeitmanagement ist eine entscheidende Fähigkeit für den Erfolg sowohl im persönlichen als auch im beruflichen Umfeld" ein.
+Unterstreichen Sie den Inhalt und schreiben Sie ihn kursiv.
+Verschieben Sie die Tabelle an das Ende des Inhalts. ## 0, table, content, bottom
+Fügen Sie ein Bild einer Uhr in die Folie ein.
+Fügen Sie den Hinweis "Moderatorin: Eva" hinzu.
+
+Erstellen Sie eine neue Folie und fügen Sie einen Titel "Firmenprofil" hinzu.
+Fügen Sie im Inhaltsteil folgenden Text ein: "Unser Unternehmen wurde 2005 mit dem Ziel gegründet, unseren Kunden qualitativ hochwertige Produkte und Dienstleistungen anzubieten. Seitdem haben wir uns zu einem führenden Anbieter innovativer Lösungen für verschiedenste Branchen entwickelt." . Unser Expertenteam ist bestrebt, in allem, was wir tun, Spitzenleistungen zu erbringen."
+Ändern Sie den Schriftstil des Titels in "Calibri Light" und die Schriftgröße auf 40
+Fügen Sie ein Bild des Firmenlogos zur rechten Folie Nr. 1 hinzu, Bild, Folie, rechts## 1, picture, slide, right
+Ändern Sie die Größe des Bildes so, dass seine Höhe 2 Zoll und seine Breite 3 Zoll beträgt. Verschieben Sie es auf die linke Folie. ## 1, picture, slide, left
+Verschieben Sie das Bild in die linke Ecke der Folie.## 1, picture, slide, left corner
+Erstellen Sie eine neue Folie und geben Sie ihr eine blaue Hintergrundfarbe.
+Fügen Sie im Inhaltsteil den folgenden Text hinzu: "Wir wollen führend in Innovation und Nachhaltigkeit sein, unseren Stakeholdern einen Mehrwert bieten und einen positiven Einfluss auf die Welt haben."
+Unterstreichen Sie den Inhalt und setzen Sie das doppelte Leerzeichen für den Inhalt.
+Fügen Sie eine Tabelle mit zwei Spalten und einer Zeile ein. Fügen Sie die folgenden Daten in die Tabelle ein: "A-72", "C-71"
+Fügen Sie eine Tabelle mit zwei Spalten und einer Zeile ein. Fügen Sie die folgenden Daten in die Tabelle ein: "B-72", "D-71"
+
+Bitte erstellen Sie eine neue Folie und nennen Sie sie "Verkaufsdaten".
+Fügen Sie eine Tabelle mit 6 Spalten und 15 Zeilen in den Inhaltsteil der Folie ein
+Füllen Sie die Tabelle mit den folgenden Daten: "Produkt", "Januar-Umsatz", "Februar-Umsatz", "März-Umsatz", "Gesamtumsatz" und "Durchschnittsumsatz" in der ersten Zeile und "iPhone", "22" , "13", "15", "17", "12" in der zweiten Reihe.
+Verschieben Sie die Tabelle in die obere linke Ecke der Folie. ## 1, table, slide, left corner
+Fügen Sie abschließend der Folie einen Hinweis "Datenquelle: Vertriebsabteilung" hinzu.
+Erstellen Sie eine neue Folie und kopieren Sie die Tabelle.
+
+Fügen Sie einen Titel "Marketingstrategien" hinzu.
+Ändern Sie die Schriftart des Titels in "Arial Black"
+Fügen Sie den folgenden Inhaltsteil hinzu: "Suchmaschinenoptimierung (SEO)", Social Media Marketing (SMM)", "EmailMarketing", "Content Marketing" und "Pay-Per-Click-Werbung (PPC)".
+Ändern Sie die Schriftfarbe des Inhalts in Dunkelblau
+Der Inhalt ist nicht sichtbar. Ändern Sie die Farbe des Inhalts in Grün.
+Fügen Sie unterhalb des Inhalts ein Bild eines Daumens ein. Stellen Sie die Breite auf 5 Zoll ein. ## 0, picture, content, bottom
+
+Fügen Sie den Titel "The Grand Canyon" ein und schreiben Sie ihn kursiv.
+Vergrößern Sie die Schriftart. Vielleicht sollte die Schriftgröße 30 sein.
+Ändern Sie den Schriftstil des Titels in "Times New Roman".
+Fügen Sie ein Bild des Grand Canyon in den Inhaltsteil der Folie ein
+Verschieben Sie das Bild auf die rechte Seite des Titels. ## 0, picture, title, right
+Ändern Sie die Größe des Bildes so, dass es 4 Zoll hoch und 6 Zoll breit ist
+Erstellen Sie eine Tabelle mit vier Spalten und zwei Zeilen. Fügen Sie "Guangdong", "Beijing", "Shanghai" und "Hainan" in die erste Zeile ein. Fügen Sie in der zweiten Zeile "34 %", "36 %", "20 %", "10 %" ein.
+Fügen Sie ein Kreisdiagramm entsprechend den Daten in der Tabelle ein, also ["Guangdong", "Beijing", "Shanghai" und "Hainan"], ["34 %, "36 %, "20 %", "10". %"]
+Verschieben Sie das Kreisdiagramm an das Ende der Tabelle. ## 0, pie chart, table, bottom
+Fügen Sie ein Balkendiagramm mit denselben Daten ein.
+Fügen Sie abschließend einen Hinweis "Bildquelle: National Park Service" hinzu.
+
+Bitte erstellen Sie eine neue Folie und nennen Sie sie "Produktvergleich".
+Fügen Sie eine Tabelle mit 2 Spalten und 5 Zeilen ein. Fügen Sie die folgenden Daten in die Tabelle ein: "Smartphone (Apple iPhone 13)", "Laptop (Dell XPS 13)", "Smartwatch (Apple Watch Series 7)", "Kopfhörer (Sony WH-1000XM4)", "Kamera (Canon). EOS R5)", "Fernseher (Samsung QLED Q90T)", "Spielekonsole (PlayStation 5)", "Fitness-Tracker (Fitbit Charge 4)", "Kabellose Ohrhörer (AirPods Pro)", "Tablet (iPad Pro)".
+Verschieben Sie den Titel in die untere Ecke der Folie. ## 1, title, slide, bottom corner
+Geben Sie der Folie abschließend eine hellblaue Hintergrundfarbe.
+
+Bitte erstellen Sie eine neue Folie und nennen Sie sie "Monatlicher Verkaufsbericht".
+Fügen Sie im Inhaltsteil der Folie ein Balkendiagramm mit den folgenden Daten ein: "Januar: 10.000 $", "Februar: 12.000 $", "März: 15.000 $", "April: 18.000 $", "Mai: 20.000 $", "Juni: 25.000 $". ", "Juli: 28.000 $", "August: 30.000 $", "September: 32.000 $", "Oktober: 35.000 $", "November: 40.000 $", "Dezember: 45.000 $"
+Benennen Sie das Diagramm als "Meine monatlichen Verkäufe im Jahr 2023".
+Verschieben Sie das Diagramm an den oberen Rand der Folie. ## 1, chart, slide, top
+Fügen Sie folgenden Text in den Inhaltsteil ein: "Der monatliche Umsatzbericht zeigt eine deutliche Umsatzsteigerung."
+Fügen Sie abschließend der Folie einen Hinweis "Präsentiert von: xxx" hinzu.
+
+Ändern Sie die Hintergrundfarbe in Hellrot und fügen Sie ein Erdbeerbild ein.
+Erstellen Sie drei neue Folien. Und benennen Sie ihre Titel: "Projektumfang", "Projektzeitplan" bzw. "Projektbudget".
+Tragen Sie jeweils Hellgrün, Hellblau und Lila auf jede Folie auf.
+Fügen Sie dem Inhaltsteil in Folie 1 den folgenden Text hinzu: "Unser Projekt umfasst die Entwicklung einer neuen Softwareanwendung für unsere Kunden. Die Anwendung wird ihre Geschäftsprozesse rationalisieren und ihr Endergebnis verbessern."
+Fügen Sie auf der zweiten Folie eine Tabelle mit 6 Spalten und 2 Zeilen ein. Und fügen Sie der Tabelle die folgenden Daten hinzu: Monat, Aufgabe, Startdatum, Enddatum, Fortschritt und Kommentare in der ersten Zeile.
+Erstellen Sie ein Liniendiagramm und die Daten sind [2016,2017,2018,2019], [10,12,15,11]. Bewegen Sie es auf die linke Seite des Tisches. ## 1, line chart, table, left
+Fügen Sie eine Sternform in die Folie ein. Verschieben Sie es in die obere Ecke der Folie. ## 1, star, slide, top corner
+Gehen Sie zu Folie 2 und unterstreichen Sie den Titel "Projektzeitleiste".
+Gehen Sie zu Folie 3 und fügen Sie den folgenden Inhalt ein: "Personalkosten: Dazu gehören Kosten im Zusammenhang mit Projektteammitgliedern, wie Gehälter, Löhne, Sozialleistungen und Schulungskosten."
+Ändern Sie den Schriftstil des Inhalts in "Arial".
+Fügen Sie eine Notiz "Danke!" hinzu. zur Datei.
+
+Nennen Sie die Folie "Unternehmenszeitleiste".
+Fügen Sie ein Rechteck ein und drehen Sie es dann um 45 Grad nach rechts
+Verschieben Sie das Rechteck an den rechten unteren Rand der Folie.## 0, rectangle, slide, right bottom
+Machen Sie die Hintergrundfarbe der Folie hellblau
+Fügen Sie eine Tabelle mit vier Spalten und zwei Zeilen ein. Fügen Sie in der ersten Zeile die folgenden vier Daten hinzu: "1980", "1990", "2000", "2010".
+Fügen Sie in der zweiten Zeile die folgenden vier Ereignisse hinzu: "Firmengründung", "Firmenumzug in Neubau", "Firmengang an die Börse", "Firmenübernahme durch Wettbewerber".
+
+Fügen Sie unten ein Bild eines Google-Firmenlogos ein. ## 0, picture, slide, bottom
+Benennen Sie den Titel dann als "Schlussfolgerung" und schreiben Sie ihn kursiv
+Das sieht gut aus. Fügen Sie den Inhalt ein: "Wir sind zunehmend eine weltweite Bevölkerung – die sich frei vermischt. Das wird eine Welt von Hybriden schaffen – hellbraune Haut, dunkelhaarige, Afro-Europa-Australo-Amerikaner, deren Hautfarbe und Gesichtszüge tendenziell sind." in Richtung eines globalen Durchschnitts."
+Richten Sie den Inhalt rechts aus
+Fügen Sie ein Rechteck in die Folie ein und legen Sie die Höhe auf 5 fest.
+Verschieben Sie dann das Rechteck an den unteren Rand der Folie. ## 0, rectangle, slide, bottom
+
+Bitte erstellen Sie eine neue Folie und setzen Sie den Titel auf "Ethische Literaturkritik" und fetten Sie ihn ein
+Die Titelfarbe ist nicht sehr auffällig, daher stellen Sie die Titelfarbe auf Blau ein
+Fügen Sie dann den Text ein: "Die Methode der ethischen Literaturkritik ist eine neue Methode der Literaturkritik, die von Professor Nie Zhenzhao von der Central China Normal University nach vergleichender Untersuchung, sorgfältiger Durchsicht und Neuüberlegung der Geschichte und gegenwärtigen Situation der chinesischen und westlichen Literaturkritik vorgeschlagen wurde." Theorien und Methoden.
+Dann fügen Sie bitte ein Bild des Covers des Buches Introduction to Ethical Literary Criticism von Nie Zhenzhao ein
+Um genau zu sein, verschieben Sie das Bild auf die linke Seite der Folie.## 1, picture, slide, left
+Fügen Sie dann rechts ein Rechteck ein. ## 1, rectangle, slide, right
+Der Hintergrund ist nicht gut, also ändern Sie die Hintergrundfarbe in Hellgelb
+
+Erstellen Sie eine neue Folie, geben Sie als Titel "Jane Eyre von Charlotte Bronte" ein und schreiben Sie den Titel kursiv
+Fügen Sie dann den Text ein: "Am scheinbar glücklichen Ende nutzt Charlotte ein Erbe und ein Feuer, um die Handlung aufzubauen." und fett es
+Ändern Sie die Schriftfarbe in Dunkelrot und ändern Sie dann den Schriftstil des Textes in "Arial".
+Fügen Sie einen Pfeil auf der rechten Seite des Textes ein. ## 1, arrow, text, right
+Fügen Sie eine Tabelle mit zwei Spalten und zwei Zeilen ein. Die erste Zeile schreibt Kategorie und Informationen. In der zweiten Zeile steht das Erscheinungsjahr 1847.
+Fügen Sie dann ein Bild von Charlotte Brontes Porträt unter dem Tisch ein. ## 1, picture, table, bottom
+Verschieben Sie das Bild an die Spitze der Tabelle. ## 1, picture, table, top
+
+Legen Sie einen blauen Hintergrund für diese Folie fest
+Setzen Sie den Titel auf "Id in David Copperfield" und schreiben Sie David Copperfield kursiv
+Fügen Sie dann dies in den Inhaltsteil ein: "Das Es ist eine Art tierischer instinktiver Impuls, es ist ohne Rationalität verwirrt, und es strebt blind nach Befriedigung und häuft Chancen zur Abreaktion an." Erstens. Das Es kümmert sich nicht um soziale Moral oder äußere Verhaltensstandards. Der Ausweis ist der Ort, an dem Instinkte gespeichert werden.
+Dann fügen Sie bitte über dem Inhalt ein Bild des Buches David Copperfield hinzu. ## 0, picture, content, top
+Das Bild ist zu klein, also vergrößern Sie es bitte mit 5 Zoll Höhe und 6 Zoll Breite.
+Fügen Sie einen Stern ein und verschieben Sie ihn auf die rechte Seite des Bildes. ## 0, star, image, right
+Fügen Sie abschließend einen Aufzählungspunkt für den Text im Inhaltsteil hinzu.
+
+Fügen Sie eine Tabelle mit drei Zeilen und zwei Spalten ein. Geben Sie in der ersten Zeile "Standort", "Verschiedene Städte auf der ganzen Welt", in der zweiten Zeile "Ethnizität", "Chinesische Gemeinschaft und Kultur" und in der dritten Zeile "Features", "Chinesische Architektur, Unternehmen, Küche, kulturelle Feste" ein.
+Fügen Sie einen Titel "China Town" hinzu und fetten Sie den Titel ein.
+Fügen Sie ein Kreisdiagramm ein. Die folgenden Daten sind: Chinesische Restaurants, 40 %; Chinesische Einzelhandelsgeschäfte 30 %; Kulturfestivals und Veranstaltungen 30 %
+Fügen Sie ein Bild einer chinesischen Stadt in die Folie ein.
+Verschieben Sie das Bild an die untere Seite der Folie. ## 0, picture, slide, bottom
+Fügen Sie einen Stern in die rechte Folie ein. ## 0, star, slide, bottom
+Fügen Sie der Folie einen Hinweis "China Town" hinzu.
+
+Erstellen Sie eine neue Folie und geben Sie ihr eine grüne Hintergrundfarbe.
+Machen Sie den Folientitel zu "Feminismus" und stellen Sie die Schriftfarbe des Titels auf die gleiche wie die Hintergrundfarbe ein.
+Fügen Sie dann den Inhalt ein: "Feminismus ist der Glaube und das Ziel, dass Frauen die gleichen Rechte, Macht und Chancen wie Männer haben sollten."
+Die Schriftfarbe ist nicht ansprechend. Stellen Sie die Schriftfarbe bitte auf Gelb ein und formatieren Sie den Inhalt kursiv.
+
+Setzen Sie den Titel auf "3. Welle der feministischen Bewegung" und fetten Sie ihn ein
+Ändern Sie den Schriftstil des Titels in "Times New Roman". Stellen Sie die Titelfarbe auf Blau und die Größe auf 28 ein
+Fügen Sie dann den Inhalt ein: "Der Schwerpunkt liegt auf multirassischen religiösen Überzeugungen, ethnischen Bräuchen, Multikulturalismus, Umweltschutz, Konsumverhalten und Diversitätsorientierung."
+Fügen Sie über dem Inhalt ein Frauenporträt ein. ## 0, picture, content, top
+
+Bitte erstellen Sie eine neue Folie und legen Sie als Titel "Verfilmung von Stolz und Vorurteil" fest.
+Stellen Sie dann die Schriftgröße auf 24 ein und schreiben Sie den Titel kursiv.
+Fügen Sie dies in den Inhaltsteil ein: "Vierzehn Jahre nach der Erstausstrahlung bleibt die Adaption von Jane Austens Roman "Stolz und Vorurteil" von Drehbuchautor Andrew Davies aus dem Jahr 1995 ein Maßstab, an dem die Austen-Adaption im Volksmund gemessen wird. Bekannt für die "Sexualisierung" historischer Dramen Die Adaption geht vordergründig auf moderne Sensibilitäten und zeitgenössische dramatische Erwartungen ein. Davies‘ Interpretationsentscheidungen legen einen Schwerpunkt auf Sinnlichkeit und rücken Darcys Wünsche in den Mittelpunkt."
+Fügen Sie dem Inhaltsteil Aufzählungspunkte hinzu.
+Stellen Sie die Schriftgröße des Inhalts auf 20 ein und legen Sie das doppelte Leerzeichen fest
+Bitte fügen Sie ein Webbild des Films "Stolz und Vorurteil" aus dem Jahr 1995 ein
+Ein Rechteck einfügen, in die rechte Ecke der Folie verschieben, ## 1, rectangle, slide, right corner
+emm, ändere die Hintergrundfarbe in Hellorange
+
+Fügen Sie eine Tabelle mit drei Zeilen und zwei Spalten ein.
+Füllen Sie die Tabelle mit "Standort" und "Ethnizität" in der ersten Spalte aus.
+Fügen Sie den folgenden Text ein: "Elizabeth Bennet und Mr. Darcy durchlaufen im Laufe des Romans eine bedeutende Charakterentwicklung und lernen dabei wichtige Lektionen über sich selbst und die Gesellschaft."
+Fügen Sie am Ende der Tabelle ein Bild von Elizabeth Bennet und Mr. Darcy ein. ## 0, picture, table, bottom
+Verschieben Sie das Bild auf die rechte Seite der Folie. ## 0, picture, slide, right
+Zeichne ein Rechteck. Verschieben Sie es in die linke Ecke der Folie. ## 0, rectangle, slide, left corner
+Erstellen Sie dann eine neue Folie, nennen Sie den Titel "Die Rolle der sozialen Klasse bei Stolz und Vorurteil" und unterstreichen Sie den Titel
+Fügen Sie diesen Text ein: "Die soziale Schicht spielt im Roman eine wichtige Rolle und beeinflusst die Beziehungen, Entscheidungen und Selbstwahrnehmungen der Charaktere."
+Zeichnen Sie einen kleinen Kreis in die untere rechte Ecke und stellen Sie die Farbe auf Orange ein
+Ändern Sie die Hintergrundfarbe der Folie von Hellblau in Orange.
+
+Erstellen Sie eine neue Folie und geben Sie den Titel "Formen" ein.
+Fügen Sie auf der linken Folie ein rotes Rechteck ein. ## 0, rectangle, slide, left
+Fügen Sie auf der rechten Folie einen blauen Kreis ein. ## 0, circle, slide, right
+Fügen Sie auf der linken Folie ein grünes Dreieck ein. ## 0, triangle, slide, left
+Fügen Sie auf der rechten Folie eine gelbe Beschriftung ein. ## 0, callout, slide, right
+
+Fügen Sie auf der rechten Seite der Folie ein Bild ein, das eine Hochzeitsszene aus dem 19. Jahrhundert zeigt. ## 0, picture, slide, right
+Füge ein Dreieck hinzu. Bewegen Sie das Dreieck auf die rechte Seite des Bildes. ## 0, triangle, picture, right
+Nennen Sie den Titel "Ehe des 19. Jahrhunderts"
+Der Titel wird kursiv und fett gedruckt. Ändern Sie die Schriftfarbe in Dunkelorange.
+
+Fügen Sie ein Kreisdiagramm basierend auf den folgenden Daten ein: Vanille: 30 %, Schokolade: 25 %, Erdbeere: 15 %, Minzschokoladenstückchen: 10 %, Kekse und Sahne: 10 %, Butterpekannuss: 10 %
+Finden Sie ein Bild einer Erdbeere. Verschieben Sie das Bild an die untere Seite des Kreisdiagramms. ## 0, picture, pie chart, bottom
+Fügen Sie den folgenden Inhalt ein: "Die Ausgaben sind im letzten Quartal aufgrund höherer Betriebskosten und erhöhter Investitionen in Marketinginitiativen deutlich gestiegen."
+Ändern Sie den Schriftstil in Times New Roman und die Schriftgröße in 18.
+
+Bitte erstellen Sie eine neue Folie und nennen Sie den Titel und die Fußnote "PPT-Erstellung".
+Fügen Sie den folgenden Inhalt ein: "Das Erstellen ansprechender und wirkungsvoller PowerPoint-Präsentationen erfordert sorgfältige Planung und Ausführung."
+Unterstreichen Sie den Inhalt und machen Sie die Schriftfarbe dunkelrot.
+Machen Sie den Titel der Folie fett und kursiv
+Fügen Sie der Folie eine Notiz "PPT" hinzu.
+
+Erstellen Sie eine neue Folie und nennen Sie den Titel "Neuronale Netze".
+Schreiben Sie den folgenden Inhalt mit Aufzählungszeichen: "Neuronale Netze sind eine Art maschineller Lernalgorithmus, der der Struktur des menschlichen Gehirns nachempfunden ist. Sie bestehen aus Schichten miteinander verbundener Knoten, die Informationen verarbeiten und lernen, Muster zu erkennen."
+Ändern Sie die Schriftfarbe des Titels in Rot
+Fügen Sie der Folie ein Bild einer neuronalen Netzwerkarchitektur hinzu
+Fügen Sie rechts neben dem Bild eine Wolke ein. ## 1, cloud, picture, right
+Zum Schluss machen Sie die Hintergrundfarbe gelb
+
+Erstellen Sie eine neue Folie und fügen Sie rechts eine rote Wolkenform ein. ## 0, cloud, slide, right
+Fügen Sie "Provide Clear Takeaways" in den Inhaltsteil ein.
+Ändern Sie die Schriftfarbe des Titels in Orange. Erstellen Sie dann eine neue Folie und nennen Sie sie "Datenvorverarbeitung".
+Die aktuelle Hintergrundfarbe ist für diese Folie nicht geeignet. Bitte ändern Sie es in die Wolkenfarbe.
+
+Erstellen Sie eine neue Folie und nennen Sie sie "Transfer Learning".
+Stellen Sie die Schriftgröße auf der Folie auf 28 ein und fetten Sie sie ein
+Ändern Sie den Schriftstil des Titels in "Times New Roman". Ändern Sie die Schriftfarbe des Titels in Rot
+Stellen Sie sicher, dass die Folie dieselbe Hintergrundfarbe hat.
+Schreiben Sie den folgenden Inhalt: "Reinforcement Learning ist eine Art maschinelles Lernen, bei dem der Algorithmus durch Versuch und Irrtum lernt. Es wird häufig verwendet, um Maschinen beizubringen, Entscheidungen in komplexen Umgebungen zu treffen."
+
+Fügen Sie eine Tabelle mit 3 Zeilen und 2 Spalten ein, füllen Sie die erste Zeile mit Modellname, ChatGPT; die zweite Reihe mit Architektur,GPT (Generative Pre-trained Transformer); die dritte Zeile mit Trainingsdatengröße, mehrere Terabyte verschiedener Textdaten.
+Machen Sie den Titel zu "GPT" und fetten Sie ihn ein.
+Fügen Sie den Inhalt ein: "Generative Pre-trained Transformer 3 (GPT-3) ist ein im Jahr 2020 veröffentlichtes autoregressives Sprachmodell, das Deep Learning nutzt, um menschenähnlichen Text zu erzeugen."
+Unterstreichen Sie den Inhalt und machen Sie die Schriftfarbe auf dieser Folie dunkelrot.
+Fügen Sie dem Inhalt rechts ein Bild der GPT-3-Architektur hinzu. ## 0, picture, content, right
+
+Erstellen Sie eine neue Folie, legen Sie den Titel auf "Wuthering Height" fest und schreiben Sie ihn kursiv
+Fügen Sie den Text hinzu: "Die Geschichte wird von Lockwood erzählt, einer desinteressierten Partei, deren Erzählung als Rahmen für eine Reihe retrospektiver kürzerer Erzählungen von Ellen Dean, einer Haushälterin, dient." Und fetten Sie den Text ein
+Ändern Sie die Schriftfarbe des Titels und des Textes in Rot
+eine Pfeilform einfügen,
+Der Pfeil ist etwas klein, bitte vergrößern Sie ihn mit einer Breite von 6 und einer Höhe von 4
+Erstellen Sie eine neue Folie und fügen Sie eine Wolke ein.
+Fügen Sie ein Bild des Buchcovers von Wuthering Height ein
+Fügen Sie den Text "Wuthering Heights, Roman von Emily Brontë, veröffentlicht 1847 unter dem Pseudonym Ellis Bell" ein.
+Stellen Sie die Schriftart auf Times New Roman und die Schriftgröße auf 18 ein
+Fügen Sie eine Tabelle mit einer Zeile und zwei Spalten ein. Füllen Sie die Tabelle mit "Kategorie" und "Informationen" in die Tabelle ein.
+Fügen Sie der Folie einen Hinweis "Microsoft" hinzu.
+
+Erstellen Sie eine neue Folie und legen Sie den Titel auf "Stolz und Vorurteil von Jane Austen" fest.
+Text einfügen: "Der Roman befasst sich mit Themen wie Liebe, Ehe und sozialen Erwartungen des britischen Adels", machen Sie den Text fett und unterstreichen Sie ihn
+Füge einen Pfeil ein. Bewegen Sie den Pfeil auf die linke Seite des Textes. ## 1, arrow, text, left
+Bitte ändern Sie die Textfarbe in Dunkelgrün. Ändern Sie die Pfeilfarbe in Hellorange
+Fügen Sie eine Tabelle mit zwei Spalten und zwei Zeilen ein. Die erste Zeile schreibt Kategorie und Informationen. In der zweiten Reihe steht die Autorin Jane Austen.
+Fügen Sie ein Bild von Jane Austens Porträt ein
+Stellen Sie die Bildhöhe auf 6 ein und verschieben Sie sie in die rechte Ecke der Folie. ## 1, image, slide, right corner
+
+Bitte erstellen Sie eine neue Folie und fügen Sie den Titel "Sirsas Lebensreise" fett ein
+Die Schriftart ist etwas klein, bitte stellen Sie die Schriftart auf 24 ein
+Erstellen Sie eine Tabelle mit drei Spalten und vier Zeilen. Fügen Sie in der ersten Zeile "Kindheit", "0–10 Jahre", "Schule", in der zweiten Zeile "Jugend", "11–18 Jahre" und "Oberschule" ein.
+Fügen Sie ein Bild einer Schule in die Folie ein.
+Verschieben Sie das Bild auf die linke Seite der Tabelle. ## 1, image, table, left
+
+Erstellen Sie eine neue Folie, nennen Sie den Titel "Exploring the Universe" und unterstreichen Sie den Titel.
+ein Bild einer Galaxie einfügen,
+Erstellen Sie eine Aufzählungsliste mit 5 Elementen im Inhaltsteil. Die Gegenstände sind "Sterne", "Planeten", "Nebel", "Schwarze Löcher" und "Dunkle Materie".
+fett und kursiv den Inhalt,
+Ändern Sie die Schriftfarbe des Inhalts in Dunkelrot.
+Fügen Sie ein Kreisdiagramm ein: Lehrgebäude 35 %, Stadion 25 %, Spielplatz 40 %.
+Verschieben Sie das Kreisdiagramm an den oberen Rand der Folie. ## 1, pie chart, slide, top
+Fügen Sie ein Liniendiagramm ein: 1. Jahr 20 %, 2. Jahr 30 %, 3. Jahr 40 %, 4. Jahr 10 %.
+Fügen Sie ein Balkendiagramm mit denselben Daten ein.
+Geben Sie der Folie einen blauen Hintergrund.
+
+Erstellen Sie eine neue Folie und fügen Sie den Titel "Einleitung" ein.
+Fügen Sie den Inhalt ein. In diesem Artikel untersuchen wir, wie die Verwendung mehrerer und komplementärer Methoden über einen längeren Zeitraum sowohl Potenziale als auch Fallstricke sowie Komplexitäten und Unsicherheiten mit sich bringt.
+Legen Sie die Schriftfarbe des Inhalts auf Rot fest
+Die Schriftgröße des Inhalts ist zu klein, bitte stellen Sie sie auf 20 ein
+Machen Sie die Hintergrundfarbe hellblau. Verdoppeln Sie die Schriftgröße des Inhalts
+
+Fügen Sie hinzu: "Nanyang ist eine nationale historische und kulturelle Stadt mit einem tiefgreifenden historischen Erbe und einer reichen kulturellen Anhäufung." im Inhaltsteil.
+Fügen Sie dem Inhalt einen Aufzählungspunkt hinzu
+und stellen Sie die Schriftgröße des Inhalts auf 18 ein. und kursiv den Inhalt, stellen Sie den Schriftstil des Inhalts auf "Arial" ein.
+Nennen Sie die Folie "Meine Stadt – Nanjing".
+Fügen Sie ein Bild über Nanjing ein. Verschieben Sie es auf die rechte Seite der Folie. ## 0, picture, slide, right
+Erstellen Sie nun eine neue Folie, nennen Sie sie "Katalog" und weisen Sie der Notiz einen Namen zu.
+Setzen Sie den Titel kursiv und erhöhen Sie die Schriftgröße auf 24.
+Fügen Sie den folgenden Inhalt in den Inhaltsteil ein: "Ein Katalog dient als umfassende und optisch ansprechende Ressource, die eine vielfältige Palette von Produkten oder Dienstleistungen präsentiert."
+Ändern Sie die Schriftfarbe des Inhalts in Grün. Geben Sie der Folie eine dunkelblaue Hintergrundfarbe.
+Fügen Sie eine Tabelle mit drei Zeilen und zwei Spalten ein. Schreiben Sie Produkt, Preis in die erste Zeile, Hemd, 29,99 $ in die zweite Zeile, Kleid, 59,99 $ in die letzte Zeile.
+Fügen Sie dann ein Kreisdiagramm ein. "Hemd, Kleid, Hose" sind die Kategorie, 40 %, 30 % und 30 % sind der Prozentsatz.
+Verwenden Sie zur Veranschaulichung ein Liniendiagramm
+Fügen Sie ein Balkendiagramm mit denselben Daten hinzu.
+
+Fügen Sie einen Titel ein: "Genießen Sie ein glückliches Leben"
+Fügen Sie oben im Titel einen Stern ein.## 0, star, title, top
+Stellen Sie dann den Schriftstil des Titels auf "Arial Black" ein.
+Fügen Sie den folgenden doppelten Inhalt ein: "Ein glückliches Leben zu genießen bedeutet, in den kleinen Momenten Freude zu finden, sinnvolle Beziehungen zu pflegen, Leidenschaften nachzugehen, eine gesunde Work-Life-Balance aufrechtzuerhalten und Selbstfürsorge zu üben."
+Fügen Sie ein Bild über eine glückliche Person ein. Verschieben Sie das Bild an den rechten oberen Rand der Folie. ## 0, picture, slide, right top
+Stellen Sie das Bild auf eine Höhe von 4 Zoll und eine Breite von 5 Zoll ein. Verschieben Sie es nach links unten. ## 0, picture, slide, left bottom
+
+Fügen Sie eine Tabelle mit einer Spalte und fünf Zeilen ein. In der ersten Zeile steht "Marathon abgeschlossen", in der zweiten Zeile "Erstes Buch veröffentlicht", in der dritten Zeile "Zum Manager befördert" und in der vierten Zeile "Freiwillige Arbeit mit mehr als 100 Stunden" und in der letzten Zeile "Erfolgreiches Unternehmen gestartet".
+Benennen Sie die Folie als "Mein großer Erfolg im Jahr 2023"
+Fügen Sie den folgenden Text in den Inhaltsteil ein: "Im Jahr 2023 habe ich bemerkenswerte Meilensteine ​​erreicht, die meine Erwartungen übertroffen haben. Vom Abschluss eines Marathons über die Veröffentlichung meines ersten Buches bis hin zum Erreichen einer Beförderung befeuern diese Erfolge meinen Drang nach weiterem Wachstum und inspirieren mich, sogar noch mehr zu erreichen." größere Höhen."
+Fügen Sie ein Bild eines Buches ein. Verschieben Sie es an die Oberseite der Folie.## 0, picture, slide, top
+Fügen Sie ein Kreisdiagramm ein und die Daten lauten: Marathon 30 %, Buch 25 % und Freiwillige 45 %.
+Fügen Sie ein Rechteck in die Folie ein. Verschieben Sie es auf die linke Seite des Kreisdiagramms. ## 0, rectangle, pie chart, left
+Fügen Sie der Folie einen Hinweis "2023" hinzu.
+
+Legen Sie den Titel fest als: Ethische Literaturkritik
+Der Titel sollte fett und blau sein und nach unten verschoben werden. ## 0, title, slide, bottom
+Suchen Sie ein Bild einer Berglandschaft und fügen Sie es rechts ein. ## 0, picture, slide, right
+Fügen Sie den folgenden Inhalt ein: "Die Methode der ethischen Literaturkritik ist ein neuartiger Ansatz, der von Professor Nie Zhenzhao von der Central China Normal University vorgeschlagen wurde."
+Unterstreichen Sie den Inhalt und setzen Sie ihn in der Schriftart Times New Roman mit einer Schriftgröße von 24 und doppeltem Leerzeichen.
+Stellen Sie die Schriftfarbe des Inhalts auf Dunkelblau ein.
+Wählen Sie im Menü eine Rechteckform aus und zeichnen Sie sie auf der linken Folie. ## 0, rectangle, slide, left
+Ändern Sie die Farbe der Form in Grün und fügen Sie "Grün" ein.
+Verschieben Sie das Rechteck in die obere rechte Ecke der Folie. ## 0, rectangle, slide, right corner
+Fügen Sie einen Pfeil ein und verschieben Sie ihn auf die rechte Seite des Inhalts. ## 0, arrow, content, right
+
+Erstellen Sie eine neue Folie mit dem Titel "Teammitglieder"
+Fügen Sie ein Bild eines Teammitglieds ein und verschieben Sie das Bild an den unteren Rand der Folie. ## 0, picture, slide, bottom
+Stellen Sie die Breite des Bildes auf 6,5 cm ein
+Fügen Sie dem Titel der Folie eine entsprechende Notiz hinzu. Machen Sie die Schriftart des Titels fett.
+
+Erstellen Sie eine neue Folie und geben Sie ihr den Titel "Verkaufsleistung".
+Stellen Sie die Schriftfarbe auf Blau, die Schriftgröße auf 24 und unterstreichen Sie den Titel. Legen Sie eine grüne Hintergrundfarbe für diese Folie fest.
+Fügen Sie den folgenden Inhalt in die Folie ein: "Die Vertriebsleistung ist ein wichtiger Indikator für den Erfolg eines Unternehmens bei der Generierung von Einnahmen. Sie spiegelt die Effektivität des Vertriebsteams und die allgemeine Marktnachfrage nach den Produkten oder Dienstleistungen wider."
+Ändern Sie die Schriftfarbe des Inhalts in Dunkelrot und die Schriftgröße auf 18.
+Erstellen Sie eine Tabelle mit drei Spalten und fünf Zeilen. Geben Sie in der ersten Zeile "Jahr, Quartal, Umsatz" ein. Fügen Sie in der zweiten Zeile "2018. Q1, 500.000 US-Dollar" ein.
+Wenden Sie die Schriftgröße des Inhalts auf den Titel an
+
+Erstellen Sie eine neue Folie und fügen Sie den Titel "Verkaufsbericht" hinzu.
+Fügen Sie ein Liniendiagramm basierend auf den folgenden Daten hinzu: "Produkt A: 2.000 $", "Produkt B: 1.500 $", "Produkt C: 1.000 $"
+Nennen Sie das Liniendiagramm "Umsatztrend".
+Fügen Sie ein Bild eines T-Shirts in die Folie ein und fügen Sie eine Überschrift mit dem Namen "T-Shirt" hinzu.
+Fügen Sie eine Sternform hinzu und verschieben Sie sie auf die rechte Seite des Bildes. ## 1, star, image, right
+Erstellen Sie eine weitere Folie und nennen Sie sie "Organisationsstruktur".
+Fügen Sie eine Tabelle mit zwei Spalten und vier Zeilen ein, fügen Sie die folgenden Daten ein: CEO, John Smith in der ersten Zeile, CFO, Jane Doe in der zweiten Zeile, COO: Tom Jones in der dritten Zeile und CMO: Sarah Lee" in der vierten Reihe
+Unterstreiche alle Titel.
+Ändern Sie die Schriftgröße des Inhalts im Titel auf 20. und ändern Sie die Schriftfarbe in Lila.
+Fügen Sie der Folie eine Notiz zum Titel hinzu.
+Geben Sie der Folie eine grüne Hintergrundfarbe.
+
+Erstellen Sie eine neue Folie und nennen Sie sie "Einführung".
+Fügen Sie dem Inhaltsteil den folgenden Text hinzu: "Vielen Dank, dass Sie heute bei uns sind. Wir freuen uns darauf."
+Fahren Sie fort mit "Sie sind hier und freuen sich darauf, einige spannende Neuigkeiten mit Ihnen zu teilen."
+Ändern Sie den Schriftstil des Inhalts in Times New Roman und die Schriftgröße auf 20.
+Fügen Sie ein Bild einer Landschaft in Guangdong hinzu. Ändern Sie die Größe des Bildes so, dass seine Höhe 3 Zoll und seine Breite 5 Zoll beträgt
+Fügen Sie ein Dreieck in die Folie ein. Fügen Sie ein Rechteck in die Folie ein. Machen Sie das Rechteck auf der rechten Seite des Rechtecks. ## 1, rectangle, triangle, right
+Geben Sie der Folie eine violette Hintergrundfarbe. Fügen Sie der Folie eine Notiz "2023" hinzu.
+
+Nennen Sie die Folie "Produkteinführung", machen Sie den Titel fett und rot.
+Fügen Sie ein Bild eines Computers in die Folie ein
+Ändern Sie die Größe des Bildes und stellen Sie Höhe und Breite auf 2 cm ein
+Fügen Sie dem Inhaltsteil folgenden Text hinzu: "Unser neues Produkt ist ein hochmodernes Mobilgerät, das die neueste Technologie mit einem schlanken und benutzerfreundlichen Design kombiniert."
+Passen Sie den Inhalt dem Stil des Titels an.
+Fügen Sie eine neue Folie ein und nennen Sie sie "Produktmerkmale".
+Fügen Sie eine Tabelle mit 2 Spalten und 5 Zeilen auf der Folie ein. Fügen Sie die folgenden Daten in die erste Zeile ein: Feature, Beschreibung.
+Erstellen Sie ein Balkendiagramm anhand der folgenden Daten: Produkt A 25 %, Produkt B 50 %, Produkt C 25 %.
+Benennen Sie das Balkendiagramm "Funktionsbedeutung".
+Ändern Sie die Hintergrundfarbe in Hellblau und passen Sie die Notiz an den Diagrammtitel an.
+
+Erstellen Sie eine neue Folie und fügen Sie den Titel "Quarterly Financial Results" hinzu.
+Ändern Sie den Schriftstil des Titels in Arial
+Fügen Sie dem Inhaltsteil den folgenden Text hinzu: "Unser Unternehmen erzielte in diesem Quartal einen Umsatz von 1,5 Millionen US-Dollar und einen Gewinn von 500.000 US-Dollar."
+Wenden Sie einen Fett- und Unterstreichungseffekt auf den Inhaltsteil an
+Fügen Sie eine Tabelle mit 4 Spalten und 5 Zeilen auf der Folie ein
+Fügen Sie der ersten Zeile der Tabelle die folgenden Daten hinzu: Monat, Umsatz, Ausgaben und Gewinn
+Fügen Sie ein Balkendiagramm mit den folgenden Daten ein: Q1 2022, Q2 2022, Q3 2022, Q4 2022 in X, 50, 60,55, 70 in Y.
+Benennen Sie das Balkendiagramm "Quartalsfinanzergebnisse 2022".
+Geben Sie der Folie eine rote Hintergrundfarbe.
+Fügen Sie eine neue Folie ein und fügen Sie den Titel "Finanzanalyse" hinzu.
+Fügen Sie ein Bild eines Firmenlogos in die Folie ein
+Fügen Sie "Vielen Dank für Ihre Aufmerksamkeit!" ein. zum Inhaltsteil. Unterstreichen Sie den Inhalt und schreiben Sie ihn kursiv. Erhöhen Sie die Schriftgröße des Inhalts auf 26.
+
+Erstellen Sie eine neue Folie und nennen Sie sie "Verkaufsdaten".
+Fügen Sie ein Balkendiagramm mit den folgenden Daten ein: "Region A: 500.000 $; Region B: 400.000 $; Region C: 600.000 $; Region D: 450.000 $"
+Stellen Sie sicher, dass das Diagramm den Titel "Regional Sales" trägt.
+Unterstreichen Sie den Folientitel. Fügen Sie einen Hinweis "Datenquelle: Verkaufsbericht 2023" hinzu.
+
+Erstellen Sie eine neue Folie und stellen Sie sicher, dass der Titel "Kundenumfrage" lautet.
+Fügen Sie ein Kreisdiagramm mit den folgenden Daten ein: "Sehr zufrieden | 40%", "Zufrieden | 30 %", "Neutral | 20%", "Unzufrieden | 5%", "Sehr unzufrieden | 5 %"
+Verschieben Sie das Kreisdiagramm an die untere Seite der Folie. ## 1, chart, slide, bottom
+Fügen Sie ein Bild eines Fragebogens in die Folie ein. Bewegen Sie es auf die Oberseite der Folie. ## 1, picture, slide, top
+Fügen Sie der Folie einen Hinweis "2023/5" hinzu.
+
+Fügen Sie Folie 0, "Der Charme der Linguistik", einen Titelnamen hinzu. Stellen Sie den Hintergrund hellblau ein,
+Stellen Sie den Schriftstil des Titels auf Arial, die Schriftfarbe auf Rot und die Schriftgröße auf 36 ein.
+Fügen Sie "Hallo" zum Inhalt ein, oh nein, es sollte " "Linguistik ist die wissenschaftliche Untersuchung der Sprache und ihrer Struktur. Es erforscht die Feinheiten der menschlichen Kommunikation, von Phonetik und Syntax bis hin zu Semantik und Pragmatik. Zum Inhaltsteil.
+Legen Sie den Schriftstil des Inhalts auf Verdana, die Schriftfarbe auf Gelb und die Schriftgröße auf 18 fest. Doppeltes Leerzeichen.
+Erstellen Sie eine neue Folie und nennen Sie sie "Branches of Linguistics".
+Fügen Sie eine Tabelle mit 3 Spalten und 4 Zeilen ein,
+Fügen Sie Zweige der Linguistik, Beschreibung und Beispiele in die erste Zeile ein. "Phonetik", "Das Studium der Sprachlaute", "Artikulatorische Phonetik, Akustische Phonetik, Auditive Phonetik" in die zweite Reihe.
+Fügen Sie ein Bild eines Buches über Linguistik in die Folie ein. Verschieben Sie das Bild an die untere Seite der Folie. ## 1, picture, slide, bottom
+Stellen Sie das Bild 6 cm hoch und 5 cm breit ein.
+Machen Sie alle Folien zu einem violetten Hintergrund.
+
+Stellen Sie den Hintergrund hellgrün ein und nennen Sie den Titel "Sprachfamilien".
+Kursiv und fett den Titel,
+Fügen Sie ein Balkendiagramm basierend auf den Daten ein: Indogermanisch, Niger-Kongo, Austronesisch, Chinesisch-Tibetisch als Daten in X, 445, 1526,1290, 452 als Daten in Y.
+Benennen Sie das Balkendiagramm "Sprachfamilie und ihre Anzahl an Sprachen"
+Erstellen Sie eine neue Folie und nennen Sie sie "Spracherwerb". Gleicher Titelstil wie bei der vorherigen Folie.
+Fügen Sie den folgenden Inhalt ein: "Spracherwerb ist der Prozess, durch den Menschen die Fähigkeit erwerben, Sprache wahrzunehmen, zu verstehen und zu produzieren." Es beinhaltet angeborene und erlernte Mechanismen und wird von verschiedenen Faktoren wie der Umwelt und der sozialen Interaktion beeinflusst."
+Stellen Sie den Schriftstil Times New Roman, die Schriftfarbe Rot und die Schriftgröße 22 ein.
+Unterstreichen und fetten Sie den Inhalt und sorgen Sie dafür, dass Titel und Inhalt dieselbe Farbe haben.
+Fügen Sie ein Bild eines englischen Buches in die Folie ein.
+Fügen Sie ein Quadrat in die rechte Folie ein, ## 1, rectangle, slide, right
+Verschieben Sie das Bild an die Oberseite des Quadrats. ## 1, picture, rectangle, top
+
+Nennen Sie die Folie "Schlussfolgerung".
+Fetten Sie den Titel ein, unterstreichen Sie ihn und stellen Sie die Schriftfarbe auf Rot ein.
+Einfügen " "Linguistik ist ein faszinierendes Gebiet, das die Komplexität der menschlichen Sprache entschlüsselt. Vom Studium der Sprachstrukturen bis hin zur Analyse von Sprachfamilien und Spracherwerb bietet es tiefgreifende Einblicke in die Natur der Kommunikation und der menschlichen Kognition.
+Ändern Sie den Schriftstil des Inhalts in Verdana und die Schriftfarbe in Gelb.
+Erstellen Sie weitere vier Folien und wenden Sie eine violette Hintergrundfarbe darauf an.
+Überschriften Sie Folie 1 "Überblick über Immobilienrichtlinien in China" und fügen Sie ein Bild der China-Karte in die Folie ein.
+Titelfolie 2 "Letzte Änderungen" und den Titel kursiv schreiben. Gleicher Schriftstil wie bei den vorherigen Titeln.
+einfügen "Die jüngsten Veränderungen in China haben ein schnelles Wirtschaftswachstum, technologische Fortschritte und soziale Veränderungen mit sich gebracht, die das Land als globales Kraftzentrum positioniert und die globale Dynamik in verschiedenen Bereichen beeinflusst haben." in den Inhalt ein.
+Überschriften Sie Folie 3 "Bemühungen zur Kontrolle der Immobilienpreise" und fügen Sie ein Dreieck in die Folie ein.
+Bewegen Sie das Dreieck nach rechts oben auf der Folie. ## 3, triangle, slide, right top
+Überschriften Sie Folie 4 "Initiativen zur Erhöhung des bezahlbaren Wohnraums" und ändern Sie die Schriftfarbe des Titels in Rot.
+Als Inhalt einfügen: "Es wurden Initiativen zur Erhöhung des bezahlbaren Wohnraums umgesetzt, darunter staatliche Zuschüsse, optimierte Genehmigungsverfahren und öffentlich-private Partnerschaften, die darauf abzielen, die Krise bei der Erschwinglichkeit von Wohnraum anzugehen und den Zugang zu angemessenem Wohnraum für alle sicherzustellen." und unterstreichen und kursiv den Inhalt.
+Erstellen Sie anhand der Daten ein Kreisdiagramm. Staatliche Subventionen: 35 %, optimierte Genehmigungsprozesse: 25 %, öffentlich-private Partnerschaften: 20 %, Landnutzungsrichtlinien: 10 %, Mietunterstützungsprogramme: 10 %.
+Erstellen Sie eine neue Folie und nennen Sie sie "Regulierung von Immobilienentwicklern". Fügen Sie die gleichen Sätze zur Notiz hinzu.
+Einfügen: "Beschreiben Sie in dieser Folie die wichtigsten Maßnahmen Chinas zur Regulierung von Immobilienentwicklern und die Maßnahmen der Regierung zur Betrugsprävention und zur Förderung nachhaltiger Entwicklungspraktiken." als Inhalt.
+Schreiben Sie den Inhalt fett und den Titel kursiv.
+Fügen Sie in allen Folien einen Hinweis "Informationen über China" ein.
+
+Nennen Sie den Titel "Frontier Development of Medical Imaging Equipment". Erhöhen Sie die Schriftgröße des Titels auf 24.
+Fügen Sie ein Liniendiagramm ein. Die Daten lauten: Q1: 15 %, Q2: 12 %, Q3: 18 %, Q4: 20 % und Q1, Q2, Q3, Q4 sind in X.
+Benennen Sie das Diagramm "Umsatzwachstum".
+Fügen Sie eine Tabelle mit fünf Zeilen und zwei Spalten ein und fügen Sie Funktion 1, hochauflösende Bildgebung, in die erste Zeile ein.
+Passen Sie die Hintergrundfarbe auf Hellblau an.
+Fügen Sie ein Rechteck, oh nein, ein Dreieck in die Folie ein
+einfügen "Die bahnbrechende Entwicklung medizinischer Bildgebungsgeräte revolutioniert das Gesundheitswesen mit hochauflösender Bildgebung, fortschrittlichen KI-Algorithmen, Echtzeit-Datenanalysen, verbessertem Patientenkomfort, Multimodalitätsintegration und optimierten Arbeitsabläufen und bietet medizinischen Fachkräften beispiellose Diagnosemöglichkeiten." in den Inhalt ein.
+Fetten Sie den Inhalt fett und setzen Sie den Inhalt mit doppeltem Leerzeichen. Unterstreichen und kursiv den Inhalt.
+Fügen Sie der Folie einen Hinweis "Medienausstattung" hinzu.
+
+Machen Sie die Hintergrundfarbe blau. Fügen Sie ein Rechteck ein.
+Fügen Sie den Titel "Methods and Approaches in Anthropology" hinzu und stellen Sie die Schriftgröße auf 20 ein.
+Fügen Sie den Inhalt ein: "Anthropologie ist eine Sozialwissenschaft, die menschliches Verhalten, Kultur und Gesellschaften mithilfe einer Vielzahl von Forschungsmethoden untersucht." im Inhaltsteil und setzen Sie es mit doppeltem Leerzeichen.
+Fügen Sie eine Kreisform hinzu und verschieben Sie sie auf die rechte Seite der Folie. ## 0, circle, slide, right
+Stellen Sie die Breite des Kreises auf 4 cm ein.
+
+Erstellen Sie eine neue Folie und betiteln Sie sie mit "Die Bedeutung der richtigen Flüssigkeitszufuhr".
+Unterstreichen Sie den Titel und schreiben Sie ihn kursiv.
+Ändern Sie die Schriftgröße des Titels auf 24 und den Schriftstil auf Arial.
+Fügen Sie ein Bild einer Person ein, die Wasser trinkt, und verschieben Sie es auf die rechte Seite der Folie. ## 1, picture, slide, right
+Machen Sie das Bild 6,5 cm breit. Fügen Sie unter dem Bild eine Beschriftung hinzu und betiteln Sie es mit "Wasser trinken". ## 1, textbox, picture, bottom
+Geben Sie der Folie eine violette Hintergrundfarbe. Erstellen Sie eine neue Folie und geben Sie ihr den gleichen Hintergrund.
+Fügen Sie ein Bild eines Ordners in die Folie ein. Passen Sie die Breite und Höhe des Bildes auf 6,5 und 5,5 an.
+Fügen Sie der Folie einen Titel hinzu und nennen Sie sie "Die Vorteile der Verwendung von SmartArt". Ändern Sie die Schriftfarbe des Titels in Rot und die Schriftgröße auf 40.
+Ändern Sie den Schriftstil des Titels in Arial und machen Sie ihn kursiv.
+
+Nennen Sie den Titel "Aufbau Ihrer Marke". und geben Sie der Folie eine hellgrüne Hintergrundfarbe.
+Schreiben Sie im Inhaltsabschnitt: "Der Aufbau einer Marke ist ein entscheidender Bestandteil jedes erfolgreichen Unternehmens." Stellen Sie den Schriftstil auf "Arial" und die Schriftgröße auf 14 ein.
+Fügen Sie die Form eines Rechtecks ​​hinzu und verschieben Sie es auf die rechte Seite der Folie. ## 0, rectangle, slide, right
+Fügen Sie eine Tabelle mit 3 Zeilen und 4 Spalten ein. Füllen Sie die erste Zeile der Tabelle mit "Markenidentität", "Markenbotschaft", "Markenstimme" und "Markenstrategie".
+Kopieren Sie die Tabelle.
+Ändern Sie die Schriftgröße des Inhalts und ändern Sie den Schriftstil in "Times New Roman".
+
+Erstellen Sie eine neue Folie, fügen Sie den Titel "Die Grundlagen effektiver Kommunikation" ein und stellen Sie den Schriftstil auf Times New Roman ein.
+Fügen Sie die folgenden Elemente ein: "Wichtige Punkte" und "Beschreibung".
+Erhöhen Sie die Schriftgröße der Elemente auf 24. Unterstreichen Sie die Elemente und fetten Sie sie ein.
+Stellen Sie die Hintergrundfarbe der Folie auf Hellorange ein.
+
+Stellen Sie die Hintergrundfarbe auf Hellblau ein.
+Fügen Sie "Tencent Meeting" in Titel und Inhalt ein.
+Unterstreichen Sie den Titel und stellen Sie die Schriftfarbe auf Dunkelrot ein.
+Erneuern Sie den Inhaltsteil mit: "Tencent Meeting ist eine leistungsstarke Videokonferenzplattform, die eine nahtlose Zusammenarbeit und Kommunikation zwischen Teams und Einzelpersonen ermöglicht. Sie bietet eine Reihe von Funktionen für effektive virtuelle Meetings, einschließlich Bildschirmfreigabe, Chat und Aufzeichnung."
+Der Inhalt ist fett und kursiv, ebenso der Titel.
+Fügen Sie ein Bild der Tencent Meeting-Benutzeroberfläche ein.
+
+Fügen Sie eine Tabelle mit drei Spalten und zwei Zeilen ein.
+Geben Sie "Funktionen", "Beschreibung" und "Vorteile" in die erste Zeile ein.
+Fügen Sie der Folie eine Notiz "APP" hinzu und geben Sie der Folie eine violette Hintergrundfarbe.
+
+Geben Sie der Folie "Qualitätsbewertung" eine blaue Hintergrundfarbe.
+Fügen Sie den folgenden Text in den Inhaltsteil ein: "Qualitätsbewertung ist ein entscheidender Prozess bei der Bewertung der Leistung und Standards von Produkten oder Dienstleistungen. Sie erfordert gründliche Analyse, Messung und Vergleich, um die Einhaltung von Qualitätsmaßstäben und kontinuierliche Verbesserung sicherzustellen."
+Fügen Sie ein Bild einer Checkliste ein.
+Verschieben Sie das Bild auf die linke Seite des Inhalts, ## 0, picture, content, left
+Erstellen Sie ein Kreisdiagramm, das die Verteilung der Qualitätsbewertungen veranschaulicht. Beziehen Sie Datenkategorien wie "Ausgezeichnet", "Gut", "Mittelmäßig" und "Schlecht" ein. Der Anteil beträgt 40 %, 15 %, 25 %, 20 %.
+Benennen Sie das Kreisdiagramm "Qualitätsbewertungsverteilung".
+Verschieben Sie das Kreisdiagramm an die untere Seite der Folie. ## 0, chart, slide, bottom
+Kopieren Sie das Kreisdiagramm auf die nächste Folie.
+
+Erstellen Sie eine neue Folie und geben Sie ihr den Titel "Leitfaden zum Abschluss eines Projekts".
+Fügen Sie einen Pfeil in die Folie ein und verschieben Sie ihn in die obere Ecke der Folie. ## 1, right_arrow, slide, top corner
+Drehen Sie den Pfeil um 90 Grad.
+Gehen Sie zu Folie 0 und nennen Sie die Folie "Einführung". Beide Titel fett.
+Fügen Sie der Folie 0 eine Notiz "2022/6/10" hinzu.
+Geben Sie der Folie eine hellblaue Hintergrundfarbe. Fügen Sie eine Wolkenform in die Folie ein.
+
+Stellen Sie die Hintergrundfarbe auf Gelb ein.
+Fügen Sie den folgenden Text mit doppeltem Leerzeichen in den Inhaltsteil ein: "Trados Studio ist ein leistungsstarkes computergestütztes Übersetzungstool (CAT), das von SDL entwickelt wurde. Es bietet eine Reihe von Features und Funktionalitäten, die den Übersetzungsprozess rationalisieren, einschließlich Übersetzungsspeicher und Terminologieverwaltung." und Projektmanagement-Tools."
+Hinweis "Erstellt von Eva" einfügen. Geben Sie den Titel "Trados Studio" ein.
+Stellen Sie die Schriftfarbe des Titels auf Dunkelgrün ein. Stellen Sie die Schriftgröße auf 30 ein.
+Fügen Sie ein Bild des Trados Studio-Logos in die Folie ein. Verschieben Sie das Bild auf die rechte Seite des Inhalts. ## 0, image, content, right
+Passen Sie die Breite und Höhe des Bildes auf 4 und 3 cm an.
+Drehen Sie das Bild um 15 Grad gegen den Uhrzeigersinn.
+Ändern Sie die Hintergrundfarbe in Lila.
+
+Fügen Sie eine Tabelle mit drei Spalten und zwei Zeilen ein.
+Geben Sie "Jahr", "Beschreibung" und "Änderungen" in die erste Zeile der Tabelle ein.
+Nennen Sie die Folie "Große Veränderungen im letzten Jahrzehnt"
+fett und kursiv den Titel.
+Stellen Sie die Hintergrundfarbe auf Hellblau ein.
+
+Fügen Sie den Titel "Sollten Sie ein Studium im Ausland in Betracht ziehen?" hinzu, unterstrichen und fett gedruckt.
+Fügen Sie ein Bild von Studenten ein, die im Ausland studieren. Verschieben Sie es an den unteren Rand der Folie. ## 0, picture, slide, bottom
+Stellen Sie die Breite des Bildes auf 5 cm und die Höhe auf 3 cm ein.
+Geben Sie der Folie eine violette Hintergrundfarbe. Fügen Sie den Titel zur Notiz hinzu.
+
+Erstellen Sie ein Balkendiagramm, das die Nutzungsstatistiken von Trados Studio durch Übersetzer veranschaulicht. Berücksichtigen Sie Datenkategorien wie "Vollzeitübersetzer", "Freiberufler" und "Übersetzungsagenturen". Die entsprechenden Prozentsätze betragen 45 %, 35 %, 20 %.
+Benennen Sie das Balkendiagramm "Trados Studio-Nutzungsstatistik".
+Erstellen Sie eine neue Folie und fügen Sie den Titel "ABBYY FineReader" ein.
+Unterstreichen Sie den Titel und machen Sie ihn fett. Stellen Sie die Schriftgröße des Titels auf 30 ein.
+Fügen Sie den folgenden Text in den Inhaltsteil ein: "ABBYY FineReader ist eine Software zur optischen Zeichenerkennung (OCR), mit der Benutzer gescannte Dokumente, PDF-Dateien und Bilder in bearbeitbare und durchsuchbare Formate konvertieren können. Mit erweiterten Texterkennungs- und Dokumentkonvertierungsfunktionen ist es vereinfacht die Dokumentenverarbeitung und steigert die Produktivität."
+Setzen Sie den Inhalt mit doppeltem Leerzeichen und machen Sie den Inhalt kursiv.
+Fügen Sie ein Bild ein, das ABBYY FineReader darstellt, beispielsweise das ABBYY FineReader-Logo mit der Überschrift "ABBYY FineReader".
+Fügen Sie eine Tabelle mit drei Spalten und zwei Zeilen ein. Geben Sie "Funktion", "Beschreibung" und "Vorteile" in die erste Zeile ein.
+Verschieben Sie das Bild auf die rechte Seite der Tabelle. ## 1, picture, table, right
+Erstellen Sie ein Kreisdiagramm basierend auf den folgenden Daten: "Hohe Genauigkeit" 45 %, "Mittlere Genauigkeit" 45 % und "Geringe Genauigkeit" 5 %
+Nennen Sie das Kreisdiagramm "Genauigkeit der Dokumentkonvertierung".
+Fügen Sie der Folie den Hinweis "Seite 2" hinzu.
+
+Fügen Sie einen Titel "Marketingkampagne" ein.
+Unterstreichen und fetten Sie den Titel und stellen Sie die Schriftgröße auf 26 ein.
+Fügen Sie den folgenden Text in den Inhaltsteil ein: "Unsere Marketingkampagne zielt darauf ab, die Markenbekanntheit zu steigern, mit unserer Zielgruppe in Kontakt zu treten und den Umsatz anzukurbeln. Mit einer strategischen Mischung aus Online- und Offline-Marketingkanälen konzentrieren wir uns darauf, wirkungsvolle Botschaften und messbare Ergebnisse zu liefern." ."
+Verschieben Sie den Inhalt auf die linke Seite der Folie. ## 0, content, slide, left
+Fügen Sie ein Bild eines Werbebanners ein und geben Sie unten den Bildnamen ein. ## 1, textbox, picture, bottom
+Stellen Sie die Breite des Bildes auf 5 cm Höhe ein.
+Geben Sie der Folie eine grüne Hintergrundfarbe.
+
+Geben Sie der Folie einen roten Titel mit dem Namen "Nachhaltige Energie".
+Fügen Sie ein Bild ein, das sich auf nachhaltige Energie bezieht, beispielsweise eine Windkraftanlage oder Sonnenkollektoren. Ang stellte seine Größe auf 6 cm Breite ein.
+Erstellen Sie eine Tabelle mit 3 Spalten und 4 Zeilen. Listen Sie in der ersten Spalte Wind, Sonne, Wasserkraft und Geothermie auf. Listen Sie in der zweiten Spalte niedrige Kosten, geringe Umweltbelastung und hohe Verfügbarkeit auf. Listen Sie in der dritten Spalte hohe Anfangsinvestitionen, zeitweilige Verfügbarkeit und Landnutzungskonflikte auf.
+Verschieben Sie das Bild an die obere Seite der Tabelle. ## 0, picture, table, top
+Erstellen Sie eine weitere Folie und nennen Sie ihren Titel "Online-Shopping" in derselben Farbe wie der vorherige Titel.
+Fügen Sie im Inhaltsteil den folgenden Inhalt hinzu: "Online-Shopping ist der Prozess des Kaufs von Waren und Dienstleistungen von Händlern über das Internet. Es erfreut sich aufgrund seiner Bequemlichkeit und Zugänglichkeit immer größerer Beliebtheit."
+Machen Sie den Titel fett und ändern Sie die Schriftfarbe in Blau. Erstellen Sie den Inhalt mit doppeltem Leerzeichen.
+Erstellen Sie eine weitere Folie und fügen Sie ein Bild über Fernsehserien ein. Stellen Sie die Breite auf die gleiche Breite wie das Bild auf der vorherigen Folie ein.
+Geben Sie der Folie eine blaue Hintergrundfarbe. Fügen Sie der Folie einen Hinweis "Über TV-Serien" hinzu.
+
+Geben Sie im Titel "Gesunde Essgewohnheiten" ein. Ändern Sie den Folienhintergrund in eine dunkelblaue Farbe.
+Inhalt einfügen "Drücken Sie die Wiedergabetaste, um das Video zu starten". Machen Sie den Schriftstil des Inhalts zu Verdana.
+Fügen Sie eine Tabelle mit zwei Spalten und zwei Zeilen ein. Geben Sie "Lebensmittelgruppe" und "Empfohlene Portionen" in die erste Zeile ein.
+Verschieben Sie die Tabelle an die untere Seite des Inhalts. ## 0, table, content, bottom
+Fügen Sie ein Bild einer Person ein, die einen Laptop benutzt.
+Setzen Sie ein Quadrat in die Folie ein. Stellen Sie die Höhe auf 2 cm ein.
+Drehen Sie es dann um 45 Grad nach links.
+
+Fügen Sie den Inhalt ein: "Zusammenfassend lässt sich sagen, dass TV-Dienste die Art und Weise, wie wir Unterhaltung konsumieren, revolutioniert haben und eine breite Palette an Inhaltsoptionen und Komfort bieten."
+Ändern Sie den Schriftstil des Inhalts in "Futura".
+Nennen Sie den Titel "Schlussfolgerung" und schreiben Sie ihn fett.
+Fügen Sie ein Bild eines bunten Tellers gefüllt mit Obst und Gemüse ein.
+Verschieben Sie das Bild in die untere Ecke der Folie. ## 0, picture, slide, bottom corner
+Ändern Sie die Farbe des Folienhintergrunds in Grün.
+
+Bitte erstellen Sie eine neue Folie und geben Sie ihr eine lila Hintergrundfarbe.
+fügen Sie den Titel "Nachteil" ein,
+Machen Sie den Titel fett und stellen Sie die Schriftgröße des Titels auf 24, Schriftart Arial, ein.
+Fügen Sie dieser Datei eine Notiz "2023/3/9" hinzu.
+Erstellen Sie ein Kreisdiagramm mit "Früchte" 30 %, "Gemüse" 25 %, "Getreide" 15 %, "Proteine" 5 % und "Milchprodukte 25 %".
+Verschieben Sie das Kreisdiagramm an die untere Seite der Folie. ## 1, chart, slide, bottom
+Fügen Sie ein Textfeld unter dem Kreisdiagramm ein und schreiben Sie "Der Nachteil von zu viel Essen ist, dass man dadurch dick wird." im Textfeld. ## 1, textbox, chart, bottom
+Nennen Sie das Kreisdiagramm "Tägliche Lebensmittelgruppenportionen".
+
+Fügen Sie einen Pfeil in die Folie ein. Stellen Sie die Breite auf 3,5 ein.
+Drehen Sie es um 90 Grad nach links.
+Verschieben Sie es auf die rechte Seite der Folie. ## 0, right_arrow, slide, right
+
+Fügen Sie den Titel "Technologietrends" ein und unterstreichen Sie ihn.
+Stellen Sie die Schriftfarbe auf Grün ein. Stellen Sie die Schriftgröße auf 26 ein.
+Fügen Sie den folgenden Text in den Inhaltsteil ein: "Mit den neuesten Technologietrends Schritt zu halten, ist in der sich schnell entwickelnden digitalen Landschaft von heute von entscheidender Bedeutung. Von künstlicher Intelligenz und Blockchain bis hin zu Cloud Computing und dem Internet der Dinge prägen diese Trends Branchen und revolutionieren die Art und Weise, wie wir arbeiten." leben, arbeiten und mit der Welt in Kontakt treten."
+Stellen Sie die Hintergrundfarbe auf die Schriftfarbe des Titels ein.
+Fügen Sie ein Bild miteinander verbundener Netzwerke ein.
+Fügen Sie eine Tabelle mit drei Spalten und zwei Zeilen ein. Fügen Sie "Technologietrend", "Beschreibung" und "Auswirkung" in die erste Zeile ein.
+Erstellen Sie ein Liniendiagramm, das das Wachstum der Technologieeinführung im Laufe der Zeit veranschaulicht. Berücksichtigen Sie Datenkategorien in
+Nennen Sie das Liniendiagramm "Technologiewerte".
+Fügen Sie ein Kreisdiagramm mit denselben Daten und demselben Titel ein.
+
+Legen Sie den Folienhintergrund mit einer grünen Farbe fest.
+Fügen Sie einen Titel "Nachhaltiges Leben" ein und schreiben Sie ihn kursiv.
+Fügen Sie ein Bild einer erneuerbaren Energiequelle, beispielsweise eines Solarpanels, hinzu und verschieben Sie es auf die linke Seite der Folie. ## 0, picture, slide, left
+Fügen Sie den folgenden Text in den Inhaltsteil ein: "Nachhaltiges Leben fördert verantwortungsvollen Konsum, erneuerbare Energien und umweltfreundliche Praktiken, um die Umwelt zu schützen und eine bessere Zukunft für kommende Generationen zu gewährleisten. Durch bewusste Entscheidungen in unserem täglichen Leben können wir reduzieren." unseren CO2-Fußabdruck verbessern und eine nachhaltigere Welt schaffen."
+Stellen Sie die Schriftfarbe auf Dunkelorange ein.
+Erstellen Sie ein Liniendiagramm, das das Wachstum des Verbrauchs erneuerbarer Energien im Zeitverlauf darstellt. Beziehen Sie 2013, 2014, 2015, 2016 in X ein, und die entsprechenden Daten in Y sind 1,6, 2,4, 4,8 und 11 Millionen.
+Nennen Sie das Liniendiagramm "Trend beim Verbrauch erneuerbarer Energien".
+Verschieben Sie das Liniendiagramm an die untere Seite des Titels. ## 0, chart, title, bottom
+Fügen Sie eine Wolkenform in die Folie ein. Drehen Sie die Wolke um 30 Grad gegen den Uhrzeigersinn.
+
+Fügen Sie eine Tabelle mit vier Spalten und drei Zeilen ein.
+Fügen Sie drei Elemente in die erste Spalte ein: "Ausgewogene Ernährung", "Portionskontrolle" und "Flüssigkeitszufuhr".
+Fügen Sie ein Bild einer grünen Stadt in die Folie ein.
+Verschieben Sie das Bild an die Oberseite der Folie.## 0, picture, slide, top
+Verschieben Sie den Tisch an die Unterseite der Folie.## 0, table, slide, bottom
+
+Fügen Sie einen Titel "Projektmanagement" ein.
+Fügen Sie ein Bild eines Teams hinzu, das an einem Projekt zusammenarbeitet.
+Unterstreichen Sie den Titel und schreiben Sie ihn kursiv.
+Verschieben Sie das Bild nach links oben auf der Folie. ## 0, image, slide, left top
+
+Fügen Sie den Titel "Projektfortschrittsbericht" ein.
+Erstellen Sie eine Tabelle mit drei Spalten und fünf Zeilen und geben Sie Aufgabennamen, Fristen und Fortschrittsstatus in die erste Zeile ein.
+Stellen Sie die Hintergrundfarbe auf Lila und den Titel auf Grün ein.
+
+Fügen Sie den Titel "Universität und Berufsschule" ein.
+Stellen Sie die Schriftgröße auf 36 ein und unterstreichen Sie den Titel.
+Fügen Sie den folgenden Text in den Inhaltsteil ein: "Universitäten und Berufsschulen bieten Hochschulbildung und Fachausbildung an, um Studenten mit den Kenntnissen und Fähigkeiten auszustatten, die für eine erfolgreiche Karriere erforderlich sind. Diese Institutionen bieten eine breite Palette an akademischen Programmen, Forschungsmöglichkeiten und beruflicher Weiterentwicklung." persönliches Wachstum und beruflichen Aufstieg fördern."
+Setzen Sie den Inhalt mit doppeltem Leerzeichen.
+Geben Sie der Folie eine grüne Hintergrundfarbe. Ähm, ändere es in Lila.
+
+Fügen Sie ein Bild einer professionellen Schulumgebung ein.
+Verschieben Sie das Bild auf die rechte Seite der Folie.## 0, picture, slide, right
+Fügen Sie ein Dreieck in die Folie ein und verschieben Sie es auf die linke Seite der Folie. ## 0, triangle, slide, left
+Erhöhen Sie die Breite des Dreiecks auf 10 cm und die Höhe auf 15 cm.
+Stellen Sie sicher, dass sich das Bild unter dem Dreieck befindet.## 0, picture, triangle, below
+
+Erstellen Sie eine neue Folie und geben Sie ihr einen blauen Hintergrund.
+Fügen Sie den Titel "NFC" ein und fetten Sie ihn ein.
+Fügen Sie den folgenden Text in den Inhaltsteil ein: "NFC (Near Field Communication) ermöglicht eine nahtlose drahtlose Kommunikation zwischen Geräten in unmittelbarer Nähe."
+Stellen Sie die Schriftfarbe auf Dunkelgrün und die Schriftgröße auf 20 ein.
+Fügen Sie ein Bild eines NFC-Logos in die Folie ein.
+Stellen Sie die Hintergrundfarbe auf Lila ein.
+Verschieben Sie das Bild auf die rechte Seite des Inhalts. ## 1, picture, slide, right
+
+Fügen Sie eine Tabelle mit vier Spalten und zwei Zeilen ein. Geben Sie "Produkt", "Umsatz", "Verkaufte Einheiten" und "Gewinnspanne" ein. in die erste Reihe.
+Geben Sie der Folie eine hellblaue Hintergrundfarbe.
+
+Erstellen Sie ein Liniendiagramm, das das Wachstum von NFC-fähigen Geräten im Laufe der Zeit veranschaulicht. Die Daten zu X sind 2018, 2019, 2020 und 2021. Die entsprechenden Daten sind 500000; 1300000,2500000,4000000 repräsentiert die Anzahl der NFC-fähigen Geräte.
+Nennen Sie das Liniendiagramm "NFC Device Growth".
+Fügen Sie eine Tabelle mit drei Spalten und zwei Zeilen ein. Kontaktloses Einfügen, ermöglicht berührungsbasierte Transaktionen, bequemes und schnelleres Bezahlen in der zweiten Reihe.
+Fügen Sie einen Stern ein und stellen Sie sicher, dass Breite und Höhe 6,5 cm betragen.
+Bewegen Sie den Stern an die Oberseite des Tisches. ## 0, star, table, top
+Bewegen Sie den Stern auf die rechte Seite des Tisches. ## 0, star, table, right
+
+Fügen Sie einen Titel ein und machen Sie ihn fett: "Embracing Disruption"
+Legen Sie für den Titel die Schriftgröße 20 und den Schriftstil "Times New Roman" fest.
+Fügen Sie ein Bild einer futuristischen Stadtlandschaft ein, um digitale Transformation und Innovation darzustellen.
+Verschieben Sie das Bild an die untere Seite der Folie. ## 0, picture, slide, bottom
+Fügen Sie den Hinweis "Erstellt von [Ihr Name]" hinzu. zur Folie. Geben Sie der Folie einen lila Hintergrund.
+Nicht so gut. Ändern Sie die Hintergrundfarbe in Hellblau.
+
+Fügen Sie den Titel "Power Bank" ein und verschieben Sie ihn in die linke Ecke der Folie. ## 0, title, slide, left corner
+Erhöhen Sie die Schriftgröße des Titels auf 24 und schreiben Sie ihn kursiv.
+Fügen Sie den folgenden Text in den Inhaltsteil ein: "Eine Powerbank ist ein tragbares Gerät, das unterwegs das Aufladen von Smartphones, Tablets und anderen elektronischen Geräten ermöglicht."
+Unterstreichen Sie den Inhalt, machen Sie ihn mit doppeltem Leerzeichen, der gleichen Größe wie der Titel und stellen Sie die Schriftfarbe auf Orange ein.
+Fügen Sie ein Bild der Yoobao-Powerbank in die Folie ein. Verschieben Sie es an die Unterseite der Folie. ## 0, picture, slide, bottom
+Fügen Sie eine Tabelle mit vier Spalten und drei Zeilen ein. Geben Sie die folgenden Daten in die Tabelle ein: Marke, Kapazität (mAh), Ausgangsanschlüsse, Preis ($) in die erste Zeile.
+Erstellen Sie ein Kreisdiagramm, das den Marktanteil verschiedener Powerbank-Marken veranschaulicht. Die Daten beziehen sich auf Marke A, 40 %; Marke B 30 %, Marke C 20 % und andere 10 %.
+Fügen Sie das Kreisdiagramm "Marktanteil von Powerbanks" ein.
+Fügen Sie dieser Folie einen Hinweis "2023" hinzu.
+Fügen Sie eine Beschriftungsform in die rechte Seite der Folie ein. ## 0, callout, slide, right
+
+Fügen Sie den Titel "NBA" ein und stellen Sie die Schriftfarbe auf Rot ein.
+Fügen Sie den folgenden Text in den Inhaltsteil ein: "Die National Basketball Association (NBA) ist eine professionelle Basketballliga, die aus 30 Teams aus Nordamerika besteht."
+Die Schriftgröße der Wörter ist zu klein. Stellen Sie die Schriftgröße auf 20 ein.
+Verschieben Sie den Inhalt in die untere Ecke der Folie. ## 0, content, slide, bottom corner.
+
+Fügen Sie ein Bild eines Basketballplatzes in die Folie ein.
+Verschieben Sie das Bild an die obere Seite der Folie. ## 0, picture, slide, top
+Fügen Sie ein Textfeld mit dem Namen des Bildes hinzu. Ändern Sie den Hintergrund in eine blaue Farbe.
+Fügen Sie eine Tabelle mit vier Zeilen und drei Spalten ein.
+Tragen Sie die folgenden Daten in die Tabelle ein: Team, Stadt, Meisterschaften in die erste Reihe, Los Angeles, Lakers, 17 in die zweite Reihe, Boston, Celtics, 17 in die dritte Reihe und Chicago, Bulls, 6 in die vierte Reihe.
+Erstellen Sie ein Balkendiagramm gemäß den Daten in der Tabelle. Die X-Daten sind Lakers, Celtics und Bulls, die Y-Daten sind 17, 17 und 6.
+Nennen Sie das Kreisdiagramm "Verteilung der NBA-Meisterschaften".
+Erstellen Sie eine neue Folie und unterstreichen Sie den Titel "Einführung in das autonome Fahren".
+Fügen Sie auf der Folie ein Bild eines futuristischen selbstfahrenden Autos ein. Stellen Sie die Höhe des Bildes auf 7 cm ein.
+Fügen Sie den folgenden Text in den Inhaltsteil ein: "Autonomes Fahren, auch bekannt als selbstfahrende oder fahrerlose Technologie, bezieht sich auf Fahrzeuge, die ohne menschliches Zutun navigieren und funktionieren können."
+Verschieben Sie den Inhalt in die untere Ecke der Folie. ## 1, content, slide, bottom corner
+Fügen Sie einen Pfeil in die Folie ein. Verschieben Sie es links vom Inhalt. ## 1, right_arrow, content, left
+Oh, bewegen Sie den Pfeil nach rechts neben den Inhalt. ## 1, right_arrow, content, right
+
+Fügen Sie den folgenden Inhalt ein: "Autonomes Fahren revolutioniert die Transportbranche, indem es mehr Sicherheit, Komfort und Effizienz bietet."
+Erhöhen Sie die Schriftgröße des Inhalts auf 18 und machen Sie den Inhalt fett und kursiv.
+Unterstreichen Sie außerdem den Inhalt und setzen Sie ihn mit doppeltem Leerzeichen.
+Fügen Sie eine Tabelle mit fünf Spalten und zwei Zeilen ein. In der ersten Zeile werden "Sensortypen", "Lidar", "Radar", "Kameras" und "Gesamt" aufgeführt.
+Ändern Sie den Schriftstil des Inhalts in "Times New Roman".
+Erstellen Sie ein Kreisdiagramm, das die Verteilung der in autonomen Fahrsystemen verwendeten Sensortypen veranschaulicht. Die Daten sind Lidar 40 %, Radar 30 %, Kameras 30 %.
+Benennen Sie das Kreisdiagramm "Sensortypen beim autonomen Fahren".
+Fügen Sie der Folie eine Notiz mit dem Namen des Kreisdiagramms hinzu.
+
+Nennen Sie die Folie "Autonomes Fahren"
+Fügen Sie ein Bild eines Firmenlogos ein und verschieben Sie es an den linken unteren Rand der Folie. ## 0, picture, slide, left bottom
+Stellen Sie die Breite und Höhe des Logos auf 6,5 cm bzw. 6 cm ein.
+Erstellen Sie eine neue Folie und fügen Sie den Titel "Einführung autonomen Fahrens nach Region" ein.
+Stellen Sie die Schriftart des Titels auf "Calibri" und die Schriftgröße auf 32 ein.
+Geben Sie die folgende Aussage ein: "Autonome Fahrtechnologien verändern die Transportlandschaft, revolutionieren Industrien und verbessern Sicherheit und Effizienz."
+Ändern Sie die Schriftfarbe des Inhalts in Dunkelorange.
+
+Erstellen Sie eine neue Folie. Geben Sie als Titel "The Power of Planting" ein. Stellen Sie die Titelschriftart auf "Calibri" mit einer Schriftgröße von 36 ein.
+Tragen Sie einen Hintergrund mit einer grünen Farbe auf.
+Fügen Sie den folgenden Inhalt ein: "Pflanzen verschönert nicht nur unsere Umgebung, sondern fördert auch die ökologische Nachhaltigkeit und bietet eine Vielzahl von gesundheitlichen Vorteilen." in den Inhaltsteil.
+Machen Sie sowohl den Inhalt als auch den Titel grün.
+Fügen Sie ein Bild eines üppigen Gartens in die Folie ein.
+Erstellen Sie ein Kreisdiagramm entsprechend den Daten: Umwelt 40 %, Gesundheit 30 % und Gemeinschaft 30 %.
+Nennen Sie das Kreisdiagramm "Planting Benefits".
+Verschieben Sie das Kreisdiagramm an die untere Seite des Bildes. ## 1, chart, image, bottom
+Fügen Sie einen Pfeil in die Folie ein. Drehen Sie es um 60 Grad.
+Stellen Sie die Höhe auf 2 cm und die Breite auf 4 cm ein. Geben Sie "Seite 2" als Notiz in die Folie ein.
+
+Fügen Sie eine Tabelle mit vier Spalten und drei Zeilen ein.
+Geben Sie die folgenden Daten in die erste Zeile der Tabelle ein: Pflanzvorteile, Umwelt, Gesundheit, Gemeinschaft.
+Stellen Sie die Hintergrundfarbe der Folie auf Grün ein.
+Benennen Sie align_slide_center als "Andere Informationen".
+Unterstreichen Sie den Titel und stellen Sie die Schriftfarbe auf Dunkelorange ein.
+Verschieben Sie den Titel in die obere Ecke der Folie. ## 0, title, slide, top corner
+
+Fügen Sie ein Bild des Google-Logos mit der Überschrift "Google" in die Folie ein.
+Fügen Sie den folgenden Text in den Inhaltsteil ein: "Google und Microsoft Edge sind zwei beliebte Webbrowser, die einzigartige Features und Funktionalitäten bieten. Während Google Chrome mit seiner Geschwindigkeit und seinem umfangreichen Ökosystem den Markt dominiert, zielt Microsoft Edge darauf ab, ein nahtloses und übersichtliches Surferlebnis zu bieten." Integration mit Windows-Betriebssystemen.
+Setzen Sie den Inhalt mit doppeltem Leerzeichen und stellen Sie die Schriftgröße auf 16 ein.
+Geben Sie den Titel "Google vs Microsoft Edge" ein. Stellen Sie die Schriftfarbe auf Rot ein.
+Verschieben Sie das Bild in die untere Ecke der Folie. ## 0, picture, slide, bottom corner
+Fügen Sie eine Tabelle mit drei Spalten und drei Zeilen ein. In der ersten Zeile steht "Funktionen", "Google Chrome", "Microsoft Edge". In der zweiten Zeile steht Speed,High,Moderate, in der dritten Zeile Ecosystem,Extensive,Integrated.
+Erstellen Sie ein Balkendiagramm, in dem Sie den Marktanteil von Google Chrome und Microsoft Edge vergleichen. Google Chrome beträgt 50 %, Microsoft Edge 25 % und andere 25 %.
+Nennen Sie das Balkendiagramm "Webbrowser-Marktanteil". Fügen Sie "Seite 1" als Notiz in die Folie ein.
+
+Geben Sie der Folie eine blaue Hintergrundfarbe. Fügen Sie den Titel "Networking und LinkedIn" ein.
+Fügen Sie den folgenden Text in den Inhaltsteil ein: "Networking spielt eine entscheidende Rolle bei der Karriereentwicklung, und LinkedIn ist eine leistungsstarke Plattform für professionelles Networking. Mit Millionen von Benutzern weltweit bietet LinkedIn eine Reihe von Funktionen, um mit Fachleuten in Kontakt zu treten, Fähigkeiten zu präsentieren usw Jobmöglichkeiten entdecken."
+Stellen Sie die Schriftfarbe des Titels auf Dunkelrot und die des Inhalts auf Hellrot ein.
+Stellen Sie den Schriftstil des Titels und des Inhalts auf Arial ein.
+Unterstreichen Sie den Titel und schreiben Sie den Inhalt kursiv. Erhöhen Sie die Schriftgröße des Inhalts auf 24.
+Erstellen Sie ein Kreisdiagramm, das die Verteilung der LinkedIn-Benutzer nach Branche veranschaulicht, basierend auf den folgenden Daten: Technologie 30 %, Finanzen 20 %, Gesundheitswesen 15 %, Marketing 10 %, Andere 25 %
+Benennen Sie das Kreisdiagramm "LinkedIn-Benutzerverteilung".
+Fügen Sie das Liniendiagramm mit denselben Daten ein.
+Fügen Sie das Balkendiagramm mit denselben Daten ein.
+
+Erstellen Sie eine neue Folie und fügen Sie den Titel "Verschiedene Herde" ein.
+Fügen Sie den folgenden Text in den Inhaltsteil ein: "Es gibt verschiedene Arten von Herden, die unterschiedliche Kochanforderungen erfüllen. Von traditionellen Kochfeldern über fortschrittliche Elektroherde bis hin zu modernen Induktionskochfeldern bietet jeder Typ einzigartige Funktionen und Vorteile."
+Fügen Sie eine Tabelle mit vier Spalten und drei Zeilen ein. Geben Sie Herdtyp, Merkmale und Vorteile in die erste Zeile ein. Setzen Sie Herdplatten, Gas- oder Elektrobrenner und präzise Wärmeregelung in die zweite Reihe ein.
+Erstellen Sie ein Kreisdiagramm basierend auf den folgenden Daten: Herd 40 %; Elektroherd 25 %; Induktionskochfeld 20 %; Schongarer 10 %; Heißluftfritteuse 5 %.
+Fügen Sie den Kreisdiagrammtitel "Beliebtheit des Herdtyps" ein.
+Fügen Sie ein Bild eines Herdes in die Folie ein.
+Stellen Sie die Breite des Bildes auf 7 cm und die Höhe auf 6 cm ein.
+Verschieben Sie das Bild auf die rechte Seite der Folie. ## 1, picture, slide, right
+Verschieben Sie das Bild auf die linke Seite der Folie. ## 1, picture, slide, left
+Gehen Sie zu Folie 0 und geben Sie ihr eine grüne Hintergrundfarbe.
+
+Fügen Sie den Titel "Entdecken Sie die Freude von Oreo" ein.
+Fett und kursiv den Titel.
+Stellen Sie die Schriftgröße auf 30 ein.
+Fügen Sie den folgenden Text in den Inhaltsteil ein: "Oreo, der kultige Sandwich-Keks, ist ein beliebter Leckerbissen für Menschen jeden Alters. Mit seiner unwiderstehlichen Kombination aus Schokoladenwaffeln und cremiger Füllung bietet Oreo ein köstliches Snack-Erlebnis, das jedem Freude bereitet." beißen."
+Stellen Sie die Schriftfarbe des Inhalts auf Dunkelblau ein.
+Fügen Sie ein Bild von Oreo-Keksen in die Folie ein.
+Verschieben Sie das Bild in die rechte Ecke der Folie. ## 0, picture, slide, right corner
+Fügen Sie eine Sternform in die Folie ein. Bewegen Sie den Stern in die linke Ecke der Folie. ## 0, star, slide, left corner
+Fügen Sie ein Kreis- und Liniendiagramm in die Folie ein. Die Daten lauten Original 40 %, Minze 10 %, Erdnussbutter 50 %.
+Ich möchte ein Balkendiagramm mit denselben Informationen, aber mit "Oreo Flavour Popularity".
+
+Legen Sie eine violette Hintergrundfarbe für die Folie fest.
+Legen Sie den Folientitel auf "Saisonale Variationen" fest und machen Sie ihn fett und kursiv.
+Fügen Sie den folgenden Text in den Inhaltsteil ein: "Saisonale Variationen verleihen unserem Leben einen besonderen Charme. Von den leuchtenden Farben des Frühlings bis zu den warmen Farbtönen des Sommers, der gemütlichen Atmosphäre des Herbstes und den ruhigen Landschaften des Winters bietet jede Jahreszeit etwas einzigartiges Erlebnis. Genießen Sie die Schönheit der Verwandlung der Natur das ganze Jahr über."
+Ändern Sie den Schriftstil des Inhalts in Arial. Ändern Sie die Schriftgröße des Inhalts in 18.
+Fügen Sie eine Tabelle mit vier Spalten und vier Zeilen ein. Geben Sie Jahreszeit, Durchschnittstemperatur, Hauptmerkmale und Aktivitäten in die erste Zeile ein.
+Fügen Sie eine Beschriftungsform in die Folie ein. Verschieben Sie es auf die linke Seite der Folie. ## 0, callout, slide, left
+
+Fügen Sie den Titel "Wetter in Guangdong: Ein Klima der Vielfalt" ein.
+Verschieben Sie den Titel in die linke Ecke der Folie. ## 0, title, slide, left corner
+Fügen Sie den folgenden Text in den doppelten Inhaltsteil ein: "Guangdong erlebt das ganze Jahr über eine Vielzahl von Wetterbedingungen. Von warmen und sonnigen Tagen bis hin zu gelegentlichen Regenfällen, nebligen Morgen und bewölktem Himmel ist das Klima in Guangdong vielfältig und dynamisch." Entdecken Sie die verschiedenen Jahreszeiten und Wetterverhältnisse in dieser pulsierenden Region."
+Fügen Sie ein Bild eines sonnigen Strandes in die Folie ein und verschieben Sie es in die rechte Ecke der Folie. ## 0, picture, slide, right corner
+Fügen Sie eine Tabelle mit zwei Spalten und zwei Zeilen ein. Geben Sie in der ersten Zeile Jahreszeit und Durchschnittstemperatur ein. In der zweiten Reihe Feder 20-28℃ einsetzen.
+Geben Sie der Folie eine violette Hintergrundfarbe.
+Bewegen Sie den Tisch an die Unterseite der Folie. ## 0, table, slide, bottom
+Fügen Sie eine Wolkenform in die Folie ein und verschieben Sie sie auf die linke Seite der Tabelle. ## 0, cloud, table, left
+
+Fügen Sie ein Bild eines Sonnenaufgangs in die Folie ein.
+Stellen Sie die Breite des Bildes auf 6 cm ein. Machen Sie es quadratisch.
+Fügen Sie den Titel "The Power of Positive Thinking: Embracing Optimism" kursiv und fett ein.
+Fügen Sie den folgenden Text im gleichen Stil wie der Titel in den Inhaltsteil ein: "Positives Denken ist eine Denkweise, die sich auf Optimismus, Belastbarkeit und Selbstvertrauen konzentriert. Durch die Kultivierung positiver Gedanken und Einstellungen können wir unser Wohlbefinden steigern und Herausforderungen meistern." und schaffen Sie ein glücklicheres und erfüllteres Leben. Nutzen Sie die Kraft des positiven Denkens und entfalten Sie Ihr wahres Potenzial."
+Stellen Sie die Schriftfarbe des Inhalts auf Lila und die Schriftgröße 20 ein.
+Fügen Sie der Folie einen Hinweis "Positives Denken" hinzu.
+
+Fügen Sie eine Tabelle mit drei Spalten und vier Zeilen ein. Geben Sie in der ersten Zeile folgende Daten in die Tabelle ein: Vorteile, Beschreibung, Beispiele. Fügen Sie "Verbessertes Wohlbefinden" in die erste Zelle der zweiten Zeile ein.
+Fügen Sie den folgenden Text in den Inhaltsteil ein: "Positives Denken ist eine Denkweise, die sich auf Optimismus, Belastbarkeit und Selbstvertrauen konzentriert. Durch die Kultivierung positiver Gedanken und Einstellungen können wir unser Wohlbefinden steigern, Herausforderungen meistern und ein glücklicheres und glücklicheres Leben schaffen." ein erfüllteres Leben. Nutzen Sie die Kraft des positiven Denkens und entfalten Sie Ihr wahres Potenzial."
+Schreiben Sie den Inhalt kursiv und ändern Sie die Schriftfarbe in Hellblau.
+Geben Sie der Folie eine hellgrüne Hintergrundfarbe.
+Fügen Sie den Titel "Definition" in Fettdruck in die Folie ein.
+Verschieben Sie den Titel in die obere Ecke der Folie. ## 0, title, slide, top corner
+Fügen Sie in die rechte Folie ein Bild einer Gruppe lachender Menschen ein. ## 0, picture, slide, right
+
+Fügen Sie den Titel "Müllklassifizierung: Förderung einer nachhaltigen Abfallwirtschaft" ein. Fügen Sie den folgenden Text in den Inhaltsteil ein: "Die Müllklassifizierung ist eine entscheidende Praxis zur Förderung einer nachhaltigen Abfallwirtschaft. Durch die ordnungsgemäße Sortierung und Entsorgung von Abfällen können wir die Umweltverschmutzung reduzieren und Ressourcen schonen." und tragen Sie zu einem saubereren und gesünderen Planeten bei. Übernehmen Sie die Verantwortung der Müllklassifizierung und leisten Sie einen positiven Einfluss auf unsere Umwelt."
+Unterstreichen Sie den Inhalt und stellen Sie die Schriftfarbe auf Orange ein.
+Ändern Sie die Schriftgröße des Inhalts in 18.
+Ändern Sie den Schriftstil des Titels und des Inhalts in Times New Roman.
+Fügen Sie einen Pfeil in die Folie ein. Verschieben Sie es in die rechte Ecke der Folie. ## 0, arrow, slide, right corner
+Stellen Sie die Breite des Pfeils auf 4,0 und die Höhe auf 3,0 ein.
+Um 90 Grad nach links drehen.
+Erstellen Sie ein Balkendiagramm, das die Recyclingquoten verschiedener Abfallmaterialien veranschaulicht. Fügen Sie Datenkategorien als Daten auf der X-Achse ein, z. B. "Papier", "Kunststoffe", "Glas", "Metalle" und "Organischer Abfall". Tragen Sie die entsprechenden Recyclingquoten auf der Y-Achse mit 60 %, 50 %, 45 %, 40 %, 40 % ein. Nennen Sie das Balkendiagramm "Abfallmaterial-Recyclingquoten".
+Fügen Sie ein Bild eines Papierkorbs in die Folie ein.
+Erstellen Sie eine neue Folie und geben Sie ihr eine violette Hintergrundfarbe.
+Nennen Sie die neue Folie "Organischer Abfall" und haben Sie dieselbe Größe wie der Inhalt der vorherigen Folie.
+Fügen Sie den folgenden Text in den Inhaltsteil ein: "Organischer Abfall spielt eine wichtige Rolle für ein nachhaltiges Leben. Durch die Kompostierung organischer Materialien wie Essensreste, Gartenabfälle und landwirtschaftliche Rückstände können wir Mülldeponien reduzieren, die Bodenqualität verbessern und den Nährstoffkreislauf schließen." . Machen Sie sich die Praxis der Kompostierung zu eigen und tragen Sie zu einer grüneren Zukunft bei."
+
+Erstellen Sie eine neue Folie und fügen Sie den Titel "Oldroyds Film von Lady Macbeth" in Fettschrift ein
+Bitte unterstreichen Sie den Titel und stellen Sie die Größe auf 28 ein
+Inhalt einfügen "Birchs Drehbuch führt einige wesentliche Änderungen an der Leskov-Erzählung ein. Beispielsweise streichen Birch und Oldroyd die Sibirien-Episoden vollständig und beschließen, Katherines Selbstmord herauszuschneiden."
+Stellen Sie die Schriftgröße des Inhalts auf 20 ein und fetten Sie den Inhalt ein.
+Ändern Sie die Schriftfarbe des Inhalts in Gelb, die Farbe des Titels in Rot.
+Fügen Sie ein Bild von Oldroyds Film "Lady Macbeth" in die Folie ein.
+Stellen Sie die Breite des quadratischen Bildes auf 8 cm ein.
+Verschieben Sie es auf die rechte Seite des Inhalts, ## 1, picture, content, right
+Nein, verschieben Sie es auf die linke Seite des Inhalts, ## 1, picture, content, left
+Fügen Sie eine Tabelle mit drei Zeilen und zwei Spalten ein.
+Fügen Sie in der ersten Zeile Filmcharakter, Schauspieler/Schauspielerin ein. Fügen Sie in der zweiten Reihe Lady Macbeth und Florence Pugh ein. Fügen Sie im dritten Teil Macbeth und Cosmo Jarvis ein.
+Fügen Sie der Folie einen Hinweis "1. Mai" hinzu.
+Ändern Sie die Hintergrundfarbe in Lila.
+
+Erstellen Sie eine neue Folie, geben Sie den Titel "The Importance of Exercise" ein und unterstreichen Sie den Titel.
+Bitte stellen Sie die Schriftgröße des Titels auf 24 und die Schriftfarbe auf Grün ein.
+Text einfügen: "Regelmäßige Bewegung kann die Herz-Kreislauf-Gesundheit verbessern, die Stimmung heben und das Energieniveau steigern."
+Stellen Sie die Schriftgröße des Inhalts auf 20 ein und fetten Sie den Inhalt ein.
+die Schriftfarbe des Inhalts in Rot ändern,
+Fügen Sie ein Bild ein, das sich auf Bewegung bezieht, beispielsweise eine Person, die joggt oder Yoga macht.
+Erstellen Sie ein Kreisdiagramm basierend auf den Daten: Herz-Kreislauf-Gesundheit, 10 %; Muskelkraft 30 %, geistiges Wohlbefinden 50 % und Krankheitsprävention 10 %.
+Fügen Sie eine Tabelle mit fünf Zeilen und zwei Spalten ein. Geben Sie Trainingsarten (z. B. Cardio, Krafttraining, Flexibilität) in die erste Spalte und Vorteile (z. B. verbesserte Ausdauer, erhöhter Muskeltonus, verbesserte Flexibilität) in die zweite Spalte ein.
+Verschieben Sie die Tabelle auf die rechte Seite des Bildes. ## 1, table, picture, right
+Fügen Sie eine Sternform in die Folie ein und geben Sie der Folie eine violette Hintergrundfarbe.
+Bewegen Sie den Stern auf die rechte untere Seite der Folie. ## 1, star, slide, right bottom
+Stellen Sie die Breite des Sterns auf 8 cm und die Höhe auf 4 cm ein.
+
+Erstellen Sie eine neue Folie und geben Sie ihr den Titel "Die Vorteile des Lesens". Bitte unterstreichen Sie den Titel und stellen Sie die Schriftgröße auf 24 ein
+Text einfügen: "Lesen kann die kognitive Funktion verbessern, das Einfühlungsvermögen steigern und Stress reduzieren."
+fett und kursiv den Inhalt,
+Ändern Sie den Schriftstil des Inhalts in Arial. Ändern Sie die Schriftfarbe in Grün.
+Bitte fügen Sie das Bild einer Person ein, die auf einer Parkbank ein Buch liest
+Erstellen Sie ein Balkendiagramm mit den Datenkategorien Belletristik, Sachliteratur, Biografien, Selbsthilfe und Fantasy in X, Veröffentlichungsmenge 1400.992.400.661, entsprechend 234 in Y.
+Benennen Sie das Balkendiagramm "Buchverkäufe"
+Fügen Sie eine Tabelle mit drei Spalten und drei Zeilen ein.
+Fügen Sie die folgenden Informationen in die Tabelle ein: Lesevorteile, Wissenserweiterung, Wortschatzerweiterung in die erste Spalte.
+Geben Sie der Folie eine rote Hintergrundfarbe.
+Fügen Sie der Folie einen Hinweis "Bücher lesen" hinzu.
+Erstellen Sie eine neue Folie mit demselben Hintergrund und fügen Sie ein Bild einer Uhr in die Folie ein.
+Passen Sie die Größe des Bildes auf 10 cm Breite und 15 cm Höhe an.
+Fügen Sie der Folie einen Hinweis "ÜBER DAS LESEN" hinzu.
+
+Erstellen Sie eine neue Folie und fügen Sie den Titel "Die Vorteile der Freiwilligenarbeit" ein und unterstreichen Sie ihn
+Bitte stellen Sie die Schriftfarbe des Titels auf Dunkelrot und die Größe auf 30 ein
+Geben Sie ein: "Freiwilligenarbeit kann das Glück steigern, die sozialen Fähigkeiten verbessern und einen Sinn für das Ziel vermitteln."
+die Schriftfarbe des Inhalts in Grün ändern,
+Machen Sie den Inhalt fett und ändern Sie die Schriftgröße des Inhalts auf 18.
+Verschieben Sie den Inhalt in die untere Ecke der Folie. ## 1, content, slide, bottom corner
+Bitte fügen Sie das Bild einer Gruppe von Freiwilligen ein, die gemeinsam an einem Gemeinschaftsprojekt arbeiten
+Verschieben Sie das Bild nach links unten auf der Folie. ## 1, picture, slide, left bottom
+Fügen Sie eine Tabelle mit drei Spalten und drei Zeilen ein. Fügen Sie Vorteile, persönliches Wachstum und soziale Verbindungen in die erste Spalte ein.
+Machen Sie den Inhalt fett und erhöhen Sie die Schriftgröße auf 20.
+Erstellen Sie ein Balkendiagramm, das die verschiedenen Bereiche der Freiwilligenarbeit veranschaulicht. Schließen Sie Datenkategorien wie Daten in X, gemeinnützige Arbeit, Bildung, Gesundheitswesen, Umweltschutz und Katastrophenhilfe ein. Berücksichtigen Sie den Anteil in Y, 25 %, 45 %, 10 %, 15 %, 5 %.
+Nennen Sie das Balkendiagramm "Volunteergin Importance".
+
+Stellen Sie die Hintergrundfarbe auf Lila ein.
+Fügen Sie den Titel "CAJ-Format" ein. Unterstreichen Sie den Titel und setzen Sie ihn kursiv.
+Stellen Sie die Schriftfarbe des Titels auf die Hintergrundfarbe ein.
+Fügen Sie den folgenden Text in den Inhaltsteil ein: "Das CAJ-Format ist ein in China weit verbreitetes Dateiformat für wissenschaftliche Arbeiten und Forschungsdokumente. Es bietet eine standardisierte Struktur und ein standardisiertes Layout für effizientes Teilen und Veröffentlichen."
+Setzen Sie den Inhalt mit doppeltem Leerzeichen.
+Ändern Sie den Schriftstil des Textes in "Arial" und fetten Sie den Text ein.
+Stellen Sie die Schriftfarbe des Inhalts auf Grün ein.
+Verschieben Sie den Inhalt an den oberen Rand der Folie. ## 0, content, slide, top
+Fügen Sie ein Bild eines Beispieldokuments im CAJ-Format ein.
+Verschieben Sie das Bild in die obere Ecke der Folie. ## 0, picture, slide, top corner
+Fügen Sie eine Tabelle mit drei Spalten und zwei Zeilen ein.
+Geben Sie "Abschnitt", "Überschrift" und "Inhalt" in die erste Zeile ein.
+Erstellen Sie eine neue Folie und ein Balkendiagramm, um die Verwendung verschiedener Dateiformate zu veranschaulichen. Fügen Sie Datenkategorien auf der , 20 %, 15 % und 10 %.
+Benennen Sie das Balkendiagramm "Dateiformatverwendung".
+Fügen Sie der Folie einen Hinweis "Dateiformat" hinzu und gleichen Sie den Hintergrund den anderen Folien an.
+
+Text einfügen: "Journaling kann Stress reduzieren, das Gedächtnis verbessern und das Selbstbewusstsein steigern."
+Unterstreichen Sie den Inhalt und ändern Sie die Schriftgröße des Inhalts in Lila.
+Nennen Sie die Folie "Journaling"
+Schreiben Sie den Titel kursiv und ändern Sie die Schriftart des Titels in Arial.
+Bitte fügen Sie das Bild einer Person ein, die in ein Tagebuch schreibt
+Verschieben Sie das Bild an die untere Seite der Folie, ## 0, picture, slide, bottom
+Fügen Sie auf der rechten Seite der Folie eine Sternform in die Folie ein. ## 0, star, slide, right
+Drehen Sie den Stern um 60 Grad.
+
+Erstellen Sie eine neue Folie und nennen Sie den Titel "Die Vorteile der Gartenarbeit". Bitte stellen Sie die Schriftgröße des Titels auf 28 ein und fetten Sie den Titel ein
+Text einfügen: "Gartenarbeit kann Stress reduzieren, die körperliche Gesundheit verbessern und die Kreativität steigern."
+Machen Sie den Text kursiv und ändern Sie die Schriftart des Textes in "Arial".
+Fügen Sie eine Wolkenform in die rechte Folie ein. ## 1, cloud, slide, right
+Verschieben Sie die Wolkenform auf die linke Seite des Titels. ## 1, cloud, title, left
+Bitte fügen Sie das Bild einer Person ein, die in einem Garten arbeitet. Stellen Sie die Breite des Bildes auf 10 cm ein.
+Erstellen Sie eine neue Folie und geben Sie ihr einen hellblauen Hintergrund.
+Fügen Sie ein Dreieck in die linke Folie ein. ## 2, cloud, slide, left
+Stellen Sie die Höhe des Dreiecks auf 15 cm ein und drehen Sie das Dreieck um 45 Grad.
+
+Bitte erstellen Sie eine neue Folie mit dem Titel "IT-Unternehmen".
+Emmm, es ist besser, die fette Times-Schriftart zu verwenden und die Titelgröße sollte 32 sein.
+Ja, ich möchte ein Bild des Apple-Firmenlogos, dessen Höhe und Breite jeweils auf 2 eingestellt sind.
+Erstellen Sie eine Tabelle zum Apple-Jahresumsatz mit 2 Zeilen und 3 Spalten. Die erste Zeile lautet "2020", "2021", "2022". Die zweite Zeile lautet "274B", "365B", "394B".

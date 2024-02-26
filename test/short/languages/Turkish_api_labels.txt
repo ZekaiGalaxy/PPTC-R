@@ -1,0 +1,1877 @@
+choose_title();align_bottom_left_corner();insert_text("İnsan Değerlendirmesi");
+choose_content();insert_text("Genellikle, çeviri birden çok hakem tarafından isimsiz olarak puanlanır ve daha sonra tüm hakemlerin değerlendirme sonuçları birleştirilerek nihai puan verilir");
+insert_table(2, 2);
+choose_table_cell(0, 0);insert_text("Avantajlar");choose_table_cell(1, 0);insert_text("Dezavantajları");choose_table_cell(0, 1);insert_text("Çeviri kalitesini en doğru şekilde yansıtan cümleler, en yetkili, en yüksek güvenilirlik");choose_table_cell(1, 1);insert_text("Uzun süreli değerlendirme");
+choose_content();set_font_size(20);set_font_style("Arial");
+insert_picture('coffee');align_slide_left();
+align_slide_right();
+create_slide();choose_title();insert_text("İşaretleme Standardı");choose_content();insert_text("Doğrudan Değerlendirme");insert_text("Göreceli Sıralama");
+choose_title();set_font_color("green");choose_content();insert_bullet_point("");insert_bullet_point("");
+choose_title();set_font_size(24);choose_content();set_font_size(20);
+
+insert_picture('tower');align_slide_bottom();
+choose_title();insert_text("İçindekiler");set_top("title","picture");
+insert_rectangle();set_fill_color("green");
+choose_title();set_font_color("green");
+set_font_size(24);
+set_font_style("Arial");set_font_size(48);
+set_font_style("Microsoft New Tai Lue");
+
+set_background_color("green");
+insert_cloud();align_slide_bottom();
+choose_content();insert_text("Çok yavaş koşuyorsun");
+insert_picture('rabbit');align_slide_right();
+choose_content();insert_text("Bir gün, bir tavşan ve bir kaplumbağa arasında yarış olur");
+create_slide();choose_content();insert_text("Bir gün kazanacağım.");align_slide_top();
+
+insert_picture('study');align_slide_center();
+insert_rectangle();align_slide_center();
+choose_title();insert_text("League of Legends");choose_content();insert_text("League of Legends, destansı oyunlar yapabileceğiniz 140'tan fazla şampiyonla takım tabanlı bir oyundur. Şimdi ücretsiz oynayın. Ücretsiz Oynayın.");
+choose_title();set_font_style("Times New Roman");set_font_size(24);
+choose_picture();set_width(6);set_height(5);
+rotate_element(15);
+create_slide();insert_picture('boy_holding_book');
+align_slide_center();
+choose_title();insert_text("Okulda nasıl daha iyi performans gösterilir");
+
+insert_cloud();align_slide_left();
+insert_picture("clock");align_slide_right();
+set_background_color("light blue");choose_title();insert_text("Yapay Zeka");
+choose_content();insert_text("Yapay zekanın toplum üzerindeki etkisi geniş çapta tartışılıyor. Birçoğu, yapay zekanın rutin ve hatta karmaşık görevleri insanlardan daha iyi yaparak günlük yaşam kalitesini iyileştirdiğini, hayatı daha basit, daha güvenli ve daha verimli hale getirdiğini iddia ediyor. . ");
+set_font_color("light green");
+
+create_slide();choose_title();insert_text("Mart Ayında Planla");set_font_color("red");
+set_font_size(28);set_font_color("dark blue");
+insert_table(1, 3);choose_table_cell(0, 0);insert_text("1'den 10'a çalışma");choose_table_cell(0, 1);insert_text("11'den 20'ye çalışma");choose_table_cell(0, 2);insert_text("21'den 31'e seyahat");
+choose_title();set_font_style("Arial");
+insert_picture('happy_boy');set_right("picture","table");
+set_background_color("blue");
+choose_picture();set_width(6.5);set_height(5);
+set_background_color("yellow");
+
+create_slide();choose_title();insert_text("Meditasyonun Faydaları");
+insert_picture('meditation');align_slide_center();
+choose_content();insert_text("Meditasyon, iç huzur ve sükunet durumuna ulaşmanıza yardımcı olabilecek basit ama güçlü bir tekniktir");
+set_font_size(24);set_font_color("dark blue");
+insert_rectangle();set_right("rectangle", "content");
+set_background_color("light green");
+create_slide();set_background_color("light green");choose_title();insert_text("Meditasyon Türleri");
+set_font_style("Arial");
+insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("Farkındalık Meditasyonu");choose_table_cell(1, 0);insert_text("Transandantal Meditasyon");choose_table_cell(2, 0);insert_text("Beden Tarama Meditasyonu");
+
+create_slide();set_background_color("green");
+insert_picture('grassland');align_slide_left();
+set_width(6.5);set_height(5.5);choose_title();insert_text("Ormanların İşlevleri");
+set_font_color("orange");set_font_size(40);
+insert_right_arrow();align_slide_top();
+
+create_slide();insert_table(2, 2);
+choose_table_cell(0,0);insert_text("Ağaç Türü");choose_table_cell(0,1);insert_text("Kullanımlar");choose_table_cell(1,0);insert_text("farklı ağaç türleri");choose_table_cell(1,1);insert_text("Farklı yaprak renkleri");
+choose_content();insert_text("Bugün bir ağaç dikmeyi unutmayın!");
+set_font_size(20);set_font_color("green");set_font_underline();
+
+create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");
+move_to_slide(0);choose_title();insert_text("Mutlu aile");set_font_style("Microsoft JhengHei");
+move_to_slide(1);insert_picture('family');
+move_to_slide(2);insert_table(2, 2);
+choose_table_cell(0, 0);insert_text("Baba");choose_table_cell(0, 1);insert_text("Anne");choose_table_cell(1, 0);insert_text("Büyükbaba");choose_table_cell(1, 1);insert_text("Çocuklar");
+
+create_slide();choose_title();insert_text("İş Planı");
+insert_picture('light_bulb');align_slide_left();
+set_width(3);choose_content();insert_text("Girişimcilik, başlangıçta genellikle küçük bir işletme olan yeni bir iş tasarlama, başlatma ve yürütme sürecidir. Bu işletmeleri yaratan kişilere girişimci denir.");
+set_font_size(20);set_font_color("green");
+set_background_color("dark blue");
+insert_circle();set_fill_color("red");
+choose_content();insert_text("Bir iş planı, genellikle yeni olan bir işletmenin hedeflerine nasıl ulaşacağını ayrıntılı olarak açıklayan yazılı bir belgedir.");
+choose_title();set_font_size(18);choose_content();set_font_size(18);
+insert_table(3, 4);
+choose_table_cell(0, 0);insert_text("Pazarlama Karması");choose_table_cell(0, 1);insert_text("Hedef Pazar");choose_table_cell(0, 2);insert_text("Fiyat");choose_table_cell(0, 3);insert_text("Promosyon");
+
+create_slide();set_background_color("light blue");
+choose_content();insert_text("Ürün markalaması, bir markanın hedef tüketicilerine ulaşmak amacıyla belirli bir ürün için ayırt edici bir markanın geliştirilmesidir.");
+set_font_italic();set_font_size(18);
+align_slide_bottom();
+insert_picture('lancome');align_slide_top();
+
+create_slide();choose_title();insert_text("Büyük ölçekli modellemenin esasları");set_font_size(24);
+set_font_style("Arial");
+insert_table(1, 2);
+choose_table_cell(0, 0);insert_text("Önem");set_font_size(18);set_font_color("light blue");
+insert_picture('computer');align_slide_center();
+choose_content();insert_text("Büyük ölçekli modelleme");
+set_font_size(14);set_font_color("green");choose_title();set_font_size(14);set_font_color("green");
+
+insert_picture('tower');align_slide_left();
+choose_title();insert_text("The Ultimate Heist");
+set_font_style("Times New Roman");set_font_color("green");
+insert_triangle();align_slide_right();
+set_background_color("light blue");
+
+insert_table(3, 3);choose_table();choose_table_cell(0, 0);insert_text("mor");choose_table_cell(0, 1);insert_text("mavi");choose_table_cell(0, 2);insert_text("açık mavi");choose_table_cell(1, 0);insert_text("koyu mavi");choose_table_cell(1, 1);insert_text("yeşil");choose_table_cell(1, 2);insert_text("açık yeşil");choose_table_cell(2, 0);insert_text("koyu yeşil");choose_table_cell(2, 1);insert_text("sarı");choose_table_cell(2, 2);insert_text("açık sarı")
+set_background_color("green");
+set_background_color("dark blue");
+choose_title();insert_text("Renk Türleri");insert_picture("clock");
+create_slide();set_background_color("yellow");
+choose_content();insert_text("Kuş gözü veya çingene otu olarak da adlandırılan Speedwell, Avrupa'ya özgü dayanıklı, çok yıllık bir bitkidir.");
+
+create_slide();insert_picture('arguing');
+choose_title();insert_text("Evlilik Hem Erkeğe hem de Kadına Ne Getirir?");
+create_slide();insert_picture('japanese_woman');insert_picture('african_woman');
+choose_title();insert_text("Farklı Evlilik Rejimlerini Belirleyen Faktörler");
+create_slide();set_background_color("red");create_slide();set_background_color("red");create_slide();set_background_color("red");
+move_to_slide(2);choose_title();insert_text("Erkekler ve Kadınlar için Evliliğin Ortak Yararları");
+set_font_underline();set_font_color("yellow");
+insert_picture('happy_family');align_slide_center();
+insert_rectangle();set_fill_color("red");insert_rectangle();set_fill_color("red");insert_rectangle();set_fill_color("red");
+create_slide();choose_title();insert_text("Çin'de Evlilik Kurumunun Evrimi");
+insert_picture('clock');set_width(6.5);
+align_slide_left();
+create_slide();choose_title();insert_text("Dünyadaki Kadınların Karşılaştığı Zorluklar");insert_picture('full_time_mother');
+set_height(5);
+
+choose_title();insert_text("Sinir Ağı");
+choose_content();insert_text("Sinir ağları, insan beyninin işlevini taklit eden bir dizi algoritmadır. Modelleri tanımak, verileri sınıflandırmak ve tahminler yapmak için tasarlanmıştır.");
+set_font_size(12);set_font_color("orange");set_background_color("red");
+
+choose_title();insert_text("Tırnak İşareti");
+choose_title();set_font_underline();set_font_size(24);
+choose_content();insert_text("Tırnak işareti simgesi, sözcükleri ve pasajları metnin geri kalanından ayırmak için kullanılan bir noktalama işareti türüdür.");
+set_font_color("green");set_font_size(12);
+insert_picture('quotation_mark');align_slide_left();
+create_slide();set_background_color("blue");
+insert_rectangle();align_slide_right();
+insert_table(2, 1);
+choose_table_cell(0, 0);insert_text("Nasılsın?");choose_table_cell(1, 0);insert_text("Tırnak işaretlerinin en yaygın kullanımlarından biri, doğrudan bir alıntıyı, başka bir kaynaktan aynen kopyalanan bir pasajı belirtmektir.");
+
+create_slide();set_background_color("dark green");
+choose_title();insert_text("Antropolojinin Alanları ve Dalları");set_font_size(18);
+choose_content();insert_text("Antropolojinin iki geniş alanı vardır.");set_font_size(18);
+text_align_right();
+
+insert_right_arrow();align_slide_left();
+set_width(4.0);set_height(3.0);
+choose_content();insert_text("Orta Asya'nın geniş alanları ürkütücü bir şekilde ıssız hissediyor.");
+choose_shape("right_arrow");set_width(5.0);set_height(4.0);rotate_element(90);
+choose_content();set_line_space(2);
+
+choose_title();insert_text("Eğitim/Öğretim/PPT Temsili");
+choose_content();insert_text("Küresel ısınmanın zararlı etkisi");
+choose_title();set_font_color("dark blue");choose_content();set_font_color("purple");
+insert_rectangle();set_fill_color("purple");
+align_top_left_corner();
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("ver");choose_table_cell(0, 1);insert_text("ver");choose_table_cell(0, 2);insert_text("ver");choose_table_cell(0, 3);insert_text("verilen");
+choose_content();set_font_color("dark blue");
+
+set_background_color("orange");
+insert_picture("cat");set_width(5);set_height(5);
+create_slide();set_background_color("orange");create_slide();set_background_color("orange");create_slide();set_background_color("orange");
+choose_title();insert_text("DingTalk Bilgileri");
+insert_table(3, 5);
+choose_table_cell(0, 0);insert_text("İndirme yöntemleri");choose_table_cell(0, 1);insert_text("Kuruluşa nasıl katılınır");choose_table_cell(0, 2);insert_text("Arkadaşlar nasıl bulunur");choose_table_cell(0, 3);insert_text("Avantajlar");choose_table_cell(0, 4);insert_text("Not");
+insert_star();align_slide_right();
+choose_content();insert_text("önlemek, bir şeyi önceden yaparak önlemek veya engellemek anlamına gelir");
+set_background_color("blue");
+choose_content();text_align_left();
+
+insert_right_arrow();set_fill_color("yellow");
+choose_title();insert_text("Okulda hafta içi");text_align_left();
+choose_title();set_font_color("dark blue");set_font_italic();set_font_underline();
+choose_content();insert_text("önlemek, yeniden satıldığında fiyatı artırmak için (malları) önceden satın almak demektir");
+insert_picture("school_badge");set_width(2.5);set_height(2.5);
+create_slide();set_background_color("green");
+choose_title();insert_text("Not");text_align_right();
+set_font_color("light green");set_font_size(26);
+choose_content();insert_bullet_point("");insert_bullet_point("");insert_bullet_point("");
+insert_note("2023/4/9");move_to_previous_slide();insert_note("2023/4/8");
+
+insert_star();align_slide_right();
+set_fill_color("blue");
+insert_right_arrow();align_slide_left();set_fill_color("red");
+choose_title();insert_text("Karar Verme");
+choose_content();insert_text("Mevcut küresel salgın, günlük hayatımızı alt üst etti ve dünyayı asla hayal bile edemeyeceğimiz bir şekilde yeniden şekillendirdi.");
+choose_content();set_font_underline();choose_title();set_font_size(24);
+choose_content();set_font_style("Times New Roman");choose_title();set_font_style("Times New Roman");
+
+create_slide();create_slide();create_slide();create_slide();create_slide();
+move_to_slide(0);choose_title();insert_text("Giriş");move_to_slide(1);choose_title();insert_text("Geliştirme");move_to_slide(2);choose_title();insert_text("Değerlendirme");move_to_slide(3);choose_title();insert_text("Analiz");move_to_slide(4);choose_title();insert_text("Sonuç");
+move_to_slide(0);set_background_color("yellow");move_to_slide(1);set_background_color("yellow");move_to_slide(2);set_background_color("yellow");move_to_slide(3);set_background_color("yellow");move_to_slide(4);set_background_color("yellow");
+move_to_slide(0);choose_title();set_font_style("Microsoft JhengHei");
+move_to_slide(1);insert_picture("clock");
+move_to_slide(2);insert_bar_chart([160, 170, 130], ["Ekim", "Kasım", "Aralık"]);
+move_to_slide(3);insert_table(2, 3);
+choose_table_cell(0, 0);insert_text("IPA'ya");choose_table_cell(0, 1);insert_text("Avantajlar");choose_table_cell(0, 2);insert_text("Dezavantajlar");
+move_to_slide(4);choose_title();set_font_style("Times New Roman");
+move_to_slide(4);insert_cloud();
+move_to_slide(0);insert_note("Eva tarafından düzenlendi");move_to_slide(1);insert_note("Eva tarafından düzenlendi");move_to_slide(2);insert_note("Eva tarafından düzenlendi");move_to_slide(3);insert_note("Eva tarafından düzenlendi");move_to_slide(4);insert_note("Eva tarafından düzenlendi");
+
+insert_circle();set_fill_color("purple");
+insert_picture("water_bottle");insert_textbox();insert_text("şişe");
+choose_title();insert_text("KALİTE");
+set_font_color("red");
+insert_table(2, 2);
+choose_table_cell(0, 0);insert_text("Makine Değerlendirmesi");choose_table_cell(0, 1);insert_text("İnsan Değerlendirmesi");choose_table_cell(1, 0);insert_text("Otomatik Değerlendirme 1");choose_table_cell(1, 1);insert_text("Otomatik Değerlendirme 2");
+create_slide();choose_title();insert_text("Başarı");set_background_color("purple");
+
+create_slide();choose_title();insert_text("2. Çeyrek için Pazarlama Stratejileri");
+set_background_color("blue");
+create_slide();choose_title();insert_text("Satışları ve Marka Bilinirliğini Artırma");
+set_font_size(60);
+move_to_slide(1);set_background_color("green");
+create_slide();set_background_color("green");create_slide();set_background_color("green");create_slide();set_background_color("green");
+move_to_slide(2);choose_title();insert_text("Pazar Eğilimleri ve Rakip Analizi");
+choose_content();insert_picture("blue_sea");
+set_height(4);set_width(5);set_left("picture", "title");
+move_to_slide(3);choose_title();insert_text("Misyonumuz ve Değerlerimiz");
+choose_content();insert_text("VİZYON. Tüm insanlar tam sağlık içinde uzun yaşar. MİSYON.IHME, sağlık politikasını ve uygulamasını geliştirmek için dünyaya zamanında, ilgili ve bilimsel olarak geçerli kanıtlar sunar.");
+set_line_space(1.5);
+choose_content();set_font_size(40);set_font_style("Times New Roman");
+
+create_slide();set_background_color("yellow");
+choose_title();insert_text("Çin ve Amerika'daki Eğitimin Karşılaştırılması");
+delete_text();insert_text("Farkları ve Benzerlikleri Keşfedin");
+delete_text();insert_text("Farklar ve Benzerlikler");
+create_slide();create_slide();create_slide();create_slide();create_slide();
+move_to_slide(1);set_background_color("yellow");move_to_slide(2);set_background_color("yellow");move_to_slide(3);set_background_color("yellow");move_to_slide(4);set_background_color("yellow");move_to_slide(5);set_background_color("yellow");
+move_to_slide(1);choose_title();insert_text("Eğitim Sistemleri");
+choose_content();insert_text("Çin'de eğitim, öncelikle Eğitim Bakanlığı'na bağlı devlet tarafından yürütülen kamu eğitim sistemi tarafından yönetilir. Tüm vatandaşlar, finanse edilen ve dokuz yıllık zorunlu eğitim olarak bilinen en az dokuz yıl okula gitmelidir. Hükümet tarafından.");
+move_to_next_slide();choose_title();insert_text("Farklı Öğretim Stilleri ve Yöntemleri");
+move_to_next_slide();choose_title();insert_text("Öğretmen-Öğrenci İlişkisi");move_to_next_slide();choose_title();insert_text("Öğrenci Performansı Değerlendirmesi");
+move_to_slide(4);insert_picture("forest");
+choose_content();insert_text("2014'te The Guardian'dan Jonathan Kaiman, Çinli ebeveynlerin ve eğitimcilerin "kendi sistemlerini yozlaşmış, insanlıktan çıkarıcı, baskı altında ve adaletsiz gördüklerini" yazdı. ülkenin üniversite giriş sınavını (gaokao olarak adlandırılır) tartışmaya devam etti ve "birçok ebeveyn dokuz saatlik zorlu testi çocuklarının yaşamlarının gidişatını belirleyecek bir sıralama mekanizması olarak görüyor" diye yazdı.");set_font_color("red");set_font_underline();
+move_to_slide(5);insert_table(1, 1);choose_table_cell(0,0);insert_text("Sorumluluk");
+
+create_slide();choose_content();insert_picture("DingTalk_app");
+choose_title();insert_text("ChatGPT'ye Giriş");set_font_color("green");
+create_slide();choose_title();insert_text("Yapay Zeka Dil Modellerinin Gücünü Ortaya Çıkarma.");text_align_left();create_slide();choose_title();insert_text("Yapay Zeka Dil Modellerinin Gücünü Ortaya Çıkarma.");text_align_left();create_slide();choose_title();insert_text("Yapay Zeka Dil Modellerinin Gücünü Ortaya Çıkarma.");text_align_left();create_slide();choose_title();insert_text("Yapay Zeka Dil Modellerinin Gücünü Ortaya Çıkarma.");text_align_left();create_slide();choose_title();insert_text("Yapay Zeka Dil Modellerinin Gücünü Ortaya Çıkarma.");text_align_left();
+move_to_slide(1);choose_content();set_font_style("Arial");
+insert_text("ChatGPT, OpenAI tarafından geliştirilen ve Kasım 2022'de piyasaya sürülen bir yapay zeka (AI) sohbet robotudur. OpenAI'nin GPT-3.5 ve GPT-4 büyük dil modelleri (LLM'ler) aileleri üzerine inşa edilmiştir ve ince ayar yapılmıştır (bir yaklaşım) hem denetimli hem de takviyeli öğrenme tekniklerini kullanarak öğrenmeyi aktarmak için).");
+set_font_size(30);set_line_space(2);
+insert_table(1, 1);choose_table_cell(0,0);insert_text("DingTalk nasıl indirilir");
+move_to_next_slide();
+choose_title();insert_text("Özellikler ve Sınırlamalar");text_align_center();
+choose_content();insert_text("Bir sohbet robotunun temel işlevi, konuşkan bir insanı taklit etmek olsa da, ChatGPT çok yönlüdür. Bilgisayar programları yazabilir ve hata ayıklayabilir, ünlü CEO'ların tarzını taklit edebilir ve iş sunumları yazabilir, müzik, televizyon oyunları, peri masalları ve öğrenci denemeleri yazabilir, yanıtlayabilir. test soruları (bazen, teste bağlı olarak, ortalama sınav katılımcısının üzerinde bir seviyede), şiir ve şarkı sözleri yazın, bir Linux sistemini taklit edin, tüm sohbet odalarını simüle edin, tic-tac-toe gibi oyunlar oynayın ve bir ATM simülasyonu yapın .");
+
+create_slide();set_background_color("green");
+choose_content();insert_text("Hayat, mutluluğunuzu emen insanlarla vakit geçirmek için çok kısa.");set_line_space(1.5);
+set_font_style("Verdana");set_font_size(20);
+set_font_underline();set_font_color("yellow");
+
+create_slide();set_background_color("blue");choose_title();insert_text("Makine Öğrenimi");
+choose_content();insert_text("Makine öğrenimi, sistemlere açıkça programlanmadan otomatik olarak öğrenme ve deneyimlerden gelişme yeteneği sağlayan bir yapay zeka (AI) uygulamasıdır. Makine öğrenimi, erişebilen bilgisayar programlarının geliştirilmesine odaklanır. veri ve bunu kendileri için öğrenmek için kullanın.");
+set_font_size(20);set_font_style("Verdana");
+set_font_style("Times New Roman");text_align_right();
+choose_title();set_font_color("red");set_font_size(40);
+set_font_color("blue");
+insert_picture("machine_learning");align_slide_left();
+set_height(1.2);set_width(1.2);
+choose_content();insert_star();set_fill_color("green");
+
+create_slide();choose_title();insert_text("Pazarlama Stratejileri");
+choose_content();insert_bullet_point("Search Engine Optimization (SEO)");insert_bullet_point("Social Media Marketing (SMM)");insert_bullet_point("Email Marketing");insert_bullet_point("Content Marketing");insert_bullet_point("Pay-Per-Click Advertising (PPC)");
+insert_picture("marketing");set_height(1);set_width(1);
+insert_pie_chart([35, 25, 15, 10, 15], ["Apple", "Samsung", "Huawei", "Xiaomi", "Diğer"]);insert_table(2, 2);
+choose_chart();set_chart_title("Pazarlama");choose_table_cell(0, 0);insert_text("MT1");choose_table_cell(0, 1);insert_text("MT2");choose_table_cell(1, 0);insert_text("ST1");choose_table_cell(1, 1);insert_text("ST2")
+choose_content();align_slide_bottom();
+create_slide();insert_pie_chart([35, 25, 15, 10, 15],["Apple", "Samsung", "Huawei", "Xiaomi", "Other"]);set_chart_title("Marketing");
+create_slide();insert_table(2, 2);choose_table();insert_table_row(["MT1", "MT2"]);insert_table_row(["ST1", "ST2"])
+
+create_slide();choose_title();insert_text("Veri Görselleştirme");
+insert_bar_chart([8.4, 4.0, 2.7, 2.3, 1.7], ["New York", "Los Angeles", "Chicago", "Houston", "Phoenix"]);align_slide_left();
+insert_textbox();insert_text("Veri görselleştirme, verilerin resimsel veya grafik biçiminde sunumudur. Karar vericilerin, zor kavramları kavrayabilmeleri veya yeni kalıpları belirleyebilmeleri için görsel olarak sunulan analitiği görmelerini sağlar.");
+set_font_color("green");
+create_slide();choose_content();insert_text("Bu yulaf lapası, yapışkan pirinç, esmer şeker ve on sekiz çeşit kuru meyvenin birlikte pişirilmesiyle yapılır.");
+
+create_slide();choose_title();insert_text("Laba Lapası");
+choose_content();insert_text("Hatırladığım kadarıyla her yıl ayın on ikinci ayının sekizinci gününde annem bize Laba lapası pişirirdi.");
+set_font_color("yellow");set_font_bold();
+insert_table(2, 1);align_slide_right();
+choose_table_cell(0, 0);insert_text("Geçmiş");choose_table_cell(1, 0);insert_text("Modern");
+set_background_color("light red");
+
+set_background_color("yellow");
+set_background_color("green");
+choose_title();insert_text("Büyük şirket");
+set_font_size(28);set_font_style("Futura");
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("Numara");choose_table_cell(0, 1);insert_text("Çalışan adları")
+insert_picture("company1");insert_picture("company2");insert_picture("company3");
+choose_table();choose_table_cell(0,0);set_font_color("yellow");choose_table_cell(0,1);set_font_color("yellow");
+
+create_slide();choose_title();insert_text("Yapay Sinir Ağları");
+choose_content();insert_text("Yapay sinir ağları (YSA), hayvan beyinlerini oluşturan biyolojik sinir ağlarından ilham alınarak oluşturulan bilgi işlem sistemleridir. Bu tür sistemler, genellikle göreve özgü herhangi bir kuralla programlanmadan, örnekleri dikkate alarak görevleri yapmayı öğrenirler. YSA'lar, yeni girdileri öğrenme ve bunlara uyum sağlama yeteneğine sahiptir, bu da onları görüntü tanıma, konuşma tanıma ve doğal dil işleme dahil olmak üzere çok çeşitli uygulamalar için kullanışlı kılar.");
+set_font_size(24);
+set_font_style("Calibri");set_background_color("light orange");
+text_align_center();choose_title();text_align_left();
+set_background_color("blue");
+insert_picture("artificial_neural_networks");
+set_width(5.5);
+align_slide_right();
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("1");choose_table_cell(0, 1);insert_text("2");choose_table_cell(0, 2);insert_text("3")
+insert_table_row(["video oyunları", "Switch", "TV dizisi"])
+
+create_slide();set_background_color("red");create_slide();set_background_color("red");
+move_to_slide(0);choose_title();insert_text("Zorluklar");set_font_style("Calibri");
+choose_content();insert_text("Yapay zekayı işyerinde uygulamanın zorlukları arasında uzmanlık eksikliği, maliyet ve değişime karşı direnç yer alır.");
+set_font_color("green");
+move_to_slide(1);insert_picture("AI");align_slide_center();
+
+create_slide();choose_title();insert_text("Giriş");
+choose_content();insert_text("Video oyunlarının tarihi hakkındaki sunumuma hoş geldiniz. Video oyunları, ilk elektronik oyunun icat edildiği 1950'lerden bu yana çok yol kat etti. Bugün video oyunları, milyarlarca dolarlık bir endüstridir. dünyanın her yerinden insanlar tarafından beğeniliyor.");
+insert_picture("first_electronic_game");
+align_bottom_right_corner();
+choose_title();set_font_color("blue");
+insert_textbox();choose_textbox();insert_text("John Smith tarafından sunuldu");
+
+create_slide();choose_title();insert_text("Sinir Ağları");
+choose_content();insert_text("Sinir ağları, insan beyninin işleyişini taklit eden bir dizi algoritmadır. Görüntü tanıma, konuşma tanıma ve doğal dil işleme gibi çeşitli uygulamalar için kullanılırlar.");
+set_font_style("Arial");
+insert_triangle();align_top_left_corner();
+insert_picture("neutral_network");
+set_height(1.2);set_width(1.2);
+create_slide();insert_right_arrow();set_fill_color("blue");align_slide_right();
+insert_line_chart([120,140,110,90], ["Ocak", "Şubat", "Mart", "Nisan"]);set_chart_title("Chatgpt");
+choose_content();insert_textbox();insert_text("Tensor Akışı");
+choose_title();set_font_color("blue");set_background_color("light blue");
+
+choose_content();insert_text("Sözlük, kelimelerin anlamlarını, telaffuzlarını, yazımlarını bulmak ve yeni kelimeler aramak için kullanılabilir.");
+insert_circle();set_top("circle","content");
+insert_text("isim tamlaması");
+choose_content();set_font_color("red");set_font_style("Impact");
+
+create_slide();choose_title();insert_text("Giriş");create_slide();choose_title();insert_text("Metodoloji");create_slide();choose_title();insert_text("Sonuçlar");
+move_to_slide(0);choose_content();insert_text("Bu sunum, araştırma projemizi tanıtacak ve önemini açıklayacaktır.");move_to_slide(1);choose_content();insert_text("Araştırma metodolojimiz, çeşitli kaynaklardan veri toplamayı ve sonuçlara varmak için istatistiksel analiz kullanmayı içeriyordu.");
+choose_content();text_align_left();
+move_to_slide(0);set_background_color("light blue");move_to_slide(1);set_background_color("light blue");move_to_slide(2);set_background_color("light blue");
+insert_picture("graph");set_height(6.5);
+move_to_slide(0);insert_note("2022/1/1");move_to_slide(1);insert_note("2022/1/1");move_to_slide(2);insert_note("2022/1/1");
+
+create_slide();choose_title();insert_text("Ürüne Genel Bakış");create_slide();choose_title();insert_text("Özellikler");
+move_to_slide(0);insert_picture("product");
+choose_content();insert_text("Ürünümüz, hedef pazarımızın ihtiyaçlarını, sorunlarına basit ve etkili bir çözüm sunarak karşılamak üzere tasarlanmıştır.");
+move_to_slide(1);insert_table(5, 2);
+choose_table_cell(4, 1);insert_text("DingTalk");
+choose_table_cell(4, 1);set_font_style("Times New Roman");
+move_to_slide(0);insert_note("Şu anki saat 12:00 PM");move_to_slide(1);insert_note("Şu anki saat 12:00 PM");move_to_slide(2);
+
+create_slide();choose_title();insert_text("Satış Raporu");text_align_center();
+insert_pie_chart([120, 220, 180], ["Ürün A", "Ürün B", "Ürün C"]);
+choose_title();set_font_size(28);
+insert_picture("company_logo");align_top_right_corner();
+choose_content();insert_text("Bu rapor, ürünlerimizin 2023 yılının ilk çeyreğindeki satış performansını göstermektedir.");
+set_font_style("Times New Roman");
+text_align_center();
+
+create_slide();choose_title();insert_text("Pazarlama Stratejileri");
+choose_title();set_font_style("Calibri");set_font_size(36);
+choose_content();insert_picture("marketing_campaign");
+rotate_element(45);align_slide_right();
+create_slide();choose_title();insert_text("Güçlü MT");
+set_font_style("Arial");set_font_size(24);
+insert_textbox();insert_bullet_point("SEO");insert_bullet_point("Email Marketing");insert_bullet_point("PPC");set_bottom("textbox","title");
+set_background_color("blue");
+insert_bar_chart([27, 30, 29], ["itemA", "itemB", "itemC"]);align_slide_left();
+set_chart_title("Marketing Budget");
+insert_table(4, 2);
+choose_table_cell(0, 0);insert_text("Tarih");choose_table_cell(0, 1);insert_text("Pazartesi");choose_table_cell(1, 0);insert_text("Salı");choose_table_cell(1, 1);insert_text("Çarşamba");choose_table_cell(2, 0);insert_text("Perşembe");choose_table_cell(2, 1);insert_text("Cuma");choose_table_cell(3, 0);insert_text("Cumartesi");choose_table_cell(3, 1);insert_text("Pazar");
+choose_table();set_right("table","chart");
+
+create_slide();set_background_color("yellow");
+choose_title();insert_text("Değerlendirme Metrikleri");
+choose_content();insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("Metrik");choose_table_cell(0, 1);insert_text("Formül");choose_table_cell(1, 0);insert_text("Doğruluk");choose_table_cell(1, 1);insert_text("(TP+TN)/(TP+TN+FP+FN)");choose_table_cell(2, 0);insert_text("Hassaslık");choose_table_cell(2, 1);insert_text("TP/(TP+FP)");
+insert_line_chart([160, 170, 130], ["Ekim", "Kasım", "Aralık"]);set_chart_title("Time Machine");
+insert_bar_chart([160, 170, 130], ["October", "November", "December"]);
+
+create_slide();choose_title();insert_text("Veri Görselleştirme");
+insert_bar_chart([60,70,80,90], ["Göz", "El", "Bacak", "Diz"]);
+choose_chart();set_height(4);set_width(4);
+set_chart_title("Sales by Region");
+insert_right_arrow();set_fill_color("green");
+
+create_slide();choose_title();insert_text("Pazarlama Kampanyası");
+choose_content();insert_picture("product");set_right("picture","content");
+set_width(5);
+choose_content();insert_text("Frizce, Almanca ve Felemenkçe (Belçika'da Flamanca olarak adlandırılır) dilleriyle yakından ilişkili olan Avrupa dil ailesi.");
+insert_circle();set_fill_color("red");align_bottom_right_corner();
+set_background_color("green");
+set_background_color("light blue");
+create_slide();choose_title();insert_text("Satış Verileri");
+insert_table(1, 4);
+insert_table_row(["salesperson name", "total sales", "commission rate", "commission amount"]);
+create_slide();set_background_color("light blue");
+
+create_slide();choose_title();insert_text("Satış Raporu");set_font_size(25);
+choose_content();insert_text("İşte şirketimiz için üç aylık satış raporu:");
+set_font_size(16);set_font_color("purple");
+insert_rectangle();set_width(8);set_height(5);
+set_background_color("green");
+
+create_slide();choose_title();insert_text("Yapay Sinir Ağları");
+choose_content();insert_text("Yapay sinir ağları (YSA), hayvan beyinlerini oluşturan biyolojik sinir ağlarından ilham alan ancak aynısı olmayan bilgi işlem sistemleridir. Bu tür sistemler, genellikle programlanmadan, örneklere bakarak görevleri yapmayı öğrenir. göreve özgü kurallarla.");
+set_font_size(24);set_font_style("Arial");
+choose_title();set_font_color("purple");
+insert_picture("brain");set_width(6.5);
+rotate_element(90);
+insert_textbox();insert_text("YSA Uygulamaları");
+choose_title();set_font_size(36);set_font_style("Calibri");
+insert_table(2, 1);
+choose_table_cell(0, 0);insert_text("Görüntü tanıma");choose_table_cell(1, 0);insert_text("Doğal dil işleme");
+
+choose_title();insert_text("Makine Çevirisi Kalite Değerlendirmesi");
+insert_textbox();insert_text("Muhabir: Eva.");set_bottom("textbox","title");
+choose_title();set_font_size(66);
+set_background_color("blue");choose_title();set_font_color("red");choose_textbox();set_font_color("red");
+set_background_color("red");choose_title();set_font_color("blue");choose_textbox();set_font_color("blue");
+
+create_slide();choose_title();insert_text("Neural Networks");
+choose_content();insert_text("Sinir ağları, insan beyninin işlevini taklit eden bir dizi algoritmadır. Kalıpları tanımak, verileri sınıflandırmak ve tahminler yapmak için tasarlanmıştır.");
+set_font_size(24);
+set_font_style("Arial");text_align_center();
+choose_title();set_font_color("blue");
+set_font_color("green");
+insert_picture("brain");set_width(1.5);set_height(1.5);
+choose_content();insert_text("İnsan beyni, sinir ağlarının geliştirilmesine ilham verdi");
+insert_note("evrişimli sinir ağı");
+create_slide();set_background_color("yellow");
+
+create_slide();choose_title();insert_text("Kişisel finans");insert_note("Kişisel finans");
+choose_title();set_font_size(24);set_font_underline();
+choose_content();insert_text("Kişisel finans, bireysel ve aile mali durumunu yönetme, mevcut ve gelecekteki mali durumunuz için sorumluluk alma ve mali hedefler belirleme evreninin tamamını kapsar. Aynı zamanda, bireysel mali görevleri yerine getirmeyi ve acil durumlar için tasarruf etmeyi de içerir. ");
+set_font_color("orange");
+insert_picture("corporate_finance_book");
+set_width(6.5);
+set_background_color("blue");
+set_background_color("light blue");
+create_slide();set_background_color("light blue");create_slide();set_background_color("light blue");
+move_to_slide(1);insert_table(1, 2);
+
+choose_content();insert_text("Microsoft Update Kataloğu sitesine hoş geldiniz");
+set_font_color("orange");set_background_color("dark blue");
+insert_picture("computer");align_slide_bottom();
+align_slide_left();
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("Temel kavramlar");choose_table_cell(0, 1);insert_text("Köken");choose_table_cell(0, 2);insert_text("Kategoriler");choose_table_cell(0, 3);insert_text("Geliştirme")
+create_slide();insert_star();set_fill_color("red");
+insert_pie_chart([10, 12, 14], ["Q1", "2. Çeyrek", "3. Çeyrek"]);choose_shape("star");align_bottom_left_corner();
+choose_chart();set_height(10);set_width(10);
+
+create_slide();set_background_color("blue");
+choose_title();insert_text("Giriş");
+choose_content();insert_text("İnsanlar Artı Para eşittir kişisel finans.");
+set_font_italic();set_font_underline();
+set_font_color("green");
+insert_picture("person_grasping_money");align_bottom_right_corner();
+set_width(8);set_height(7);
+create_slide();choose_content();insert_text("Para her şey değildir, ama hiçbir para imkansız değildir");
+set_font_style("Futura");set_font_color("blue");
+set_font_color("purple");
+insert_pie_chart([1, 2, 3, 4, 5])], ["1", "2", "3", "4", "5"]);set_right("chart", "content");
+choose_title();insert_text("Paranın etkileri");
+
+create_slide();choose_title();insert_text("Kişisel ve kurumsal finans arasındaki fark");
+insert_table(2, 3);
+insert_picture("company_logo");set_left("picture", "table");
+choose_table();choose_table_cell(0,0);insert_text("Borderlands 2");choose_table_cell(0,1);insert_text("Divinity: Original Sin 2");choose_table_cell(0,2);insert_text("Final Fantasy VII");choose_table_cell(1,0);insert_text("Assassin's Creed IV: Black Flag");choose_table_cell(1,1);insert_text("Mega Man 3");choose_table_cell(1,2);insert_text("Mega Man 3");
+insert_cloud();align_slide_right();
+insert_note("2023/4/23");
+
+set_background_color("orange");
+create_slide();choose_title();insert_text("Bridget Fonda");set_background_color("orange");
+set_font_italic();set_font_size(18);
+insert_picture("bridget_fonda");align_top_right_corner();
+choose_picture();set_width(8);set_height(7);
+create_slide();
+choose_content();insert_text("Los Angeles'ta doğan Bridget Fonda, aralarında Henry Fonda, Peter Fonda ve Jane Fonda'nın da bulunduğu saygın bir oyunculuk ailesinden geliyor. Harvey'in bir okul yapımında yer aldıktan sonra tiyatroyla ilgilenmeye başladı ve daha sonra Partners'ta sessiz bir rol aldı. 1988'de ilk konuşma rolü olan Scandal'da yer aldı ve ardından birkaç küçük rol üstlendi.");
+set_font_size(12);set_font_italic();
+choose_title();insert_text("Film Listesi");
+insert_table(3, 3);choose_table_cell(0,0);insert_text("1");choose_table_cell(0,1);insert_text("2");choose_table_cell(0,2);insert_text("3");choose_table_cell(1,0);insert_text("4");choose_table_cell(1,1);insert_text("5");choose_table_cell(1,2);insert_text("6");choose_table_cell(2,0);insert_text("7");choose_table_cell(2,1);insert_text("8");choose_table_cell(2,2);insert_text("9");
+choose_table();align_slide_right();
+
+create_slide();
+choose_title();insert_text("Hayalet Ayı");set_font_underline();
+choose_content();insert_text("Muhtemelen Hiç Duymadığınız En Nadir Ayı");
+insert_picture("ghost_bear");
+choose_title();set_font_style("Arial");set_font_size(20);choose_content();set_font_style("Arial");set_font_size(20);
+choose_picture();set_right("picture","content");
+create_slide();insert_picture("treemap_about_bears");
+align_slide_center();
+set_width(4);
+choose_content();insert_text("Dungeons and Dragons için aç kaldığımda, Divinity: Original Sin 2 benim için bu boşluğu doldurdu.");
+choose_title();insert_text("Favori Oyunum");
+insert_table(2, 2);
+choose_table();choose_table_cell(0,0);insert_text("SMS");choose_table_cell(0,1);insert_text("WeChat");choose_table_cell(1,0);insert_text("QQ");choose_table_cell(1,1);insert_text("DingTalk");
+
+create_slide();set_background_color("blue");
+insert_picture("universe");align_bottom_left_corner();
+set_width(6.5);set_height(13);
+choose_content();insert_text("Biraz seçici olduğum söylenebilir. Şeker, çikolata vb. çok tatlı yiyecekleri sevmem.");
+choose_title();insert_text("En sevdiğim yemek");
+set_font_color("yellow");choose_content();set_font_color("yellow");
+choose_title();set_font_underline();set_font_size(24);choose_content();set_font_size(22);
+insert_cloud();align_slide_right();
+
+choose_title();insert_text("Idol");set_font_underline();
+insert_rectangle();set_fill_color("red");set_bottom("rectangle","title");
+choose_content();insert_text("Seni istiyorum! (Seni istiyorum!) Sana ihtiyacım var! (Sana ihtiyacım var!) Seni seviyorum! (Seni seviyorum!)");text_align_left();
+set_font_size(24);
+set_font_size(48);
+insert_picture("AKB48");
+set_height(6.5);set_width(13);
+insert_table(2,1);choose_table_cell(0,0);insert_text("Bir idolün zamanı kısadır. Her zaman yeni ve taze bir yüz vardır ve nadiren bebek benzeri statükodan saparlar.");
+choose_table();choose_table_cell(0,0);set_font_color("blue");set_font_style("Futura");
+choose_table_cell(1,0);insert_text("İdollerin Sylvie Vartan'dan stadyumları satan idollere destansı yolculuğu şu soruyu akla getiriyor: İdoller ve ateşledikleri kültür için sırada ne var?");
+insert_note("2023/05/17");
+
+choose_content();insert_text("İÇİNDEKİLER");text_align_center();
+choose_content();insert_text("1. Arkaplan");insert_text("2. Değerlendirme Görevleri");insert_text("3. Modeli");insert_text("4. Uygulamalar");
+set_font_size(80);set_font_color("green");
+set_font_underline();set_font_style("Pecita");
+
+set_background_color("orange");choose_title();insert_text("En İyi Yazılım");
+set_font_italic();set_font_size(24);
+choose_content();insert_text("Güçlü bir yazılım mı istiyorsunuz? Bunun için para ödemeniz gerekmiyor. Bilgisayarınızda üretken ve güvenli olmanız için ihtiyacınız olan her şey bu listede ve hepsi tamamen ücretsiz.");
+set_font_color("yellow");
+set_background_color("dark blue");
+choose_content();set_font_underline();set_font_style("Arial");
+insert_right_arrow();align_slide_bottom();
+insert_note("2023/4/25");
+
+create_slide();choose_title();insert_text("Jay Chou");
+choose_content();insert_text("Jay Chou Tayvanlı bir müzisyen, şarkıcı-söz yazarı, multi-enstrümantalist, oyuncu ve yönetmendir.");
+create_slide();choose_title();insert_text("Mojito");
+set_font_underline();set_font_size(20);
+set_font_size(48);
+choose_content();insert_text("Mojito" uluslararası toplumdan genel halk tarafından iyi karşılandı. Küba güneşi, tropik gömlekler, antika arabalar ve canlı ritimler, şarkıyı yalnızca akılda kalıcı bir solucan değil, aynı zamanda harika bir görsel zevk haline getiriyor. Lütfen soru sormayın.");
+set_font_style("Futura");set_background_color("green");
+insert_picture("mojito_cover");align_slide_right();
+
+choose_title();insert_text("Üniversite hayatım");
+insert_picture("collegue");insert_textbox();insert_text("kolej");
+choose_content();insert_text("Üniversite öğrencileri arasında yurt dışında okuma çılgınlığı");
+set_font_color("red");set_font_underline();
+set_font_style("Futura");choose_title();set_font_size(22);
+choose_content();text_align_left();
+insert_table(1, 3);
+choose_table_cell(0, 0);insert_text("Birinci Sınıf");choose_table_cell(0, 1);insert_text("İkinci Sınıf");choose_table_cell(0, 2);insert_text("Üçüncü Sınıf");
+create_slide();choose_content();insert_text("Michelle Obama'nın Pekin Üniversitesindeki Konuşması");
+insert_picture("logo");align_top_right_corner();
+set_height(6.5);
+
+create_slide();choose_title();insert_text("Python Öğrenmek");
+set_font_italic();set_font_size(26);set_font_style("Times New Roman");
+set_background_color("green");
+create_slide();set_background_color("green");create_slide();set_background_color("green");
+insert_rectangle();align_slide_bottom();
+insert_table(1, 1);
+choose_table_cell(0, 0);insert_text("Örnek verilmemiştir, lütfen tabloyu doldurunuz");
+
+create_slide();set_background_color("green");choose_title();insert_text("Makine Çevirisi");
+choose_content();insert_text("Makine çevirisi, bir dilden diğerine metin çevirmek için bilgisayar teknolojisinin kullanılmasıdır.");
+set_font_size(20);
+set_font_size(40);
+set_font_color("green");text_align_right();
+insert_picture("trados");
+set_height(2);set_width(2);
+align_slide_bottom();
+insert_rectangle();align_slide_bottom();
+
+choose_title();insert_text("Arka plan");insert_note("Arka plan");
+choose_content();insert_text("Çeviri makinesinin çeviri kalitesini anlama gereksinimleri");insert_text("Her tarih noktasının güvenilirliğine odaklanın");
+insert_cloud();set_width(6.5);align_slide_bottom();
+choose_title();set_font_size(30);choose_content();set_font_size(20);set_font_italic();
+
+insert_circle();align_slide_left();set_fill_color("green");
+set_width(10);set_height(10);
+choose_content();insert_text("Özellik Öğrenme Modülü");insert_text("Kalite Değerlendirme Modülü");
+choose_title();insert_text("Temel çerçeve");
+insert_note("2023/4");choose_shape("circle");insert_text("2023/4");
+
+choose_title();insert_text("Mart'ta Bordro");set_font_color("green");
+insert_table(1, 3);
+choose_table_cell(0, 0);insert_text("Çalışan Kimliği");choose_table_cell(0, 1);insert_text("Miktar");choose_table_cell(0, 2);insert_text("Not");
+insert_textbox();insert_text("Çalışan, banka kimliğini ve kimlik kartını ibraz edecektir.");set_bottom("textbox","table");
+insert_picture("company_brand_name");align_top_right_corner();
+create_slide();set_background_color("yellow");
+choose_title();insert_text("Bölüm 2");choose_content();insert_text("Çalışan Primi");
+choose_title();set_font_italic();set_font_size(44);set_font_color("green");
+choose_content();set_font_style("Verdana");set_font_color("light green");
+insert_note("2023/4");
+
+create_slide();choose_title();insert_text("Derin öğrenmenin özellikleri");set_font_underline();
+set_font_size(26);set_font_color("light blue");
+insert_circle();
+choose_content();insert_text("Derin öğrenme, bilgisayarlara insanlara doğal gelen şeyleri yapmayı öğreten bir makine öğrenimi tekniğidir.");
+set_font_style("Arial");
+insert_triangle();align_slide_left();
+align_slide_right();
+set_fill_color("red");set_width(5);
+choose_content();insert_bullet_point("Sunday");insert_bullet_point("Monday");insert_bullet_point("Tuesday");
+move_to_next_slide();set_background_color("yellow");
+choose_title();insert_text("Tarafsız Ağlar");set_font_underline();set_font_italic();insert_note("Tarafsız Ağlar");
+
+choose_title();insert_text("Sanat Tarihi");
+set_font_bold();set_font_style("Times New Roman");
+choose_content();insert_text("Sanat, öncelikle güzelliği veya duygusal gücü nedeniyle takdir edilmeyi amaçlayan, yazarın yaratıcı, kavramsal fikirlerini veya teknik becerisini ifade eden görsel, işitsel veya performans ürünü eserler yaratmadaki çok çeşitli insan faaliyetleridir.");
+set_font_italic();set_font_style("Arial");
+insert_bullet_point("");
+insert_bullet_point("painting");insert_bullet_point("sculpture");insert_bullet_point("architecture");insert_bullet_point("music");insert_bullet_point("literature");
+insert_picture("Mona Lisa");align_slide_bottom();
+align_top_left_corner();
+insert_note("Leonardo da Vinci'den Mona Lisa");
+
+insert_star();set_fill_color("yellow");
+choose_title();insert_text("Yıldızlar");set_font_size(24);
+choose_content();insert_text("Yıldızlı Geceye Hoş Geldiniz");
+insert_picture("universe");set_bottom("picture","content");
+insert_note("Parlayan Yıldız, Parlak Yıldız, Parıldayan Yıldız");choose_title();delete_text();insert_text("Parlayan Yıldız, Parlak Yıldız, Parıldayan Yıldız");
+
+create_slide();choose_title();insert_text("Müşteri Geri Bildirimi");
+insert_picture("happy_customer");align_slide_bottom();
+choose_title();delete_text();insert_text("Müşterilerimiz Bizi Seviyor!");set_font_color("red");
+delete_text();insert_text("!!");
+choose_content();insert_text("Müşteri Yorumları");
+set_font_style("Times New Roman");set_font_color("green");
+set_background_color("red");
+set_background_color("green");
+
+create_slide();choose_title();insert_text("Pazarlama Planı");
+insert_text("Giriş");set_font_underline();set_font_style("Calibri");
+insert_picture("company_logo");align_bottom_left_corner();
+set_height(5);set_width(3);align_slide_right();
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("Kategori");choose_table_cell(0, 1);insert_text("Bilgi");choose_table_cell(1, 0);insert_text("Yaş");choose_table_cell(1, 1);insert_text("25")
+create_slide();set_background_color("blue");
+choose_title();insert_text("Mobil markalar");
+insert_line_chart([120, 140, 150], ["Huawei", "Apple", "Xiaomi"]);
+set_chart_title("Sales in April");
+
+create_slide();choose_title();insert_text("2. Çeyrek Mali Raporu");
+set_font_style("Arial");set_font_size(20);
+insert_table(1, 3);choose_table_cell(0, 0);insert_text("Metrik");choose_table_cell(0, 1);insert_text("Ç2");choose_table_cell(0, 2);insert_text("Ç3")
+insert_picture("financial report");set_top("picture","table");
+choose_content();insert_text("2. Çeyrek mali raporu, başarılı maliyet optimizasyonu önlemleri ve ürünlerimize ve hizmetlerimize yönelik artan pazar talebinin sağladığı güçlü gelir artışı ve artan karlılığı gösteriyor.");
+set_font_italic();set_font_bold();
+insert_bullet_point("");
+set_background_color("light blue");
+
+create_slide();set_background_color("green");
+choose_title();insert_text("Feminizm");
+set_font_color("green");set_font_size(26);
+choose_content();insert_text("Feminizm, erkeklerinkine paralel olarak kadınlar için eşit haklar, güç ve fırsatlara sahip olma inancı ve arayışıdır.");
+set_font_color("green");set_font_italic();
+create_slide();choose_title();insert_text("3. Dalga Feminizm Hareketi");set_font_color("green");
+set_font_bold();set_font_style("Times New Roman");set_font_color("blue");set_font_size(28);
+insert_picture("war");align_slide_bottom();
+insert_pie_chart([40, 30, 30], ["ABD", "Rusya", "Fransa"]);
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("Konum");choose_table_cell(0, 1);insert_text("Dünyadaki Çeşitli Şehirler")
+
+create_slide();choose_title();insert_text("Ürün Lansmanı");
+choose_content();insert_text("Amaç");insert_note("Amaç");
+set_font_underline();set_font_style("Times New Roman");
+insert_picture("Apple_Pencil");align_bottom_left_corner();
+align_top_right_corner();
+
+choose_title();insert_text("Ekip İlerlemesi");
+choose_content();insert_text("Amaç");
+choose_content();insert_text("Organizasyonun amacı, deneyimli serbest çalışanların mentorluğu yoluyla bu neslin gençlerini ve marjinalize edilmiş gruplarını teşvik etmektir.");
+set_font_size(18);set_font_underline();
+insert_picture("team_group");set_right("picture", "content");
+
+choose_title();insert_text("İnovasyonun Gücü");
+set_font_style("Arial");set_font_bold();
+choose_content();insert_text("Günümüzün hızla değişen dünyasında inovasyon, ekonomik büyümeyi yönlendirmede, siyasi manzaraları şekillendirmede ve kültürel normları dönüştürmede çok önemli bir rol oynuyor. İlerlemeyi besliyor, rekabet gücünü artırıyor ve bireyler ve toplumlar için yeni olanaklar sunuyor.");
+set_font_color("dark blue");set_line_space(2);
+insert_picture("cityscape");align_slide_left();
+insert_rectangle();align_slide_right();
+set_background_color("dark blue");
+create_slide();choose_content();insert_text("Toplumsal ahlakı ve dış standartları hiçe sayarak, akılcılık olmadan çalışır.");
+set_font_bold();set_font_underline();choose_title();insert_text("Peri Masalları");
+
+choose_title();insert_text("Kentsel yaşam");
+set_background_color("light blue");
+choose_table();insert_table(3, 2);choose_table_cell(0, 1);delete_text();insert_text("Miktar");choose_table_cell(1, 1);delete_text();insert_text("Kalite");choose_table_cell(2, 1);delete_text();insert_text("Seviye");
+insert_triangle();insert_rectangle();set_top("triangle", "rectangle");
+choose_shape("triangle");set_bottom("triangle", "rectangle");
+insert_picture("Shanghai");align_bottom_left_corner();
+
+choose_table();insert_table(4, 6);
+choose_table_cell(0, 0);insert_text("Year");choose_table_cell(0, 1);insert_text("Friends");choose_table_cell(0, 2);insert_text("Breaking Bad");choose_table_cell(0, 3);insert_text("Game of Thrones");choose_table_cell(0, 4);insert_text("Stranger Things");choose_table_cell(0, 5);insert_text("The Crown")
+insert_star();
+insert_picture("Friends");set_right("picture", "star");
+choose_shape("star");set_top("star", "picture");
+choose_title();insert_text("TV dizisi");set_font_italic();set_font_underline();
+insert_note("2023-2025");
+
+insert_triangle();rotate_element(45);
+insert_rectangle();set_right("rectangle","triangle");
+insert_star();set_right("star","rectangle");
+insert_circle();set_right("circle","star");
+insert_callout();set_right("callout","circle");rotate_element(-45);
+choose_shape("triangle");insert_text("şekiller");choose_shape("rectangle");insert_text("şekiller");choose_shape("star");insert_text("şekiller");choose_shape("circle");insert_text("şekiller");choose_shape("callout");insert_text("şekiller");
+
+insert_picture("globe");
+choose_title();insert_text("Küresel Genişleme Stratejisi");
+choose_picture();align_top_left_corner();
+choose_content();insert_text("Barış ve Sevgi");
+
+insert_pie_chart([40, 45, 5], ["Şanghay", "Pekin", "Diğerleri"]);
+choose_title();insert_text("Katkı");
+choose_content();insert_text("Pekin'in yıllık gayri safi yurtiçi hasılası 2021'de ilk kez 4 trilyon yuanı (630 milyar $) aştı");
+set_font_style("Arial");
+insert_line_chart([6.7, 6.9, 6.6, 6.1, 2.3, 8.1], ["2016", "2017", "2018", "2019", "2020", "2021"]);
+choose_title();insert_text("GSYİH Büyümesi");
+insert_bar_chart([6.5, 6.3, 6.1, 5.9, 5.7, 5.5], ["2022", "2023", "2024", "2025", "2026", "2027"]);
+
+create_slide();choose_title();insert_text("Pazarlama Planı");
+set_background_color("red");
+insert_picture("company_logo");set_top("picture", "title");
+set_width(3);
+
+create_slide();choose_title();insert_text("Queencard");
+set_font_italic();set_font_bold();set_font_color("purple");
+set_background_color("light blue");
+insert_picture("Poker");set_right("picture", "title");
+align_top_right_corner();
+insert_circle();align_bottom_right_corner();
+set_width(6);set_height(4);
+create_slide();choose_title();insert_text("Kral");
+insert_picture("King");align_slide_right();
+
+create_slide();choose_title();insert_text("Proje Zaman Çizelgesi");
+insert_table(1, 4);
+choose_table();choose_table_cell(0, 0);insert_text("Ocak");choose_table_cell(0, 1);insert_text("Şubat");choose_table_cell(0, 2);insert_text("Mar");choose_table_cell(0, 3);insert_text("Nisan")
+choose_content();insert_text("ör. \"Yazılım lansmanı\", \"Pazarlama kampanyası başlıyor\"");
+insert_picture("project_team");set_bottom("picture", "table");
+insert_right_arrow();set_left("right_arrow", "picture");
+set_width(3);set_height(3);
+
+insert_pie_chart([40, 60], ["Kadın", "Erkek"]);
+set_chart_title("Class 1");
+insert_picture("team_of_students");
+insert_rectangle();set_bottom("rectangle", "chart");
+choose_title();insert_text("1. Sınıf");
+choose_content();insert_text("aşağıda her sınıftaki cinsiyet yüzdesi gösterilmektedir");
+set_font_underline();set_font_size(20);
+insert_note("Prensip：Eva");
+create_slide();insert_pie_chart([40, 60],["Female", "Male"]);set_chart_title("Class 1");
+insert_picture("team_of_students");
+insert_rectangle();set_bottom("rectangle", "chart");
+
+create_slide();choose_title();insert_text("Müşteri Görüşleri");
+choose_content();insert_text("Müşterilerimiz hakkımızda ne diyor");set_font_bold();set_font_italic();
+insert_picture("happy_customer");
+insert_triangle();set_fill_color("purple");
+align_slide_right();
+
+create_slide();choose_title();insert_text("Strateji");
+choose_content();insert_text("Pazarlama stratejimiz 4 P'ye dayanmaktadır: Ürün, Fiyat, Yer ve Promosyon.");
+set_font_size(20);set_line_space(2);set_font_bold();choose_title();set_font_underline();
+set_font_color("red");choose_content();set_font_color("red");
+insert_rectangle();align_slide_left();
+insert_picture("Apple_company_logo");set_right("picture", "rectangle");
+choose_picture();set_top("picture", "rectangle");
+
+create_slide();choose_title();insert_text("Hayranlar");set_font_style("Arial");set_font_size(24);
+choose_content();insert_bullet_point("Benefits of our product");insert_bullet_point("Target market");insert_bullet_point("Pricing strategy");insert_bullet_point("Marketing channels");
+insert_picture("idol");set_height(6.5);
+align_slide_bottom();
+insert_rectangle();align_slide_top();
+insert_note("Sunum Yapan Kişi: Eva");
+
+create_slide();choose_title();insert_text("Satış Rakamları");
+insert_bar_chart([20, 30], series=["Ocak", "Şubat"]);
+insert_line_chart([10, 15], ["Ocak", "Şubat"]);
+set_chart_title("Sales by Month");
+insert_rectangle();align_slide_top();
+choose_content();insert_text("Gelirlerimiz de son 6 ayda istikrarlı bir şekilde artıyor");
+
+create_slide();choose_title();insert_text("Satış Raporu");
+insert_table(2, 5);
+choose_table();choose_table_cell(0, 0);insert_text("Ürün");choose_table_cell(0, 1);insert_text("Satılan Birimler");choose_table_cell(0, 2);insert_text("Gelir");choose_table_cell(0, 3);insert_text("Giderler");choose_table_cell(0, 4);insert_text("Kar")
+insert_table_row(["Bilgisayar", "1000", "1000000$", "500000$", "500000$"])
+insert_table_row(["Yazıcı", "500", "100.000 ABD Doları", "50.000 ABD Doları", "50.000 ABD Doları"])
+
+create_slide();insert_picture("city_skyline");align_slide_top();
+set_width(6);set_height(4);
+choose_title();insert_text("Şehir Hayatı");
+choose_picture();align_top_left_corner();
+choose_title();set_font_size(20);set_font_bold();
+
+create_slide();insert_line_chart([40, 30, 30], ["Konser", "Albüm", "Kitap"]);
+choose_title();insert_text("Hayranlığın Gücü");
+choose_content();insert_text("Hayranlar, filmlerden TV şovlarına, spordan müziğe kadar çeşitli eğlence biçimlerinin başarısının ve etkisinin şekillenmesinde hayati bir rol oynuyor.");
+set_font_style("Arial");set_font_size(20);
+insert_right_arrow();align_slide_top();
+insert_textbox();align_slide_bottom();
+align_slide_top();
+
+create_slide();choose_title();insert_text("Tencent");
+insert_rectangle();align_slide_top();
+rotate_element(90);
+choose_title();set_font_style("Georgia");set_font_italic();
+choose_content();insert_text("Tencent, 1998'de kurulmuş önde gelen bir Çin çok uluslu holdingidir. Sosyal medya, çevrimiçi oyun, e-ticaret, bulut bilgi işlem ve yapay zeka dahil olmak üzere internetle ilgili çeşitli hizmet ve ürünlerde uzmanlaşmıştır. ");
+set_font_size(24);set_font_style("Arial");
+
+set_background_color("green");
+insert_picture("Tencent_logo");
+set_width(6.5);
+insert_line_chart([40, 30, 30], ["Model A", "Model B", "Model C"]);
+insert_bar_chart([40, 30, 30],["Model A", "Model B", "Model C"]);
+
+create_slide();choose_title();insert_text("İngilizlerin kökeni");set_font_underline();
+choose_content();insert_text("Birleşik Krallık'ın kökenleri, MS 10. yüzyılın başlarında komşu Kelt krallıklarının bağlılığını güvence altına alan ve "daha önce birçok kralın aralarında paylaştığı şeyi yöneten ilk kişi" olan Anglo-Sakson kralı Athelstan'ın zamanına kadar izlenebilir. ".");
+set_font_size(20);
+set_font_size(40);set_background_color("green");
+
+insert_rectangle();align_slide_right();
+set_fill_color("yellow");
+choose_title();insert_text("Vinda");
+choose_content();insert_text("Vinda Group, 1985 yılında kurulmuş lider bir hijyen ürünleri şirketidir. Temizlik kağıdı, tek kullanımlık hijyen ürünleri ve kişisel bakım ürünlerinin üretimi ve dağıtımında uzmanlaşmıştır.");
+set_font_size(20);set_font_color("green");set_font_style("Vinda");
+set_line_space(2);choose_title();set_line_space(2);
+
+choose_title();insert_text("Hobilerim");
+insert_picture("guitar");align_top_right_corner();
+choose_content();insert_text("Gitar çalmak en sevdiğim hobilerimden biridir");
+set_font_size(24);set_font_color("purple");
+
+create_slide();choose_title();insert_text("Pazarlama Planı");
+choose_content();insert_text("Pazarlama planı");
+set_font_style("Calibri");
+insert_picture("vinda_logo");
+align_top_left_corner();
+
+create_slide();choose_title();insert_text("Pazarlama Kampanyası");
+insert_picture("smiling_customer");align_top_left_corner();
+set_height(5);set_width(6);
+choose_content();insert_bullet_point("Profits");insert_bullet_point("Repute");insert_bullet_point("Go listing");
+set_font_size(20);choose_title();set_font_size(20);
+
+create_slide();choose_title();insert_text(" Pil Türleri");
+set_font_bold();set_font_italic();
+insert_picture("Product A");
+align_slide_left();
+insert_table(4, 2);choose_table_cell(0, 0);insert_text("Pil Türü");choose_table_cell(0, 1);insert_text("Tanımı");choose_table_cell(1, 0);insert_text("Alkalin");choose_table_cell(1, 1);insert_text("Uzun raf ömürlü, yaygın ev tipi piller");choose_table_cell(2, 0);insert_text("Lityum-iyon");choose_table_cell(2, 1);insert_text("Elektronik cihazlarda kullanılan şarj edilebilir piller");choose_table_cell(3, 0);insert_text("Nikel-kadmiyum");choose_table_cell(3, 1);insert_text("Yüksek enerji yoğunluğuna sahip şarj edilebilir piller")
+
+insert_pie_chart([30, 25, 20, 15, 10], ["A Markası", "B Markası", "C Markası", "D Markası", "Diğer Markalar"]);
+set_chart_title("Air Condition Brands");
+choose_content();insert_text("bu slayt her marka hakkında kısa bir açıklama veya önemli noktalar içerir");
+insert_picture("Haier");align_slide_bottom();
+choose_content();set_font_underline();set_font_color("green");
+insert_triangle();insert_rectangle();
+choose_shape("triangle");set_bottom("triangle", "rectangle");
+choose_shape("rectangle");rotate_element(45);
+
+choose_title();insert_text("Ekibimiz");
+insert_picture("team");set_width(4);set_height(3);
+rotate_element(45);
+align_top_left_corner();
+choose_title();set_font_style("Calibri");set_font_size(28);
+
+choose_title();insert_text("Kimlik Kartı");
+insert_line_chart([120, 140, 110], ["Fujian", "Şanghay", "Pekin"]);
+set_chart_title("ID Card Operation");
+insert_picture("ID_card");align_slide_right();
+choose_title();set_font_style("Verdana");set_font_size(32);
+set_background_color("purple");
+
+choose_title();insert_text("Satış Raporu");
+set_font_style("Arial");set_font_size(48);set_font_bold();
+insert_table(5, 3);
+choose_table_cell(0, 0);insert_text("Bölge");choose_table_cell(0, 1);insert_text("Satış");choose_table_cell(0, 2);insert_text("Büyüme");choose_table_cell(1, 0);insert_text("Kuzey");choose_table_cell(1, 1);insert_text("50.000 ABD Doları");choose_table_cell(1, 2);insert_text("%5");choose_table_cell(2, 0);insert_text("Doğu");choose_table_cell(2, 1);insert_text("75.000 ABD Doları");choose_table_cell(2, 2);insert_text("%10");choose_table_cell(3, 0);insert_text("Güney");choose_table_cell(3, 1);insert_text("45.000 ABD Doları");choose_table_cell(3, 2);insert_text("%3");choose_table_cell(4, 0);insert_text("Batı");choose_table_cell(4, 1);insert_text("60.000$");choose_table_cell(4, 2);insert_text("%8")
+set_background_color("green");
+choose_content();insert_text("Adı: John Doe,Doğum Tarihi: 1 Ocak 1990,Cinsiyet: Erkek,Kimlik Numarası: 123456789,Veren Makam: Motorlu Taşıtlar Dairesi,Son Kullanma Tarihi: 31 Aralık 2023");
+insert_picture("beach");
+insert_right_arrow();
+choose_picture();set_top("picture", "right_arrow");
+
+insert_rectangle();
+set_fill_color("orange");
+set_width(6);set_height(5);
+choose_title();insert_text("Önemli Bilgiler");set_font_bold();
+set_font_size(24);set_font_color("green");
+choose_content();insert_bullet_point("pot");insert_bullet_point("scissors");insert_bullet_point("scoup");
+insert_picture("exclamatory_mark");
+align_top_left_corner();
+create_slide();insert_rectangle();align_slide_left();
+choose_title();insert_text("Ek Ayrıntılar");
+
+choose_content();insert_text("İşte şirketimizin büyümesiyle ilgili bazı istatistikler");
+set_font_color("purple");
+choose_table();insert_table(1, 3);
+choose_table_cell(0, 0);insert_text("geliri");choose_table_cell(0, 1);insert_text("karı");choose_table_cell(0, 2);insert_text("çalışan sayısını")
+
+insert_picture("converse_shoes");
+choose_content();insert_text("Converse, ikonik spor ayakkabıları ve günlük stiliyle tanınan popüler bir ayakkabı markasıdır.");
+set_font_size(18);set_font_color("red");
+
+choose_content();insert_text("Limon suyu, taze sıkılmış limonlardan yapılan serinletici ve keskin bir içecektir. C vitamini açısından zengindir ve bir narenciye aroması patlaması sağlar.");
+create_slide();choose_title();insert_text("Limon suyu");
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("Ürün");choose_table_cell(0, 1);insert_text("Fiyat");choose_table_cell(0, 2);insert_text("Özellikler");choose_table_cell(1, 0);insert_text("A");choose_table_cell(1, 1);insert_text("B");choose_table_cell(1, 2);insert_text("C")
+insert_picture("lemon_juice");set_right("picture","table");
+choose_content();insert_text("Sayfa 1");
+
+insert_picture("beach");align_top_left_corner();
+choose_content();insert_text("Tatilinizi bugün ayırtın!");
+choose_title();insert_text("Tatil Zamanı");
+set_font_size(18);set_font_style("Times New Roman");choose_content();set_font_size(18);set_font_style("Times New Roman");
+choose_content();insert_bullet_point("Relaxing on the beach");insert_bullet_point("Swimming in the ocean");insert_bullet_point("Eating delicious seafood");
+
+create_slide();choose_title();insert_text("Chili");
+set_background_color("red");
+insert_picture("chili");
+choose_content();insert_text("Acı biber, et, fasulye ve çeşitli baharatların birleşiminden yapılan baharatlı ve lezzetli bir yemektir. Zengin tadı ve doyurucu ısısıyla bilinir.");
+
+choose_title();insert_text("Chili");insert_picture("chili_landscape");
+insert_table(4, 3);choose_table_cell(0, 0);insert_text("İçerik");choose_table_cell(0, 1);insert_text("Miktar");choose_table_cell(0, 2);insert_text("Baharat Düzeyi");choose_table_cell(0, 3);insert_text("Köken");choose_table_cell(1, 0);insert_text("Sığır Eti");choose_table_cell(1, 1);insert_text("2 lbs");choose_table_cell(1, 2);insert_text("Orta");choose_table_cell(1, 3);insert_text("Meksika");choose_table_cell(2, 0);insert_text("Fasulye");choose_table_cell(2, 1);insert_text("1 kutu");choose_table_cell(2, 2);insert_text("Hafif");choose_table_cell(2, 3);insert_text("Amerika Birleşik Devletleri");choose_table_cell(3, 0);insert_text("Domates");choose_table_cell(3, 1);insert_text("3");choose_table_cell(3, 2);insert_text("Sıcak");choose_table_cell(3, 3);insert_text("İspanya")
+insert_note("Sayfa 2");
+
+insert_picture("eating_humburger");align_slide_bottom();
+choose_title();insert_text("3. Çeyrek için Satış Tahminleri");
+choose_content();insert_text("3. Çeyrek için satış tahminleri, gelir ve pazar payında istikrarlı bir büyüme olduğunu gösteriyor. Hedeflenen pazarlama stratejileri ve ürün geliştirmeleriyle, satış performansında önemli bir artış bekliyoruz.");
+
+choose_title();insert_text("Pazarlama Stratejisi");
+choose_content();insert_text("Şirketimizin pazarlama stratejisi, sosyal medya reklamcılığına ve etkileyici pazarlamaya odaklanmaktır");
+insert_bullet_point("Instagram");insert_bullet_point("Facebook");insert_bullet_point("Twitter");
+insert_picture("using_smartphone");
+insert_rectangle();set_top("rectangle","picture");
+insert_table(6, 4);choose_table_cell(0, 0);insert_text("Ay");choose_table_cell(0, 1);insert_text("Gelir");choose_table_cell(0, 2);insert_text("Satılan Birimler");choose_table_cell(0, 3);insert_text("Büyüme Oranı")
+
+create_slide();choose_title();insert_text("Ürün Lansmanı");
+insert_text("En yeni ürünümüzü tanıtıyoruz");
+insert_picture("product");
+align_slide_bottom();
+set_background_color("purple");align_slide_top();
+
+choose_title();insert_text("Çin'i Keşfet");
+insert_picture("china_map");
+align_top_left_corner();
+choose_content();insert_text("Çin, zengin tarihi, canlı kültürü ve nefes kesen manzaralarıyla tanınan büyüleyici bir turizm merkezidir. İkonik Çin Seddi'nden hareketli metropol Şangay'a kadar, bu uçsuz bucaksız ve farklı ülke.");
+insert_table(8, 5);choose_table_cell(0, 0);insert_text("İl");choose_table_cell(0, 1);insert_text("Ünlü Gezilecek Yerler");choose_table_cell(0, 2);insert_text("Ortalama Sıcaklık");choose_table_cell(0, 3);insert_text("Turist Sayısı");choose_table_cell(0, 4);insert_text("Tavsiye Edilen Sezon")
+create_slide();choose_title();insert_text("Proje Zaman Çizelgesi");
+insert_star();align_slide_right();
+align_slide_right();
+
+choose_title();insert_text("OPPO");set_font_color("red");set_font_size(20);set_font_underline();set_font_bold();
+choose_content();insert_text("OPPO, yenilikçi tasarımları ve en son teknolojisiyle tanınan lider bir akıllı telefon üreticisidir.");
+insert_picture("oppo_smartphone");set_left("picture","content");
+create_slide();choose_title();insert_text("Xiaomi");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("Ürün");choose_table_cell(0, 1);insert_text("Fiyat");choose_table_cell(0, 2);insert_text("Özellikler");choose_table_cell(0, 3);insert_text("Stok Durumu");choose_table_cell(1, 0);insert_text("Mi 11");choose_table_cell(1, 1);insert_text("699$");choose_table_cell(1, 2);insert_text("Snapdragon 888, 108MP camera");choose_table_cell(1, 3);insert_text("Global");choose_table_cell(2, 0);insert_text("Redmi Note 10");choose_table_cell(2, 1);insert_text("249$");choose_table_cell(2, 2);insert_text("AMOLED ekran, 48MP kamera");choose_table_cell(2, 3);insert_text("Küresel")
+
+create_slide();choose_title();insert_text("Ürüne Genel Bakış");
+choose_table();insert_table(4, 3);choose_table_cell(0, 0);insert_text("Ürün Adı");choose_table_cell(1, 0);insert_text("SKU");choose_table_cell(2, 0);insert_text("Fiyat");choose_table_cell(3, 0);insert_text("Miktar");
+set_background_color("green");
+
+set_background_color("blue");choose_title();insert_text("Araştırma Yazısı");
+choose_content();insert_text("Araştırma yazısı, belirli bir alana yeni bilgi ve içgörüler katmak için bir konunun sistematik olarak araştırılmasını ve belgelenmesini içerir.");
+set_font_color("yellow");set_font_size(18);
+set_font_size(36);
+insert_line_chart([120, 140, 160], ["2016", "2017", "2018"]);
+set_chart_title("Publications Over Time");
+insert_picture("research_writing_cover");set_background_color("light blue");
+
+create_slide();choose_title();insert_text("Mart Ayında Planla");
+set_font_size(28);set_font_color("dark blue");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("Tarih");choose_table_cell(0, 1);insert_text("Görev");choose_table_cell(0, 2);insert_text("Başlangıç ​​saati");choose_table_cell(0, 3);insert_text("Bitiş saati");choose_table_cell(1, 0);insert_text("15 Mart");choose_table_cell(1, 1);insert_text("Paydaşlarla toplantı");choose_table_cell(1, 2);insert_text("09:00");choose_table_cell(1, 3);insert_text("10:30");choose_table_cell(2, 0);insert_text("23 Mart");choose_table_cell(2, 1);insert_text("Proje inceleme ve güncelleme");choose_table_cell(2, 2);insert_text("14:00");choose_table_cell(2, 3);insert_text("16:00")
+insert_picture("calendar");set_top(picture, table);
+
+create_slide();choose_title();insert_text("Meditasyonun Faydaları");
+insert_picture("person_meditating");align_slide_bottom();
+choose_content();insert_text("Meditasyon, iç huzur ve sükunet durumuna ulaşmanıza yardımcı olabilecek basit ama güçlü bir tekniktir");
+set_font_size(24);set_font_style("Times New Roman");
+insert_rectangle();set_right("rectangle", "picture");
+set_fill_color("light green");
+create_slide();set_background_color("light blue");
+choose_table();insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("Farkındalık Meditasyonu");choose_table_cell(1, 0);insert_text("Transandantal Meditasyon");choose_table_cell(2, 0);insert_text("Beden Tarama Meditasyonu");choose_table_cell(0, 1);insert_text("Meditasyon zihni sakinleştirmeye ve stres düzeylerini düşürmeye yardımcı olarak gevşemeyi teşvik eder.");choose_table_cell(1, 1);insert_text("Düzenli meditasyon uygulaması odaklanma ve konsantrasyon becerilerini geliştirir.");choose_table_cell(2, 1);insert_text("Meditasyon duygusal dengeyi, farkındalığı ve genel refahı destekler. ");
+
+create_slide();set_background_color("green");
+insert_picture("grassland");set_width(6.5);set_height(5.5);
+choose_title();insert_text("Ormanların İşlevleri");set_font_color("dark red");set_font_size(40);
+insert_right_arrow();set_fill_color("yellow");
+set_right("right_arrow", "picture");
+
+insert_pie_chart([40, 20, 15, 10, 15], ["yiyecek", "barınma", "ulaşım", "eğlence", "diğer"]);
+insert_table(6, 2);choose_table_cell(0, 0);insert_text("Kategori");choose_table_cell(0, 1);insert_text("Yüzde")
+set_bottom("table",pie_chart");
+choose_title();insert_text("Mayıs 2023 Harcamalarım");
+set_font_italic();
+
+create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");
+move_to_slide(0);choose_title();insert_text("Benim yaz tatilim");set_font_style("Microsoft JhengHei");
+move_to_slide(1);insert_picture("family");
+move_to_slide(2);insert_bar_chart([120, 80, 40, 60], ["Satışlar", "Giderler", "Karlar", "Yatırım"]);
+move_to_slide(3);choose_content();insert_text("Yaz tatilim sırasında unutulmaz bir maceraya atıldım. Yeni yerler keşfettim, altın gün batımının sıcaklığında ıslandım ve kumsallarda dinlendim.");
+move_to_slide(4);choose_table();insert_table(2, 1);choose_table_cell(0,0);insert_text("Satışlar");set_font_size(26);choose_table_cell(1,0);insert_text("Giderler");set_font_size(26);
+
+create_slide();choose_title();insert_text("İş Planı");
+insert_picture("light_bulb");align_slide_left();
+choose_content();insert_text("Girişimcilik, başlangıçta genellikle küçük bir işletme olan yeni bir iş tasarlama, başlatma ve yürütme sürecidir. Bu işletmeleri yaratan kişilere girişimci denir.");
+set_font_style("Georgia");set_font_size(10);
+set_background_color("green");
+insert_circle();
+align_slide_right();
+move_to_slide(0);choose_content();insert_text("Pazarlama Stratejisi");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("Sosyal Medya Kampanyası");choose_table_cell(1, 0);insert_text("Influencer Partnerships");choose_table_cell(2, 0);insert_text("Email Marketing")
+choose_table_cell(0,3);insert_text("10000$");choose_table_cell(1,3);insert_text("15000$");choose_table_cell(2,3);insert_text("5000$");
+insert_note("2023/5");
+
+choose_title();insert_text("Hedef kitle");set_font_style("Arial");
+align_top_right_corner();
+insert_picture("Gen_Z");set_width(4);
+align_bottom_left_corner();
+choose_content();insert_text("Doğru kitleyi anlamak ve etkili bir şekilde hedeflemek, özel mesajlar iletmek ve pazarlama çabalarının etkisini en üst düzeye çıkarmak için çok önemlidir.");
+
+choose_title();insert_text("Büyük ölçekli modellemenin esasları");set_font_size(24);
+insert_picture("neutral_network");align_slide_bottom();
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("Sayı");choose_table_cell(0, 1);insert_text("Not")
+align_slide_top();
+
+insert_picture("tower");align_top_right_corner();
+choose_title();insert_text("The Ultimate Heist");
+insert_rectangle();set_top("rectangle", "title");
+choose_title();set_font_color("dark green");set_font_size(28);
+set_font_style("Microsoft New Tai Lue");
+set_background_color("light blue");
+
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("Görev");choose_table_cell(0, 1);insert_text("Öncelik");choose_table_cell(0, 2);insert_text("Başlangıç Saati");choose_table_cell(0, 3);insert_text("Bitiş Saati");choose_table_cell(1, 0);insert_text("Proje Planlama");choose_table_cell(1, 1);insert_text("Yüksek");choose_table_cell(1, 2);insert_text("9:00");choose_table_cell(1, 3);insert_text("10:30")
+choose_content();insert_text("Etkili zaman yönetimi hem kişisel hem de profesyonel ortamlarda başarı için çok önemli bir beceridir.");
+set_font_italic();
+choose_table();set_bottom("table","content");
+insert_picture("clock");
+insert_note("Sunucu: Eva");
+
+create_slide();choose_title();insert_text("Şirket Profili");
+choose_content();insert_text("Şirketimiz 2005 yılında müşterilerimize yüksek kaliteli ürün ve hizmetler sunmak amacıyla kuruldu. O zamandan beri, geniş bir sektör yelpazesi için yenilikçi çözümler sunan lider bir tedarikçi haline geldik. • Uzmanlardan oluşan ekibimiz, yaptığımız her şeyde mükemmelliği sağlamaya kendini adamıştır.");
+choose_title();set_font_style("Calibri Light");set_font_size(40);
+insert_picture("company_logo");align_slide_right();
+set_height(2);set_width(3);align_slide_left();
+align_bottom_left_corner();
+create_slide();set_background_color("blue");
+choose_content();insert_text("Paydaşlarımıza değer katan ve dünyayı olumlu yönde etkileyen yenilikçilik ve sürdürülebilirlikte lider olmak.");
+set_font_underline();set_line_space(2);
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("A-72");choose_table_cell(0, 1);insert_text("C-71")
+insert_table(1, 2);insert_table_row(["B-72", "D-71"])
+
+create_slide();choose_title();insert_text("Satış Verileri");
+insert_table(15, 6);
+choose_table();choose_table_cell(0, 0);insert_text("Ürün");choose_table_cell(0, 1);insert_text("Ocak Satışları");choose_table_cell(0, 2);insert_text("Şubat Satışları");choose_table_cell(0, 3);insert_text("Mart Satışları");choose_table_cell(0, 4);insert_text("Toplam Satışlar");choose_table_cell(0, 5);insert_text("Ortalama Satışlar");choose_table_cell(1, 0);insert_text("iPhone");choose_table_cell(1, 1);insert_text("22");choose_table_cell(2, 1);insert_text("13");choose_table_cell(2, 2);insert_text("15");choose_table_cell(2, 3);insert_text("17");choose_table_cell(2, 4);insert_text("12")
+align_top_left_corner();
+insert_note("Veri kaynağı: Satış departmanı");
+create_slide();insert_table(15, 6);insert_table_row(["Product", "January Sales", "February Sales", "March Sales", "Total Sales", "Average Sales"]);insert_table_row(["iPhone", "22", "13", "15", "17", "12"]);align_top_left_corner()
+
+choose_title();insert_text("Pazarlama Stratejileri");
+set_font_style("Arial Black");
+choose_content();insert_text("Arama Motoru Optimizasyonu (SEO)");insert_text(", ");insert_text(", ");insert_text(" ve ");
+set_font_color("dark blue");
+set_font_color("green");
+insert_picture("thumb");set_width(5);set_bottom("picture", "content");
+
+choose_title();insert_text("Büyük Kanyon");set_font_italic();
+set_font_size(30);
+set_font_style("Times New Roman");
+insert_picture("GrandCanyon");
+set_right("picture","title");
+set_height(4);set_width(6);
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("Guangdong");choose_table_cell(0, 1);insert_text("Pekin");choose_table_cell(0, 2);insert_text("Şanghay");choose_table_cell(0, 3);insert_text("Hainan");choose_table_cell(1, 0);insert_text("%34");choose_table_cell(1, 1);insert_text("%36");choose_table_cell(1, 2);insert_text("%20");choose_table_cell(1, 3);insert_text("%10")
+insert_pie_chart([34, 36, 20, 10], ["Guangdong", "Pekin", "Şanghay", "Hainan"]);
+choose_chart();set_bottom("chart", "table");
+insert_bar_chart([34, 36, 20, 10],["Guangdong","Beijing", "Shanghai", "Hainan"]);
+insert_note("Resim kaynağı: Milli Park Servisi");
+
+create_slide();choose_title();insert_text("Ürün Karşılaştırması");
+insert_table(5, 2);choose_table_cell(0, 0);insert_text("Akıllı telefon (Apple iPhone 13)");choose_table_cell(0, 1);insert_text("Dizüstü bilgisayar (Dell XPS 13)");choose_table_cell(1, 0);insert_text("Smartwatch (Apple Watch Series 7)");choose_table_cell(1, 1);insert_text("Kulaklıklar (Sony WH-1000XM4)");choose_table_cell(2, 0);insert_text("Kamera (Canon EOS R5)");choose_table_cell(2, 1);insert_text("Televizyon (Samsung QLED Q90T)");choose_table_cell(3, 0);insert_text("Oyun Konsolu (PlayStation 5)");choose_table_cell(3, 1);insert_text("Fitness Tracker (Fitbit Charge 4)");choose_table_cell(4, 0);insert_text("Kablosuz Kulaklıklar (AirPods Pro)");choose_table_cell(4, 1);insert_text("Tablet (iPad Pro)")
+choose_title();align_bottom_right_corner();
+set_background_color("light blue");
+
+create_slide();choose_title();insert_text("Aylık Satış Raporu");
+choose_content();insert_bar_chart([10000, 12000, 15000, 18000, 20000, 25000, 28000, 30000, 32000, 35000, 40000, 45000], ["Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran", "Temmuz", "Ağustos", "Eylül", "Ekim", "Kasım", "Aralık"]);
+set_chart_title("My Monthly Sales in 2023");
+align_slide_top();
+choose_content();insert_text("Aylık satış raporu, gelirde önemli bir artış gösteriyor.");
+insert_note("Sunum yapan: xxx");
+
+set_background_color("light red");insert_picture("strawberry");
+create_slide();choose_title();insert_text("Proje Kapsamı");create_slide();choose_title();insert_text("Proje Zaman Çizelgesi");create_slide();choose_title();insert_text("Proje Bütçesi");
+move_to_slide(1);set_background_color("light green");move_to_slide(2);set_background_color("light blue");move_to_slide(3);set_background_color("purple");
+move_to_slide(1);choose_content();insert_text("Projemiz, müşterilerimiz için yeni bir yazılım uygulaması geliştirmeyi içeriyor. Uygulama, onların iş süreçlerini kolaylaştıracak ve kârlılıklarını artıracak.");
+move_to_slide(2);insert_table(2, 6);choose_table();choose_table_cell(0, 0);insert_text("Ay");choose_table_cell(0, 1);insert_text("Görev");choose_table_cell(0, 2);insert_text("Başlangıç Tarihi");choose_table_cell(0, 3);insert_text("Bitiş Tarihi");choose_table_cell(0, 4);insert_text("İlerleme");choose_table_cell(0, 5);insert_text("Yorumlar")
+insert_line_chart([10, 12, 15, 11], ["2016", "2017", "2018", "2019"]);set_left("chart","table");
+insert_star();align_top_right_corner();
+move_to_slide(2);choose_title();set_font_underline();
+move_to_slide(3);choose_content();insert_text("Personel Giderleri: Bu, maaşlar, ücretler, yan haklar ve eğitim giderleri gibi proje ekibi üyeleriyle ilişkili maliyetleri içerir.");
+choose_content();set_font_style("Arial");
+insert_note("Teşekkürler!");
+
+choose_title();insert_text("Şirket Zaman Çizelgesi");
+insert_rectangle();rotate_element(45);
+align_bottom_right_corner();
+set_background_color("light blue");
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("1980");choose_table_cell(0, 1);insert_text("1990");choose_table_cell(0, 2);insert_text("2000");choose_table_cell(0, 3);insert_text("2010")
+insert_table_row(["Şirket kuruldu", "Şirket yeni binasına taşındı", "Şirket halka açıldı", "Şirket rakip tarafından satın alındı"])
+
+insert_picture("google_logo");align_slide_bottom();
+choose_title();insert_text("Sonuç");set_font_italic();
+choose_content();insert_text("Gittikçe tek bir dünya nüfusuyuz - özgürce karışıyoruz. Bu, melezlerden oluşan bir dünya yaratacak - açık kahverengi tenli, koyu saçlı, Afro-Avrupa-Avustralya-Amerikalı-Asyalılar, ten renkleri ve yüz hatları eğilimli küresel ortalamaya doğru.");
+text_align_right();
+insert_rectangle();set_height(5);
+align_slide_bottom();
+
+create_slide();choose_title();insert_text("Etik Edebi Eleştiri");set_font_bold();
+set_font_color("blue");
+choose_content();insert_text("Etik edebiyat eleştirisi yöntemi, Orta Çin Normal Üniversitesi'nden Profesör Nie Zhenzhao tarafından Çin ve Batı edebiyat eleştirisinin tarihi ve mevcut durumunun karşılaştırmalı araştırması, ince taraması ve yeniden düşünülmesinin ardından ortaya koyduğu yeni bir edebiyat eleştirisi yöntemidir. teoriler ve yöntemler.");
+insert_picture("book_cover");
+align_slide_left();
+insert_rectangle();align_slide_right();
+set_background_color("light yellow");
+
+create_slide();choose_title();insert_text("Charlotte Bronte'den Jane Eyre");set_font_italic();
+choose_content();insert_text("Mutlu görünen sonda Charlotte olay örgüsünü oluşturmak için bir miras ve bir ateş kullanır.");set_font_bold();
+set_font_color("dark red");set_font_style("Arial");
+insert_right_arrow();set_right("right_arrow", "content");
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("Kategori");choose_table_cell(0, 1);insert_text("Bilgi Yazar");choose_table_cell(1, 0);insert_text("Yayın Yılı");choose_table_cell(1, 1);insert_text("1847")
+insert_picture("Charlotte_Bronte's_portrait");set_bottom("picture", "table");
+set_top("picture", "table");
+
+set_background_color("blue");
+choose_title();insert_text("Id in David Copperfield");set_font_italic();
+choose_content();insert_text("Id, bir tür hayvani içgüdüsel dürtüdür, mantık olmaksızın karıştırılır ve körü körüne tatmin peşinde koşar ve tepki verme şansını biriktirir. bir. Id, sosyal ahlaki veya dışsal davranış standardını umursamaz. Kimlik, içgüdünün depolandığı yerdir.");
+insert_picture("book");set_top("book","content");
+set_height(5);set_width(6);
+insert_star();set_right("star","picture");
+choose_content();insert_bullet_point("");
+
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("Konum");choose_table_cell(0, 1);insert_text("Dünyanın dört bir yanındaki çeşitli şehirler");choose_table_cell(1, 0);insert_text("Etnik Köken");choose_table_cell(1, 1);insert_text("Çin toplumu ve kültürü");choose_table_cell(2, 0);insert_text("Özellikler");choose_table_cell(2, 1);insert_text("Çin mimarisi, işletmeleri, mutfağı, kültürel kutlamaları")
+choose_title();insert_text("Çin Mahallesi");set_font_bold();
+insert_pie_chart([40, 30, 30], ["Çin Restoranları", "Çin Perakende Mağazaları", "Kültürel Festivaller ve Etkinlikler"]);
+insert_picture("China_town");
+align_slide_bottom();
+insert_star();align_slide_right();
+insert_note("Çin Mahallesi");
+
+create_slide();set_background_color("green");
+choose_title();insert_text("feminizm");set_font_color("green");
+choose_content();insert_text("Feminizm, kadınların erkeklerle aynı haklara, güce ve fırsatlara sahip olması gerektiği inancı ve amacıdır");
+set_font_color("yellow");set_font_italic();
+
+choose_title();insert_text("Feminizm hareketinin 3. dalgası");set_font_bold();
+set_font_style("Times New Roman");set_font_color("blue");set_font_size(28);
+choose_content();insert_text("Çok ırklı dini inançlara, etnik geleneklere, çok kültürlülüğe, çevre korumaya, tüketiciliğe, çeşitlilik yönelimine odaklanıyor");
+insert_picture("female_portrait");set_top("picture","content");
+
+create_slide();choose_title();insert_text("Gurur ve Önyargı'nın film uyarlaması");
+set_font_size(24);set_font_italic();
+choose_content();insert_text("İlk yayınlanmasından on dört yıl sonra, senarist Andrew Davies'in Jane Austen'in Pride and Prejudice romanından 1995 uyarlaması, Austen uyarlamasının popüler olarak ölçüldüğü bir ölçüt olmaya devam ediyor. , uyarlama görünüşte modern duyarlılıklara ve çağdaş dramatik beklentilere hitap ediyor. Davies'in yorumlayıcı seçimleri duygusallığa vurgu yapıyor ve Darcy'nin arzularına odaklanıyor. ");
+insert_bullet_point("");
+set_font_size(20);set_line_space(2);
+insert_picture("web_image");
+insert_rectangle();align_top_right_corner();
+set_background_color("light orange");
+
+insert_table(3, 2);
+choose_table();choose_table_cell(0, 0);insert_text("Konum");choose_table_cell(1, 0);insert_text("Etnisite")
+choose_content();insert_text("Elizabeth Bennet ve Mr. Darcy, roman boyunca önemli bir karakter gelişimi geçirerek kendileri ve toplum hakkında önemli dersler alıyorlar.");
+insert_picture("Elizabeth_Bennet_and_Mr. Darcy");set_bottom("picture", "table");
+align_slide_right();
+insert_rectangle();align_top_left_corner();
+create_slide();choose_title();insert_text("Gurur ve Önyargıda Sosyal Sınıfın Rolü");set_font_underline();
+choose_content();insert_text("Sosyal sınıf, romanda karakterlerin ilişkilerini, kararlarını ve öz algılarını etkileyerek önemli bir rol oynar.");
+insert_circle();align_bottom_right_corner();set_fill_color("orange");
+set_background_color("orange");
+
+create_slide();choose_title();insert_text("Şekiller");
+insert_rectangle();set_fill_color("red");align_slide_left();
+insert_circle();set_fill_color("blue");align_slide_right();
+insert_triangle();set_fill_color("green");align_slide_left();
+insert_callout();set_fill_color("yellow");align_slide_right();
+
+insert_picture("19th-century_marriage_scene");align_slide_right();
+insert_triangle();set_right("triangle", "picture");
+choose_title();insert_text("19. yüzyıl evliliği");
+set_font_italic();set_font_bold();
+
+insert_pie_chart([30, 25, 15, 10, 10, 10], ["Vanilya", "Çikolata", "Çilek", "Nane Çikolata Parçası", "Kurabiye ve Krema", "Tereyağı Ceviz"]);
+insert_picture("strawberry");set_bottom("picture", "chart");
+choose_content();insert_text("Geçen çeyrekte harcamalar, yüksek işletme maliyetleri ve pazarlama girişimlerine yapılan yatırımın artması nedeniyle önemli ölçüde arttı.");
+set_font_style("Times New Roman");set_font_size(18);
+
+create_slide();choose_title();insert_text("PPT yapımı");insert_note("PPT yapımı");
+choose_content();insert_text("İlgi çekici ve etkili PowerPoint sunumları oluşturmak, dikkatli planlama ve uygulama gerektirir.");
+choose_content();set_font_underline();set_font_color("dark red");
+choose_title();set_font_bold();set_font_italic();
+insert_note("PPT");
+
+create_slide();choose_title();insert_text("Sinir Ağları");
+choose_content();insert_bullet_point("Neural networks are a type of machine learning algorithm that are modeled after the structure of the human brain. They consist of layers of interconnected nodes that process information and learn to recognize patterns.");
+choose_title();set_font_color("red");
+insert_picture("neural_network_architecture");
+insert_cloud();set_right("cloud","picture");
+set_background_color("yellow");
+
+create_slide();insert_cloud();set_fill_color("red");align_slide_right();
+choose_content();insert_text("Net Çıkarımlar Sağlayın");
+choose_title();set_font_color("orange");create_slide();choose_title();insert_text("Veri Ön İşleme");
+set_background_color("red");
+
+create_slide();choose_title();insert_text("Öğrenmeyi Aktar");
+set_font_size(28);set_font_bold();choose_content();set_font_size(28);
+set_font_style("Times New Roman");set_font_color("red");
+set_background_color("red");
+choose_content();insert_text("Güçlendirmeli öğrenme, algoritmanın deneme yanılma yoluyla öğrendiği bir tür makine öğrenimidir. Genellikle makinelere karmaşık ortamlarda nasıl karar vereceklerini öğretmek için kullanılır.");
+
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("Model Adı");choose_table_cell(0, 1);insert_text("ChatGPT");choose_table_cell(1, 0);insert_text("Mimari");choose_table_cell(1, 1);insert_text("GPT (Generative Pre-trained Transformer)");choose_table_cell(2, 0);insert_text("Eğitim Veri Boyutu");choose_table_cell(2, 1);insert_text("Birden çok terabaytlık çeşitli metin verileri")
+choose_title();insert_text("GPT");set_font_bold();
+choose_content();insert_text("Generative Pre-trained Transformer 3 (GPT-3), 2020'de piyasaya sürülen ve insan benzeri metinler üretmek için derin öğrenmeyi kullanan bir otoregresif dil modelidir.");
+set_font_underline();set_font_color("dark red");choose_title();set_font_color("dark red");
+insert_picture("gpt-3_architecture");set_right("picture","content");
+
+create_slide();choose_title();insert_text("Uğultulu Yükseklik");set_font_italic();
+choose_content();insert_text("Hikaye, bir kahya olan Ellen Dean'in geçmişe dönük bir dizi kısa öyküsünün çerçevesi olarak hizmet eden tarafsız bir grup olan Lockwood tarafından anlatılıyor.");set_font_bold();
+set_font_color("red");choose_title();set_font_color("red");
+insert_right_arrow();
+set_width(6);set_height(4);
+create_slide();insert_cloud();
+insert_picture("wuthering_height_bookcover");
+choose_content();insert_text("Uğultulu Tepeler, Emily Brontë'nin romanı, 1847'de Ellis Bell takma adıyla yayınlandı");
+set_font_style("Times New Roman");set_font_size(18);
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("Kategori");choose_table_cell(0, 1);insert_text("Bilgi")
+insert_note("Microsoft");
+
+create_slide();choose_title();insert_text("Jane Austen'den Gurur ve Önyargı");
+choose_content();insert_text("Roman, İngiliz eşrafı arasındaki aşk, evlilik ve sosyal beklentiler temalarını araştırıyor");set_font_bold();set_font_underline();
+insert_right_arrow();set_left("right_arrow", "content");
+set_fill_color("light orange");choose_content();set_font_color("dark green");
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("Kategori");choose_table_cell(0, 1);insert_text("Bilgi");choose_table_cell(1, 0);insert_text("Yazar");choose_table_cell(1, 1);insert_text("Jane Austen")
+insert_picture("jane_austen_portrait");
+set_height(6);align_top_right_corner();
+
+create_slide();choose_title();insert_text("Sirsa'nın yaşam yolculuğu");set_font_bold();
+set_font_size(24);
+insert_table(4, 3);choose_table_cell(0, 0);insert_text("Çocukluk");choose_table_cell(0, 1);insert_text("0-10 yaş");choose_table_cell(0, 2);insert_text("Okul");choose_table_cell(1, 0);insert_text("Ergenlik");choose_table_cell(1, 1);insert_text("11-18 yaş");choose_table_cell(1, 2);insert_text("Lise")
+insert_picture("school");
+set_left("picture","table");
+
+create_slide();choose_title();insert_text("Evreni Keşfetmek");set_font_underline();
+insert_picture("galaxy");
+choose_content();insert_bullet_point("Stars");insert_bullet_point("Planets");insert_bullet_point("Nebulae");insert_bullet_point("Black Holes");insert_bullet_point("Dark Matter");
+set_font_bold();set_font_italic();
+set_font_color("dark red");
+insert_pie_chart([35, 25, 40], ["Öğretim binası", "Stadyum", "Oyun alanı"]);
+align_slide_top();
+insert_line_chart([20, 30, 40, 10], ["1st year", "2nd year", "3rd year", "4th year"]);
+insert_bar_chart([20, 30, 40, 10], ["1st year", "2nd year", "3rd year", "4th year"]);
+set_background_color("blue");
+
+create_slide();choose_title();insert_text("giriş");
+choose_content();insert_text("Bu yazıda, daha uzun bir süre boyunca çoklu ve tamamlayıcı yöntemleri kullanmanın hem potansiyel hem de tuzakların yanı sıra karmaşıklıklar ve belirsizlikler getirdiğini keşfediyoruz.");
+set_font_color("red");
+set_font_size(20);
+set_background_color("light blue");choose_content();set_font_size(40);
+
+choose_content();insert_text("Nanyang, derin tarihi mirası ve zengin kültürel birikimi olan ulusal bir tarihi ve kültürel şehirdir.");
+insert_bullet_point("");
+set_font_size(18);set_font_italic();set_font_style("Arial");
+choose_title();insert_text("Benim Şehrim- Nanjing");
+insert_picture("Nanjing");align_slide_right();
+create_slide();choose_title();insert_text("Katalog");insert_note("Katalog");
+set_font_italic();set_font_size(24);
+choose_content();insert_text("Bir katalog, çeşitli ürün veya hizmetleri sergileyen, kapsamlı ve görsel olarak çekici bir kaynak görevi görür.");
+set_font_color("green");set_background_color("dark blue");
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("Ürün");choose_table_cell(0, 1);insert_text("Fiyat");choose_table_cell(1, 0);insert_text("gömlek");choose_table_cell(1, 1);insert_text("29,99 TL");choose_table_cell(2, 0);insert_text("elbise");choose_table_cell(2, 1);insert_text("59,99 TL")
+insert_pie_chart([40, 30, 30], ["shirt", "dress", "pants"]);
+insert_line_chart([40, 30, 30], ["shirt", "dress", "pants"]);
+insert_bar_chart([40, 30, 30], ["shirt", "dress", "pants"]);
+
+choose_title();insert_text("mutlu hayatın tadını çıkarın");
+insert_star();set_top("star","title");
+set_font_style("Arial Black");
+choose_content();insert_text("Mutlu bir hayatın tadını çıkarmak, küçük anlarda neşe bulmayı, anlamlı ilişkiler beslemeyi, tutkuların peşinden gitmeyi, sağlıklı bir iş-yaşam dengesini korumayı ve kişisel bakım yapmayı içerir.");set_line_space(2);
+insert_picture("happy_person");align_top_right_corner();
+set_height(4);set_width(5);align_bottom_left_corner();
+
+choose_table();insert_table(5, 1);choose_table_cell(0, 0);insert_text("Maraton Tamamlandı");choose_table_cell(1, 0);insert_text("İlk Kitap Yayınlandı");choose_table_cell(2, 0);insert_text("Yöneticiliğe Yükseltildi");choose_table_cell(3, 0);insert_text("Gönüllü 100+ Saat");choose_table_cell(4, 0);insert_text("Başarılı İş Başlattı");
+choose_title();insert_text("2023'teki büyük başarım");
+choose_content();insert_text("2023'te beklentilerimi aşan önemli kilometre taşları gerçekleştirdim. Bir maraton tamamlamaktan ilk kitabımı yayınlamaya ve terfi almaya kadar, bu başarılar beni daha da büyümek için besliyor ve daha da ileriye gitmem için bana ilham veriyor. daha yüksekler.");
+insert_picture("book");align_slide_top();
+insert_pie_chart([30, 25, 45], ["Maraton", "Kitap", "Gönüllü"]);
+insert_rectangle();set_left("rectangle","chart");
+insert_note("2023");
+
+choose_title();insert_text("Etik Eleştiri");
+set_font_bold();set_font_color("blue");align_slide_bottom();
+insert_picture("mountain_landscape");align_slide_right();
+choose_content();insert_text("Etik edebiyat eleştirisi yöntemi, Central China Normal Üniversitesi'nden Profesör Nie Zhenzhao tarafından önerilen yeni bir yaklaşımdır.");
+set_font_underline();set_font_style("Times New Roman");set_font_size(24);set_line_space(2);
+set_font_color("dark blue");
+insert_rectangle();align_slide_left();
+set_fill_color("green");insert_text("yeşil");
+align_top_right_corner();
+insert_right_arrow();set_right("right_arrow","content");
+
+create_slide();choose_title();insert_text("Ekip Üyeleri");
+insert_picture("team_member");align_slide_bottom();
+set_width(6.5);
+insert_note("Takım üyesi");choose_title();set_font_bold();
+
+create_slide();choose_title();insert_text("Satış Performansı");
+set_font_color("blue");set_font_size(24);set_font_underline();set_background_color("green");
+choose_content();insert_text("Satış performansı, bir şirketin gelir elde etme başarısının önemli bir göstergesidir. Satış ekibinin etkinliğini ve ürün veya hizmetlere yönelik genel pazar talebini yansıtır.");
+set_font_color("dark red");set_font_size(18);
+insert_table(3, 5);choose_table_cell(1, 1);insert_text("Yıl");choose_table_cell(1, 2);insert_text("Çeyrek");choose_table_cell(1, 3);insert_text("Hasılat");choose_table_cell(2, 1);insert_text("2018");choose_table_cell(2, 2);insert_text("Q1");choose_table_cell(2, 3);insert_text("500.000$");
+set_font_size(18);
+
+create_slide();choose_title();insert_text("Satış Raporu");
+insert_line_chart(["Product A","Product B","Product C"], ["Ürün A", "Ürün B", "Ürün C"]);
+set_chart_title("Revenue Trend");
+insert_picture("T-shirt");insert_textbox();insert_text("Tişört");
+insert_star();set_right("star","picture");
+create_slide();choose_title();insert_text("Kuruluş Yapısı");
+insert_table(4,2);choose_table_cell(0,0);insert_text("CEO");choose_table_cell(0,1);insert_text("John Smith");choose_table_cell(1,0);insert_text("CFO");choose_table_cell(1,1);insert_text("Jane Doe");choose_table_cell(2,0);insert_text("COO");choose_table_cell(2,1);insert_text("Tom Jones");choose_table_cell(3,0);insert_text("CMO");choose_table_cell(3,1);insert_text("Sarah Lee");
+choose_title();set_font_underline();move_to_previous_slide();choose_title();set_font_underline();
+set_font_size(20);set_font_color("purple");
+insert_note("Örgütsel yapı");
+set_background_color("green");
+
+create_slide();choose_title();insert_text("Giriş");
+choose_content();insert_text("Bugün bize katıldığınız için teşekkür ederiz. Bunun için heyecanlıyız.");
+insert_text("Burada mısınız ve sizinle bazı heyecan verici haberleri paylaşmak için sabırsızlanıyorum");
+set_font_style("Times New Roman");set_font_size(20);
+insert_picture("landscape");set_height(3);set_width(5);
+insert_triangle();insert_rectangle();set_right("rectangle","triangle");
+set_background_color("purple");insert_note("2023");
+
+choose_title();insert_text("Ürün Lansmanı");set_font_bold();set_font_color("red");
+insert_picture("computer");
+set_height(2);set_width(2);
+choose_content();insert_text("Yeni ürünümüz, son teknolojiyi şık ve kullanıcı dostu bir tasarımla birleştiren son teknoloji bir mobil cihazdır.");
+set_font_bold();set_font_color("red");
+create_slide();choose_title();insert_text("Ürün Özellikleri");
+insert_table(2, 5);choose_table_cell(0, 0);insert_text("Özellik");choose_table_cell(0, 1);insert_text("Tanım");
+insert_bar_chart([0.25,0.50,0.25], ["Ürün A", "Ürün B", "Ürün C"]);
+set_chart_title("Feature Importance");
+set_background_color("light blue");insert_note("Özelliğin Önemi");
+
+create_slide();choose_title();insert_text("Üç Aylık Mali Sonuçlar");
+set_font_style("Arial");
+choose_content();insert_text("Şirketimiz bu çeyrekte 1,5 milyon dolar ciro ve 500.000 dolar kar elde etti.");
+set_font_bold();set_font_underline();
+insert_table(4, 5);
+choose_table();choose_table_cell(0, 0);insert_text("Ay");choose_table_cell(0, 1);insert_text("Gelir");choose_table_cell(0, 2);insert_text("Giderler");choose_table_cell(0, 3);insert_text("Kâr")
+insert_bar_chart([50, 60, 55, 70], series=["Q1 2022", "Q2 2022", "Q3 2022", "Q4 2022"]);
+set_chart_title("Quarterly Financial Results in 2022");
+set_background_color("red");
+create_slide();choose_title();insert_text("Finansal Analiz");
+insert_picture("company_logo");
+choose_content();insert_text("İlginiz için teşekkür ederiz!");set_font_underline();set_font_italic();set_font_size(26);
+
+create_slide();choose_title();insert_text("Satış Verileri");
+insert_bar_chart([500000, 400000, 600000, 450000], ["Bölge A", "Bölge B", "Bölge C", "Bölge D"]);
+set_chart_title("Regional Sales");
+choose_title();set_font_underline();insert_note("Veri kaynağı: Satış Raporu 2023");
+
+create_slide();choose_title();insert_text("Müşteri Anketi");
+insert_pie_chart([0.4, 0.3, 0.2, 0.05, 0.05], ["Çok Memnunum", "Memnun", "Nötr", "Memnun değilim", "Hiç Memnun Değilim"]);
+align_slide_bottom();
+insert_picture("questionnaire");align_slide_top();
+insert_note("2023/5");
+
+choose_title();insert_text("Dilbilimin Büyüsü");set_background_color("light blue");
+choose_title();set_font_style("Arial");set_font_color("red");set_font_size(36);
+insert_text("Dilbilim, dilin ve yapısının bilimsel çalışmasıdır. Fonetik ve sözdiziminden anlambilim ve edimbilime kadar insan iletişiminin inceliklerini araştırır.");
+set_font_style("Verdana");set_font_color("yellow");set_font_size(18);set_line_space(2);
+create_slide();choose_title();insert_text("Dilbilimin Dalları");
+insert_table(3, 4);
+choose_table_cell(0, 0);insert_text("Dilbilim Dalları");choose_table_cell(0, 1);insert_text("Açıklama");choose_table_cell(0, 2);insert_text("Örnekler");choose_table_cell(1, 0);insert_text("Fonetik");choose_table_cell(1, 1);insert_text("Konuşma seslerinin incelenmesi");choose_table_cell(1, 2);insert_text("Artikülatör fonetik, Akustik fonetik, İşitsel fonetik")
+insert_picture("book_about_linguistics");align_slide_bottom();
+set_height(6);set_width(5);
+move_to_slide(0);set_background_color("purple");move_to_slide(1);set_background_color("purple");
+
+set_background_color("light green");choose_title();insert_text("Dil Aileleri");
+set_font_bold();set_font_italic();
+insert_bar_chart([445, 1526,1290, 452], ["Hint-Avrupa", "Nijer-Kongo", "Austronesian", "Sino-Tibet"]);
+set_chart_title("Language familiy and its number of languages");
+create_slide();choose_title();insert_text("Dil Edinimi");set_font_bold();set_font_italic();
+choose_content();insert_text("Dil edinimi, insanların dili algılama, anlama ve üretme yeteneğini kazandığı süreçtir. Doğuştan ve öğrenilmiş mekanizmaları içerir ve çevre ve sosyal etkileşim gibi çeşitli faktörlerden etkilenir.");
+set_font_style("Times New Roman");set_font_color("red");set_font_size(22);
+set_font_underline();set_font_bold();choose_title();set_font_color("red");
+insert_picture("English book");
+insert_rectangle();align_slide_right();
+choose_picture();align_slide_top();
+
+create_slide();choose_title();insert_text("Sonuç");
+choose_title();set_font_style("bold");set_font_style("underline");set_font_color("red");
+choose_content();insert_text(" ");
+set_font_style("Verdana");set_font_color("yellow");
+create_slide();set_background_color("purple");create_slide();set_background_color("purple");create_slide();set_background_color("purple");create_slide();set_background_color("purple");
+move_to_slide(1);choose_title();insert_text("Çin'deki Emlak Politikalarına Genel Bakış");insert_picture("China_map");
+move_to_slide(2);choose_title();insert_text("Son Değişiklikler");set_font_style("italic");set_font_style("Verdana");
+choose_content();insert_text("Çin'deki son değişiklikler, ülkeyi küresel bir güç merkezi olarak konumlandıran ve çeşitli alanlarda küresel dinamikleri etkileyen hızlı ekonomik büyüme, teknolojik ilerlemeler ve sosyal dönüşümler gördü.");
+move_to_slide(3);choose_title();insert_text("Konut Fiyatlarını Kontrol Etme Çabaları");insert_triangle();
+align_top_right_corner();
+move_to_slide(4);choose_title();insert_text("Uygun Fiyatlı Konut Artırma Girişimleri");set_font_color("red");
+choose_content();insert_text("Konutun karşılanabilirlik krizini ele almayı ve herkes için insana yakışır konuta erişimi sağlamayı amaçlayan, devlet sübvansiyonları, kolaylaştırılmış onay süreçleri ve kamu-özel sektör ortaklıkları dahil olmak üzere uygun fiyatlı konutları artırmaya yönelik girişimler uygulandı.");set_font_underline();set_font_italic();
+choose_chart();insert_pie_chart([0.35, 0.25, 0.20, 0.10, 0.10], ["Devlet Destekleri", "Kolaylaştırılmış Onay Süreçleri", "Kamu-Özel Ortaklıkları", "Arazi Kullanım Politikaları", "Kira Yardım Programları"]);
+create_slide();choose_title();insert_text("Mülkiyet Geliştiricileri Yönetmeliği.");insert_note("Mülkiyet Geliştiricileri Yönetmeliği.");
+choose_content();insert_text("Bu slaytta, Çin'in emlak müteahhitlerini düzenlemeye yönelik temel önlemlerini ve hükümetin dolandırıcılığı önleme ve sürdürülebilir kalkınma uygulamalarını teşvik etme eylemlerini özetleyin.");
+choose_title();set_font_italic();choose_content();set_font_bold();
+move_to_slide(0);insert_note("Çin hakkında bilgi");move_to_slide(1);insert_note("Çin hakkında bilgi");move_to_slide(2);insert_note("Çin hakkında bilgi");move_to_slide(3);insert_note("Çin hakkında bilgi");move_to_slide(4);insert_note("Çin hakkında bilgi");move_to_slide(5);insert_note("Çin hakkında bilgi");
+
+move_to_slide(8);choose_title();insert_text("Tıbbi Görüntüleme Ekipmanının Sınır Gelişimi");choose_title();set_font_size(24);
+insert_line_chart([0.15, 0.12, 0.18, 0.20], ['Q1', 'Q2', 'Q3', 'Q4']);
+choose_chart();set_chart_title("Revenue Growth");
+insert_table(5, 2);choose_table_cell(0, 0);insert_text("Özellik 1");choose_table_cell(0, 1);insert_text("Yüksek çözünürlüklü görüntüleme");
+set_background_color("light blue");
+insert_triangle();
+choose_content();insert_text("Tıbbi görüntüleme ekipmanlarının öncü gelişimi, yüksek çözünürlüklü görüntüleme, gelişmiş AI algoritmaları, gerçek zamanlı veri analitiği, gelişmiş hasta konforu, çok modlu entegrasyon ve kolaylaştırılmış iş akışı ile sağlık hizmetlerinde devrim yaratıyor ve tıp uzmanlarını benzeri görülmemiş teşhis yetenekleriyle güçlendiriyor.");
+set_font_bold();set_line_space(2);set_font_underline();set_font_italic();
+insert_note("Mediacal Equipment");
+
+set_background_color("blue");insert_rectangle();
+create_slide();choose_title();insert_text("Antropolojide Yöntem ve Yaklaşımlar");set_font_size(20);
+choose_content();insert_text("Antropoloji, çeşitli araştırma yöntemleri kullanarak insan davranışını, kültürü ve toplumları inceleyen bir sosyal bilimdir");set_line_space(2);
+insert_circle();align_slide_right();
+set_width(4);
+
+create_slide();choose_title();insert_text("Uygun Hidrasyonun Önemi");
+set_font_style("underline");set_font_style("italic");
+set_font_size(24);set_font_style("Arial");
+insert_picture("person_drinking_water");align_slide_right();
+set_width(6.5);insert_textbox();insert_text("Su iç");set_bottom("textbox", "picture");
+set_background_color("purple");create_slide();set_background_color("purple");
+insert_picture("folder");set_width(6.5);set_height(5.5);
+choose_title();insert_text("SmartArt Kullanmanın Yararları");set_font_color("red");set_font_size(40);
+set_font_style("Arial");set_font_style("italic");
+
+choose_title();insert_text("Markanızı Oluşturma");set_background_color("light green");
+choose_content();insert_text("Bir marka oluşturmak, başarılı bir işletmenin kritik bir bileşenidir. Yazı tipi stilini ");set_font_style("Arial");set_font_size(14);
+insert_rectangle();align_slide_right();
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("Marka Kimliği");choose_table_cell(0, 1);insert_text("Marka Mesajı");choose_table_cell(0, 2);insert_text("Marka Sesi");choose_table_cell(0, 3);insert_text("Marka Stratejisi")
+choose_table();copy_table()
+choose_content();set_font_size(14);set_font_style("Times New Roman");
+
+create_slide();choose_title();insert_text("Etkili İletişimin Temelleri");set_font_style("Times New Roman");
+choose_content();insert_text("Anahtar Noktalar");insert_text("Açıklama");
+set_font_size(24);set_font_underline();set_font_bold();
+set_background_color("light orange");
+
+set_background_color("light blue");
+choose_title();insert_text("Tencent Toplantısı");choose_content();insert_text("Tencent Toplantısı");
+set_font_underline();set_font_color("dark red");
+choose_content();delete_text();insert_text("Tencent Meeting, ekipler ve bireyler arasında sorunsuz iş birliği ve iletişimi sağlayan güçlü bir video konferans platformudur. Etkili sanal toplantılar için ekran paylaşımı, sohbet ve kayıt gibi çeşitli özellikler sunar.");
+set_font_bold();set_font_italic();choose_title();set_font_bold();set_font_italic();
+insert_picture("tencent_meeting");
+
+insert_table(2, 3);
+choose_table_cell(0, 0);insert_text("Özellikler");choose_table_cell(0, 1);insert_text("Açıklama");choose_table_cell(0, 2);insert_text("Avantajlar")
+insert_note("APP");set_background_color("purple");
+
+set_background_color("blue");choose_title();insert_text("Kalite Değerlendirmesi");
+choose_content();insert_text("Kalite değerlendirmesi, ürün veya hizmetlerin performansını ve standartlarını değerlendirmede çok önemli bir süreçtir. Kalite kriterlerine bağlılığı ve sürekli iyileştirmeyi sağlamak için kapsamlı analiz, ölçüm ve karşılaştırmayı içerir.");
+insert_picture("checklist");
+set_left("picture","content");
+insert_pie_chart([0.40, 0.15, 0.25, 0.20], ["Mükemmel", "İyi", "Orta", "Kötü"]);
+set_chart_title("Quality Ratings Distribution");
+align_slide_bottom();
+create_slide();insert_pie_chart([0.40, 0.15, 0.25, 0.20], ["Excellent", "Good", "Fair", "Poor"]);set_chart_title("Quality Ratings Distribution");align_slide_bottom();
+
+create_slide();choose_title();insert_text("Projeyi Tamamlama Rehberi");
+insert_right_arrow();align_top_right_corner();
+rotate_element(90);
+move_to_slide(0);choose_title();insert_text("Giriş");set_font_bold();move_to_slide(1);choose_title();set_font_bold();
+move_to_slide(0);insert_note("2022/6/10");
+set_background_color("light blue");insert_cloud();
+
+set_background_color("yellow");
+choose_content();insert_text("Trados Studio, SDL tarafından geliştirilmiş güçlü bir bilgisayar destekli çeviri (CAT) aracıdır. Çeviri belleği, terminoloji yönetimi dahil olmak üzere çeviri sürecini kolaylaştıran bir dizi özellik ve işlevsellik sunar. ve proje yönetimi araçları.");set_line_space(2);
+insert_note("Eva tarafından düzenlendi");choose_title();insert_text("Trados Studio");
+set_font_color("dark green");set_font_size(30);
+insert_picture("Trados_Studio_logo");align_slide_right();
+set_width(4);set_height(3);
+choose_picture();rotate_element(-15);
+set_background_color("purple");
+
+insert_table(2, 3);
+choose_table_cell(0, 0);insert_text("Yıl");choose_table_cell(0, 1);insert_text("Açıklama");choose_table_cell(0, 2);insert_text("Değişiklikler")
+choose_title();insert_text("Geçtiğimiz on yıldaki büyük değişiklikler");
+set_font_bold();set_font_italic();
+set_background_color("light blue");
+
+choose_title();insert_text("Yurtdışında Eğitim Almayı Düşünmeli Misiniz?");set_font_bold();set_font_underline();
+insert_picture("students_studying_abroad");align_slide_bottom();
+set_width(5);set_height(3);
+set_background_color("purple");insert_note("Yurt Dışında Okumayı Düşünmeli misiniz?");
+
+insert_bar_chart([0.45,0.35,0.20], series=["Tam Zamanlı Çevirmenler", "Serbest Çevirmenler", "Çeviri Büroları"]);
+set_chart_title("Trados Studio Usage Statistics");
+create_slide();choose_title();insert_text("ABBYY FineReader");
+set_font_bold();set_font_underline();set_font_size(30);
+choose_content();insert_text("ABBYY FineReader, kullanıcıların taranan belgeleri, PDF dosyalarını ve görüntüleri düzenlenebilir ve aranabilir biçimlere dönüştürmesine olanak tanıyan bir optik karakter tanıma (OCR) yazılımıdır. Gelişmiş metin tanıma ve belge dönüştürme yetenekleriyle, belge işlemeyi basitleştirir ve üretkenliği artırır.");
+set_line_space(2);set_font_italic();
+insert_picture("ABBYY_FineReader_logo");insert_textbox();insert_text("ABBYY FineReader");
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("Özellik");choose_table_cell(0, 1);insert_text("Açıklama");choose_table_cell(0, 2);insert_text("Avantajlar")
+choose_picture();set_right("picture","table");
+insert_pie_chart([0.45,0.45,0.05], ["High Accuracy", "Medium Accuracy", "Low Accuracy"]);
+set_chart_title("Document Conversion Accuracy");
+insert_note("Sayfa 2");
+
+create_slide();choose_title();insert_text("Pazarlama Kampanyası");
+set_font_bold();set_font_underline();set_font_size(26);
+choose_content();insert_text("Pazarlama kampanyamız, marka bilinirliğini artırmayı, hedef kitlemizle etkileşim kurmayı ve satışları artırmayı amaçlıyor. Çevrimiçi ve çevrimdışı pazarlama kanallarının stratejik bir karışımıyla, etkili mesajlar ve ölçülebilir sonuçlar sunmaya odaklandık. .");
+align_slide_left();
+insert_picture("promotional_banner");insert_textbox();insert_text("promosyon_banner");
+set_width(5);set_height(5);
+set_background_color("green");
+
+choose_title();insert_text("Sürdürülebilir Enerji");set_font_color("red");
+insert_picture("wind_turbine");set_width(6);
+insert_table(4, 3);choose_table_cell(0,0);insert_text("rüzgâr");choose_table_cell(1,0);insert_text("güneş");choose_table_cell(2,0);insert_text("hidro");choose_table_cell(3,0);insert_text("jeotermal");choose_table_cell(0,1);insert_text("düşük maliyetli");choose_table_cell(1,1);insert_text("düşük çevresel etki");choose_table_cell(2,1);insert_text("yüksek kullanılabilirlik");choose_table_cell(0,2);insert_text("yüksek başlangıç ​​yatırımı");choose_table_cell(1,2);insert_text("aralıklı kullanılabilirlik");choose_table_cell(2,2);insert_text("arazi kullanım çatışmaları");
+set_top("picture", "table");
+create_slide();choose_title();insert_text("Çevrimiçi Alışveriş");set_font_color("red");
+choose_content();insert_text("Online alışveriş, internet üzerinden satıcılardan mal ve hizmet satın alma işlemidir. Kolaylığı ve erişilebilirliği nedeniyle giderek daha popüler hale gelmiştir.");
+choose_title();set_font_color("blue");set_font_bold();set_line_space(2);
+create_slide();insert_picture("TV_series");set_width(6);
+set_background_color("blue");insert_note("TV Dizileri Hakkında");
+
+choose_title();insert_text("Sağlıklı Beslenme Alışkanlıkları");set_background_color("dark blue");
+choose_content();insert_text("Videoyu başlatmak için oynat'a basın");set_font_style("Verdana");
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("Yemek Grubu");choose_table_cell(0, 1);insert_text("Önerilen Porsiyonlar")
+align_slide_bottom();
+insert_picture("laptop");
+insert_rectangle();set_height(2);
+rotate_element(-45);
+
+choose_content();insert_text("Sonuç olarak, TV hizmetleri, çok çeşitli içerik seçenekleri ve kolaylık sağlayarak eğlenceyi tüketme biçimimizde devrim yarattı.");
+set_font_style("Futura");
+choose_title();insert_text("Sonuç");set_font_bold();
+insert_picture("colorful_plate");
+align_slide_bottom();
+set_background_color("green");
+
+create_slide();set_background_color("purple");
+choose_title();insert_text("Dezavantaj");
+set_font_bold();set_font_size(24);set_font_style("Arial");
+insert_note("2023/3/9");
+insert_pie_chart([0.30, 0.25, 0.15, 0.5, 0.25], ["Meyveler", "Sebzeler", "Tahıllar", "Proteinler", "Süt Ürünleri"]);
+align_slide_bottom();
+insert_textbox();insert_text("Çok fazla yemek yemenin dezavantajı, sizi şişmanlatmasıdır.");set_bottom("textbox", "chart");
+choose_chart();set_chart_title("Daily Food Group Servings");
+
+insert_right_arrow();set_width(3.5);
+rotate_element(-90);
+align_slide_right();
+
+choose_title();insert_text("Teknoloji Trendleri");set_font_underline();
+set_font_color("green");set_font_size(26);
+choose_content();insert_text("Günümüzün hızla gelişen dijital ortamında en son teknoloji trendlerine ayak uydurmak çok önemlidir. Yapay zeka ve blockchain'den bulut bilişime ve Nesnelerin İnterneti'ne kadar bu trendler endüstrileri şekillendiriyor ve kullanma biçimimizde devrim yaratıyor. yaşa, çalış ve dünyayla bağlantı kur.");
+set_background_color("green");
+insert_picture("interconnected_networks");
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("Teknoloji Trendi");choose_table_cell(0, 1);insert_text("Açıklama");choose_table_cell(0, 2);insert_text("Etki")
+insert_line_chart([15,10,7,6,24], ["Mobil Cihazlar", "İnternet Kullanıcıları", "Yapay Zeka Uygulamaları", "Bulut Hizmetleri", "Akıllı Ev Cihazları"]);
+set_chart_title("Technology Values");
+insert_pie_chart([15,10,7,6,24], ["Mobile Devices", "Internet Users", "AI Applications", "Cloud Services", "Smart Home Devices"]);set_chart_title("Technology Values");
+
+set_background_color("green");
+choose_title();insert_text("Sürdürülebilir Yaşam");set_font_italic();
+insert_picture("solar_panel");align_slide_left();
+choose_content();insert_text("Sürdürülebilir yaşam, çevreyi korumak ve gelecek nesiller için daha iyi bir gelecek sağlamak için sorumlu tüketimi, yenilenebilir enerjiyi ve çevre dostu uygulamaları teşvik eder. Günlük hayatımızda bilinçli seçimler yaparak, çevreyi azaltabiliriz. karbon ayak izimizi ve daha sürdürülebilir bir dünya yaratmak.");
+set_font_color("dark orange");
+insert_line_chart([1.6, 2.4, 4.8, 11], ["2013", "2014", "2015", "2016"]);
+set_chart_title("Renewable Energy Consumption Trend");
+set_bottom("chart","title");
+insert_cloud();rotate_element(-30);
+
+insert_table(3, 4);
+choose_table_cell(0,0);insert_text("Dengeli Diyet");choose_table_cell(1,0);insert_text("Porsiyon Kontrolü");choose_table_cell(2,0);insert_text("Hidrasyon");
+insert_picture("green_city");
+align_slide_top();
+choose_table();align_slide_bottom();
+
+choose_title();insert_text("Proje Yönetimi");
+insert_picture("team");
+choose_title();set_font_underline();set_font_italic();
+choose_picture();align_top_left_corner();
+
+create_slide();choose_title();insert_text("Proje İlerleme Raporu");
+insert_table(5, 3);choose_table_cell(0, 0);insert_text("Görev Adları");choose_table_cell(0, 1);insert_text("Son Tarihler");choose_table_cell(0, 2);insert_text("İlerleme Durumu")
+set_background_color("purple");choose_title();set_font_color("green");
+
+choose_title();insert_text("Üniversite ve Meslek Okulu");
+set_font_size(36);set_font_underline();
+choose_content();insert_text("Üniversite ve meslek okulları, öğrencilerini başarılı kariyerler için gerekli bilgi ve becerilerle donatmak için yüksek öğrenim ve uzmanlık eğitimi sağlar. Kişisel gelişimi ve kariyer gelişimini desteklemek.");
+set_line_space(2);
+set_background_color("purple");
+
+insert_picture("professional_school");
+align_slide_right();
+insert_triangle();align_slide_left();
+set_width(10);set_height(15);
+set_bottom("picture","triangle");
+
+create_slide();set_background_color("blue");
+choose_title();insert_text("NFC");set_font_bold();
+choose_content();insert_text("NFC (Yakın Alan İletişimi), yakınlardaki cihazlar arasında kesintisiz kablosuz iletişim sağlar.");
+set_font_color("dark green");set_font_size(20);
+insert_picture("nfc_logo");
+set_background_color("purple");
+choose_picture();set_right("picture","slide");
+
+insert_table(2, 4);choose_table();choose_table_cell(0, 0);insert_text("Ürün");choose_table_cell(0, 1);insert_text("Gelir");choose_table_cell(0, 2);insert_text("Satılan Birimler");choose_table_cell(0, 3);insert_text("Kar Marjı")
+set_background_color("light blue");
+
+insert_line_chart([500000, 1300000, 2500000, 4000000], series=["2018", "2019", "2020", "2021"]);
+set_chart_title("NFC Device Growth");
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("Temassız Ekle");choose_table_cell(0, 1);insert_text("Dokunmatik işlemlere olanak sağlar");choose_table_cell(0, 2);insert_text("İkinci sıraya rahat ve hızlı ödemeler")
+insert_star();set_width(6.5);set_height(6.5);
+align_slide_top();
+align_slide_right();
+
+choose_title();insert_text("Kargaşayı Kucaklamak");set_font_bold();
+set_font_size(20);set_font_style("Times New Roman");
+insert_picture("futuristic_cityscape");
+align_slide_bottom();
+insert_note("[Adınız] tarafından düzenlendi");set_background_color("purple");
+set_background_color("light blue");
+
+choose_title();insert_text("Güç Bankası");align_top_left_corner();
+set_font_size(24);set_font_italic();
+choose_content();insert_text("Güç bankası, akıllı telefonlar, tabletler ve diğer elektronik cihazlar için hareket halindeyken şarj sağlayan taşınabilir bir cihazdır.");
+set_font_underline();set_line_space(2);set_font_size(24);set_font_color("orange");
+insert_picture("yoobao_power_bank");align_slide_bottom();
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("Marka");choose_table_cell(0, 1);insert_text("Kapasite (mAh)");choose_table_cell(0, 2);insert_text("Çıkış Portları");choose_table_cell(0, 3);insert_text("Fiyat ($)")
+insert_pie_chart([0.40, 0.30, 0.20, 0.10], ["A Markası", "B Markası", "C Markası", "Diğerleri"]);
+set_chart_title("Power Bank Market Share");
+insert_note("2023");
+insert_callout();align_slide_right();
+
+choose_title();insert_text("NBA");set_font_color("red");
+choose_content();insert_text("Ulusal Basketbol Birliği (NBA), Kuzey Amerika'dan 30 takımdan oluşan profesyonel bir basketbol ligidir.");
+set_font_size(20);
+align_bottom_left_corner();
+
+insert_picture("basketball_court");
+align_slide_top();
+insert_textbox();insert_text("Basketbol sahası");set_background_color("blue");
+insert_table(4,3);
+choose_table();insert_table_row(["Takım", "Şehir", "Şampiyonalar"]);insert_table_row(["Los Angeles", "Lakers", "17"]);insert_table_row(["Boston", "Celtics", "17"]);insert_table_row(["Chicago", "Bulls", "6"])
+insert_bar_chart([17, 17, 6], ["Lakers", "Celtics", "Bulls"]);
+set_chart_title("NBA Championships Distribution");
+create_slide();choose_title();insert_text("Otonom Sürüşe Giriş");set_font_underline();
+insert_picture("futuristic_self-driving_car");set_height(7);
+choose_content();insert_text("Kendi kendine sürüş veya sürücüsüz teknoloji olarak da bilinen otonom sürüş, insan müdahalesi olmadan seyredebilen ve çalışabilen araçları ifade eder.");
+align_bottom_left_corner();
+insert_right_arrow();set_left("right_arrow", "content");
+set_right("right_arrow", "content");
+
+choose_content();insert_text("Otonom sürüş, gelişmiş güvenlik, rahatlık ve verimlilik sunarak ulaşım endüstrisinde devrim yaratıyor.");
+set_font_size(18);set_font_bold();set_font_italic();
+set_font_underline();set_line_space(2);
+insert_table(2, 5);choose_table();choose_table_cell(0, 0);insert_text("Sensör Tipleri");choose_table_cell(0, 1);insert_text("Lidar");choose_table_cell(0, 2);insert_text("Radar");choose_table_cell(0, 3);insert_text("Kameralar");choose_table_cell(0, 4);insert_text("Toplam")
+choose_content();set_font_style("Times New Roman");
+insert_pie_chart([0.40, 0.30, 0.30], ["Lidar", "Radar", "Cameras"]);
+set_chart_title("Sensor Types in Autonomous Driving");
+insert_note("Otonom Sürüşte Sensör Tipleri");
+
+choose_title();insert_text("Otonom Sürüş");
+insert_picture("company_logo");align_bottom_left_corner();
+set_width(6.5);set_height(6);
+create_slide();choose_title();insert_text("Bölgeye Göre Otonom Sürüş Benimseme");
+set_font_style("Calibri");set_font_size(32);
+choose_content();insert_text("Otonom sürüş teknolojileri ulaşım ortamını dönüştürüyor, endüstrilerde devrim yaratıyor ve güvenlik ile verimliliği artırıyor.");
+set_font_color("dark orange");
+
+create_slide();choose_title();insert_text("Ekmenin Gücü.");set_font_style("Calibri");set_font_size(36);
+set_background_color("green");
+choose_content();insert_text("Bitki dikmek yalnızca çevremizi güzelleştirmekle kalmaz, aynı zamanda çevresel sürdürülebilirliği destekler ve çok sayıda sağlık yararı sağlar.");
+set_font_color("green");choose_title();set_font_color("green");
+insert_picture("lush_garden");
+insert_pie_chart([0.40, 0.30, 0.30], ["Çevre", "Sağlık", "Topluluk"]);
+set_chart_title("Planting Benefits");
+set_bottom("chart", "picture");
+insert_right_arrow();rotate_element(60);
+set_height(2);set_width(4);insert_note("Sayfa 2");
+
+insert_table(3, 4);
+choose_table();insert_table_row(["Planting Benefits", "Environmental", "Sağlık", "Topluluk"])
+set_background_color("green");
+choose_title();insert_text("Diğer Bilgiler");
+set_font_color("dark orange");set_font_underline();
+choose_title();align_top_left_corner();
+
+insert_picture("GoogleLogo");insert_textbox();insert_text("Google");
+choose_content();insert_text("Google ve Microsoft Edge, benzersiz özellikler ve işlevler sunan iki popüler web tarayıcısıdır. Google Chrome, hızı ve kapsamlı ekosistemi ile pazara hakimken, Microsoft Edge, sorunsuz bir tarama deneyimi ve sıkı bir gezinme deneyimi sunmayı amaçlamaktadır. Windows işletim sistemleri ile entegrasyon.");
+set_font_size(16);
+choose_title();insert_text("Google vs Microsoft Edge");set_font_color("red");
+choose_picture();align_bottom_left_corner();
+insert_table(3, 3);choose_table_cell(0, 0);insert_text("Özellikler");choose_table_cell(0, 1);insert_text("Google Chrome");choose_table_cell(0, 2);insert_text("Microsoft Edge");choose_table_cell(1, 0);insert_text("Hız");choose_table_cell(1, 1);insert_text("Yüksek");choose_table_cell(1, 2);insert_text("Orta");choose_table_cell(2, 0);insert_text("Ekosistem");choose_table_cell(2, 1);insert_text("Kapsamlı");choose_table_cell(2, 2);insert_text("Entegre")
+insert_bar_chart([0.50, 0.25, 0.25], ["Google Chrome", "Microsoft Edge", "Others"]);
+set_chart_title("Web Browser Market Share");insert_note("Sayfa 1");
+
+set_background_color("blue");choose_title();insert_text("Ağ İletişimi ve LinkedIn");
+choose_content();insert_text("Ağ oluşturma, kariyer gelişiminde çok önemli bir rol oynar ve LinkedIn, profesyonel ağ oluşturma için güçlü bir platformdur. Dünya çapında milyonlarca kullanıcısı olan LinkedIn, profesyonellerle bağlantı kurmak, becerileri sergilemek ve iş fırsatlarını keşfedin.");
+choose_title();set_font_color("dark red");choose_content();set_font_color("light red");
+choose_title();set_font_style("Arial");choose_content();set_font_style("Arial");
+choose_title();set_font_underline();choose_content();set_font_italic();set_font_size(24);
+insert_pie_chart([0.30,0.20,0.15,0.10,0.25], ["Teknoloji", "Finans", "Sağlık Hizmetleri", "Pazarlama", "Diğer"]);
+set_chart_title("LinkedIn User Distribution");
+insert_line_chart([0.30,0.20,0.15,0.10,0.25],["Technology", "Finance", "Healthcare", "Marketing", "Others"]);
+insert_bar_chart([0.30,0.20,0.15,0.10,0.25],["Technology", "Finance", "Healthcare", "Marketing", "Others"]);
+
+create_slide();choose_title();insert_text("Farklı Pişiriciler");
+choose_content();insert_text("Farklı pişirme ihtiyaçlarını karşılayan çeşitli ocak türleri mevcuttur. Geleneksel ocaklardan gelişmiş elektrikli ocaklara ve modern indüksiyonlu ocaklara kadar her tür benzersiz özellikler ve faydalar sunar.");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("Ocak Tipi");choose_table_cell(0, 1);insert_text("Özellikler");choose_table_cell(0, 2);insert_text("Faydaları");choose_table_cell(1, 0);insert_text("Set üstü ocağı");choose_table_cell(1, 1);insert_text("Gazlı veya elektrikli brülörleri");choose_table_cell(1, 2);insert_text("Hassas ısı kontrolü")
+insert_pie_chart([0.40, 0.25, 0.20, 0.10, 0.5], ["Ocak", "Elektrikli Ocak", "İndüksiyonlu Ocak", "Yavaş Pişirici", "Fritöz"]);
+set_chart_title("Cooker Type Popularity");
+insert_picture("stovetop");
+set_width(7);set_height(6);
+align_slide_right();
+align_slide_left();
+move_to_slide(0);set_background_color("green");
+
+choose_title();insert_text("Oreo'nun Zevkini Keşfedin");
+set_font_bold();set_font_italic();
+set_font_size(30);
+choose_content();insert_text("İkonik sandviç kurabiyesi Oreo, her yaştan insanın favori ikramı olmuştur. Çikolatalı gofret ve krema dolgusunun karşı konulamaz kombinasyonu ile Oreo, herkese keyif veren enfes bir atıştırma deneyimi sunuyor. ısırmak.");
+set_font_color("dark blue");
+insert_picture("Oreo");
+align_top_right_corner();
+insert_star();align_top_left_corner();
+insert_pie_chart([0.40,0.10,0.50], ["Orijinal", "Nane", "Fıstık Ezmesi"]);insert_line_chart([0.40,0.10,0.50],["Original","Mint","Peanut Butter"]);
+insert_bar_chart([0.40,0.10,0.50],["Original","Mint","Peanut Butter"]);set_chart_title("Oreo Flavor Popularity");
+
+set_background_color("purple");
+choose_title();insert_text("Mevsimsel Değişiklikler");set_font_bold();set_font_italic();
+choose_content();insert_text("Mevsimsel farklılıklar hayatımıza ayrı bir çekicilik katar. İlkbaharın canlı renklerinden yazın sıcacık tonlarına, sonbaharın sıcacık ambiyansına ve kışın dingin manzaralarına kadar her mevsim bir başka güzellik sunar. Eşsiz bir deneyim. Yıl boyunca doğanın dönüşümünün güzelliğini kucaklayın.");
+set_font_style("Arial");set_font_size(18);
+insert_table(4, 4);choose_table_cell(0, 0);insert_text("Sezon");choose_table_cell(0, 1);insert_text("Ortalama Sıcaklık");choose_table_cell(0, 2);insert_text("Temel Özellikler");choose_table_cell(0, 3);insert_text("Aktiviteler")
+insert_callout();align_slide_left();
+
+choose_title();insert_text("Guangdong'da Hava Durumu: Çeşitlilik İklimi");
+align_top_left_corner();
+choose_content();insert_text("Guangdong, yıl boyunca çok çeşitli hava koşulları yaşar. Sıcak ve güneşli günlerden ara sıra yağışlara, sisli sabahlara ve bulutlu gökyüzüne kadar, Guangdong'un iklimi çeşitli ve dinamiktir. Bu canlı bölgedeki farklı mevsimleri ve hava durumunu keşfedin.");set_line_space(2);
+insert_picture("beach");align_top_right_corner();
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("Mevsim");choose_table_cell(0, 1);insert_text("Ortalama Sıcaklık");choose_table_cell(1, 0);insert_text("Yaz");choose_table_cell(1, 1);insert_text("20-28°C")
+set_background_color("purple");
+choose_table();align_slide_bottom();
+insert_cloud();align_slide_left();
+
+insert_picture("sunrise");
+set_width(6);set_height(6);
+choose_title();insert_text("Pozitif Düşünmenin Gücü: İyimserliği Kucaklamak");set_font_italic();set_font_bold();
+choose_content();insert_text("Olumlu düşünme, iyimserlik, dayanıklılık ve kendine inanmaya odaklanan bir zihniyettir. Olumlu düşünce ve tutumlar geliştirerek, refahımızı artırabilir, zorlukların üstesinden gelebiliriz. , ve daha mutlu ve tatmin edici bir yaşam yaratın. Pozitif düşünmenin gücünü kucaklayın ve gerçek potansiyelinizi ortaya çıkarın.");set_font_italic();set_font_bold();
+set_font_color("purple");set_font_size(20);
+insert_note("pozitif düşünme");
+
+insert_table(4, 3);choose_table();choose_table_cell(0, 0);insert_text("Faydalar");choose_table_cell(0, 1);insert_text("Açıklama");choose_table_cell(0, 2);insert_text("Örnekler");choose_table_cell(1, 0);insert_text("Geliştirilmiş refah")
+choose_content();insert_text("Olumlu düşünme, iyimserlik, dayanıklılık ve kendine inanmaya odaklanan bir zihniyettir. Olumlu düşünce ve tutumlar geliştirerek, refahımızı artırabilir, zorlukların üstesinden gelebilir ve daha mutlu ve daha tatmin edici bir hayat. Pozitif düşüncenin gücünü kucaklayın ve gerçek potansiyelinizi ortaya çıkarın.");
+set_font_italic();set_font_color("light blue");
+set_background_color("light green");
+choose_title();insert_text("Tanım");set_font_bold();
+align_top_left_corner();
+insert_picture("laugh");align_slide_right();
+
+choose_title();insert_text("Çöp Sınıflandırması: Sürdürülebilir Atık Yönetimini Teşvik Etmek");choose_content();insert_text("Çöp sınıflandırması, sürdürülebilir atık yönetimini teşvik etmede çok önemli bir uygulamadır. Atıkları uygun şekilde ayırarak ve bertaraf ederek çevre kirliliğini azaltabilir, kaynakları koruyabiliriz. , ve daha temiz ve sağlıklı bir gezegene katkıda bulunun.Çöp sınıflandırmasının sorumluluğunu üstlenin ve çevremiz üzerinde olumlu bir etki yaratın.");
+set_font_color("orange");set_font_underline();
+set_font_size(18);
+choose_title();set_font_style("Times New Roman");choose_content();set_font_style("Times New Roman");
+insert_right_arrow();align_bottom_right_corner();
+set_width(4.0);set_height(3.0);
+rotate_element(-90);
+insert_bar_chart([60, 50, 45, 40, 40], series=["Kağıt", "Plastik", "Cam", "Metaller", "Organik Atık"]);set_chart_title("Waste Material Recycling Rates.");
+insert_picture("recycling_bin");
+create_slide();set_background_color("purple");
+choose_title();insert_text("Organik Atık");set_font_size(18);
+choose_content();insert_text("Organik atık, sürdürülebilir yaşamda önemli bir rol oynar. Gıda artıkları, bahçe atıkları ve tarımsal artıklar gibi organik malzemeleri kompost haline getirerek, çöplük atıklarını azaltabilir, toprak kalitesini zenginleştirebilir ve besin döngüsünü kapatabiliriz. • Kompostlama uygulamasını benimseyin ve daha yeşil bir geleceğe katkıda bulunun.");
+
+create_slide();choose_title();insert_text("Oldroyd's film of Lady Macbeth");set_font_bold();
+set_font_size(28);set_font_underline();
+choose_content();insert_text("Birch'ün senaryosu, Leskov anlatısına birkaç büyük değişiklik getiriyor. Örneğin Birch ve Oldroyd, Sibirya bölümlerini tamamen ortadan kaldırıyor ve Katherine'in intiharını kesmeyi seçiyor.");
+set_font_size(20);set_font_bold();
+choose_title();set_font_color("red");choose_content();set_font_color("yellow");
+insert_picture("Lady Macbeth");
+set_width(8);set_height(8);
+set_right("picture","content");
+set_left("picture","content");
+insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("Film Karakteri");choose_table_cell(0, 1);insert_text("Aktör/Oyuncu");choose_table_cell(1, 0);insert_text("Lady Macbeth");choose_table_cell(1, 1);insert_text("Florence Pugh");choose_table_cell(2, 0);insert_text("Macbeth");choose_table_cell(2, 1);insert_text("Cosmo Jarvis")
+insert_note("1 Mayıs");
+set_background_color("purple");
+
+create_slide();choose_title();insert_text("Egzersizin Önemi");set_font_underline();
+set_font_size(24);set_font_color("green");
+choose_content();insert_text("Düzenli egzersiz kardiyovasküler sağlığı iyileştirebilir, ruh halini yükseltebilir ve enerji düzeylerini yükseltebilir.");
+set_font_size(20);set_font_bold();
+set_font_color("red");
+insert_picture("exercise");
+insert_pie_chart([0.10,0.30,0.50,0.10], ["Kardiyovasküler Sağlık", "Kas Gücü", "Zihinsel Esenlik", "Hastalık Önleme"]);
+insert_table(5,2);choose_table_cell(0,0);insert_text("Egzersiz Türleri");choose_table_cell(0,1);insert_text("Faydalar");
+set_right("table","picture");
+insert_star();set_background_color("purple");
+align_bottom_left_corner();
+set_width(8);set_height(4);
+
+create_slide();choose_title();insert_text("Okuma Faydaları");set_font_size(24);set_font_underline();
+choose_content();insert_text("Okumak bilişsel işlevi geliştirebilir, empatiyi artırabilir ve stresi azaltabilir.");
+set_font_bold();set_font_italic();
+set_font_style("Arial");set_font_color("green");
+insert_picture("person_reading");
+insert_bar_chart([1400, 992, 400, 661, 234], ["Kurgu", "Kurgu Dışı", "Biyografiler", "Kendi Kendine Yardım", "Fantazi"]);
+set_chart_title("Book sales");
+insert_table(3, 3);
+choose_table_cell(0, 0);insert_text("Okuma Faydaları");choose_table_cell(1, 0);insert_text("bilgi geliştirme");choose_table_cell(2, 0);insert_text("kelime haznesi arttırma");
+set_background_color("red");
+insert_note("Kitap okumak");
+create_slide();set_background_color("red");insert_picture("clock");
+set_width(10);set_height(15);
+insert_note("OKUMA HAKKINDA");
+
+create_slide();choose_title();insert_text("Gönüllülüğün Faydaları");set_font_underline();
+choose_title();set_font_color("dark red");set_font_size(30);
+choose_content();insert_text("Gönüllülük, mutluluğu artırabilir, sosyal becerileri geliştirebilir ve bir amaç duygusu sağlayabilir.");
+set_font_color("green");
+set_font_bold();set_font_size(18);
+align_bottom_left_corner();
+insert_picture("volunteers");
+align_bottom_left_corner();
+insert_table(3, 3);choose_table_cell(0, 0);insert_text("Faydalar");choose_table_cell(1, 0);insert_text("kişisel Gelişim");choose_table_cell(2, 0);insert_text("sosyal bağlantılar");
+choose_content();set_font_bold();set_font_size(20);
+insert_bar_chart([25, 45, 10, 15, 5], ["toplum hizmeti", "eğitim", "sağlık", "çevre koruma", "afet yardımı"]);
+set_chart_title("Volunteergin Importance");
+
+set_background_color("purple");
+choose_title();insert_text("CAJ Biçimi");set_font_underline();set_font_italic();
+set_font_color("purple");
+choose_content();insert_text("CAJ formatı, Çin'de akademik makaleler ve araştırma belgeleri için yaygın olarak kullanılan bir dosya formatıdır. Verimli paylaşım ve yayınlama için standart bir yapı ve düzen sağlar.");
+set_line_space(2);
+set_font_style("Arial");set_font_bold();
+set_font_color("green");
+align_slide_top();
+insert_picture("sample_caj");
+align_top_right_corner();
+insert_table(2,3);
+choose_table_cell(0, 0);insert_text("Bölüm");choose_table_cell(0, 1);insert_text("Başlık");choose_table_cell(0, 2);insert_text("İçerik")
+create_slide();insert_bar_chart([30, 25, 20, 15, 10], ["CAJ", "PDF", "DOC", "PPT", "XLS"]);
+set_chart_title("File Format Usage");
+insert_note("Dosya Biçimlendir");set_background_color("purple");
+
+choose_content();insert_text("Günlük tutma stresi azaltabilir, hafızayı geliştirebilir ve kişisel farkındalığı artırabilir.");
+set_font_underline();set_font_size(18);set_font_color("purple");
+choose_title();insert_text("Günlük");
+set_font_italic();set_font_style("Arial");
+insert_picture("person_writing");
+align_slide_bottom();
+insert_star();align_slide_right();
+rotate_element(60);
+
+create_slide();choose_title();insert_text("Bahçeciliğin Faydaları");set_font_size(28);set_font_bold();
+choose_content();insert_text("Bahçecilik stresi azaltabilir, fiziksel sağlığı iyileştirebilir ve yaratıcılığı artırabilir.");
+set_font_italic();set_font_style("Arial");
+insert_cloud();align_slide_right();
+set_left("cloud","title");
+insert_picture("person_working_in_garden");set_width(10);
+create_slide();set_background_color("light blue");
+insert_triangle();align_slide_left();
+set_height(15);rotate_element(45);
+
+create_slide();choose_title();insert_text("Bilişim Şirketleri");
+set_font_style("Times");set_font_bold();set_font_size(32);
+insert_picture("Apple Company Logo");set_height(2);set_width(2);
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("2020");choose_table_cell(0, 1);insert_text("2021");choose_table_cell(0, 2);insert_text("2022");choose_table_cell(1, 0);insert_text("274B");choose_table_cell(1, 1);insert_text("365B");choose_table_cell(1, 2);insert_text("394B")
+

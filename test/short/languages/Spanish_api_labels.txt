@@ -1,0 +1,1877 @@
+choose_title();align_bottom_left_corner();insert_text("Evaluación humana");
+choose_content();insert_text("Generalmente, la traducción es calificada de forma anónima por varios revisores, y luego la puntuación final se obtiene combinando los resultados de la evaluación de todos los revisores");
+insert_table(2, 2);
+choose_table_cell(0, 0);insert_text("Ventajas");choose_table_cell(1, 0);insert_text("Desventajas");choose_table_cell(0, 1);insert_text("Refleja con precisión la calidad de traducción de las oraciones, la más autorizada, la más alta credibilidad");choose_table_cell(1, 1);insert_text("Evaluación a largo plazo");
+choose_content();set_font_size(20);set_font_style("Arial");
+insert_picture('coffee');align_slide_left();
+align_slide_right();
+create_slide();choose_title();insert_text("Estándar de calificación");choose_content();insert_text("Evaluación directa");insert_text("Clasificación relativa");
+choose_title();set_font_color("green");choose_content();insert_bullet_point("");insert_bullet_point("");
+choose_title();set_font_size(24);choose_content();set_font_size(20);
+
+insert_picture('tower');align_slide_bottom();
+choose_title();insert_text("Contenido");set_top("title","picture");
+insert_rectangle();set_fill_color("green");
+choose_title();set_font_color("green");
+set_font_size(24);
+set_font_style("Arial");set_font_size(48);
+set_font_style("Microsoft New Tai Lue");
+
+set_background_color("green");
+insert_cloud();align_slide_bottom();
+choose_content();insert_text("Corres tan lento");
+insert_picture('rabbit');align_slide_right();
+choose_content();insert_text("Un día, hay una carrera entre un conejo y una tortuga");
+create_slide();choose_content();insert_text("Algún día ganaré");align_slide_top();
+
+insert_picture('study');align_slide_center();
+insert_rectangle();align_slide_center();
+choose_title();insert_text("League of Legends");choose_content();insert_text("League of Legends es un juego basado en equipos con más de 140 campeones para hacer jugadas épicas. Juega ahora gratis. Juega gratis");
+choose_title();set_font_style("Times New Roman");set_font_size(24);
+choose_picture();set_width(6);set_height(5);
+rotate_element(15);
+create_slide();insert_picture('boy_holding_book');
+align_slide_center();
+choose_title();insert_text("Cómo desempeñarse mejor en la escuela");
+
+insert_cloud();align_slide_left();
+insert_picture("clock");align_slide_right();
+set_background_color("light blue");choose_title();insert_text("Inteligencia artificial");
+choose_content();insert_text("El impacto de la inteligencia artificial en la sociedad es ampliamente debatido. Muchos argumentan que la IA mejora la calidad de la vida cotidiana al realizar tareas rutinarias e incluso complicadas mejor que los humanos, haciendo la vida más simple, segura y eficiente. . ");
+set_font_color("light green");
+
+create_slide();choose_title();insert_text("Programar en marzo");set_font_color("red");
+set_font_size(28);set_font_color("dark blue");
+insert_table(1, 3);choose_table_cell(0, 0);insert_text("estudio del 1 al 10");choose_table_cell(0, 1);insert_text("trabajo del 11 al 20");choose_table_cell(0, 2);insert_text("viaje del 21 al 31");
+choose_title();set_font_style("Arial");
+insert_picture('happy_boy');set_right("picture","table");
+set_background_color("blue");
+choose_picture();set_width(6.5);set_height(5);
+set_background_color("yellow");
+
+create_slide();choose_title();insert_text("Los beneficios de la meditación");
+insert_picture('meditation');align_slide_center();
+choose_content();insert_text("La meditación es una técnica simple pero poderosa que puede ayudarte a lograr un estado de paz interior y tranquilidad");
+set_font_size(24);set_font_color("dark blue");
+insert_rectangle();set_right("rectangle", "content");
+set_background_color("light green");
+create_slide();set_background_color("light green");choose_title();insert_text("Tipos de meditación");
+set_font_style("Arial");
+insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("Meditación de atención plena");choose_table_cell(1, 0);insert_text("Meditación trascendental");choose_table_cell(2, 0);insert_text("Meditación de escaneo corporal");
+
+create_slide();set_background_color("green");
+insert_picture('grassland');align_slide_left();
+set_width(6.5);set_height(5.5);choose_title();insert_text("Las funciones de los bosques");
+set_font_color("orange");set_font_size(40);
+insert_right_arrow();align_slide_top();
+
+create_slide();insert_table(2, 2);
+choose_table_cell(0,0);insert_text("Tipo de árbol");choose_table_cell(0,1);insert_text("Usos");choose_table_cell(1,0);insert_text("diferentes tipos de árboles");choose_table_cell(1,1);insert_text("Diferentes colores de hojas");
+choose_content();insert_text("¡Recuerda plantar un árbol hoy!");
+set_font_size(20);set_font_color("green");set_font_underline();
+
+create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");
+move_to_slide(0);choose_title();insert_text("Familia feliz");set_font_style("Microsoft JhengHei");
+move_to_slide(1);insert_picture('family');
+move_to_slide(2);insert_table(2, 2);
+choose_table_cell(0, 0);insert_text("Padre");choose_table_cell(0, 1);insert_text("Madre");choose_table_cell(1, 0);insert_text("Abuelo");choose_table_cell(1, 1);insert_text("Hijos");
+
+create_slide();choose_title();insert_text("Plan de negocios");
+insert_picture('light_bulb');align_slide_left();
+set_width(3);choose_content();insert_text("El espíritu empresarial es el proceso de diseño, lanzamiento y gestión de una nueva empresa, que suele ser inicialmente una pequeña empresa. Las personas que crean estas empresas se denominan empresarios");
+set_font_size(20);set_font_color("green");
+set_background_color("dark blue");
+insert_circle();set_fill_color("red");
+choose_content();insert_text("Un plan de negocios es un documento escrito que describe en detalle cómo un negocio, generalmente uno nuevo, va a lograr sus objetivos");
+choose_title();set_font_size(18);choose_content();set_font_size(18);
+insert_table(3, 4);
+choose_table_cell(0, 0);insert_text("Mezcla de marketing");choose_table_cell(0, 1);insert_text("Mercado objetivo");choose_table_cell(0, 2);insert_text("Precio");choose_table_cell(0, 3);insert_text("Promoción");
+
+create_slide();set_background_color("light blue");
+choose_content();insert_text("La marca del producto es el desarrollo de una marca distintiva para un producto determinado con la intención de llegar a los consumidores objetivo de una marca");
+set_font_italic();set_font_size(18);
+align_slide_bottom();
+insert_picture('lancome');align_slide_top();
+
+create_slide();choose_title();insert_text("Lo esencial del modelado a gran escala");set_font_size(24);
+set_font_style("Arial");
+insert_table(1, 2);
+choose_table_cell(0, 0);insert_text("Importancia");set_font_size(18);set_font_color("light blue");
+insert_picture('computer');align_slide_center();
+choose_content();insert_text("Modelado a gran escala");
+set_font_size(14);set_font_color("green");choose_title();set_font_size(14);set_font_color("green");
+
+insert_picture('tower');align_slide_left();
+choose_title();insert_text("The Ultimate Heist");
+set_font_style("Times New Roman");set_font_color("green");
+insert_triangle();align_slide_right();
+set_background_color("light blue");
+
+insert_table(3, 3);choose_table();choose_table_cell(0, 0);insert_text("morado");choose_table_cell(0, 1);insert_text("azul");choose_table_cell(0, 2);insert_text("azul claro");choose_table_cell(1, 0);insert_text("azul oscuro");choose_table_cell(1, 1);insert_text("verde");choose_table_cell(1, 2);insert_text("verde claro");choose_table_cell(2, 0);insert_text("verde oscuro");choose_table_cell(2, 1);insert_text("amarillo");choose_table_cell(2, 2);insert_text("amarillo claro")
+set_background_color("green");
+set_background_color("dark blue");
+choose_title();insert_text("Tipos de color");insert_picture("clock");
+create_slide();set_background_color("yellow");
+choose_content();insert_text("La verónica, también llamada ojo de pájaro o hierba gitana, es una planta perenne resistente originaria de Europa");
+
+create_slide();insert_picture('arguing');
+choose_title();insert_text("¿Qué aporta el matrimonio tanto a los hombres como a las mujeres?");
+create_slide();insert_picture('japanese_woman');insert_picture('african_woman');
+choose_title();insert_text("Factores que determinan diferentes regímenes matrimoniales");
+create_slide();set_background_color("red");create_slide();set_background_color("red");create_slide();set_background_color("red");
+move_to_slide(2);choose_title();insert_text("Beneficios comunes del matrimonio para hombres y mujeres");
+set_font_underline();set_font_color("yellow");
+insert_picture('happy_family');align_slide_center();
+insert_rectangle();set_fill_color("red");insert_rectangle();set_fill_color("red");insert_rectangle();set_fill_color("red");
+create_slide();choose_title();insert_text("La evolución de la institución matrimonial en China");
+insert_picture('clock');set_width(6.5);
+align_slide_left();
+create_slide();choose_title();insert_text("Dificultades que enfrentan las mujeres en el mundo");insert_picture('full_time_mother');
+set_height(5);
+
+choose_title();insert_text("Red neuronal");
+choose_content();insert_text("Las redes neuronales son un conjunto de algoritmos que imitan la función de un cerebro humano. Están diseñados para reconocer patrones, clasificar datos y hacer predicciones");
+set_font_size(12);set_font_color("orange");set_background_color("red");
+
+choose_title();insert_text("Comillas");
+choose_title();set_font_underline();set_font_size(24);
+choose_content();insert_text("El símbolo de comillas es un tipo de puntuación que se usa para separar palabras y pasajes del resto del texto");
+set_font_color("green");set_font_size(12);
+insert_picture('quotation_mark');align_slide_left();
+create_slide();set_background_color("blue");
+insert_rectangle();align_slide_right();
+insert_table(2, 1);
+choose_table_cell(0, 0);insert_text("¿Cómo estás?" dijo el señor.");choose_table_cell(1, 0);insert_text("Uno de los usos más comunes de las comillas es para indicar una cita directa, un pasaje que se copia textualmente de otra fuente".");
+
+create_slide();set_background_color("dark green");
+choose_title();insert_text("Campos y ramas de la antropología");set_font_size(18);
+choose_content();insert_text("Hay dos grandes campos de la antropología");set_font_size(18);
+text_align_right();
+
+insert_right_arrow();align_slide_left();
+set_width(4.0);set_height(3.0);
+choose_content();insert_text("Grandes extensiones de Asia central se sienten inquietantemente deshabitadas");
+choose_shape("right_arrow");set_width(5.0);set_height(4.0);rotate_element(90);
+choose_content();set_line_space(2);
+
+choose_title();insert_text("Educación/Enseñanza/Representación PPT");
+choose_content();insert_text("El efecto perjudicial del calentamiento global");
+choose_title();set_font_color("dark blue");choose_content();set_font_color("purple");
+insert_rectangle();set_fill_color("purple");
+align_top_left_corner();
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("dar");choose_table_cell(0, 1);insert_text("dar");choose_table_cell(0, 2);insert_text("dar");choose_table_cell(0, 3);insert_text("dar");
+choose_content();set_font_color("dark blue");
+
+set_background_color("orange");
+insert_picture("cat");set_width(5);set_height(5);
+create_slide();set_background_color("orange");create_slide();set_background_color("orange");create_slide();set_background_color("orange");
+choose_title();insert_text("Información de DingTalk");
+insert_table(3, 5);
+choose_table_cell(0, 0);insert_text("Métodos de descarga");choose_table_cell(0, 1);insert_text("Cómo unirse a la organización");choose_table_cell(0, 2);insert_text("Cómo encontrar amigos");choose_table_cell(0, 3);insert_text("Ventajas");choose_table_cell(0, 4);insert_text("Nota");
+insert_star();align_slide_right();
+choose_content();insert_text("prevenir se refiere a prevenir u obstaculizar haciendo algo antes de tiempo");
+set_background_color("blue");
+choose_content();text_align_left();
+
+insert_right_arrow();set_fill_color("yellow");
+choose_title();insert_text("Día de la semana en la escuela");text_align_left();
+choose_title();set_font_color("dark blue");set_font_italic();set_font_underline();
+choose_content();insert_text("prevenir significa comprar (bienes) por adelantado para aumentar el precio cuando se revendan");
+insert_picture("school_badge");set_width(2.5);set_height(2.5);
+create_slide();set_background_color("green");
+choose_title();insert_text("Nota");text_align_right();
+set_font_color("light green");set_font_size(26);
+choose_content();insert_bullet_point("");insert_bullet_point("");insert_bullet_point("");
+insert_note("2023/4/9");move_to_previous_slide();insert_note("2023/4/8");
+
+insert_star();align_slide_right();
+set_fill_color("blue");
+insert_right_arrow();align_slide_left();set_fill_color("red");
+choose_title();insert_text("Tomar una decisión");
+choose_content();insert_text("La pandemia global actual ha interrumpido nuestra vida diaria y ha remodelado el mundo de una manera que nunca podríamos haber imaginado");
+choose_content();set_font_underline();choose_title();set_font_size(24);
+choose_content();set_font_style("Times New Roman");choose_title();set_font_style("Times New Roman");
+
+create_slide();create_slide();create_slide();create_slide();create_slide();
+move_to_slide(0);choose_title();insert_text("Introducción");move_to_slide(1);choose_title();insert_text("Desarrollo");move_to_slide(2);choose_title();insert_text("Evaluación");move_to_slide(3);choose_title();insert_text("Análisis");move_to_slide(4);choose_title();insert_text("Conclusión");
+move_to_slide(0);set_background_color("yellow");move_to_slide(1);set_background_color("yellow");move_to_slide(2);set_background_color("yellow");move_to_slide(3);set_background_color("yellow");move_to_slide(4);set_background_color("yellow");
+move_to_slide(0);choose_title();set_font_style("Microsoft JhengHei");
+move_to_slide(1);insert_picture("clock");
+move_to_slide(2);insert_bar_chart([160, 170, 130], ["octubre", "noviembre", "diciembre"]);
+move_to_slide(3);insert_table(2, 3);
+choose_table_cell(0, 0);insert_text("toIPA");choose_table_cell(0, 1);insert_text("Ventajas");choose_table_cell(0, 2);insert_text("Desventajas");
+move_to_slide(4);choose_title();set_font_style("Times New Roman");
+move_to_slide(4);insert_cloud();
+move_to_slide(0);insert_note("Creado por Eva");move_to_slide(1);insert_note("Creado por Eva");move_to_slide(2);insert_note("Creado por Eva");move_to_slide(3);insert_note("Creado por Eva");move_to_slide(4);insert_note("Creado por Eva");
+
+insert_circle();set_fill_color("purple");
+insert_picture("water_bottle");insert_textbox();insert_text("botella");
+choose_title();insert_text("CALIDAD");
+set_font_color("red");
+insert_table(2, 2);
+choose_table_cell(0, 0);insert_text("Evaluación de máquina");choose_table_cell(0, 1);insert_text("Evaluación humana");choose_table_cell(1, 0);insert_text("Evaluación automática 1");choose_table_cell(1, 1);insert_text("Evaluación automática 2");
+create_slide();choose_title();insert_text("Logro");set_background_color("purple");
+
+create_slide();choose_title();insert_text("Estrategias de marketing para el segundo trimestre");
+set_background_color("blue");
+create_slide();choose_title();insert_text("Aumento de las ventas y el conocimiento de la marca");
+set_font_size(60);
+move_to_slide(1);set_background_color("green");
+create_slide();set_background_color("green");create_slide();set_background_color("green");create_slide();set_background_color("green");
+move_to_slide(2);choose_title();insert_text("Tendencias del mercado y análisis de la competencia");
+choose_content();insert_picture("blue_sea");
+set_height(4);set_width(5);set_left("picture", "title");
+move_to_slide(3);choose_title();insert_text("Nuestra misión y valores");
+choose_content();insert_text("VISIÓN. Todas las personas vivan una larga vida con plena salud. MISIÓN. El IHME entrega al mundo evidencia oportuna, relevante y científicamente válida para mejorar las políticas y prácticas de salud");
+set_line_space(1.5);
+choose_content();set_font_size(40);set_font_style("Times New Roman");
+
+create_slide();set_background_color("yellow");
+choose_title();insert_text("Comparación de la educación en China y Estados Unidos");
+delete_text();insert_text("Explora las diferencias y similitudes");
+delete_text();insert_text("Las diferencias y similitudes");
+create_slide();create_slide();create_slide();create_slide();create_slide();
+move_to_slide(1);set_background_color("yellow");move_to_slide(2);set_background_color("yellow");move_to_slide(3);set_background_color("yellow");move_to_slide(4);set_background_color("yellow");move_to_slide(5);set_background_color("yellow");
+move_to_slide(1);choose_title();insert_text("Los sistemas educativos");
+choose_content();insert_text("La educación en China está administrada principalmente por el sistema de educación pública estatal, que depende del Ministerio de Educación. Todos los ciudadanos deben asistir a la escuela durante un mínimo de nueve años, lo que se conoce como educación obligatoria de nueve años, que está financiada por el Gobierno.");
+move_to_next_slide();choose_title();insert_text("Diferentes estilos y métodos de enseñanza");
+move_to_next_slide();choose_title();insert_text("Relación maestro-alumno");move_to_next_slide();choose_title();insert_text("Evaluación del desempeño del estudiante");
+move_to_slide(4);insert_picture("forest");
+choose_content();insert_text("En 2014, Jonathan Kaiman de The Guardian escribió que los padres y educadores chinos "ven su propio sistema como corrupto, deshumanizador, presionado e injusto". luego habló sobre el examen de admisión a la universidad del país (llamado gaokao), y escribió que "muchos padres consideran que la extenuante prueba de nueve horas es un mecanismo de clasificación que determinará la trayectoria de la vida de sus hijos".");set_font_color("red");set_font_underline();
+move_to_slide(5);insert_table(1, 1);choose_table_cell(0,0);insert_text("Responsabilidad");
+
+create_slide();choose_content();insert_picture("DingTalk_app");
+choose_title();insert_text("Introducción a ChatGPT");set_font_color("green");
+create_slide();choose_title();insert_text("Liberar el poder de los modelos de lenguaje de IA".");text_align_left();create_slide();choose_title();insert_text("Liberar el poder de los modelos de lenguaje de IA".");text_align_left();create_slide();choose_title();insert_text("Liberar el poder de los modelos de lenguaje de IA".");text_align_left();create_slide();choose_title();insert_text("Liberar el poder de los modelos de lenguaje de IA".");text_align_left();create_slide();choose_title();insert_text("Liberar el poder de los modelos de lenguaje de IA".");text_align_left();
+move_to_slide(1);choose_content();set_font_style("Arial");
+insert_text("ChatGPT es un chatbot de inteligencia artificial (IA) desarrollado por OpenAI y lanzado en noviembre de 2022. Está construido sobre las familias GPT-3.5 y GPT-4 de OpenAI de modelos de lenguaje grande (LLM) y ha sido perfeccionado (un enfoque para el aprendizaje por transferencia) utilizando técnicas de aprendizaje tanto supervisadas como de refuerzo");
+set_font_size(30);set_line_space(2);
+insert_table(1, 1);choose_table_cell(0,0);insert_text("Cómo descargar DingTalk");
+move_to_next_slide();
+choose_title();insert_text("Características y limitaciones");text_align_center();
+choose_content();insert_text("Aunque la función principal de un chatbot es imitar a un conversador humano, ChatGPT es versátil. Puede escribir y depurar programas informáticos, imitar el estilo de los directores ejecutivos famosos y escribir presentaciones comerciales, componer música, teleplays, cuentos de hadas y ensayos de estudiantes, responder preguntas de prueba (a veces, según la prueba, a un nivel superior al del examinado humano promedio), escribir poesía y letras de canciones, emular un sistema Linux, simular salas de chat completas, jugar juegos como tres en raya y simular un cajero automático .");
+
+create_slide();set_background_color("green");
+choose_content();insert_text("La vida es demasiado corta para pasar el tiempo con personas que le quitan la felicidad");set_line_space(1.5);
+set_font_style("Verdana");set_font_size(20);
+set_font_underline();set_font_color("yellow");
+
+create_slide();set_background_color("blue");choose_title();insert_text("Aprendizaje automático");
+choose_content();insert_text("El aprendizaje automático es una aplicación de inteligencia artificial (IA) que proporciona a los sistemas la capacidad de aprender y mejorar automáticamente a partir de la experiencia sin estar programados explícitamente. El aprendizaje automático se centra en el desarrollo de programas informáticos que pueden acceder datos y usarlos para aprender por sí mismos");
+set_font_size(20);set_font_style("Verdana");
+set_font_style("Times New Roman");text_align_right();
+choose_title();set_font_color("red");set_font_size(40);
+set_font_color("blue");
+insert_picture("machine_learning");align_slide_left();
+set_height(1.2);set_width(1.2);
+choose_content();insert_star();set_fill_color("green");
+
+create_slide();choose_title();insert_text("Estrategias de marketing");
+choose_content();insert_bullet_point("Search Engine Optimization (SEO)");insert_bullet_point("Social Media Marketing (SMM)");insert_bullet_point("Email Marketing");insert_bullet_point("Content Marketing");insert_bullet_point("Pay-Per-Click Advertising (PPC)");
+insert_picture("marketing");set_height(1);set_width(1);
+insert_pie_chart([35, 25, 15, 10, 15], ["Apple", "Samsung", "Huawei", "Xiaomi", "Otros"]);insert_table(2, 2);
+choose_chart();set_chart_title("Marketing");choose_table_cell(0, 0);insert_text("MT1");choose_table_cell(0, 1);insert_text("MT2");choose_table_cell(1, 0);insert_text("ST1");choose_table_cell(1, 1);insert_text("ST2")
+choose_content();align_slide_bottom();
+create_slide();insert_pie_chart([35, 25, 15, 10, 15],["Apple", "Samsung", "Huawei", "Xiaomi", "Other"]);set_chart_title("Marketing");
+create_slide();insert_table(2, 2);choose_table();insert_table_row(["MT1", "MT2"]);insert_table_row(["ST1", "ST2"])
+
+create_slide();choose_title();insert_text("Visualización de datos");
+insert_bar_chart([8.4, 4.0, 2.7, 2.3, 1.7], ["Nueva York", "Los Ángeles", "Chicago", "Houston", "Phoenix"]);align_slide_left();
+insert_textbox();insert_text("La visualización de datos es la presentación de datos en un formato pictórico o gráfico. Permite a los responsables de la toma de decisiones ver los análisis presentados visualmente, para que puedan comprender conceptos difíciles o identificar nuevos patrones".");
+set_font_color("green");
+create_slide();choose_content();insert_text("Esta papilla se prepara cocinando juntos arroz glutinoso, azúcar moreno y dieciocho tipos de frutas secas");
+
+create_slide();choose_title();insert_text("Laba Porridge");
+choose_content();insert_text("Desde que tengo memoria, todos los años, en el octavo día del duodécimo mes lunar, mi madre nos cocinaba gachas de Laba");
+set_font_color("yellow");set_font_bold();
+insert_table(2, 1);align_slide_right();
+choose_table_cell(0, 0);insert_text("Historial");choose_table_cell(1, 0);insert_text("Moderno");
+set_background_color("light red");
+
+set_background_color("yellow");
+set_background_color("green");
+choose_title();insert_text("Gran empresa");
+set_font_size(28);set_font_style("Futura");
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("Número");choose_table_cell(0, 1);insert_text("Nombres de los empleados")
+insert_picture("company1");insert_picture("company2");insert_picture("company3");
+choose_table();choose_table_cell(0,0);set_font_color("yellow");choose_table_cell(0,1);set_font_color("yellow");
+
+create_slide();choose_title();insert_text("Redes neuronales artificiales");
+choose_content();insert_text("Las redes neuronales artificiales (ANN) son sistemas informáticos inspirados en las redes neuronales biológicas que constituyen los cerebros de los animales. Dichos sistemas aprenden a realizar tareas considerando ejemplos, generalmente sin estar programados con ninguna regla específica de tareas. Las ANN son capaces de aprender y adaptarse a nuevas entradas, lo que las hace útiles para una amplia gama de aplicaciones, incluido el reconocimiento de imágenes, el reconocimiento de voz y el procesamiento del lenguaje natural");
+set_font_size(24);
+set_font_style("Calibri");set_background_color("light orange");
+text_align_center();choose_title();text_align_left();
+set_background_color("blue");
+insert_picture("artificial_neural_networks");
+set_width(5.5);
+align_slide_right();
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("1");choose_table_cell(0, 1);insert_text("2");choose_table_cell(0, 2);insert_text("3")
+choose_table_cell(1, 0);insert_text("videojuegos");choose_table_cell(1, 1);insert_text("Switch");choose_table_cell(1, 2);insert_text("serie de TV")
+
+create_slide();set_background_color("red");create_slide();set_background_color("red");
+move_to_slide(0);choose_title();insert_text("Desafíos");set_font_style("Calibri");
+choose_content();insert_text("Los desafíos de implementar IA en el lugar de trabajo incluyen la falta de experiencia, el costo y la resistencia al cambio");
+set_font_color("green");
+move_to_slide(1);insert_picture("AI");align_slide_center();
+
+create_slide();choose_title();insert_text("Introducción");
+choose_content();insert_text("Bienvenido a mi presentación sobre la historia de los videojuegos. Los videojuegos han recorrido un largo camino desde que se inventó el primer juego electrónico en la década de 1950. Hoy en día, los videojuegos son una industria multimillonaria que es disfrutado por personas de todo el mundo");
+insert_picture("first_electronic_game");
+align_bottom_right_corner();
+choose_title();set_font_color("blue");
+insert_textbox();choose_textbox();insert_text("Presentado por John Smith");
+
+create_slide();choose_title();insert_text("Redes neuronales");
+choose_content();insert_text("Las redes neuronales son un conjunto de algoritmos que imitan el funcionamiento del cerebro humano. Se utilizan para una variedad de aplicaciones, como reconocimiento de imágenes, reconocimiento de voz y procesamiento de lenguaje natural");
+set_font_style("Arial");
+insert_triangle();align_top_left_corner();
+insert_picture("neutral_network");
+set_height(1.2);set_width(1.2);
+create_slide();insert_right_arrow();set_fill_color("blue");align_slide_right();
+insert_line_chart([120,140,110,90], series=["enero", "febrero", "marzo", "abril"]);set_chart_title("Chatgpt");
+choose_content();insert_textbox();insert_text("TensorFlow");
+choose_title();set_font_color("blue");set_background_color("light blue");
+
+choose_content();insert_text("El diccionario se puede usar para encontrar significados de palabras, pronunciaciones, ortografías y buscar nuevas palabras");
+insert_circle();set_top("circle","content");
+insert_text("sintagma nominal");
+choose_content();set_font_color("red");set_font_style("Impact");
+
+create_slide();choose_title();insert_text("Introducción");create_slide();choose_title();insert_text("Metodología");create_slide();choose_title();insert_text("Resultados");
+move_to_slide(0);choose_content();insert_text("Esta presentación presentará nuestro proyecto de investigación y explicará su importancia".");move_to_slide(1);choose_content();insert_text("Nuestra metodología de investigación involucró la recopilación de datos de varias fuentes y el uso de análisis estadísticos para sacar conclusiones".");
+choose_content();text_align_left();
+move_to_slide(0);set_background_color("light blue");move_to_slide(1);set_background_color("light blue");move_to_slide(2);set_background_color("light blue");
+insert_picture("graph");set_height(6.5);
+move_to_slide(0);insert_note("2022/1/1");move_to_slide(1);insert_note("2022/1/1");move_to_slide(2);insert_note("2022/1/1");
+
+create_slide();choose_title();insert_text("Descripción general del producto");create_slide();choose_title();insert_text("Características");
+move_to_slide(0);insert_picture("product");
+choose_content();insert_text("Nuestro producto está diseñado para satisfacer las necesidades de nuestro mercado objetivo al proporcionar una solución simple y eficiente a su problema");
+move_to_slide(1);insert_table(5, 2);
+choose_table_cell(4, 1);insert_text("DingTalk");
+choose_table_cell(4, 1);set_font_style("Times New Roman");
+move_to_slide(0);insert_note("La hora actual es 12:00 PM");move_to_slide(1);insert_note("La hora actual es 12:00 PM");move_to_slide(2);
+
+create_slide();choose_title();insert_text("Informe de ventas");text_align_center();
+insert_pie_chart([120, 220, 180], ["Producto A", "Producto B", "Producto C"]);
+choose_title();set_font_size(28);
+insert_picture("company_logo");align_top_right_corner();
+choose_content();insert_text("Este informe muestra el rendimiento de las ventas de nuestros productos en el primer trimestre de 2023");
+set_font_style("Times New Roman");
+text_align_center();
+
+create_slide();choose_title();insert_text("Estrategias de marketing");
+choose_title();set_font_style("Calibri");set_font_size(36);
+choose_content();insert_picture("marketing_campaign");
+rotate_element(45);align_slide_right();
+create_slide();choose_title();insert_text("Powerful MT");
+set_font_style("Arial");set_font_size(24);
+insert_textbox();insert_bullet_point("SEO");insert_bullet_point("Email Marketing");insert_bullet_point("PPC");set_bottom("textbox","title");
+set_background_color("blue");
+insert_bar_chart([27, 30, 29], ["elemento A", "elemento B", "elemento C"]);align_slide_left();
+set_chart_title("Marketing Budget");
+insert_table(4, 2);
+choose_table_cell(0, 0);insert_text("Fecha");choose_table_cell(0, 1);insert_text("Lunes");choose_table_cell(1, 0);insert_text("Martes");choose_table_cell(1, 1);insert_text("Miércoles");choose_table_cell(2, 0);insert_text("Jueves");choose_table_cell(2, 1);insert_text("Viernes");choose_table_cell(3, 0);insert_text("Sábado");choose_table_cell(3, 1);insert_text("Domingo");
+choose_table();set_right("table","chart");
+
+create_slide();set_background_color("yellow");
+choose_title();insert_text("Métricas de evaluación");
+choose_content();insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("Métrica");choose_table_cell(0, 1);insert_text("Fórmula");choose_table_cell(1, 0);insert_text("Precisión");choose_table_cell(1, 1);insert_text("(TP+TN)/(TP+TN+FP+FN)");choose_table_cell(2, 0);insert_text("Precisión");choose_table_cell(2, 1);insert_text("TP/(TP+FP)");
+insert_line_chart([160, 170, 130], ["octubre", "noviembre", "diciembre"]);set_chart_title("Time Machine");
+insert_bar_chart([160, 170, 130], ["October", "November", "December"]);
+
+create_slide();choose_title();insert_text("Visualización de datos");
+insert_bar_chart([60,70,80,90], ["Ojo", "Mano", "Pierna", "Rodilla"]);
+choose_chart();set_height(4);set_width(4);
+set_chart_title("Sales by Region");
+insert_right_arrow();set_fill_color("green");
+
+create_slide();choose_title();insert_text("Campaña de marketing");
+choose_content();insert_picture("product");set_right("picture","content");
+set_width(5);
+choose_content();insert_text("Familia de idiomas europeos que está estrechamente relacionada con los idiomas frisón, alemán y holandés (en Bélgica llamado flamenco)");
+insert_circle();set_fill_color("red");align_bottom_right_corner();
+set_background_color("green");
+set_background_color("light blue");
+create_slide();choose_title();insert_text("Datos de ventas");
+insert_table(1, 4);
+choose_table();insert_table_row(["nombre del vendedor", "ventas totales", "tasa de comisión", "monto de la comisión"])
+create_slide();set_background_color("light blue");
+
+create_slide();choose_title();insert_text("Informe de ventas");set_font_size(25);
+choose_content();insert_text("Aquí está el informe de ventas trimestrales de nuestra empresa:");
+set_font_size(16);set_font_color("purple");
+insert_rectangle();set_width(8);set_height(5);
+set_background_color("green");
+
+create_slide();choose_title();insert_text("Redes neuronales artificiales");
+choose_content();insert_text("Las redes neuronales artificiales (ANN) son sistemas informáticos que están inspirados en las redes neuronales biológicas que constituyen los cerebros de los animales, pero no son idénticos a ellos. Estos sistemas aprenden a realizar tareas considerando ejemplos, generalmente sin ser programados. con reglas específicas de la tarea.");
+set_font_size(24);set_font_style("Arial");
+choose_title();set_font_color("purple");
+insert_picture("brain");set_width(6.5);
+rotate_element(90);
+insert_textbox();insert_text("Aplicaciones de las RNA");
+choose_title();set_font_size(36);set_font_style("Calibri");
+insert_table(2, 1);
+choose_table_cell(0, 0);insert_text("Reconocimiento de imágenes");choose_table_cell(1, 0);insert_text("Procesamiento del lenguaje natural");
+
+choose_title();insert_text("Evaluación de la calidad de la traducción automática");
+insert_textbox();insert_text("Reportero: Eva".");set_bottom("textbox","title");
+choose_title();set_font_size(66);
+set_background_color("blue");choose_title();set_font_color("red");choose_textbox();set_font_color("red");
+set_background_color("red");choose_title();set_font_color("blue");choose_textbox();set_font_color("blue");
+
+create_slide();choose_title();insert_text("Redes neuronales");
+choose_content();insert_text("Las redes neuronales son un conjunto de algoritmos que imitan la función de un cerebro humano. Están diseñados para reconocer patrones, clasificar datos y hacer predicciones");
+set_font_size(24);
+set_font_style("Arial");text_align_center();
+choose_title();set_font_color("blue");
+set_font_color("green");
+insert_picture("brain");set_width(1.5);set_height(1.5);
+choose_content();insert_text("El cerebro humano inspiró el desarrollo de redes neuronales");
+insert_note("red neuronal convolucional");
+create_slide();set_background_color("yellow");
+
+create_slide();choose_title();insert_text("Finanzas personales");insert_note("Finanzas personales");
+choose_title();set_font_size(24);set_font_underline();
+choose_content();insert_text("Las finanzas personales abarcan todo el universo de administrar las finanzas individuales y familiares, asumir la responsabilidad de su situación financiera actual y futura y establecer metas financieras. También incluye el manejo de las tareas financieras individuales y el ahorro para emergencias. ");
+set_font_color("orange");
+insert_picture("corporate_finance_book");
+set_width(6.5);
+set_background_color("blue");
+set_background_color("light blue");
+create_slide();set_background_color("light blue");create_slide();set_background_color("light blue");
+move_to_slide(1);insert_table(1, 2);
+
+choose_content();insert_text("Bienvenido al sitio del catálogo de actualizaciones de Microsoft");
+set_font_color("orange");set_background_color("dark blue");
+insert_picture("computer");align_slide_bottom();
+align_slide_left();
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("Conceptos básicos");choose_table_cell(0, 1);insert_text("Origen");choose_table_cell(0, 2);insert_text("Categorías");choose_table_cell(0, 3);insert_text("Desarrollo")
+create_slide();insert_star();set_fill_color("red");
+insert_pie_chart([10, 12, 14], ["Q1", "Q2", "Q3"]);choose_shape("star");align_bottom_left_corner();
+choose_chart();set_height(10);set_width(10);
+
+create_slide();set_background_color("blue");
+choose_title();insert_text("Introducción");
+choose_content();insert_text("Personas más dinero equivale a finanzas personales");
+set_font_italic();set_font_underline();
+set_font_color("green");
+insert_picture("person_grasping_money");align_bottom_right_corner();
+set_width(8);set_height(7);
+create_slide();choose_content();insert_text("El dinero no lo es todo, pero el dinero no es imposible");
+set_font_style("Futura");set_font_color("blue");
+set_font_color("purple");
+insert_pie_chart([1, 2, 3, 4, 5])], ["1", "2", "3", "4", "5"]);set_right("chart", "content");
+choose_title();insert_text("Los efectos del dinero");
+
+create_slide();choose_title();insert_text("La diferencia entre finanzas personales y corporativas");
+insert_table(2, 3);
+insert_picture("company_logo");set_left("picture", "table");
+choose_table();choose_table_cell(0,0);insert_text("Borderlands 2");choose_table_cell(0,1);insert_text("Divinity: Original Sin 2");choose_table_cell(0,2);insert_text("Final Fantasy VII");choose_table_cell(1,0);insert_text("Assassin's Creed IV: Black Flag");choose_table_cell(1,1);insert_text("Mega Man 3");choose_table_cell(1,2);insert_text("Mega Man 3");
+insert_cloud();align_slide_right();
+insert_note("2023/4/23");
+
+set_background_color("orange");
+create_slide();choose_title();insert_text("Bridget Fonda");set_background_color("orange");
+set_font_italic();set_font_size(18);
+insert_picture("bridget_fonda");align_top_right_corner();
+choose_picture();set_width(8);set_height(7);
+create_slide();
+choose_content();insert_text("Nacida en Los Ángeles, Bridget Fonda proviene de una respetada familia de actores, que incluye a Henry Fonda, Peter Fonda y Jane Fonda. Se involucró en el teatro después de aparecer en una producción escolar de Harvey, y luego tuvo una papel silencioso en Partners. En 1988, apareció en Scandal, su primer papel de habla, teniendo algunos papeles pequeños después ");
+set_font_size(12);set_font_italic();
+choose_title();insert_text("Lista de películas");
+insert_table(3, 3);choose_table_cell(0,0);insert_text("1");choose_table_cell(0,1);insert_text("2");choose_table_cell(0,2);insert_text("3");choose_table_cell(1,0);insert_text("4");choose_table_cell(1,1);insert_text("5");choose_table_cell(1,2);insert_text("6");choose_table_cell(2,0);insert_text("7");choose_table_cell(2,1);insert_text("8");choose_table_cell(2,2);insert_text("9");
+choose_table();align_slide_right();
+
+create_slide();
+choose_title();insert_text("Ghost Bear");set_font_underline();
+choose_content();insert_text("El oso más raro del que probablemente nunca haya oído hablar");
+insert_picture("ghost_bear");
+choose_title();set_font_style("Arial");set_font_size(20);choose_content();set_font_style("Arial");set_font_size(20);
+choose_picture();set_right("picture","content");
+create_slide();insert_picture("treemap_about_bears");
+align_slide_center();
+set_width(4);
+choose_content();insert_text("Cuando estaba hambriento de Dungeons and Dragons, Divinity: Original Sin 2 llenó ese vacío para mí");
+choose_title();insert_text("Mi juego favorito");
+insert_table(2, 2);
+choose_table();choose_table_cell(0,0);insert_text("SMS");choose_table_cell(0,1);insert_text("WeChat");choose_table_cell(1,0);insert_text("QQ");choose_table_cell(1,1);insert_text("DingTalk");
+
+create_slide();set_background_color("blue");
+insert_picture("universe");align_bottom_left_corner();
+set_width(6.5);set_height(13);
+choose_content();insert_text("Se puede decir que soy un poco quisquilloso. No me gusta la comida demasiado dulce, como los dulces, el chocolate, etc.");
+choose_title();insert_text("Mi comida favorita");
+set_font_color("yellow");choose_content();set_font_color("yellow");
+choose_title();set_font_underline();set_font_size(24);choose_content();set_font_size(22);
+insert_cloud();align_slide_right();
+
+choose_title();insert_text("Idol");set_font_underline();
+insert_rectangle();set_fill_color("red");set_bottom("rectangle","title");
+choose_content();insert_text("¡Te quiero! (¡Te quiero!) ¡Te necesito! (¡Te necesito!) ¡Te amo! (¡Te amo!)");text_align_left();
+set_font_size(24);
+set_font_size(48);
+insert_picture("AKB48");
+set_height(6.5);set_width(13);
+insert_table(2,1);choose_table_cell(0,0);insert_text("El tiempo de un ídolo es corto. Siempre hay una cara nueva y rara vez se desvían del status quo de muñeca");
+choose_table();choose_table_cell(0,0);set_font_color("blue");set_font_style("Futura");
+choose_table_cell(1,0);insert_text("El viaje épico de los ídolos, desde Sylvie Vartan hasta los ídolos que llenan los estadios, plantea la pregunta: ¿Qué sigue para los ídolos y la cultura que despertaron?");
+insert_note("2023/05/17");
+
+choose_content();insert_text("CONTENIDO");text_align_center();
+choose_content();insert_text("1. Antecedentes");insert_text("2. Misiones de evaluación");insert_text("3. Modelo");insert_text("4. Aplicaciones");
+set_font_size(80);set_font_color("green");
+set_font_underline();set_font_style("Pecita");
+
+set_background_color("orange");choose_title();insert_text("Mejor software");
+set_font_italic();set_font_size(24);
+choose_content();insert_text("¿Quiere un software potente? No tiene que pagar por él. Todo lo que necesita para ser productivo y seguro en su PC está en esta lista, y todo es totalmente gratis");
+set_font_color("yellow");
+set_background_color("dark blue");
+choose_content();set_font_underline();set_font_style("Arial");
+insert_right_arrow();align_slide_bottom();
+insert_note("2023/4/25");
+
+create_slide();choose_title();insert_text("Jay Chou");
+choose_content();insert_text("Jay Chou es un músico, cantautor, multiinstrumentista, actor y director taiwanés");
+create_slide();choose_title();insert_text("Mojito");
+set_font_underline();set_font_size(20);
+set_font_size(48);
+choose_content();insert_text('"Mojito" fue bien recibido por el público en general de la comunidad internacional. El sol cubano, las camisas tropicales, los autos antiguos y los ritmos animados hacen que la canción no solo sea pegadiza sino también una gran delicia visual. Por favor NO haga preguntas.');
+set_font_style("Futura");set_background_color("green");
+insert_picture("mojito_cover");align_slide_right();
+
+choose_title();insert_text("Mi vida universitaria");
+insert_picture("collegue");insert_textbox();insert_text("colega");
+choose_content();insert_text("locura de estudiar en el extranjero entre estudiantes universitarios");
+set_font_color("red");set_font_underline();
+set_font_style("Futura");choose_title();set_font_size(22);
+choose_content();text_align_left();
+insert_table(1, 3);
+choose_table_cell(0, 0);insert_text("Primer grado");choose_table_cell(0, 1);insert_text("Segundo grado");choose_table_cell(0, 2);insert_text("Tercer grado");
+create_slide();choose_content();insert_text("Discurso de Michelle Obama en la Universidad de Pekín");
+insert_picture("logo");align_top_right_corner();
+set_height(6.5);
+
+create_slide();choose_title();insert_text("Learning Python");
+set_font_italic();set_font_size(26);set_font_style("Times New Roman");
+set_background_color("green");
+create_slide();set_background_color("green");create_slide();set_background_color("green");
+insert_rectangle();align_slide_bottom();
+insert_table(1, 1);
+choose_table_cell(0, 0);insert_text("No se dan ejemplos, complete la tabla");
+
+create_slide();set_background_color("green");choose_title();insert_text("Traducción automática");
+choose_content();insert_text("La traducción automática es el uso de tecnología informática para traducir texto de un idioma a otro");
+set_font_size(20);
+set_font_size(40);
+set_font_color("green");text_align_right();
+insert_picture("trados");
+set_height(2);set_width(2);
+align_slide_bottom();
+insert_rectangle();align_slide_bottom();
+
+choose_title();insert_text("Fondo");insert_note("Fondo");
+choose_content();insert_text("Los requisitos para comprender la calidad de traducción de la máquina de traducción");insert_text("Enfóquese en la confiabilidad de cada punto de fecha");
+insert_cloud();set_width(6.5);align_slide_bottom();
+choose_title();set_font_size(30);choose_content();set_font_size(20);set_font_italic();
+
+insert_circle();align_slide_left();set_fill_color("green");
+set_width(10);set_height(10);
+choose_content();insert_text("Módulo de aprendizaje de características");insert_text("Módulo de evaluación de calidad");
+choose_title();insert_text("Marco básico");
+insert_note("2023/4");choose_shape("circle");insert_text("2023/4");
+
+choose_title();insert_text("Nómina en marzo");set_font_color("green");
+insert_table(1, 3);
+choose_table_cell(0, 0);insert_text("ID de empleado");choose_table_cell(0, 1);insert_text("Cantidad");choose_table_cell(0, 2);insert_text("Nota");
+insert_textbox();insert_text("El explotado deberá proporcionar su DNI bancario y tarjeta de identificación".");set_bottom("textbox","table");
+insert_picture("company_brand_name");align_top_right_corner();
+create_slide();set_background_color("yellow");
+choose_title();insert_text("Capítulo 2");choose_content();insert_text("La bonificación del empleado");
+choose_title();set_font_italic();set_font_size(44);set_font_color("green");
+choose_content();set_font_style("Verdana");set_font_color("light green");
+insert_note("2023/4");
+
+create_slide();choose_title();insert_text("Las características del aprendizaje profundo");set_font_underline();
+set_font_size(26);set_font_color("light blue");
+insert_circle();
+choose_content();insert_text("El aprendizaje profundo es una técnica de aprendizaje automático que enseña a las computadoras a hacer lo que es natural para los humanos");
+set_font_style("Arial");
+insert_triangle();align_slide_left();
+align_slide_right();
+set_fill_color("red");set_width(5);
+choose_content();insert_bullet_point("Sunday");insert_bullet_point("Monday");insert_bullet_point("Tuesday");
+move_to_next_slide();set_background_color("yellow");
+choose_title();insert_text("Redes neutrales");set_font_underline();set_font_italic();insert_note("Redes neutrales");
+
+choose_title();insert_text("La historia del arte");
+set_font_bold();set_font_style("Times New Roman");
+choose_content();insert_text("El arte es una gama diversa de actividades humanas en la creación de artefactos visuales, auditivos o escénicas, que expresan las ideas imaginativas, conceptuales o la habilidad técnica del autor, destinadas a ser apreciadas principalmente por su belleza o poder emocional");
+set_font_italic();set_font_style("Arial");
+insert_bullet_point("");
+insert_bullet_point("painting");insert_bullet_point("sculpture");insert_bullet_point("architecture");insert_bullet_point("music");insert_bullet_point("literature");
+insert_picture("Mona Lisa");align_slide_bottom();
+align_top_left_corner();
+insert_note("Mona Lisa de Leonardo da Vinci");
+
+insert_star();set_fill_color("yellow");
+choose_title();insert_text("Estrellas");set_font_size(24);
+choose_content();insert_text("Bienvenido a la noche estrellada");
+insert_picture("universe");set_bottom("picture","content");
+insert_note("Estrella brillante, estrella brillante, estrella resplandeciente");choose_title();delete_text();insert_text("Estrella brillante, estrella brillante, estrella resplandeciente");
+
+create_slide();choose_title();insert_text("Comentarios del cliente");
+insert_picture("happy_customer");align_slide_bottom();
+choose_title();delete_text();insert_text("¡Nuestros clientes nos aman!");set_font_color("red");
+delete_text();insert_text("!!");
+choose_content();insert_text("Reseñas de clientes");
+set_font_style("Times New Roman");set_font_color("green");
+set_background_color("red");
+set_background_color("green");
+
+create_slide();choose_title();insert_text("Plan de marketing");
+insert_text("Introducción");set_font_underline();set_font_style("Calibri");
+insert_picture("company_logo");align_bottom_left_corner();
+set_height(5);set_width(3);align_slide_right();
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("Categoría");choose_table_cell(0, 1);insert_text("Información");choose_table_cell(1, 0);insert_text("Edad");choose_table_cell(1, 1);insert_text("25")
+create_slide();set_background_color("blue");
+choose_title();insert_text("Marcas móviles");
+insert_line_chart([120, 140, 150], ["Huawei", "Apple", "Xiaomi"]);
+set_chart_title("Sales in April");
+
+create_slide();choose_title();insert_text("Informe financiero del segundo trimestre");
+set_font_style("Arial");set_font_size(20);
+insert_table(1, 3);choose_table_cell(0, 0);insert_text("Metric");choose_table_cell(0, 1);insert_text("Q2");choose_table_cell(0, 2);insert_text("Q3")
+insert_picture("financial report");set_top("picture","table");
+choose_content();insert_text("El informe financiero del segundo trimestre muestra un fuerte crecimiento de los ingresos y una mayor rentabilidad, impulsados ​​por medidas exitosas de optimización de costos y una mayor demanda del mercado de nuestros productos y servicios");
+set_font_italic();set_font_bold();
+insert_bullet_point("");
+set_background_color("light blue");
+
+create_slide();set_background_color("green");
+choose_title();insert_text("Feminismo");
+set_font_color("green");set_font_size(26);
+choose_content();insert_text("El feminismo es la creencia y la búsqueda de la igualdad de derechos, poder y oportunidades para las mujeres, paralelas a las de los hombres");
+set_font_color("green");set_font_italic();
+create_slide();choose_title();insert_text("Movimiento de la tercera ola de feminismo");set_font_color("green");
+set_font_bold();set_font_style("Times New Roman");set_font_color("blue");set_font_size(28);
+insert_picture("war");align_slide_bottom();
+insert_pie_chart([40, 30, 30], ["EE. UU.", "Rusia", "Francia"]);
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("Ubicación");choose_table_cell(0, 1);insert_text("Varias ciudades alrededor del mundo")
+
+create_slide();choose_title();insert_text("Lanzamiento del producto");
+choose_content();insert_text("Objetivo");insert_note("Objetivo");
+set_font_underline();set_font_style("Times New Roman");
+insert_picture("Apple_Pencil");align_bottom_left_corner();
+align_top_right_corner();
+
+choose_title();insert_text("Progreso del equipo");
+choose_content();insert_text("Objetivo");
+choose_content();insert_text("El objetivo de la organización es promover a los jóvenes y grupos marginados de esta generación a través de la tutoría de autónomos experimentados");
+set_font_size(18);set_font_underline();
+insert_picture("team_group");set_right("picture", "content");
+
+choose_title();insert_text("El poder de la innovación");
+set_font_style("Arial");set_font_bold();
+choose_content();insert_text("En el mundo actual que cambia rápidamente, la innovación desempeña un papel crucial en el impulso del crecimiento económico, la configuración de los paisajes políticos y la transformación de las normas culturales. Impulsa el progreso, fomenta la competitividad y abre nuevas posibilidades para las personas y las sociedades");
+set_font_color("dark blue");set_line_space(2);
+insert_picture("cityscape");align_slide_left();
+insert_rectangle();align_slide_right();
+set_background_color("dark blue");
+create_slide();choose_content();insert_text("Opera sin racionalidad, sin tener en cuenta la moral social y los estándares externos");
+set_font_bold();set_font_underline();choose_title();insert_text("Cuentos de hadas");
+
+choose_title();insert_text("Vida urbana");
+set_background_color("light blue");
+choose_table();insert_table(3, 2);choose_table_cell(0, 1);delete_text();insert_text("Cantidad");choose_table_cell(1, 1);delete_text();insert_text("Calidad");choose_table_cell(2, 1);delete_text();insert_text("Nivel");
+insert_triangle();insert_rectangle();set_top("triangle", "rectangle");
+choose_shape("triangle");set_bottom("triangle", "rectangle");
+insert_picture("Shanghai");align_bottom_left_corner();
+
+choose_table();insert_table(4, 6);
+choose_table_cell(0, 0);insert_text("Year");choose_table_cell(0, 1);insert_text("Friends");choose_table_cell(0, 2);insert_text("Breaking Bad");choose_table_cell(0, 3);insert_text("Game of Thrones");choose_table_cell(0, 4);insert_text("Stranger Things");choose_table_cell(0, 5);insert_text("The Crown")
+insert_star();
+insert_picture("Friends");set_right("picture", "star");
+choose_shape("star");set_top("star", "picture");
+choose_title();insert_text("serie de televisión");set_font_italic();set_font_underline();
+insert_note("2023-2025");
+
+insert_triangle();rotate_element(45);
+insert_rectangle();set_right("rectangle","triangle");
+insert_star();set_right("star","rectangle");
+insert_circle();set_right("circle","star");
+insert_callout();set_right("callout","circle");rotate_element(-45);
+choose_shape("triangle");insert_text("formas");choose_shape("rectangle");insert_text("formas");choose_shape("star");insert_text("formas");choose_shape("circle");insert_text("formas");choose_shape("callout");insert_text("formas");
+
+insert_picture("globe");
+choose_title();insert_text("Estrategia de expansión global");
+choose_picture();align_top_left_corner();
+choose_content();insert_text("Paz y Amor");
+
+insert_pie_chart([40, 45, 5], ["Shanghai", "Beijing", "Otros"]);
+choose_title();insert_text("Contribución");
+choose_content();insert_text("El producto interno bruto anual de Beijing superó los 4 billones de yuanes ($ 630 mil millones) por primera vez en 2021");
+set_font_style("Arial");
+insert_line_chart([6.7, 6.9, 6.6, 6.1, 2.3, 8.1], ["2016", "2017", "2018", "2019", "2020", "2021"]);
+choose_title();insert_text("Crecimiento del PIB");
+insert_bar_chart([6.5, 6.3, 6.1, 5.9, 5.7, 5.5], ["2022", "2023", "2024", "2025", "2026", "2027"]);
+
+create_slide();choose_title();insert_text("Plan de marketing");
+set_background_color("red");
+insert_picture("company_logo");set_top("picture", "title");
+set_width(3);
+
+create_slide();choose_title();insert_text("Queencard");
+set_font_italic();set_font_bold();set_font_color("purple");
+set_background_color("light blue");
+insert_picture("Poker");set_right("picture", "title");
+align_top_right_corner();
+insert_circle();align_bottom_right_corner();
+set_width(6);set_height(4);
+create_slide();choose_title();insert_text("Rey");
+insert_picture("King");align_slide_right();
+
+create_slide();choose_title();insert_text("Línea de tiempo del proyecto");
+insert_table(1, 4);
+choose_table_cell(0, 0);insert_text("Jan");choose_table_cell(0, 1);insert_text("Feb");choose_table_cell(0, 2);insert_text("Mar");choose_table_cell(0, 3);insert_text("April")
+choose_content();insert_text("por ejemplo, \"Lanzamiento de software\", \"Comienza la campaña de marketing\"");
+insert_picture("project_team");set_bottom("picture", "table");
+insert_right_arrow();set_left("right_arrow", "picture");
+set_width(3);set_height(3);
+
+insert_pie_chart([40, 60], ["Mujer", "Hombre"]);
+set_chart_title("Class 1");
+insert_picture("team_of_students");
+insert_rectangle();set_bottom("rectangle", "chart");
+choose_title();insert_text("Grado 1");
+choose_content();insert_text("a continuación se muestra el porcentaje de género en cada clase");
+set_font_underline();set_font_size(20);
+insert_note("Principio: Eva");
+create_slide();insert_pie_chart([40, 60],["Female", "Male"]);set_chart_title("Class 1");
+insert_picture("team_of_students");
+insert_rectangle();set_bottom("rectangle", "chart");
+
+create_slide();choose_title();insert_text("Testimonios de clientes");
+choose_content();insert_text("Lo que dicen nuestros clientes sobre nosotros");set_font_bold();set_font_italic();
+insert_picture("happy_customer");
+insert_triangle();set_fill_color("purple");
+align_slide_right();
+
+create_slide();choose_title();insert_text("Estrategia");
+choose_content();insert_text("Nuestra estrategia de marketing se basa en las 4 P: producto, precio, plaza y promoción");
+set_font_size(20);set_line_space(2);set_font_bold();choose_title();set_font_underline();
+set_font_color("red");choose_content();set_font_color("red");
+insert_rectangle();align_slide_left();
+insert_picture("Apple_company_logo");set_right("picture", "rectangle");
+choose_picture();set_top("picture", "rectangle");
+
+create_slide();choose_title();insert_text("Fans");set_font_style("Arial");set_font_size(24);
+choose_content();insert_bullet_point("Benefits of our product");insert_bullet_point("Target market");insert_bullet_point("Pricing strategy");insert_bullet_point("Marketing channels");
+insert_picture("idol");set_height(6.5);
+align_slide_bottom();
+insert_rectangle();align_slide_top();
+insert_note("Presentadora: Eva");
+
+create_slide();choose_title();insert_text("Cifras de ventas");
+insert_bar_chart([20, 30], ["20 de enero", "30 de febrero"]);
+insert_line_chart([10, 15], ["January", "Feburuary"]);
+set_chart_title("Sales by Month");
+insert_rectangle();align_slide_top();
+choose_content();insert_text("Nuestros ingresos también han aumentado constantemente durante los últimos 6 meses");
+
+create_slide();choose_title();insert_text("Informe de ventas");
+insert_table(2, 5);
+choose_table();choose_table_cell(0, 0);insert_text("Producto");choose_table_cell(0, 1);insert_text("Unidades vendidas");choose_table_cell(0, 2);insert_text("Ingresos");choose_table_cell(0, 3);insert_text("Gastos");choose_table_cell(0, 4);insert_text("Beneficio")
+insert_table_row(["Computadora", "1000", "$1000000", "$500000", "$500000"])
+insert_table(1, 5);insert_table_row(["Impresora", "500", "$100000", "$50000", "$50000"])
+
+create_slide();insert_picture("city_skyline");align_slide_top();
+set_width(6);set_height(4);
+choose_title();insert_text("Vida de la ciudad");
+choose_picture();align_top_left_corner();
+choose_title();set_font_size(20);set_font_bold();
+
+create_slide();insert_line_chart([40, 30, 30], ["Concierto", "Álbum", "Libro"]);
+choose_title();insert_text("El poder del fandom");
+choose_content();insert_text("Los fanáticos juegan un papel vital en la configuración del éxito y el impacto de varias formas de entretenimiento, desde películas y programas de televisión hasta deportes y música");
+set_font_style("Arial");set_font_size(20);
+insert_right_arrow();align_slide_top();
+insert_textbox();align_slide_bottom();
+align_slide_top();
+
+create_slide();choose_title();insert_text("Tencent");
+insert_rectangle();align_slide_top();
+rotate_element(90);
+choose_title();set_font_style("Georgia");set_font_italic();
+choose_content();insert_text("Tencent es un conglomerado multinacional chino líder fundado en 1998. Se especializa en varios servicios y productos relacionados con Internet, que incluyen redes sociales, juegos en línea, comercio electrónico, computación en la nube e inteligencia artificial. ");
+set_font_size(24);set_font_style("Arial");
+
+set_background_color("green");
+insert_picture("Tencent_logo");
+set_width(6.5);
+insert_line_chart([40, 30, 30], ["Modelo A", "Modelo B", "Modelo C"]);
+insert_bar_chart([40, 30, 30],["Model A", "Model B", "Model C"]);
+
+create_slide();choose_title();insert_text("El origen de los británicos");set_font_underline();
+choose_content();insert_text("Los orígenes del Reino Unido se remontan a la época del rey anglosajón Athelstan, quien a principios del siglo X d. C. aseguró la lealtad de los reinos celtas vecinos y se convirtió en ");
+set_font_size(20);
+set_font_size(40);set_background_color("green");
+
+insert_rectangle();align_slide_right();
+set_fill_color("yellow");
+choose_title();insert_text("Vinda");
+choose_content();insert_text("Vinda Group es una empresa líder en productos de higiene fundada en 1985. Se especializa en la fabricación y distribución de papel tisú, productos de higiene desechables y productos para el cuidado personal");
+set_font_size(20);set_font_color("green");set_font_style("Vinda");
+set_line_space(2);choose_title();set_line_space(2);
+
+choose_title();insert_text("Mis pasatiempos");
+insert_picture("guitar");align_top_right_corner();
+choose_content();insert_text("Tocar la guitarra es uno de mis pasatiempos favoritos");
+set_font_size(24);set_font_color("purple");
+
+create_slide();choose_title();insert_text("Plan de marketing");
+choose_content();insert_text("Plan de marketing");
+set_font_style("Calibri");
+insert_picture("vinda_logo");
+align_top_left_corner();
+
+create_slide();choose_title();insert_text("Campaña de marketing");
+insert_picture("smiling_customer");align_top_left_corner();
+set_height(5);set_width(6);
+choose_content();insert_bullet_point("Profits");insert_bullet_point("Repute");insert_bullet_point("Go listing");
+set_font_size(20);choose_title();set_font_size(20);
+
+create_slide();choose_title();insert_text("Tipos de batería");
+set_font_bold();set_font_italic();
+insert_picture("Product A");
+align_slide_left();
+insert_table(4, 2);choose_table_cell(0, 0);insert_text("Tipo de batería");choose_table_cell(0, 1);insert_text("Descripción");choose_table_cell(1, 0);insert_text("Baterías alcalinas");choose_table_cell(1, 1);insert_text("Comunes de uso doméstico de larga duración");choose_table_cell(2, 0);insert_text("Baterías de iones de litio");choose_table_cell(2, 1);insert_text("Recargables utilizadas en dispositivos electrónicos");choose_table_cell(3, 0);insert_text("Niquel-cadmio");choose_table_cell(3, 1);insert_text("Baterías recargables de alta densidad de energía")
+
+insert_pie_chart([30, 25, 20, 15, 10], ["Marca A", "Marca B", "Marca C", "Marca D", "Otras marcas"]);
+set_chart_title("Air Condition Brands");
+choose_content();insert_text("esta diapositiva incluye una breve descripción o puntos clave sobre cada marca");
+insert_picture("Haier");align_slide_bottom();
+choose_content();set_font_underline();set_font_color("green");
+insert_triangle();insert_rectangle();
+choose_shape("triangle");set_bottom("triangle", "rectangle");
+choose_shape("rectangle");rotate_element(45);
+
+choose_title();insert_text("Nuestro equipo");
+insert_picture("team");set_width(4);set_height(3);
+rotate_element(45);
+align_top_left_corner();
+choose_title();set_font_style("Calibri");set_font_size(28);
+
+choose_title();insert_text("Tarjeta de identificación");
+insert_line_chart([120, 140, 110], ["Fujian", "Shanghai", "Beijing"]);
+set_chart_title("ID Card Operation");
+insert_picture("ID_card");align_slide_right();
+choose_title();set_font_style("Verdana");set_font_size(32);
+set_background_color("purple");
+
+choose_title();insert_text("Informe de ventas");
+set_font_style("Arial");set_font_size(48);set_font_bold();
+insert_table(5, 3);
+choose_table_cell(0, 0);insert_text("Región");choose_table_cell(0, 1);insert_text("Ventas");choose_table_cell(0, 2);insert_text("Crecimiento");choose_table_cell(1, 0);insert_text("Norte");choose_table_cell(1, 1);insert_text("$50 000");choose_table_cell(1, 2);insert_text("5 %");choose_table_cell(2, 0);insert_text("Este");choose_table_cell(2, 1);insert_text("$75 000");choose_table_cell(2, 2);insert_text("10 %");choose_table_cell(3, 0);insert_text("Sur");choose_table_cell(3, 1);insert_text("$45 000");choose_table_cell(3, 2);insert_text("3 %");choose_table_cell(4, 0);insert_text("Oeste");choose_table_cell(4, 1);insert_text("$60,000");choose_table_cell(4, 2);insert_text("8%")
+set_background_color("green");
+choose_content();insert_text("Nombre: John Doe, Fecha de nacimiento: 1 de enero de 1990, Género: Masculino, Número de identificación: 123456789, Autoridad emisora: Departamento de Vehículos Motorizados, Fecha de vencimiento: 31 de diciembre de 2023");
+insert_picture("beach");
+insert_right_arrow();
+choose_picture();set_top("picture", "right_arrow");
+
+insert_rectangle();
+set_fill_color("orange");
+set_width(6);set_height(5);
+choose_title();insert_text("Información importante");set_font_bold();
+set_font_size(24);set_font_color("green");
+choose_content();insert_bullet_point("pot");insert_bullet_point("scissors");insert_bullet_point("scoup");
+insert_picture("exclamatory_mark");
+align_top_left_corner();
+create_slide();insert_rectangle();align_slide_left();
+choose_title();insert_text("Detalles adicionales");
+
+choose_content();insert_text("Aquí hay algunas estadísticas sobre el crecimiento de nuestra empresa");
+set_font_color("purple");
+choose_table();insert_table(1, 3);
+choose_table_cell(0, 0);insert_text("ingresos");choose_table_cell(0, 1);insert_text("ganancias");choose_table_cell(0, 2);insert_text("número de empleados")
+
+insert_picture("converse_shoes");
+choose_content();insert_text("Converse es una marca de calzado popular conocida por sus zapatillas icónicas y su estilo informal");
+set_font_size(18);set_font_color("red");
+
+choose_content();insert_text("El jugo de limón es una bebida refrescante y ácida hecha con limones recién exprimidos. Es rico en vitamina C y proporciona una explosión de sabor cítrico");
+create_slide();choose_title();insert_text("Jugo de limón");
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("Producto");choose_table_cell(0, 1);insert_text("Precio");choose_table_cell(0, 2);insert_text("Características");choose_table_cell(1, 0);insert_text("A");choose_table_cell(1, 1);insert_text("B");choose_table_cell(1, 2);insert_text("C")
+insert_picture("lemon_juice");set_right("picture","table");
+choose_content();insert_text("Página 1");
+
+insert_picture("beach");align_top_left_corner();
+choose_content();insert_text("¡Reserve sus vacaciones hoy!");
+choose_title();insert_text("Tiempo de vacaciones");
+set_font_size(18);set_font_style("Times New Roman");choose_content();set_font_size(18);set_font_style("Times New Roman");
+choose_content();insert_bullet_point("Relaxing on the beach");insert_bullet_point("Swimming in the ocean");insert_bullet_point("Eating delicious seafood");
+
+create_slide();choose_title();insert_text("Chili");
+set_background_color("red");
+insert_picture("chili");
+choose_content();insert_text("El chile es un plato picante y sabroso hecho con una combinación de carne, frijoles y varias especias. Es conocido por su rico sabor y su picante picante");
+
+choose_title();insert_text("Chili");insert_picture("chili_landscape");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("Ingrediente");choose_table_cell(0, 1);insert_text("Cantidad");choose_table_cell(0, 2);insert_text("Nivel de picante");choose_table_cell(0, 3);insert_text("Origen");choose_table_cell(1, 0);insert_text("Carne de res");choose_table_cell(1, 1);insert_text("2 libras");choose_table_cell(1, 2);insert_text("Mediano");choose_table_cell(1, 3);insert_text("México");choose_table_cell(2, 0);insert_text("Frijoles");choose_table_cell(2, 1);insert_text("1 lata");choose_table_cell(2, 2);insert_text("Suave");choose_table_cell(2, 3);insert_text("Estados Unidos");choose_table_cell(3, 0);insert_text("Tomates");choose_table_cell(3, 1);insert_text("3");choose_table_cell(3, 2);insert_text("Hot");choose_table_cell(3, 3);insert_text("Spain")
+insert_note("Página 2");
+
+insert_picture("eating_humburger");align_slide_bottom();
+choose_title();insert_text("Proyecciones de ventas para el tercer trimestre");
+choose_content();insert_text("Las proyecciones de ventas para el tercer trimestre indican un crecimiento constante en los ingresos y la participación de mercado. Con estrategias de marketing dirigidas y mejoras de productos, anticipamos un aumento significativo en el rendimiento de las ventas");
+
+choose_title();insert_text("Estrategia de marketing");
+choose_content();insert_text("La estrategia de marketing de nuestra empresa es centrarse en la publicidad en las redes sociales y el marketing de influencers");
+insert_bullet_point("Instagram");insert_bullet_point("Facebook");insert_bullet_point("Twitter");
+insert_picture("using_smartphone");
+insert_rectangle();set_top("rectangle","picture");
+insert_table(6, 4);choose_table_cell(0, 0);insert_text("Mes");choose_table_cell(0, 1);insert_text("Ingresos");choose_table_cell(0, 2);insert_text("Unidades vendidas");choose_table_cell(0, 3);insert_text("Tasa de crecimiento")
+
+create_slide();choose_title();insert_text("Lanzamiento del producto");
+insert_text("Presentamos nuestro producto más nuevo");
+insert_picture("product");
+align_slide_bottom();
+set_background_color("purple");align_slide_top();
+
+choose_title();insert_text("Explorar China");
+insert_picture("china_map");
+align_top_left_corner();
+choose_content();insert_text("China es un destino turístico cautivador conocido por su rica historia, cultura vibrante y paisajes impresionantes. Desde la icónica Gran Muralla hasta la bulliciosa metrópolis de Shanghái, hay algo para cada viajero en este vasto y país diverso");
+insert_table(8, 5);choose_table_cell(0, 0);insert_text("Provincia");choose_table_cell(0, 1);insert_text("Atracciones famosas");choose_table_cell(0, 2);insert_text("Temperatura promedio");choose_table_cell(0, 3);insert_text("Número de turistas");choose_table_cell(0, 4);insert_text("Temporada recomendada")
+create_slide();choose_title();insert_text("Línea de tiempo del proyecto");
+insert_star();align_slide_right();
+align_slide_right();
+
+choose_title();insert_text("OPPO");set_font_color("red");set_font_size(20);set_font_underline();set_font_bold();
+choose_content();insert_text("OPPO es un fabricante líder de teléfonos inteligentes conocido por sus diseños innovadores y tecnología de punta".");
+insert_picture("oppo_smartphone");set_left("picture","content");
+create_slide();choose_title();insert_text("Xiaomi");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("Producto");choose_table_cell(0, 1);insert_text("Precio");choose_table_cell(0, 2);insert_text("Características");choose_table_cell(0, 3);insert_text("Disponibilidad");choose_table_cell(1, 0);insert_text("Mi 11");choose_table_cell(1, 1);insert_text("$699");choose_table_cell(1, 2);insert_text("Snapdragon 888, cámara de 108MP");choose_table_cell(1, 3);insert_text("Global");choose_table_cell(2, 0);insert_text("Redmi Note 10");choose_table_cell(2, 1);insert_text("$249");choose_table_cell(2, 2);insert_text("Pantalla AMOLED, cámara de 48MP");choose_table_cell(2, 3);insert_text("Global")
+
+create_slide();choose_title();insert_text("Descripción general del producto");
+choose_table();insert_table(4, 3);choose_table_cell(0, 0);insert_text("Nombre del producto");choose_table_cell(1, 0);insert_text("SKU");choose_table_cell(2, 0);insert_text("Precio");choose_table_cell(3, 0);insert_text("Cantidad");
+set_background_color("green");
+
+set_background_color("blue");choose_title();insert_text("Escritura de investigación");
+choose_content();insert_text("La escritura de investigación implica la investigación y documentación sistemáticas de un tema para contribuir con nuevos conocimientos e ideas a un campo en particular");
+set_font_color("yellow");set_font_size(18);
+set_font_size(36);
+insert_line_chart([120, 140, 160], ["2016", "2017", "2018"]);
+set_chart_title("Publications Over Time");
+insert_picture("research_writing_cover");set_background_color("light blue");
+
+create_slide();choose_title();insert_text("Programar en marzo");
+set_font_size(28);set_font_color("dark blue");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("Fecha");choose_table_cell(0, 1);insert_text("Tarea");choose_table_cell(0, 2);insert_text("Hora de inicio");choose_table_cell(0, 3);insert_text("Hora de finalización");choose_table_cell(1, 0);insert_text("15 de marzo");choose_table_cell(1, 1);insert_text("Reunión con las partes interesadas");choose_table_cell(1, 2);insert_text("9:00 AM");choose_table_cell(1, 3);insert_text("10:30 AM");choose_table_cell(2, 0);insert_text("23 de marzo");choose_table_cell(2, 1);insert_text("Revisión y actualización del proyecto");choose_table_cell(2, 2);insert_text("2:00 p. m.");choose_table_cell(2, 3);insert_text("4:00 p. m.")
+insert_picture("calendar");set_top(picture, table);
+
+create_slide();choose_title();insert_text("Los beneficios de la meditación");
+insert_picture("person_meditating");align_slide_bottom();
+choose_content();insert_text("La meditación es una técnica simple pero poderosa que puede ayudarte a lograr un estado de paz interior y tranquilidad");
+set_font_size(24);set_font_style("Times New Roman");
+insert_rectangle();set_right("rectangle", "picture");
+set_fill_color("light green");
+create_slide();set_background_color("light blue");
+choose_table();insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("Meditación de atención plena");choose_table_cell(1, 0);insert_text("Meditación trascendental");choose_table_cell(2, 0);insert_text("Meditación de escaneo corporal");choose_table_cell(0, 1);insert_text("La meditación ayuda a calmar la mente y reducir los niveles de estrés, promoviendo la relajación");choose_table_cell(1, 1);insert_text("La práctica regular de meditación mejora las habilidades de enfoque y concentración");choose_table_cell(2, 1);insert_text("La meditación fomenta la estabilidad emocional, la atención plena y el bienestar general");
+
+create_slide();set_background_color("green");
+insert_picture("grassland");set_width(6.5);set_height(5.5);
+choose_title();insert_text("Las funciones de los bosques");set_font_color("dark red");set_font_size(40);
+insert_right_arrow();set_fill_color("yellow");
+set_right("right_arrow", "picture");
+
+insert_pie_chart([40, 20, 15, 10, 15], ["comida", "vivienda", "transporte", "entretenimiento", "otros"]);
+insert_table(6, 2);choose_table();choose_table_cell(0, 0);insert_text("Categoría");choose_table_cell(0, 1);insert_text("Porcentaje")
+set_bottom("table",pie_chart");
+choose_title();insert_text("Mis gastos en mayo de 2023");
+set_font_italic();
+
+create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");
+move_to_slide(0);choose_title();insert_text("Mis vacaciones de verano");set_font_style("Microsoft JhengHei");
+move_to_slide(1);insert_picture("family");
+move_to_slide(2);insert_bar_chart([120, 80, 40, 60], ["Ventas", "Gastos", "Beneficios", "Inversión"]);
+move_to_slide(3);choose_content();insert_text("Durante mis vacaciones de verano, me embarqué en una aventura inolvidable. Exploré nuevos destinos, me sumergí en la calidez de los atardeceres dorados y me relajé en las playas de arena");
+move_to_slide(4);choose_table();insert_table(2, 1);choose_table_cell(0,0);insert_text("Ventas");set_font_size(26);choose_table_cell(1,0);insert_text("Gastos");set_font_size(26);
+
+create_slide();choose_title();insert_text("Plan de negocios");
+insert_picture("light_bulb");align_slide_left();
+choose_content();insert_text("El espíritu empresarial es el proceso de diseño, lanzamiento y gestión de una nueva empresa, que suele ser inicialmente una pequeña empresa. Las personas que crean estas empresas se denominan empresarios");
+set_font_style("Georgia");set_font_size(10);
+set_background_color("green");
+insert_circle();
+align_slide_right();
+move_to_slide(0);choose_content();insert_text("Estrategia de marketing");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("Campaña de redes sociales");choose_table_cell(1, 0);insert_text("Asociaciones de influenciadores");choose_table_cell(2, 0);insert_text("Marketing por correo electrónico")
+choose_table_cell(0,3);insert_text("$10000");choose_table_cell(1,3);insert_text("$15000");choose_table_cell(2,3);insert_text("$5000");
+insert_note("2023/5");
+
+choose_title();insert_text("Público objetivo");set_font_style("Arial");
+align_top_right_corner();
+insert_picture("Gen_Z");set_width(4);
+align_bottom_left_corner();
+choose_content();insert_text("Comprender y dirigirse de manera efectiva a la audiencia correcta es crucial para entregar mensajes personalizados y maximizar el impacto de los esfuerzos de marketing");
+
+choose_title();insert_text("Lo esencial del modelado a gran escala");set_font_size(24);
+insert_picture("neutral_network");align_slide_bottom();
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("Número");choose_table_cell(0, 1);insert_text("Nota")
+align_slide_top();
+
+insert_picture("tower");align_top_right_corner();
+choose_title();insert_text("The Ultimate Heist");
+insert_rectangle();set_top("rectangle", "title");
+choose_title();set_font_color("dark green");set_font_size(28);
+set_font_style("Microsoft New Tai Lue");
+set_background_color("light blue");
+
+insert_table(2, 4);choose_table();choose_table_cell(0, 0);insert_text("Tarea");choose_table_cell(0, 1);insert_text("Prioridad");choose_table_cell(0, 2);insert_text("Hora de inicio");choose_table_cell(0, 3);insert_text("Hora de finalización");choose_table_cell(1, 0);insert_text("Planificación del proyecto");choose_table_cell(1, 1);insert_text("Alta");choose_table_cell(1, 2);insert_text("9:00 a. m.");choose_table_cell(1, 3);insert_text("10:30 a. m.")
+choose_content();insert_text("La gestión eficaz del tiempo es una habilidad crucial para el éxito tanto en el ámbito personal como profesional");
+set_font_italic();
+choose_table();set_bottom("table","content");
+insert_picture("clock");
+insert_note("Presentadora: Eva");
+
+create_slide();choose_title();insert_text("Perfil de la empresa");
+choose_content();insert_text("Nuestra empresa se fundó en 2005 con el objetivo de proporcionar productos y servicios de alta calidad a nuestros clientes. Desde entonces, nos hemos convertido en un proveedor líder de soluciones innovadoras para una amplia gama de industrias. Nuestro equipo de expertos está comprometido a brindar excelencia en todo lo que hacemos");
+choose_title();set_font_style("Calibri Light");set_font_size(40);
+insert_picture("company_logo");align_slide_right();
+set_height(2);set_width(3);align_slide_left();
+align_bottom_left_corner();
+create_slide();set_background_color("blue");
+choose_content();insert_text("Ser un líder en innovación y sostenibilidad, entregando valor a nuestros grupos de interés e impactando positivamente en el mundo");
+set_font_underline();set_line_space(2);
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("A-72");choose_table_cell(0, 1);insert_text("C-71")
+insert_table(1, 2);insert_table_row(["B-72", "D-71"])
+
+create_slide();choose_title();insert_text("Datos de ventas");
+insert_table(15, 6);
+choose_table_cell(0, 0);insert_text("Producto");choose_table_cell(0, 1);insert_text("Ventas de enero");choose_table_cell(0, 2);insert_text("Ventas de febrero");choose_table_cell(0, 3);insert_text("Ventas de marzo");choose_table_cell(0, 4);insert_text("Ventas totales");choose_table_cell(0, 5);insert_text("Ventas promedio");choose_table_cell(1, 0);insert_text("iPhone");choose_table_cell(1, 1);insert_text("22");choose_table_cell(1, 2);insert_text("13");choose_table_cell(1, 3);insert_text("15");choose_table_cell(1, 4);insert_text("17");choose_table_cell(1, 5);insert_text("12")
+align_top_left_corner();
+insert_note("Fuente de datos: departamento de ventas");
+create_slide();choose_table();copy_table();paste_table()
+
+choose_title();insert_text("Estrategias de marketing");
+set_font_style("Arial Black");
+choose_content();insert_text("Optimización de motores de búsqueda (SEO)");insert_text(", ");insert_text(", ");insert_text(" y ");
+set_font_color("dark blue");
+set_font_color("green");
+insert_picture("thumb");set_width(5);set_bottom("picture", "content");
+
+choose_title();insert_text("El Gran Cañón");set_font_italic();
+set_font_size(30);
+set_font_style("Times New Roman");
+insert_picture("GrandCanyon");
+set_right("picture","title");
+set_height(4);set_width(6);
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("Guangdong");choose_table_cell(0, 1);insert_text("Beijing");choose_table_cell(0, 2);insert_text("Shanghai");choose_table_cell(0, 3);insert_text("Hainan");choose_table_cell(1, 0);insert_text("34%");choose_table_cell(1, 1);insert_text("36%");choose_table_cell(1, 2);insert_text("20%");choose_table_cell(1, 3);insert_text("10%")
+insert_pie_chart([34, 36, 20, 10], ["Guangdong", "Beijing", "Shanghai", "Hainan"]);
+choose_chart();set_bottom("chart", "table");
+insert_bar_chart([34, 36, 20, 10],["Guangdong","Beijing", "Shanghai", "Hainan"]);
+insert_note("Fuente de la imagen: Servicio de Parques Nacionales");
+
+create_slide();choose_title();insert_text("Comparación de productos");
+insert_table(5, 2);choose_table_cell(0, 0);insert_text("Teléfono inteligente (Apple iPhone 13)");choose_table_cell(0, 1);insert_text("Laptop (Dell XPS 13)");choose_table_cell(1, 0);insert_text("Smartwatch (Apple Watch Series 7)");choose_table_cell(1, 1);insert_text("Auriculares (Sony WH-1000XM4)");choose_table_cell(2, 0);insert_text("Cámara (Canon EOS R5)");choose_table_cell(2, 1);insert_text("Televisor (Samsung QLED Q90T)");choose_table_cell(3, 0);insert_text("Consola de juegos (PlayStation 5)");choose_table_cell(3, 1);insert_text("Rastreador de actividad física (Fitbit Charge 4)");choose_table_cell(4, 0);insert_text("Auriculares inalámbricos (AirPods Pro)");choose_table_cell(4, 1);insert_text("Tableta (iPad Pro)")
+choose_title();align_bottom_right_corner();
+set_background_color("light blue");
+
+create_slide();choose_title();insert_text("Informe de ventas mensuales");
+choose_content();insert_bar_chart([10000, 12000, 15000, 18000, 20000, 25000, 28000, 30000, 32000, 35000, 40000, 45000], series=["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"]);
+set_chart_title("My Monthly Sales in 2023");
+align_slide_top();
+choose_content();insert_text("El informe de ventas mensual muestra un aumento significativo en los ingresos");
+insert_note("Presentado por: xxx");
+
+set_background_color("light red");insert_picture("strawberry");
+create_slide();choose_title();insert_text("Alcance del proyecto");create_slide();choose_title();insert_text("Cronología del proyecto");create_slide();choose_title();insert_text("Presupuesto del proyecto");
+move_to_slide(1);set_background_color("light green");move_to_slide(2);set_background_color("light blue");move_to_slide(3);set_background_color("purple");
+move_to_slide(1);choose_content();insert_text("Nuestro proyecto consiste en desarrollar una nueva aplicación de software para nuestros clientes. La aplicación agilizará sus procesos comerciales y mejorará sus resultados");
+move_to_slide(2);insert_table(2, 6);choose_table();choose_table_cell(0, 0);insert_text("Mes");choose_table_cell(0, 1);insert_text("Tarea");choose_table_cell(0, 2);insert_text("Fecha de inicio");choose_table_cell(0, 3);insert_text("Fecha de finalización");choose_table_cell(0, 4);insert_text("Progreso");choose_table_cell(0, 5);insert_text("Comentarios")
+insert_line_chart([10, 12, 15, 11], ["2016", "2017", "2018", "2019"]);set_left("chart","table");
+insert_star();align_top_right_corner();
+move_to_slide(2);choose_title();set_font_underline();
+move_to_slide(3);choose_content();insert_text("Gastos de personal: Esto incluye los costos asociados con los miembros del equipo del proyecto, como sueldos, salarios, beneficios y gastos de capacitación");
+choose_content();set_font_style("Arial");
+insert_note("¡Gracias!");
+
+choose_title();insert_text("Línea de tiempo de la empresa");
+insert_rectangle();rotate_element(45);
+align_bottom_right_corner();
+set_background_color("light blue");
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("1980");choose_table_cell(0, 1);insert_text("1990");choose_table_cell(0, 2);insert_text("2000");choose_table_cell(0, 3);insert_text("2010")
+choose_table();insert_table_row(["Empresa fundada", "Empresa trasladada a un nuevo edificio", "Empresa se hizo pública", "Empresa adquirida por un competidor"])
+
+insert_picture("google_logo");align_slide_bottom();
+choose_title();insert_text("Conclusión");set_font_italic();
+choose_content();insert_text("Somos cada vez más una población mundial, mezclándonos libremente. Eso creará un mundo de híbridos: piel morena clara, cabello oscuro, afro-euro-australo-americano-asiáticos, su color de piel y rasgos faciales tienden a hacia un promedio mundial");
+text_align_right();
+insert_rectangle();set_height(5);
+align_slide_bottom();
+
+create_slide();choose_title();insert_text("Crítica literaria ética");set_font_bold();
+set_font_color("blue");
+choose_content();insert_text("El método de la crítica literaria ética es un nuevo método de crítica literaria presentado por el profesor Nie Zhenzhao de la Universidad Normal de China Central después de una investigación comparativa, una combinación fina y un replanteamiento de la historia y la situación actual de la crítica literaria china y occidental teorías y métodos");
+insert_picture("book_cover");
+align_slide_left();
+insert_rectangle();align_slide_right();
+set_background_color("light yellow");
+
+create_slide();choose_title();insert_text("Jane Eyre de Charlotte Bronte");set_font_italic();
+choose_content();insert_text("En el final aparentemente feliz, Charlotte usa un legado y un fuego para construir la trama");set_font_bold();
+set_font_color("dark red");set_font_style("Arial");
+insert_right_arrow();set_right("right_arrow", "content");
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("categoría");choose_table_cell(0, 1);insert_text("información");choose_table_cell(1, 0);insert_text("año de publicación");choose_table_cell(1, 1);insert_text("1847")
+insert_picture("Charlotte_Bronte's_portrait");set_bottom("picture", "table");
+set_top("picture", "table");
+
+set_background_color("blue");
+choose_title();insert_text("Id en David Copperfield");set_font_italic();
+choose_content();insert_text("Id es una especie de impulso instintivo animal, se confunde sin racionalidad, y busca la satisfacción ciegamente y acumula posibilidades de abreacción. Uno. Id no se preocupa por la moral social o el estándar de comportamiento externo. Id es el lugar para almacenar el instinto");
+insert_picture("book");set_top("book","content");
+set_height(5);set_width(6);
+insert_star();set_right("star","picture");
+choose_content();insert_bullet_point("");
+
+insert_table(3, 2);choose_table();choose_table_cell(0, 0);insert_text("Ubicación");choose_table_cell(0, 1);insert_text("Varias ciudades alrededor del mundo");choose_table_cell(1, 0);insert_text("Etnicidad");choose_table_cell(1, 1);insert_text("comunidad y cultura china");choose_table_cell(2, 0);insert_text("Características");choose_table_cell(2, 1);insert_text("arquitectura china, negocios, cocina, celebraciones culturales")
+choose_title();insert_text("China Town");set_font_bold();
+insert_pie_chart([40, 30, 30], ["Restaurantes chinos", "Tiendas minoristas chinas", "Festivales y eventos culturales"]);
+insert_picture("China_town");
+align_slide_bottom();
+insert_star();align_slide_right();
+insert_note("China Town");
+
+create_slide();set_background_color("green");
+choose_title();insert_text("feminismo");set_font_color("green");
+choose_content();insert_text("El feminismo es la creencia y el objetivo de que las mujeres deben tener los mismos derechos, poder y oportunidades que los hombres");
+set_font_color("yellow");set_font_italic();
+
+choose_title();insert_text("3.ª ola del movimiento feminista");set_font_bold();
+set_font_style("Times New Roman");set_font_color("blue");set_font_size(28);
+choose_content();insert_text("Se enfoca en creencias religiosas multirraciales, costumbres étnicas, multiculturalismo, protección ambiental, consumismo, orientación a la diversidad");
+insert_picture("female_portrait");set_top("picture","content");
+
+create_slide();choose_title();insert_text("adaptación cinematográfica de Orgullo y prejuicio");
+set_font_size(24);set_font_italic();
+choose_content();insert_text("Catorce años después de su primera emisión, la adaptación de 1995 del guionista Andrew Davies de la novela Orgullo y prejuicio de Jane Austen sigue siendo un punto de referencia contra el cual se mide popularmente la adaptación de Austen. Destaca por su 'sexo' del drama de época ");
+insert_bullet_point("");
+set_font_size(20);set_line_space(2);
+insert_picture("web_image");
+insert_rectangle();align_top_right_corner();
+set_background_color("light orange");
+
+insert_table(3, 2);
+choose_table();choose_table_cell(0, 0);insert_text("Ubicación");choose_table_cell(1, 0);insert_text("Etnicidad")
+choose_content();insert_text("Elizabeth Bennet y el Sr. Darcy experimentan un importante desarrollo de personajes a lo largo de la novela, aprendiendo lecciones importantes sobre ellos mismos y la sociedad".");
+insert_picture("Elizabeth_Bennet_and_Mr. Darcy");set_bottom("picture", "table");
+align_slide_right();
+insert_rectangle();align_top_left_corner();
+create_slide();choose_title();insert_text("El papel de la clase social en el orgullo y el prejuicio");set_font_underline();
+choose_content();insert_text("La clase social juega un papel importante en la novela, influyendo en las relaciones, decisiones y autopercepciones de los personajes");
+insert_circle();align_bottom_right_corner();set_fill_color("orange");
+set_background_color("orange");
+
+create_slide();choose_title();insert_text("Formas");
+insert_rectangle();set_fill_color("red");align_slide_left();
+insert_circle();set_fill_color("blue");align_slide_right();
+insert_triangle();set_fill_color("green");align_slide_left();
+insert_callout();set_fill_color("yellow");align_slide_right();
+
+insert_picture("19th-century_marriage_scene");align_slide_right();
+insert_triangle();set_right("triangle", "picture");
+choose_title();insert_text("matrimonio del siglo XIX");
+set_font_italic();set_font_bold();
+
+insert_pie_chart([30, 25, 15, 10, 10, 10], ["Vainilla", "Chocolate", "Fresa", "Chispas de chocolate con menta", "Galletas y crema", "Mantequilla de pecanas"]);
+insert_picture("strawberry");set_bottom("picture", "chart");
+choose_content();insert_text("Los gastos aumentaron significativamente el último trimestre debido a mayores costos operativos y una mayor inversión en iniciativas de marketing");
+set_font_style("Times New Roman");set_font_size(18);
+
+create_slide();choose_title();insert_text("Creación de PPT");insert_note("Creación de PPT");
+choose_content();insert_text("La creación de presentaciones de PowerPoint atractivas e impactantes requiere una planificación y ejecución cuidadosas");
+choose_content();set_font_underline();set_font_color("dark red");
+choose_title();set_font_bold();set_font_italic();
+insert_note("PPT");
+
+create_slide();choose_title();insert_text("Redes neuronales");
+choose_content();insert_bullet_point("Neural networks are a type of machine learning algorithm that are modeled after the structure of the human brain. They consist of layers of interconnected nodes that process information and learn to recognize patterns.");
+choose_title();set_font_color("red");
+insert_picture("neural_network_architecture");
+insert_cloud();set_right("cloud","picture");
+set_background_color("yellow");
+
+create_slide();insert_cloud();set_fill_color("red");align_slide_right();
+choose_content();insert_text("Proporcionar conclusiones claras");
+choose_title();set_font_color("orange");create_slide();choose_title();insert_text("Preprocesamiento de datos");
+set_background_color("red");
+
+create_slide();choose_title();insert_text("Transferir aprendizaje");
+set_font_size(28);set_font_bold();choose_content();set_font_size(28);
+set_font_style("Times New Roman");set_font_color("red");
+set_background_color("red");
+choose_content();insert_text("El aprendizaje por refuerzo es un tipo de aprendizaje automático en el que el algoritmo aprende a través de prueba y error. A menudo se usa para enseñar a las máquinas cómo tomar decisiones en entornos complejos");
+
+insert_table(3, 2);choose_table();choose_table_cell(0, 0);insert_text("Nombre del modelo");choose_table_cell(0, 1);insert_text("ChatGPT");choose_table_cell(1, 0);insert_text("Arquitectura");choose_table_cell(1, 1);insert_text("GPT (Transformador Generativo Pre-entrenado)");choose_table_cell(2, 0);insert_text("Tamaño de datos de entrenamiento");choose_table_cell(2, 1);insert_text("Múltiples terabytes de diversos datos de texto")
+choose_title();insert_text("GPT");set_font_bold();
+choose_content();insert_text("Generative Pre-trained Transformer 3 (GPT-3) es un modelo de lenguaje autorregresivo lanzado en 2020 que utiliza el aprendizaje profundo para producir texto similar al humano");
+set_font_underline();set_font_color("dark red");choose_title();set_font_color("dark red");
+insert_picture("gpt-3_architecture");set_right("picture","content");
+
+create_slide();choose_title();insert_text("Cumbre borrascosa");set_font_italic();
+choose_content();insert_text("La historia es contada por Lockwood, una parte desinteresada, cuya narración sirve como marco para una serie de narraciones retrospectivas más cortas de Ellen Dean, una ama de llaves");set_font_bold();
+set_font_color("red");choose_title();set_font_color("red");
+insert_right_arrow();
+set_width(6);set_height(4);
+create_slide();insert_cloud();
+insert_picture("wuthering_height_bookcover");
+choose_content();insert_text("Cumbres Borrascosas, novela de Emily Brontë, publicada en 1847 bajo el seudónimo de Ellis Bell");
+set_font_style("Times New Roman");set_font_size(18);
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("Categoría");choose_table_cell(0, 1);insert_text("Información")
+insert_note("Microsoft");
+
+create_slide();choose_title();insert_text("Orgullo y prejuicio de Jane Austen");
+choose_content();insert_text("La novela explora temas de amor, matrimonio y expectativas sociales entre la nobleza británica");set_font_bold();set_font_underline();
+insert_right_arrow();set_left("right_arrow", "content");
+set_fill_color("light orange");choose_content();set_font_color("dark green");
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("categoría");choose_table_cell(0, 1);insert_text("información");choose_table_cell(1, 0);insert_text("autor");choose_table_cell(1, 1);insert_text("Jane Austen")
+insert_picture("jane_austen_portrait");
+set_height(6);align_top_right_corner();
+
+create_slide();choose_title();insert_text("El viaje de la vida de Sirsa");set_font_bold();
+set_font_size(24);
+insert_table(4, 3);choose_table_cell(0, 0);insert_text("Infancia");choose_table_cell(0, 1);insert_text("0-10 años");choose_table_cell(0, 2);insert_text("Escolaridad");choose_table_cell(1, 0);insert_text("Adolescencia");choose_table_cell(1, 1);insert_text("11-18 años");choose_table_cell(1, 2);insert_text("Bachillerato")
+insert_picture("school");
+set_left("picture","table");
+
+create_slide();choose_title();insert_text("Explorando el Universo");set_font_underline();
+insert_picture("galaxy");
+choose_content();insert_bullet_point("Stars");insert_bullet_point("Planets");insert_bullet_point("Nebulae");insert_bullet_point("Black Holes");insert_bullet_point("Dark Matter");
+set_font_bold();set_font_italic();
+set_font_color("dark red");
+insert_pie_chart([35, 25, 40], ["Edificio de enseñanza", "Estadio", "Patio de recreo"]);
+align_slide_top();
+insert_line_chart([20, 30, 40, 10], ["1st year", "2nd year", "3rd year", "4th year"]);
+insert_bar_chart([20, 30, 40, 10], ["1st year", "2nd year", "3rd year", "4th year"]);
+set_background_color("blue");
+
+create_slide();choose_title();insert_text("introducción");
+choose_content();insert_text("En este documento, exploramos cómo el uso de métodos múltiples y complementarios durante un período de tiempo más largo genera tanto potencial como obstáculos, así como complejidades e incertidumbres".");
+set_font_color("red");
+set_font_size(20);
+set_background_color("light blue");choose_content();set_font_size(40);
+
+choose_content();insert_text("Nanyang es una ciudad histórica y cultural nacional, con un profundo patrimonio histórico y una rica acumulación cultural");
+insert_bullet_point("");
+set_font_size(18);set_font_italic();set_font_style("Arial");
+choose_title();insert_text("Mi ciudad: Nanjing");
+insert_picture("Nanjing");align_slide_right();
+create_slide();choose_title();insert_text("Catalogar");insert_note("Catalogar");
+set_font_italic();set_font_size(24);
+choose_content();insert_text("Un catálogo sirve como un recurso integral y visualmente atractivo, que muestra una amplia gama de productos o servicios");
+set_font_color("green");set_background_color("dark blue");
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("Producto");choose_table_cell(0, 1);insert_text("Precio");choose_table_cell(1, 0);insert_text("camisa");choose_table_cell(1, 1);insert_text("$29,99");choose_table_cell(2, 0);insert_text("vestido");choose_table_cell(2, 1);insert_text("$59,99")
+insert_pie_chart([40, 30, 30], ["camisa", "vestido", "pantalones"]);
+insert_line_chart([40, 30, 30], ["shirt", "dress", "pants"]);
+insert_bar_chart([40, 30, 30], ["shirt", "dress", "pants"]);
+
+choose_title();insert_text("disfruta de una vida feliz");
+insert_star();set_top("star","title");
+set_font_style("Arial Black");
+choose_content();insert_text("Disfrutar de una vida feliz implica encontrar alegría en los pequeños momentos, fomentar relaciones significativas, perseguir pasiones, mantener un equilibrio saludable entre el trabajo y la vida y practicar el cuidado personal");set_line_space(2);
+insert_picture("happy_person");align_top_right_corner();
+set_height(4);set_width(5);align_bottom_left_corner();
+
+choose_table();insert_table(5, 1);choose_table_cell(0, 0);insert_text("Maratón completado");choose_table_cell(1, 0);insert_text("Primer libro publicado");choose_table_cell(2, 0);insert_text("Promovido a Gerente");choose_table_cell(3, 0);insert_text("Más de 100 horas de voluntariado");choose_table_cell(4, 0);insert_text("Comenzó un negocio exitoso");
+choose_title();insert_text("Mi gran logro en 2023");
+choose_content();insert_text("En 2023, logré hitos notables que superaron mis expectativas. Desde completar un maratón hasta publicar mi primer libro y lograr una promoción, estos éxitos impulsan mi impulso para un mayor crecimiento y me inspiran a alcanzar incluso mayores alturas");
+insert_picture("book");align_slide_top();
+insert_pie_chart([30, 25, 45], ["Maratón", "Libro", "Voluntario"]);
+insert_rectangle();set_left("rectangle","chart");
+insert_note("2023");
+
+choose_title();insert_text("Crítica literaria ética");
+set_font_bold();set_font_color("blue");align_slide_bottom();
+insert_picture("mountain_landscape");align_slide_right();
+choose_content();insert_text("El método de la crítica literaria ética es un enfoque novedoso propuesto por el profesor Nie Zhenzhao de la Universidad Normal de China Central");
+set_font_underline();set_font_style("Times New Roman");set_font_size(24);set_line_space(2);
+set_font_color("dark blue");
+insert_rectangle();align_slide_left();
+set_fill_color("green");insert_text("verde");
+align_top_right_corner();
+insert_right_arrow();set_right("right_arrow","content");
+
+create_slide();choose_title();insert_text("Miembros del equipo");
+insert_picture("team_member");align_slide_bottom();
+set_width(6.5);
+insert_note("Miembro del equipo");choose_title();set_font_bold();
+
+create_slide();choose_title();insert_text("Rendimiento de ventas");
+set_font_color("blue");set_font_size(24);set_font_underline();set_background_color("green");
+choose_content();insert_text("El rendimiento de las ventas es un indicador clave del éxito de una empresa en la generación de ingresos. Refleja la eficacia del equipo de ventas y la demanda general del mercado de los productos o servicios");
+set_font_color("dark red");set_font_size(18);
+insert_table(3, 5);choose_table_cell(1, 1);insert_text("Año");choose_table_cell(1, 2);insert_text("Cuarto");choose_table_cell(1, 3);insert_text("Ganancia");choose_table_cell(2, 1);insert_text("2018");choose_table_cell(2, 2);insert_text("Q1");choose_table_cell(2, 3);insert_text("$500,000");
+set_font_size(18);
+
+create_slide();choose_title();insert_text("Informe de ventas");
+insert_line_chart(["Product A","Product B","Product C"], series=["Producto A", "Producto B", "Producto C"]);
+set_chart_title("Revenue Trend");
+insert_picture("T-shirt");insert_textbox();insert_text("Camiseta");
+insert_star();set_right("star","picture");
+create_slide();choose_title();insert_text("Estructura organizativa");
+insert_table(4,2);choose_table_cell(0,0);insert_text("CEO");choose_table_cell(0,1);insert_text("John Smith");choose_table_cell(1,0);insert_text("DIRECTOR DE FINANZAS");choose_table_cell(1,1);insert_text("Fulano de tal");choose_table_cell(2,0);insert_text("ARRULLO");choose_table_cell(2,1);insert_text("Tom Jones");choose_table_cell(3,0);insert_text("CMO");choose_table_cell(3,1);insert_text("Sarah Lee");
+choose_title();set_font_underline();move_to_previous_slide();choose_title();set_font_underline();
+set_font_size(20);set_font_color("purple");
+insert_note("Estructura organizativa");
+set_background_color("green");
+
+create_slide();choose_title();insert_text("Introducción");
+choose_content();insert_text("Gracias por acompañarnos hoy. Estamos emocionados".");
+insert_text("lo tengo aquí y espero poder compartir algunas noticias emocionantes con usted");
+set_font_style("Times New Roman");set_font_size(20);
+insert_picture("landscape");set_height(3);set_width(5);
+insert_triangle();insert_rectangle();set_right("rectangle","triangle");
+set_background_color("purple");insert_note("2023");
+
+choose_title();insert_text("Lanzamiento del producto");set_font_bold();set_font_color("red");
+insert_picture("computer");
+set_height(2);set_width(2);
+choose_content();insert_text("Nuestro nuevo producto es un dispositivo móvil de última generación que combina la última tecnología con un diseño elegante y fácil de usar");
+set_font_bold();set_font_color("red");
+create_slide();choose_title();insert_text("Características del producto");
+insert_table(2, 5);choose_table_cell(0, 0);insert_text("Característica");choose_table_cell(0, 1);insert_text("Descripción");
+insert_bar_chart([0.25,0.50,0.25], ["Producto A", "Producto B", "Producto C"]);
+set_chart_title("Feature Importance");
+set_background_color("light blue");insert_note("Característica de importancia");
+
+create_slide();choose_title();insert_text("Resultados financieros trimestrales");
+set_font_style("Arial");
+choose_content();insert_text("Nuestra empresa logró un ingreso de $1,5 millones y una ganancia de $500 000 este trimestre");
+set_font_bold();set_font_underline();
+insert_table(4, 5);
+choose_table();choose_table_cell(0, 0);insert_text("Mes");choose_table_cell(0, 1);insert_text("Ingresos");choose_table_cell(0, 2);insert_text("Gastos");choose_table_cell(0, 3);insert_text("Ganancia")
+insert_bar_chart([50, 60, 55, 70], ["Q1 2022", "Q2 2022", "Q3 2022", "Q4 2022"]);
+set_chart_title("Quarterly Financial Results in 2022");
+set_background_color("red");
+create_slide();choose_title();insert_text("Análisis financiero");
+insert_picture("company_logo");
+choose_content();insert_text("¡Gracias por su atención!");set_font_underline();set_font_italic();set_font_size(26);
+
+create_slide();choose_title();insert_text("Datos de ventas");
+insert_bar_chart([500000, 400000, 600000, 450000], series=["Región A", "Región B", "Región C", "Región D"]);
+set_chart_title("Regional Sales");
+choose_title();set_font_underline();insert_note("Fuente de datos: Informe de ventas 2023");
+
+create_slide();choose_title();insert_text("Encuesta de clientes");
+insert_pie_chart([0.4, 0.3, 0.2, 0.05, 0.05], ["Muy Satisfecho", "Satisfecho", "Neutro", "Insatisfecho", "Muy insatisfecho"]);
+align_slide_bottom();
+insert_picture("questionnaire");align_slide_top();
+insert_note("2023/5");
+
+choose_title();insert_text("El encanto de la lingüística");set_background_color("light blue");
+choose_title();set_font_style("Arial");set_font_color("red");set_font_size(36);
+insert_text("La lingüística es el estudio científico del lenguaje y su estructura. Explora las complejidades de la comunicación humana, desde la fonética y la sintaxis hasta la semántica y la pragmática".");
+set_font_style("Verdana");set_font_color("yellow");set_font_size(18);set_line_space(2);
+create_slide();choose_title();insert_text("Ramas de la lingüística");
+insert_table(3, 4);
+choose_table_cell(0, 0);insert_text("Ramas de Lingüística");choose_table_cell(0, 1);insert_text("Descripción");choose_table_cell(0, 2);insert_text("Ejemplos");choose_table_cell(1, 0);insert_text("Fonética");choose_table_cell(1, 1);insert_text("El estudio de los sonidos del habla");choose_table_cell(1, 2);insert_text("Fonética articulatoria, Fonética acústica, Fonética auditiva")
+insert_picture("book_about_linguistics");align_slide_bottom();
+set_height(6);set_width(5);
+move_to_slide(0);set_background_color("purple");move_to_slide(1);set_background_color("purple");
+
+set_background_color("light green");choose_title();insert_text("Familias de idiomas");
+set_font_bold();set_font_italic();
+insert_bar_chart([445, 1526,1290, 452], ["indoeuropeo", "niger-congo", "austronesio", "chino-tibetano"]);
+set_chart_title("Language familiy and its number of languages");
+create_slide();choose_title();insert_text("Adquisición del lenguaje");set_font_bold();set_font_italic();
+choose_content();insert_text(" ");
+set_font_style("Times New Roman");set_font_color("red");set_font_size(22);
+set_font_underline();set_font_bold();choose_title();set_font_color("red");
+insert_picture("English book");
+insert_rectangle();align_slide_right();
+choose_picture();align_slide_top();
+
+create_slide();choose_title();insert_text("Conclusión");
+choose_title();set_font_style("bold");set_font_style("underline");set_font_color("red");
+choose_content();insert_text(" ");
+set_font_style("Verdana");set_font_color("yellow");
+create_slide();set_background_color("purple");create_slide();set_background_color("purple");create_slide();set_background_color("purple");create_slide();set_background_color("purple");
+move_to_slide(1);choose_title();insert_text("Resumen de las políticas inmobiliarias en China");insert_picture("China_map");
+move_to_slide(2);choose_title();insert_text("Cambios recientes");set_font_style("italic");set_font_style("Verdana");
+choose_content();insert_text("Los cambios recientes en China han visto un rápido crecimiento económico, avances tecnológicos y transformaciones sociales, posicionando al país como una potencia mundial e influyendo en la dinámica global en varias esferas");
+move_to_slide(3);choose_title();insert_text("Esfuerzos para controlar los precios de la vivienda");insert_triangle();
+align_top_right_corner();
+move_to_slide(4);choose_title();insert_text("Iniciativas para aumentar la vivienda asequible");set_font_color("red");
+choose_content();insert_text("Se han implementado iniciativas para aumentar la vivienda asequible, incluidos subsidios gubernamentales, procesos de aprobación simplificados y asociaciones público-privadas, con el objetivo de abordar la crisis de asequibilidad de la vivienda y garantizar el acceso a una vivienda digna para todos");set_font_underline();set_font_italic();
+choose_chart();insert_pie_chart([0.35, 0.25, 0.20, 0.10, 0.10], ["Subsidios gubernamentales", "Procesos de aprobación simplificados", "Asociaciones público-privadas", "Políticas de uso de suelo", "Programas de asistencia de alquiler"]);
+create_slide();choose_title();insert_text("Reglamento de Promotores Inmobiliarios".");insert_note("Reglamento de Promotores Inmobiliarios".");
+choose_content();insert_text("En esta diapositiva, informe las medidas clave de China para regular a los promotores inmobiliarios y las acciones del gobierno para prevenir el fraude y promover prácticas de desarrollo sostenible");
+choose_title();set_font_italic();choose_content();set_font_bold();
+move_to_slide(0);insert_note("Información sobre China");move_to_slide(1);insert_note("Información sobre China");move_to_slide(2);insert_note("Información sobre China");move_to_slide(3);insert_note("Información sobre China");move_to_slide(4);insert_note("Información sobre China");move_to_slide(5);insert_note("Información sobre China");
+
+move_to_slide(8);choose_title();insert_text("Frontier Development of Medical Imaging Equipment");choose_title();set_font_size(24);
+insert_line_chart([0.15, 0.12, 0.18, 0.20], ['Q1', 'Q2', 'Q3', 'Q4']);
+choose_chart();set_chart_title("Revenue Growth");
+insert_table(5, 2);choose_table_cell(0, 0);insert_text("Característica 1");choose_table_cell(0, 1);insert_text("Imágenes de alta resolución");
+set_background_color("light blue");
+insert_triangle();
+choose_content();insert_text("El desarrollo de vanguardia de los equipos de imágenes médicas está revolucionando el cuidado de la salud con imágenes de alta resolución, algoritmos avanzados de IA, análisis de datos en tiempo real, mayor comodidad para el paciente, integración multimodal y flujo de trabajo optimizado, lo que otorga a los profesionales médicos capacidades de diagnóstico sin precedentes");
+set_font_bold();set_line_space(2);set_font_underline();set_font_italic();
+insert_note("Equipo médico");
+
+set_background_color("blue");insert_rectangle();
+create_slide();choose_title();insert_text("Métodos y enfoques en antropología");set_font_size(20);
+choose_content();insert_text("La antropología es una ciencia social que estudia el comportamiento humano, la cultura y las sociedades utilizando una variedad de métodos de investigación");set_line_space(2);
+insert_circle();align_slide_right();
+set_width(4);
+
+create_slide();choose_title();insert_text("La importancia de la hidratación adecuada");
+set_font_style("underline");set_font_style("italic");
+set_font_size(24);set_font_style("Arial");
+insert_picture("person_drinking_water");align_slide_right();
+set_width(6.5);insert_textbox();insert_text("Beber agua");set_bottom("textbox", "picture");
+set_background_color("purple");create_slide();set_background_color("purple");
+insert_picture("folder");set_width(6.5);set_height(5.5);
+choose_title();insert_text("Los beneficios de usar SmartArt");set_font_color("red");set_font_size(40);
+set_font_style("Arial");set_font_style("italic");
+
+choose_title();insert_text("Construyendo tu marca");set_background_color("light green");
+choose_content();insert_text("Crear una marca es un componente crítico de cualquier negocio exitoso. Establece el estilo de fuente en ");set_font_style("Arial");set_font_size(14);
+insert_rectangle();align_slide_right();
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("Identidad de marca");choose_table_cell(0, 1);insert_text("Mensajes de marca");choose_table_cell(0, 2);insert_text("Voz de marca");choose_table_cell(0, 3);insert_text("Estrategia de marca")
+choose_table();copy_table()
+choose_content();set_font_size(14);set_font_style("Times New Roman");
+
+create_slide();choose_title();insert_text("Los fundamentos de la comunicación efectiva");set_font_style("Times New Roman");
+choose_content();insert_text("Puntos clave");insert_text("Descripción");
+set_font_size(24);set_font_underline();set_font_bold();
+set_background_color("light orange");
+
+set_background_color("light blue");
+choose_title();insert_text("Reunión de Tencent");choose_content();insert_text("Reunión de Tencent");
+set_font_underline();set_font_color("dark red");
+choose_content();delete_text();insert_text("Tencent Meeting es una poderosa plataforma de videoconferencia que permite una colaboración y comunicación fluidas entre equipos e individuos. Ofrece una variedad de funciones para reuniones virtuales efectivas, que incluyen compartir pantalla, chatear y grabar");
+set_font_bold();set_font_italic();choose_title();set_font_bold();set_font_italic();
+insert_picture("tencent_meeting");
+
+insert_table(2, 3);
+choose_table_cell(0, 0);insert_text("Características");choose_table_cell(0, 1);insert_text("Descripción");choose_table_cell(0, 2);insert_text("Beneficios")
+insert_note("APP");set_background_color("purple");
+
+set_background_color("blue");choose_title();insert_text("Evaluación de la calidad");
+choose_content();insert_text("La evaluación de la calidad es un proceso crucial para evaluar el rendimiento y los estándares de los productos o servicios. Implica un análisis, una medición y una comparación exhaustivos para garantizar el cumplimiento de los puntos de referencia de calidad y la mejora continua");
+insert_picture("checklist");
+set_left("picture","content");
+insert_pie_chart([0.40, 0.15, 0.25, 0.20], ["Excelente", "Bueno", "Regular", "Deficiente"]);
+set_chart_title("Quality Ratings Distribution");
+align_slide_bottom();
+create_slide();insert_pie_chart([0.40, 0.15, 0.25, 0.20], ["Excellent", "Good", "Fair", "Poor"]);set_chart_title("Quality Ratings Distribution");align_slide_bottom();
+
+create_slide();choose_title();insert_text("Guía para completar un proyecto");
+insert_right_arrow();align_top_right_corner();
+rotate_element(90);
+move_to_slide(0);choose_title();insert_text("Introducción");set_font_bold();move_to_slide(1);choose_title();set_font_bold();
+move_to_slide(0);insert_note("2022/6/10");
+set_background_color("light blue");insert_cloud();
+
+set_background_color("yellow");
+choose_content();insert_text("Trados Studio es una poderosa herramienta de traducción asistida por computadora (TAO) desarrollada por SDL. Ofrece una gama de características y funcionalidades que agilizan el proceso de traducción, incluida la memoria de traducción, la gestión de terminología y herramientas de gestión de proyectos");set_line_space(2);
+insert_note("Creado por Eva");choose_title();insert_text("Trados Studio");
+set_font_color("dark green");set_font_size(30);
+insert_picture("Trados_Studio_logo");align_slide_right();
+set_width(4);set_height(3);
+choose_picture();rotate_element(-15);
+set_background_color("purple");
+
+insert_table(2, 3);
+choose_table();choose_table_cell(0, 0);insert_text("Año");choose_table_cell(0, 1);insert_text("Descripción");choose_table_cell(0, 2);insert_text("Cambios")
+choose_title();insert_text("Grandes cambios en la última década");
+set_font_bold();set_font_italic();
+set_background_color("light blue");
+
+choose_title();insert_text("¿Deberías considerar estudiar en el extranjero?");set_font_bold();set_font_underline();
+insert_picture("students_studying_abroad");align_slide_bottom();
+set_width(5);set_height(3);
+set_background_color("purple");insert_note("¿Deberías considerar estudiar en el extranjero?");
+
+insert_bar_chart([0.45,0.35,0.20], ["Traductores a tiempo completo", "Trabajadores autónomos", "Agencias de traducción"]);
+set_chart_title("Trados Studio Usage Statistics");
+create_slide();choose_title();insert_text("ABBYY FineReader");
+set_font_bold();set_font_underline();set_font_size(30);
+choose_content();insert_text("ABBYY FineReader es un software de reconocimiento óptico de caracteres (OCR) que permite a los usuarios convertir documentos escaneados, archivos PDF e imágenes en formatos editables y con capacidad de búsqueda. Con funciones avanzadas de reconocimiento de texto y conversión de documentos, simplifica el procesamiento de documentos y mejora la productividad");
+set_line_space(2);set_font_italic();
+insert_picture("ABBYY_FineReader_logo");insert_textbox();insert_text("ABBYY FineReader");
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("Característica");choose_table_cell(0, 1);insert_text("Descripción");choose_table_cell(0, 2);insert_text("Beneficios")
+choose_picture();set_right("picture","table");
+insert_pie_chart([0.45,0.45,0.05], ["Precisión alta", "Precisión media", "Precisión baja"]);
+set_chart_title("Document Conversion Accuracy");
+insert_note("Página 2");
+
+create_slide();choose_title();insert_text("Campaña de marketing");
+set_font_bold();set_font_underline();set_font_size(26);
+choose_content();insert_text("Nuestra campaña de marketing tiene como objetivo aumentar el conocimiento de la marca, interactuar con nuestro público objetivo e impulsar las ventas. Con una combinación estratégica de canales de marketing en línea y fuera de línea, nos enfocamos en brindar mensajes impactantes y resultados medibles. .");
+align_slide_left();
+insert_picture("promotional_banner");insert_textbox();insert_text("banner_promocional");
+set_width(5);set_height(5);
+set_background_color("green");
+
+choose_title();insert_text("Energía sostenible");set_font_color("red");
+insert_picture("wind_turbine");set_width(6);
+insert_table(4, 3);choose_table_cell(0,0);insert_text("viento");choose_table_cell(1,0);insert_text("solar");choose_table_cell(2,0);insert_text("hidro");choose_table_cell(3,0);insert_text("geotermia");choose_table_cell(0,1);insert_text("bajo costo");choose_table_cell(1,1);insert_text("bajo impacto ambiental");choose_table_cell(2,1);insert_text("alta disponibilidad");choose_table_cell(0,2);insert_text("alta inversión inicial");choose_table_cell(1,2);insert_text("disponibilidad intermitente");choose_table_cell(2,2);insert_text("conflictos de uso de la tierra");
+set_top("picture", "table");
+create_slide();choose_title();insert_text("Compras en línea");set_font_color("red");
+choose_content();insert_text("Las compras en línea son el proceso de comprar bienes y servicios de comerciantes a través de Internet. Se ha vuelto cada vez más popular debido a su conveniencia y accesibilidad");
+choose_title();set_font_color("blue");set_font_bold();set_line_space(2);
+create_slide();insert_picture("TV_series");set_width(6);
+set_background_color("blue");insert_note("Acerca de la serie de TV");
+
+choose_title();insert_text("Hábitos alimenticios saludables");set_background_color("dark blue");
+choose_content();insert_text("Presiona play para iniciar el video");set_font_style("Verdana");
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("Grupo de alimentos");choose_table_cell(0, 1);insert_text("Porciones recomendadas")
+align_slide_bottom();
+insert_picture("laptop");
+insert_rectangle();set_height(2);
+rotate_element(-45);
+
+choose_content();insert_text("En conclusión, los servicios de TV han revolucionado la forma en que consumimos entretenimiento, brindando una amplia gama de opciones de contenido y comodidad");
+set_font_style("Futura");
+choose_title();insert_text("Conclusión");set_font_bold();
+insert_picture("colorful_plate");
+align_slide_bottom();
+set_background_color("green");
+
+create_slide();set_background_color("purple");
+choose_title();insert_text("Desventaja");
+set_font_bold();set_font_size(24);set_font_style("Arial");
+insert_note("2023/3/9");
+insert_pie_chart([0.30, 0.25, 0.15, 0.5, 0.25], ["Frutas", "Verduras", "Granos", "Proteínas", "Lácteos"]);
+align_slide_bottom();
+insert_textbox();insert_text("La desventaja de comer demasiada comida es que te hará engordar".");set_bottom("textbox", "chart");
+choose_chart();set_chart_title("Daily Food Group Servings");
+
+insert_right_arrow();set_width(3.5);
+rotate_element(-90);
+align_slide_right();
+
+choose_title();insert_text("Tendencias tecnológicas");set_font_underline();
+set_font_color("green");set_font_size(26);
+choose_content();insert_text("Mantenerse al día con las últimas tendencias tecnológicas es esencial en el panorama digital en rápida evolución actual. Desde inteligencia artificial y blockchain hasta computación en la nube e Internet de las cosas, estas tendencias están dando forma a las industrias y revolucionando la forma en que Vive, trabaja y conéctate con el mundo");
+set_background_color("green");
+insert_picture("interconnected_networks");
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("Tendencia tecnológica");choose_table_cell(0, 1);insert_text("Descripción");choose_table_cell(0, 2);insert_text("Impacto")
+insert_line_chart([15,10,7,6,24], ["Dispositivos móviles", "Usuarios de Internet", "Aplicaciones de IA", "Servicios en la nube", "Dispositivos domésticos inteligentes"]);
+set_chart_title("Technology Values");
+insert_pie_chart([15,10,7,6,24], ["Mobile Devices", "Internet Users", "AI Applications", "Cloud Services", "Smart Home Devices"]);set_chart_title("Technology Values");
+
+set_background_color("green");
+choose_title();insert_text("Vida sostenible");set_font_italic();
+insert_picture("solar_panel");align_slide_left();
+choose_content();insert_text("La vida sostenible promueve el consumo responsable, la energía renovable y las prácticas ecológicas para proteger el medio ambiente y garantizar un futuro mejor para las generaciones venideras. Al tomar decisiones conscientes en nuestra vida diaria, podemos reducir nuestra huella de carbono y crear un mundo más sostenible");
+set_font_color("dark orange");
+insert_line_chart([1.6, 2.4, 4.8, 11], ["2013", "2014", "2015", "2016"]);
+set_chart_title("Renewable Energy Consumption Trend");
+set_bottom("chart","title");
+insert_cloud();rotate_element(-30);
+
+insert_table(3, 4);
+choose_table_cell(0,0);insert_text("Dieta equilibrada");choose_table_cell(1,0);insert_text("Control de porciones");choose_table_cell(2,0);insert_text("Hidratación");
+insert_picture("green_city");
+align_slide_top();
+choose_table();align_slide_bottom();
+
+choose_title();insert_text("Gestión de proyectos");
+insert_picture("team");
+choose_title();set_font_underline();set_font_italic();
+choose_picture();align_top_left_corner();
+
+create_slide();choose_title();insert_text("Informe de progreso del proyecto");
+choose_content();insert_table(5, 3);choose_table_cell(0, 0);insert_text("Nombres de tareas");choose_table_cell(0, 1);insert_text("Fechas límite");choose_table_cell(0, 2);insert_text("Estado de progreso")
+set_background_color("purple");choose_title();set_font_color("green");
+
+choose_title();insert_text("Escuela Universitaria y Profesional");
+set_font_size(36);set_font_underline();
+choose_content();insert_text("Las escuelas universitarias y profesionales brindan educación superior y capacitación especializada para equipar a los estudiantes con el conocimiento y las habilidades necesarias para carreras exitosas. Estas instituciones ofrecen una amplia gama de programas académicos, oportunidades de investigación y desarrollo profesional para fomentar el crecimiento personal y la promoción profesional");
+set_line_space(2);
+set_background_color("purple");
+
+insert_picture("professional_school");
+align_slide_right();
+insert_triangle();align_slide_left();
+set_width(10);set_height(15);
+set_bottom("picture","triangle");
+
+create_slide();set_background_color("blue");
+choose_title();insert_text("NFC");set_font_bold();
+choose_content();insert_text("NFC (Comunicación de campo cercano) permite una comunicación inalámbrica perfecta entre dispositivos muy próximos");
+set_font_color("dark green");set_font_size(20);
+insert_picture("nfc_logo");
+set_background_color("purple");
+choose_picture();set_right("picture","slide");
+
+insert_table(2, 4);choose_table();choose_table_cell(0, 0);insert_text("Producto");choose_table_cell(0, 1);insert_text("Ingresos");choose_table_cell(0, 2);insert_text("Unidades vendidas");choose_table_cell(0, 3);insert_text("Margen de beneficio")
+set_background_color("light blue");
+
+insert_line_chart([500000, 1300000, 2500000, 4000000], ["2018", "2019", "2020", "2021"]);
+set_chart_title("NFC Device Growth");
+insert_table(2, 3);choose_table_cell(1, 0);insert_text("Sin contacto");choose_table_cell(1, 1);insert_text("Permite transacciones táctiles");choose_table_cell(1, 2);insert_text("Pagos convenientes y más rápidos")
+insert_star();set_width(6.5);set_height(6.5);
+align_slide_top();
+align_slide_right();
+
+choose_title();insert_text("Abrazando la disrupción");set_font_bold();
+set_font_size(20);set_font_style("Times New Roman");
+insert_picture("futuristic_cityscape");
+align_slide_bottom();
+insert_note("Creado por [su nombre]");set_background_color("purple");
+set_background_color("light blue");
+
+choose_title();insert_text("Power Bank");align_top_left_corner();
+set_font_size(24);set_font_italic();
+choose_content();insert_text("Un banco de energía es un dispositivo portátil que proporciona carga sobre la marcha para teléfonos inteligentes, tabletas y otros dispositivos electrónicos");
+set_font_underline();set_line_space(2);set_font_size(24);set_font_color("orange");
+insert_picture("yoobao_power_bank");align_slide_bottom();
+insert_table(3, 4);choose_table();choose_table_cell(0, 0);insert_text("Marca");choose_table_cell(0, 1);insert_text("Capacidad (mAh)");choose_table_cell(0, 2);insert_text("Puertos de salida");choose_table_cell(0, 3);insert_text("Precio ($)")
+insert_pie_chart([0.40, 0.30, 0.20, 0.10], ["Marca A", "Marca B", "Marca C", "Otros"]);
+set_chart_title("Power Bank Market Share");
+insert_note("2023");
+insert_callout();align_slide_right();
+
+choose_title();insert_text("NBA");set_font_color("red");
+choose_content();insert_text("La Asociación Nacional de Baloncesto (NBA) es una liga de baloncesto profesional que consta de 30 equipos de América del Norte");
+set_font_size(20);
+align_bottom_left_corner();
+
+insert_picture("basketball_court");
+align_slide_top();
+insert_textbox();insert_text("cancha de baloncesto");set_background_color("blue");
+insert_table(4,3);
+choose_table();choose_table_cell(0, 0);insert_text("Equipo");choose_table_cell(0, 1);insert_text("Ciudad");choose_table_cell(0, 2);insert_text("Campeonatos");choose_table_cell(1, 0);insert_text("Los Ángeles");choose_table_cell(1, 1);insert_text("Lakers");choose_table_cell(1, 2);insert_text("17");choose_table_cell(2, 0);insert_text("Boston");choose_table_cell(2, 1);insert_text("Celtics");choose_table_cell(2, 2);insert_text("17");choose_table_cell(3, 0);insert_text("Chicago");choose_table_cell(3, 1);insert_text("Bulls");choose_table_cell(3, 2);insert_text("6")
+insert_bar_chart([17, 17, 6], ["Lakers", "Celtics", "Bulls"]);
+set_chart_title("NBA Championships Distribution");
+create_slide();choose_title();insert_text("Introducción a la conducción autónoma");set_font_underline();
+insert_picture("futuristic_self-driving_car");set_height(7);
+choose_content();insert_text("La conducción autónoma, también conocida como tecnología autónoma o sin conductor, se refiere a vehículos capaces de navegar y operar sin intervención humana");
+align_bottom_left_corner();
+insert_right_arrow();set_left("right_arrow", "content");
+set_right("right_arrow", "content");
+
+choose_content();insert_text("La conducción autónoma está revolucionando la industria del transporte al ofrecer mayor seguridad, comodidad y eficiencia");
+set_font_size(18);set_font_bold();set_font_italic();
+set_font_underline();set_line_space(2);
+insert_table(2, 5);choose_table_cell(0, 0);insert_text("Tipos de sensor");choose_table_cell(0, 1);insert_text("Lidar");choose_table_cell(0, 2);insert_text("Radar");choose_table_cell(0, 3);insert_text("Cámaras");choose_table_cell(0, 4);insert_text("Total")
+choose_content();set_font_style("Times New Roman");
+insert_pie_chart([0.40, 0.30, 0.30], ["Lidar", "Radar", "Cámaras"]);
+set_chart_title("Sensor Types in Autonomous Driving");
+insert_note("Tipos de Sensores en Conducción Autónoma");
+
+choose_title();insert_text("Conducción autónoma");
+insert_picture("company_logo");align_bottom_left_corner();
+set_width(6.5);set_height(6);
+create_slide();choose_title();insert_text("Adopción de conducción autónoma por región");
+set_font_style("Calibri");set_font_size(32);
+choose_content();insert_text("Las tecnologías de conducción autónoma están transformando el panorama del transporte, revolucionando las industrias y mejorando la seguridad y la eficiencia");
+set_font_color("dark orange");
+
+create_slide();choose_title();insert_text("El poder de la siembra".");set_font_style("Calibri");set_font_size(36);
+set_background_color("green");
+choose_content();insert_text("Plantar no solo embellece nuestro entorno, sino que también promueve la sostenibilidad ambiental y proporciona una multitud de beneficios para la salud");
+set_font_color("green");choose_title();set_font_color("green");
+insert_picture("lush_garden");
+insert_pie_chart([0.40, 0.30, 0.30], ["Medio ambiente", "Salud", "Comunidad"]);
+set_chart_title("Planting Benefits");
+set_bottom("chart", "picture");
+insert_right_arrow();rotate_element(60);
+set_height(2);set_width(4);insert_note("Página 2");
+
+insert_table(3, 4);
+choose_table();choose_table_cell(0, 0);insert_text("Beneficios de plantación");choose_table_cell(0, 1);insert_text("Ambiental");choose_table_cell(0, 2);insert_text("Salud");choose_table_cell(0, 3);insert_text("Comunidad")
+set_background_color("green");
+choose_title();insert_text("Otra información");
+set_font_color("dark orange");set_font_underline();
+choose_title();align_top_left_corner();
+
+insert_picture("GoogleLogo");insert_textbox();insert_text("Google");
+choose_content();insert_text("Google y Microsoft Edge son dos navegadores web populares que ofrecen características y funcionalidades únicas. Mientras que Google Chrome domina el mercado con su velocidad y ecosistema extenso, Microsoft Edge tiene como objetivo brindar una experiencia de navegación fluida y integración con los sistemas operativos Windows");
+set_font_size(16);
+choose_title();insert_text("Google vs Microsoft Edge");set_font_color("red");
+choose_picture();align_bottom_left_corner();
+insert_table(3, 3);choose_table_cell(0, 0);insert_text("Funciones");choose_table_cell(0, 1);insert_text("Google Chrome");choose_table_cell(0, 2);insert_text("Microsoft Edge");choose_table_cell(1, 0);insert_text("Velocidad");choose_table_cell(1, 1);insert_text("Alto");choose_table_cell(1, 2);insert_text("Moderado");choose_table_cell(2, 0);insert_text("Ecosistema");choose_table_cell(2, 1);insert_text("Extensivo");choose_table_cell(2, 2);insert_text("Integrado")
+insert_bar_chart([0.50, 0.25, 0.25], ["Google Chrome", "Microsoft Edge", "Others"]);
+set_chart_title("Web Browser Market Share");insert_note("Página 1");
+
+set_background_color("blue");choose_title();insert_text("Networking y LinkedIn");
+choose_content();insert_text("La creación de redes juega un papel crucial en el desarrollo profesional, y LinkedIn es una plataforma poderosa para las redes profesionales. Con millones de usuarios en todo el mundo, LinkedIn ofrece una gama de funciones para conectarse con profesionales, mostrar habilidades y descubrir oportunidades de trabajo");
+choose_title();set_font_color("dark red");choose_content();set_font_color("light red");
+choose_title();set_font_style("Arial");choose_content();set_font_style("Arial");
+choose_title();set_font_underline();choose_content();set_font_italic();set_font_size(24);
+insert_pie_chart([0.30,0.20,0.15,0.10,0.25], ["Tecnología", "Finanzas", "Salud", "Marketing", "Otros"]);
+set_chart_title("LinkedIn User Distribution");
+insert_line_chart([0.30,0.20,0.15,0.10,0.25],["Technology", "Finance", "Healthcare", "Marketing", "Others"]);
+insert_bar_chart([0.30,0.20,0.15,0.10,0.25],["Technology", "Finance", "Healthcare", "Marketing", "Others"]);
+
+create_slide();choose_title();insert_text("Distintas cocinas");
+choose_content();insert_text("Hay varios tipos de cocinas disponibles que se adaptan a las diferentes necesidades de cocción. Desde estufas tradicionales hasta cocinas eléctricas avanzadas y modernas estufas de inducción, cada tipo ofrece características y beneficios únicos");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("Tipo de cocina");choose_table_cell(0, 1);insert_text("Características");choose_table_cell(0, 2);insert_text("Beneficios");choose_table_cell(1, 0);insert_text("quemadores de estufa");choose_table_cell(1, 1);insert_text("gas o eléctricos");choose_table_cell(1, 2);insert_text("control de calor preciso")
+insert_pie_chart([0.40, 0.25, 0.20, 0.10, 0.5], ["Estufa", "Cocina eléctrica", "Estufa de inducción", "Olla de cocción lenta", "Freidora de aire"]);
+set_chart_title("Cooker Type Popularity");
+insert_picture("stovetop");
+set_width(7);set_height(6);
+align_slide_right();
+align_slide_left();
+move_to_slide(0);set_background_color("green");
+
+choose_title();insert_text("Descubre la Delicia de Oreo");
+set_font_bold();set_font_italic();
+set_font_size(30);
+choose_content();insert_text("Oreo, la galleta sándwich icónica, ha sido un regalo favorito para personas de todas las edades. Con su irresistible combinación de obleas de chocolate y relleno cremoso, Oreo ofrece una deliciosa experiencia de refrigerio que trae alegría a cada morder.");
+set_font_color("dark blue");
+insert_picture("Oreo");
+align_top_right_corner();
+insert_star();align_top_left_corner();
+insert_pie_chart([0.40,0.10,0.50], ["Original", "Mint", "Peanut Butter"]);insert_line_chart([0.40,0.10,0.50],["Original","Mint","Peanut Butter"]);
+insert_bar_chart([0.40,0.10,0.50],["Original","Mint","Peanut Butter"]);set_chart_title("Oreo Flavor Popularity");
+
+set_background_color("purple");
+choose_title();insert_text("Variaciones estacionales");set_font_bold();set_font_italic();
+choose_content();insert_text("Las variaciones estacionales aportan un encanto distintivo a nuestras vidas. Desde los colores vibrantes de la primavera hasta los tonos cálidos del verano, el ambiente acogedor del otoño y los paisajes serenos del invierno, cada estación ofrece una experiencia única Abrace la belleza de la transformación de la naturaleza durante todo el año ");
+set_font_style("Arial");set_font_size(18);
+insert_table(4, 4);choose_table_cell(0, 0);insert_text("Temporada");choose_table_cell(0, 1);insert_text("Temperatura promedio");choose_table_cell(0, 2);insert_text("Características clave");choose_table_cell(0, 3);insert_text("Actividades")
+insert_callout();align_slide_left();
+
+choose_title();insert_text("Tiempo en Guangdong: un clima de diversidad");
+align_top_left_corner();
+choose_content();insert_text("Guangdong experimenta una amplia gama de condiciones climáticas durante todo el año. Desde días cálidos y soleados hasta lluvias ocasionales, mañanas con niebla y cielos nublados, el clima en Guangdong es diverso y dinámico. Explore las diferentes estaciones y patrones climáticos en esta vibrante región");set_line_space(2);
+insert_picture("beach");align_top_right_corner();
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("Temporada");choose_table_cell(0, 1);insert_text("Temperatura promedio");choose_table_cell(1, 0);insert_text("Resorte");choose_table_cell(1, 1);insert_text("20-28 ℃")
+set_background_color("purple");
+choose_table();align_slide_bottom();
+insert_cloud();align_slide_left();
+
+insert_picture("sunrise");
+set_width(6);set_height(6);
+choose_title();insert_text("El poder del pensamiento positivo: Aceptando el optimismo");set_font_italic();set_font_bold();
+choose_content();insert_text("El pensamiento positivo es una mentalidad que se enfoca en el optimismo, la resiliencia y la confianza en uno mismo. Al cultivar pensamientos y actitudes positivas, podemos mejorar nuestro bienestar y superar desafíos. , y crea una vida más feliz y satisfactoria. Adopta el poder del pensamiento positivo y desbloquea tu verdadero potencial");set_font_italic();set_font_bold();
+set_font_color("purple");set_font_size(20);
+insert_note("pensamiento positivo");
+
+insert_table(4, 3);choose_table();choose_table_cell(0, 0);insert_text("Beneficios");choose_table_cell(0, 1);insert_text("Descripción");choose_table_cell(0, 2);insert_text("Ejemplos");choose_table_cell(1, 0);insert_text("Bienestar mejorado")
+choose_content();insert_text("El pensamiento positivo es una mentalidad que se enfoca en el optimismo, la resiliencia y la confianza en uno mismo. Al cultivar pensamientos y actitudes positivas, podemos mejorar nuestro bienestar, superar desafíos y crear una vida más feliz y feliz");
+set_font_italic();set_font_color("light blue");
+set_background_color("light green");
+choose_title();insert_text("Definición");set_font_bold();
+align_top_left_corner();
+insert_picture("laugh");align_slide_right();
+
+choose_title();insert_text("Clasificación de basura: Promoción de la gestión sostenible de los desechos");choose_content();insert_text("La clasificación de la basura es una práctica fundamental para promover la gestión sostenible de los desechos. Al clasificar y eliminar adecuadamente los desechos, podemos reducir la contaminación ambiental y conservar los recursos , y contribuir a un planeta más limpio y saludable. Asumir la responsabilidad de clasificar la basura y tener un impacto positivo en nuestro medio ambiente");
+set_font_color("orange");set_font_underline();
+set_font_size(18);
+choose_title();set_font_style("Times New Roman");choose_content();set_font_style("Times New Roman");
+insert_right_arrow();align_bottom_right_corner();
+set_width(4.0);set_height(3.0);
+rotate_element(-90);
+insert_bar_chart([60, 50, 45, 40, 40], series=["Papel", "Plásticos", "Vidrio", "Metales", "Residuos orgánicos"]);set_chart_title("Waste Material Recycling Rates.");
+insert_picture("recycling_bin");
+create_slide();set_background_color("purple");
+choose_title();insert_text("Residuos orgánicos");set_font_size(18);
+choose_content();insert_text("Los desechos orgánicos desempeñan un papel importante en la vida sostenible. Al compostar materiales orgánicos como restos de comida, desechos de jardín y residuos agrícolas, podemos reducir los desechos de los vertederos, enriquecer la calidad del suelo y cerrar el ciclo de nutrientes Adopte la práctica del compostaje y contribuya a un futuro más verde");
+
+create_slide();choose_title();insert_text("La película de Lady Macbeth de Oldroyd");set_font_bold();
+set_font_size(28);set_font_underline();
+choose_content();insert_text("El guión de Birch introduce algunos cambios importantes en la narrativa de Leskov. Por ejemplo, Birch y Oldroyd eliminan por completo los episodios de Siberia y optan por eliminar el suicidio de Katherine");
+set_font_size(20);set_font_bold();
+choose_title();set_font_color("red");choose_content();set_font_color("yellow");
+insert_picture("Lady Macbeth");
+set_width(8);set_height(8);
+set_right("picture","content");
+set_left("picture","content");
+insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("Personaje de película");choose_table_cell(0, 1);insert_text("Actor/Actriz");choose_table_cell(1, 0);insert_text("Lady Macbeth");choose_table_cell(1, 1);insert_text("Florence Pugh");choose_table_cell(2, 0);insert_text("Macbeth");choose_table_cell(2, 1);insert_text("Cosmo Jarvis")
+insert_note("1 de mayo");
+set_background_color("purple");
+
+create_slide();choose_title();insert_text("La importancia del ejercicio");set_font_underline();
+set_font_size(24);set_font_color("green");
+choose_content();insert_text("El ejercicio regular puede mejorar la salud cardiovascular, mejorar el estado de ánimo y aumentar los niveles de energía");
+set_font_size(20);set_font_bold();
+set_font_color("red");
+insert_picture("exercise");
+insert_pie_chart([0.10,0.30,0.50,0.10], ["salud cardiovascular", "fuerza muscular", "bienestar mental", "prevención de enfermedades"]);
+insert_table(5,2);choose_table_cell(0,0);insert_text("Tipos de ejercicio");choose_table_cell(0,1);insert_text("Beneficios");
+set_right("table","picture");
+insert_star();set_background_color("purple");
+align_bottom_left_corner();
+set_width(8);set_height(4);
+
+create_slide();choose_title();insert_text("Los beneficios de la lectura");set_font_size(24);set_font_underline();
+choose_content();insert_text("La lectura puede mejorar la función cognitiva, aumentar la empatía y reducir el estrés");
+set_font_bold();set_font_italic();
+set_font_style("Arial");set_font_color("green");
+insert_picture("person_reading");
+insert_bar_chart([1400, 992, 400, 661, 234], ["Ficción", "No Ficción", "Biografías", "Autoayuda", "Fantasía"]);
+set_chart_title("Book sales");
+insert_table(3, 3);
+choose_table_cell(0, 0);insert_text("Beneficios de lectura");choose_table_cell(1, 0);insert_text("mejora del conocimiento");choose_table_cell(2, 0);insert_text("Expansión del vocabulario");
+set_background_color("red");
+insert_note("Leyendo libros");
+create_slide();set_background_color("red");insert_picture("clock");
+set_width(10);set_height(15);
+insert_note("ACERCA DE LA LECTURA");
+
+create_slide();choose_title();insert_text("Los beneficios del voluntariado");set_font_underline();
+choose_title();set_font_color("dark red");set_font_size(30);
+choose_content();insert_text("El voluntariado puede aumentar la felicidad, mejorar las habilidades sociales y proporcionar un sentido de propósito");
+set_font_color("green");
+set_font_bold();set_font_size(18);
+align_bottom_left_corner();
+insert_picture("volunteers");
+align_bottom_left_corner();
+insert_table(3, 3);choose_table_cell(0, 0);insert_text("Beneficios");choose_table_cell(1, 0);insert_text("crecimiento personal");choose_table_cell(2, 0);insert_text("conexiones sociales");
+choose_content();set_font_bold();set_font_size(20);
+insert_bar_chart([25, 45, 10, 15, 5], ["servicio comunitario", "educación", "atención médica", "conservación ambiental", "ayuda en casos de desastre"]);
+set_chart_title("Volunteergin Importance");
+
+set_background_color("purple");
+choose_title();insert_text("Formato CAJ");set_font_underline();set_font_italic();
+set_font_color("purple");
+choose_content();insert_text("El formato CAJ es un formato de archivo ampliamente utilizado en China para trabajos académicos y documentos de investigación. Proporciona una estructura y un diseño estandarizados para compartir y publicar de manera eficiente");
+set_line_space(2);
+set_font_style("Arial");set_font_bold();
+set_font_color("green");
+align_slide_top();
+insert_picture("sample_caj");
+align_top_right_corner();
+insert_table(2,3);
+choose_table_cell(0, 0);insert_text("Sección");choose_table_cell(0, 1);insert_text("Título");choose_table_cell(0, 2);insert_text("Contenido")
+create_slide();insert_bar_chart([30, 25, 20, 15, 10], ["CAJ", "PDF", "DOC", "PPT", "XLS"]);
+set_chart_title("File Format Usage");
+insert_note("Formato de archivo");set_background_color("purple");
+
+choose_content();insert_text("Escribir en un diario puede reducir el estrés, mejorar la memoria y aumentar la autoconciencia");
+set_font_underline();set_font_size(18);set_font_color("purple");
+choose_title();insert_text("Diario");
+set_font_italic();set_font_style("Arial");
+insert_picture("person_writing");
+align_slide_bottom();
+insert_star();align_slide_right();
+rotate_element(60);
+
+create_slide();choose_title();insert_text("Los beneficios de la jardinería");set_font_size(28);set_font_bold();
+choose_content();insert_text("La jardinería puede reducir el estrés, mejorar la salud física y aumentar la creatividad");
+set_font_italic();set_font_style("Arial");
+insert_cloud();align_slide_right();
+set_left("cloud","title");
+insert_picture("person_working_in_garden");set_width(10);
+create_slide();set_background_color("light blue");
+insert_triangle();align_slide_left();
+set_height(15);rotate_element(45);
+
+create_slide();choose_title();insert_text("Empresas de TI");
+set_font_style("Times");set_font_bold();set_font_size(32);
+insert_picture("Apple Company Logo");set_height(2);set_width(2);
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("2020");choose_table_cell(0, 1);insert_text("2021");choose_table_cell(0, 2);insert_text("2022");choose_table_cell(1, 0);insert_text("274B");choose_table_cell(1, 1);insert_text("365B");choose_table_cell(1, 2);insert_text("394B")
+

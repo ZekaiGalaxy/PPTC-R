@@ -1,0 +1,1876 @@
+Başlık kısmını alt köşeye taşıyın ve "İnsan Değerlendirmesi" ile doldurun. ## 0, title, slide, bottom corner
+İçeriği "Genellikle, çeviri birden çok hakem tarafından isimsiz olarak puanlanır ve daha sonra tüm hakemlerin değerlendirme sonuçları birleştirilerek nihai puan verilir" şeklinde doldurun.
+İki satır ve iki sütun içeren bir tablo ekleyin.
+Soldaki iki boşluğa "Avantajlar" ve "Dezavantajlar" ekleyin. Sağdaki iki boşluğa "Cümlelerin çeviri kalitesini, en yetkili, en yüksek güvenilirliği ve "Uzun süreli değerlendirme" yi doğru bir şekilde yansıtın.
+İçerik yazı tipi boyutunu 20 olarak ayarlayın. Yazı tipi stilini "Arial" olarak değiştirin.
+Sol slayda bir kahve resmi ekleyin. ## 0, picture, slide, left
+Resmi slaydın sağ tarafına taşıyın. ## 0, picture, slide, right
+Yeni bir slayt oluşturun. Yeni slaydın başlığını "İşaretleme Standardı" ve gövde bölümünü "Doğrudan Değerlendirme" ve "Göreceli Sıralama" yapın.
+Başlığın yazı tipi rengini yeşil olarak değiştirin ve iki madde işareti ekleyin.
+Başlığın yazı tipi boyutunu 24 ve içeriğin yazı tipi boyutunu 20 olarak değiştirin.
+
+Bir kule resmi ekleyin. Slaydın altına taşıyın. ## 0, picture, slide, bottom
+Başlığı "İçindekiler" ile doldurun ve resmin üstüne taşıyın. ## 0, title, picture, top
+Yeşil bir dikdörtgen oluşturun.
+Başlığın rengini üçgen rengine değiştirin.
+Başlığın yazı tipi boyutunu 24 olarak değiştirin.
+Başlığın yazı tipi stilini "Arial" olarak değiştirin ve yazı tipi boyutunu iki katına çıkarın.
+Emm, başlığın yazı tipi stilini "Microsoft New Tai Lue" olarak değiştir.
+
+Slayta yeşil bir arka plan rengi verin.
+Bir bulut şekli oluşturun. Slaydın alt tarafına taşıyın. ## 0, cloud, slide, bottom
+İçeriği "Çok yavaş koşuyorsun" ile doldurun.
+Bir tavşan resmi ekleyin. Tavşan resmini slaydın sağ tarafına taşıyın. ## 0, picture, slide, right
+"Bir gün, bir tavşan ve bir kaplumbağa arasında yarış olur" içeriğini ekleyin.
+Yeni bir slayt oluşturun ve içeriği "Bir gün kazanacağım." İçeriği en üste taşıyın. ## 1, content, slide, top
+
+Slaydın ortasına çalışmayla ilgili bir resim ekleyin. ## 0, picture, slide, center
+Bir kare oluşturun. Slaydın ortasına taşıyın. ## 0, rectangle, slide, center
+Başlığı "League of Legends" olarak adlandırın. İçerik bölümüne şu metni ekleyin: "League of Legends, destansı oyunlar yapabileceğiniz 140'tan fazla şampiyonla takım tabanlı bir oyundur. Şimdi ücretsiz oynayın. Ücretsiz Oynayın."
+Başlığın yazı stili ve yazı tipi boyutu "Times New Roman" ve 24 olmalıdır.
+Resmin genişliğini ve yüksekliğini 6 inç ve 5 inç olarak ayarlayın.
+Resmi yaklaşık 15 derece döndürün.
+Yeni bir slayt oluşturun ve elinde kitap tutan bir çocuğun resmini ekleyin.
+Resmi slaydın ortasına taşıyın. ## 1, picture, slide, center
+"Okulda nasıl daha iyi performans gösterilir" başlığını yapın.
+
+Bir bulut ekleyin. Sol tarafta yap. ## 0, cloud, slide, left.
+Bir saat yerleştirin. Sağ tarafta yap. ## 0, picture, slide, right.
+Arka plan rengini açık mavi yapın. Slaydın başlığını "Yapay Zeka" olarak adlandırın.
+Aşağıdaki içeriği içerik bölümüne ekleyin, "Yapay zekanın toplum üzerindeki etkisi geniş çapta tartışılıyor. Birçoğu, yapay zekanın rutin ve hatta karmaşık görevleri insanlardan daha iyi yaparak günlük yaşam kalitesini iyileştirdiğini, hayatı daha basit, daha güvenli ve daha verimli hale getirdiğini iddia ediyor. . "
+İçeriğin yazı tipi rengini açık yeşil olarak değiştirin.
+
+Yeni bir slayt oluşturun ve slayda "Mart Ayında Planla" yazan kırmızı bir başlık ekleyin.
+Başlığın yazı tipi boyutunu 28 ve rengini koyu mavi yapın.
+Bir satır ve üç sütun içeren bir tablo ekleyin ve ilk satırı "1'den 10'a çalışma", "11'den 20'ye çalışma" ve "21'den 31'e seyahat" ile doldurun.
+Başlığın yazı tipi stilini "Arial" olarak değiştirin.
+Mutlu bir çocuğun resmini ekleyin. Tablonun sağ tarafına taşıyın. ## 1, picture, table, right
+Slayta mavi bir arka plan uygulayın.
+Resmi 6,5 inç genişliğinde ve 5 inç yüksekliğinde ayarlayın.
+Emm, şimdi arka plan rengi iyi değil. Sarı olarak değiştirin.
+
+Yeni bir slayt oluşturun ve adını "Meditasyonun Faydaları" olarak adlandırın.
+Meditasyon yapan bir kişinin resmini ekleyin ve onu slaydın ortasına yerleştirin. ## 1, picture, slide, center
+"Meditasyon, iç huzur ve sükunet durumuna ulaşmanıza yardımcı olabilecek basit ama güçlü bir tekniktir" yazın. içerik kısmında.
+İçeriğin yazı tipi boyutunu 24 olarak değiştirin ve yazı tipi rengini lacivert olarak ayarlayın.
+Bir dikdörtgen ekleyin. İçeriğin sağ tarafına koyun. ## 1, rectangle, content, right
+Arka plan rengini açık yeşil olarak değiştirin.
+Aynı arka plana sahip yeni bir slayt oluşturun ve "Meditasyon Türleri" başlığını ekleyin.
+Başlığın yazı tipi stilini "Arial" olarak değiştirin.
+İki sütunlu ve üç satırlı bir tablo ekleyin.
+İlk sütuna "Farkındalık Meditasyonu", "Transandantal Meditasyon" ve "Beden Tarama Meditasyonu" yazın.
+
+Yeni bir slayt oluşturun ve ona yeşil bir arka plan verin.
+Slaydın sol tarafına bir çayır parçası resmi ekleyin. ## 1, picture, slide, left.
+Ve resmin genişliğini ve yüksekliğini 6,5 ve 5,5 inç olarak değiştirin. Slayta bir başlık ekleyin ve onu "Ormanların İşlevleri" yapın.
+Yazı tipi rengini turuncu ve yazı tipi boyutunu 40 olarak değiştirin.
+Bir "ok" şekli ekleyin. Slaydın üst tarafına taşıyın. ## 1, right_arrow, slide, top
+
+Yeni bir slayt ekleyin ve iki sütunlu ve iki satırlı bir tablo ekleyin.
+İlk satırı sırasıyla "Ağaç Türü" ve "Kullanımlar" ile doldurun. Sonraki iki sütunu "farklı ağaç türleri" ve "Farklı yaprak renkleri" ile doldurun.
+"Bugün bir ağaç dikmeyi unutmayın!" yazan içeriği ekleyin.
+İçeriğin yazı boyutunu 20 ve yazı rengini yeşil yapın. Altını çiz.
+
+Beş slayt oluşturun ve hepsinin sarı bir arka plana sahip olmasını sağlayın.
+İlk slaytta "Mutlu Aile" başlığını ekleyin ve yazı tipi stilini "Microsoft JhengHei" yapın.
+İkinci slaytta, bir ailenin resmini ekleyin.
+Üçüncü slaytta, iki sütunlu ve iki satırlı bir tablo ekleyin.
+Tabloyu "Baba", "Anne", "Büyükbaba", "Çocuklar" ile doldurun
+
+Bir slayt oluşturun ve "İş Planı" başlığını ekleyin.
+Slaydın sol tarafına bir ampul resmi ekleyin. ## 1, picture, slide, left
+3 inç genişliğinde olacak şekilde yeniden boyutlandırın. "Girişimcilik, başlangıçta genellikle küçük bir işletme olan yeni bir iş tasarlama, başlatma ve yürütme sürecidir. Bu işletmeleri yaratan kişilere girişimci denir." içerik kısmında.
+İçeriğin yazı tipi boyutunu 20 ve yazı tipi rengini yeşil olarak ayarlayın.
+Slaydın arka plan rengini koyu mavi yapın.
+Slayda kırmızı bir daire şekli ekleyin.
+Aşağıdaki içeriği ekleyin, "Bir iş planı, genellikle yeni olan bir işletmenin hedeflerine nasıl ulaşacağını ayrıntılı olarak açıklayan yazılı bir belgedir."
+Slaytın yazı tipi boyutunu 18 olarak değiştirin.
+3 satır ve 4 sütun içeren bir tablo ekleyin.
+Tablonun ilk satırını "Pazarlama Karması", "Hedef Pazar", "Fiyat" ve "Promosyon" ile doldurun.
+
+Yeni bir slayt oluşturun ve ona açık mavi bir arka plan rengi verin.
+Aşağıdaki içeriği yazın, "Ürün markalaması, bir markanın hedef tüketicilerine ulaşmak amacıyla belirli bir ürün için ayırt edici bir markanın geliştirilmesidir."
+İçeriği italik. Yazı tipi boyutunu 18 yapın.
+İçeriği slaydın altına taşıyın. ## 1, content, slide, bottom
+En üste Lancome logosunun bir resmini ekleyin. ## 1, picture, slide, top
+
+Yeni bir slayt oluşturun ve başlığı "Büyük ölçekli modellemenin esasları" olarak adlandırın ve yazı tipi boyutunu 24 olarak ayarlayın.
+Başlığın yazı tipi stilini "Arial" olarak değiştirin.
+İki sütun ve bir satır içeren bir tablo ekleyin.
+İlk sütunu "Önem" ile doldurun ve yazı tipi boyutunu 18 ve rengi açık mavi olarak ayarlayın.
+Bir bilgisayarın resmini ekleyin. Slaydın ortasına taşıyın. ## 1, picture, slide, center
+İçerik kısmına "Büyük ölçekli modelleme" yazın.
+Slaydın yazı tipi boyutunu 14 ve rengini yeşil olarak ayarlayın.
+
+Soldaki slayta bir kule resmi ekleyin. Resim, sağlam, tehditkar görünen bir kuleye ait olmalıdır. ## 0, picture, slide, left
+Slaydın başlığı "The Ultimate Heist" olmalıdır.
+Başlığın yazı stilini "Times New Roman" yapın. Başlığın rengini yeşil olarak değiştirin.
+Bir üçgen oluşturun. Slaydın sağ tarafına taşıyın. ## 0, triangle, slide, right
+Slayta açık mavi bir arka plan verin.
+
+Üç sütunlu ve üç satırlı bir tablo ekleyin. Tabloyu "'mor', 'mavi', 'açık mavi', 'koyu mavi', 'yeşil', 'açık yeşil', 'koyu yeşil', 'sarı', 'açık sarı' ile doldurun"
+Slayta yeşil bir arka plan rengi verin.
+Emm, renk iyi değil. Koyu mavi renge değiştirin.
+Başlığa "Renk Türleri" adını verin. Bir saatin resmini ekleyin.
+Yeni bir slayt oluşturun ve ona sarı bir arka plan rengi verin.
+Slayda şu içeriği ekleyin: "Kuş gözü veya çingene otu olarak da adlandırılan Speedwell, Avrupa'ya özgü dayanıklı, çok yıllık bir bitkidir."
+
+Bir slayt oluşturun ve birbirleriyle tartışan bir erkek ve kadının resmini ekleyin.
+Lütfen başlığın adını "Evlilik Hem Erkeğe hem de Kadına Ne Getirir?"
+Yeni bir slayt oluşturun ve Japon kimonosu giyen bir kadının resmini ve çocuklarıyla birlikte Afrikalı evli bir kadının başka bir resmini ekleyin.
+Başlık olarak "Farklı Evlilik Rejimlerini Belirleyen Faktörler" ekleyin.
+Ardından, üç slayt daha oluşturun ve kırmızı arka plana sahip olmalarını sağlayın.
+2. slayda ilerleyin ve başlığın adını "Erkekler ve Kadınlar için Evliliğin Ortak Yararları" olarak adlandırın.
+Peki, başlığın altını çizmek istiyorum ve lütfen başlığın yazı tipi rengini sarı olarak değiştirin.
+Üç kişilik mutlu bir ailenin resmini slaydın ortasına yerleştirin.
+Üç kırmızı dikdörtgen yerleştirin.
+yeni bir slayt oluşturun ve "Çin'de Evlilik Kurumunun Evrimi" adını verin.
+bir saat resmi ekleyin ve genişliğini 6,5 olarak ayarlayın.
+Saati slaydın sol tarafına taşıyın. ## 3, picture, slide, left
+Şimdi yeni bir slayt oluşturun ve başlığı "Dünyadaki Kadınların Karşılaştığı Zorluklar" olarak adlandırın. Tam zamanlı bir annenin bir resmini ekleyin.
+Lütfen tam zamanlı bir annenin resminin yüksekliğini 5 inç olarak ayarlayın.
+
+Yeni slaydın başlığını "Sinir Ağı" olarak ayarlayın
+Ardından, slaydın içeriğini ekleyin "Sinir ağları, insan beyninin işlevini taklit eden bir dizi algoritmadır. Modelleri tanımak, verileri sınıflandırmak ve tahminler yapmak için tasarlanmıştır."
+Yazı tipi boyutunu 12 olarak değiştirin ve yazı tipi rengini turuncu olarak değiştirin. Slaydın arka planını kırmızı olarak değiştirin.
+
+lütfen başlığı "Tırnak İşareti" olarak adlandırın
+Başlığın altını çizin ve yazı tipi boyutunu 24 yapın.
+bu slayda içeriği şu şekilde yerleştirin, "Tırnak işareti simgesi, sözcükleri ve pasajları metnin geri kalanından ayırmak için kullanılan bir noktalama işareti türüdür."
+içeriğin yazı tipi rengini yeşil olarak değiştirin. emmm, yazı tipi boyutu çok büyük, lütfen küçültün
+büyük bir tırnak işaretinin resmini ekleyin. İşareti slaydın sol tarafına taşıyın. ## 0, picture, slide, left
+şimdi lütfen yeni bir slayt oluşturun ve ona mavi bir arka plan verin.
+sonra sağa bir dikdörtgen ekleyin. ## 1, rectangle, slide, right
+iki satır ve bir sütun içeren bir tablo ekleyin.
+masayı "Nasılsın?" dedi beyefendi. ilk hücrede "Tırnak işaretlerinin en yaygın kullanımlarından biri, doğrudan bir alıntıyı, başka bir kaynaktan aynen kopyalanan bir pasajı belirtmektir." ikinci hücrede.
+
+lütfen yeni bir slayt oluşturun ve arka planı koyu yeşil yapın
+emm, başlık yok. "Antropolojinin Alanları ve Dalları" başlığını eklememe yardım edin ve yazı boyutunu 18 olarak ayarlayın
+İçeriği aynı punto ile eklemek istiyorum, "Antropolojinin iki geniş alanı vardır."
+Evet, istediğim bu. Lütfen içeriği sağa hizalayın.
+
+Slaytta, uh, sol tarafa bir ok ekleyin
+okun genişliğini 4,0 ve yüksekliğini 3,0 olarak ayarlayın
+şu içeriği ekleyin, "Orta Asya'nın geniş alanları ürkütücü bir şekilde ıssız hissediyor."
+oku 5.0 genişliğinde ve 4.0 yüksekliğinde olacak şekilde büyütün ve 90 derece döndürün.
+son olarak, içeriğe çift boşluk uygulayın
+
+Başlık olarak "Eğitim/Öğretim/PPT Temsili" yazın.
+İçeriğe "Küresel ısınmanın zararlı etkisi" ibaresini ekleyin,
+başlığın yazı tipi rengini koyu mavi ve içeriği mor yapın.
+İçeriğin aynı renginde bir dikdörtgen ekleyin.
+Dikdörtgeni slaydın sol üstüne taşıyın. ## 0, rectangles, slide, left top
+Dört sütun ve iki satır içeren bir tablo ekleyin ve ilk satırı "ver", "ver", "ver" ve "verilen" ile doldurun.
+İçeriğin yazı tipi rengini başlıkla tutarlı olacak şekilde değiştirin.
+
+Arka planı turuncu yapın.
+Bir kedi resmi ekleyin ve genişliğini ve yüksekliğini 5 inç olarak ayarlayın.
+Üç slayt daha oluşturun ve aynı turuncu arka plan rengine sahip olmalarını sağlayın.
+Başlığı "DingTalk Bilgileri" olarak adlandırın
+Üç satır ve beş sütun içeren bir tablo ekleyin.
+İlk satırı "İndirme yöntemleri", "Kuruluşa nasıl katılınır", "Arkadaşlar nasıl bulunur", "Avantajlar" ve her boşluğa "Not" ile doldurun.
+Slaydın sağ tarafına bir yıldız ekleyin. ## 3, star, slide, right
+İçerik bölümüne şu içeriği ekleyin, "önlemek, bir şeyi önceden yaparak önlemek veya engellemek anlamına gelir"
+Şimdi turuncu arka plan iyi değil. Mavi olanla değiştirin.
+İçeriği sola hizalayın.
+
+Bir ok (sağ) yerleştirin ve sarı ile renklendirin.
+Sola hizalanmış başlığı "Okulda hafta içi" olarak adlandırın
+başlığın yazı tipi rengini koyu mavi yapın. italik ve başlığın altı çizili.
+İçerik kısmına şu içeriği ekleyin, "önlemek, yeniden satıldığında fiyatı artırmak için (malları) önceden satın almak demektir"
+Bir okul rozetinin resmini ekleyin. 2,5 x 2,5 kare olarak ayarlayın.
+Yeni bir slayt oluşturun ve arka plan rengini yeşil olarak ayarlayın.
+Slayta sağa hizalanmış "Not" başlığını verin
+Başlığın rengini açık yeşil ve yazı tipi boyutunu 26 olarak değiştirin.
+üç madde işareti ekleyin.
+önceki slayda "2023/4/9" ve "2023/4/8" notu ekleyin.
+
+Bir yıldız ekleyin ve onu slaydın sağ tarafına doğru konumlandırın. ## 0, star, slide, right
+Yıldızı mavi renkle doldurun.
+Slaydın sol tarafına kırmızı bir ok ekleyin. ## 0, arrow, slide, left
+Slayda "Karar Verme" adını verin
+"Mevcut küresel salgın, günlük hayatımızı alt üst etti ve dünyayı asla hayal bile edemeyeceğimiz bir şekilde yeniden şekillendirdi."
+İçeriğin altını çizin ve başlığın yazı tipi boyutunu 24 olarak ayarlayın.
+Hem içeriğin hem de başlığın yazı tipi stilini "Times New Roman" olarak ayarlayın
+
+Beş slayt oluşturun.
+Her slaydın başlık kısmına sırasıyla "Giriş", "Geliştirme", "Değerlendirme", "Analiz" ve "Sonuç" içeriklerini ekleyin.
+Tüm slaytların arka planını sarı olarak ayarlayın.
+İlk tarafta, "Giriş" yazı tipi stilini "Microsoft JhengHei" olarak değiştirin,
+İkinci slaytta bir saat resmi ekleyin.
+Üçüncü slaytta bir çubuk grafik ekleyin. Veriler yatay olarak Ekim, Kasım, Aralık ve dikey olarak 160.170.130'dur.
+Dördüncü slaytta, üç sütunlu ve iki satırlı bir tablo ekleyin.
+Aşağıdaki içeriği ilk satıra "IPA'ya", "Avantajlar" ve "Dezavantajlar"a ekleyin.
+Son slaytta yazı stilini "Times New Roman" yapın,
+Son slayda bir bulut ekleyin.
+Ayrıca, her slayda "Eva Tarafından Oluşturuldu" notu ekleyin.
+
+Bir daire oluşturun. Daireleri mor renklendirin.
+"Şişe" başlıklı bir su şişesi resmi ekleyin.
+Başlık olarak "KALİTE" yazın.
+"KALİTE" rengini kırmızıya çevirin.
+İki satır ve iki sütun içeren bir tablo ekleyin.
+Her hücreyi "Makine Değerlendirmesi", "İnsan Değerlendirmesi", "Otomatik Değerlendirme 1" ve "Otomatik Değerlendirme 2" ile doldurun,
+Yeni bir slayt oluşturun ve "Başarı" olarak adlandırın, dairelerin rengini tutarlı hale getirin.
+
+lütfen yeni bir slayt oluşturun ve başlığı "2. Çeyrek için Pazarlama Stratejileri" olarak adlandırın
+slayda mavi bir arka plan rengi verin.
+Yeni bir slayt oluşturun ve başlığı "Satışları ve Marka Bilinirliğini Artırma" olarak adlandırın.
+emm, lütfen başlığın yazı tipi boyutunu 60 olarak değiştirin.
+Şimdi, 2. slayda yeşil bir arka plan verin.
+Üç slayt daha oluşturun ve hepsinin aynı yeşil arka plana sahip olduğundan emin olun.
+İyi iş. Şimdi üçüncü slayda geçin. "Pazar Eğilimleri ve Rakip Analizi" başlığını ekleyin
+Mavi bir deniz resmi ekleyin.
+Peki, lütfen resmin yüksekliğini 4 ve genişliğini 5 olarak ayarlayın ve başlığın soluna yerleştirin. ## 2, picture, title, left
+Tamam, ben de bunu istiyorum. Şimdi dördüncü slayda geçin. "Misyonumuz ve Değerlerimiz" başlığını ekleyin.
+"VİZYON. Tüm insanlar tam sağlık içinde uzun yaşar. MİSYON.IHME, sağlık politikasını ve uygulamasını geliştirmek için dünyaya zamanında, ilgili ve bilimsel olarak geçerli kanıtlar sunar."
+Biraz dağınık görünüyor, satır aralığını 1,5 olarak ayarlamayı deneyin.
+Fena değil ama içeriğin yazı tipi boyutunu 40 olarak ayarlamayı deneyin. İçeriğin yazı tipi stilini "Times New Roman" olarak değiştirin.
+
+Lütfen yeni bir slayt oluşturun ve sarı bir arka plan uygulayın.
+Başlığa gelince, "Çin ve Amerika'daki Eğitimin Karşılaştırılması" başlığını eklememe yardım edin.
+emm, başlığı "Farkları ve Benzerlikleri Keşfedin" olarak değiştirin.
+Ohno, başlığı "Farklar ve Benzerlikler" olarak değiştirmek istiyorum.
+Şimdi, beş yeni slayt oluşturun.
+Beş yeni slaydın aynı sarı arka plana sahip olmasını sağlayın.
+İkinci slayda geçin ve "Eğitim Sistemleri" başlığını ekleyin.
+"Çin'de eğitim, öncelikle Eğitim Bakanlığı'na bağlı devlet tarafından yürütülen kamu eğitim sistemi tarafından yönetilir. Tüm vatandaşlar, finanse edilen ve dokuz yıllık zorunlu eğitim olarak bilinen en az dokuz yıl okula gitmelidir. Hükümet tarafından."
+Bir sonraki slayda geçin ve başlığı "Farklı Öğretim Stilleri ve Yöntemleri" olarak adlandırın.
+Dördüncü slaydın başlığını "Öğretmen-Öğrenci İlişkisi" olarak adlandırın. Beşinci slayda "Öğrenci Performansı Değerlendirmesi" adını verin.
+Beşinci slayda bir orman resmi ekleyin.
+İçeriği ekleyin "2014'te The Guardian'dan Jonathan Kaiman, Çinli ebeveynlerin ve eğitimcilerin "kendi sistemlerini yozlaşmış, insanlıktan uzaklaştıran, baskı altında ve adaletsiz gördüklerini" yazdı. "birçok ebeveyn, dokuz saatlik zorlu testi çocuklarının yaşamlarının gidişatını belirleyecek bir sıralama mekanizması olarak görüyor." ve altının tırnak işaretleri ile çizildiğinden ve yazı tipi renginin kırmızı olarak ayarlandığından emin olun.
+Şimdi son slayda geçin ve tek satırlı bir tablo ekleyin. Tabloya "Sorumluluk" yazın.
+
+Yeni bir slayt oluşturun ve DingTalk uygulamasının bir resmini ekleyin.
+Bu slayda "ChatGPT'ye Giriş" adını verin. Başlığın yazı tipi rengini yeşil yapın.
+Şimdi aynı başlığa sahip beş yeni slayt oluşturun: "Yapay Zeka Dil Modellerinin Gücünü Serbest Bırakmak." ve başlıkları sola hizalayın.
+İçeriğin yazı tipi stilini "Arial" olarak değiştirin.
+Gövde bölümünde, "ChatGPT, OpenAI tarafından geliştirilen ve Kasım 2022'de piyasaya sürülen bir yapay zeka (AI) sohbet robotudur. OpenAI'nin GPT-3.5 ve GPT-4 büyük dil modelleri (LLM'ler) aileleri üzerine inşa edilmiştir. hem denetimli hem de takviyeli öğrenme teknikleri kullanılarak ince ayar yapılmıştır (öğrenmeyi transfer etmeye yönelik bir yaklaşım).
+Peki, yazı boyutunu 30 ve satır aralığını 2 olarak ayarlayın.
+Bir sütun ve bir satır içeren bir tablo ekleyin ve tabloyu "DingTalk nasıl indirilir" ile doldurun.
+İyi. Bir sonraki slayta geçelim.
+Lütfen başlık olarak "Özellikler ve Sınırlamalar" metnini ekleyin ve ortaya hizalayın.
+İçeriği girin. "Bir sohbet robotunun temel işlevi, konuşkan bir insanı taklit etmek olsa da, ChatGPT çok yönlüdür. Bilgisayar programları yazabilir ve hata ayıklayabilir, ünlü CEO'ların tarzını taklit edebilir ve iş sunumları yazabilir, müzik, televizyon oyunları, peri masalları ve öğrenci denemeleri yazabilir, yanıtlayabilir. test soruları (bazen, teste bağlı olarak, ortalama sınav katılımcısının üzerinde bir seviyede), şiir ve şarkı sözleri yazın, bir Linux sistemini taklit edin, tüm sohbet odalarını simüle edin, tic-tac-toe gibi oyunlar oynayın ve bir ATM simülasyonu yapın ."
+
+yeni bir slayt oluşturun, slayt için yeşil bir arka plan ayarlayın,
+şu içeriği ekleyin: "Hayat, mutluluğunuzu emen insanlarla vakit geçirmek için çok kısa." ve bir noktayı beş kez boşluk olarak ayarlayın.
+içeriğin yazı tipi stilini Verdana olarak değiştirin ve yazı tipi boyutunu 20 olarak ayarlayın.
+Son olarak, içeriğin altını çizin ve içeriğin rengini sarı olarak ayarlayın.
+
+﻿Lütfen yeni bir slayt oluşturun ve ona mavi bir arka plan verin. "Makine Öğrenimi" başlığını ekleyin
+Aşağıdaki metni içerik bölümüne ekleyin: "Makine öğrenimi, sistemlere açıkça programlanmadan otomatik olarak öğrenme ve deneyimlerden gelişme yeteneği sağlayan bir yapay zeka (AI) uygulamasıdır. Makine öğrenimi, erişebilen bilgisayar programlarının geliştirilmesine odaklanır. veri ve bunu kendileri için öğrenmek için kullanın."
+İçeriğin yazı tipi boyutu çok küçük. Lütfen 20'ye yükseltin. İçeriğin yazı stilini Verdana olarak değiştirin.
+Yazı tipi stili iyi değil. "Times New Roman" olarak değiştirin ve içeriği sağa hizalayın.
+Başlığın yazı tipi rengini kırmızı olarak ve boyutunu içeriğin iki katı olacak şekilde değiştirin
+Kırmızı iyi değil, lütfen başlık rengini mavi olarak değiştirin.
+Bu çok daha iyi görünüyor. Sol slayda makine öğrenimi ile ilgili bir resim ekleyin. ## 1, picture, slide, left
+Yüksekliğini ve genişliğini 1,2 olarak ayarlayın
+Son olarak, yeşil bir yıldız ekleyin.
+
+Yeni bir slayt oluşturun ve "Pazarlama Stratejileri" başlığını ekleyin
+İçerik bölümünü ekleyin: "Arama Motoru Optimizasyonu (SEO)", "Sosyal Medya Pazarlaması (SMM)", "E-posta Pazarlaması", "İçerik Pazarlaması" ve "Tıklama Başına Ödeme Reklamcılığı (PPC)" ve önüne madde işaretleri koyun bunların her biri.
+1*1 boyutunda slayda pazarlama ile ilgili görsel ekleyin.
+Verilere göre bir pasta grafiği ekleyin: Apple: %35, Samsung: %25, Huawei: %15, Xiaomi: %10 Diğer: %15 . Ve iki sütunlu ve iki satırlı bir tablo ekleyin.
+Grafik başlığı olarak "Pazarlama" yazın. Tabloya "MT1" , "MT2", "ST1" ve "ST2" girin.
+İçerik bölümünü slaydın alt tarafına taşıyın. ##1, content, slide, bottom
+Bir slayt oluşturun ve pasta grafiği kopyalayın.
+Şimdi tabloyu kopyalayın.
+
+Lütfen yeni bir slayt oluşturun ve "Veri Görselleştirme" başlığını ekleyin.
+Verilere göre bir çubuk grafik ekleyin: yatay "X" New York,Los Angeles,Chicago,Houston ve Phoenixve dikey "Y" ise 8.4, 4.0, 2.7, 2.3 ve 1.7'dir. Ve grafiği slaydın sol tarafına taşıyın. ##1, bar chart, slide, left
+Bir metin kutusu ekleyin ve "Veri görselleştirme, verilerin resimsel veya grafik biçiminde sunumudur. Karar vericilerin, zor kavramları kavrayabilmeleri veya yeni kalıpları belirleyebilmeleri için analitiği görsel olarak görmelerini sağlar."
+Metin kutusunun yazı tipi rengini yeşil olarak değiştirin.
+Şimdi bir sonraki slayda geçin. Ve şu içeriği ekleyin, "Bu yulaf lapası, yapışkan pirinç, esmer şeker ve on sekiz çeşit kuru meyvenin birlikte pişirilmesiyle yapılır."
+
+Lütfen yeni bir slayt oluşturun ve başlığı "Laba Lapası" olarak adlandırın.
+İçindekiler bölümüne şu metni ekleyin: "Hatırladığım kadarıyla her yıl ayın on ikinci ayının sekizinci gününde annem bize Laba lapası pişirirdi."
+yazı tipi rengini sarı yapın ve içeriği kalın yapın.
+Şimdi sağ slayda iki satır ve bir sütun içeren bir tablo ekleyin. ## 1, table, slide, right
+İlk satırdaki ilk hücreye "Geçmiş" ve ikinci satıra "Modern" yazın.
+Slayta açık kırmızı bir renk verin.
+
+Slayta sarı bir renk verin.
+Arka plan iyi değil. Lütfen bu slayt ve diğer tüm slaytlar için yeşil bir arka plan ayarlayın
+Bu iyi gibi görünüyor. lütfen slayt başlığını "Büyük şirket" olarak ayarlayın
+Başlığın yazı tipi boyutunu 28 olarak ayarlayın ve yazı tipi stilini "Futura" olarak değiştirmeme yardım edin.
+Lütfen bir satır ve iki sütun içeren bir tablo ekleyin. Ve "Numara", "Çalışan adları" girin.
+Slayda şirketlerin logolarını ekleyin
+Tablodaki içeriğin yazı tipi rengini sarı olarak değiştirin.
+
+Lütfen yeni bir slayt oluşturun ve başlığı "Yapay Sinir Ağları" olarak adlandırın.
+İçerik kısmına şu metni ekleyin: "Yapay sinir ağları (YSA), hayvan beyinlerini oluşturan biyolojik sinir ağlarından ilham alınarak oluşturulan bilgi işlem sistemleridir. Bu tür sistemler, genellikle göreve özgü herhangi bir kuralla programlanmadan, örnekleri dikkate alarak görevleri yapmayı öğrenirler. YSA'lar, yeni girdileri öğrenme ve bunlara uyum sağlama yeteneğine sahiptir, bu da onları görüntü tanıma, konuşma tanıma ve doğal dil işleme dahil olmak üzere çok çeşitli uygulamalar için kullanışlı kılar."
+İçeriğin yazı tipi boyutu çok küçük. Lütfen 24'e yükseltin
+Ardından içeriğin yazı tipi stilini "Calibri" olarak değiştirin. Slaydın arka plan rengini açık turuncu olarak ayarlayın.
+İçeriği ortaya ve başlığı sola hizalayın
+Slaydın arka plan rengini mavi olarak değiştirin.
+Slayda yapay sinir ağları ile ilgili bir resim ekleyin
+Görüntünün boyutunu 5,5 inç genişliğe ayarlayın.
+Resmi slaydın sağ tarafına taşıyın. ## 1, picture, slide, right
+Üç sütunlu ve iki satırlı bir tablo ekleyin. Ve ilk satırı "1","2","3" ile doldurun.
+Ve ikinci sıraya "video oyunları", "Switch", "TV dizisi" yazın.
+
+Lütfen benim için iki yeni kırmızı slayt oluştur
+Slayt 0'ın başlığını "Zorluklar" olarak adlandırın ve başlığın yazı tipi stilini "Calibri" yapın
+İlk slaydın içerik kısmına şu metni ekleyin: "Yapay zekayı işyerinde uygulamanın zorlukları arasında uzmanlık eksikliği, maliyet ve değişime karşı direnç yer alır."
+İçeriğin yazı tipi rengini yeşil olarak değiştirin
+İkinci slayda geçin ve slayda AI ile ilgili bir resim ekleyin. Resmi slaytta ortalayın. ## 1, picture, slide, center
+
+Lütfen yeni bir slayt oluşturun ve "Giriş" başlığını ekleyin
+İçerik bölümüne şu metni ekleyin: "Video oyunlarının tarihi hakkındaki sunumuma hoş geldiniz. Video oyunları, ilk elektronik oyunun icat edildiği 1950'lerden bu yana çok yol kat etti. Bugün video oyunları, milyarlarca dolarlık bir endüstridir. dünyanın her yerinden insanlar tarafından beğeniliyor."
+İlk elektronik oyunun resmini slayda ekleyin.
+resmi slaydın sağ alt kısmına konumlandırın. ##1, picture, slide, right bottom
+Başlığın yazı tipi rengini mavi olarak değiştirin
+Slayta bir metin kutusu ekleyin ve şu metni ekleyin: "John Smith tarafından sunulmuştur".
+
+Lütfen "Sinir Ağları" başlıklı yeni bir slayt oluşturun.
+Aşağıdaki metni içerik bölümüne ekleyin: "Sinir ağları, insan beyninin işleyişini taklit eden bir dizi algoritmadır. Görüntü tanıma, konuşma tanıma ve doğal dil işleme gibi çeşitli uygulamalar için kullanılırlar."
+İçeriğin yazı tipi stilini Arial olarak değiştirin
+Yeşil bir üçgen yerleştirin. Ve sol köşeye taşıyın. ##1, triangle, slide, left corner
+Slayta bir sinir ağı resmi ekleyin
+Yüksekliğini ve genişliğini 1,2 olarak ayarlayın
+Yeni bir slayt oluşturun. Sağa mavi bir ok yerleştirin. ## 2, right arrow, slide, right
+Bir çizgi grafiği ekleyin. Yatay "X" Ocak, Şubat, Mart, Nisan'dır. "Y" dikeyi 120,140,110 ve 90'dır. Ona "Chatgpt" adını verin.
+Popüler bir sinir ağı kitaplığının (ör. TensorFlow, PyTorch, Keras) adını içeren bir metin kutusu ekleyin
+Başlığın yazı tipi rengini mavi olarak değiştirin. ve slaydın arka plan rengi açık mavi olacak.
+
+Bunu içerik bölümüne ekleyin: "Sözlük, kelimelerin anlamlarını, telaffuzlarını, yazımlarını bulmak ve yeni kelimeler aramak için kullanılabilir."
+İçerik bölümünün üzerinde bir daire oluşturun. ## 0, circle, content, top
+Çembere "isim tamlaması" ekleyin
+İçeriğin yazı tipi rengini kırmızıya, stilini "Etki" olarak değiştirin
+
+Lütfen 3 yeni slayt oluşturun ve başlıkları sırasıyla "Giriş", "Metodoloji" ve "Sonuçlar" dır.
+"Giriş" slaytında, içerik bölümüne aşağıdaki metni ekleyin: "Bu sunum, araştırma projemizi tanıtacak ve önemini açıklayacaktır." "Metodoloji" slaydında, içerik bölümüne aşağıdaki metni ekleyin: "Araştırma metodolojimiz, çeşitli kaynaklardan veri toplamayı ve sonuçlara varmak için istatistiksel analiz kullanmayı içeriyordu."
+Metni sola hizalayın.
+Tüm slaytların arka plan rengini açık mavi olarak değiştirin
+"Sonuçlar" slaydına bir grafiğin resmini ekleyin. Resmin yüksekliğini 6,5 inç olarak ayarlayın.
+Her slayda bugünün tarihi 2022/1/1 olan bir not ekleyin.
+
+Lütfen başlıkları sırasıyla "Ürüne Genel Bakış" ve "Özellikler" olan 2 yeni slayt oluşturun.
+"Ürüne Genel Bakış" slaytına ürünün bir resmini ekleyin
+İçerik kısmına şu metni ekleyin: "Ürünümüz, hedef pazarımızın ihtiyaçlarını, sorunlarına basit ve etkili bir çözüm sunarak karşılamak üzere tasarlanmıştır."
+"Özellikler" slaytına 5 satır ve 2 sütun içeren bir tablo ekleyin.
+Son hücreye "DingTalk" yazın.
+"DingTalk"ın yazı tipi stilini "Times New Roman" olarak değiştirin
+Her slayda geçerli saat 12:00 PM ile bir not ekleyin.
+
+Yeni bir slayt oluşturun ve 1. slayda ortaya hizalanmış "Satış Raporu" başlığını verin.
+Aşağıdaki verileri içeren bir pasta grafik ekleyin: Ürün A: 120, Ürün B: 220, Ürün C: 180.
+başlığın yazı tipi boyutunu 28 olarak değiştirin.
+Slaydın sağ üst köşesine şirket logosunun bir resmini ekleyin
+İçerik kısmına şu metni ekleyin: "Bu rapor, ürünlerimizin 2023 yılının ilk çeyreğindeki satış performansını göstermektedir."
+Metnin yazı tipi stilini "Times New Roman" olarak değiştirin.
+İçerik, başlıkla aynı şekilde hizalanmalıdır.
+
+Yeni bir slayt oluşturun ve "Pazarlama Stratejileri" başlığını ekleyin
+Başlığın yazı tipi stilini "Calibri" ve yazı tipi boyutunu 36 olarak değiştirin
+İçerik bölümüne bir pazarlama kampanyasının resmini ekleyin
+Resmi 45 derece döndürün ve sağ tarafa hizalayın. ## 1, picture, slide, right
+yeni bir slayt oluşturun ve "Güçlü MT" başlığını ekleyin
+Başlığın yazı tipi stilini "Arial" ve yazı tipi boyutunu 24 olarak değiştirin
+Alt başlığın altına yeni bir metin kutusu ekleyin ve buna madde işaretleri ekleyin ve "SEO", "Email Marketing" ve "PPC" yazın.
+Arka plan rengini mavi olarak ayarlayın.
+Verilere göre bir çubuk grafik ekleyin: itemA 27, itemB 30, itemC 29.Ve grafiği slaydın sol tarafına taşıyın. ##1, bar chart, slide, left
+Grafik başlığını "Pazarlama Bütçesi" olarak değiştirin.
+Dört satır ve iki sütun içeren bir tablo ekleyin.
+Aşağıdaki içeriği "Tarih","Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar" tabloya ekleyin.
+Tabloyu grafiğin sağ tarafına taşıyın. ##1, table, chart, right
+
+Yeni bir slayt oluşturun ve ona sarı bir arka plan verin
+"Değerlendirme Metrikleri" başlığı ekleyin
+İki sütunlu ve üç satırlı bir tablo ekleyin
+Aşağıdaki içeriği ilk satıra ekleyin: "Metrik", "Formül". İkinci satıra şu içeriği ekleyin: "Doğruluk", "(TP+TN)/(TP+TN+FP+FN)". Üçüncü satıra şu içeriği ekleyin: "Hassaslık", "TP/(TP+FP)"
+Bir çizgi grafiği ekleyin. Yatay X, 160, 170 ve 130, dikey Y'deki veriler olduğundan veriler Ekim, Kasım, Aralık'tır. Buna "Zaman Makinesi" başlığını verin.
+Aynı verilerle bir çubuk grafik ekleyin.
+
+Yeni bir slayt ekleyin ve "Veri Görselleştirme" başlığını ekleyin
+Şu verileri içeren bir çubuk grafik ekleyin: Yatay X olarak "Göz" , "El" "Bacak" ve "Diz" ve dikey Y olarak 60,70,80,90
+Grafiği 4 inç x 4 inç olacak şekilde yeniden boyutlandırın
+Grafiğe "Bölgeye Göre Satış" başlığı ekleyin
+Slayda yeşil bir ok yerleştirin.
+
+Yeni bir slayt oluşturun ve "Pazarlama Kampanyası" başlığını ekleyin
+İçerik bölümünün sağına bir ürünün resmini ekleyin. ## 1, picture, content, right
+Resmi 5 inç genişliğe ayarlayın.
+İçerik kısmına şu içeriği ekleyin, "Frizce, Almanca ve Felemenkçe (Belçika'da Flamanca olarak adlandırılır) dilleriyle yakından ilişkili olan Avrupa dil ailesi."
+Slaydın sağ alt kısmına kırmızı bir daire ekleyin. ## 1, circle, slide, bottom right
+Arka plana yeşil bir renk verin.
+Slaydın arka plan rengini açık mavi olarak değiştirin
+Ardından, yeni bir slayt oluşturun ve "Satış Verileri" başlığını ekleyin.
+4 sütun ve bir satır içeren bir tablo ekleyin
+Aşağıdaki verileri tabloya girin: satış elemanı adı, toplam satış, komisyon oranı ve komisyon tutarı
+Sonraki slayda geçin. Arka plan rengini son slaytla aynı yapın.
+
+Yeni bir slayt oluşturun ve "Satış Raporu" başlığını ekleyin. Başlık yazı tipi boyutunu 25 olarak ayarlayın
+İçerik kısmına aşağıdaki metni ekleyin: "İşte şirketimiz için üç aylık satış raporu:"
+Yazı tipi boyutunu 16 olarak ayarlayın ve rengini mor olarak değiştirin.
+Slayta bir 8*5 dikdörtgen ekleyin.
+Slaydın arka plan rengini yeşil olarak değiştirin.
+
+Lütfen yeni bir slayt oluşturun ve "Yapay Sinir Ağları" başlığını ekleyin.
+İçeriğe şu metni ekleyin: "Yapay sinir ağları (YSA), hayvan beyinlerini oluşturan biyolojik sinir ağlarından ilham alan ancak aynısı olmayan bilgi işlem sistemleridir. Bu tür sistemler, genellikle programlanmadan, örneklere bakarak görevleri yapmayı öğrenir. göreve özgü kurallarla."',
+İçeriğin yazı tipi boyutunu 24'e yükseltin. Ayrıca içeriğe "Arial" yazı stilini uygulayın.
+Başlığın yazı tipi rengini mor olarak değiştirin.
+Slayta bir beyin resmi ekleyin ve genişliğini 6,5 olarak yeniden boyutlandırın
+Resmi saat yönünde 90 derece döndürün
+Yeni bir metin kutusu ekleyin ve içine "YSA Uygulamaları" yazın.
+Başlığın yazı tipi boyutunu 36 ve yazı tipi stilini Calibri olarak değiştirin
+sadece iki satır ve bir sütun içeren bir tablo ekleyin.
+tabloya şu içeriği ekleyin: "Görüntü tanıma" ve "Doğal dil işleme"
+
+Başlığı "Makine Çevirisi Kalite Değerlendirmesi" olarak adlandırın
+"Muhabir: Eva" başlığının altına bir not ekleyin. ## 0, textbox, title, bottom
+Başlığın yazı tipi boyutunu 66 olarak ayarlayın.
+Arka planı mavi renk ve yazı tipini kırmızı olarak ayarlayın.
+Bu iyi değil. Arka plan rengini kırmızı olarak değiştirin ve yazı tipi rengini mavi yapın.
+
+Lütfen yeni bir slayt oluşturun ve "Neural Networks" başlığını ekleyin.
+İçerik bölümüne şu metni ekleyin: "Sinir ağları, insan beyninin işlevini taklit eden bir dizi algoritmadır. Kalıpları tanımak, verileri sınıflandırmak ve tahminler yapmak için tasarlanmıştır."
+İçeriğin yazı tipi boyutu çok küçük. Lütfen 24'e yükseltin
+Ardından içeriğin yazı tipi stilini Arial olarak değiştirin. İçeriği merkeze hizalayın
+Başlığın yazı tipi rengini mavi olarak değiştirin
+Mavi iyi değil... lütfen başlık rengini yeşil olarak değiştirin
+Slayta bir beyin resmi ekleyin ve yüksekliğini ve genişliğini 1,5 olarak ayarlayın.
+İçeriğe "İnsan beyni, sinir ağlarının geliştirilmesine ilham verdi" ifadesini ekleyin.
+Son olarak, evrişimli sinir ağı (CNN) veya tekrarlayan sinir ağı (RNN) gibi en sık kullanılan sinir ağı mimarisi hakkında bir not ekleyin.
+Şimdi bir sonraki slayda geçin. ve Her iki slaydın arka plan rengini sarı olarak değiştirin.
+
+﻿lütfen yeni bir slayt oluşturun ve başlığını "Kişisel Finans" olarak adlandırın. Notu başlıkla aynı yapın.
+Başlığın altını çizin ve yazı tipi boyutunu 24'e yükseltin.
+Ardından, içerik bölümüne şunu ekleyin: "Kişisel finans, bireysel ve aile mali durumunu yönetme, mevcut ve gelecekteki mali durumunuz için sorumluluk alma ve mali hedefler belirleme evreninin tamamını kapsar. Aynı zamanda, bireysel mali görevleri yerine getirmeyi ve acil durumlar için tasarruf etmeyi de içerir. "
+Evet, şimdi yazı tipi rengini turuncu olarak değiştirin.
+Bir kurumsal finans kitabının resmini ekleyin.
+Resmin genişliğini 6,5 inç olarak ayarlayın.
+evet ve şimdi bu slayda mavi bir arka plan verin
+Beklemek! mavi iyi değil, arka plan rengini açık mavi olarak değiştirin.
+iki slayt daha oluşturun ve lütfen diğer slaytların aynı açık mavi arka plana sahip olmasını sağlayın.
+İkinci slayda iki sütun ve bir satır içeren bir tablo ekleyin.
+
+"Microsoft Update Kataloğu sitesine hoş geldiniz" içeriğini ekleyin.
+Slayt koyu mavi iken içeriğin yazı tipi rengini turuncuya çevirin.
+Bir bilgisayarın resmini ekleyin. Slaydın altına taşıyın. ## 0, picture, slide, bottom
+Emre, bu iyi değil. resmi slaydın sol tarafına taşıyın. ## 0, picture, slide, left
+Şimdi iki satır ve dört sütundan oluşan bir tablo oluşturun. Ve ilk satıra "Temel kavramlar", "Köken", "Kategoriler" ve "Geliştirme" yazın.
+Yeni bir slayt oluşturun ve kırmızı bir yıldız ekleyin.
+Verilere göre bir pasta grafiği ekleyin, Q1 10 milyon; 2. Çeyrek, 12 milyon; 3. Çeyrek 14 milyon. Ve grafiğin alt köşesindeki yıldızı hareket ettirin. ## 1, star, pie chart, bottom corner
+Grafiği 10*10 olarak büyütün.
+
+Yeni bir slayt oluşturun ve ona mavi bir arka plan rengi verin.
+lütfen "Giriş" başlığını ekleyin.
+Ve içeriğe şu kelimeleri ekleyin: "İnsanlar Artı Para eşittir kişisel finans."
+İtalik ve içeriğin altı çizili.
+İçeriğin yazı tipi rengini yeşil olarak değiştirin.
+Biraz para tutan bir kişinin resmini ekleyin. Resmi alt köşeye taşıyın. ## 1, picture, slide, bottom corner
+resmi 8 inç genişliğinde ve 7 inç yüksekliğinde ayarlayın.
+Yeni bir slayt oluşturun. lütfen içerik kısmına "Para her şey değildir, ama hiçbir para imkansız değildir" sözlerini yazınız.
+yazı tipi stilini "Futura" olarak değiştirin, rengi maviye çevirin.
+Mavi o kadar iyi değil. Mor daha iyi olur.
+Şu verileri içeren bir pasta grafiği ekleyin:1,2,3,4,5. Ve içeriğin sağ tarafına taşıyın. ## 2, pie chart, content, right
+Slaydı "Paranın etkileri" olarak adlandırın
+
+lütfen yeni bir slayt oluşturun ve başlığını "Kişisel ve kurumsal finans arasındaki fark" olarak adlandırın.
+sonra, iki satır ve üç sütun içeren bir tablo ekleyin,
+Tablonun sol tarafına bir şirket logosunun resmini ekleyin. ## 1, picture, table, left
+"Borderlands 2", "Divinity: Original Sin 2", "Final Fantasy VII", "Assassin's Creed IV: Black Flag", "Mega Man 3", "Mega Man 3" verilerini içeren tabloyu ekleyin.
+Bir bulut ekleyin ve tablonun sağ tarafına taşıyın. ## 1, cloud, table, right
+Ardından, bu slayda "2023/4/23" notunu ekleyin.
+
+Slayta turuncu bir arka plan rengi verin.
+ve aynı arka plana sahip yeni bir slayt oluşturun, başlığı ekleyin: "Bridget Fonda"
+başlığı italik yapın ve yazı tipi boyutunu 18 olarak ayarlayın
+sağ üst köşeye Bridget Fonda'nın bir resmini ekleyin. ## 1, picture, slide, top right
+resmi 8 inç genişliğinde ve 7 inç yüksekliğinde ayarlayın.
+evet ve yeni bir slayt oluşturun.
+lütfen içeriği ekleyin: "Los Angeles'ta doğan Bridget Fonda, Henry Fonda, Peter Fonda ve Jane Fonda'nın da aralarında bulunduğu saygın bir oyunculuk ailesinden geliyor. Harvey'in bir okul yapımında oynadıktan sonra tiyatroyla ilgilenmeye başladı. Partners'daki sessiz rol. 1988'de ilk konuşma rolü olan Scandal'da rol aldı, ardından birkaç küçük rol üstlendi.
+emmm, içeriğin yazı tipi boyutu çok büyük, lütfen boyutunu 12 yapın ve içeriği italik yapın
+slaydın başlığını "Film Listesi" olarak adlandırın
+üç satır ve üç sütunlu tabloyu ve tabloya 1,2,3,4,5,6,7,8,9 rakamlarını ekleyin.
+Tabloyu slaydın sağ tarafına taşıyın. ##1, table, slide, right
+
+yeni bir slayt oluştur
+ardından "Hayalet Ayı" başlığını ekleyin ve altını çizin
+içeriği ekleyin: "Muhtemelen Hiç Duymadığınız En Nadir Ayı"
+ve Hayalet Ayı'nın bir fotoğrafını ekleyin.
+Yazı tipi stilini "Arial" ve yazı tipi boyutunu 20 olarak değiştirin.
+Fotoğrafı içeriğin sağ tarafına taşıyın. ## 1, photo, content, right
+sonra yeni bir slayt oluşturun ve ayılar hakkında bir ağaç haritası ekleyin,
+ağaç haritasını ortaya taşı, ## 2, treemap, slide, center
+fotoğrafı 4 inç genişliğinde ayarlayın.
+"Dungeons and Dragons için aç kaldığımda, Divinity: Original Sin 2 benim için bu boşluğu doldurdu."
+adını "Favori Oyunum" olarak adlandırın
+şimdi iki satır ve iki sütun içeren bir tablo ekleyin
+Aşağıdaki verileri "SMS", "WeChat", "QQ" ve "DingTalk" tablosuna ekleyin.
+
+Yeni bir slayt oluşturun. Slayt için mavi bir arka plan ayarlayın.
+Sol alt köşeye evrenin bir görüntüsünü ekleyin. ## 1, picture, slide, bottom left
+Resmin genişliğini 6,5 inç ve yüksekliği genişliğin iki katı olarak ayarlayın.
+İçerik kısmına "Biraz seçici olduğum söylenebilir. Şeker, çikolata vb. çok tatlı yiyecekleri sevmem."
+Slayda "En sevdiğim yemek" adını verin
+başlığın ve içeriğin rengini sarı olarak değiştirin.
+başlığın altını çizin. başlığın yazı tipi boyutunu 24 ve içeriği 22 olarak değiştirin.
+Bir bulut ekleyin ve onu resmin sağ tarafına taşıyın. ## 1, cloud, picture, right
+
+başlığı altı çizili yapın "Idol"
+kırmızı bir dikdörtgen ekleyin ve başlığın altına taşıyın. ## 0, rectangle, title, bottom
+ve sola hizalanmış içeriği ekleyin: "Seni istiyorum! (Seni istiyorum!) Sana ihtiyacım var! (Sana ihtiyacım var!) Seni seviyorum! (Seni seviyorum!)"
+kelimeleri çekici kılmak için yazı tipi boyutunu 24 olarak ayarlayın
+Hayır, yazı tipi boyutunu iki katına çıkarın.
+lütfen AKB48'in bir resmini ekleyin
+resmi 6,5 inç yüksekliğe ve iki kat genişliğe ayarlayın.
+bir sütun ve iki satırdan oluşan bir tablo ekleyin ve "Bir idolün zamanı kısadır. Her zaman yeni ve taze bir yüz vardır ve nadiren bebek benzeri statükodan saparlar." masada.
+yazı tipi rengini maviye, yazı tipi stilini "Futura" olarak değiştirin
+"İdollerin Sylvie Vartan'dan stadyumları satan idollere destansı yolculuğu şu soruyu akla getiriyor: İdoller ve ateşledikleri kültür için sırada ne var?" ikinci hücrede.
+dosyaya "2023/05/17" notunu ekleyin.
+
+"İÇİNDEKİLER"i slaydın ortasına yerleştirin.
+Aşağıdaki içeriği arka arkaya "İÇERİKLER", Arka Plan, Değerlendirme Görevleri, Model ve Uygulamalar altına yerleştirin ve numaralandırın.
+"İÇİNDEKİLER" bölümünün yazı boyutunu 80, rengini yeşil olarak ayarlayın.
+İçeriğin altını çizin. İçeriğin yazı tipi stilini "Pecita" olarak ayarlayın.
+
+slayda turuncu bir arka plan rengi verin. ve "En İyi Yazılım" başlığını ekleyin
+Başlığı italik yapın ve yazı tipi boyutunu 24 yapın.
+Şu içeriği ekleyin: "Güçlü bir yazılım mı istiyorsunuz? Bunun için para ödemeniz gerekmiyor. Bilgisayarınızda üretken ve güvenli olmanız için ihtiyacınız olan her şey bu listede ve hepsi tamamen ücretsiz."
+içeriğin yazı tipi rengini sarı olarak ayarlayın.
+şimdi arka plan rengi iyi değil, koyu mavi olarak değiştirin.
+içeriğin altını çizin ve yazı tipi stilini "Arial" yapın
+bir ok yerleştirin ve slaydın altında hareket ettirin. ## 0, arrow, slide, bottom
+ardından, bu slayda "2023/4/25" notunu ekleyin.
+
+lütfen yeni bir slayt oluşturun ve başlığını "Jay Chou" olarak adlandırın
+ardından Jay Chou'nun temel bilgilerini içeriğe şu şekilde ekleyin, "Jay Chou Tayvanlı bir müzisyen, şarkıcı-söz yazarı, multi-enstrümantalist, oyuncu ve yönetmendir."
+yeni bir slayt ve ad oluşturun: "Mojito"
+başlığın altını çizin ve yazı tipi boyutunu 20 olarak ayarlayın
+emmm, yazı tipi boyutunu iki katına çıkar
+lütfen içeriği ekleyin: ""Mojito", uluslararası topluluktan genel halk tarafından iyi karşılandı. Küba güneşi, tropikal gömlekler, antika arabalar ve canlı vuruşlar, şarkıyı yalnızca akılda kalıcı bir kulak kurdu değil, aynı zamanda harika bir görsel zevk haline getiriyor."
+yazı tipi stilini "Futura" olarak değiştirin. Arka planın rengini yeşil olarak değiştirin.
+tamam, şimdi şarkının kapak resmini sağ tarafa yerleştirin. ## 2, picture, slide, right
+
+Slayda "Üniversite hayatım" adını verin
+slayda "kolej" başlığıyla bir meslektaşınızın resmini ekleyin.
+"Üniversite öğrencileri arasında yurt dışında okuma çılgınlığı" içeriğini eklemek istiyorum
+içeriğin yazı rengini kırmızı yapın ve içeriğin altını çizin.
+içeriğin yazı tipi stilini "Futura" yapın ve başlığın yazı tipi boyutunu 22 olarak ayarlayın
+iyi, ardından içeriği sola hizalayın.
+bir satır ve üç sütun içeren bir tablo ekleyin.
+tabloyu "Birinci Sınıf", "İkinci Sınıf", "Üçüncü Sınıf" ile doldurun
+tamam, yeni bir slayt oluşturun ve içeriği ekleyin: "Michelle Obama'nın Pekin Üniversitesindeki Konuşması"
+oh, Pekin Üniversitesi logosunu yerleştirin ve slaydın sağ üst kısmına geçin. ## 1, picture, slide, right top
+logoyu 6,5 inç yüksekliğe ayarlayın.
+
+yeni bir slayt oluşturun ve "Python Öğrenmek" olarak adlandırın
+başlığı italik yapın ve yazı tipi boyutunu 26 olarak ayarlayın, ardından yazı tipi stilini "Times New Roman" olarak değiştirin
+ve arka plan rengini yeşil olarak ayarlayın
+lütfen iki slayt daha oluşturun ve diğer slaytların aynı arka plana sahip olmasını sağlayın.
+Bir dikdörtgen ekleyin ve onu slaydın alt tarafına taşıyın2.## 2, rectangles, slide, bottom
+bir satır ve bir sütun içeren bir tablo ekleyin.
+Tabloyu "Örnek verilmemiştir, lütfen tabloyu doldurunuz" şeklinde doldurunuz.
+
+Lütfen yeni bir slayt oluşturun ve ona yeşil bir arka plan verin. "Makine Çevirisi" başlığını ekleyin
+Aşağıdaki metni içerik bölümüne ekleyin: "Makine çevirisi, bir dilden diğerine metin çevirmek için bilgisayar teknolojisinin kullanılmasıdır."
+İçeriğin yazı tipi boyutu çok küçük. Lütfen 20'ye yükseltin
+Hayır, ikiye katla.
+Yazı rengi iyi değil. Yeşil olarak değiştirin ve içeriği sağa hizalayın.
+Bu çok daha iyi görünüyor. Trados logosunun bir resmini ekleyin.
+Yüksekliğini ve genişliğini 2 inç olarak ayarlayın
+Resmi slaydın altına taşıyın. ## 1, picture, slide, bottom
+Bir dikdörtgen ekleyin ve resmin sağ tarafına taşıyın. ## 1, rectangle, picture, right
+
+Başlığı girin ve "Arka Plan" notunu alın.
+"Çeviri makinesinin çeviri kalitesini anlama gereksinimleri" içeriğini ekleyin ve "Her tarih noktasının güvenilirliğine odaklanın" içeriğin altına bu cümleyi ekleyin.
+Alt kısımda bir bulut oluşturun ve genişliğini 6,5 inç olarak ayarlayın. ## 0, cloud, slide, bottom
+Lütfen başlık boyutunu 30 ve içerik boyutunu 20 yapın. İçerikteki yazı tipini italik yapın.
+
+Sola bir daire ekleyin ve rengini yeşil olarak ayarlayın. ## 0, circle, slide, left
+Dairenin genişliğini ve yüksekliğini 10 olarak ayarlayın.
+İçeriğe "Özellik Öğrenme Modülü" ve "Kalite Değerlendirme Modülü" ekleyin.
+Slaydı "Temel çerçeve" olarak adlandırın.
+Bu dosyaya ayrıca daireye bir "2023/4" notu ekleyin.
+
+Başlığı yeşil olarak "Mart'ta Bordro" olarak adlandırın.
+Bir satır ve üç sütunlu bir tablo oluşturun.
+İlk satıra sırasıyla "Çalışan Kimliği" , "Miktar" ve "Not" ekleyin.
+"Çalışan banka kimliğini ve kimlik kartını verecektir." tablosunun altındaki bilgileri ekleyin. ## 0, textbox, table, bottom
+Bir şirketin marka adının resmini ekleyin ve slaydın sağ köşesine taşıyın. ##0, picture, slide, right corner
+yeni bir slayt oluşturun ve arka plan sarı olmalıdır,
+başlıkta "Bölüm 2" yazıyor ve içerikte "Çalışan Primi" yazıyor.
+Başlığı italik yapın ve yazı tipi boyutunu 44 olarak değiştirin. Başlıkların rengini her slaytta aynı tutun.
+içeriğin yazı tipi stilini Verdana ve rengi daha açık olarak değiştirin.
+Bu slayta "2023/4" notu ekleyin.
+
+Yeni bir slayt oluşturun, başlığı "Derin öğrenmenin özellikleri" olarak adlandırın ve başlığın altını çizmeye yardımcı olun.
+Başlığın yazı tipi boyutunu 26 ve rengini açık mavi olarak ayarlayın.
+Küçük bir daire yerleştirin.
+İçerik kısmına şu metni ekleyin: "Derin öğrenme, bilgisayarlara insanlara doğal gelen şeyleri yapmayı öğreten bir makine öğrenimi tekniğidir."
+içeriğin yazı tipi stilini "Arial" olarak ayarlayın.
+Sola bir üçgen yerleştirin. ## 1, triangle, slide, left
+Üçgeni metnin sağ tarafına taşıyın. ## 1, triangle, text, right
+Üçgenin rengini kırmızıya ve genişliğini 5'e değiştirin.
+Üç madde işareti ekleyin ve her madde işaretinden sonra "Pazar", "Pazartesi" ve "Salı" yazın.
+Bir sonraki slayta geçin ve onu sarı bir slayt yapın.
+başlığı ve notu "Tarafsız Ağlar" olarak adlandırın. Başlığın altını çizin ve italik yapın.
+
+Slayt başlığı "Sanat Tarihi" olarak ayarlanmalıdır.
+Başlığın yazı tipini Times New Roman olarak değiştirin ve kalın yapın.
+"Sanat, öncelikle güzelliği veya duygusal gücü nedeniyle takdir edilmeyi amaçlayan, yazarın yaratıcı, kavramsal fikirlerini veya teknik becerisini ifade eden görsel, işitsel veya performans ürünü eserler yaratmadaki çok çeşitli insan faaliyetleridir."
+Metnin yazı tipi stilini Arial olarak değiştirin ve italik yapın.
+Slayda madde işareti ekleyin.
+Aşağıdaki öğeleri listeleyin: resim, heykel, mimari, müzik ve edebiyat.
+Bir "Mona Lisa" resmi bulun ve alt tarafa yerleştirin. ## 0, picture, slide, bottom
+Resmi slaydın üst köşesine taşıyın. ## 0, picture, slide, top corner
+"Leonardo da Vinci'den Mona Lisa" yazan bir not ekleyin.
+
+Menüden sarı bir yıldız şekli seçin ve slayda çizin.
+Slayda "Yıldızlar" adını verin ve başlığın yazı tipi boyutunu 24 olarak ayarlayın.
+İçerik kısmına "Yıldızlı Geceye Hoş Geldiniz" yazan bir metin ekleyin.
+Evrenin bir resmini bulun ve içeriğin altına ekleyin. ## 0, picture, content, bottom
+Slayda "Parlayan Yıldız, Parlak Yıldız, Parlayan Yıldız" yazan bir not ekleyin. Başlığı not olarak değiştirin.
+
+Lütfen yeni bir slayt oluşturun ve "Müşteri Geri Bildirimi" olarak adlandırın.
+Mutlu bir müşterinin resmini ekleyin ve onu slaydın altına taşıyın. ## 1, picture, slide, bottom
+Kırmızı başlığı değiştir "Müşterilerimiz Bizi Seviyor!"
+Eklemek "!!" başlığın sonuna kadar.
+İçeriğe "Müşteri Yorumları" yazın.
+İçeriğin yazı stilini "Times New Roman" ve yazı rengini yeşil olarak ayarlayın,
+slaydın başlık rengine sahip olmasını sağlayın.
+ımm, bu iyi değil. Arka plan rengini içerik rengi olarak değiştirin.
+
+Lütfen yeni bir slayt oluşturun ve "Pazarlama Planı" olarak adlandırın.
+Ardından başlık kısmına "Giriş" yazın. başlığın altını çizin ve yazı tipini Calibri olarak değiştirin.
+Ardından, sol alt köşeye bir şirket logosunun resmini ekleyin. ## 1, picture, slide, bottom left
+Resmin genişlik ve yüksekliğini 5 inç ve 3 inç olarak ayarlayın ve sağ tarafa geçin. ## 1, picture, slide, right
+İki sütun ve iki satır içeren bir tablo ekleyin: Kategori ve Bilgi, Yaş ve 25.
+Yeni bir slayt oluşturun ve bu slayt için mavi bir arka plan ayarlayın.
+Slayda "Mobil markalar" adını verin
+X'te Huawei, Apple, Xiaomi, Y'de 120,140 ve 150 ile bir çizgi grafiği ekleyin.
+Grafiği "Nisan ayında satışlar" olarak adlandırın
+
+Lütfen bir slayt oluşturun ve adını "2. Çeyrek Mali Raporu" olarak adlandırın.
+başlığın yazı tipi stilini Arial olarak ve yazı tipi boyutunu 20 olarak değiştirin.
+Üç sütun ve bir satır içeren bir tablo ekleyin ve şu verileri girin: "Metrik", "Ç2", "Ç3".
+Bir finansal raporun resmini ekleyin. Resmi tablonun üst tarafına taşıyın. ## 1, picture, table, top
+Aşağıdaki içeriği ekleyin, "2. Çeyrek mali raporu, başarılı maliyet optimizasyonu önlemleri ve ürünlerimize ve hizmetlerimize yönelik artan pazar talebinin sağladığı güçlü gelir artışı ve artan karlılığı gösteriyor."
+İçeriği italik ve kalın yapın.
+İçeriğe bir madde işareti ekleyin.
+Slaydın arka plan rengini açık mavi olarak değiştirin.
+
+Yeni bir slayt oluşturun ve ona yeşil bir arka plan rengi verin
+başlığı yap: Feminizm
+Başlık yazı tipi rengini arka plana ve yazı tipi boyutunu 26 olarak ayarlayın
+Aşağıdaki içeriği ekleyin, "Feminizm, erkeklerinkine paralel olarak kadınlar için eşit haklar, güç ve fırsatlara sahip olma inancı ve arayışıdır."
+İçerik yazı tipi rengini başlıkla aynı yapın, içeriği italik yapın
+Yeni bir slayt oluşturun ve başlığı önceki slaytla aynı renkte olacak şekilde "3. Dalga Feminizm Hareketi" olarak adlandırın.
+Başlığı kalın yapın ve yazı tipi stilini "Times New Roman" olarak ayarlayın. Başlık rengini mavi ve boyutu 28 olarak ayarlayın
+Bir savaş resmi ekleyin ve onu slaydın altına taşıyın. ## 2, picture, slide, bottom
+Şu verileri içeren bir pasta grafik ekleyin: ABD (%40), Rusya (%30), Fransa (%30).
+Üç satır ve iki sütun içeren bir tablo ekleyin. İlk satıra Konum, dünyadaki çeşitli şehirler eklenir.
+
+Lütfen yeni bir slayt oluşturun ve "Ürün Lansmanı" olarak adlandırın.
+"Amaç" yazan içeriği ekleyin. Aynı içeriğe sahip not ekleyin.
+İçeriğin altını çizin ve yazı tipi stilini Times New Roman olarak değiştirin.
+Sol alt kısma bir Apple Pencil resmi ekleyin. ## 1, picture, slide, left bottom
+Resmi slaydın sağ üst tarafına taşıyın. ## 1, picture, slide, right top
+
+Lütfen slaydı "Ekip İlerlemesi" olarak adlandırın.
+İçerik kısmına "Amaç" yazın.
+Aşağıdaki içeriği ekleyin, "Organizasyonun amacı, deneyimli serbest çalışanların mentorluğu yoluyla bu neslin gençlerini ve marjinalize edilmiş gruplarını teşvik etmektir."
+içeriğin yazı boyutunu 18 olarak değiştirin ve içeriğin altını çizin,
+Sağa bir ekip grubunun resmini ekleyin. ## 0, picture, content, right
+
+Slayda "İnovasyonun Gücü" adını verin
+Başlık yazı tipi stilini Arial olarak ayarlayın ve başlığı kalın yapın.
+"Günümüzün hızla değişen dünyasında inovasyon, ekonomik büyümeyi yönlendirmede, siyasi manzaraları şekillendirmede ve kültürel normları dönüştürmede çok önemli bir rol oynuyor. İlerlemeyi besliyor, rekabet gücünü artırıyor ve bireyler ve toplumlar için yeni olanaklar sunuyor."
+içerik rengini koyu mavi olarak ayarlayın ve çift boşluk yapın,
+Yeniliği ve ilerlemeyi temsil eden fütüristik bir şehir manzarası görüntüsünü sol slayda ekleyin. ## 0, picture, slide, left
+Sağ slayda küçük bir dikdörtgen yerleştirin. ## 0, rectangle, slide, right
+Arka plan içerik rengini ayarlayın,
+Yeni bir slayt oluşturun ve "Toplumsal ahlakı ve dış standartları hiçe sayarak, akılcılık olmadan çalışır."
+kalın ve içeriğin altını çizin, Slayda "Peri Masalları" adını verin
+
+Başlığı şu şekilde ayarlayın: Urban Living
+Arka plan rengini açık mavi olarak ayarlayın
+üç satır ve iki sütun içeren bir tablo ekleyin. İkinci sütuna "Miktar", "Kalite", "Seviye" girin
+slayta bir üçgen ve bir dikdörtgen ekleyin. Üçgen, dikdörtgenin üstünde olmalıdır. ## 0, triangle, rectangle, top
+üçgeni dikdörtgenin altına taşıyın. ## 0, triangle, rectangle, bottom
+slaydın sol alt köşesine Şanghay'ın bir resmini ekleyin. ## 0, picture, slide, left bottom
+
+altı sütunlu ve dört satırlı bir tablo ekleyin.
+Year, Friends, Breaking Bad, Game of Thrones, Stranger Things, The Crown'u ilk sıraya ekleyin,
+Slayda bir yıldız ekleyin.
+Doğrudan yıldız eklemek için Arkadaşların bir resmini ekleyin. ## 0, picture, star, right
+Yıldızı görüntünün üst tarafına taşıyın. ## 0, star, picture, top
+slayda "TV dizisi" adını verin. başlığı italik yapın ve başlığın altını çizin,
+Slayta "2023-2025" notu ekleyin.
+
+döndürülmüş 45 derecelik bir üçgen yerleştirin.
+Sağına bir dikdörtgen yerleştirin. ## 0, rectangle, triangle, right
+Dikdörtgenin sağına bir yıldız ekleyin. ## 0, star, rectangle, right
+Yıldızın sağına bir daire ekleyin. ## 0, circle, star, right
+Çemberin sağına döndürülmüş -45 derecelik bir belirtme çizgisi ekleyin. ## 0, callout, circle, right
+Tüm öğelere "şekiller" ekleyin.
+
+Bir küre resmi ekleyin,
+Slaydı "Küresel Genişleme Stratejisi" olarak adlandırın.
+Resmi slaydın sol üst kısmına taşıyın. ## 0, picture, slide, left top
+Aşağıdaki içeriği ekleyin, "Barış ve Sevgi"
+
+Şu verileri içeren bir pasta grafiği ekleyin: Şanghay %40, Pekin %45, Diğerleri %5.
+Slayda "Katkı" adını verin,
+şu içeriği ekleyin, "Pekin'in yıllık gayri safi yurtiçi hasılası 2021'de ilk kez 4 trilyon yuanı (630 milyar $) aştı"
+içeriğin yazı tipi stilini Arial olarak değiştirin,
+Aşağıdaki verileri içeren bir çizgi grafik ekleyin, 2016 %6,7, 2017 %6,9, 2018 %6,6, 2019 %6,1, 2020 %2,3, 2021 %8,1.
+Slayda "GSYİH Büyümesi" adını verin,
+Aşağıdaki verileri içeren bir çubuk grafik ekleyin: 2022 %6,5, 2023 %6,3, 2024 %6,1, 2025 %5,9, 2026 %5,7, 2027 %5,5.
+
+Lütfen yeni bir slayt oluşturun ve "Pazarlama Planı" olarak adlandırın.
+Slayta kırmızı bir arka plan rengi verin.
+Lütfen başlığın üstüne şirket logosunun bir resmini ekleyin. ## 0, picture, title, top
+Lütfen resmin genişliğini 3 inç yapın.
+
+"Queencard" başlığını ekleyin
+Başlığı yalik ve kalın yazıyla yazın. başlığın yazı tipi rengini mor olarak değiştirin.
+slayda açık mavi bir arka plan verin.
+başlığa bir Poker hakkı resmi ekleyin, ## 1, picture, title, right
+resmi slaydın üst köşesine taşı, ## 0, picture, slide, top corner
+bir daire ekleyin ve onu slaydın sağ köşesine taşıyın, ## 0, circle, slide, right corner
+dairenin genişliğini 6 inç ve yüksekliğini 4 inç olarak ayarlayın
+yeni bir slayt oluşturun ve slaydı "Kral" olarak adlandırın
+sağ slayda bir Kral resmi ekleyin. ## 1, picture, slide, right
+
+Lütfen yeni bir slayt oluşturun ve "Proje Zaman Çizelgesi" olarak adlandırın.
+Bir satır ve dört sütun içeren bir tablo ekleyin,
+Ocak, Şubat, Mar, Nisan'ı tabloya ekleyin,
+Slayta "ör." Yazılım lansmanı", "Pazarlama kampanyası başlıyor"" gibi ifadeler ekleyin,
+Tablonun altına proje ekibinin bir resmini ekleyin, ## 1, picture, table, bottom
+Bir ok şekli ekleyin, resmin sol tarafına taşıyın. ## 1, arrow, picture, left
+Okun yüksekliğini ve genişliğini 3 inç ve 3 inç olarak ayarlayın.
+
+Aşağıdaki verileri içeren bir pasta grafik ekleyin, Kadın %40 ve Erkek %60
+Pasta grafiğine "Sınıf 1" adını verin
+Birlikte çalışan bir öğrenci ekibinin resmini ekleyin,
+slayda bir dikdörtgen ekleyin, dikdörtgeni pasta grafiğin altına taşıyın. ## 0, rectangle, pie chart, bottom
+Slaydı "1. Sınıf" olarak adlandırın
+aşağıdaki içeriği ekleyin, "aşağıda her sınıftaki cinsiyet yüzdesi gösterilmektedir"
+içeriğin altını çizin ve yazı tipi boyutunu 20 yapın.
+slayda "Prensip：Eva" notunu ekleyin.
+Bir slayt oluşturun ve grafiği kopyalayın.
+Resmi kopyalayın.
+Dikdörtgeni kopyalayın.
+
+Lütfen yeni bir slayt oluşturun ve "Müşteri Görüşleri" olarak adlandırın.
+İçerik kısmına "Müşterilerimiz hakkımızda ne diyor" yazısını kalın ve italik olarak yazınız,
+Mutlu bir müşterinin resmini ekleyin,
+Bir üçgen ekleyin ve mor renkle doldurun.
+Üçgeni slaydın sağ tarafına taşıyın, ## 1, triangle, slide, right
+
+Lütfen yeni bir slayt oluşturun ve "Strateji" olarak adlandırın.
+"Pazarlama stratejimiz 4 P'ye dayanmaktadır: Ürün, Fiyat, Yer ve Promosyon." içerik kısmında,
+İçeriğin yazı tipi boyutunu 20pt olarak değiştirin ve çift boşluk olmasını sağlayın. başlığın altını çizin ve içeriği kalın yapın,
+başlığın ve içeriğin yazı rengini kırmızı olarak ayarlayın,
+Bir dikdörtgen şekli ekleyin ve onu slaydın sol tarafına taşıyın.## 1, rectangle, slide, left
+dikdörtgenin sağına Apple şirket logosunun bir resmini ekleyin.## 1, picture, rectangle, right
+Resmi dikdörtgenin üst tarafına taşıyın. ## 1, picture, rectangle, top
+
+slayda "Hayranlar" adını verin ve stili ve boyutu Arial, boyut 24pt olarak değiştirin.
+4 öğeyle madde işaretleri ekleyin: "Ürünümüzün faydaları", "Hedef pazar", "Fiyatlandırma stratejisi", "Pazarlama kanalları".
+Bir idolün resmini ekleyin ve resmin yüksekliğini 6,5 inç olarak ayarlayın
+resmi slaydın alt tarafına taşı, ## 0, picture, slide, bottom
+slaydın üst tarafına bir dikdörtgen ekleyin, ## 0, rectangle, slide, top
+slayda "Sunum Yapan Kişi: Eva" notunu ekleyin.
+
+Lütfen yeni bir slayt oluşturun ve "Satış Rakamları" olarak adlandırın.
+Slaydın sol tarafına "Ocak：20, Şubat：30" verilerini içeren bir çubuk grafik ekleyin.
+Slaydın sağ tarafına "Ocak：10, Şubat：15" verileriyle bir çizgi grafiği ekleyin.
+Çizgi grafiğe "Aya Göre Satış" olarak bir başlık ekleyin.
+Bir dikdörtgen şekli ekleyin, onu slaydın en üstüne taşıyın. ## 1, rectangle, slide, top
+içerik kısmına "Gelirlerimiz de son 6 ayda istikrarlı bir şekilde artıyor" yazın,
+
+Lütfen yeni bir slayt oluşturun ve "Satış Raporu" başlığını ekleyin,
+iki satır ve beş sütun içeren bir tablo ekleyin.
+Aşağıdaki verileri tabloya ekleyin: "Ürün", "Satılan Birimler", "Gelir", "Giderler", "Kar".
+Aşağıdaki verileri tabloya ekleyin: "Bilgisayar", "1000", "1000000$", "500000$", "500000$".
+Verileri olan başka bir tablo 1*5: "Yazıcı", "500", "100.000 ABD Doları", "50.000 ABD Doları", "50.000 ABD Doları".
+
+üste bir şehir silüeti resmi ekleyin. ## 0, picture, slide, top
+resmin genişliğini 6 inç ve yüksekliğini 4 inç olarak ayarlayın
+Şimdi "Şehir Hayatı" başlığını ekleyin.
+resmi slaydın sol köşesine taşıyın. ## 0, picture, slide, left corner
+Başlığın yazı tipi boyutunu 20 olarak değiştirin ve başlığı kalın yapın.
+
+Şu verilere dayalı bir çizgi grafiği ekleyin, Konser %40, Albüm %30, Kitap %30.
+Slaydı "Hayranlığın Gücü" olarak adlandırın
+İçerik bölümüne "Hayranlar, filmlerden TV şovlarına, spordan müziğe kadar çeşitli eğlence biçimlerinin başarısının ve etkisinin şekillenmesinde hayati bir rol oynuyor." ifadesini ekleyin.
+içeriğin yazı tipi stilini Arial olarak ayarlayın, İçeriğin yazı tipi boyutunu 20 olarak değiştirin,
+Slayta bir ok ekleyin ve onu slaydın üst tarafına taşıyın.## 0, arrow, slide, top
+Slayta bir daire ekleyin ve onu slaydın altına taşıyın.## 0, circle, slide, bottom
+Yukarı taşı. ## 0, circle, slide, top
+
+Slayt temasını "Tencent" olarak ayarlayın.
+bir dikdörtgen ekleyin, onu slaydın üst tarafına taşıyın, ## 0, rectangle, slide, top
+dikdörtgeni 90 derece döndürün,
+Başlığın yazı tipini Gürcistan olarak değiştirin ve italik yapın.
+Aşağıdaki metni içerik bölümüne ekleyin: "Tencent, 1998'de kurulmuş önde gelen bir Çin çok uluslu holdingidir. Sosyal medya, çevrimiçi oyun, e-ticaret, bulut bilgi işlem ve yapay zeka dahil olmak üzere internetle ilgili çeşitli hizmet ve ürünlerde uzmanlaşmıştır. "
+Daha iyi görünürlük için içeriğin yazı tipi boyutunu 24 olarak ayarlayın. İçeriğin yazı tipi stilini "Arial" olarak değiştirin.
+
+Tencent'in markasına uyması için slayda yeşil bir arka plan uygulayın.
+Tencent logosunu slaytta bir resim olarak ekleyin.
+Resmin genişliğini 6,5 inç olarak ayarlayın,
+Modellerin performansını içeren bir çizgi grafiği ekleyin: Model A %40, Model B %30, Model C %30.
+ayrıca bunun için bir çubuk grafik.
+
+lütfen yeni bir slayt oluşturun ve başlığını "İngilizlerin kökeni" olarak adlandırın ve başlığın altını çizin.
+Tamam, o zaman içerik kısmına şunu ekle: "Birleşik Krallık'ın kökenleri, MS 10. yüzyılın başlarında komşu Kelt krallıklarının bağlılığını sağlayan ve "ilk kral" olan Anglo-Sakson kralı Athelstan'ın zamanına kadar izlenebilir. daha önce birçok kralın aralarında paylaştığı şeye hükmetmek için"
+Bu iyi gibi görünüyor. Ancak kelimelerin yazı tipi boyutu çok küçük. 20 olarak değiştirin.
+Slayt arka planının rengini yeşil olarak değiştirin ve yazı tipi boyutunu iki katına çıkarın.
+
+Şimdi bir dikdörtgen şekli ekleyin, onu slaydın sağ tarafına taşıyın.## 0, rectangle, slide, right
+Lütfen dikdörtgenin dolgu rengini sarı olarak değiştirin.
+Slayt başlığını "Vinda" olarak ayarlayın.
+İçindekiler bölümüne şu metni ekleyin: "Vinda Group, 1985 yılında kurulmuş lider bir hijyen ürünleri şirketidir. Temizlik kağıdı, tek kullanımlık hijyen ürünleri ve kişisel bakım ürünlerinin üretimi ve dağıtımında uzmanlaşmıştır."
+Lütfen metnin yazı tipi boyutunu 20 ve rengini yeşil olarak değiştirin. Yazı tipi stilini başlıkla aynı yapın.
+bu slayda çift boşluk uygulayın.
+
+Şimdi, "Hobilerim" slaydın başlığını ekleyin.
+Lütfen sağ üste bir gitar resmi ekleyin. ## 0, picture, slide, right top
+"Gitar çalmak en sevdiğim hobilerimden biridir" yazın. içerik kısmında.
+Lütfen metnin yazı tipi boyutunu 24 ve rengini mor olarak değiştirin.
+
+Lütfen yeni bir slayt oluşturun ve "Pazarlama Planı" olarak adlandırın.
+Lütfen başlığı içerik kısmına yazınız.
+İçeriğin yazı tipi stilini "Calibri" gibi temiz ve profesyonel bir yazı tipiyle değiştirin.
+Vinda logosunu slaytta bir resim olarak ekleyin.
+Resmi slaydın sol köşesine taşıyın. ## 1, picture, slide, left corner
+
+Lütfen yeni bir slayt oluşturun ve 20 boyutunda "Pazarlama Kampanyası" başlığını ekleyin.
+Tamam, şimdi gülümseyen bir müşterinin resmini ekleyin. Resmi slaydın sol üst kısmına taşıyın. ## 1, picture, slide, left top
+Bu iyi, ama resim çok büyük. Lütfen 5 inç yüksekliğinde ve 6 inç genişliğinde olacak şekilde yeniden boyutlandırın.
+Harika, şimdi pazarlama kampanyasının kar, itibar, go listeleme gibi faydalarına ilişkin madde işaretleri ekleyin.
+lütfen slayttaki tüm içeriğin yazı tipi boyutunu 20'ye yükseltin.
+
+Slaytı " Pil Türleri" olarak adlandırın.
+Başlık kalın ve italik yazılmalıdır.
+Şimdi "Ürün A"nın bir resmini ekleyin.
+Bu iyi, şimdi resmi slaydın sol tarafına taşıyın. ## 0, picture, slide, left
+Aşağıdaki verileri içeren iki sütunlu ve dört satırlı bir tablo ekleyin: İlk satırda Pil Türü, Tanımı, ikinci sırada uzun raf ömürlü Alkalin ve Yaygın ev tipi piller, Elektronik cihazlarda kullanılan Lityum-iyon ve Şarj edilebilir piller üçüncü sıra ve Nikel-kadmiyum, Dördüncü sıra yüksek enerji yoğunluğuna sahip şarj edilebilir piller.
+
+Aşağıdaki verileri kullanarak bir pasta grafik ekleyin: A Markası: %30;B Markası: %25;C Markası: %20;D Markası: %15;Diğer Markalar: %10
+Pasta grafiği "Klima Markaları" olarak adlandırın
+İçerik bölümüne "bu slayt her marka hakkında kısa bir açıklama veya önemli noktalar içerir" ibaresini ekleyin,
+alttaki slayda Haier'in bir görüntüsünü ekleyin, ## 0, picture, slide, bottom
+içeriğin altını çizin ve içeriğin yazı rengini yeşile çevirin,
+slayda bir üçgen ve bir dikdörtgen ekleyin,
+üçgeni dikdörtgenin alt tarafına taşıyın. ## 0, triangle, rectangle, bottom
+dikdörtgeni 45 derece döndürün.
+
+Başlık olarak "Ekibimiz" yazın.
+Bir takımın resmini ekleyin ve 4 inç genişliğinde ve 3 inç yüksekliğinde yeniden boyutlandırın.
+Resmi 45 derece döndürün.
+resmi slaydın sol üst kısmına taşıyın. ## 0, picture, slide, left top
+Başlığın yazı tipi stilini Calibri olarak değiştirin ve yazı tipi boyutunu 28'e yükseltin.
+
+Slayt temasını "Kimlik Kartı" olarak ayarlayın
+Yeni bir grafik ekleyin ve X'te Fujian, Şanghay, Pekin ve Y'de 120, 140, 110 olmak üzere aşağıdaki verilerle çizgi grafik türünü seçin.
+Grafik başlığını "Kimlik Kartı İşlemi" olarak adlandırın.
+Slayta bir kimlik kartıyla ilgili bir resim yerleştirin, sağa kaydırın. ## 0, picture, slide, right
+Slayt başlığının yazı tipi stilini Verdana olarak değiştirin ve yazı tipi boyutunu 32'ye yükseltin.
+Slayta mor bir arka plan rengi verin.
+
+Başlık olarak "Satış Raporu" yazın.
+Başlığın yazı tipini Arial olarak değiştirin. Başlığın yazı tipi boyutunu 48 punto yapın. Başlığı kalın olacak şekilde ayarlayın.
+Üç sütun ve beş satır içeren yeni bir tablo ekleyin.
+İlk satıra şu bilgileri ekleyin: "Bölge", "Satış", "Büyüme". Sonraki dört satıra şu bilgileri ekleyin: "Kuzey", "50.000 ABD Doları", "%5", "Doğu", "75.000 ABD Doları", "%10", "Güney", "45.000 ABD Doları", "%3", " Batı", "60.000$", "%8".
+Slayt arka plan rengini yeşil olarak ayarlayın.
+İçerik kısmına şu metni ekleyin:"Adı: John Doe,Doğum Tarihi: 1 Ocak 1990,Cinsiyet: Erkek,Kimlik Numarası: 123456789,Veren Makam: Motorlu Taşıtlar Dairesi,Son Kullanma Tarihi: 31 Aralık 2023"
+Slayda bir plaj resmi ekleyin.
+slayda bir ok yerleştirin.
+Resmi okun üst tarafına taşıyın. ## 0, picture, arrow, top
+
+yeni bir dikdörtgen şekli ekleyin.
+Dikdörtgenin dolgu rengini turuncu olarak değiştirin.
+dikdörtgenin genişliğini 6 inç ve yüksekliğini 5 inç olarak ayarlayın
+Başlık olarak kalın harflerle "Önemli Bilgiler" yazın.
+Başlığın yazı tipi boyutunu 24 olarak ayarlayın ve yazı tipi rengini yeşil olarak değiştirin.
+Bu öğeler, pot, makas, kepçe ile bir madde işareti listesi ekleyin.
+Slayda bir ünlem işareti görüntüsü ekleyin.
+görüntüyü slaydın üst köşesine taşıyın. ## 0, picture, slide, top corner
+Yeni bir slayt oluşturun ve sola bir dikdörtgen ekleyin. ## 1, rectangle, slide, left
+Yeni slaytı "Ek Ayrıntılar" olarak adlandırın.
+
+İçerik kısmına "İşte şirketimizin büyümesiyle ilgili bazı istatistikler" yazın.
+İçeriğin yazı tipi rengini mor olarak değiştirin.
+Üç sütun bir satır ile yeni bir tablo ekleyin.
+Tabloya "geliri, karı ve çalışan sayısını" ekleyin.
+
+Converse ayakkabılarının bir görüntüsünü slayda ekleyin.
+Slayta şu içeriği ekleyin: "Converse, ikonik spor ayakkabıları ve günlük stiliyle tanınan popüler bir ayakkabı markasıdır."
+İçeriğin yazı tipi boyutunu 18 ve yazı tipi rengini kırmızı olarak değiştirin.
+
+Slayta şu içeriği ekleyin: "Limon suyu, taze sıkılmış limonlardan yapılan serinletici ve keskin bir içecektir. C vitamini açısından zengindir ve bir narenciye aroması patlaması sağlar."
+Yeni slayda "Limon suyu" adını verin.
+3 sütun ve 2 satır içeren bir tablo oluşturun. İlk satıra "Ürün", "Fiyat" ve "Özellikler" girin. İkinci satıra "A", "B", "C" yazın.
+Tablonun sağına taze sıkılmış limon suyunun resmini yerleştirin. ## 0, picture, table, right
+Slayta "Sayfa 1" ekleyin.
+
+Sol üste bir kumsal resmi ekleyin. ## 0, picture, slide, top left
+İçerik bölümüne "Tatilinizi bugün ayırtın!" ekleyin.
+"Tatil Zamanı" başlığını ekleyin.
+Hepsinin yazı tipi boyutunu ve stilini 18 ve Times New Roman olarak değiştirin.
+Şu öğeleri içeren bir madde işareti listesi ekleyin: "Sahilde dinlenmek", "Okyanusta yüzmek", "Lezzetli deniz ürünleri yemek".
+
+Lütfen yeni bir slayt oluşturun ve "Chili" olarak adlandırın.
+Slaydın arka plan rengini kırmızı olarak değiştirin.
+Slayta lezzetli bir kase kırmızı biber resmi ekleyin.
+Slayta şu içeriği ekleyin: "Acı biber, et, fasulye ve çeşitli baharatların birleşiminden yapılan baharatlı ve lezzetli bir yemektir. Zengin tadı ve doyurucu ısısıyla bilinir."
+
+Slayda "Chili" adını verin. Slayta Şili manzarasının bir resmini ekleyin.
+4 sütun ve 3 satırdan oluşan bir tablo oluşturun. İlk satıra "İçerik", "Miktar", "Baharat Düzeyi" ve "Köken" girin. İkinci sıraya "Sığır Eti", "2 lbs", "Orta" ve "Meksika" yazın. Üçüncü satıra "Fasulye", "1 kutu", "Hafif" ve "Amerika Birleşik Devletleri" yazın. Dördüncü sıraya "Domates", "3", "Sıcak" ve "İspanya" yazın.
+Slayt numarasını belirtmek için "Sayfa 2" notunu ekleyin.
+
+altına hamburger yiyen birinin resmini koyun. ## 0, picture, slide, bottom
+Slaydın başlığını "3. Çeyrek için Satış Tahminleri" yapın.
+Slayda şu içeriği ekleyin: "3. Çeyrek için satış tahminleri, gelir ve pazar payında istikrarlı bir büyüme olduğunu gösteriyor. Hedeflenen pazarlama stratejileri ve ürün geliştirmeleriyle, satış performansında önemli bir artış bekliyoruz."
+
+Başlık yeterince açıklayıcı değil, lütfen "Pazarlama Stratejisi" olarak değiştirin.
+Harika, "Şirketimizin pazarlama stratejisi, sosyal medya reklamcılığına ve etkileyici pazarlamaya odaklanmaktır" yazın.
+Ardından, Instagram, Facebook ve Twitter'dan oluşan bir madde işareti listesi ekleyin.
+Lütfen akıllı telefon kullanan bir kişinin resmini ekleyin.
+Resmin üstüne bir dikdörtgen şekli ekleyin. ## 0, rectangle, picture, top
+4 sütun ve 6 satırdan oluşan bir tablo oluşturun. İlk satıra "Ay", "Gelir", "Satılan Birimler" ve "Büyüme Oranı" girin.
+
+Lütfen yeni bir slayt oluşturun ve "Ürün Lansmanı" olarak adlandırın.
+Slayda "En yeni ürünümüzü tanıtıyoruz" başlıklı bir başlık ekleyin.
+Ürünün resmini ekleyin,
+Resmi slaydın alt tarafına taşıyın, ## 1, picture, slide, bottom
+slayda mor bir arka plan verin ve resim üstte olmalıdır. ## 1, picture, slide, top
+
+Slaytı "Çin'i Keşfet" olarak adlandırın.
+Ülkenin çeşitli turistik yerlerini sergilemek için bir Çin haritası ekleyin.
+Çin resmini slaydın sol köşesine taşıyın. ## 0, picture, slide, left corner
+Slayda şu içeriği ekleyin: "Çin, zengin tarihi, canlı kültürü ve nefes kesen manzaralarıyla tanınan büyüleyici bir turizm merkezidir. İkonik Çin Seddi'nden hareketli metropol Şangay'a kadar, bu uçsuz bucaksız ve farklı ülke."
+5 sütun ve 8 satırdan oluşan bir tablo oluşturun. İlk satıra "İl", "Ünlü Gezilecek Yerler", "Ortalama Sıcaklık", "Turist Sayısı" ve "Tavsiye Edilen Sezon" bilgilerini girin.
+Lütfen yeni bir slayt oluşturun ve "Proje Zaman Çizelgesi" olarak adlandırın.
+başlıktan sonra soldaki slayda bir yıldız ekleyin. ## 1, star, slide, left
+Yıldızı slaydın sağ tarafına taşıyın. ## 1, star, slide, right
+
+Başlığı "OPPO" olarak adlandırın. Yazı tipi rengini kırmızıya, yazı tipi boyutunu 20'ye ayarlayın ve başlığın altını çizin ve kalın yapın.
+İçerik kısmına şu içeriği ekleyin: "OPPO, yenilikçi tasarımları ve en son teknolojisiyle tanınan lider bir akıllı telefon üreticisidir.
+Markayı sergilemek için bir OPPO akıllı telefonun resmini ekleyin, içeriğe bırakılmalıdır. ## 0, picture, content, left
+yeni bir slayt oluşturun ve "Xiaomi" olarak adlandırın
+4 sütun ve 3 satırdan oluşan bir tablo oluşturun.İlk satırda "Ürün", "Fiyat", "Özellikler" ve "Stok Durumu"nu ilk satıra girin.İkinci satırda Xiaomi ürünleri için aşağıdaki verileri girin: "Mi 11", "699$", "Snapdragon 888, 108MP camera", "Global".Üçüncü satıra Xiaomi ürünleri için şu verileri girin: "Redmi Note 10", "249$", "AMOLED ekran, 48MP kamera ", "Küresel".
+
+Lütfen yeni bir slayt oluşturun ve "Ürüne Genel Bakış" olarak adlandırın.
+Slayda 3 sütun ve 4 satır içeren bir tablo ekleyin. İlk sütuna "Ürün Adı", "SKU", "Fiyat" ve "Miktar" yazın.
+Arka plan rengini yeşil olarak ayarlayın.
+
+Bu slayt için mavi bir arka plan rengi ayarlayın. Başlığı "Araştırma Yazısı" olarak ayarlayın.
+Slayda şu içeriği ekleyin: "Araştırma yazısı, belirli bir alana yeni bilgi ve içgörüler katmak için bir konunun sistematik olarak araştırılmasını ve belgelenmesini içerir."
+İçeriğin yazı tipi rengini sarı ve yazı tipi boyutunu 18 olarak değiştirin.
+Yazı tipi boyutunu ikiye katlayın.
+X'te veri olarak 2016, 2017,2018, Y'de veri olarak 120,140,160 olmak üzere aşağıdaki verileri kullanarak bir çizgi grafik oluşturun.
+Çizgi grafiğini "Zaman İçinde Yayınlar" olarak adlandırın.
+Bir araştırma yazısının kapağının resmini ekleyin. Arka plan rengini öncekiyle aynı olacak şekilde değiştirin.
+
+Yeni bir slayt oluşturun ve slayda "Mart Ayında Planla" yazan bir başlık ekleyin.
+Başlığın yazı tipi boyutunu 28 ve rengini koyu mavi olarak biçimlendirin.
+Dört sütunlu ve üç satırlı bir tablo ekleyin. İlk satır "Tarih","Görev","Başlangıç ​​saati","Bitiş saati" şeklindedir. İkinci sıra "15 Mart", "Paydaşlarla toplantı", "09:00" ve "10:30". Son satır "23 Mart", "Proje inceleme ve güncelleme", "14:00" ve "16:00" şeklindedir.
+Bir takvim resmi ekleyin. Masanın üst tarafına taşıyın.
+
+Yeni bir slayt oluşturun ve adını "Meditasyonun Faydaları" olarak adlandırın.
+Meditasyon yapan bir kişinin resmini ekleyin. Slaydın altında hareket ettirin. ## 1, image, slide, bottom
+"Meditasyon, iç huzur ve sükunet durumuna ulaşmanıza yardımcı olabilecek basit ama güçlü bir tekniktir" yazın. içerik kısmında.
+İçeriğin yazı tipi boyutunu 24 olarak değiştirin ve yazı tipi stilini Times New Roman olarak ayarlayın.
+Bir dikdörtgen ekleyin. Görüntünün sağ tarafında taşıyın. ## 1, rectangle, image, right
+Dikdörtgenin rengini açık yeşil olarak değiştirin.
+Başka bir slayt oluşturun ve arka plan rengi açık mavi olmalıdır.
+İki sütunlu ve üç satırlı bir tablo ekleyin.
+İlk sütuna "Farkındalık Meditasyonu", "Transandantal Meditasyon" ve "Beden Tarama Meditasyonu" yazın. İkinci sütuna, "Meditasyon zihni sakinleştirmeye ve stres düzeylerini düşürmeye yardımcı olarak gevşemeyi teşvik eder.", "Düzenli meditasyon uygulaması odaklanma ve konsantrasyon becerilerini geliştirir." ve "Meditasyon duygusal dengeyi, farkındalığı ve genel refahı destekler. "
+
+Yeni bir slayt oluşturun ve ona yeşil bir arka plan verin.
+Bir otlak resmi ekleyin ve genişliği ve yüksekliği 6,5 ve 5,5 yapın.
+Slayta bir başlık ekleyin ve buna "Ormanların İşlevleri" adını verin. Yazı tipi rengini koyu kırmızı ve yazı tipi boyutunu 40 olarak değiştirin.
+Sarı bir "ok" şekli ekleyin.
+Oku resmin sağ tarafına taşıyın. ## 1, arrow, picture, right
+
+Bir pasta grafiği ekleyin. "yiyecek, barınma, ulaşım, eğlence, diğer" kategorisi ve %40,%20,%15,%10,%15 oranlarıdır.
+İki sütunlu ve altı satırlı bir tablo ekleyin. İlk satırda Kategori ve Yüzde yazmaktadır.
+Tabloyu pasta grafiğin alt tarafına taşıyın. ## 0, table, pie chart, bottom
+Slayda "Mayıs 2023 Harcamalarım" adını verin
+Başlığı italik.
+
+Beş slayt oluşturun ve her birine sarı bir arka plan uygulayın.
+İlk slaytta, "Yaz Tatilim" başlığını adlandırın ve yazı tipi stilini "Microsoft JhengHei" olarak değiştirin.
+İkinci slaytta, bir ailenin resmini ekleyin.
+Üçüncü slaytta bir çubuk grafik ekleyin. "Satışlar", "Giderler", "Karlar", "Yatırım" X'teki verilerdir, 120, 80,40,60, Y'deki verilerdir.
+Dördüncü slayta şu içeriği ekleyin: "Yaz tatilim sırasında unutulmaz bir maceraya atıldım. Yeni yerler keşfettim, altın gün batımının sıcaklığında ıslandım ve kumsallarda dinlendim."
+Beşinci slaytta, iki satır ve bir sütun içeren bir tablo ekleyin. Tabloyu "Satışlar" ve "Giderler" ile doldurun. Yazı boyutu 26 olmalıdır.
+
+Bir slayt oluşturun ve ona "İş Planı" adını verin.
+Bir ampul resmi ekleyin. Slaydın sol tarafına taşıyın. ## 1, picture, slide, left
+"Girişimcilik, başlangıçta genellikle küçük bir işletme olan yeni bir iş tasarlama, başlatma ve yürütme sürecidir. Bu işletmeleri yaratan kişilere girişimci denir." içerik kısmında.
+Yazı tipi stilini "Georgia" ve yazı tipi boyutunu 10 olarak ayarlayın.
+Slaydın arka plan rengini yeşil olarak değiştirin.
+Slayda bir daire şekli ekleyin.
+Daireyi slaydın sağ tarafına taşıyın. ## 1, picture, slide, right
+0 nolu slayda ilerleyin ve içerik kısmına "Pazarlama Stratejisi" yazın.
+3 satır ve 4 sütun içeren bir tablo ekleyin. İlk sütunda "Sosyal Medya Kampanyası", "Influencer Partnerships" ve "Email Marketing" yazıyor.
+Dördüncü sütun 10000$, 15000$, 5000$ yazar.
+"2023/5" notu ekleyin.
+
+Slayda "Hedef Kitle" adını verin ve yazı tipi stilini "Arial" yapın
+Başlığı slaydın sağ köşesine taşıyın. ## 0, title, slide, right corner
+Gen Z ile ilgili bir resim ekleyin ve genişliğini 4 olarak ayarlayın.
+Resmi slaydın sol altına taşıyın.## 0, picture, slide, left bottom
+Aşağıdaki içeriği içerik bölümüne ekleyin, "Doğru kitleyi anlamak ve etkili bir şekilde hedeflemek, özel mesajlar iletmek ve pazarlama çabalarının etkisini en üst düzeye çıkarmak için çok önemlidir."
+
+"Büyük ölçekli modellemenin esasları" başlığını ekleyin ve yazı tipi boyutunu 24 olarak ayarlayın.
+Tarafsız bir ağın resmini ekleyin. Slaydın alt tarafına taşıyın. ## 0, picture, slide, bottom
+İki sütun ve bir satır içeren bir tablo ekleyin. Tabloyu "Sayı" ve "Not" ile doldurun.
+Tabloyu en üste taşıyın. ## 0, table, slide, top
+
+Sağlam, tehditkar görünen bir kulenin resmini ekleyin. Slaydın sağ üst kısmına taşıyın. ## 0, picture, slide, right top
+Slaydın başlığı "The Ultimate Heist" olmalıdır.
+Bir dikdörtgen oluşturun. Dikdörtgeni başlığın en üstüne taşıyın. ## 0, rectangle, title, top
+Başlığın yazı tipi rengini koyu yeşil ve yazı tipi boyutunu 28 olarak değiştirin.
+Yazı tipi stilini "Microsoft New Tai Lue" olarak değiştirin.
+Slayda açık mavi bir arka plan rengi verin.
+
+4 sütun ve 2 satır içeren bir tablo ekleyin. İlk satırda Görev,Öncelik,Başlangıç ​​Saati,Bitiş Saati yazar. İkinci satırda Proje Planlama,Yüksek,9:00,10:30 yazar
+İçerik bölümüne "Etkili zaman yönetimi hem kişisel hem de profesyonel ortamlarda başarı için çok önemli bir beceridir." içeriğini yazın.
+İçeriğin altını çizin ve italik yapın.
+Tabloyu içeriğin en altına taşıyın. ## 0, table, content, bottom
+Slayta bir saat resmi ekleyin.
+"Sunucu: Eva" notunu ekleyin.
+
+Yeni bir slayt oluşturun ve "Şirket Profili" başlığını ekleyin.
+İçerik kısmına şu metni ekleyin: "Şirketimiz 2005 yılında müşterilerimize yüksek kaliteli ürün ve hizmetler sunmak amacıyla kuruldu. O zamandan beri, geniş bir sektör yelpazesi için yenilikçi çözümler sunan lider bir tedarikçi haline geldik. • Uzmanlardan oluşan ekibimiz, yaptığımız her şeyde mükemmelliği sağlamaya kendini adamıştır."
+Başlığın yazı tipi stilini "Calibri Light" ve yazı tipi boyutunu 40 olarak değiştirin
+Sağ slayta şirket logosunun bir resmini ekleyin ## 1, picture, slide, right
+Resmi, yüksekliği 2 inç ve genişliği 3 inç olacak şekilde yeniden boyutlandırın. Sol slayta taşıyın. ## 1, picture, slide, left
+Resmi slaytın sol köşesine taşıyın.## 1, picture, slide, left corner
+Yeni bir slayt oluşturun ve ona mavi bir arka plan rengi verin.
+İçerik kısmına şu metni ekleyin: "Paydaşlarımıza değer katan ve dünyayı olumlu yönde etkileyen yenilikçilik ve sürdürülebilirlikte lider olmak."
+İçeriğin altını çizin ve içeriği çift boşluk olarak ayarlayın.
+İki sütun ve bir satır içeren bir tablo ekleyin. Aşağıdaki verileri tabloya ekleyin, "A-72", "C-71"
+İki sütun ve bir satır içeren bir tablo ekleyin. Aşağıdaki verileri tabloya ekleyin, "B-72", "D-71"
+
+Lütfen yeni bir slayt oluşturun ve "Satış Verileri" olarak adlandırın
+Slaydın içerik kısmına 6 sütun ve 15 satırlık bir tablo ekleyin
+Tabloyu şu verilerle doldurun: İlk satırda "Ürün", "Ocak Satışları", "Şubat Satışları", "Mart Satışları", "Toplam Satışlar" ve "Ortalama Satışlar" ve "iPhone", "22" , İkinci sırada "13", "15", "17", "12".
+Tabloyu slaydın sol üst köşesine taşıyın. ## 1, table, slide, left corner
+Son olarak, slayda "Veri kaynağı: Satış departmanı" notunu ekleyin.
+Yeni bir slayt oluşturun ve tabloyu kopyalayın.
+
+"Pazarlama Stratejileri" başlığı ekleyin
+Başlığın yazı tipini "Arial Black" olarak değiştirin
+Şu içerik bölümünü ekleyin: "Arama Motoru Optimizasyonu (SEO)", Sosyal Medya Pazarlaması (SMM)", "EmailMarketing", "İçerik Pazarlaması" ve "Tıklama Başına Ödeme Reklamcılığı (PPC)".
+İçeriğin yazı tipi rengini koyu mavi olarak değiştirin
+İçerik görünmüyor. İçeriğin rengini yeşil olarak değiştirin.
+İçeriğin altına bir başparmak resmi ekleyin. Genişliğini 5 inç olarak ayarlayın. ## 0, picture, content, bottom
+
+"Büyük Kanyon" başlığını girin ve italik yapın.
+Yazı tipini büyütün. Belki de yazı tipi boyutu 30 olmalıdır.
+Başlığın yazı tipi stilini "Times New Roman" olarak değiştirin
+Slaydın içerik kısmına Büyük Kanyon'un bir resmini ekleyin
+Resmi başlığın sağ tarafına taşıyın. ## 0, picture, title, right
+Resmi 4 inç yüksekliğinde ve 6 inç genişliğinde olacak şekilde yeniden boyutlandırın
+Dört sütunlu ve 2 satırlı bir tablo oluşturun. İlk satıra "Guangdong","Pekin", "Şanghay" ve "Hainan" kelimelerini girin. İkinci satıra "%34", "%36", "%20", "%10" girin.
+Tablodaki verilere göre bir pasta grafik ekleyin, yani ["Guangdong","Pekin", "Şanghay" ve "Hainan"], ["%34", "%36", "%20", "10 %"]
+Pasta grafiği tablonun en altına taşıyın. ## 0, pie chart, table, bottom
+Aynı verilere sahip bir çubuk grafik ekleyin.
+Son olarak, "Resim kaynağı: Milli Park Servisi" notunu ekleyin.
+
+Lütfen yeni bir slayt oluşturun ve "Ürün Karşılaştırması" olarak adlandırın.
+2 sütun ve 5 satır içeren bir tablo ekleyin. Aşağıdaki verileri "Akıllı telefon (Apple iPhone 13)", "Dizüstü bilgisayar (Dell XPS 13)", "Smartwatch (Apple Watch Series 7)", "Kulaklıklar (Sony WH-1000XM4)", "Kamera (Canon)" tablosuna yerleştirin. EOS R5)", "Televizyon (Samsung QLED Q90T)", "Oyun Konsolu (PlayStation 5)", "Fitness Tracker (Fitbit Charge 4)", "Kablosuz Kulaklıklar (AirPods Pro)", "Tablet (iPad Pro)".
+Başlığı slaydın alt köşesine taşıyın. ## 1, title, slide, bottom corner
+Son olarak, slayda açık mavi bir arka plan rengi verin.
+
+Lütfen yeni bir slayt oluşturun ve "Aylık Satış Raporu" olarak adlandırın.
+Slaydın içerik kısmına şu verileri içeren bir çubuk grafik ekleyin: "Ocak: 10.000 ABD Doları", "Şubat: 12.000 ABD Doları", "Mart: 15.000 ABD Doları", "Nisan: 18.000 ABD Doları", "Mayıs: 20.000 ABD Doları", "Haziran: 25.000 ABD Doları" ", "Temmuz: 28.000$", "Ağustos: 30.000$", "Eylül: 32.000$", "Ekim: 35.000$", "Kasım: 40.000$", "Aralık: 45.000$"
+Grafiği "2023'teki Aylık Satışlarım" olarak adlandırın
+Grafiği slaydın üst tarafına taşıyın. ## 1, chart, slide, top
+Aşağıdaki metni içerik bölümüne ekleyin: "Aylık satış raporu, gelirde önemli bir artış gösteriyor."
+Son olarak, slayda "Sunum yapan: xxx" notunu ekleyin.
+
+Arka plan rengini açık kırmızı olarak değiştirin ve bir çilek resmi ekleyin.
+Üç yeni slayt oluşturun. Ve başlıklarını sırasıyla "Proje Kapsamı", "Proje Zaman Çizelgesi" ve "Proje Bütçesi" olarak adlandırın.
+Her slayda sırasıyla açık yeşil, açık mavi ve mor uygulayın.
+1. slayttaki içerik bölümüne şu metni ekleyin: "Projemiz, müşterilerimiz için yeni bir yazılım uygulaması geliştirmeyi içeriyor. Uygulama, onların iş süreçlerini kolaylaştıracak ve kârlılıklarını artıracak."
+İkinci slayda 6 sütun ve 2 satır içeren bir tablo ekleyin. Ve tabloya şu verileri ekleyin: İlk satıra Ay, Görev, Başlangıç ​​Tarihi, Bitiş Tarihi, İlerleme ve Yorumlar.
+Bir çizgi grafiği yapın ve veriler [2016,2017,2018,2019], [10,12,15,11]. Masanın sol tarafına taşıyın. ## 1, line chart, table, left
+Slayta bir yıldız şekli ekleyin. Slaydın üst köşesine taşıyın. ## 1, star, slide, top corner
+2. slayda gidin ve "Proje Zaman Çizelgesi" başlığının altını çizin
+3. slayta gidin, "Personel Giderleri: Bu, maaşlar, ücretler, yan haklar ve eğitim giderleri gibi proje ekibi üyeleriyle ilişkili maliyetleri içerir."
+İçeriğin yazı tipi stilini "Arial" olarak değiştirin
+"Teşekkürler!" notu ekleyin. dosyaya
+
+Slayda "Şirket Zaman Çizelgesi" adını verin
+Bir dikdörtgen yerleştirin ve ardından 45 derece sağa döndürün
+Dikdörtgeni slaydın sağ altına taşı.## 0, rectangle, slide, right bottom
+Slaydın arka plan rengini açık mavi yapın
+Dört sütun ve iki satır içeren bir tablo ekleyin. İlk satıra şu dört tarihi ekleyin: "1980", "1990", "2000", "2010".
+İkinci sıraya şu dört olayı ekleyin: "Şirket kuruldu", "Şirket yeni binasına taşındı", "Şirket halka açıldı", "Şirket rakip tarafından satın alındı".
+
+En alta bir Google şirket logosunun resmini ekleyin. ## 0, picture, slide, bottom
+Ardından, başlığı "Sonuç" olarak adlandırın ve italik yapın.
+Bu iyi görünüyor. İçeriği ekleyin, "Gittikçe tek bir dünya nüfusuyuz - özgürce karışıyoruz. Bu, melezlerden oluşan bir dünya yaratacak - açık kahverengi tenli, koyu saçlı, Afro-Avrupa-Avustralya-Amerikalı-Asyalılar, ten renkleri ve yüz hatları eğilimli küresel ortalamaya doğru."
+İçeriği sağa hizalayın
+Slayda bir dikdörtgen yerleştirin ve yüksekliğini 5 olarak ayarlayın.
+Ardından, dikdörtgeni slaydın altına taşıyın. ## 0, rectangle, slide, bottom
+
+lütfen yeni bir slayt oluşturun ve başlığı "Etik Edebi Eleştiri" olarak ayarlayın ve kalın yapın
+Başlık rengi çok dikkat çekici değil, bu nedenle başlık rengini mavi olarak ayarlayın
+ardından metni ekleyin: "Etik edebiyat eleştirisi yöntemi, Orta Çin Normal Üniversitesi'nden Profesör Nie Zhenzhao tarafından Çin ve Batı edebiyat eleştirisinin tarihi ve mevcut durumunun karşılaştırmalı araştırması, ince taraması ve yeniden düşünülmesinin ardından ortaya koyduğu yeni bir edebiyat eleştirisi yöntemidir. teoriler ve yöntemler."
+sonra lütfen Nie Zhenzhao tarafından yazılan Etik Edebi Eleştiriye Giriş kitabının kapağının bir resmini ekleyin.
+daha açık olmak gerekirse, resmi slaydın sol tarafına taşıyın.## 1, picture, slide, left
+sonra sağa bir dikdörtgen ekleyin. ## 1, rectangle, slide, right
+Arka plan iyi değil, bu nedenle arka plan rengini açık sarı olarak değiştirin
+
+yeni bir slayt oluşturun ve başlığı "Charlotte Bronte'den Jane Eyre" olarak ayarlayın ve başlığı italik yapın
+ardından şu metni ekleyin: "Mutlu görünen sonda Charlotte olay örgüsünü oluşturmak için bir miras ve bir ateş kullanır." ve kalınlaştır
+yazı tipi rengini koyu kırmızı olarak değiştirin, ardından metnin yazı tipi stilini "Arial" olarak değiştirin
+metnin sağ tarafına bir ok ekleyin. ## 1, arrow, text, right
+iki sütun ve iki satır içeren bir tablo ekleyin, ilk satırda kategori, bilgi yazar; ikinci satırda yayın yılı 1847 yazıyor.
+sonra tablonun altına Charlotte Bronte'nin portresinin bir resmini ekleyin. ## 1, picture, table, bottom
+görüntüyü tablonun bir üstüne taşıyın. ## 1, picture, table, top
+
+bu slayt için mavi bir arka plan ayarla
+başlığı "Id in David Copperfield" olarak ayarlayın ve David Copperfield'ı italik yapın
+daha sonra içerik kısmına şunu ekleyin: "Id, bir tür hayvani içgüdüsel dürtüdür, mantık olmaksızın karıştırılır ve körü körüne tatmin peşinde koşar ve tepki verme şansını biriktirir. bir. Id, sosyal ahlaki veya dışsal davranış standardını umursamaz. Kimlik, içgüdünün depolandığı yerdir."
+o zaman lütfen içeriğin üstüne David Copperfield kitabının bir resmini ekleyin. ## 0, picture, content, top
+resim çok küçük, bu yüzden lütfen 5 inç yüksekliğinde ve 6 inç genişliğinde büyütün.
+bir yıldız ekleyin, resmin sağ tarafına taşıyın. ## 0, star, image, right
+Son olarak, içerik bölümündeki metin için bir madde işareti ekleyin.
+
+Üç satır ve iki sütun içeren bir tablo ekleyin. Birinci sıraya Konum, Dünyanın dört bir yanındaki çeşitli şehirler, ikinci sıraya Etnik Köken,Çin toplumu ve kültürü ve üçüncü sıraya Özellikler,Çin mimarisi, işletmeleri, mutfağı, kültürel kutlamaları ekleyin.
+"Çin Mahallesi" başlığını ekleyin ve başlığı kalın yapın.
+Bir pasta grafik ekleyin, aşağıdaki veriler, Çin Restoranları, %40; Çin Perakende Mağazaları, %30;Kültürel Festivaller ve Etkinlikler %30
+Slayta bir Çin kasabasının resmini ekleyin.
+Resmi slaydın alt tarafına taşıyın. ## 0, picture, slide, bottom
+Sağ slayda bir yıldız ekleyin. ## 0, star, slide, bottom
+Slayta bir "Çin Mahallesi" notu ekleyin.
+
+yeni bir slayt oluşturun ve ona yeşil bir arka plan rengi verin.
+slayt başlığını "feminizm" yapın ve başlığın yazı tipi rengini arka plan rengiyle aynı olacak şekilde ayarlayın.
+ardından "Feminizm, kadınların erkeklerle aynı haklara, güce ve fırsatlara sahip olması gerektiği inancı ve amacıdır" içeriğini ekleyin.
+yazı tipi rengi çekici değil, lütfen yazı tipi rengini sarı olarak ayarlayın ve içeriği italik yapın.
+
+başlığı "Feminizm hareketinin 3. dalgası" olarak ayarlayın ve kalın yapın
+başlığın yazı tipi stilini "Times New Roman" olarak değiştirin. başlık rengini mavi ve boyutu 28 olarak ayarlayın
+ardından "Çok ırklı dini inançlara, etnik geleneklere, çok kültürlülüğe, çevre korumaya, tüketiciliğe, çeşitlilik yönelimine odaklanıyor" içeriğini ekleyin.
+İçeriğin üstüne bir kadın portresi ekleyin. ## 0, picture, content, top
+
+lütfen yeni bir slayt oluşturun ve başlığı "Gurur ve Önyargı'nın film uyarlaması" olarak ayarlayın
+daha sonra yazı tipi boyutunu 24 olarak ayarlayın ve başlığı italik yapın.
+bunu içerik bölümüne ekleyin: "İlk yayınlanmasından on dört yıl sonra, senarist Andrew Davies'in Jane Austen'in Pride and Prejudice romanından 1995 uyarlaması, Austen uyarlamasının popüler olarak ölçüldüğü bir ölçüt olmaya devam ediyor. , uyarlama görünüşte modern duyarlılıklara ve çağdaş dramatik beklentilere hitap ediyor. Davies'in yorumlayıcı seçimleri duygusallığa vurgu yapıyor ve Darcy'nin arzularına odaklanıyor. "
+İçerik bölümüne madde işaretleri ekleyin.
+içeriğin yazı tipi boyutunu 20 yapın ve çift boşluk ayarlayın
+lütfen 1995 yapımı Gurur ve Önyargı filminin bir web görüntüsünü ekleyin
+bir dikdörtgen ekleyin, slaydın sağ köşesine taşıyın, ## 1, rectangle, slide, right corner
+emm, arka plan rengini açık turuncu olarak değiştir
+
+Üç satır ve iki sütun içeren bir tablo ekleyin.
+Tabloyu ilk sütunda "Konum", "Etnisite" ile doldurun.
+şu metni ekleyin: "Elizabeth Bennet ve Mr. Darcy, roman boyunca önemli bir karakter gelişimi geçirerek kendileri ve toplum hakkında önemli dersler alıyorlar.
+tablonun altına Elizabeth Bennet ve Mr. Darcy'nin bir resmini ekleyin. ## 0, picture, table, bottom
+resmi slaydın sağ tarafına taşıyın. ## 0, picture, slide, right
+bir dikdörtgen çizin. Slaydın sol köşesine taşıyın. ## 0, rectangle, slide, left corner
+sonra yeni bir slayt oluşturun ve başlığı "Gurur ve Önyargıda Sosyal Sınıfın Rolü" olarak adlandırın ve başlığın altını çizin
+şu metni ekleyin: "Sosyal sınıf, romanda karakterlerin ilişkilerini, kararlarını ve öz algılarını etkileyerek önemli bir rol oynar."
+sağ alt köşeye küçük bir daire çizin ve rengini turuncu olarak ayarlayın
+slayt arka plan rengini açık maviden turuncuya değiştirin.
+
+yeni bir slayt oluşturun ve başlığı "Şekiller" yapın
+Sol slayda kırmızı bir dikdörtgen ekleyin. ## 0, rectangle, slide, left
+Sağ slayda mavi bir daire ekleyin. ## 0, circle, slide, right
+Sol slayda yeşil bir üçgen yerleştirin. ## 0, triangle, slide, left
+Sağ slayda sarı bir belirtme çizgisi ekleyin. ## 0, callout, slide, right
+
+slaydın sağ tarafına 19. yüzyıldan kalma bir evlilik sahnesini gösteren bir resim ekleyin. ## 0, picture, slide, right
+bir üçgen ekleyin. Üçgeni görüntünün sağ tarafına taşıyın. ## 0, triangle, picture, right
+Başlığa "19. yüzyıl evliliği" adını verin
+italik ve kalın başlık. Yazı tipi rengini koyu turuncu olarak değiştirin.
+
+Aşağıdaki verilere dayalı bir pasta grafik ekleyin, Vanilya: %30, Çikolata: %25, Çilek: %15, Nane Çikolata Parçası: %10, Kurabiye ve Krema: %10, Tereyağı Ceviz: %10
+bir çilek resmi bulun. Resmi pasta grafiğin alt tarafına taşıyın. ## 0, picture, pie chart, bottom
+şu içeriği ekleyin: "Geçen çeyrekte harcamalar, yüksek işletme maliyetleri ve pazarlama girişimlerine yapılan yatırımın artması nedeniyle önemli ölçüde arttı."
+Yazı tipi stilini Times New Roman olarak ve yazı tipi boyutunu 18 olarak değiştirin.
+
+lütfen yeni bir slayt oluşturun ve başlığı ve dipnotu "PPT yapımı" olarak adlandırın
+şu içeriği ekleyin: "İlgi çekici ve etkili PowerPoint sunumları oluşturmak, dikkatli planlama ve uygulama gerektirir."
+içeriğin altını çizin ve yazı tipi rengini koyu kırmızı yapın.
+slaydın başlığını kalın ve italik yapın
+slayda bir "PPT" notu ekleyin.
+
+yeni bir slayt oluşturun ve başlığı "Sinir Ağları" olarak adlandırın
+aşağıdaki madde işaretli içeriği yazın: "Sinir ağları, insan beyninin yapısından sonra modellenen bir tür makine öğrenimi algoritmasıdır. Bilgileri işleyen ve kalıpları tanımayı öğrenen birbirine bağlı düğüm katmanlarından oluşur."
+başlığın yazı rengini kırmızı olarak değiştir
+slayda bir sinir ağı mimarisinin görüntüsünü ekleyin
+görüntünün sağına bir bulut ekleyin. ## 1, cloud, picture, right
+son olarak, arka plan rengini sarı yapın
+
+yeni bir slayt oluşturun ve sağ tarafa kırmızı bir bulut şekli ekleyin. ## 0, cloud, slide, right
+içerik bölümüne "Net Çıkarımlar Sağlayın" yazın.
+başlığın yazı tipi rengini turuncu olarak değiştirin. sonra yeni bir slayt oluşturun ve "Veri Ön İşleme" olarak adlandırın
+mevcut arka plan rengi bu slayt için uygun değil. Lütfen bulut rengine değiştirin.
+
+yeni bir slayt oluşturun ve "Öğrenmeyi Aktar" olarak adlandırın
+slayttaki yazı tipi boyutunu 28 olarak ayarlayın ve kalın yapın
+başlığın yazı tipi stilini "Times New Roman" olarak değiştirin. başlığın yazı tipi rengini kırmızı olarak değiştirin
+Slaydın aynı arka plan rengine sahip olmasını sağlayın.
+şu içeriği yazın: "Güçlendirmeli öğrenme, algoritmanın deneme yanılma yoluyla öğrendiği bir tür makine öğrenimidir. Genellikle makinelere karmaşık ortamlarda nasıl karar vereceklerini öğretmek için kullanılır."
+
+3 satır ve 2 sütun içeren bir tablo ekleyin, ilk satırı Model Adı,ChatGPT ile doldurun; Mimari, GPT (Generative Pre-trained Transformer) ile ikinci sıra; üçüncü satırda Eğitim Veri Boyutu,Birden çok terabaytlık çeşitli metin verileri.
+başlığı "GPT" yapın ve başlığı kalın yapın.
+"Generative Pre-trained Transformer 3 (GPT-3), 2020'de piyasaya sürülen ve insan benzeri metinler üretmek için derin öğrenmeyi kullanan bir otoregresif dil modelidir."
+içeriğin altını çizin ve bu slayttaki yazı tipi rengini koyu kırmızı yapın.
+doğrudan içeriğe GPT-3 mimarisinin bir görüntüsünü ekleyin. ## 0, picture, content, right
+
+yeni bir slayt oluşturun ve başlığı "Uğultulu Yükseklik" olarak ayarlayın ve italik yapın
+"Hikaye, bir kahya olan Ellen Dean'in geçmişe dönük bir dizi kısa öyküsünün çerçevesi olarak hizmet eden tarafsız bir grup olan Lockwood tarafından anlatılıyor." metnini ekleyin. Ve metni kalınlaştır
+başlığın ve metnin yazı tipi rengini kırmızı olarak değiştirin
+bir ok şekli eklemek,
+ok biraz küçük, lütfen daha büyük yapın, genişliği 6 ve yüksekliği 4
+Yeni bir slayt oluşturun ve bir bulut ekleyin,
+Wuthering Height kitap kapağının bir resmini ekleyin
+"Uğultulu Tepeler, Emily Brontë'nin romanı, 1847'de Ellis Bell takma adıyla yayınlandı" metnini ekleyin,
+yazı tipini Times New Roman olarak ve yazı tipi boyutunu 18 olarak ayarlayın
+Bir satır ve iki sütun içeren bir tablo ekleyin. Tabloyu "Kategori" ve "Bilgi" ile tabloya doldurun.
+slayda bir "Microsoft" notu ekleyin.
+
+yeni bir slayt oluşturun ve başlığı "Jane Austen'den Gurur ve Önyargı" olarak ayarlayın
+metin ekleyin: "Roman, İngiliz eşrafı arasındaki aşk, evlilik ve sosyal beklentiler temalarını araştırıyor", metni kalın ve altı çizili yapın
+bir ok yerleştirin. Oku metnin sol tarafına taşıyın. ## 1, arrow, text, left
+lütfen metin rengini koyu yeşil olarak değiştirin. ok rengini açık turuncu olarak değiştirin
+iki sütun ve iki satır içeren bir tablo ekleyin, ilk satırda kategori, bilgi yazar; ikinci sırada yazar Jane Austen yazıyor.
+Jane Austen'in portresinin bir resmini ekleyin
+resim yüksekliğini 6 olarak ayarlayın ve slaydın sağ köşesine taşıyın. ## 1, image, slide, right corner
+
+lütfen yeni bir slayt oluşturun ve "Sirsa'nın yaşam yolculuğu" başlığını ekleyin ve kalın yapın
+yazı tipi biraz küçük, lütfen yazı tipini 24 olarak ayarlayın
+üç sütunlu ve dört satırlı bir tablo oluşturun. Çocukluk,0-10 yaş,Okul birinci sırada, Ergenlik,11-18 yaş,Lise ikinci sırayı giriniz.
+slayda bir okulun resmini ekleyin.
+resmi tablonun sol tarafına taşıyın. ## 1, image, table, left
+
+Yeni bir slayt oluşturun ve başlığı "Evreni Keşfetmek" olarak adlandırın ve başlığın altını çizin.
+bir galaksinin görüntüsünü ekleyin,
+İçerik bölümünde 5 maddelik bir madde işareti listesi oluşturun. Öğeler "Yıldızlar", "Gezegenler", "Nebulalar", "Kara Delikler" ve "Karanlık Madde" dir.
+kalın ve italik içerik,
+içeriğin yazı rengini koyu kırmızı olarak değiştirin,
+pasta grafik ekleyin, Öğretim binası %35, Stadyum %25, Oyun alanı %40.
+pasta grafiği slaydın en üstüne taşıyın. ## 1, pie chart, slide, top
+çizgi grafik ekleyin, 1. yıl %20, 2. yıl %30, 3. yıl %40, 4. yıl %10.
+aynı verilere sahip bir çubuk grafik ekleyin.
+slayda mavi bir arka plan verin.
+
+yeni bir slayt oluşturun ve "giriş" başlığını ekleyin
+Bu yazıda, çoklu ve tamamlayıcı yöntemlerin daha uzun bir süre boyunca kullanılmasının hem potansiyelleri hem de tuzakları, ayrıca karmaşıklıkları ve belirsizlikleri nasıl beraberinde getirdiğini keşfediyoruz.
+içeriğin yazı tipi rengini kırmızı olarak ayarlayın
+içeriğin yazı tipi boyutu çok küçük, lütfen 20 olarak ayarlayın
+arka plan rengini açık mavi yapın. İçerik yazı tipi boyutunu iki katına çıkarın
+
+"Nanyang, derin tarihi mirası ve zengin kültürel birikimi olan ulusal bir tarihi ve kültürel şehirdir." içerik kısmında.
+içeriğe madde işareti ekleyin
+ve içeriğin yazı tipi boyutunu 18. ve içeriği italik yapın, içeriğin yazı tipi stilini "Arial" yapın
+Slayda "Benim Şehrim- Nanjing" adını verin
+Nanjing ile ilgili bir resim ekleyin. Slaydın sağ tarafına taşıyın. ## 0, picture, slide, right
+Şimdi yeni bir slayt oluşturun ve "Katalog" olarak adlandırın, adı nota uygulayın.
+Başlığı italik yapın ve yazı tipi boyutunu 24'e yükseltin.
+Aşağıdaki içeriği içerik bölümüne ekleyin, "Bir katalog, çeşitli ürün veya hizmetleri sergileyen, kapsamlı ve görsel olarak çekici bir kaynak görevi görür."
+İçeriğin yazı tipi rengini yeşil olarak değiştirin. Slayda koyu mavi bir arka plan rengi verin.
+üç satır ve iki sütun içeren bir tablo ekleyin. İlk satıra Ürün, Fiyat, ikinci satıra gömlek, 29,99 TL, son satıra elbise, 59,99 TL yazın.
+sonra bir pasta grafik ekleyin, "gömlek, elbise, pantolon" kategorisidir, %40, %30 ve %30 yüzdedir.
+göstermek için çizgi grafiğini kullanın
+Aynı verilerle bir çubuk grafik ekleyin.
+
+Bir başlık ekleyin: "mutlu hayatın tadını çıkarın"
+Başlığın üstüne bir yıldız ekleyin.## 0, star, title, top
+ardından başlığın yazı tipi stilini "Arial Black" olarak ayarlayın
+"Mutlu bir hayatın tadını çıkarmak, küçük anlarda neşe bulmayı, anlamlı ilişkiler beslemeyi, tutkuların peşinden gitmeyi, sağlıklı bir iş-yaşam dengesini korumayı ve kişisel bakım yapmayı içerir."
+Mutlu bir insan hakkında bir resim ekleyin. Resmi slaydın sağ üst kısmına taşıyın. ## 0, picture, slide, right top
+Resmi 4 inç yüksekliğe ve 5 inç genişliğe ayarlayın. Sol alta taşıyın. ## 0, picture, slide, left bottom
+
+bir sütun ve beş satır içeren bir tablo ekleyin. İlk sıra Tamamlanan Maraton, ikinci sıra Yayınlanan İlk Kitap, üçüncü sıra Yöneticiliğe Yükseltildi ve dördüncü sıra Gönüllü 100+ Saat ve son sıra Başarılı İşe Başlandı.
+slayda "2023'teki büyük başarım" adını verin
+içerik kısmına "2023'te beklentilerimi aşan önemli kilometre taşları gerçekleştirdim. Bir maraton tamamlamaktan ilk kitabımı yayınlamaya ve terfi almaya kadar, bu başarılar beni daha da büyümek için besliyor ve daha da ileriye gitmem için bana ilham veriyor. daha yüksekler."
+Bir kitap resmi ekleyin. Slaydın üst tarafına taşıyın.## 0, picture, slide, top
+Bir pasta grafiği ekleyin ve veriler %30 maraton, %25 kitap ve %45 gönüllüdür.
+Slayda bir dikdörtgen ekleyin. Pasta grafiğin sol tarafına taşıyın. ## 0, rectangle, pie chart, left
+slayda "2023" notu ekleyin.
+
+Başlığı şu şekilde belirleyin: Etik Edebi Eleştiri
+Başlık kalın ve mavi olmalı, aşağıya doğru hareket ettirilmelidir. ## 0, title, slide, bottom
+Bir dağ manzarası resmi bulun ve sağa ekleyin. ## 0, picture, slide, right
+Aşağıdaki içeriği ekleyin, "Etik edebiyat eleştirisi yöntemi, Central China Normal Üniversitesi'nden Profesör Nie Zhenzhao tarafından önerilen yeni bir yaklaşımdır."
+içeriğin altını çizin ve Times New Roman yazı tipinde, 24 yazı tipi boyutunda ve çift boşlukla ayarlayın.
+içeriğin yazı rengini lacivert olarak ayarlayın,
+Menüden bir dikdörtgen şekli seçin ve sol slayda çizin. ## 0, rectangle, slide, left
+Şeklin rengini yeşil olarak değiştirin ve "yeşil" ekleyin.
+Dikdörtgeni slaydın sağ üst köşesine taşıyın. ## 0, rectangle, slide, right corner
+Bir ok ekleyin ve içeriğin sağ tarafına taşıyın. ## 0, arrow, content, right
+
+"Ekip Üyeleri" başlıklı yeni bir slayt oluşturun
+Bir ekip üyesinin resmini ekleyin ve resmi slaydın alt tarafına taşıyın. ## 0, picture, slide, bottom
+görüntünün genişliğini 6,5 cm olarak ayarlayın
+Slayda başlığa benzer bir not ekleyin. Başlığın yazı tipini kalın yapın.
+
+Yeni bir slayt oluşturun ve ona "Satış Performansı" adını verin.
+Yazı tipi rengini mavi, yazı tipi boyutunu 24 olarak ayarlayın ve başlığın altını çizin. Bu slayt için yeşil bir arka plan rengi ayarlayın.
+Slayda şu içeriği ekleyin: "Satış performansı, bir şirketin gelir elde etme başarısının önemli bir göstergesidir. Satış ekibinin etkinliğini ve ürün veya hizmetlere yönelik genel pazar talebini yansıtır."
+İçeriğin yazı tipi rengini koyu kırmızı ve yazı tipi boyutunu 18 olarak değiştirin.
+Üç sütun ve beş satırdan oluşan bir tablo oluşturun. İlk satıra "Yıl, Çeyrek, Gelir" yazın. İkinci satıra "2018.Q1, 500.000$" yazın.
+İçeriğin yazı tipi boyutunu başlığa uygula
+
+Yeni bir slayt oluşturun ve "Satış Raporu" başlığını ekleyin
+Şu verilere dayalı bir çizgi grafik ekleyin: "Ürün A: 2.000 ABD Doları", "Ürün B: 1.500 ABD Doları", "Ürün C: 1.000 ABD Doları"
+Çizgi grafiğini "Gelir Eğilimi" olarak adlandırın.
+Slayta bir T-shirt resmi ekleyin ve "T-shirt" adlı bir başlık ekleyin.
+Bir yıldız şekli ekleyin ve resmin sağ tarafına taşıyın. ## 1, star, image, right
+Bir slayt daha oluşturun ve "Kuruluş Yapısı" olarak adlandırın
+İki sütunlu ve dört satırlı bir tablo ekleyin, ilk satıra CEO, John Smith, ikinci satıra CFO, Jane Doe, üçüncü satıra COO: Tom Jones ve dördüncü satıra CMO: Sarah Lee" olmak üzere şu verileri ekleyin. sıra
+tüm başlıkların altını çizin.
+başlıktaki içeriğin yazı tipi boyutunu 20 olarak değiştirin ve yazı rengini mor olarak değiştirin,
+Slayda başlığa benzer bir not ekleyin.
+Slayta yeşil bir arka plan rengi verin.
+
+Yeni bir slayt oluşturun ve "Giriş" olarak adlandırın
+İçerik kısmına şu metni ekleyin: "Bugün bize katıldığınız için teşekkür ederiz.
+"Burada mısınız ve sizinle bazı heyecan verici haberleri paylaşmak için sabırsızlanıyorum" ile devam edin.
+İçeriğin yazı tipi stilini Times New Roman ve yazı tipi boyutunu 20 olarak değiştirin.
+Guangdong'da bir manzara resmi ekleyin. Resmi, yüksekliği 3 inç ve genişliği 5 inç olacak şekilde yeniden boyutlandırın
+Slayda bir üçgen ekleyin. Slayta bir dikdörtgen ekleyin. Dikdörtgenin sağ tarafındaki dikdörtgeni yapın. ## 1, rectangle, triangle, right
+Slayta mor bir arka plan rengi verin. Slayda "2023" notu ekleyin.
+
+Slayda "Ürün Lansmanı" adını verin ve başlığı kalınlaştırıp kırmızı yapın.
+Bir bilgisayarın resmini slayda ekleyin
+Resmi yeniden boyutlandırın ve yüksekliği ve genişliği 2 cm yapın
+İçerik kısmına şu yazıyı ekleyin: "Yeni ürünümüz, son teknolojiyi şık ve kullanıcı dostu bir tasarımla birleştiren son teknoloji bir mobil cihazdır."
+İçeriği başlıkla aynı stilde yapın.
+Yeni bir slayt ekleyin ve "Ürün Özellikleri" olarak adlandırın
+Slayda 2 sütun ve 5 satır içeren bir tablo ekleyin İlk satıra şu verileri ekleyin: Özellik, Açıklama.
+Aşağıdaki verilere göre bir çubuk grafik oluşturun, Ürün A %25, Ürün B %50, Ürün C %25.
+Çubuk grafiği "Özelliğin Önemi" olarak adlandırın.
+Arka plan rengini açık mavi olarak değiştirin ve notu grafik başlığıyla aynı yapın.
+
+Yeni bir slayt oluşturun ve "Üç Aylık Mali Sonuçlar" başlığını ekleyin
+Başlığın yazı tipi stilini Arial olarak değiştirin
+İçerik kısmına şu metni ekleyin: "Şirketimiz bu çeyrekte 1,5 milyon dolar ciro ve 500.000 dolar kar elde etti."
+İçerik kısmına kalın ve altı çizili efekti uygulayın
+Slayda 4 sütun ve 5 satır içeren bir tablo ekleyin
+Aşağıdaki verileri tablonun ilk satırına ekleyin: Ay, Gelir, Giderler ve Kâr
+X'te Q1 2022, Q2 2022, Q3 2022, Q4 2022, Y'de 50, 60,55, 70 verilerini içeren bir çubuk grafik ekleyin.
+Çubuk grafiği "2022'de Üç Aylık Mali Sonuçlar" olarak adlandırın.
+Slayta kırmızı bir arka plan rengi verin.
+Yeni bir slayt ekleyin ve "Finansal Analiz" başlığını ekleyin
+Slayda bir şirket logosunun resmini ekleyin
+"İlginiz için teşekkür ederiz!" içerik kısmına. İçeriğin altını çizin ve italik yapın. İçeriğin yazı tipi boyutunu 26'ya yükseltin.
+
+Yeni bir slayt oluşturun ve "Satış Verileri" olarak adlandırın
+Aşağıdaki verileri içeren bir çubuk grafik ekleyin: "Bölge A: 500.000 ABD Doları; Bölge B: 400.000 ABD Doları; Bölge C: 600.000 ABD Doları; Bölge D: 450.000 ABD Doları"
+Grafiğin "Bölgesel Satışlar" başlığına sahip olduğundan emin olun
+Slayt başlığının altını çizin. "Veri kaynağı: Satış Raporu 2023" notu ekleyin
+
+Yeni bir slayt oluşturun ve başlığının "Müşteri Anketi" olduğundan emin olun
+Aşağıdaki verileri içeren bir pasta grafik ekleyin:""Çok Memnunum | %40", "Memnun | %30", "Nötr | %20", "Memnun değilim | %5", "Hiç Memnun Değilim | %5"
+Pasta grafiği slaydın alt tarafına taşıyın. ## 1, chart, slide, bottom
+Slayda bir anketin resmini ekleyin. Slaydın üst tarafına taşıyın. ## 1, picture, slide, top
+Slayda "2023/5" notu ekleyin.
+
+0 numaralı slayda bir başlık adı ekleyin, "Dilbilimin Büyüsü". Arka planı açık mavi olarak ayarlayın,
+başlığın yazı stilini Arial, yazı rengini kırmızı, yazı tipi boyutunu 36 olarak ayarlayın.
+İçeriğe "Merhaba" ekleyin, ohno, " "Dilbilim, dilin ve yapısının bilimsel olarak incelenmesidir. Fonetik ve sözdiziminden semantik ve edimbilime kadar insan iletişiminin inceliklerini araştırıyor."
+içeriğin yazı stilini Verdana, yazı rengini sarı, yazı boyutunu 18 olarak ayarlayın. çift boşluk.
+Yeni bir slayt oluşturun ve "Dilbilimin Dalları" olarak adlandırın.
+3 sütun ve 4 satır içeren bir tablo ekleyin,
+İlk satıra Dilbilim Dalları, Açıklama, Örnekler ekleyin. "Fonetik", "Konuşma seslerinin incelenmesi", "Artikülatör fonetik, Akustik fonetik, İşitsel fonetik" ikinci sıraya.
+Slayda Dilbilim ile ilgili bir kitabın resmini ekleyin. Resmi slaydın alt tarafına taşıyın. ## 1, picture, slide, bottom
+Resmi 6 cm yüksekliğinde ve 5 cm genişliğinde ayarlayın.
+Tüm slaytları mor arka plan yapın.
+
+Arka planı açık yeşil olarak ayarlayın, başlığı "Dil Aileleri" olarak adlandırın
+Başlık italik ve kalın,
+X, 445, 1526,1290, 452'de Y'de veri olarak Hint-Avrupa, Nijer-Kongo,Austronesian, Sino-Tibet verilerine dayalı bir çubuk grafik ekleyin.
+Çubuk grafiğe "Dil ailesi ve dil sayısı" adını verin
+Yeni bir slayt oluşturun ve "Dil Edinimi" olarak adlandırın. Önceki slaytla aynı başlık stili.
+Aşağıdaki içeriği girin " "Dil edinimi, insanların dili algılama, anlama ve üretme yeteneğini kazandığı süreçtir. Doğuştan gelen ve öğrenilen mekanizmaları içerir ve çevre ve sosyal etkileşim gibi çeşitli faktörlerden etkilenir.""
+Yazı tipi stilini Times New Roman, yazı tipi rengi kırmızı ve yazı tipi boyutunu 22 yapın.
+İçeriğin altını çizin ve kalınlaştırın, başlık ve içeriği aynı renkte yapın.
+slayda İngilizce bir kitabın resmini ekleyin,
+sağ slayta bir kare ekle, ## 1, rectangle, slide, right
+resmi karenin üst tarafına taşıyın. ## 1, picture, rectangle, top
+
+Slayda "Sonuç" adını verin
+Başlığın kalın ve altını çizin ve yazı tipi rengini kırmızı yapın.
+Ekle " "Dilbilim, insan dilinin karmaşıklığını çözen büyüleyici bir alandır. Dil yapılarını incelemekten dil ailelerini ve edinimi analiz etmeye kadar, iletişimin doğası ve insan bilişi hakkında derin içgörüler sunar."
+İçeriğin yazı tipi stilini Verdana, yazı tipi rengini sarı olarak değiştirin.
+Dört slayt daha oluşturun, onlara mor bir arka plan rengi uygulayın.
+Başlık slaydı 1 "Çin'deki Emlak Politikalarına Genel Bakış" ve slayda Çin haritasının bir resmini ekleyin.
+Başlık slaytı 2 "Son Değişiklikler" ve italik başlık. Önceki başlıklarla aynı yazı tipi stili.
+"Çin'deki son değişiklikler, ülkeyi küresel bir güç merkezi olarak konumlandıran ve çeşitli alanlarda küresel dinamikleri etkileyen hızlı ekonomik büyüme, teknolojik ilerlemeler ve sosyal dönüşümler gördü." içeriğin içine.
+Başlık Slaydı 3 "Konut Fiyatlarını Kontrol Etme Çabaları" ve slayda bir üçgen ekleyin.
+üçgeni slaydın sağ üst kısmına taşıyın. ## 3, triangle, slide, right top
+Başlık Slaydı 4 "Uygun Fiyatlı Konut Artırma Girişimleri" ve başlığın yazı tipi rengini kırmızı olarak değiştirin,
+"Konutun karşılanabilirlik krizini ele almayı ve herkes için insana yakışır konuta erişimi sağlamayı amaçlayan, devlet sübvansiyonları, kolaylaştırılmış onay süreçleri ve kamu-özel sektör ortaklıkları dahil olmak üzere uygun fiyatlı konutları artırmaya yönelik girişimler uygulandı." ifadesini içerik olarak ekleyin. ve içeriğin altını çizin ve italik yapın.
+verilere göre pasta grafiği oluşturun, Devlet Destekleri: %35, Kolaylaştırılmış Onay Süreçleri: %25, Kamu-Özel Ortaklıkları: %20, Arazi Kullanım Politikaları: %10, Kira Yardım Programları: %10.
+Yeni bir slayt oluşturun ve buna "Mülkiyet Geliştiricileri Yönetmeliği" adını verin. not etmek için aynı cümleleri ekleyin.
+"Bu slaytta, Çin'in emlak müteahhitlerini düzenlemeye yönelik temel önlemlerini ve hükümetin dolandırıcılığı önleme ve sürdürülebilir kalkınma uygulamalarını teşvik etme eylemlerini özetleyin." içerik olarak.
+içerik bölümünü kalın ve başlığı italik yapın.
+tüm slaytlara "Çin hakkında bilgiler" notu ekleyin.
+
+Başlığa "Tıbbi Görüntüleme Ekipmanının Sınır Gelişimi" adını verin. Başlığın yazı tipi boyutunu 24'e yükseltin.
+Bir çizgi grafiği ekleyin. Veriler: Q1: %15,Q2: %12,Q3: %18,Q4: %20 ve Q1,Q2,Q3,Q4 X'tedir.
+Grafiği "Gelir Artışı" olarak adlandırın
+Beş satır ve iki sütun içeren bir tablo ekleyin, ilk satıra Özellik 1, Yüksek çözünürlüklü görüntüleme ekleyin.
+Arka plan rengini açık mavi olarak ayarlayın.
+Slayda bir dikdörtgen, ohno, bir üçgen ekleyin
+"Tıbbi görüntüleme ekipmanlarının öncü gelişimi, yüksek çözünürlüklü görüntüleme, gelişmiş AI algoritmaları, gerçek zamanlı veri analitiği, gelişmiş hasta konforu, çok modlu entegrasyon ve kolaylaştırılmış iş akışı ile sağlık hizmetlerinde devrim yaratıyor ve tıp uzmanlarını benzeri görülmemiş teşhis yetenekleriyle güçlendiriyor." içeriğin içine.
+içeriği kalınlaştırın ve içeriği çift boşlukla ayarlayın. içeriğin altını çizin ve italik yapın.
+slayda "Mediacal Equipment" notunu ekleyin.
+
+Arka plan rengini mavi yapın. Bir dikdörtgen ekleyin.
+"Antropolojide Yöntem ve Yaklaşımlar" başlığını ekleyin ve 20 punto yapın.
+"Antropoloji, çeşitli araştırma yöntemleri kullanarak insan davranışını, kültürü ve toplumları inceleyen bir sosyal bilimdir" içeriğini ekleyin. içerik bölümünde ve çift boşluk ile ayarlayın.
+Bir daire şekli ekleyin ve onu slaydın sağ tarafına taşıyın. ## 0, circle, slide, right
+dairenin genişliğini 4 cm olarak ayarlayın.
+
+Yeni bir slayt oluşturun ve "Uygun Hidrasyonun Önemi" ile adlandırın.
+başlığın altını çizin ve italik yapın.
+Başlığın yazı tipi boyutunu 24 ve yazı tipi stilini Arial olarak değiştirin.
+Su içen bir kişinin resmini ekleyin ve slaydın sağ tarafına taşıyın. ## 1, picture, slide, right
+Görüntünün genişliğini 6,5 cm yapın. Resmin altına bir başlık ekleyin ve "Su İç" başlığını ekleyin. ## 1, textbox, picture, bottom
+slayda mor bir arka plan rengi verin. Yeni bir slayt oluşturun ve ona aynı arka planı verin.
+Bir klasörün görüntüsünü slayda ekleyin. Görüntünün genişliğini ve yüksekliğini 6,5 ve 5,5 olarak ayarlayın.
+Slayda bir başlık ekleyin ve "SmartArt Kullanmanın Yararları" olarak adlandırın. Başlığın yazı tipi rengini kırmızı ve yazı tipi boyutunu 40 olarak değiştirin.
+Başlığın yazı tipi stilini Arial olarak değiştirin ve italik yapın.
+
+Başlığa "Markanızı Oluşturma" adını verin. ve slayda açık yeşil bir arka plan rengi verin.
+İçerik bölümüne "Bir marka oluşturmak, başarılı bir işletmenin kritik bir bileşenidir. Yazı tipi stilini "Arial" ve yazı tipi boyutunu 14 olarak ayarlayın.
+Bir dikdörtgen şekli ekleyin ve onu slaydın sağ tarafına taşıyın. ## 0, rectangle, slide, right
+3 satır ve 4 sütun içeren bir tablo ekleyin. Tablonun ilk satırını "Marka Kimliği", "Marka Mesajı", "Marka Sesi" ve "Marka Stratejisi" ile doldurun.
+Tabloyu kopyalayın.
+İçeriğin yazı tipi boyutunu değiştirin ve yazı tipi stilini "Times New Roman" olarak değiştirin
+
+Yeni bir slayt oluşturun ve "Etkili İletişimin Temelleri" başlığını ekleyin ve yazı tipi stilini Times New Roman olarak ayarlayın.
+aşağıdaki öğeleri ekleyin, "Anahtar Noktalar" ve "Açıklama".
+Öğelerin yazı tipi boyutunu 24'e yükseltin. Öğelerin altını çizin ve kalınlaştırın.
+Slaydın arka plan rengini açık turuncu olarak ayarlayın.
+
+Arka plan rengini açık mavi olarak ayarlayın.
+Başlığa ve içeriğe "Tencent Meeting" yazın.
+Başlığın altını çizin ve yazı tipi rengini koyu kırmızı olarak ayarlayın.
+İçerik bölümünü şununla yenileyin: "Tencent Meeting, ekipler ve bireyler arasında sorunsuz iş birliği ve iletişimi sağlayan güçlü bir video konferans platformudur. Etkili sanal toplantılar için ekran paylaşımı, sohbet ve kayıt gibi çeşitli özellikler sunar."
+Kalın ve italik içerik, başlıkla aynı.
+Tencent Meeting arayüzünün bir görüntüsünü ekleyin.
+
+Üç sütunlu ve iki satırlı bir tablo ekleyin.
+İlk satıra "Özellikler", "Açıklama" ve "Avantajlar" girin.
+Slayda bir "APP" notu ekleyin ve slayda mor bir arka plan rengi verin.
+
+"Kalite Değerlendirmesi" slaydına mavi arka plan rengi verin.
+İçerik bölümüne şu metni ekleyin: "Kalite değerlendirmesi, ürün veya hizmetlerin performansını ve standartlarını değerlendirmede çok önemli bir süreçtir. Kalite kriterlerine bağlılığı ve sürekli iyileştirmeyi sağlamak için kapsamlı analiz, ölçüm ve karşılaştırmayı içerir."
+Bir kontrol listesinin görüntüsünü ekleyin.
+Resmi içeriğin sol tarafına taşı, ## 0, picture, content, left
+Kalite derecelendirmelerinin dağılımını gösteren bir pasta grafik oluşturun. "Mükemmel", "İyi", "Orta" ve "Kötü" gibi veri kategorilerini ekleyin ve oran %40, %15, %25, %20'dir.
+Pasta grafiği "Kalite Derecelendirmeleri Dağılımı" olarak adlandırın.
+Pasta grafiği slaydın alt tarafına taşıyın. ## 0, chart, slide, bottom
+Pasta grafiği bir sonraki slayda kopyalayın.
+
+Yeni bir slayt oluşturun ve ona "Projeyi Tamamlama Rehberi" adını verin.
+Slayda bir ok yerleştirin ve onu slaydın üst köşesine taşıyın. ## 1, right_arrow, slide, top corner
+oku 90 derece döndürün.
+0. slayda gidin ve slayda "Giriş" adını verin. Her iki başlık da kalın.
+0 slaytına "2022/6/10" notu ekleyin.
+slayda açık mavi bir arka plan rengi verin. Slayda bir bulut şekli ekleyin.
+
+Arka plan rengini sarı olarak ayarlayın.
+Aşağıdaki metni çift boşlukla içerik bölümüne ekleyin: "Trados Studio, SDL tarafından geliştirilmiş güçlü bir bilgisayar destekli çeviri (CAT) aracıdır. Çeviri belleği, terminoloji yönetimi dahil olmak üzere çeviri sürecini kolaylaştıran bir dizi özellik ve işlevsellik sunar. ve proje yönetimi araçları."
+"Eva tarafından düzenlendi" notunu ekleyin. "Trados Studio" başlığını ekleyin.
+Başlığın yazı tipi rengini koyu yeşil olarak ayarlayın. Yazı tipi boyutunu 30 olarak ayarlayın.
+Trados Studio logosunun bir görüntüsünü slayda ekleyin. Resmi içeriğin sağ tarafına taşıyın. ## 0, image, content, right
+Görüntünün genişliğini ve yüksekliğini 4 ve 3 cm olarak ayarlayın.
+Görüntüyü saat yönünün tersine 15 derece döndürün.
+arka plan rengini mor olarak değiştirin.
+
+Üç sütunlu ve iki satırlı bir tablo ekleyin.
+Tablonun ilk satırına "Yıl", "Açıklama" ve "Değişiklikler" girin.
+Slaydı "Geçtiğimiz on yıldaki büyük değişiklikler" olarak adlandırın
+kalın ve italik başlık.
+Arka plan rengini açık mavi olarak ayarlayın.
+
+"Yurtdışında Eğitim Almayı Düşünmeli Misiniz?" başlığını altı çizili ve kalın olarak ekleyin.
+Yabancı bir ülkede okuyan öğrencilerin bir resmini ekleyin. Slaydın altına taşıyın. ## 0, picture, slide, bottom
+Resmin genişliğini 5 cm, yüksekliğini 3 cm olarak ayarlayın.
+Slayta mor bir arka plan rengi verin. Not etmek için başlığı ekleyin.
+
+Çevirmenler arasında Trados Studio'nun kullanım istatistiklerini gösteren bir çubuk grafik oluşturun. "Tam Zamanlı Çevirmenler", "Serbest Çevirmenler" ve "Çeviri Büroları" gibi veri kategorilerini dahil edin ve bunlara karşılık gelen yüzdeler %45,%35,%20,
+Çubuk grafiği "Trados Studio Kullanım İstatistikleri" olarak adlandırın.
+Yeni bir slayt oluşturun ve "ABBYY FineReader" başlığını ekleyin.
+başlığın altını çizin ve kalın yapın, Başlığın yazı tipi boyutunu 30 olarak ayarlayın.
+Aşağıdaki metni içerik bölümüne ekleyin: "ABBYY FineReader, kullanıcıların taranan belgeleri, PDF dosyalarını ve görüntüleri düzenlenebilir ve aranabilir biçimlere dönüştürmesine olanak tanıyan bir optik karakter tanıma (OCR) yazılımıdır. Gelişmiş metin tanıma ve belge dönüştürme yetenekleriyle, belge işlemeyi basitleştirir ve üretkenliği artırır."
+içeriği çift boşlukla ayarlayın ve içeriği italik yapın.
+"ABBYY FineReader" başlıklı ABBYY FineReader logosu gibi ABBYY FineReader'ı temsil eden bir resim ekleyin.
+Üç sütunlu ve iki satırlı bir tablo ekleyin. İlk satıra "Özellik", "Açıklama" ve "Avantajlar" girin.
+Resmi tablonun sağ tarafına taşıyın. ## 1, picture, table, right
+şu verilere dayalı bir pasta grafik oluşturun, "Yüksek Doğruluk" %45, "Orta Doğruluk" %45 ve "Düşük Doğruluk"%5
+Pasta grafiği "Belge Dönüştürme Doğruluğu" olarak adlandırın.
+Slayta "Sayfa 2" notunu ekleyin.
+
+"Pazarlama Kampanyası" başlığını ekleyin.
+başlığın altını çizin ve kalınlaştırın, yazı tipi boyutunu 26 olarak ayarlayın.
+İçerik bölümüne şu metni ekleyin: "Pazarlama kampanyamız, marka bilinirliğini artırmayı, hedef kitlemizle etkileşim kurmayı ve satışları artırmayı amaçlıyor. Çevrimiçi ve çevrimdışı pazarlama kanallarının stratejik bir karışımıyla, etkili mesajlar ve ölçülebilir sonuçlar sunmaya odaklandık. ."
+İçeriği slaydın sol tarafına taşıyın. ## 0, content, slide, left
+Bir tanıtım afişi resmi ekleyin, aşağıya resim adını verin. ## 1, textbox, picture, bottom
+görüntünün genişliğini 5 cm yüksekliğe ayarlayın,
+slayda yeşil bir arka plan rengi verin.
+
+Slayda "Sürdürülebilir Enerji" adlı kırmızı bir başlık verin.
+Rüzgar türbini veya güneş panelleri gibi sürdürülebilir enerji ile ilgili bir resim ekleyin. Ang, boyutunu 6 cm genişliğe ayarladı.
+3 sütun ve 4 satırdan oluşan bir tablo oluşturun. İlk sütunda rüzgar, güneş, hidro ve jeotermal listeleyin. İkinci sütunda, düşük maliyeti, düşük çevresel etkiyi ve yüksek kullanılabilirliği listeleyin. Üçüncü sütunda, yüksek ilk yatırımı, aralıklı kullanılabilirliği ve arazi kullanım çakışmalarını listeleyin.
+Resmi tablonun üst tarafına taşıyın. ## 0, picture, table, top
+Bir slayt daha oluşturun ve başlığını, önceki başlıkla aynı renkte olacak şekilde "Çevrimiçi Alışveriş" olarak adlandırın.
+İçerik kısmına şu içeriği ekleyin: "Online alışveriş, internet üzerinden satıcılardan mal ve hizmet satın alma işlemidir. Kolaylığı ve erişilebilirliği nedeniyle giderek daha popüler hale gelmiştir."
+Başlığı kalın yapın ve yazı tipi rengini mavi olarak değiştirin. İçeriği çift boşlukla yapın.
+Bir slayt daha oluşturun ve dizilerle ilgili bir resim ekleyin. Genişliğini önceki slayttaki görüntüyle aynı şekilde ayarlayın.
+Slayta mavi bir arka plan rengi verin. Slayda "TV Dizileri Hakkında" notu ekleyin.
+
+Başlığa "Sağlıklı Beslenme Alışkanlıkları" yazın. Slayt arka planını koyu mavi renge değiştirin.
+İçeriği ekleyin "Videoyu başlatmak için oynat'a basın". İçeriğin yazı tipi stilini Verdana yapın.
+İki sütunlu ve iki satırlı bir tablo ekleyin. İlk satıra "Yemek Grubu", "Önerilen Porsiyonlar" yazın.
+Tabloyu içeriğin alt tarafına taşıyın. ## 0, table, content, bottom
+Dizüstü bilgisayar kullanan bir kişinin resmini ekleyin.
+Slayda bir kare ekleyin. Yüksekliğini 2 cm olarak ayarlayın.
+Ardından 45 derece sola döndürün.
+
+İçeriği ekleyin: "Sonuç olarak, TV hizmetleri, çok çeşitli içerik seçenekleri ve kolaylık sağlayarak eğlenceyi tüketme biçimimizde devrim yarattı."
+İçeriğin yazı tipi stilini "Futura" olarak değiştirin.
+Başlığı "Sonuç" olarak adlandırın ve kalın yapın.
+Meyve ve sebzelerle dolu renkli bir tabak resmi ekleyin.
+Resmi slaydın alt köşesine taşıyın. ## 0, picture, slide, bottom corner
+slayt arka planının rengini yeşil olarak değiştirin.
+
+Lütfen yeni bir slayt oluşturun ve ona mor bir arka plan rengi verin,
+"Dezavantaj" başlığını ekleyin,
+başlığı kalınlaştırın ve başlığın yazı tipi boyutunu 24, yazı tipi stilini Arial yapın.
+Bu dosyaya "2023/3/9" notunu ekleyin.
+"Meyveler"%30, "Sebzeler"%25, "Tahıllar"%15, "Proteinler"%5 ve "%25 Süt Ürünleri" içeren bir pasta grafik oluşturun
+pasta grafiği slaydın alt tarafına taşıyın. ## 1, chart, slide, bottom
+Pasta grafiğin altına bir metin kutusu yerleştirin ve "Çok fazla yemek yemenin dezavantajı sizi şişmanlatmasıdır" yazın. metin kutusunda. ## 1, textbox, chart, bottom
+Pasta grafiğini "Günlük Yiyecek Grubu Porsiyonları" olarak adlandırın.
+
+Slayda bir ok yerleştirin. Genişliğini 3.5 olarak ayarlayın,
+90 derece sola döndürün.
+slaydın sağ tarafına taşıyın. ## 0, right_arrow, slide, right
+
+"Teknoloji Trendleri" başlığını ekleyin ve altını çizin.
+Yazı tipi rengini yeşil olarak ayarlayın. Yazı tipi boyutunu 26 olarak ayarlayın.
+Aşağıdaki metni içerik bölümüne ekleyin: "Günümüzün hızla gelişen dijital ortamında en son teknoloji trendlerine ayak uydurmak çok önemlidir. Yapay zeka ve blockchain'den bulut bilişime ve Nesnelerin İnterneti'ne kadar bu trendler endüstrileri şekillendiriyor ve kullanma biçimimizde devrim yaratıyor. yaşa, çalış ve dünyayla bağlantı kur."
+Arka plan rengini başlığın yazı tipi rengiyle aynı olacak şekilde ayarlayın.
+Birbirine bağlı ağların bir görüntüsünü ekleyin.
+Üç sütunlu ve iki satırlı bir tablo ekleyin. İlk satıra "Teknoloji Trendi", "Açıklama" ve "Etki" yazın.
+Zaman içinde teknolojinin benimsenmesindeki artışı gösteren bir çizgi grafik oluşturun. X'e "Mobil Cihazlar", "İnternet Kullanıcıları", "Yapay Zeka Uygulamaları", "Bulut Hizmetleri" ve "Akıllı Ev Cihazları" gibi veri kategorilerini ve Y'ye karşılık gelen değerleri dahil edin: 15,10,7,6 24 milyon.
+Çizgi grafiğini "Teknoloji Değerleri" olarak adlandırın.
+Aynı veri ve başlığa sahip bir pasta grafik ekleyin.
+
+Slayt arka planını yeşil renkle ayarlayın.
+"Sürdürülebilir Yaşam" başlığını girin ve italik yapın.
+Güneş paneli gibi yenilenebilir bir enerji kaynağının resmini ekleyin ve onu slaydın sol tarafına taşıyın. ## 0, picture, slide, left
+İçindekiler bölümüne şu metni ekleyin: "Sürdürülebilir yaşam, çevreyi korumak ve gelecek nesiller için daha iyi bir gelecek sağlamak için sorumlu tüketimi, yenilenebilir enerjiyi ve çevre dostu uygulamaları teşvik eder. Günlük hayatımızda bilinçli seçimler yaparak, çevreyi azaltabiliriz. karbon ayak izimizi ve daha sürdürülebilir bir dünya yaratmak."
+Yazı tipi rengini koyu turuncu olarak ayarlayın.
+Zaman içinde yenilenebilir enerji tüketimindeki artışı gösteren bir çizgi grafik oluşturun. 2013, 2014 ,2015, 2016'yı X'e dahil edin ve Y'ye karşılık gelen veriler 1,6 , 2,4,4,8 ve 11 milyondur.
+Çizgi grafiğini "Yenilenebilir Enerji Tüketim Trendi" olarak adlandırın.
+Çizgi grafiğini başlığın alt tarafına taşıyın. ## 0, chart, title, bottom
+Slayda bir bulut şekli ekleyin. Bulutu saat yönünün tersine 30 derece döndürün.
+
+Dört sütunlu ve üç satırlı bir tablo ekleyin.
+"Dengeli Diyet", "Porsiyon Kontrolü" ve "Hidrasyon" ilk sütununa üç öğe ekleyin.
+Slayta yeşil bir şehrin resmini ekleyin.
+Resmi slaydın üst tarafına taşıyın.## 0, picture, slide, top
+Tabloyu slaydın alt tarafına taşıyın.## 0, table, slide, bottom
+
+Bir başlık ekleyin "Proje Yönetimi" .
+Bir proje üzerinde işbirliği yapan bir ekibin resmini ekleyin.
+Başlığın altını çizin ve italik yapın.
+Resmi slaydın sol üst kısmına taşıyın. ## 0, image, slide, left top
+
+"Proje İlerleme Raporu" başlığını ekleyin.
+Üç sütun ve beş satırdan oluşan bir tablo oluşturun, ilk satıra görev adlarını, son tarihleri ​​ve ilerleme durumunu girin.
+Arka plan rengini mor, başlığı yeşil olarak ayarlayın.
+
+"Üniversite ve Meslek Okulu" başlığını ekleyin
+Yazı boyutunu 36 olarak ayarlayın ve başlığın altını çizin,
+Aşağıdaki metni içerik bölümüne ekleyin: "Üniversite ve meslek okulları, öğrencilerini başarılı kariyerler için gerekli bilgi ve becerilerle donatmak için yüksek öğrenim ve uzmanlık eğitimi sağlar. Kişisel gelişimi ve kariyer gelişimini desteklemek."
+İçeriği çift boşlukla ayarlayın.
+Slayta yeşil bir arka plan rengi verin. Umm, onu mor olarak değiştir.
+
+Profesyonel bir okul ortamının resmini ekleyin.
+Resmi slaydın sağ tarafına taşıyın.## 0, picture, slide, right
+Slayda bir üçgen ekleyin ve onu slaydın sol tarafına taşıyın. ## 0, triangle, slide, left
+Üçgenin genişliğini 10 cm'ye ve yüksekliğini 15 cm'ye yükseltin.
+Resmin üçgenin altında olduğundan emin olun.## 0, picture, triangle, below
+
+Yeni bir slayt oluşturun ve ona mavi bir arka plan verin.
+"NFC" başlığını girin ve başlığı kalın yapın.
+Aşağıdaki metni içerik bölümüne ekleyin: "NFC (Yakın Alan İletişimi), yakınlardaki cihazlar arasında kesintisiz kablosuz iletişim sağlar."
+Yazı rengini koyu yeşil, yazı tipi boyutunu 20 olarak ayarlayın.
+Slayta bir NFC logosu resmi ekleyin.
+Arka plan rengini mor olarak ayarlayın.
+görüntüyü içeriğin sağ tarafına taşıyın. ## 1, picture, slide, right
+
+Dört sütun ve iki satır içeren bir tablo ekleyin. "Ürün", "Gelir", "Satılan Birimler" ve "Kar Marjı"nı girin. ilk sıraya.
+Slayda açık mavi bir arka plan rengi verin.
+
+NFC özellikli cihazların zaman içindeki büyümesini gösteren bir çizgi grafik oluşturun. X üzerindeki veriler 2018'dir. 2019.2020 ve 2021'dir. Karşılık gelen veriler 500000; 1300000,2500000,4000000, NFC özellikli cihazların sayısını temsil eder.
+Çizgi grafiğini "NFC Cihaz Büyümesi" olarak adlandırın.
+Üç sütunlu ve iki satırlı bir tablo ekleyin. Temassız Ekle,Dokunmatik işlemlere olanak sağlar,İkinci sıraya rahat ve hızlı ödemeler.
+Bir yıldız yerleştirin ve genişliğini ve yüksekliğini 6,5 cm yapın.
+Yıldızı tablonun üst tarafına taşıyın. ## 0, star, table, top
+Yıldızı tablonun sağ tarafına taşıyın. ## 0, star, table, right
+
+Bir başlık ekleyin ve kalın yapın: "Kargaşayı Kucaklamak"
+Başlık yazı tipi boyutunu 20 ve yazı tipi stilini "Times New Roman" yapın
+Dijital dönüşümü ve yeniliği temsil etmek için fütürist bir şehir manzarası resmi ekleyin.
+Resmi slaydın alt tarafına taşıyın. ## 0, picture, slide, bottom
+"[Adınız] tarafından düzenlendi" notunu ekleyin. slayda. Slayta mor bir arka plan verin.
+Çok iyi değil. Arka plan rengini açık mavi olarak değiştirin.
+
+"Güç Bankası" başlığını girin ve slaydın sol köşesine taşıyın. ## 0, title, slide, left corner
+başlığın yazı tipi boyutunu 24 olacak şekilde artırın ve italik yapın.
+İçerik kısmına şu metni ekleyin: "Güç bankası, akıllı telefonlar, tabletler ve diğer elektronik cihazlar için hareket halindeyken şarj sağlayan taşınabilir bir cihazdır."
+İçeriğin altını çiz ve çift boşluk olacak şekilde, başlıkla aynı boyutta ve yazı rengini turuncu olarak ayarla,
+Yoobao güç bankasının bir resmini slayda ekleyin. Slaydın alt tarafına taşıyın. ## 0, picture, slide, bottom
+Dört sütunlu ve üç satırlı bir tablo ekleyin. Aşağıdaki verileri tabloya girin: Marka, Kapasite (mAh), Çıkış Portları, Fiyat ($) ilk satıra.
+Farklı güç bankası markalarının pazar payını gösteren bir pasta grafik oluşturun. Veriler A Markası, %40; B Markası %30, C Markası %20 ve Diğerleri %10.
+"Power Bank Pazar Payı" pasta grafiğini ekleyin.
+Bu slayda "2023" notu ekleyin.
+Slaydın sağ tarafına bir belirtme çizgisi şekli ekleyin. ## 0, callout, slide, right
+
+"NBA" başlığını girin ve yazı tipi rengini kırmızı olarak ayarlayın.
+İçerik bölümüne şu metni ekleyin: "Ulusal Basketbol Birliği (NBA), Kuzey Amerika'dan 30 takımdan oluşan profesyonel bir basketbol ligidir."
+kelimelerin yazı tipi boyutu çok küçük, yazı tipi boyutunu 20 olarak ayarlayın.
+İçeriği slaydın alt köşesine taşıyın. ## 0, content, slide, bottom corner.
+
+Slayta bir basketbol sahası resmi ekleyin.
+Resmi slaydın üst tarafına taşıyın. ## 0, picture, slide, top
+Resmin adını gösteren bir metin kutusu ekleyin. Arka planı mavi bir renge değiştirin.
+Dört satır ve üç sütun içeren bir tablo ekleyin.
+Aşağıdaki verileri tabloya girin: İlk sıraya Takım, Şehir, Şampiyonalar, ikinci sıraya Los Angeles, Lakers, 17, üçüncü sıraya Boston, Celtics, 17 ve dördüncü sıraya Chicago, Bulls, 6.
+Tablodaki verilere göre bir çubuk grafik oluşturun, X verileri Lakers, Celtics ve Bulls, Y verileri 17, 17 ve 6'dır.
+Pasta grafiği "NBA Şampiyonası Dağılımı" olarak adlandırın.
+Yeni bir slayt oluşturun ve başlığın "Otonom Sürüşe Giriş" altını çizin.
+Fütürist bir sürücüsüz arabanın görüntüsünü slayta ekleyin. Resmin yüksekliğini 7cm olarak ayarlayın.
+İçerik kısmına şu metni ekleyin: "Kendi kendine sürüş veya sürücüsüz teknoloji olarak da bilinen otonom sürüş, insan müdahalesi olmadan seyredebilen ve çalışabilen araçları ifade eder."
+İçeriği slaydın alt köşesine taşıyın. ## 1, content, slide, bottom corner
+slayda bir ok yerleştirin. İçeriğin soluna taşıyın. ## 1, right_arrow, content, left
+Oh, oku içeriğin sağına taşı. ## 1, right_arrow, content, right
+
+Aşağıdaki içeriği ekleyin, "Otonom sürüş, gelişmiş güvenlik, rahatlık ve verimlilik sunarak ulaşım endüstrisinde devrim yaratıyor."
+İçeriğin yazı tipi boyutunu 18'e yükseltin, içeriği kalın ve italik yapın.
+Ayrıca içeriğin altını çizin ve çift boşlukla ayarlayın.
+Beş sütun ve iki satır içeren bir tablo ekleyin. İlk satırda Sensör Tipleri ,Lidar,Radar,Kameralar, Toplam yazıyor.
+İçeriğin yazı tipi stilini "Times New Roman" olarak değiştirin.
+Otonom sürüş sistemlerinde kullanılan sensör türlerinin dağılımını gösteren bir pasta grafiği oluşturun. Veriler Lidar %40, Radar %30, Kameralar %30'dur.
+Pasta grafiği "Otonom Sürüşte Sensör Tipleri" olarak adlandırın.
+Slayta bir pasta grafik adı notu ekleyin.
+
+Slayda "Otonom Sürüş" adını verin
+Bir şirket logosunun resmini ekleyin ve slaydın sol altına taşıyın. ## 0, picture, slide, left bottom
+Logonun genişliğini ve yüksekliğini sırasıyla 6,5 ​​cm ve 6 cm olarak ayarlayın.
+Yeni bir slayt oluşturun ve "Bölgeye Göre Otonom Sürüş Benimseme" başlığını ekleyin.
+Başlık yazı tipini "Calibri" ve yazı tipi boyutunu 32 olarak ayarlayın.
+Şu ifadeyi yazın: "Otonom sürüş teknolojileri ulaşım ortamını dönüştürüyor, endüstrilerde devrim yaratıyor ve güvenlik ile verimliliği artırıyor."
+İçeriğin yazı tipi rengini koyu turuncu olarak değiştirin.
+
+Yeni bir slayt oluşturun. Başlığı "Ekmenin Gücü" olarak yazın. Başlık yazı tipini, yazı tipi boyutu 36 olan "Calibri" olarak ayarlayın.
+Yeşil renkli bir arka plan uygulayın.
+İçerik bölümüne şu içeriği ekleyin: "Bitki dikmek yalnızca çevremizi güzelleştirmekle kalmaz, aynı zamanda çevresel sürdürülebilirliği destekler ve çok sayıda sağlık yararı sağlar." içerik bölümüne.
+İçeriği ve başlığı yeşil yapın.
+Slayta yemyeşil bir bahçe resmi ekleyin,
+Verilere göre bir pasta grafik oluşturun, Çevre %40, Sağlık %30 ve Topluluk %30.
+Pasta grafiğini "Ekim Faydaları" olarak adlandırın.
+Pasta grafiği görüntünün alt tarafına taşıyın. ## 1, chart, image, bottom
+Slayda bir ok yerleştirin. 60 derece ile döndürün.
+Yüksekliğini 2 cm ve genişliğini 4 cm olarak ayarlayın. Slayda not olarak "Sayfa 2" yazın.
+
+Dört sütunlu ve üç satırlı bir tablo ekleyin.
+Aşağıdaki verileri tablonun ilk satırına girin: Planting Benefits,Environmental,Sağlık,Topluluk.
+Slayt arka plan rengini yeşil olarak ayarlayın.
+align_slide_center'ı "Diğer Bilgiler" olarak adlandırın,
+başlığın altını çizin ve yazı rengini koyu turuncu olarak ayarlayın,
+başlığı slaydın üst köşesine taşıyın. ## 0, title, slide, top corner
+
+Google logosunun bir resmini "Google" başlık kutusuyla slayda ekleyin.
+İçerik kısmına şu metni ekleyin: "Google ve Microsoft Edge, benzersiz özellikler ve işlevler sunan iki popüler web tarayıcısıdır. Google Chrome, hızı ve kapsamlı ekosistemi ile pazara hakimken, Microsoft Edge, sorunsuz bir tarama deneyimi ve sıkı bir gezinme deneyimi sunmayı amaçlamaktadır. Windows işletim sistemleri ile entegrasyon."
+İçeriği çift boşlukla ayarlayın ve yazı tipi boyutunu 16 yapın.
+"Google vs Microsoft Edge" başlığını ekleyin.Yazı tipi rengini kırmızı olarak ayarlayın.
+Resmi slaydın alt köşesine taşıyın. ## 0, picture, slide, bottom corner
+Üç sütunlu ve üç satırlı bir tablo ekleyin. İlk satırda Özellikler, Google Chrome, Microsoft Edge yazıyor. İkinci satırda Hız, Yüksek, Orta, üçüncü satırda Ekosistem, Kapsamlı, Entegre yazıyor.
+Google Chrome ve Microsoft Edge'in pazar payını karşılaştıran bir çubuk grafik oluşturun. Google Chrome %50, Microsoft Edge %25 ve Diğerleri %25'tir.
+Çubuk grafiği "Web Tarayıcı Pazar Payı" olarak adlandırın. Slayda not olarak "Sayfa 1"i ekleyin.
+
+Slayta mavi bir arka plan rengi verin. "Ağ İletişimi ve LinkedIn" başlığını ekleyin
+Aşağıdaki metni içerik bölümüne ekleyin: "Ağ oluşturma, kariyer gelişiminde çok önemli bir rol oynar ve LinkedIn, profesyonel ağ oluşturma için güçlü bir platformdur. Dünya çapında milyonlarca kullanıcısı olan LinkedIn, profesyonellerle bağlantı kurmak, becerileri sergilemek ve iş fırsatlarını keşfedin."
+Başlığın yazı tipi rengini koyu kırmızı ve içeriği açık kırmızı olarak ayarlayın.
+başlığın ve içeriğin yazı tipi stilini Arial olarak ayarlayın.
+Başlığın altını çizin ve içeriği italik yapın. İçeriğin yazı tipi boyutunu 24'e yükseltin.
+Şu verilere göre LinkedIn kullanıcılarının sektöre göre dağılımını gösteren bir pasta grafik oluşturun: Teknoloji %30, Finans %20, Sağlık Hizmetleri %15, Pazarlama %10, Diğer %25
+Pasta grafiği "LinkedIn Kullanıcı Dağıtımı" olarak adlandırın.
+çizgi grafiğini aynı verilerle ekleyin.
+aynı verilerle çubuk grafiği ekleyin.
+
+Yeni bir slayt oluşturun ve "Farklı Pişiriciler" başlığını ekleyin
+İçindekiler bölümüne şu metni ekleyin: "Farklı pişirme ihtiyaçlarını karşılayan çeşitli ocak türleri mevcuttur. Geleneksel ocaklardan gelişmiş elektrikli ocaklara ve modern indüksiyonlu ocaklara kadar her tür benzersiz özellikler ve faydalar sunar."
+Dört sütunlu ve üç satırlı bir tablo ekleyin. Ocak Tipi, Özellikler, Faydaları ilk satıra girin. Set üstü ocağı, Gazlı veya elektrikli brülörleri, Hassas ısı kontrolünü ikinci sıraya yerleştirin.
+Şu verilere dayalı bir pasta grafiği oluşturun: Ocak %40; Elektrikli Ocak %25; İndüksiyonlu Ocak %20; Yavaş Pişirici %10; Fritöz %5.
+"Pişirici Tipi Popülerliği" pasta grafiği başlığını ekleyin.
+Slayda set üstü ocak resmi ekleyin.
+Resmin genişliğini 7 cm ve yüksekliğini 6 cm olarak ayarlayın.
+görüntüyü slaydın sağ tarafına taşıyın. ## 1, picture, slide, right
+görüntüyü slaydın sol tarafına taşıyın. ## 1, picture, slide, left
+0 slaydına gidin ve ona yeşil bir arka plan rengi verin.
+
+"Oreo'nun Zevkini Keşfedin" başlığını ekleyin
+Başlık kalın ve italik.
+Yazı tipi boyutunu 30 olarak ayarlayın.
+İçindekiler kısmına şu yazıyı ekleyin: "İkonik sandviç kurabiyesi Oreo, her yaştan insanın favori ikramı olmuştur. Çikolatalı gofret ve krema dolgusunun karşı konulamaz kombinasyonu ile Oreo, herkese keyif veren enfes bir atıştırma deneyimi sunuyor. ısırmak."
+İçeriğin yazı tipi rengini koyu mavi olarak ayarlayın.
+Oreo çerezlerinin bir görüntüsünü slayda ekleyin,
+görüntüyü slaydın sağ köşesine taşıyın. ## 0, picture, slide, right corner
+slayda bir yıldız şekli ekleyin. yıldızı slaydın sol köşesine taşıyın. ## 0, star, slide, left corner
+slayda bir pasta ve çizgi grafiği ekleyin, veriler Orijinal %40, Nane %10, Fıstık Ezmesi %50 şeklindedir.
+Aynı bilgilere sahip ancak "Oreo Lezzet Popülerliği" olan bir çubuk grafik istiyorum.
+
+Slayda mor bir arka plan rengi ayarlayın.
+Slayt başlığını "Mevsimsel Değişiklikler" olarak ayarlayın ve kalın ve italik yapın.
+İçindekiler bölümüne şu yazıyı ekleyin: "Mevsimsel farklılıklar hayatımıza ayrı bir çekicilik katar. İlkbaharın canlı renklerinden yazın sıcacık tonlarına, sonbaharın sıcacık ambiyansına ve kışın dingin manzaralarına kadar her mevsim bir başka güzellik sunar. Eşsiz bir deneyim. Yıl boyunca doğanın dönüşümünün güzelliğini kucaklayın."
+İçeriğin yazı tipi stilini Arial olarak değiştirin. içeriğin yazı tipi boyutunu 18 olarak değiştirin.
+Dört sütunlu ve dört satırlı bir tablo ekleyin. İlk satıra Sezon, Ortalama Sıcaklık, Temel Özellikler ve Aktiviteleri girin.
+Slayda bir belirtme çizgisi şekli ekleyin. Slaydın sol tarafına taşıyın. ## 0, callout, slide, left
+
+"Guangdong'da Hava Durumu: Çeşitlilik İklimi" başlığını ekleyin
+başlığı slaydın sol köşesine taşıyın. ## 0, title, slide, left corner
+Aşağıdaki metni çift aralıklı içerik bölümüne ekleyin: "Guangdong, yıl boyunca çok çeşitli hava koşulları yaşar. Sıcak ve güneşli günlerden ara sıra yağışlara, sisli sabahlara ve bulutlu gökyüzüne kadar, Guangdong'un iklimi çeşitli ve dinamiktir. Bu canlı bölgedeki farklı mevsimleri ve hava durumunu keşfedin."
+Slayda güneşli bir kumsalın resmini ekleyin ve slaydın sağ köşesine taşıyın. ## 0, picture, slide, right corner
+İki sütunlu ve iki satırlı bir tablo ekleyin. İlk satıra Mevsim ve Ortalama Sıcaklık bilgilerini girin. ikinci sırada, yayı 20-28°C yerleştirin.
+slayda mor bir arka plan rengi verin.
+tabloyu slaydın alt tarafına taşıyın. ## 0, table, slide, bottom
+slayda bir bulut şekli ekleyin ve tablonun sol tarafına taşıyın. ## 0, cloud, table, left
+
+slayda bir gün doğumu resmi ekleyin.
+resmin genişliğini 6 cm olarak ayarlayın. Kare yap.
+"Pozitif Düşünmenin Gücü: İyimserliği Kucaklamak" başlığını italik ve kalın olarak yerleştirin.
+Aşağıdaki metni başlıkla aynı stilde içerik bölümüne ekleyin: "Olumlu düşünme, iyimserlik, dayanıklılık ve kendine inanmaya odaklanan bir zihniyettir. Olumlu düşünce ve tutumlar geliştirerek, refahımızı artırabilir, zorlukların üstesinden gelebiliriz. , ve daha mutlu ve tatmin edici bir yaşam yaratın. Pozitif düşünmenin gücünü kucaklayın ve gerçek potansiyelinizi ortaya çıkarın."
+içeriğin yazı tipi rengini mor ve yazı tipi boyutunu 20 yapın.
+slayda "pozitif düşünme" notu ekleyin.
+
+Üç sütunlu ve dört satırlı bir tablo ekleyin. Aşağıdaki verileri tabloya girin: İlk satıra Faydalar, Açıklama, Örnekler. İkinci satırdaki ilk hücreye " Geliştirilmiş refah" ifadesini ekleyin.
+Aşağıdaki metni içerik bölümüne ekleyin: "Olumlu düşünme, iyimserlik, dayanıklılık ve kendine inanmaya odaklanan bir zihniyettir. Olumlu düşünce ve tutumlar geliştirerek, refahımızı artırabilir, zorlukların üstesinden gelebilir ve daha mutlu ve daha tatmin edici bir hayat. Pozitif düşüncenin gücünü kucaklayın ve gerçek potansiyelinizi ortaya çıkarın."
+içeriği italik yapın ve yazı tipi rengini açık mavi olarak değiştirin.
+slayda açık yeşil bir arka plan rengi verin.
+"Tanım" başlığını slayda ekleyin ve kalınlaştırın.
+Başlığı slaydın üst köşesine taşıyın. ## 0, title, slide, top corner
+Sağ slayda kahkaha atan bir grup insanın resmini ekleyin. ## 0, picture, slide, right
+
+"Çöp Sınıflandırması: Sürdürülebilir Atık Yönetimini Teşvik Etmek" başlığını içerik kısmına ekleyin:"Çöp sınıflandırması, sürdürülebilir atık yönetimini teşvik etmede çok önemli bir uygulamadır. Atıkları uygun şekilde ayırarak ve bertaraf ederek çevre kirliliğini azaltabilir, kaynakları koruyabiliriz. , ve daha temiz ve sağlıklı bir gezegene katkıda bulunun.Çöp sınıflandırmasının sorumluluğunu üstlenin ve çevremiz üzerinde olumlu bir etki yaratın."
+içeriğin altını çizin ve yazı rengini turuncu olarak ayarlayın,
+içeriğin yazı tipi boyutunu 18 olarak değiştirin.
+başlığın ve içeriğin yazı tipi stilini Times New Roman olarak değiştirin.
+slayda bir ok yerleştirin. Slaydın sağ köşesine taşıyın. ## 0, arrow, slide, right corner
+Okun genişliğini 4,0 ve yüksekliğini 3,0 olarak ayarlayın.
+90 derece sola döndürün.
+Farklı atık malzemelerin geri dönüşüm oranlarını gösteren bir çubuk grafik oluşturun. X ekseninde "Kağıt", "Plastik", "Cam", "Metaller" ve "Organik Atık" gibi veri kategorilerini veri olarak ekleyin. İlgili geri dönüşüm oranlarını Y eksenine %60, %50, %45, %40 , %40 ile dahil edin. Çubuk grafiği "Atık Malzeme Geri Dönüşüm Oranları" olarak adlandırın.
+Bir geri dönüşüm kutusunun görüntüsünü slayda ekleyin.
+yeni bir slayt oluşturun ve ona mor bir arka plan rengi verin.
+yeni slayda önceki slayttaki içerikle aynı boyutta "Organik Atık" adını verin.
+İçerik kısmına şu metni ekleyin: "Organik atık, sürdürülebilir yaşamda önemli bir rol oynar. Gıda artıkları, bahçe atıkları ve tarımsal artıklar gibi organik malzemeleri kompost haline getirerek, çöplük atıklarını azaltabilir, toprak kalitesini zenginleştirebilir ve besin döngüsünü kapatabiliriz. • Kompostlama uygulamasını benimseyin ve daha yeşil bir geleceğe katkıda bulunun."
+
+Yeni bir slayt oluşturun ve "Oldroyd's film of Lady Macbeth" başlığını kalın yazı tipiyle ekleyin
+Lütfen başlığın altını çizin ve boyutu 28 olarak ayarlayın
+İçerik ekle "Birch'ün senaryosu, Leskov anlatısına birkaç büyük değişiklik getiriyor. Örneğin Birch ve Oldroyd, Sibirya bölümlerini tamamen ortadan kaldırıyor ve Katherine'in intiharını kesmeyi seçiyor."
+İçeriğin yazı tipi boyutunu 20 olarak ayarlayın ve içeriği kalın yapın.
+içeriğin yazı rengini sarıya, başlığın rengini kırmızıya çevirin.
+slayda Lady Macbeth'in Oldroyd imzalı filminin bir resmini ekleyin,
+kare resmin genişliğini 8cm olarak ayarlayın,
+içeriğin sağ tarafına taşı, ## 1, picture, content, right
+Hayır, içeriğin sol tarafına taşı, ## 1, picture, content, left
+Üç satır ve iki sütun içeren bir tablo ekleyin.
+İlk satıra Film Karakteri, Aktör/Oyuncu girin. İkinci satıra Lady Macbeth'i ve Florence Pugh'u ekleyin. Üçüncü olarak, Macbeth, Cosmo Jarvis'i ekleyin.
+slayda "1 Mayıs" notu ekleyin.
+Arka plan rengini mor olarak değiştirin.
+
+Yeni bir slayt oluşturun ve başlığı "Egzersizin Önemi" yapın ve başlığın altını çizin,
+Lütfen başlığın yazı tipi boyutunu 24 olarak ayarlayın ve yazı tipi rengini yeşil olarak ayarlayın.
+Metin ekleyin: "Düzenli egzersiz kardiyovasküler sağlığı iyileştirebilir, ruh halini yükseltebilir ve enerji düzeylerini yükseltebilir."
+İçeriğin yazı tipi boyutunu 20 olarak ayarlayın ve içeriği kalın yapın,
+içeriğin yazı rengini kırmızı olarak değiştirin,
+Koşu yapan veya yoga yapan bir kişi gibi egzersizle ilgili bir resim ekleyin.
+Verilere dayalı bir pasta grafik oluşturun, kardiyovasküler sağlık, %10; kas gücü %30, zihinsel esenlik %50 ve hastalık önleme %10.
+Beş satır ve iki sütun içeren bir tablo ekleyin. İlk sütuna Egzersiz Türlerini (örn. kardiyo, kuvvet antrenmanı, esneklik) ve ikinci sütuna Faydaları (örn. gelişmiş dayanıklılık, artan kas tonusu, gelişmiş esneklik) girin.
+tabloyu görüntünün sağ tarafına taşıyın. ## 1, table, picture, right
+slayda bir yıldız şekli ekleyin ve slayda mor bir arka plan rengi verin.
+yıldızı slaydın sağ alt tarafına taşıyın. ## 1, star, slide, right bottom
+yıldızın genişliğini 8cm, yüksekliğini 4cm olarak ayarlayın.
+
+Yeni bir slayt oluşturun ve "Okuma Faydaları" başlığını verin, Lütfen başlığın altını çizin ve yazı tipi boyutunu 24 olarak ayarlayın.
+Metin ekleyin: "Okumak bilişsel işlevi geliştirebilir, empatiyi artırabilir ve stresi azaltabilir."
+kalın ve italik içerik,
+İçeriğin yazı tipi stilini Arial olarak değiştirin. Yazı tipi rengini yeşil olarak değiştirin.
+Lütfen bir bankta kitap okuyan bir kişinin resmini ekleyin
+X'te kurgu, kurgu dışı, biyografiler, kendi kendine yardım ve fantazi veri kategorilerini içeren bir çubuk grafik oluşturun, Y'de sırasıyla yayın miktarı 1400,992,400,661, 234.
+Çubuk grafiği "Kitap satışları" olarak adlandırın
+Üç sütunlu ve üç satırlı bir tablo ekleyin.
+Aşağıdaki bilgileri tabloya dahil edin, Okumanın Yararları , bilgi geliştirme, sözcük dağarcığı genişletme ilk sütuna.
+slayda kırmızı bir arka plan rengi verin,
+slayda "Kitap okumak" notunu ekleyin.
+aynı arka plana sahip yeni bir slayt oluşturun ve slayda bir saat resmi ekleyin.
+Resmin boyutunu 10 cm genişlik ve 15 cm yükseklik olarak ayarlayın.
+slayda "OKUMA HAKKINDA" notu ekleyin.
+
+Yeni bir slayt oluşturun ve "Gönüllülüğün Faydaları" başlığını ekleyin ve altını çizin.
+Lütfen başlığın yazı tipi rengini koyu kırmızı ve boyutunu 30 olarak ayarlayın.
+"Gönüllülük, mutluluğu artırabilir, sosyal becerileri geliştirebilir ve bir amaç duygusu sağlayabilir."
+içeriğin yazı rengini yeşil olarak değiştirin,
+içeriği kalınlaştırın ve içeriğin yazı tipi boyutunu 18 olarak değiştirin.
+içeriği slaydın alt köşesine taşıyın. ## 1, content, slide, bottom corner
+Lütfen bir topluluk projesinde birlikte çalışan bir grup gönüllünün resmini ekleyin
+resmi slaydın sol alt kısmına taşıyın. ## 1, picture, slide, left bottom
+Üç sütunlu ve üç satırlı bir tablo ekleyin. ilk sütuna Faydalar , kişisel gelişim, sosyal bağlantılar ekleyin.
+içeriği kalınlaştırın ve yazı tipi boyutunu 20'ye yükseltin.
+Gönüllülüğün farklı alanlarını gösteren bir çubuk grafik oluşturun. X'teki veriler, toplum hizmeti, eğitim, sağlık, çevre koruma ve afet yardımı gibi veri kategorilerini dahil edin. Y, %25, %45, %10, %15, %5 oranını içerir.
+Çubuk grafiğe "Gönüllülüğün Önemi" adını verin
+
+Arka plan rengini mor olarak ayarlayın.
+"CAJ Biçimi" başlığını ekleyin. başlığın altını çiz ve başlığı italik yap,
+Başlığın yazı tipi rengini arka plan rengine ayarlayın.
+İçerik bölümüne şu metni ekleyin: "CAJ formatı, Çin'de akademik makaleler ve araştırma belgeleri için yaygın olarak kullanılan bir dosya formatıdır. Verimli paylaşım ve yayınlama için standart bir yapı ve düzen sağlar."
+içeriği çift boşlukla ayarlayın.
+metnin yazı tipi stilini "Arial" olarak değiştirin ve metni kalın yapın.
+İçeriğin yazı tipi rengini yeşil olarak ayarlayın.
+İçeriği slaydın üst tarafına taşıyın. ## 0, content, slide, top
+Örnek bir belgenin görüntüsünü CAJ formatında ekleyin.
+Resmi slaydın üst köşesine taşıyın. ## 0, picture, slide, top corner
+Üç sütunlu ve iki satırlı bir tablo ekleyin.
+İlk satıra "Bölüm", "Başlık" ve "İçerik" girin.
+Yeni bir slayt oluşturun ve farklı dosya biçimlerinin kullanımını göstermek için bir çubuk grafik oluşturun. X ekseninde "CAJ", "PDF", "DOC", "PPT" ve "XLS" gibi veri kategorilerini ekleyin. Y ekseninde %30, %25 gibi kullanım oranlarını ekleyin , %20, %15 ve %10.
+Çubuk grafiği "Dosya Biçimi Kullanımı" olarak adlandırın.
+Slayda "Dosya Biçimlendir" notu ekleyin ve arka planı diğer slaytlarla aynı yapın.
+
+Metin ekleyin: "Günlük tutma stresi azaltabilir, hafızayı geliştirebilir ve kişisel farkındalığı artırabilir."
+İçeriğin altını çizin ve içeriğin yazı boyutunu mor olarak değiştirin,
+slayda "Günlük" adını verin
+Başlığı italik yapın ve başlığın yazı tipi stilini Arial olarak yapın,
+Lütfen bir günlüğe yazan bir kişinin resmini ekleyin
+görüntüyü slaydın alt tarafına taşı, ## 0, picture, slide, bottom
+slaydın sağ tarafındaki slayda bir yıldız şekli ekleyin. ## 0, star, slide, right
+yıldızı 60 derece döndürün.
+
+Yeni bir slayt oluşturun ve başlığı "Bahçeciliğin Faydaları" olarak adlandırın. Lütfen başlığın yazı tipi boyutunu 28 olarak ayarlayın ve başlığı kalın yapın
+Metin ekleyin: "Bahçecilik stresi azaltabilir, fiziksel sağlığı iyileştirebilir ve yaratıcılığı artırabilir."
+Metni italik yapın ve metnin yazı tipi stilini "Arial" olarak değiştirin
+Sağ slayda bir bulut şekli ekleyin. ## 1, cloud, slide, right
+bulut şeklini başlığın sol tarafına taşıyın. ## 1, cloud, title, left
+Lütfen bahçede çalışan bir kişinin resmini ekleyin. Resmin genişliğini 10cm olarak ayarlayın.
+Yeni bir slayt oluşturun ve ona açık mavi bir arka plan verin.
+Sol slayda bir üçgen yerleştirin. ## 2, cloud, slide, left
+üçgenin yüksekliğini 15cm yapın ve üçgeni 45 derece döndürün.
+
+Lütfen "Bilişim Şirketleri" başlıklı yeni bir slayt oluşturun.
+Emmm, kalın Times yazı tipini kullanmak daha iyidir ve başlık boyutu 32 olmalıdır.
+Evet, yüksekliği ve genişliği 2 olarak ayarlanmış bir Apple Şirket Logosu resmi istiyorum.
+Apple Yıllık Geliri hakkında 2 satır ve 3 sütun içeren bir tablo oluşturun. İlk satır "2020", "2021", "2022" şeklindedir. İkinci sıra "274B","365B","394B" şeklindedir.

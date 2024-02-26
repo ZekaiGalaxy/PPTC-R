@@ -1,0 +1,1877 @@
+choose_title();align_bottom_left_corner();insert_text("การประเมินมนุษย์");
+choose_content();insert_text("โดยทั่วไป การแปลจะได้รับคะแนนโดยไม่ระบุชื่อโดยผู้ตรวจทานหลายคน จากนั้นจึงให้คะแนนขั้นสุดท้ายโดยการรวมผลการประเมินของผู้ตรวจทานทั้งหมด");
+insert_table(2, 2);
+choose_table_cell(0, 0);insert_text("ข้อดี");choose_table_cell(1, 0);insert_text("ข้อเสีย");choose_table_cell(0, 1);insert_text("สะท้อนคุณภาพการแปลของประโยคได้อย่างถูกต้อง น่าเชื่อถือที่สุด มีความน่าเชื่อถือสูงสุด");choose_table_cell(1, 1);insert_text("การประเมินเป็นเวลานาน");
+choose_content();set_font_size(20);set_font_style("Arial");
+insert_picture('coffee');align_slide_left();
+align_slide_right();
+create_slide();choose_title();insert_text("Marking Standard");choose_content();insert_text("Direct Assessment");insert_text("Relative Ranking");
+choose_title();set_font_color("green");choose_content();insert_bullet_point("");insert_bullet_point("");
+choose_title();set_font_size(24);choose_content();set_font_size(20);
+
+insert_picture('tower');align_slide_bottom();
+choose_title();insert_text("เนื้อหา");set_top("title","picture");
+insert_rectangle();set_fill_color("green");
+choose_title();set_font_color("green");
+set_font_size(24);
+set_font_style("Arial");set_font_size(48);
+set_font_style("Microsoft New Tai Lue");
+
+set_background_color("green");
+insert_cloud();align_slide_bottom();
+choose_content();insert_text("คุณวิ่งช้ามาก");
+insert_picture('rabbit');align_slide_right();
+choose_content();insert_text("วันหนึ่งกระต่ายกับเต่าแข่งกัน");
+create_slide();choose_content();insert_text("สักวันฉันจะชนะ");align_slide_top();
+
+insert_picture('study');align_slide_center();
+insert_rectangle();align_slide_center();
+choose_title();insert_text("ลีกออฟเลเจนด์");choose_content();insert_text("League of Legends เป็นเกมที่เล่นเป็นทีมโดยมีแชมป์เปี้ยนมากกว่า 140 คนให้เล่นอย่างยิ่งใหญ่ เล่นฟรีตอนนี้ เล่นฟรี");
+choose_title();set_font_style("Times New Roman");set_font_size(24);
+choose_picture();set_width(6);set_height(5);
+rotate_element(15);
+create_slide();insert_picture('boy_holding_book');
+align_slide_center();
+choose_title();insert_text("ทำอย่างไรจึงจะทำงานได้ดีขึ้นที่โรงเรียน");
+
+insert_cloud();align_slide_left();
+insert_picture("clock");align_slide_right();
+set_background_color("light blue");choose_title();insert_text("Artificial Intelligence");
+choose_content();insert_text("ผลกระทบของปัญญาประดิษฐ์ต่อสังคมเป็นที่ถกเถียงกันอย่างกว้างขวาง หลายคนโต้แย้งว่า AI ปรับปรุงคุณภาพชีวิตประจำวันด้วยการทำงานที่เป็นกิจวัตรและแม้กระทั่งงานที่ซับซ้อนได้ดีกว่าที่มนุษย์จะทำได้ ทำให้ชีวิตง่ายขึ้น ปลอดภัยขึ้น และมีประสิทธิภาพมากขึ้น . ");
+set_font_color("light green");
+
+create_slide();choose_title();insert_text("กำหนดการในเดือนมีนาคม");set_font_color("red");
+set_font_size(28);set_font_color("dark blue");
+insert_table(1, 3);choose_table_cell(0, 0);insert_text("ศึกษาตั้งแต่วันที่ 1 ถึง 10");choose_table_cell(0, 1);insert_text("ทำงานตั้งแต่วันที่ 11 ถึง 20");choose_table_cell(0, 2);insert_text("เดินทางตั้งแต่วันที่ 21 ถึง 31");
+choose_title();set_font_style("Arial");
+insert_picture('happy_boy');set_right("picture","table");
+set_background_color("blue");
+choose_picture();set_width(6.5);set_height(5);
+set_background_color("yellow");
+
+create_slide();choose_title();insert_text("ประโยชน์ของการทำสมาธิ");
+insert_picture('meditation');align_slide_center();
+choose_content();insert_text("การทำสมาธิเป็นเทคนิคง่ายๆ แต่ทรงพลังที่สามารถช่วยให้คุณบรรลุสภาวะแห่งความสงบและความสงบจากภายใน");
+set_font_size(24);set_font_color("dark blue");
+insert_rectangle();set_right("rectangle", "content");
+set_background_color("light green");
+create_slide();set_background_color("light green");choose_title();insert_text("ประเภทของการทำสมาธิ");
+set_font_style("Arial");
+insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("การทำสมาธิสติ");choose_table_cell(1, 0);insert_text("การทำสมาธิล่วงพ้น");choose_table_cell(2, 0);insert_text("การทำสมาธิสแกนร่างกาย");
+
+create_slide();set_background_color("green");
+insert_picture('grassland');align_slide_left();
+set_width(6.5);set_height(5.5);choose_title();insert_text("หน้าที่ของป่า");
+set_font_color("orange");set_font_size(40);
+insert_right_arrow();align_slide_top();
+
+create_slide();insert_table(2, 2);
+choose_table_cell(0,0);insert_text("ชนิดของต้นไม้");choose_table_cell(0,1);insert_text("การใช้ประโยชน์");choose_table_cell(1,0);insert_text("ต้นไม้ประเภทต่างๆ");choose_table_cell(1,1);insert_text("ใบไม้หลากสี");
+choose_content();insert_text("จำไว้ ปลูกต้นไม้วันนี้!");
+set_font_size(20);set_font_color("green");set_font_underline();
+
+create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");
+move_to_slide(0);choose_title();insert_text("ครอบครัวมีความสุข");set_font_style("Microsoft JhengHei");
+move_to_slide(1);insert_picture('family');
+move_to_slide(2);insert_table(2, 2);
+choose_table_cell(0, 0);insert_text("พ่อ");choose_table_cell(0, 1);insert_text("แม่");choose_table_cell(1, 0);insert_text("ปู่");choose_table_cell(1, 1);insert_text("ลูก");
+
+create_slide();choose_title();insert_text("แผนธุรกิจ");
+insert_picture('light_bulb');align_slide_left();
+set_width(3);choose_content();insert_text("การเป็นผู้ประกอบการคือกระบวนการของการออกแบบ การเปิดตัว และการดำเนินธุรกิจใหม่ ซึ่งมักจะเริ่มต้นจากธุรกิจขนาดเล็ก ผู้ที่สร้างธุรกิจเหล่านี้เรียกว่าผู้ประกอบการ");
+set_font_size(20);set_font_color("green");
+set_background_color("dark blue");
+insert_circle();set_fill_color("red");
+choose_content();insert_text("แผนธุรกิจคือเอกสารลายลักษณ์อักษรที่อธิบายรายละเอียดว่าธุรกิจซึ่งโดยปกติจะเป็นธุรกิจใหม่จะบรรลุเป้าหมายได้อย่างไร");
+choose_title();set_font_size(18);choose_content();set_font_size(18);
+insert_table(3, 4);
+choose_table_cell(0, 0);insert_text("ส่วนประสมทางการตลาด");choose_table_cell(0, 1);insert_text("ตลาดเป้าหมาย");choose_table_cell(0, 2);insert_text("ราคา");choose_table_cell(0, 3);insert_text("โปรโมชัน");
+
+create_slide();set_background_color("light blue");
+choose_content();insert_text("การสร้างตราสินค้าคือการพัฒนาตราสินค้าให้โดดเด่นสำหรับสินค้านั้นๆ ด้วยความตั้งใจที่จะเข้าถึงผู้บริโภคเป้าหมายของตราสินค้า");
+set_font_italic();set_font_size(18);
+align_slide_bottom();
+insert_picture('lancome');align_slide_top();
+
+create_slide();choose_title();insert_text("สิ่งสำคัญของการสร้างแบบจำลองขนาดใหญ่");set_font_size(24);
+set_font_style("Arial");
+insert_table(1, 2);
+choose_table_cell(0, 0);insert_text("ความสำคัญ");set_font_size(18);set_font_color("light blue");
+insert_picture('computer');align_slide_center();
+choose_content();insert_text("การสร้างแบบจำลองขนาดใหญ่");
+set_font_size(14);set_font_color("green");choose_title();set_font_size(14);set_font_color("green");
+
+insert_picture('tower');align_slide_left();
+choose_title();insert_text("The Ultimate Heist");
+set_font_style("Times New Roman");set_font_color("green");
+insert_triangle();align_slide_right();
+set_background_color("light blue");
+
+insert_table(3, 3);choose_table();choose_table_cell(0, 0);insert_text("สีม่วง");choose_table_cell(0, 1);insert_text("สีน้ำเงิน");choose_table_cell(0, 2);insert_text("สีฟ้าอ่อน");choose_table_cell(1, 0);insert_text("สีน้ำเงินเข้ม");choose_table_cell(1, 1);insert_text("สีเขียว");choose_table_cell(1, 2);insert_text("สีเขียวอ่อน");choose_table_cell(2, 0);insert_text("สีเขียวเข้ม");choose_table_cell(2, 1);insert_text("สีเหลือง");choose_table_cell(2, 2);insert_text("สีเหลืองอ่อน")
+set_background_color("green");
+set_background_color("dark blue");
+choose_title();insert_text("ประเภทของสี");insert_picture("clock");
+create_slide();set_background_color("yellow");
+choose_content();insert_text("Speedwell หรือที่เรียกว่า bird's eye หรือ gypsy weed เป็นไม้ยืนต้นที่ทนทานซึ่งมีถิ่นกำเนิดในยุโรป ");
+
+create_slide();insert_picture('arguing');
+choose_title();insert_text("การแต่งงานนำอะไรมาสู่ทั้งชายและหญิง");
+create_slide();insert_picture('japanese_woman');insert_picture('african_woman');
+choose_title();insert_text("ปัจจัยที่กำหนดระบอบการแต่งงานที่แตกต่างกัน");
+create_slide();set_background_color("red");create_slide();set_background_color("red");create_slide();set_background_color("red");
+move_to_slide(2);choose_title();insert_text("ประโยชน์ทั่วไปของการแต่งงานสำหรับชายและหญิง");
+set_font_underline();set_font_color("yellow");
+insert_picture('happy_family');align_slide_center();
+insert_rectangle();set_fill_color("red");insert_rectangle();set_fill_color("red");insert_rectangle();set_fill_color("red");
+create_slide();choose_title();insert_text("วิวัฒนาการของสถาบันการแต่งงานในประเทศจีน");
+insert_picture('clock');set_width(6.5);
+align_slide_left();
+create_slide();choose_title();insert_text("ความยากลำบากที่ผู้หญิงทั่วโลกต้องเผชิญ");insert_picture('full_time_mother');
+set_height(5);
+
+choose_title();insert_text("โครงข่ายประสาทเทียม");
+choose_content();insert_text("โครงข่ายประสาทเทียมเป็นชุดของอัลกอริทึมที่เลียนแบบการทำงานของสมองมนุษย์ โดยออกแบบมาเพื่อจดจำรูปแบบ จัดประเภทข้อมูล และคาดการณ์");
+set_font_size(12);set_font_color("orange");set_background_color("red");
+
+choose_title();insert_text("Quotation Mark");
+choose_title();set_font_underline();set_font_size(24);
+choose_content();insert_text("สัญลักษณ์เครื่องหมายอัญประกาศคือเครื่องหมายวรรคตอนประเภทหนึ่งที่ใช้สำหรับกำหนดคำและข้อความต่างหากจากข้อความที่เหลือ");
+set_font_color("green");set_font_size(12);
+insert_picture('quotation_mark');align_slide_left();
+create_slide();set_background_color("blue");
+insert_rectangle();align_slide_right();
+insert_table(2, 1);
+choose_table_cell(0, 0);insert_text("คุณเป็นอย่างไรบ้าง");choose_table_cell(1, 0);insert_text("หนึ่งในการใช้เครื่องหมายอัญประกาศที่พบบ่อยที่สุดคือการระบุอัญประกาศโดยตรง ข้อความที่คัดลอกแบบคำต่อคำจากแหล่งอื่น");
+
+create_slide();set_background_color("dark green");
+choose_title();insert_text("สาขาและสาขามานุษยวิทยา");set_font_size(18);
+choose_content();insert_text("มานุษยวิทยามีสองสาขากว้างๆ");set_font_size(18);
+text_align_right();
+
+insert_right_arrow();align_slide_left();
+set_width(4.0);set_height(3.0);
+choose_content();insert_text("พื้นที่กว้างใหญ่ของเอเชียกลางให้ความรู้สึกไร้ผู้คนอาศัยอยู่");
+choose_shape("right_arrow");set_width(5.0);set_height(4.0);rotate_element(90);
+choose_content();set_line_space(2);
+
+choose_title();insert_text("การศึกษา / การสอน / การเป็นตัวแทน PPT");
+choose_content();insert_text("ผลเสียของภาวะโลกร้อน");
+choose_title();set_font_color("dark blue");choose_content();set_font_color("purple");
+insert_rectangle();set_fill_color("purple");
+align_top_left_corner();
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("give");choose_table_cell(0, 1);insert_text("gave");choose_table_cell(0, 2);insert_text("giving");choose_table_cell(0, 3);insert_text("given");
+choose_content();set_font_color("dark blue");
+
+set_background_color("orange");
+insert_picture("cat");set_width(5);set_height(5);
+create_slide();set_background_color("orange");create_slide();set_background_color("orange");create_slide();set_background_color("orange");
+choose_title();insert_text("ข้อมูล DingTalk");
+insert_table(3, 5);
+choose_table_cell(0, 0);insert_text("วิธีดาวน์โหลด");choose_table_cell(0, 1);insert_text("วิธีเข้าร่วมองค์กร");choose_table_cell(0, 2);insert_text("วิธีหาเพื่อน");choose_table_cell(0, 3);insert_text("ข้อดี");choose_table_cell(0, 4);insert_text("หมายเหตุ");
+insert_star();align_slide_right();
+choose_content();insert_text("ฟอเรสตอล หมายถึง การป้องกันหรือขัดขวางโดยทำสิ่งใดสิ่งหนึ่งล่วงหน้า");
+set_background_color("blue");
+choose_content();text_align_left();
+
+insert_right_arrow();set_fill_color("yellow");
+choose_title();insert_text("วันธรรมดาในโรงเรียน");text_align_left();
+choose_title();set_font_color("dark blue");set_font_italic();set_font_underline();
+choose_content();insert_text("ฟอเรสตอลหมายถึงการซื้อ (สินค้า) ล่วงหน้าเพื่อเพิ่มราคาเมื่อขายต่อ");
+insert_picture("school_badge");set_width(2.5);set_height(2.5);
+create_slide();set_background_color("green");
+choose_title();insert_text("หมายเหตุ");text_align_right();
+set_font_color("light green");set_font_size(26);
+choose_content();insert_bullet_point("");insert_bullet_point("");insert_bullet_point("");
+insert_note("2023/4/9");move_to_previous_slide();insert_note("2023/4/8");
+
+insert_star();align_slide_right();
+set_fill_color("blue");
+insert_right_arrow();align_slide_left();set_fill_color("red");
+choose_title();insert_text("การตัดสินใจ");
+choose_content();insert_text("โรคระบาดทั่วโลกในปัจจุบันได้รบกวนชีวิตประจำวันของเราและเปลี่ยนโฉมหน้าโลกในแบบที่เราคาดไม่ถึง");
+choose_content();set_font_underline();choose_title();set_font_size(24);
+choose_content();set_font_style("Times New Roman");choose_title();set_font_style("Times New Roman");
+
+create_slide();create_slide();create_slide();create_slide();create_slide();
+move_to_slide(0);choose_title();insert_text("บทนำ");move_to_slide(1);choose_title();insert_text("การพัฒนา");move_to_slide(2);choose_title();insert_text("การประเมิน");move_to_slide(3);choose_title();insert_text("การวิเคราะห์");move_to_slide(4);choose_title();insert_text("สรุป");
+move_to_slide(0);set_background_color("yellow");move_to_slide(1);set_background_color("yellow");move_to_slide(2);set_background_color("yellow");move_to_slide(3);set_background_color("yellow");move_to_slide(4);set_background_color("yellow");
+move_to_slide(0);choose_title();set_font_style("Microsoft JhengHei");
+move_to_slide(1);insert_picture("clock");
+move_to_slide(2);insert_bar_chart([160, 170, 130], ["เดือนตุลาคม", "พฤศจิกายน", "ธันวาคม"]);
+move_to_slide(3);insert_table(2, 3);
+choose_table_cell(0, 0);insert_text("toIPA");choose_table_cell(0, 1);insert_text("ข้อดี");choose_table_cell(0, 2);insert_text("ข้อเสีย");
+move_to_slide(4);choose_title();set_font_style("Times New Roman");
+move_to_slide(4);insert_cloud();
+move_to_slide(0);insert_note("สร้างโดยเอวา");move_to_slide(1);insert_note("สร้างโดยเอวา");move_to_slide(2);insert_note("สร้างโดยเอวา");move_to_slide(3);insert_note("สร้างโดยเอวา");move_to_slide(4);insert_note("สร้างโดยเอวา");
+
+insert_circle();set_fill_color("purple");
+insert_picture("water_bottle");insert_textbox();insert_text("ขวด");
+choose_title();insert_text("คุณภาพ");
+set_font_color("red");
+insert_table(2, 2);
+choose_table_cell(0, 0);insert_text("การประเมินเครื่องจักร");choose_table_cell(0, 1);insert_text("การประเมินมนุษย์");choose_table_cell(1, 0);insert_text("การประเมินอัตโนมัติ 1");choose_table_cell(1, 1);insert_text("การประเมินอัตโนมัติ 2");
+create_slide();choose_title();insert_text("Achievement");set_background_color("purple");
+
+create_slide();choose_title();insert_text("กลยุทธ์การตลาดสำหรับไตรมาสที่ 2");
+set_background_color("blue");
+create_slide();choose_title();insert_text("การเพิ่มยอดขายและการรับรู้ถึงแบรนด์");
+set_font_size(60);
+move_to_slide(1);set_background_color("green");
+create_slide();set_background_color("green");create_slide();set_background_color("green");create_slide();set_background_color("green");
+move_to_slide(2);choose_title();insert_text("แนวโน้มตลาดและการวิเคราะห์คู่แข่ง");
+choose_content();insert_picture("blue_sea");
+set_height(4);set_width(5);set_left("picture", "title");
+move_to_slide(3);choose_title();insert_text("พันธกิจและค่านิยมของเรา");
+choose_content();insert_text("VISION.All people living long life in healthy health.MISSION.IHME ส่งมอบหลักฐานทางวิทยาศาสตร์ที่เกี่ยวข้องและตรงเวลาแก่โลกเพื่อปรับปรุงนโยบายและการปฏิบัติด้านสุขภาพ");
+set_line_space(1.5);
+choose_content();set_font_size(40);set_font_style("Times New Roman");
+
+create_slide();set_background_color("yellow");
+choose_title();insert_text("การเปรียบเทียบการศึกษาของจีนและอเมริกา");
+delete_text();insert_text("สำรวจความแตกต่างและความเหมือน");
+delete_text();insert_text("ความแตกต่างและความเหมือน");
+create_slide();create_slide();create_slide();create_slide();create_slide();
+move_to_slide(1);set_background_color("yellow");move_to_slide(2);set_background_color("yellow");move_to_slide(3);set_background_color("yellow");move_to_slide(4);set_background_color("yellow");move_to_slide(5);set_background_color("yellow");
+move_to_slide(1);choose_title();insert_text("ระบบการศึกษา");
+choose_content();insert_text("การศึกษาในประเทศจีนส่วนใหญ่จัดการโดยระบบการศึกษาของรัฐซึ่งอยู่ภายใต้กระทรวงศึกษาธิการ ประชาชนทุกคนต้องเข้าเรียนในโรงเรียนเป็นเวลาอย่างน้อยเก้าปีหรือที่เรียกว่าการศึกษาภาคบังคับเก้าปีซึ่งได้รับทุนสนับสนุน โดยรัฐบาล");
+move_to_next_slide();choose_title();insert_text("รูปแบบและวิธีการสอนแบบต่างๆ");
+move_to_next_slide();choose_title();insert_text("ความสัมพันธ์ครู-ศิษย์");move_to_next_slide();choose_title();insert_text("การประเมินผลงานของนักศึกษา");
+move_to_slide(4);insert_picture("forest");
+choose_content();insert_text("ในปี 2014 Jonathan Kaiman จาก The Guardian เขียนว่าผู้ปกครองและนักการศึกษาชาวจีน "มองระบบของตนเองว่าทุจริต ลดทอนความเป็นมนุษย์ ถูกกดดัน และไม่ยุติธรรม" เขากล่าวถึงการสอบเข้ามหาวิทยาลัยของประเทศ (เรียกว่า gaokao) โดยเขียนว่า "ผู้ปกครองหลายคนมองว่าการทดสอบเก้าชั่วโมงอันแสนทรหดเป็นกลไกการคัดแยกที่จะกำหนดวิถีชีวิตของบุตรหลาน");set_font_color("red");set_font_underline();
+move_to_slide(5);insert_table(1, 1);choose_table_cell(0,0);insert_text("ความรับผิดชอบ");
+
+create_slide();choose_content();insert_picture("DingTalk_app");
+choose_title();insert_text("Introduction to ChatGPT");set_font_color("green");
+create_slide();choose_title();insert_text("ปลดปล่อยพลังของโมเดลภาษา AI");text_align_left();create_slide();choose_title();insert_text("ปลดปล่อยพลังของโมเดลภาษา AI");text_align_left();create_slide();choose_title();insert_text("ปลดปล่อยพลังของโมเดลภาษา AI");text_align_left();create_slide();choose_title();insert_text("ปลดปล่อยพลังของโมเดลภาษา AI");text_align_left();create_slide();choose_title();insert_text("ปลดปล่อยพลังของโมเดลภาษา AI");text_align_left();
+move_to_slide(1);choose_content();set_font_style("Arial");
+insert_text("ChatGPT เป็นแชทบ็อตปัญญาประดิษฐ์ (AI) ที่พัฒนาโดย OpenAI และเผยแพร่ในเดือนพฤศจิกายน 2565 สร้างขึ้นบนตระกูลโมเดลภาษาขนาดใหญ่ (LLM) รุ่น GPT-3.5 และ GPT-4 ของ OpenAI และ ได้รับการปรับ (วิธีการถ่ายทอดการเรียนรู้) อย่างละเอียดโดยใช้เทคนิคการเรียนรู้ทั้งแบบมีผู้สอนและแบบเสริมแรง");
+set_font_size(30);set_line_space(2);
+insert_table(1, 1);choose_table_cell(0,0);insert_text("วิธีดาวน์โหลด DingTalk");
+move_to_next_slide();
+choose_title();insert_text("คุณลักษณะและข้อจำกัด");text_align_center();
+choose_content();insert_text("แม้ว่าฟังก์ชันหลักของแชทบอทคือการเลียนแบบนักสนทนาที่เป็นมนุษย์ แต่ ChatGPT นั้นใช้งานได้หลากหลาย มันสามารถเขียนและดีบั๊กโปรแกรมคอมพิวเตอร์ เลียนแบบสไตล์ของซีอีโอคนดัง และเขียนหัวข้อธุรกิจ แต่งเพลง ละครโทรทัศน์ นิทาน และเรียงความของนักเรียน คำถามทดสอบ (บางครั้งขึ้นอยู่กับการทดสอบในระดับที่สูงกว่าผู้ทดสอบทั่วไป) เขียนบทกวีและเนื้อเพลง เลียนแบบระบบ Linux จำลองห้องสนทนาทั้งหมด เล่นเกมเช่น tic-tac-toe และจำลอง ATM ");
+
+create_slide();set_background_color("green");
+choose_content();insert_text("ชีวิตสั้นเกินไปที่จะใช้เวลากับคนที่ดูดความสุขไปจากคุณ");set_line_space(1.5);
+set_font_style("Verdana");set_font_size(20);
+set_font_underline();set_font_color("yellow");
+
+create_slide();set_background_color("blue");choose_title();insert_text("การเรียนรู้ของเครื่อง");
+choose_content();insert_text("การเรียนรู้ของเครื่องคือการประยุกต์ใช้ปัญญาประดิษฐ์ (AI) ที่ให้ระบบสามารถเรียนรู้และปรับปรุงโดยอัตโนมัติจากประสบการณ์โดยไม่ต้องตั้งโปรแกรมไว้อย่างชัดเจน การเรียนรู้ของเครื่องมุ่งเน้นไปที่การพัฒนาโปรแกรมคอมพิวเตอร์ที่สามารถเข้าถึง ข้อมูลและใช้เรียนรู้ด้วยตนเอง");
+set_font_size(20);set_font_style("Verdana");
+set_font_style("Times New Roman");text_align_right();
+choose_title();set_font_color("red");set_font_size(40);
+set_font_color("blue");
+insert_picture("machine_learning");align_slide_left();
+set_height(1.2);set_width(1.2);
+choose_content();insert_star();set_fill_color("green");
+
+create_slide();choose_title();insert_text("กลยุทธ์การตลาด");
+choose_content();insert_bullet_point("Search Engine Optimization (SEO)");insert_bullet_point("Social Media Marketing (SMM)");insert_bullet_point("Email Marketing");insert_bullet_point("Content Marketing");insert_bullet_point("Pay-Per-Click Advertising (PPC)");
+insert_picture("marketing");set_height(1);set_width(1);
+insert_pie_chart([35, 25, 15, 10, 15], ["Apple", "Samsung", "Huawei", "Xiaomi", "อื่นๆ"]);insert_table(2, 2);
+choose_chart();set_chart_title("การตลาด");choose_table_cell(0, 0);insert_text("MT1");choose_table_cell(0, 1);insert_text("MT2");choose_table_cell(1, 0);insert_text("ST1");choose_table_cell(1, 1);insert_text("ST2")
+choose_content();align_slide_bottom();
+create_slide();insert_pie_chart([35, 25, 15, 10, 15],["Apple", "Samsung", "Huawei", "Xiaomi", "Other"]);set_chart_title("Marketing");
+choose_table();insert_table(2, 2);insert_table_row(["MT1", "MT2"]);insert_table_row(["ST1", "ST2"])
+
+create_slide();choose_title();insert_text("การแสดงข้อมูล");
+insert_bar_chart([8.4, 4.0, 2.7, 2.3, 1.7], ["นิวยอร์ก", "ลอสแองเจลิส", "ชิคาโก", "ฮูสตัน", "ฟีนิกซ์"]);align_slide_left();
+insert_textbox();insert_text("การแสดงข้อมูลเป็นการนำเสนอข้อมูลในรูปแบบรูปภาพหรือกราฟิก ช่วยให้ผู้มีอำนาจตัดสินใจเห็นการวิเคราะห์ที่นำเสนอด้วยภาพ ดังนั้นพวกเขาจึงสามารถเข้าใจแนวคิดที่ยากหรือระบุรูปแบบใหม่ๆ ได้");
+set_font_color("green");
+create_slide();choose_content();insert_text("โจ๊กนี้ ทำโดยการหุงข้าวเหนียว น้ำตาลทราย และผลไม้แห้งสิบแปดชนิดรวมกัน");
+
+create_slide();choose_title();insert_text("โจ๊กลาบา");
+choose_content();insert_text("ตั้งแต่จำความได้ วันขึ้น 8 ค่ำ เดือน 12 ของทุกปี แม่จะทำโจ๊กลาบาให้พวกเรากิน");
+set_font_color("yellow");set_font_bold();
+insert_table(2, 1);align_slide_right();
+choose_table_cell(0, 0);insert_text("ประวัติ");choose_table_cell(1, 0);insert_text("สมัยใหม่");
+set_background_color("light red");
+
+set_background_color("yellow");
+set_background_color("green");
+choose_title();insert_text("บริษัทใหญ่");
+set_font_size(28);set_font_style("Futura");
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("หมายเลข");choose_table_cell(0, 1);insert_text("ชื่อพนักงาน")
+insert_picture("company1");insert_picture("company2");insert_picture("company3");
+choose_table();choose_table_cell(0,0);set_font_color("yellow");choose_table_cell(0,1);set_font_color("yellow");
+
+create_slide();choose_title();insert_text("Artificial Neural Networks");
+choose_content();insert_text("เครือข่ายประสาทเทียม (ANNs) เป็นระบบคอมพิวเตอร์ที่ได้รับแรงบันดาลใจจากโครงข่ายประสาทชีวภาพที่ประกอบเป็นสมองของสัตว์ ระบบดังกล่าวเรียนรู้ที่จะปฏิบัติงานโดยการพิจารณาตัวอย่าง โดยทั่วไปโดยไม่ต้องตั้งโปรแกรมด้วยกฎเฉพาะงานใดๆ ANN สามารถเรียนรู้และปรับตัวเข้ากับอินพุตใหม่ ๆ ซึ่งทำให้มีประโยชน์สำหรับการใช้งานที่หลากหลาย เช่น การรู้จำภาพ การรู้จำเสียง และการประมวลผลภาษาธรรมชาติ");
+set_font_size(24);
+set_font_style("Calibri");set_background_color("light orange");
+text_align_center();choose_title();text_align_left();
+set_background_color("blue");
+insert_picture("artificial_neural_networks");
+set_width(5.5);
+align_slide_right();
+insert_table(2, 3);choose_table();insert_table_row(["1", "2", "3"])
+insert_table_row(["วิดีโอเกม", "สวิตช์", "ละครทีวี"])
+
+create_slide();set_background_color("red");create_slide();set_background_color("red");
+move_to_slide(0);choose_title();insert_text("ความท้าทาย");set_font_style("Calibri");
+choose_content();insert_text("ความท้าทายของการนำ AI ไปใช้ในที่ทำงานรวมถึงการขาดความเชี่ยวชาญ ค่าใช้จ่าย และการต่อต้านการเปลี่ยนแปลง");
+set_font_color("green");
+move_to_slide(1);insert_picture("AI");align_slide_center();
+
+create_slide();choose_title();insert_text("บทนำ");
+choose_content();insert_text("ยินดีต้อนรับสู่งานนำเสนอของฉันเกี่ยวกับประวัติของวิดีโอเกม วิดีโอเกมมาไกลมากนับตั้งแต่เกมอิเล็กทรอนิกส์เกมแรกถูกประดิษฐ์ขึ้นในทศวรรษที่ 1950 ทุกวันนี้ วิดีโอเกมเป็นอุตสาหกรรมที่มีมูลค่าหลายพันล้านดอลลาร์ เป็นที่สนุกสนานของผู้คนทั่วโลก");
+insert_picture("first_electronic_game");
+align_bottom_right_corner();
+choose_title();set_font_color("blue");
+insert_textbox();choose_textbox();insert_text("นำเสนอโดยจอห์น สมิธ");
+
+create_slide();choose_title();insert_text("Neural Networks");
+choose_content();insert_text("โครงข่ายประสาทเทียมคือชุดของอัลกอริทึมที่เลียนแบบการทำงานของสมองมนุษย์ พวกมันถูกนำไปใช้งานที่หลากหลาย เช่น การจดจำภาพ การรู้จำเสียง และการประมวลผลภาษาธรรมชาติ");
+set_font_style("Arial");
+insert_triangle();align_top_left_corner();
+insert_picture("neutral_network");
+set_height(1.2);set_width(1.2);
+create_slide();insert_right_arrow();set_fill_color("blue");align_slide_right();
+insert_line_chart([120,140,110,90], ["มกราคม", "กุมภาพันธ์", "มีนาคม", "เมษายน"]);set_chart_title("Chatgpt");
+choose_content();insert_textbox();insert_text("เทนเซอร์โฟลว์");
+choose_title();set_font_color("blue");set_background_color("light blue");
+
+choose_content();insert_text("พจนานุกรมสามารถใช้เพื่อค้นหาความหมายของคำ การออกเสียง การสะกดคำ และค้นหาคำศัพท์ใหม่");
+insert_circle();set_top("circle","content");
+insert_text("นามวลี");
+choose_content();set_font_color("red");set_font_style("Impact");
+
+create_slide();choose_title();insert_text("บทนำ");create_slide();choose_title();insert_text("วิธีการ");create_slide();choose_title();insert_text("ผลลัพธ์");
+move_to_slide(0);choose_content();insert_text("งานนำเสนอนี้จะแนะนำโครงการวิจัยของเราและอธิบายถึงความสำคัญของโครงการ");move_to_slide(1);choose_content();insert_text("ระเบียบวิธีวิจัยของเราเกี่ยวข้องกับการรวบรวมข้อมูลจากแหล่งต่างๆ และใช้การวิเคราะห์ทางสถิติเพื่อหาข้อสรุป");
+choose_content();text_align_left();
+move_to_slide(0);set_background_color("light blue");move_to_slide(1);set_background_color("light blue");move_to_slide(2);set_background_color("light blue");
+insert_picture("graph");set_height(6.5);
+move_to_slide(0);insert_note("2022/1/1");move_to_slide(1);insert_note("2022/1/1");move_to_slide(2);insert_note("2022/1/1");
+
+create_slide();choose_title();insert_text("ภาพรวมผลิตภัณฑ์");create_slide();choose_title();insert_text("คุณสมบัติ");
+move_to_slide(0);insert_picture("product");
+choose_content();insert_text("ผลิตภัณฑ์ของเราได้รับการออกแบบมาเพื่อตอบสนองความต้องการของตลาดเป้าหมายของเราโดยนำเสนอวิธีแก้ปัญหาที่ง่ายและมีประสิทธิภาพ");
+move_to_slide(1);insert_table(5, 2);
+choose_table_cell(4, 1);insert_text("DingTalk");
+choose_table_cell(4, 1);set_font_style("Times New Roman");
+move_to_slide(0);insert_note("เวลาปัจจุบันคือ 12:00 PM");move_to_slide(1);insert_note("เวลาปัจจุบันคือ 12:00 PM");move_to_slide(2);
+
+create_slide();choose_title();insert_text("รายงานการขาย");text_align_center();
+insert_pie_chart([120, 220, 180], ["ผลิตภัณฑ์ A", "ผลิตภัณฑ์ B", "ผลิตภัณฑ์ C"]);
+choose_title();set_font_size(28);
+insert_picture("company_logo");align_top_right_corner();
+choose_content();insert_text("รายงานนี้แสดงประสิทธิภาพการขายของผลิตภัณฑ์ของเราในไตรมาสแรกของปี 2023");
+set_font_style("Times New Roman");
+text_align_center();
+
+create_slide();choose_title();insert_text("กลยุทธ์การตลาด");
+choose_title();set_font_style("Calibri");set_font_size(36);
+choose_content();insert_picture("marketing_campaign");
+rotate_element(45);align_slide_right();
+create_slide();choose_title();insert_text("Powerful MT");
+set_font_style("Arial");set_font_size(24);
+insert_textbox();insert_bullet_point("SEO");insert_bullet_point("Email Marketing");insert_bullet_point("PPC");set_bottom("textbox","title");
+set_background_color("blue");
+insert_bar_chart([27, 30, 29], ["รายการ A", "รายการ B", "รายการ C"]);align_slide_left();
+set_chart_title("Marketing Budget");
+insert_table(4, 2);
+choose_table_cell(0, 0);insert_text("วันที่");choose_table_cell(0, 1);insert_text("วันจันทร์");choose_table_cell(1, 0);insert_text("วันอังคาร");choose_table_cell(1, 1);insert_text("วันพุธ");choose_table_cell(2, 0);insert_text("วันพฤหัสบดี");choose_table_cell(2, 1);insert_text("วันศุกร์");choose_table_cell(3, 0);insert_text("วันเสาร์");choose_table_cell(3, 1);insert_text("วันอาทิตย์");
+choose_table();set_right("table","chart");
+
+create_slide();set_background_color("yellow");
+choose_title();insert_text("การวัดผลการประเมิน");
+choose_content();insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("เมตริก");choose_table_cell(0, 1);insert_text("สูตร");choose_table_cell(1, 0);insert_text("ความแม่นยำ");choose_table_cell(1, 1);insert_text("(TP+TN)/(TP+TN+FP+FN)");choose_table_cell(2, 0);insert_text("Precision");choose_table_cell(2, 1);insert_text("TP/(TP+FP)");
+insert_line_chart([160, 170, 130], ["ตุลาคม", "พฤศจิกายน", "ธันวาคม"]);set_chart_title("Time Machine");
+insert_bar_chart([160, 170, 130], ["October", "November", "December"]);
+
+create_slide();choose_title();insert_text("การแสดงข้อมูล");
+insert_bar_chart([60,70,80,90], ["ตา", "มือ", "ขา", "เข่า"]);
+choose_chart();set_height(4);set_width(4);
+set_chart_title("Sales by Region");
+insert_right_arrow();set_fill_color("green");
+
+create_slide();choose_title();insert_text("แคมเปญการตลาด");
+choose_content();insert_picture("product");set_right("picture","content");
+set_width(5);
+choose_content();insert_text("ตระกูลภาษายุโรปที่เกี่ยวข้องอย่างใกล้ชิดกับภาษาฟริเซียน เยอรมัน และดัตช์ (ในเบลเยียมเรียกว่าภาษาเฟลมิช)");
+insert_circle();set_fill_color("red");align_bottom_right_corner();
+set_background_color("green");
+set_background_color("light blue");
+create_slide();choose_title();insert_text("ข้อมูลการขาย");
+insert_table(1, 4);
+choose_table();choose_table_cell(0, 0);insert_text("ชื่อพนักงานขาย");choose_table_cell(0, 1);insert_text("ยอดขายรวม");choose_table_cell(0, 2);insert_text("อัตราค่าคอมมิชชัน");choose_table_cell(0, 3);insert_text("จำนวนค่าคอมมิชชัน")
+create_slide();set_background_color("light blue");
+
+create_slide();choose_title();insert_text("รายงานการขาย");set_font_size(25);
+choose_content();insert_text("นี่คือรายงานการขายรายไตรมาสสำหรับบริษัทของเรา:");
+set_font_size(16);set_font_color("purple");
+insert_rectangle();set_width(8);set_height(5);
+set_background_color("green");
+
+create_slide();choose_title();insert_text("โครงข่ายประสาทเทียม");
+choose_content();insert_text("โครงข่ายประสาทเทียม (ANN) เป็นระบบคอมพิวเตอร์ที่ได้รับแรงบันดาลใจ แต่ไม่เหมือนกับโครงข่ายประสาทชีวภาพที่ประกอบเป็นสมองของสัตว์ ระบบดังกล่าวเรียนรู้ที่จะทำงานโดยพิจารณาจากตัวอย่าง โดยทั่วไปโดยไม่ต้องตั้งโปรแกรม ด้วยกฎเฉพาะงาน");
+set_font_size(24);set_font_style("Arial");
+choose_title();set_font_color("purple");
+insert_picture("brain");set_width(6.5);
+rotate_element(90);
+insert_textbox();insert_text("การประยุกต์ใช้ ANN");
+choose_title();set_font_size(36);set_font_style("Calibri");
+insert_table(2, 1);
+choose_table_cell(0, 0);insert_text("การจดจำภาพ");choose_table_cell(1, 0);insert_text("การประมวลผลภาษาธรรมชาติ");
+
+choose_title();insert_text("การประเมินคุณภาพการแปลด้วยเครื่อง");
+insert_textbox();insert_text("นักข่าว: อีวา");set_bottom("textbox","title");
+choose_title();set_font_size(66);
+set_background_color("blue");choose_title();set_font_color("red");choose_textbox();set_font_color("red");
+set_background_color("red");choose_title();set_font_color("blue");choose_textbox();set_font_color("blue");
+
+create_slide();choose_title();insert_text("โครงข่ายประสาทเทียม");
+choose_content();insert_text("โครงข่ายประสาทเทียมเป็นชุดของอัลกอริธึมที่เลียนแบบการทำงานของสมองมนุษย์ โดยออกแบบมาเพื่อจดจำรูปแบบ จัดประเภทข้อมูล และคาดการณ์");
+set_font_size(24);
+set_font_style("Arial");text_align_center();
+choose_title();set_font_color("blue");
+set_font_color("green");
+insert_picture("brain");set_width(1.5);set_height(1.5);
+choose_content();insert_text("สมองมนุษย์เป็นแรงบันดาลใจในการพัฒนาโครงข่ายประสาทเทียม");
+insert_note("โครงข่ายประสาทเทียม");
+create_slide();set_background_color("yellow");
+
+create_slide();choose_title();insert_text("การเงินส่วนบุคคล");insert_note("การเงินส่วนบุคคล");
+choose_title();set_font_size(24);set_font_underline();
+choose_content();insert_text("การเงินส่วนบุคคลครอบคลุมจักรวาลทั้งหมดของการจัดการการเงินส่วนบุคคลและครอบครัว การรับผิดชอบต่อสถานการณ์ทางการเงินในปัจจุบันและอนาคตของคุณ และการกำหนดเป้าหมายทางการเงิน นอกจากนี้ยังรวมถึงการจัดการงานทางการเงินส่วนบุคคลและการออมสำหรับกรณีฉุกเฉิน ");
+set_font_color("orange");
+insert_picture("corporate_finance_book");
+set_width(6.5);
+set_background_color("blue");
+set_background_color("light blue");
+create_slide();set_background_color("light blue");create_slide();set_background_color("light blue");
+move_to_slide(1);insert_table(1, 2);
+
+choose_content();insert_text("ยินดีต้อนรับสู่ไซต์ Microsoft Update Catalog");
+set_font_color("orange");set_background_color("dark blue");
+insert_picture("computer");align_slide_bottom();
+align_slide_left();
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("แนวคิดพื้นฐาน");choose_table_cell(0, 1);insert_text("ที่มา");choose_table_cell(0, 2);insert_text("หมวดหมู่");choose_table_cell(0, 3);insert_text("การพัฒนา")
+create_slide();insert_star();set_fill_color("red");
+insert_pie_chart([10, 12, 14], ["ไตรมาสที่ 1", "ไตรมาส 2", "ไตรมาส 3"]);choose_shape("star");align_bottom_left_corner();
+choose_chart();set_height(10);set_width(10);
+
+create_slide();set_background_color("blue");
+choose_title();insert_text("บทนำ");
+choose_content();insert_text("People Plus Money เปรียบเสมือนการเงินส่วนบุคคล");
+set_font_italic();set_font_underline();
+set_font_color("green");
+insert_picture("person_grasping_money");align_bottom_right_corner();
+set_width(8);set_height(7);
+create_slide();choose_content();insert_text("เงินไม่ใช่ทุกอย่าง แต่ไม่มีเงินเป็นไปไม่ได้");
+set_font_style("Futura");set_font_color("blue");
+set_font_color("purple");
+insert_pie_chart([1, 2, 3, 4, 5])], ["1", "2", "3", "4", "5"]);set_right("chart", "content");
+choose_title();insert_text("ผลกระทบของเงิน");
+
+create_slide();choose_title();insert_text("ความแตกต่างระหว่างการเงินส่วนบุคคลและการเงินองค์กร");
+insert_table(2, 3);
+insert_picture("company_logo");set_left("picture", "table");
+choose_table();choose_table_cell(0,0);insert_text("Borderlands 2");choose_table_cell(0,1);insert_text("Divinity: Original Sin 2");choose_table_cell(0,2);insert_text("Final Fantasy VII");choose_table_cell(1,0);insert_text("Assassin's Creed IV: Black Flag");choose_table_cell(1,1);insert_text("Mega Man 3");choose_table_cell(1,2);insert_text("Mega Man 3");
+insert_cloud();align_slide_right();
+insert_note("2023/4/23");
+
+set_background_color("orange");
+create_slide();choose_title();insert_text("Bridget Fonda");set_background_color("orange");
+set_font_italic();set_font_size(18);
+insert_picture("bridget_fonda");align_top_right_corner();
+choose_picture();set_width(8);set_height(7);
+create_slide();
+choose_content();insert_text("เกิดในลอสแองเจลิส บริดเก็ต ฟอนดามาจากครอบครัวนักแสดงที่มีหน้ามีตา ซึ่งรวมถึงเฮนรี ฟอนดา ปีเตอร์ ฟอนดา และเจน ฟอนดา เธอเริ่มมีส่วนร่วมกับโรงละครหลังจากปรากฏตัวในโรงผลิตของโรงเรียนฮาร์วีย์ และต่อมาก็มี บทบาทเงียบ ๆ ใน Partners ในปี 1988 เธอปรากฏตัวใน Scandal ซึ่งเป็นบทพูดครั้งแรกของเธอและมีบทบาทเล็ก ๆ น้อย ๆ ในภายหลัง ");
+set_font_size(12);set_font_italic();
+choose_title();insert_text("รายการหนัง");
+insert_table(3, 3);choose_table_cell(0,0);insert_text("1");choose_table_cell(0,1);insert_text("2");choose_table_cell(0,2);insert_text("3");choose_table_cell(1,0);insert_text("4");choose_table_cell(1,1);insert_text("5");choose_table_cell(1,2);insert_text("6");choose_table_cell(2,0);insert_text("7");choose_table_cell(2,1);insert_text("8");choose_table_cell(2,2);insert_text("9");
+choose_table();align_slide_right();
+
+create_slide();
+choose_title();insert_text("Ghost Bear");set_font_underline();
+choose_content();insert_text("หมีหายากที่คุณอาจไม่เคยได้ยินชื่อ");
+insert_picture("ghost_bear");
+choose_title();set_font_style("Arial");set_font_size(20);choose_content();set_font_style("Arial");set_font_size(20);
+choose_picture();set_right("picture","content");
+create_slide();insert_picture("treemap_about_bears");
+align_slide_center();
+set_width(4);
+choose_content();insert_text("เมื่อฉันอดอยากเพราะ Dungeons and Dragons Divinity: Original Sin 2 เติมเต็มช่องว่างนั้นให้ฉัน");
+choose_title();insert_text("เกมโปรดของฉัน");
+insert_table(2, 2);
+choose_table();choose_table_cell(0,0);insert_text("SMS");choose_table_cell(0,1);insert_text("WeChat");choose_table_cell(1,0);insert_text("QQ");choose_table_cell(1,1);insert_text("DingTalk");
+
+create_slide();set_background_color("blue");
+insert_picture("universe");align_bottom_left_corner();
+set_width(6.5);set_height(13);
+choose_content();insert_text("ผมค่อนข้างจู้จี้จุกจิก ไม่ค่อยชอบอาหารหวานจัด เช่น ลูกอม ช็อกโกแลต และอื่นๆ");
+choose_title();insert_text("อาหารโปรดของฉัน");
+set_font_color("yellow");choose_content();set_font_color("yellow");
+choose_title();set_font_underline();set_font_size(24);choose_content();set_font_size(22);
+insert_cloud();align_slide_right();
+
+choose_title();insert_text("ไอดอล");set_font_underline();
+insert_rectangle();set_fill_color("red");set_bottom("rectangle","title");
+choose_content();insert_text("ฉันต้องการคุณ! (ฉันต้องการคุณ!) ฉันต้องการคุณ! (ฉันต้องการคุณ!)ฉันรักคุณ! (ฉันรักคุณ!)");text_align_left();
+set_font_size(24);
+set_font_size(48);
+insert_picture("AKB48");
+set_height(6.5);set_width(13);
+insert_table(2,1);choose_table_cell(0,0);insert_text("เวลาของไอดอลนั้นสั้น มีใบหน้าที่สดใสอยู่เสมอและพวกเขาก็ไม่ค่อยหลงทางจากสภาพที่เป็นอยู่เหมือนตุ๊กตา");
+choose_table();choose_table_cell(0,0);set_font_color("blue");set_font_style("Futura");
+choose_table_cell(1,0);insert_text("การเดินทางครั้งยิ่งใหญ่ของไอดอล จาก Sylvie Vartan สู่ไอดอลที่ขายหมดสนาม ทำให้เกิดคำถาม: อะไรต่อไปสำหรับไอดอลและวัฒนธรรมที่พวกเขาจุดประกาย?");
+insert_note("2023/05/17");
+
+choose_content();insert_text("เนื้อหา");text_align_center();
+choose_content();insert_text("1. ความเป็นมา");insert_text("2. ภารกิจการประเมิน");insert_text("3. นางแบบ");insert_text("4. แอพพลิเคชั่น");
+set_font_size(80);set_font_color("green");
+set_font_underline();set_font_style("Pecita");
+
+set_background_color("orange");choose_title();insert_text("Best Software");
+set_font_italic();set_font_size(24);
+choose_content();insert_text("คุณต้องการซอฟต์แวร์ที่ทรงพลังหรือไม่ คุณไม่ต้องเสียค่าใช้จ่าย ทุกสิ่งที่คุณต้องการเพื่อการทำงานอย่างมีประสิทธิภาพและปลอดภัยบนพีซีของคุณอยู่ในรายการนี้ และทั้งหมดนี้ฟรีทั้งหมด");
+set_font_color("yellow");
+set_background_color("dark blue");
+choose_content();set_font_underline();set_font_style("Arial");
+insert_right_arrow();align_slide_bottom();
+insert_note("2023/4/25");
+
+create_slide();choose_title();insert_text("Jay Chou");
+choose_content();insert_text("Jay Chou เป็นนักดนตรี นักร้อง นักแต่งเพลง นักดนตรีหลายคน นักแสดง และผู้กำกับชาวไต้หวัน");
+create_slide();choose_title();insert_text("Mojito");
+set_font_underline();set_font_size(20);
+set_font_size(48);
+choose_content();insert_text('"Mojito" ได้รับการตอบรับอย่างดีจากสาธารณชนทั่วไปจากนานาชาติ แสงแดดของคิวบา เสื้อเชิ้ตเมืองร้อน รถโบราณ และจังหวะที่มีชีวิตชีวาทำให้เพลงไม่เพียงดึงดูดหู แต่ยังให้ภาพที่สวยงามอีกด้วย โปรดอย่าถามคำถาม');
+set_font_style("Futura");set_background_color("green");
+insert_picture("mojito_cover");align_slide_right();
+
+choose_title();insert_text("ชีวิตมหาลัยของฉัน");
+insert_picture("collegue");insert_textbox();insert_text("วิทยาลัย");
+choose_content();insert_text(" ความคลั่งไคล้ในการเรียนต่อต่างประเทศของนักศึกษา");
+set_font_color("red");set_font_underline();
+set_font_style("Futura");choose_title();set_font_size(22);
+choose_content();text_align_left();
+insert_table(1, 3);
+choose_table_cell(0, 0);insert_text("ชั้นหนึ่ง");choose_table_cell(0, 1);insert_text("ชั้นสอง");choose_table_cell(0, 2);insert_text("ชั้นสาม");
+create_slide();choose_content();insert_text("สุนทรพจน์ของมิเชลล์ โอบามาในมหาวิทยาลัยปักกิ่ง");
+insert_picture("logo");align_top_right_corner();
+set_height(6.5);
+
+create_slide();choose_title();insert_text("การเรียนรู้หลาม");
+set_font_italic();set_font_size(26);set_font_style("Times New Roman");
+set_background_color("green");
+create_slide();set_background_color("green");create_slide();set_background_color("green");
+insert_rectangle();align_slide_bottom();
+insert_table(1, 1);
+choose_table_cell(0, 0);insert_text("ไม่ได้ให้ตัวอย่าง โปรดกรอกตาราง");
+
+create_slide();set_background_color("green");choose_title();insert_text("การแปลด้วยเครื่อง");
+choose_content();insert_text("การแปลด้วยคอมพิวเตอร์คือการใช้เทคโนโลยีคอมพิวเตอร์เพื่อแปลข้อความจากภาษาหนึ่งไปยังอีกภาษาหนึ่ง");
+set_font_size(20);
+set_font_size(40);
+set_font_color("green");text_align_right();
+insert_picture("trados");
+set_height(2);set_width(2);
+align_slide_bottom();
+insert_rectangle();align_slide_bottom();
+
+choose_title();insert_text("พื้นหลัง");insert_note("พื้นหลัง");
+choose_content();insert_text("ข้อกำหนดในการทำความเข้าใจคุณภาพการแปลของเครื่องแปลภาษา");insert_text("เน้นที่ความน่าเชื่อถือของจุดวันที่แต่ละจุด");
+insert_cloud();set_width(6.5);align_slide_bottom();
+choose_title();set_font_size(30);choose_content();set_font_size(20);set_font_italic();
+
+insert_circle();align_slide_left();set_fill_color("green");
+set_width(10);set_height(10);
+choose_content();insert_text("โมดูลการเรียนรู้คุณลักษณะ");insert_text("โมดูลการประเมินคุณภาพ");
+choose_title();insert_text("กรอบพื้นฐาน");
+insert_note("2023/4");choose_shape("circle");insert_text("2023/4");
+
+choose_title();insert_text("เงินเดือนเดือนมีนาคม");set_font_color("green");
+insert_table(1, 3);
+choose_table_cell(0, 0);insert_text("Employee ID");choose_table_cell(0, 1);insert_text("Amount");choose_table_cell(0, 2);insert_text("Note");
+insert_textbox();insert_text("ผู้รับมอบอำนาจจะต้องแสดงรหัสประจำตัวธนาคารและบัตรประจำตัวประชาชนของตน");set_bottom("textbox","table");
+insert_picture("company_brand_name");align_top_right_corner();
+create_slide();set_background_color("yellow");
+choose_title();insert_text("Chapter 2");choose_content();insert_text("The Employee Bonus");
+choose_title();set_font_italic();set_font_size(44);set_font_color("green");
+choose_content();set_font_style("Verdana");set_font_color("light green");
+insert_note("2023/4");
+
+create_slide();choose_title();insert_text("คุณสมบัติของการเรียนรู้เชิงลึก");set_font_underline();
+set_font_size(26);set_font_color("light blue");
+insert_circle();
+choose_content();insert_text("การเรียนรู้เชิงลึกคือเทคนิคการเรียนรู้ของเครื่องที่สอนให้คอมพิวเตอร์ทำในสิ่งที่เป็นธรรมชาติของมนุษย์");
+set_font_style("Arial");
+insert_triangle();align_slide_left();
+align_slide_right();
+set_fill_color("red");set_width(5);
+choose_content();insert_bullet_point("Sunday");insert_bullet_point("Monday");insert_bullet_point("Tuesday");
+move_to_next_slide();set_background_color("yellow");
+choose_title();insert_text("เครือข่ายที่เป็นกลาง");set_font_underline();set_font_italic();insert_note("เครือข่ายที่เป็นกลาง");
+
+choose_title();insert_text("The History of Art");
+set_font_bold();set_font_style("Times New Roman");
+choose_content();insert_text("ศิลปะเป็นกิจกรรมที่หลากหลายของมนุษย์ในการสร้างสิ่งประดิษฐ์ทางสายตา การได้ยิน หรือการแสดง การแสดงจินตนาการ แนวความคิด หรือทักษะทางเทคนิคของผู้แต่ง โดยมีจุดประสงค์เพื่อให้ชื่นชมความงามหรือพลังทางอารมณ์เป็นหลัก");
+set_font_italic();set_font_style("Arial");
+insert_bullet_point("");
+insert_bullet_point("painting");insert_bullet_point("sculpture");insert_bullet_point("architecture");insert_bullet_point("music");insert_bullet_point("literature");
+insert_picture("Mona Lisa");align_slide_bottom();
+align_top_left_corner();
+insert_note("Mona Lisa โดย Leonardo da Vinci");
+
+insert_star();set_fill_color("yellow");
+choose_title();insert_text("Stars");set_font_size(24);
+choose_content();insert_text("Welcome to the Starry Night");
+insert_picture("universe");set_bottom("picture","content");
+insert_note("ดาวพร่างพราว ดวงดาราพร่างพราย");choose_title();delete_text();insert_text("ดาวพร่างพราว ดวงดาราพร่างพราย");
+
+create_slide();choose_title();insert_text("คำติชมของลูกค้า");
+insert_picture("happy_customer");align_slide_bottom();
+choose_title();delete_text();insert_text("ลูกค้าของเรารักเรา!");set_font_color("red");
+delete_text();insert_text("!!");
+choose_content();insert_text("รีวิวจากลูกค้า");
+set_font_style("Times New Roman");set_font_color("green");
+set_background_color("red");
+set_background_color("green");
+
+create_slide();choose_title();insert_text("แผนการตลาด");
+insert_text("บทนำ");set_font_underline();set_font_style("Calibri");
+insert_picture("company_logo");align_bottom_left_corner();
+set_height(5);set_width(3);align_slide_right();
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("หมวดหมู่");choose_table_cell(0, 1);insert_text("ข้อมูล");choose_table_cell(1, 0);insert_text("อายุ");choose_table_cell(1, 1);insert_text("25")
+create_slide();set_background_color("blue");
+choose_title();insert_text("แบรนด์มือถือ");
+insert_line_chart([120, 140, 150], ["Huawei", "Apple", "Xiaomi"]);
+set_chart_title("Sales in April");
+
+create_slide();choose_title();insert_text("รายงานทางการเงินไตรมาสที่ 2");
+set_font_style("Arial");set_font_size(20);
+choose_content();insert_table(1, 3);choose_table_cell(0, 0);insert_text("Metric");choose_table_cell(0, 1);insert_text("Q2");choose_table_cell(0, 2);insert_text("Q3")
+insert_picture("financial report");set_top("picture","table");
+choose_content();insert_text("รายงานทางการเงินในไตรมาสที่ 2 แสดงการเติบโตของรายได้ที่แข็งแกร่งและความสามารถในการทำกำไรที่ดีขึ้น ซึ่งได้แรงหนุนจากมาตรการปรับต้นทุนให้เหมาะสมที่สุดที่ประสบความสำเร็จ และความต้องการของตลาดที่เพิ่มขึ้นสำหรับผลิตภัณฑ์และบริการของเรา");
+set_font_italic();set_font_bold();
+insert_bullet_point("");
+set_background_color("light blue");
+
+create_slide();set_background_color("green");
+choose_title();insert_text("สตรีนิยม");
+set_font_color("green");set_font_size(26);
+choose_content();insert_text("สตรีนิยม คือความเชื่อและการแสวงหาสิทธิ อำนาจ และโอกาสที่เท่าเทียมกันของผู้หญิงคู่ขนานกับผู้ชาย");
+set_font_color("green");set_font_italic();
+create_slide();choose_title();insert_text("3rd Wave of Feminism Movement");set_font_color("green");
+set_font_bold();set_font_style("Times New Roman");set_font_color("blue");set_font_size(28);
+insert_picture("war");align_slide_bottom();
+insert_pie_chart([40, 30, 30], ["สหรัฐอเมริกา", "รัสเซีย", "ฝรั่งเศส"]);
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("Location");choose_table_cell(0, 1);insert_text("เมืองต่างๆ ทั่วโลก")
+
+create_slide();choose_title();insert_text("Product Launch");
+choose_content();insert_text("วัตถุประสงค์");insert_note("วัตถุประสงค์");
+set_font_underline();set_font_style("Times New Roman");
+insert_picture("Apple_Pencil");align_bottom_left_corner();
+align_top_right_corner();
+
+choose_title();insert_text("ความคืบหน้าของทีม");
+choose_content();insert_text("วัตถุประสงค์");
+choose_content();insert_text("เป้าหมายขององค์กรคือการส่งเสริมเยาวชนและกลุ่มคนชายขอบของรุ่นนี้ผ่านการให้คำปรึกษาจากฟรีแลนซ์ที่มีประสบการณ์");
+set_font_size(18);set_font_underline();
+insert_picture("team_group");set_right("picture", "content");
+
+choose_title();insert_text("พลังแห่งนวัตกรรม");
+set_font_style("Arial");set_font_bold();
+choose_content();insert_text("ในโลกปัจจุบันที่เปลี่ยนแปลงอย่างรวดเร็ว นวัตกรรมมีบทบาทสำคัญในการขับเคลื่อนการเติบโตทางเศรษฐกิจ สร้างภูมิทัศน์ทางการเมือง และเปลี่ยนแปลงบรรทัดฐานทางวัฒนธรรม นวัตกรรมดังกล่าวเป็นเชื้อเพลิงในความก้าวหน้า ส่งเสริมความสามารถในการแข่งขัน และเปิดโอกาสใหม่สำหรับปัจเจกบุคคลและสังคม");
+set_font_color("dark blue");set_line_space(2);
+insert_picture("cityscape");align_slide_left();
+insert_rectangle();align_slide_right();
+set_background_color("dark blue");
+create_slide();choose_content();insert_text(" มันดำเนินไปอย่างไร้เหตุผล ไม่คำนึงถึงศีลธรรมของสังคมและมาตรฐานภายนอก ");
+set_font_bold();set_font_underline();choose_title();insert_text("เทพนิยาย");
+
+choose_title();insert_text("ชีวิตคนเมือง");
+set_background_color("light blue");
+choose_table();insert_table(3, 2);choose_table_cell(0, 1);delete_text();insert_text("ปริมาณ");choose_table_cell(1, 1);delete_text();insert_text("คุณภาพ");choose_table_cell(2, 1);delete_text();insert_text("ระดับ");
+insert_triangle();insert_rectangle();set_top("triangle", "rectangle");
+choose_shape("triangle");set_bottom("triangle", "rectangle");
+insert_picture("Shanghai");align_bottom_left_corner();
+
+choose_table();insert_table(4, 6);
+choose_table_cell(0, 0);insert_text("Year");choose_table_cell(0, 1);insert_text("Friends");choose_table_cell(0, 2);insert_text("Breaking Bad");choose_table_cell(0, 3);insert_text("Game of Thrones");choose_table_cell(0, 4);insert_text("Stranger Things");choose_table_cell(0, 5);insert_text("The Crown")
+insert_star();
+insert_picture("Friends");set_right("picture", "star");
+choose_shape("star");set_top("star", "picture");
+choose_title();insert_text("ละครโทรทัศน์");set_font_italic();set_font_underline();
+insert_note("2023-2025");
+
+insert_triangle();rotate_element(45);
+insert_rectangle();set_right("rectangle","triangle");
+insert_star();set_right("star","rectangle");
+insert_circle();set_right("circle","star");
+insert_callout();set_right("callout","circle");rotate_element(-45);
+choose_shape("triangle");insert_text("รูปร่าง");choose_shape("rectangle");insert_text("รูปร่าง");choose_shape("star");insert_text("รูปร่าง");choose_shape("circle");insert_text("รูปร่าง");choose_shape("callout");insert_text("รูปร่าง");
+
+insert_picture("globe");
+choose_title();insert_text("Global Expansion Strategy");
+choose_picture();align_top_left_corner();
+choose_content();insert_text("สันติภาพและความรัก");
+
+insert_pie_chart([40, 45, 5], ["เซี่ยงไฮ้", "ปักกิ่ง", "อื่นๆ"]);
+choose_title();insert_text("ผลงาน");
+choose_content();insert_text("ผลิตภัณฑ์มวลรวมภายในประเทศประจำปีของปักกิ่งเกิน 4 ล้านล้านหยวน (630 พันล้านดอลลาร์) เป็นครั้งแรกในปี 2564");
+set_font_style("Arial");
+insert_line_chart([6.7, 6.9, 6.6, 6.1, 2.3, 8.1], ["2016", "2017", "2018", "2019", "2020", "2021"]);
+choose_title();insert_text("GDP Growth");
+insert_bar_chart([6.5, 6.3, 6.1, 5.9, 5.7, 5.5], ["2022", "2023", "2024", "2025", "2026", "2027"]);
+
+create_slide();choose_title();insert_text("แผนการตลาด");
+set_background_color("red");
+insert_picture("company_logo");set_top("picture", "title");
+set_width(3);
+
+create_slide();choose_title();insert_text("ควีนการ์ด");
+set_font_italic();set_font_bold();set_font_color("purple");
+set_background_color("light blue");
+insert_picture("Poker");set_right("picture", "title");
+align_top_right_corner();
+insert_circle();align_bottom_right_corner();
+set_width(6);set_height(4);
+create_slide();choose_title();insert_text("King");
+insert_picture("King");align_slide_right();
+
+create_slide();choose_title();insert_text("Project Timeline");
+insert_table(1, 4);
+choose_table_cell(0, 0);insert_text("ม.ค.");choose_table_cell(0, 1);insert_text("ก.พ.");choose_table_cell(0, 2);insert_text("มี.ค.");choose_table_cell(0, 3);insert_text("เมษายน")
+choose_content();insert_text("เช่น \"การเปิดตัวซอฟต์แวร์\", \"แคมเปญการตลาดเริ่มต้นขึ้น\"");
+insert_picture("project_team");set_bottom("picture", "table");
+insert_right_arrow();set_left("right_arrow", "picture");
+set_width(3);set_height(3);
+
+insert_pie_chart([40, 60], ["ผู้หญิง", "ผู้ชาย"]);
+set_chart_title("Class 1");
+insert_picture("team_of_students");
+insert_rectangle();set_bottom("rectangle", "chart");
+choose_title();insert_text("ชั้นประถมศึกษาปีที่ 1");
+choose_content();insert_text("ต่อไปนี้จะแสดงเปอร์เซ็นต์เพศในแต่ละชั้นเรียน");
+set_font_underline();set_font_size(20);
+insert_note("หลักการ：Eva");
+create_slide();insert_pie_chart([40, 60],["Female", "Male"]);set_chart_title("Class 1");
+insert_picture("team_of_students");
+insert_rectangle();set_bottom("rectangle", "chart");
+
+create_slide();choose_title();insert_text("Customer Testimonials");
+choose_content();insert_text("สิ่งที่ลูกค้าพูดถึงเรา");set_font_bold();set_font_italic();
+insert_picture("happy_customer");
+insert_triangle();set_fill_color("purple");
+align_slide_right();
+
+create_slide();choose_title();insert_text("กลยุทธ์");
+choose_content();insert_text("กลยุทธ์การตลาดของเราขึ้นอยู่กับ 4 Ps: ผลิตภัณฑ์ ราคา สถานที่ และโปรโมชั่น");
+set_font_size(20);set_line_space(2);set_font_bold();choose_title();set_font_underline();
+set_font_color("red");choose_content();set_font_color("red");
+insert_rectangle();align_slide_left();
+insert_picture("Apple_company_logo");set_right("picture", "rectangle");
+choose_picture();set_top("picture", "rectangle");
+
+create_slide();choose_title();insert_text("Fans");set_font_style("Arial");set_font_size(24);
+choose_content();insert_bullet_point("Benefits of our product");insert_bullet_point("Target market");insert_bullet_point("Pricing strategy");insert_bullet_point("Marketing channels");
+insert_picture("idol");set_height(6.5);
+align_slide_bottom();
+insert_rectangle();align_slide_top();
+insert_note("Presenter：Eva");
+
+create_slide();choose_title();insert_text("ตัวเลขการขาย");
+insert_bar_chart([20, 30], ["มกราคม", "กุมภาพันธ์"]);
+insert_line_chart([10, 15], ["มกราคม", "กุมภาพันธ์"]);
+set_chart_title("Sales by Month");
+insert_rectangle();align_slide_top();
+choose_content();insert_text("รายได้ของเราเพิ่มขึ้นอย่างต่อเนื่องในช่วง 6 เดือนที่ผ่านมา");
+
+create_slide();choose_title();insert_text("รายงานการขาย");
+insert_table(2, 5);
+choose_table();choose_table_cell(0, 0);insert_text("ผลิตภัณฑ์");choose_table_cell(0, 1);insert_text("หน่วยที่ขาย");choose_table_cell(0, 2);insert_text("รายได้");choose_table_cell(0, 3);insert_text("ค่าใช้จ่าย");choose_table_cell(0, 4);insert_text("กำไร")
+insert_table_row(["Computer", "1000", "$1000000", "$500000", "500000$"])
+insert_table(1, 5);insert_table_row(["เครื่องพิมพ์", "500", "100,000 ดอลลาร์", "50,000 ดอลลาร์", "50,000 ดอลลาร์"])
+
+create_slide();insert_picture("city_skyline");align_slide_top();
+set_width(6);set_height(4);
+choose_title();insert_text("City Life");
+choose_picture();align_top_left_corner();
+choose_title();set_font_size(20);set_font_bold();
+
+create_slide();insert_line_chart([40, 30, 30], ["คอนเสิร์ต", "อัลบั้ม", "หนังสือ"]);
+choose_title();insert_text("พลังของแฟนด้อม");
+choose_content();insert_text("แฟน ๆ มีบทบาทสำคัญในการกำหนดความสำเร็จและผลกระทบของความบันเทิงรูปแบบต่าง ๆ ตั้งแต่ภาพยนตร์และรายการทีวีไปจนถึงกีฬาและดนตรี");
+set_font_style("Arial");set_font_size(20);
+insert_right_arrow();align_slide_top();
+insert_textbox();align_slide_bottom();
+align_slide_top();
+
+create_slide();choose_title();insert_text("Tencent");
+insert_rectangle();align_slide_top();
+rotate_element(90);
+choose_title();set_font_style("Georgia");set_font_italic();
+choose_content();insert_text("Tencent เป็นกลุ่มบริษัทข้ามชาติชั้นนำของจีนที่ก่อตั้งขึ้นในปี 2541 โดยมีความเชี่ยวชาญในบริการและผลิตภัณฑ์ที่เกี่ยวข้องกับอินเทอร์เน็ตมากมาย รวมถึงโซเชียลมีเดีย เกมออนไลน์ อีคอมเมิร์ซ คลาวด์คอมพิวติ้ง และปัญญาประดิษฐ์ ");
+set_font_size(24);set_font_style("Arial");
+
+set_background_color("green");
+insert_picture("Tencent_logo");
+set_width(6.5);
+insert_line_chart([40, 30, 30], ["โมเดล A", "โมเดล B", "โมเดล C"]);
+insert_bar_chart([40, 30, 30], ["Model A", "Model B", "Model C"]);
+
+create_slide();choose_title();insert_text("The origin of British");set_font_underline();
+choose_content();insert_text("ต้นกำเนิดของสหราชอาณาจักรสามารถสืบย้อนไปถึงสมัยของกษัตริย์แองโกล-แซกซอน Athelstan ซึ่งในช่วงต้นศตวรรษที่ 10 ได้รับรองความจงรักภักดีของอาณาจักรเซลติกที่อยู่ใกล้เคียงและกลายเป็น ");
+set_font_size(20);
+set_font_size(40);set_background_color("green");
+
+insert_rectangle();align_slide_right();
+set_fill_color("yellow");
+choose_title();insert_text("Vinda");
+choose_content();insert_text("Vinda Group เป็นบริษัทชั้นนำด้านผลิตภัณฑ์สุขอนามัยที่ก่อตั้งขึ้นในปี 2528 โดยมีความเชี่ยวชาญในการผลิตและจำหน่ายกระดาษทิชชู่ ผลิตภัณฑ์สุขอนามัยแบบใช้แล้วทิ้ง และผลิตภัณฑ์ดูแลส่วนบุคคล");
+set_font_size(20);set_font_color("green");set_font_style("Vinda");
+set_line_space(2);choose_title();set_line_space(2);
+
+choose_title();insert_text("งานอดิเรกของฉัน");
+insert_picture("guitar");align_top_right_corner();
+choose_content();insert_text("เล่นกีตาร์เป็นงานอดิเรกที่ฉันชอบที่สุดอย่างหนึ่ง");
+set_font_size(24);set_font_color("purple");
+
+create_slide();choose_title();insert_text("แผนการตลาด");
+choose_content();insert_text("แผนการตลาด");
+set_font_style("Calibri");
+insert_picture("vinda_logo");
+align_top_left_corner();
+
+create_slide();choose_title();insert_text("แคมเปญการตลาด");
+insert_picture("smiling_customer");align_top_left_corner();
+set_height(5);set_width(6);
+choose_content();insert_bullet_point("Profits");insert_bullet_point("Repute");insert_bullet_point("Go listing");
+set_font_size(20);choose_title();set_font_size(20);
+
+create_slide();choose_title();insert_text(" ประเภทแบตเตอรี่");
+set_font_bold();set_font_italic();
+insert_picture("Product A");
+align_slide_left();
+insert_table(4, 2);choose_table_cell(0, 0);insert_text("ประเภทแบตเตอรี่");choose_table_cell(0, 1);insert_text("คำอธิบาย");choose_table_cell(1, 0);insert_text("แบตเตอรี่อัลคาไลน์และแบตเตอรี่สามัญประจำบ้านที่มีอายุการเก็บรักษานาน");choose_table_cell(2, 0);insert_text("แบตเตอรี่ลิเธียมไอออนและแบตเตอรี่แบบชาร์จซ้ำได้ที่ใช้ในอุปกรณ์อิเล็กทรอนิกส์");choose_table_cell(3, 0);insert_text("นิกเกิลแคดเมียม แบตเตอรี่แบบชาร์จไฟได้ที่มีความหนาแน่นของพลังงานสูง")
+
+insert_pie_chart([30, 25, 20, 15, 10], ["ยี่ห้อ A", "ยี่ห้อ B", "ยี่ห้อ C", "ยี่ห้อ D", "ยี่ห้ออื่น ๆ"]);
+set_chart_title("Air Condition Brands");
+choose_content();insert_text("สไลด์นี้มีคำอธิบายสั้น ๆ หรือประเด็นสำคัญเกี่ยวกับแต่ละแบรนด์");
+insert_picture("Haier");align_slide_bottom();
+choose_content();set_font_underline();set_font_color("green");
+insert_triangle();insert_rectangle();
+choose_shape("triangle");set_bottom("triangle", "rectangle");
+choose_shape("rectangle");rotate_element(45);
+
+choose_title();insert_text("ทีมของเรา");
+insert_picture("team");set_width(4);set_height(3);
+rotate_element(45);
+align_top_left_corner();
+choose_title();set_font_style("Calibri");set_font_size(28);
+
+choose_title();insert_text("บัตรประจำตัวประชาชน");
+insert_line_chart([120, 140, 110], ["Fujian", "Shanghai", "Beijing"]);
+set_chart_title("ID Card Operation");
+insert_picture("ID_card");align_slide_right();
+choose_title();set_font_style("Verdana");set_font_size(32);
+set_background_color("purple");
+
+choose_title();insert_text("รายงานการขาย");
+set_font_style("Arial");set_font_size(48);set_font_bold();
+insert_table(5, 3);
+choose_table();choose_table_cell(0, 0);insert_text("ภูมิภาค");choose_table_cell(0, 1);insert_text("การขาย");choose_table_cell(0, 2);insert_text("การเติบโต");choose_table_cell(1, 0);insert_text("เหนือ");choose_table_cell(1, 1);insert_text("50,000 ดอลลาร์");choose_table_cell(1, 2);insert_text("5%");choose_table_cell(2, 0);insert_text("ตะวันออก");choose_table_cell(2, 1);insert_text("75,000 ดอลลาร์");choose_table_cell(2, 2);insert_text("10%");choose_table_cell(3, 0);insert_text("ใต้");choose_table_cell(3, 1);insert_text("45,000 ดอลลาร์");choose_table_cell(3, 2);insert_text("3%");choose_table_cell(4, 0);insert_text("ตะวันตก");choose_table_cell(4, 1);insert_text("60,000 ดอลลาร์");choose_table_cell(4, 2);insert_text("8%")
+set_background_color("green");
+choose_content();insert_text("ชื่อ: John Doe,วันเกิด: 1 มกราคม 1990,เพศ: ชาย,หมายเลขประจำตัวประชาชน: 123456789,ผู้ออกใบอนุญาต: กรมยานยนต์,วันหมดอายุ: 31 ธันวาคม 2023");
+insert_picture("beach");
+insert_right_arrow();
+choose_picture();set_top("picture", "right_arrow");
+
+insert_rectangle();
+set_fill_color("orange");
+set_width(6);set_height(5);
+choose_title();insert_text("ข้อมูลสำคัญ");set_font_bold();
+set_font_size(24);set_font_color("green");
+choose_content();insert_bullet_point("pot");insert_bullet_point("scissors");insert_bullet_point("scoup");
+insert_picture("exclamatory_mark");
+align_top_left_corner();
+create_slide();insert_rectangle();align_slide_left();
+choose_title();insert_text("รายละเอียดเพิ่มเติม");
+
+choose_content();insert_text("นี่คือสถิติบางส่วนเกี่ยวกับการเติบโตของบริษัทของเรา");
+set_font_color("purple");
+choose_table();insert_table(1, 3);
+choose_table_cell(0, 0);insert_text("รายได้");choose_table_cell(0, 1);insert_text("กำไร");choose_table_cell(0, 2);insert_text("จำนวนพนักงาน")
+
+insert_picture("converse_shoes");
+choose_content();insert_text("Converse เป็นแบรนด์รองเท้ายอดนิยมซึ่งเป็นที่รู้จักจากรองเท้าผ้าใบอันเป็นเอกลักษณ์และสไตล์ลำลอง");
+set_font_size(18);set_font_color("red");
+
+choose_content();insert_text("น้ำมะนาวเป็นเครื่องดื่มที่ให้ความสดชื่นและมีรสเปรี้ยวที่ทำจากมะนาวคั้นสด อุดมไปด้วยวิตามินซีและให้รสเปรี้ยวที่ระเบิดออกมา");
+create_slide();choose_title();insert_text("น้ำมะนาว");
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("ผลิตภัณฑ์");choose_table_cell(0, 1);insert_text("ราคา");choose_table_cell(0, 2);insert_text("คุณสมบัติ");choose_table_cell(1, 0);insert_text("A");choose_table_cell(1, 1);insert_text("B");choose_table_cell(1, 2);insert_text("C")
+insert_picture("lemon_juice");set_right("picture","table");
+choose_content();insert_text("หน้า 1");
+
+insert_picture("beach");align_top_left_corner();
+choose_content();insert_text("จองวันหยุดของคุณวันนี้!");
+choose_title();insert_text("Vacation Time");
+set_font_size(18);set_font_style("Times New Roman");choose_content();set_font_size(18);set_font_style("Times New Roman");
+choose_content();insert_bullet_point("Relaxing on the beach");insert_bullet_point("Swimming in the ocean");insert_bullet_point("Eating delicious seafood");
+
+create_slide();choose_title();insert_text("พริก");
+set_background_color("red");
+insert_picture("chili");
+choose_content();insert_text("พริกเป็นอาหารที่มีรสเผ็ดและปรุงจากส่วนผสมของเนื้อสัตว์ ถั่ว และเครื่องเทศต่างๆ เป็นที่ทราบกันดีว่ามีรสชาติเข้มข้นและเผ็ดร้อนที่น่าพอใจ");
+
+choose_title();insert_text("พริก");insert_picture("chili_landscape");
+insert_table(4, 4);choose_table_cell(0, 0);insert_text("ส่วนผสม");choose_table_cell(0, 1);insert_text("ปริมาณ");choose_table_cell(0, 2);insert_text("ระดับความเผ็ด");choose_table_cell(0, 3);insert_text("ที่มา");choose_table_cell(1, 0);insert_text("Beef");choose_table_cell(1, 1);insert_text("2 lbs");choose_table_cell(1, 2);insert_text("Medium");choose_table_cell(1, 3);insert_text("Mexico");choose_table_cell(2, 0);insert_text("Beans");choose_table_cell(2, 1);insert_text("1 can");choose_table_cell(2, 2);insert_text("Mild");choose_table_cell(2, 3);insert_text("United States");choose_table_cell(3, 0);insert_text("Tomatoes");choose_table_cell(3, 1);insert_text("3");choose_table_cell(3, 2);insert_text("Hot");choose_table_cell(3, 3);insert_text("Spain")
+insert_note("หน้า 2");
+
+insert_picture("eating_humburger");align_slide_bottom();
+choose_title();insert_text("Sales Projections for Q3");
+choose_content();insert_text("ประมาณการยอดขายสำหรับไตรมาสที่ 3 บ่งชี้ถึงการเติบโตอย่างต่อเนื่องของรายได้และส่วนแบ่งการตลาด ด้วยกลยุทธ์การตลาดที่ตรงเป้าหมายและการปรับปรุงผลิตภัณฑ์ เราคาดการณ์ว่าประสิทธิภาพการขายจะเพิ่มขึ้นอย่างมาก");
+
+choose_title();insert_text("กลยุทธ์การตลาด");
+choose_content();insert_text("กลยุทธ์การตลาดของบริษัทของเราคือการเน้นการโฆษณาทางโซเชียลมีเดียและการตลาดแบบอินฟลูเอนเซอร์");
+insert_bullet_point("Instagram");insert_bullet_point("Facebook");insert_bullet_point("Twitter");
+insert_picture("using_smartphone");
+insert_rectangle();set_top("rectangle","picture");
+insert_table(6, 4);choose_table_cell(0, 0);insert_text("เดือน");choose_table_cell(0, 1);insert_text("รายได้");choose_table_cell(0, 2);insert_text("หน่วยที่ขาย");choose_table_cell(0, 3);insert_text("อัตราการเติบโต")
+
+create_slide();choose_title();insert_text("Product Launch");
+insert_text("แนะนำผลิตภัณฑ์ใหม่ล่าสุดของเรา");
+insert_picture("product");
+align_slide_bottom();
+set_background_color("purple");align_slide_top();
+
+choose_title();insert_text("สำรวจจีน");
+insert_picture("china_map");
+align_top_left_corner();
+choose_content();insert_text("จีนเป็นสถานที่ท่องเที่ยวที่ดึงดูดใจ ซึ่งเป็นที่รู้จักในด้านประวัติศาสตร์อันยาวนาน วัฒนธรรมที่มีชีวิตชีวา และทิวทัศน์อันน่าทึ่ง ตั้งแต่กำแพงเมืองจีนที่เป็นสัญลักษณ์ไปจนถึงมหานครที่พลุกพล่านของเซี่ยงไฮ้ มีบางสิ่งสำหรับนักท่องเที่ยวทุกคนในดินแดนอันกว้างใหญ่และกว้างใหญ่นี้ ประเทศที่หลากหลาย");
+insert_table(8, 5);choose_table_cell(0, 0);insert_text("จังหวัด");choose_table_cell(0, 1);insert_text("สถานที่ท่องเที่ยวที่มีชื่อเสียง");choose_table_cell(0, 2);insert_text("อุณหภูมิเฉลี่ย");choose_table_cell(0, 3);insert_text("จำนวนนักท่องเที่ยว");choose_table_cell(0, 4);insert_text("ฤดูกาลแนะนำ")
+create_slide();choose_title();insert_text("Project Timeline");
+insert_star();align_slide_right();
+align_slide_right();
+
+choose_title();insert_text("OPPO");set_font_color("red");set_font_size(20);set_font_underline();set_font_bold();
+choose_content();insert_text("OPPO เป็นผู้ผลิตสมาร์ทโฟนชั้นนำที่เป็นที่รู้จักในด้านนวัตกรรมการออกแบบและเทคโนโลยีที่ล้ำสมัย");
+insert_picture("oppo_smartphone");set_left("picture","content");
+create_slide();choose_title();insert_text("Xiaomi");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("ผลิตภัณฑ์");choose_table_cell(0, 1);insert_text("ราคา");choose_table_cell(0, 2);insert_text("คุณสมบัติ");choose_table_cell(0, 3);insert_text("ความพร้อมใช้งาน");choose_table_cell(1, 0);insert_text("Mi 11");choose_table_cell(1, 1);insert_text("$699");choose_table_cell(1, 2);insert_text("Snapdragon 888, กล้อง 108MP");choose_table_cell(1, 3);insert_text("Global");choose_table_cell(2, 0);insert_text("Redmi Note 10");choose_table_cell(2, 1);insert_text("$249");choose_table_cell(2, 2);insert_text("จอแสดงผล AMOLED, กล้อง 48MP");choose_table_cell(2, 3);insert_text("ทั่วโลก")
+
+create_slide();choose_title();insert_text("ภาพรวมผลิตภัณฑ์");
+choose_table();insert_table(4, 3);choose_table_cell(0, 0);insert_text("ชื่อผลิตภัณฑ์");choose_table_cell(1, 0);insert_text("SKU");choose_table_cell(2, 0);insert_text("ราคา");choose_table_cell(3, 0);insert_text("ปริมาณ");
+set_background_color("green");
+
+set_background_color("blue");choose_title();insert_text("Research Writing");
+choose_content();insert_text("การเขียนงานวิจัยเกี่ยวข้องกับการตรวจสอบอย่างเป็นระบบและการจัดทำเอกสารของหัวข้อหนึ่งๆ เพื่อให้ความรู้ใหม่และข้อมูลเชิงลึกแก่สาขาวิชาเฉพาะ");
+set_font_color("yellow");set_font_size(18);
+set_font_size(36);
+insert_line_chart([120, 140, 160], ["2016", "2017", "2018"]);
+set_chart_title("Publications Over Time");
+insert_picture("research_writing_cover");set_background_color("light blue");
+
+create_slide();choose_title();insert_text("กำหนดการในเดือนมีนาคม");
+set_font_size(28);set_font_color("dark blue");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("วันที่");choose_table_cell(0, 1);insert_text("งาน");choose_table_cell(0, 2);insert_text("เวลาเริ่มต้น");choose_table_cell(0, 3);insert_text("เวลาสิ้นสุด");choose_table_cell(1, 0);insert_text("15 มีนาคม");choose_table_cell(1, 1);insert_text("การประชุมกับผู้มีส่วนได้ส่วนเสีย");choose_table_cell(1, 2);insert_text("9.00 น.");choose_table_cell(1, 3);insert_text("10.30 น.");choose_table_cell(2, 0);insert_text("23 มีนาคม");choose_table_cell(2, 1);insert_text("การตรวจสอบและอัปเดตโครงการ");choose_table_cell(2, 2);insert_text("14:00 น.");choose_table_cell(2, 3);insert_text("16:00 น.")
+insert_picture("calendar");set_top(picture, table);
+
+create_slide();choose_title();insert_text("ประโยชน์ของการทำสมาธิ");
+insert_picture("person_meditating");align_slide_bottom();
+choose_content();insert_text("การทำสมาธิเป็นเทคนิคง่ายๆ แต่ทรงพลังที่สามารถช่วยให้คุณบรรลุสภาวะแห่งความสงบและความสงบจากภายใน");
+set_font_size(24);set_font_style("Times New Roman");
+insert_rectangle();set_right("rectangle", "picture");
+set_fill_color("light green");
+create_slide();set_background_color("light blue");
+choose_table();insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("การทำสมาธิสติ");choose_table_cell(1, 0);insert_text("การทำสมาธิล่วงพ้น");choose_table_cell(2, 0);insert_text("การทำสมาธิสแกนร่างกาย");choose_table_cell(0, 1);insert_text("การทำสมาธิช่วยให้จิตใจสงบและลดระดับความเครียด ส่งเสริมการผ่อนคลาย");choose_table_cell(1, 1);insert_text("การฝึกสมาธิเป็นประจำช่วยเพิ่มความสามารถในการโฟกัสและสมาธิ");choose_table_cell(2, 1);insert_text("การทำสมาธิส่งเสริมความมั่นคงทางอารมณ์ สติ และความเป็นอยู่โดยรวม ");
+
+create_slide();set_background_color("green");
+insert_picture("grassland");set_width(6.5);set_height(5.5);
+choose_title();insert_text("หน้าที่ของป่า");set_font_color("dark red");set_font_size(40);
+insert_right_arrow();set_fill_color("yellow");
+set_right("right_arrow", "picture");
+
+insert_pie_chart([40, 20, 15, 10, 15], ["อาหาร", "ที่อยู่อาศัย", "การเดินทาง", "การบันเทิง", "และอื่นๆ"]);
+insert_table(6, 2);choose_table_cell(0, 0);insert_text("หมวดหมู่");choose_table_cell(0, 1);insert_text("เปอร์เซ็นต์")
+set_bottom("table",pie_chart");
+choose_title();insert_text("รายจ่ายของฉันในเดือนพฤษภาคม 2566");
+set_font_italic();
+
+create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");create_slide();set_background_color("yellow");
+move_to_slide(0);choose_title();insert_text("วันหยุดฤดูร้อนของฉัน");set_font_style("Microsoft JhengHei");
+move_to_slide(1);insert_picture("family");
+move_to_slide(2);insert_bar_chart([120, 80, 40, 60], ["ยอดขาย", "ค่าใช้จ่าย", "กำไร", "การลงทุน"]);
+move_to_slide(3);choose_content();insert_text("ในช่วงวันหยุดฤดูร้อนของฉัน ฉันเริ่มต้นการผจญภัยที่ยากจะลืมเลือน ฉันสำรวจจุดหมายปลายทางใหม่ๆ ดื่มด่ำกับความอบอุ่นของพระอาทิตย์ตกสีทอง และพักผ่อนบนหาดทราย");
+move_to_slide(4);choose_table();insert_table(2, 1);choose_table_cell(0,0);insert_text("ยอดขาย");set_font_size(26);choose_table_cell(1,0);insert_text("ค่าใช้จ่าย");set_font_size(26);
+
+create_slide();choose_title();insert_text("แผนธุรกิจ");
+insert_picture("light_bulb");align_slide_left();
+choose_content();insert_text("การเป็นผู้ประกอบการคือกระบวนการของการออกแบบ การเปิดตัว และการดำเนินธุรกิจใหม่ ซึ่งมักจะเริ่มต้นจากธุรกิจขนาดเล็ก ผู้ที่สร้างธุรกิจเหล่านี้เรียกว่าผู้ประกอบการ");
+set_font_style("Georgia");set_font_size(10);
+set_background_color("green");
+insert_circle();
+align_slide_right();
+move_to_slide(0);choose_content();insert_text("กลยุทธ์การตลาด");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("Social Media Campaign");choose_table_cell(1, 0);insert_text("Influencer Partnerships");choose_table_cell(2, 0);insert_text("Email Marketing")
+choose_table_cell(0,3);insert_text("$10,000");choose_table_cell(1,3);insert_text("$15000");choose_table_cell(2,3);insert_text("$5,000");
+insert_note("2023/5");
+
+choose_title();insert_text("กลุ่มเป้าหมาย");set_font_style("Arial");
+align_top_right_corner();
+insert_picture("Gen_Z");set_width(4);
+align_bottom_left_corner();
+choose_content();insert_text("การทำความเข้าใจและการกำหนดเป้าหมายผู้ชมที่ถูกต้องอย่างมีประสิทธิภาพเป็นสิ่งสำคัญสำหรับการส่งข้อความที่ปรับแต่งให้เหมาะสมและเพิ่มผลกระทบของความพยายามทางการตลาดให้ได้สูงสุด");
+
+choose_title();insert_text("สิ่งสำคัญของการสร้างแบบจำลองขนาดใหญ่");set_font_size(24);
+insert_picture("neutral_network");align_slide_bottom();
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("ตัวเลข");choose_table_cell(0, 1);insert_text("หมายเหตุ")
+align_slide_top();
+
+insert_picture("tower");align_top_right_corner();
+choose_title();insert_text("The Ultimate Heist");
+insert_rectangle();set_top("rectangle", "title");
+choose_title();set_font_color("dark green");set_font_size(28);
+set_font_style("Microsoft New Tai Lue");
+set_background_color("light blue");
+
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("Task");choose_table_cell(0, 1);insert_text("Priority");choose_table_cell(0, 2);insert_text("Start Time");choose_table_cell(0, 3);insert_text("End Time");choose_table_cell(1, 0);insert_text("Project Planning");choose_table_cell(1, 1);insert_text("High");choose_table_cell(1, 2);insert_text("9:00 AM");choose_table_cell(1, 3);insert_text("10:30 AM")
+choose_content();insert_text("การบริหารเวลาอย่างมีประสิทธิภาพเป็นทักษะสำคัญสำหรับความสำเร็จทั้งในด้านส่วนตัวและด้านอาชีพ");
+set_font_italic();
+choose_table();set_bottom("table","content");
+insert_picture("clock");
+insert_note("ผู้นำเสนอ: Eva");
+
+create_slide();choose_title();insert_text("Company Profile");
+choose_content();insert_text("บริษัทของเราก่อตั้งขึ้นในปี 2548 โดยมีเป้าหมายในการจัดหาผลิตภัณฑ์และบริการคุณภาพสูงแก่ลูกค้าของเรา ตั้งแต่นั้นมา เราได้เติบโตเป็นผู้ให้บริการโซลูชั่นนวัตกรรมชั้นนำสำหรับอุตสาหกรรมที่หลากหลาย ทีมผู้เชี่ยวชาญของเรามุ่งมั่นที่จะมอบความเป็นเลิศในทุกสิ่งที่เราทำ");
+choose_title();set_font_style("Calibri Light");set_font_size(40);
+insert_picture("company_logo");align_slide_right();
+set_height(2);set_width(3);align_slide_left();
+align_bottom_left_corner();
+create_slide();set_background_color("blue");
+choose_content();insert_text("เพื่อเป็นผู้นำด้านนวัตกรรมและความยั่งยืน ส่งมอบคุณค่าแก่ผู้มีส่วนได้ส่วนเสียของเรา และสร้างผลกระทบเชิงบวกต่อโลก");
+set_font_underline();set_line_space(2);
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("A-72");choose_table_cell(0, 1);insert_text("C-71")
+insert_table(1, 2);insert_table_row(["B-72", "D-71"])
+
+create_slide();choose_title();insert_text("ข้อมูลการขาย");
+insert_table(15, 6);
+choose_table();choose_table_cell(0, 0);insert_text("ผลิตภัณฑ์");choose_table_cell(0, 1);insert_text("ยอดขายเดือนมกราคม");choose_table_cell(0, 2);insert_text("ยอดขายเดือนกุมภาพันธ์");choose_table_cell(0, 3);insert_text("ยอดขายเดือนมีนาคม");choose_table_cell(0, 4);insert_text("ยอดขายรวม");choose_table_cell(0, 5);insert_text("ยอดขายเฉลี่ย");choose_table_cell(1, 0);insert_text("iPhone");choose_table_cell(1, 1);insert_text("22");choose_table_cell(1, 2);insert_text("13");choose_table_cell(1, 3);insert_text("15");choose_table_cell(1, 4);insert_text("17");choose_table_cell(1, 5);insert_text("12")
+align_top_left_corner();
+insert_note("แหล่งข้อมูล: ฝ่ายขาย");
+create_slide();choose_content();insert_table(15, 6);insert_table_row(["Product", "January Sales", "February Sales", "March Sales", "Total Sales", "Average Sales"]);insert_table_row(["iPhone", "22", "13", "15", "17", "12"])
+
+choose_title();insert_text("กลยุทธ์ทางการตลาด");
+set_font_style("Arial Black");
+choose_content();insert_text("Search Engine Optimization (SEO)");insert_text(", ");insert_text(", ");insert_text(" และ ");
+set_font_color("dark blue");
+set_font_color("green");
+insert_picture("thumb");set_width(5);set_bottom("picture", "content");
+
+choose_title();insert_text("The Grand Canyon");set_font_italic();
+set_font_size(30);
+set_font_style("Times New Roman");
+insert_picture("GrandCanyon");
+set_right("picture","title");
+set_height(4);set_width(6);
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("Guangdong");choose_table_cell(0, 1);insert_text("Beijing");choose_table_cell(0, 2);insert_text("Shanghai");choose_table_cell(0, 3);insert_text("Hainan");choose_table_cell(1, 0);insert_text("34%");choose_table_cell(1, 1);insert_text("36%");choose_table_cell(1, 2);insert_text("20%");choose_table_cell(1, 3);insert_text("10%")
+insert_pie_chart([34, 36, 20, 10], ["กวางตุ้ง", "ปักกิ่ง", "เซี่ยงไฮ้", "ไหหลำ"]);
+choose_chart();set_bottom("chart", "table");
+insert_bar_chart([34, 36, 20, 10],["Guangdong","Beijing", "Shanghai", "Hainan"]);
+insert_note("แหล่งรูปภาพ: กรมอุทยานฯ");
+
+create_slide();choose_title();insert_text("การเปรียบเทียบผลิตภัณฑ์");
+insert_table(5, 2);choose_table_cell(0, 0);insert_text("สมาร์ทโฟน (Apple iPhone 13)");choose_table_cell(0, 1);insert_text("แล็ปท็อป (Dell XPS 13)");choose_table_cell(1, 0);insert_text("สมาร์ทวอทช์ (Apple Watch Series 7)");choose_table_cell(1, 1);insert_text("หูฟัง (Sony WH-1000XM4)");choose_table_cell(2, 0);insert_text("กล้อง (Canon EOS R5)");choose_table_cell(2, 1);insert_text("โทรทัศน์ (Samsung QLED Q90T)");choose_table_cell(3, 0);insert_text("เกมคอนโซล (PlayStation 5)");choose_table_cell(3, 1);insert_text("ตัวติดตามฟิตเนส (Fitbit Charge 4)");choose_table_cell(4, 0);insert_text("หูฟังไร้สาย (AirPods Pro)");choose_table_cell(4, 1);insert_text("แท็บเล็ต (iPad Pro)")
+choose_title();align_bottom_right_corner();
+set_background_color("light blue");
+
+create_slide();choose_title();insert_text("รายงานการขายประจำเดือน");
+choose_content();insert_bar_chart([10000, 12000, 15000, 18000, 20000, 25000, 28000, 30000, 32000, 35000, 40000, 45000], series=["มกราคม", "กุมภาพันธ์", "มีนาคม", "เมษายน", "พฤษภาคม", "มิถุนายน", "กรกฎาคม", "สิงหาคม", "กันยายน", "ตุลาคม", "พฤศจิกายน", "ธันวาคม"]);
+set_chart_title("My Monthly Sales in 2023");
+align_slide_top();
+choose_content();insert_text("รายงานยอดขายรายเดือนแสดงให้เห็นถึงรายได้ที่เพิ่มขึ้นอย่างมาก");
+insert_note("นำเสนอโดย: xxx");
+
+set_background_color("light red");insert_picture("strawberry");
+create_slide();choose_title();insert_text("ขอบเขตโครงการ");create_slide();choose_title();insert_text("ลำดับเวลาโครงการ");create_slide();choose_title();insert_text("งบประมาณโครงการ");
+move_to_slide(1);set_background_color("light green");move_to_slide(2);set_background_color("light blue");move_to_slide(3);set_background_color("purple");
+move_to_slide(1);choose_content();insert_text("โครงการของเราเกี่ยวข้องกับการพัฒนาแอปพลิเคชันซอฟต์แวร์ใหม่สำหรับลูกค้าของเรา แอปพลิเคชันจะปรับปรุงกระบวนการทางธุรกิจของพวกเขาและปรับปรุงผลกำไรของพวกเขา");
+move_to_slide(2);insert_table(2, 6);choose_table();choose_table_cell(0, 0);insert_text("เดือน");choose_table_cell(0, 1);insert_text("งาน");choose_table_cell(0, 2);insert_text("วันที่เริ่มต้น");choose_table_cell(0, 3);insert_text("วันที่สิ้นสุด");choose_table_cell(0, 4);insert_text("ความคืบหน้า");choose_table_cell(0, 5);insert_text("ความคิดเห็น")
+insert_line_chart([10, 12, 15, 11], ["2016", "2017", "2018", "2019"]);set_left("chart","table");
+insert_star();align_top_right_corner();
+move_to_slide(2);choose_title();set_font_underline();
+move_to_slide(3);choose_content();insert_text("ค่าใช้จ่ายด้านบุคลากร: ซึ่งรวมถึงค่าใช้จ่ายที่เกี่ยวข้องกับสมาชิกในทีมโครงการ เช่น เงินเดือน ค่าจ้าง สวัสดิการ และค่าใช้จ่ายในการฝึกอบรม");
+choose_content();set_font_style("Arial");
+insert_note("ขอบคุณ!");
+
+choose_title();insert_text("ไทม์ไลน์ของบริษัท");
+insert_rectangle();rotate_element(45);
+align_bottom_right_corner();
+set_background_color("light blue");
+insert_table(2, 4);choose_table_cell(0, 0);insert_text("1980");choose_table_cell(0, 1);insert_text("1990");choose_table_cell(0, 2);insert_text("2000");choose_table_cell(0, 3);insert_text("2010")
+choose_table();choose_table_cell(1, 0);insert_text("ก่อตั้งบริษัท");choose_table_cell(1, 1);insert_text("บริษัทย้ายไปที่อาคารใหม่");choose_table_cell(1, 2);insert_text("บริษัทเปิดสู่สาธารณะ");choose_table_cell(1, 3);insert_text("บริษัทถูกซื้อกิจการโดยคู่แข่ง")
+
+insert_picture("google_logo");align_slide_bottom();
+choose_title();insert_text("บทสรุป");set_font_italic();
+choose_content();insert_text("เรากำลังเป็นหนึ่งเดียวมากขึ้น ประชากรทั่วโลก – ผสมอย่างอิสระ นั่นจะสร้างโลกของลูกผสม – ผิวสีน้ำตาลอ่อน ผมสีเข้ม แอฟโฟร-ยูโร-ออสเตรเลีย-อเมริกา-เอเชีย สีผิวและใบหน้าที่พุ่ง ไปสู่ค่าเฉลี่ยทั่วโลก");
+text_align_right();
+insert_rectangle();set_height(5);
+align_slide_bottom();
+
+create_slide();choose_title();insert_text("Ethical Literary Criticism");set_font_bold();
+set_font_color("blue");
+choose_content();insert_text("วิธีการวิจารณ์วรรณกรรมเชิงจริยธรรมเป็นวิธีการวิจารณ์วรรณกรรมแบบใหม่ที่ศาสตราจารย์ Nie Zhenzhao แห่ง Central China Normal University เสนอขึ้น หลังจากการตรวจสอบเปรียบเทียบ การผสมผสานอย่างละเอียด และการทบทวนประวัติศาสตร์และสถานการณ์ปัจจุบันของการวิจารณ์วรรณกรรมจีนและตะวันตก ทฤษฎีและวิธีการ");
+insert_picture("book_cover");
+align_slide_left();
+insert_rectangle();align_slide_right();
+set_background_color("light yellow");
+
+create_slide();choose_title();insert_text("Jane Eyre by Charlotte Bronte");set_font_italic();
+choose_content();insert_text("ในตอนจบที่ดูเหมือนจะมีความสุข ชาร์ลอตต์ใช้มรดกและไฟในการสร้างโครงเรื่อง");set_font_bold();
+set_font_color("dark red");set_font_style("Arial");
+insert_right_arrow();set_right("right_arrow", "content");
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("หมวดหมู่");choose_table_cell(0, 1);insert_text("ข้อมูล");choose_table_cell(1, 0);insert_text("ปีที่พิมพ์");choose_table_cell(1, 1);insert_text("พ.ศ. 2390")
+insert_picture("Charlotte_Bronte's_portrait");set_bottom("picture", "table");
+set_top("picture", "table");
+
+set_background_color("blue");
+choose_title();insert_text("Id in David Copperfield");set_font_italic();
+choose_content();insert_text("Id เป็นแรงกระตุ้นตามสัญชาตญาณของสัตว์ชนิดหนึ่ง มันสับสนโดยปราศจากเหตุผล และมันแสวงหาความพึงพอใจอย่างสุ่มสี่สุ่มห้าและสะสมโอกาสในการฝ่าฝืน 1. Id ไม่สนใจศีลธรรมทางสังคมหรือมาตรฐานพฤติกรรมภายนอก รหัสเป็นที่สำหรับเก็บสัญชาตญาณ");
+insert_picture("book");set_top("book","content");
+set_height(5);set_width(6);
+insert_star();set_right("star","picture");
+choose_content();insert_bullet_point("");
+
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("สถานที่ตั้ง เมืองต่างๆ ทั่วโลก");choose_table_cell(1, 0);insert_text("เชื้อชาติ ชุมชนและวัฒนธรรมจีน");choose_table_cell(2, 0);insert_text("คุณลักษณะ สถาปัตยกรรมจีน ธุรกิจ อาหาร การเฉลิมฉลองทางวัฒนธรรม")
+choose_title();insert_text("ไชน่าทาวน์");set_font_bold();
+insert_pie_chart([40, 30, 30], ["Chinese Restaurants", "Chinese Retail Shops", "Festivals and Culture"]);
+insert_picture("China_town");
+align_slide_bottom();
+insert_star();align_slide_right();
+insert_note("ไชน่าทาวน์");
+
+create_slide();set_background_color("green");
+choose_title();insert_text("สตรีนิยม");set_font_color("green");
+choose_content();insert_text("สตรีนิยม คือความเชื่อและจุดมุ่งหมายว่าผู้หญิงควรมีสิทธิ อำนาจ และโอกาสเท่าเทียมกับผู้ชาย");
+set_font_color("yellow");set_font_italic();
+
+choose_title();insert_text("คลื่นลูกที่ 3 ของขบวนการสตรีนิยม");set_font_bold();
+set_font_style("Times New Roman");set_font_color("blue");set_font_size(28);
+choose_content();insert_text("เน้นความเชื่อทางศาสนาหลายเชื้อชาติ ประเพณีชาติพันธุ์ วัฒนธรรมหลากหลาย การปกป้องสิ่งแวดล้อม บริโภคนิยม ความหลากหลาย");
+insert_picture("female_portrait");set_top("picture","content");
+
+create_slide();choose_title();insert_text("ภาพยนตร์ดัดแปลงจาก Pride and Prejudice");
+set_font_size(24);set_font_italic();
+choose_content();insert_text("สิบสี่ปีหลังจากการออกอากาศครั้งแรก ผู้เขียนบทของ แอนดรูว์ เดวีส์ ที่ดัดแปลงจากนวนิยายเรื่อง Pride and Prejudice ของเจน ออสเตนในปี 1995 ยังคงเป็นเกณฑ์มาตรฐานเมื่อเทียบกับการดัดแปลงของออสเตนซึ่งนิยมวัดกัน การดัดแปลงนี้เน้นย้ำให้เห็นถึงความรู้สึกอ่อนไหวสมัยใหม่และความคาดหวังในละครร่วมสมัยอย่างเห็นได้ชัด ทางเลือกในการตีความของ Davies ให้ความสำคัญกับความเย้ายวนใจและมุ่งความสนใจไปที่ความปรารถนาของ Darcy ");
+insert_bullet_point("");
+set_font_size(20);set_line_space(2);
+insert_picture("web_image");
+insert_rectangle();align_top_right_corner();
+set_background_color("light orange");
+
+insert_table(3, 2);
+choose_table();choose_table_cell(0, 0);insert_text("สถานที่");choose_table_cell(1, 0);insert_text("เชื้อชาติ")
+choose_content();insert_text("เอลิซาเบธ เบนเน็ตและมิสเตอร์ดาร์ซีผ่านการพัฒนาตัวละครที่สำคัญตลอดทั้งเรื่อง โดยได้เรียนรู้บทเรียนสำคัญเกี่ยวกับตัวเองและสังคม");
+insert_picture("Elizabeth_Bennet_and_Mr. Darcy");set_bottom("picture", "table");
+align_slide_right();
+insert_rectangle();align_top_left_corner();
+create_slide();choose_title();insert_text("บทบาทของชนชั้นทางสังคมในความเย่อหยิ่งและอคติ");set_font_underline();
+choose_content();insert_text("ชนชั้นทางสังคมมีบทบาทสำคัญในนวนิยาย มีอิทธิพลต่อความสัมพันธ์ การตัดสินใจ และการรับรู้ตนเองของตัวละคร");
+insert_circle();align_bottom_right_corner();set_fill_color("orange");
+set_background_color("orange");
+
+create_slide();choose_title();insert_text("รูปร่าง");
+insert_rectangle();set_fill_color("red");align_slide_left();
+insert_circle();set_fill_color("blue");align_slide_right();
+insert_triangle();set_fill_color("green");align_slide_left();
+insert_callout();set_fill_color("yellow");align_slide_right();
+
+insert_picture("19th-century_marriage_scene");align_slide_right();
+insert_triangle();set_right("triangle", "picture");
+choose_title();insert_text("การแต่งงานในศตวรรษที่ 19");
+set_font_italic();set_font_bold();
+
+insert_pie_chart([30, 25, 15, 10, 10, 10], ["วานิลลา", "ช็อกโกแลต", "สตรอเบอร์รี่", "มิ้นต์ช็อกโกแลตชิพ", "คุกกี้และครีม", "เนยถั่วพีแคน"]);
+insert_picture("strawberry");set_bottom("picture", "chart");
+choose_content();insert_text("ค่าใช้จ่ายเพิ่มขึ้นอย่างมากในไตรมาสที่แล้วเนื่องจากต้นทุนการดำเนินงานที่สูงขึ้นและการลงทุนที่เพิ่มขึ้นในโครงการริเริ่มทางการตลาด");
+set_font_style("Times New Roman");set_font_size(18);
+
+create_slide();choose_title();insert_text("การทำ PPT");insert_note("การทำ PPT");
+choose_content();insert_text("การสร้างงานนำเสนอ PowerPoint ที่น่าสนใจและส่งผลกระทบต้องมีการวางแผนและดำเนินการอย่างรอบคอบ ");
+choose_content();set_font_underline();set_font_color("dark red");
+choose_title();set_font_bold();set_font_italic();
+insert_note("PPT");
+
+create_slide();choose_title();insert_text("โครงข่ายประสาทเทียม");
+choose_content();insert_bullet_point("Neural networks are a type of machine learning algorithm that are modeled after the structure of the human brain. They consist of layers of interconnected nodes that process information and learn to recognize patterns.");
+choose_title();set_font_color("red");
+insert_picture("neural_network_architecture");
+insert_cloud();set_right("cloud","picture");
+set_background_color("yellow");
+
+create_slide();insert_cloud();set_fill_color("red");align_slide_right();
+choose_content();insert_text("ให้ประเด็นที่ชัดเจน");
+choose_title();set_font_color("orange");create_slide();choose_title();insert_text("การประมวลผลข้อมูลล่วงหน้า");
+set_background_color("red");
+
+create_slide();choose_title();insert_text("เทียบโอนการเรียนรู้");
+set_font_size(28);set_font_bold();choose_content();set_font_size(28);
+set_font_style("Times New Roman");set_font_color("red");
+set_background_color("red");
+choose_content();insert_text("การเรียนรู้การเสริมแรงเป็นประเภทของการเรียนรู้ของเครื่องซึ่งอัลกอริทึมเรียนรู้ผ่านการลองผิดลองถูก มักใช้เพื่อสอนเครื่องจักรถึงวิธีการตัดสินใจในสภาพแวดล้อมที่ซับซ้อน");
+
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("Model Name");choose_table_cell(0, 1);insert_text("ChatGPT");choose_table_cell(1, 0);insert_text("Architecture");choose_table_cell(1, 1);insert_text("GPT (Generative Pre-trained Transformer)");choose_table_cell(2, 0);insert_text("ขนาดข้อมูลการฝึกอบรม");choose_table_cell(2, 1);insert_text("ข้อมูลข้อความที่หลากหลายหลายเทราไบต์")
+choose_title();insert_text("GPT");set_font_bold();
+choose_content();insert_text("Generative Pre-trained Transformer 3 (GPT-3) เป็นโมเดลภาษา autoregressive ที่เปิดตัวในปี 2020 ซึ่งใช้การเรียนรู้เชิงลึกเพื่อสร้างข้อความที่เหมือนมนุษย์");
+set_font_underline();set_font_color("dark red");choose_title();set_font_color("dark red");
+insert_picture("gpt-3_architecture");set_right("picture","content");
+
+create_slide();choose_title();insert_text("Wuthering Height");set_font_italic();
+choose_content();insert_text("เรื่องราวนี้เล่าโดย Lockwood บุคคลที่ไม่สนใจ ซึ่งการเล่าเรื่องทำหน้าที่เป็นโครงสำหรับชุดเรื่องเล่าสั้นๆ แบบย้อนหลังโดย Ellen Dean แม่บ้าน");set_font_bold();
+set_font_color("red");choose_title();set_font_color("red");
+insert_right_arrow();
+set_width(6);set_height(4);
+create_slide();insert_cloud();
+insert_picture("wuthering_height_bookcover");
+choose_content();insert_text("Wuthering Heights นวนิยายโดย Emily Brontë ตีพิมพ์ในปี 1847 ภายใต้นามแฝง Ellis Bell");
+set_font_style("Times New Roman");set_font_size(18);
+insert_table(1, 2);choose_table_cell(0, 0);insert_text("หมวดหมู่");choose_table_cell(0, 1);insert_text("ข้อมูล")
+insert_note("Microsoft");
+
+create_slide();choose_title();insert_text("Pride and Prejudice by Jane Austen");
+choose_content();insert_text("นวนิยายเรื่องนี้สำรวจประเด็นความรัก การแต่งงาน และความคาดหวังทางสังคมในหมู่ผู้ดีอังกฤษ");set_font_bold();set_font_underline();
+insert_right_arrow();set_left("right_arrow", "content");
+set_fill_color("light orange");choose_content();set_font_color("dark green");
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("หมวดหมู่");choose_table_cell(0, 1);insert_text("ข้อมูล");choose_table_cell(1, 0);insert_text("ผู้แต่ง");choose_table_cell(1, 1);insert_text("Jane Austen")
+insert_picture("jane_austen_portrait");
+set_height(6);align_top_right_corner();
+
+create_slide();choose_title();insert_text("Sirsa's life journey");set_font_bold();
+set_font_size(24);
+insert_table(4, 3);choose_table();choose_table_cell(0, 0);insert_text("วัยเด็ก");choose_table_cell(0, 1);insert_text("0-10 ปี");choose_table_cell(0, 2);insert_text("โรงเรียน");choose_table_cell(1, 0);insert_text("วัยรุ่น");choose_table_cell(1, 1);insert_text("11-18 ปี");choose_table_cell(1, 2);insert_text("โรงเรียนมัธยม")
+insert_picture("school");
+set_left("picture","table");
+
+create_slide();choose_title();insert_text("สำรวจจักรวาล");set_font_underline();
+insert_picture("galaxy");
+choose_content();insert_bullet_point("Stars");insert_bullet_point("Planets");insert_bullet_point("Nebulae");insert_bullet_point("Black Holes");insert_bullet_point("Dark Matter");
+set_font_bold();set_font_italic();
+set_font_color("dark red");
+insert_pie_chart([35, 25, 40], ["สอนสร้าง", "สนามกีฬา", "สนามเด็กเล่น"]);
+align_slide_top();
+insert_line_chart([20, 30, 40, 10], ["Year 1", "Year 2", "Year 3", "Year 4"]);
+insert_bar_chart([20, 30, 40, 10], ["1st year", "2nd year", "3rd year", "4th year"]);
+set_background_color("blue");
+
+create_slide();choose_title();insert_text("บทนำ");
+choose_content();insert_text("ในบทความนี้ เราจะสำรวจว่าการใช้วิธีเสริมหลายๆ วิธีในช่วงเวลาที่นานขึ้นทำให้เกิดทั้งศักยภาพและข้อผิดพลาด ตลอดจนความซับซ้อนและความไม่แน่นอนได้อย่างไร");
+set_font_color("red");
+set_font_size(20);
+set_background_color("light blue");choose_content();set_font_size(40);
+
+choose_content();insert_text("นันยางเป็นเมืองประวัติศาสตร์และวัฒนธรรมของชาติที่มีมรดกทางประวัติศาสตร์ที่ลึกซึ้งและการสะสมทางวัฒนธรรมที่หลากหลาย");
+insert_bullet_point("");
+set_font_size(18);set_font_italic();set_font_style("Arial");
+choose_title();insert_text("เมืองของฉัน - หนานจิง");
+insert_picture("Nanjing");align_slide_right();
+create_slide();choose_title();insert_text("แคตตาล็อก");insert_note("แคตตาล็อก");
+set_font_italic();set_font_size(24);
+choose_content();insert_text("แคตตาล็อกทำหน้าที่เป็นแหล่งข้อมูลที่ครอบคลุมและดึงดูดสายตา แสดงผลิตภัณฑ์หรือบริการที่หลากหลาย");
+set_font_color("green");set_background_color("dark blue");
+insert_table(3, 2);choose_table_cell(0, 0);insert_text("สินค้า");choose_table_cell(0, 1);insert_text("ราคา");choose_table_cell(1, 0);insert_text("เสื้อเชิ้ต");choose_table_cell(1, 1);insert_text("$29.99");choose_table_cell(2, 0);insert_text("ชุดเดรส");choose_table_cell(2, 1);insert_text("$59.99")
+insert_pie_chart([40, 30, 30], ["เสื้อ", "ชุด", "กางเกง"]);
+insert_line_chart([40, 30, 30], ["shirt", "dress", "pants"]);
+insert_bar_chart([40, 30, 30], ["shirt", "dress", "pants"]);
+
+choose_title();insert_text("สนุกกับชีวิตที่มีความสุข");
+insert_star();set_top("star","title");
+set_font_style("Arial Black");
+choose_content();insert_text("การมีความสุขกับชีวิตที่มีความสุขเกี่ยวข้องกับการค้นหาความสุขในช่วงเวลาเล็กๆ การรักษาความสัมพันธ์ที่มีความหมาย การไล่ตามความปรารถนา การรักษาสมดุลระหว่างชีวิตการทำงานและการดูแลตนเอง");set_line_space(2);
+insert_picture("happy_person");align_top_right_corner();
+set_height(4);set_width(5);align_bottom_left_corner();
+
+choose_table();insert_table(5, 1);choose_table_cell(0, 0);insert_text("วิ่งมาราธอนเสร็จ");choose_table_cell(1, 0);insert_text("จัดพิมพ์เล่มแรก");choose_table_cell(2, 0);insert_text("เลื่อนตำแหน่งเป็นผู้จัดการ");choose_table_cell(3, 0);insert_text("จิตอาสากว่า 100 ชั่วโมง");choose_table_cell(4, 0);insert_text("เริ่มต้นธุรกิจที่ประสบความสำเร็จ");
+choose_title();insert_text("ความสำเร็จที่ยิ่งใหญ่ของฉันในปี 2023");
+choose_content();insert_text("ในปี 2023 ฉันบรรลุเหตุการณ์สำคัญที่น่าทึ่งซึ่งเกินความคาดหมายของฉัน ตั้งแต่การวิ่งมาราธอนจนเสร็จ การจัดพิมพ์หนังสือเล่มแรกของฉันและการได้เลื่อนตำแหน่ง ความสำเร็จเหล่านี้เป็นแรงผลักดันให้ฉันเติบโตต่อไปและเป็นแรงบันดาลใจให้ฉันไปให้ถึง ความสูงมากขึ้น");
+insert_picture("book");align_slide_top();
+insert_pie_chart([30, 25, 45], ["วิ่งมาราธอน", "จอง", "อาสาสมัคร"]);
+insert_rectangle();set_left("rectangle","chart");
+insert_note("2023");
+
+choose_title();insert_text("จริยธรรมวรรณกรรมวิจารณ์");
+set_font_bold();set_font_color("blue");align_slide_bottom();
+insert_picture("mountain_landscape");align_slide_right();
+choose_content();insert_text("วิธีการวิจารณ์วรรณกรรมเชิงจริยธรรมเป็นวิธีการใหม่ที่เสนอโดยศาสตราจารย์ Nie Zhenzhao จาก Central China Normal University");
+set_font_underline();set_font_style("Times New Roman");set_font_size(24);set_line_space(2);
+set_font_color("dark blue");
+insert_rectangle();align_slide_left();
+set_fill_color("green");insert_text("สีเขียว");
+align_top_right_corner();
+insert_right_arrow();set_right("right_arrow","content");
+
+create_slide();choose_title();insert_text("สมาชิกในทีม");
+insert_picture("team_member");align_slide_bottom();
+set_width(6.5);
+insert_note("สมาชิกในทีม");choose_title();set_font_bold();
+
+create_slide();choose_title();insert_text("ประสิทธิภาพการขาย");
+set_font_color("blue");set_font_size(24);set_font_underline();set_background_color("green");
+choose_content();insert_text("ประสิทธิภาพการขายเป็นตัวบ่งชี้ที่สำคัญของความสำเร็จของบริษัทในการสร้างรายได้ ซึ่งสะท้อนถึงประสิทธิภาพของทีมขายและความต้องการของตลาดโดยรวมสำหรับผลิตภัณฑ์หรือบริการ");
+set_font_color("dark red");set_font_size(18);
+insert_table(3, 5);choose_table_cell(1, 1);insert_text("ปี");choose_table_cell(1, 2);insert_text("หนึ่งในสี่");choose_table_cell(1, 3);insert_text("รายได้");choose_table_cell(2, 1);insert_text("2018");choose_table_cell(2, 2);insert_text("ไตรมาสที่ 1");choose_table_cell(2, 3);insert_text("500,000 ดอลลาร์");
+set_font_size(18);
+
+create_slide();choose_title();insert_text("รายงานการขาย");
+insert_line_chart(["Product A","Product B","Product C"], ["สินค้า A", "สินค้า B", "สินค้า C"]);
+set_chart_title("Revenue Trend");
+insert_picture("T-shirt");insert_textbox();insert_text("เสื้อยืด");
+insert_star();set_right("star","picture");
+create_slide();choose_title();insert_text("โครงสร้างองค์กร");
+insert_table(4,2);choose_table_cell(0,0);insert_text("ผู้บริหารสูงสุด");choose_table_cell(0,1);insert_text("จอห์นสมิ ธ");choose_table_cell(1,0);insert_text("ซีเอฟโอ");choose_table_cell(1,1);insert_text("เจน โด");choose_table_cell(2,0);insert_text("ซีโอโอ");choose_table_cell(2,1);insert_text("ทอม โจนส์");choose_table_cell(3,0);insert_text("ซีเอ็มโอ");choose_table_cell(3,1);insert_text("ซาราห์ ลี");
+choose_title();set_font_underline();move_to_previous_slide();choose_title();set_font_underline();
+set_font_size(20);set_font_color("purple");
+insert_note("โครงสร้างองค์กร");
+set_background_color("green");
+
+create_slide();choose_title();insert_text("บทนำ");
+choose_content();insert_text("ขอบคุณที่มาร่วมงานกับเราในวันนี้ เราตื่นเต้นที่จะได้");
+insert_text("มีคุณอยู่ที่นี่และหวังว่าจะได้แบ่งปันข่าวสารที่น่าตื่นเต้นกับคุณ");
+set_font_style("Times New Roman");set_font_size(20);
+insert_picture("landscape");set_height(3);set_width(5);
+insert_triangle();insert_rectangle();set_right("rectangle","triangle");
+set_background_color("purple");insert_note("2023");
+
+choose_title();insert_text("Product Launch");set_font_bold();set_font_color("red");
+insert_picture("computer");
+set_height(2);set_width(2);
+choose_content();insert_text("ผลิตภัณฑ์ใหม่ของเราคืออุปกรณ์พกพาล้ำสมัยที่ผสมผสานเทคโนโลยีล่าสุดเข้ากับการออกแบบที่ทันสมัยและใช้งานง่าย");
+set_font_bold();set_font_color("red");
+create_slide();choose_title();insert_text("คุณสมบัติผลิตภัณฑ์");
+insert_table(2, 5);choose_table_cell(0, 0);insert_text("คุณสมบัติ");choose_table_cell(0, 1);insert_text("คำอธิบาย");
+insert_bar_chart([0.25,0.50,0.25], ["ผลิตภัณฑ์ A", "ผลิตภัณฑ์ B", "ผลิตภัณฑ์ C"]);
+set_chart_title("Feature Importance");
+set_background_color("light blue");insert_note("ความสำคัญของคุณสมบัติ");
+
+create_slide();choose_title();insert_text("ผลประกอบการรายไตรมาส");
+set_font_style("Arial");
+choose_content();insert_text("บริษัทของเรามีรายได้ 1.5 ล้านดอลลาร์และกำไร 500,000 ดอลลาร์ในไตรมาสนี้");
+set_font_bold();set_font_underline();
+insert_table(4, 5);
+choose_table();choose_table_cell(0, 0);insert_text("เดือน");choose_table_cell(0, 1);insert_text("รายรับ");choose_table_cell(0, 2);insert_text("ค่าใช้จ่าย");choose_table_cell(0, 3);insert_text("กำไร")
+insert_bar_chart([50, 60, 55, 70], ["ไตรมาสที่ 1 ปี 2022", "ไตรมาสที่ 2 ปี 2022", "ไตรมาสที่ 3 ปี 2022", "ไตรมาสที่ 4 ปี 2022"]);
+set_chart_title("Quarterly Financial Results in 2022");
+set_background_color("red");
+create_slide();choose_title();insert_text("การวิเคราะห์ทางการเงิน");
+insert_picture("company_logo");
+choose_content();insert_text("ขอบคุณที่ให้ความสนใจ!");set_font_underline();set_font_italic();set_font_size(26);
+
+create_slide();choose_title();insert_text("ข้อมูลการขาย");
+insert_bar_chart([500000, 400000, 600000, 450000], series=["ภูมิภาค A", "ภูมิภาค B", "ภูมิภาค C", "ภูมิภาค D"]);
+set_chart_title("Regional Sales");
+choose_title();set_font_underline();insert_note("แหล่งข้อมูล: รายงานการขายปี 2023");
+
+create_slide();choose_title();insert_text("แบบสำรวจลูกค้า");
+insert_pie_chart([0.4, 0.3, 0.2, 0.05, 0.05], ["พอใจมาก", "พอใจ", "เป็นกลาง", "ไม่พอใจ", "ไม่พอใจมาก"]);
+align_slide_bottom();
+insert_picture("questionnaire");align_slide_top();
+insert_note("2023/5");
+
+choose_title();insert_text("เสน่ห์ของภาษาศาสตร์");set_background_color("light blue");
+choose_title();set_font_style("Arial");set_font_color("red");set_font_size(36);
+insert_text("ภาษาศาสตร์คือการศึกษาทางวิทยาศาสตร์เกี่ยวกับภาษาและโครงสร้างของภาษา โดยสำรวจความซับซ้อนของการสื่อสารของมนุษย์ ตั้งแต่สัทศาสตร์และวากยสัมพันธ์ไปจนถึงความหมายและปริยัติศาสตร์");
+set_font_style("Verdana");set_font_color("yellow");set_font_size(18);set_line_space(2);
+create_slide();choose_title();insert_text("สาขาวิชาภาษาศาสตร์");
+insert_table(3, 4);
+choose_table_cell(0, 0);insert_text("สาขาภาษาศาสตร์");choose_table_cell(0, 1);insert_text("คำอธิบาย");choose_table_cell(0, 2);insert_text("ตัวอย่าง");choose_table_cell(1, 0);insert_text("สัทศาสตร์");choose_table_cell(1, 1);insert_text("การศึกษาเสียงพูด");choose_table_cell(1, 2);insert_text("สัทศาสตร์แบบประกบ, สัทศาสตร์อะคูสติก, สัทศาสตร์การได้ยิน")
+insert_picture("book_about_linguistics");align_slide_bottom();
+set_height(6);set_width(5);
+move_to_slide(0);set_background_color("purple");move_to_slide(1);set_background_color("purple");
+
+set_background_color("light green");choose_title();insert_text("ตระกูลภาษา");
+set_font_bold();set_font_italic();
+insert_bar_chart([445, 1526,1290, 452], ["อินโด-ยูโรเปียน", "ไนเจอร์-คองโก", "ออสโตรนีเซียน", "จีน-ทิเบต"]);
+set_chart_title("Language familiy and its number of languages");
+create_slide();choose_title();insert_text("Language Acquisition");set_font_bold();set_font_italic();
+choose_content();insert_text("การได้มาซึ่งภาษาเป็นกระบวนการที่มนุษย์ได้รับความสามารถในการรับรู้ เข้าใจ และผลิตภาษา ซึ่งเกี่ยวข้องกับกลไกที่มีมาแต่กำเนิดและเรียนรู้ และได้รับอิทธิพลจากปัจจัยต่างๆ เช่น สภาพแวดล้อมและปฏิสัมพันธ์ทางสังคม");
+set_font_style("Times New Roman");set_font_color("red");set_font_size(22);
+set_font_underline();set_font_bold();choose_title();set_font_color("red");
+insert_picture("English book");
+insert_rectangle();align_slide_right();
+choose_picture();align_slide_top();
+
+create_slide();choose_title();insert_text("บทสรุป");
+choose_title();set_font_style("bold");set_font_style("underline");set_font_color("red");
+choose_content();insert_text(" ");
+set_font_style("Verdana");set_font_color("yellow");
+create_slide();set_background_color("purple");create_slide();set_background_color("purple");create_slide();set_background_color("purple");create_slide();set_background_color("purple");
+move_to_slide(1);choose_title();insert_text("ภาพรวมของนโยบายอสังหาริมทรัพย์ในประเทศจีน");insert_picture("China_map");
+move_to_slide(2);choose_title();insert_text("การเปลี่ยนแปลงล่าสุด");set_font_style("italic");set_font_style("Verdana");
+choose_content();insert_text("การเปลี่ยนแปลงล่าสุดในจีนได้เห็นการเติบโตทางเศรษฐกิจอย่างรวดเร็ว ความก้าวหน้าทางเทคโนโลยี และการเปลี่ยนแปลงทางสังคม ทำให้จีนกลายเป็นโรงไฟฟ้าระดับโลกและมีอิทธิพลต่อพลวัตของโลกในด้านต่างๆ");
+move_to_slide(3);choose_title();insert_text("ความพยายามในการควบคุมราคาที่อยู่อาศัย");insert_triangle();
+align_top_right_corner();
+move_to_slide(4);choose_title();insert_text("ความคิดริเริ่มเพื่อเพิ่มที่อยู่อาศัยราคาไม่แพง");set_font_color("red");
+choose_content();insert_text("ความคิดริเริ่มในการเพิ่มที่อยู่อาศัยราคาไม่แพงได้ถูกนำมาใช้แล้ว รวมถึงเงินอุดหนุนจากรัฐบาล กระบวนการอนุมัติที่คล่องตัว และความร่วมมือระหว่างภาครัฐและเอกชน โดยมีเป้าหมายเพื่อแก้ไขวิกฤตความสามารถในการซื้อที่อยู่อาศัยและรับประกันการเข้าถึงที่อยู่อาศัยที่เหมาะสมสำหรับทุกคน");set_font_underline();set_font_italic();
+choose_chart();insert_pie_chart([0.35, 0.25, 0.20, 0.10, 0.10], ["เงินอุดหนุนจากรัฐบาล", "กระบวนการอนุมัติที่คล่องตัว", "ความร่วมมือระหว่างภาครัฐและเอกชน", "นโยบายการใช้ที่ดิน", "โครงการช่วยเหลือด้านค่าเช่า"]);
+create_slide();choose_title();insert_text("ระเบียบผู้พัฒนาอสังหาริมทรัพย์");insert_note("ระเบียบผู้พัฒนาอสังหาริมทรัพย์");
+choose_content();insert_text("ในสไลด์นี้ ให้สรุปมาตรการที่สำคัญของจีนในการควบคุมผู้พัฒนาอสังหาริมทรัพย์และการดำเนินการของรัฐบาลเพื่อป้องกันการฉ้อโกงและส่งเสริมแนวทางการพัฒนาที่ยั่งยืน");
+choose_title();set_font_italic();choose_content();set_font_bold();
+move_to_slide(0);insert_note("ข้อมูลเกี่ยวกับประเทศจีน");move_to_slide(1);insert_note("ข้อมูลเกี่ยวกับประเทศจีน");move_to_slide(2);insert_note("ข้อมูลเกี่ยวกับประเทศจีน");move_to_slide(3);insert_note("ข้อมูลเกี่ยวกับประเทศจีน");move_to_slide(4);insert_note("ข้อมูลเกี่ยวกับประเทศจีน");move_to_slide(5);insert_note("ข้อมูลเกี่ยวกับประเทศจีน");
+
+move_to_slide(8);choose_title();insert_text("การพัฒนาอุปกรณ์การถ่ายภาพทางการแพทย์ชายแดน");choose_title();set_font_size(24);
+insert_line_chart([0.15, 0.12, 0.18, 0.20], ['Q1', 'Q2', 'Q3', 'Q4']);
+choose_chart();set_chart_title("Revenue Growth");
+insert_table(5, 2);choose_table_cell(0, 0);insert_text("คุณสมบัติ 1");choose_table_cell(0, 1);insert_text("ภาพความละเอียดสูง");
+set_background_color("light blue");
+insert_triangle();
+choose_content();insert_text("การพัฒนาอุปกรณ์สร้างภาพทางการแพทย์ในระดับแนวหน้ากำลังปฏิวัติการดูแลสุขภาพด้วยภาพที่มีความละเอียดสูง อัลกอริทึม AI ขั้นสูง การวิเคราะห์ข้อมูลแบบเรียลไทม์ ความสะดวกสบายของผู้ป่วยที่เพิ่มขึ้น");
+set_font_bold();set_line_space(2);set_font_underline();set_font_italic();
+insert_note("Mediacal Equipment");
+
+set_background_color("blue");insert_rectangle();
+create_slide();choose_title();insert_text("วิธีการและแนวทางในมานุษยวิทยา");set_font_size(20);
+choose_content();insert_text("มานุษยวิทยาเป็นสังคมศาสตร์ที่ศึกษาเกี่ยวกับพฤติกรรมของมนุษย์ วัฒนธรรม และสังคม โดยใช้วิธีการวิจัยที่หลากหลาย");set_line_space(2);
+insert_circle();align_slide_right();
+set_width(4);
+
+create_slide();choose_title();insert_text("ความสำคัญของการให้น้ำที่เหมาะสม");
+set_font_style("underline");set_font_style("italic");
+set_font_size(24);set_font_style("Arial");
+insert_picture("person_drinking_water");align_slide_right();
+set_width(6.5);insert_textbox();insert_text("ดื่มน้ำ");set_bottom("textbox", "picture");
+set_background_color("purple");create_slide();set_background_color("purple");
+insert_picture("folder");set_width(6.5);set_height(5.5);
+choose_title();insert_text("ประโยชน์ของการใช้ SmartArt");set_font_color("red");set_font_size(40);
+set_font_style("Arial");set_font_style("italic");
+
+choose_title();insert_text("สร้างแบรนด์ของคุณ");set_background_color("light green");
+choose_content();insert_text("การสร้างแบรนด์เป็นองค์ประกอบสำคัญของธุรกิจที่ประสบความสำเร็จ ตั้งค่ารูปแบบตัวอักษรเป็น ");set_font_style("Arial");set_font_size(14);
+insert_rectangle();align_slide_right();
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("Brand Identity");choose_table_cell(0, 1);insert_text("Brand Messaging");choose_table_cell(0, 2);insert_text("Brand Voice");choose_table_cell(0, 3);insert_text("Brand Strategy")
+choose_table();copy_table()
+choose_content();set_font_size(14);set_font_style("Times New Roman");
+
+create_slide();choose_title();insert_text("พื้นฐานของการสื่อสารที่มีประสิทธิภาพ");set_font_style("Times New Roman");
+choose_content();insert_text("ประเด็นสำคัญ");insert_text("คำอธิบาย");
+set_font_size(24);set_font_underline();set_font_bold();
+set_background_color("light orange");
+
+set_background_color("light blue");
+choose_title();insert_text("เทนเซ็นต์มีตติ้ง");choose_content();insert_text("เทนเซ็นต์มีตติ้ง");
+set_font_underline();set_font_color("dark red");
+choose_content();delete_text();insert_text("Tencent Meeting เป็นแพลตฟอร์มการประชุมทางวิดีโอที่ทรงพลังซึ่งช่วยให้การทำงานร่วมกันและการสื่อสารระหว่างทีมและรายบุคคลเป็นไปอย่างราบรื่น โดยนำเสนอฟีเจอร์มากมายสำหรับการประชุมเสมือนจริงที่มีประสิทธิภาพ รวมถึงการแชร์หน้าจอ การแชท และการบันทึก");
+set_font_bold();set_font_italic();choose_title();set_font_bold();set_font_italic();
+insert_picture("tencent_meeting");
+
+insert_table(2, 3);
+choose_table_cell(0, 0);insert_text("คุณสมบัติ");choose_table_cell(0, 1);insert_text("คำอธิบาย");choose_table_cell(0, 2);insert_text("ประโยชน์")
+insert_note("APP");set_background_color("purple");
+
+set_background_color("blue");choose_title();insert_text("การประเมินคุณภาพ");
+choose_content();insert_text("การประเมินคุณภาพเป็นกระบวนการสำคัญในการประเมินประสิทธิภาพและมาตรฐานของผลิตภัณฑ์หรือบริการ ซึ่งเกี่ยวข้องกับการวิเคราะห์ การวัด และการเปรียบเทียบอย่างถี่ถ้วนเพื่อให้แน่ใจว่าเป็นไปตามเกณฑ์มาตรฐานคุณภาพและการปรับปรุงอย่างต่อเนื่อง");
+insert_picture("checklist");
+set_left("picture","content");
+insert_pie_chart([0.40, 0.15, 0.25, 0.20], ["ยอดเยี่ยม", "ดี", "พอใช้", "แย่"]);
+set_chart_title("Quality Ratings Distribution");
+align_slide_bottom();
+create_slide();insert_pie_chart([0.40, 0.15, 0.25, 0.20], ["Excellent", "Good", "Fair", "Poor"]);set_chart_title("Quality Ratings Distribution");align_slide_bottom();
+
+create_slide();choose_title();insert_text("คู่มือการทำโครงงานให้เสร็จ");
+insert_right_arrow();align_top_right_corner();
+rotate_element(90);
+move_to_slide(0);choose_title();insert_text("Introduction");set_font_bold();move_to_slide(1);choose_title();set_font_bold();
+move_to_slide(0);insert_note("2022/6/10");
+set_background_color("light blue");insert_cloud();
+
+set_background_color("yellow");
+choose_content();insert_text("Trados Studio เป็นเครื่องมือช่วยแปลภาษา (CAT) ที่ทรงพลังที่พัฒนาโดย SDL โดยมีคุณสมบัติและฟังก์ชันการทำงานที่หลากหลายซึ่งปรับปรุงกระบวนการแปล รวมถึงหน่วยความจำการแปล การจัดการคำศัพท์ และเครื่องมือการจัดการโครงการ");set_line_space(2);
+insert_note("สร้างโดย Eva");choose_title();insert_text("Trados Studio");
+set_font_color("dark green");set_font_size(30);
+insert_picture("Trados_Studio_logo");align_slide_right();
+set_width(4);set_height(3);
+choose_picture();rotate_element(-15);
+set_background_color("purple");
+
+insert_table(2, 3);
+choose_table_cell(0, 0);insert_text("ปี");choose_table_cell(0, 1);insert_text("คำอธิบาย");choose_table_cell(0, 2);insert_text("การเปลี่ยนแปลง")
+choose_title();insert_text("การเปลี่ยนแปลงครั้งยิ่งใหญ่ในทศวรรษที่ผ่านมา");
+set_font_bold();set_font_italic();
+set_background_color("light blue");
+
+choose_title();insert_text("คุณควรพิจารณาศึกษาต่อต่างประเทศหรือไม่");set_font_bold();set_font_underline();
+insert_picture("students_studying_abroad");align_slide_bottom();
+set_width(5);set_height(3);
+set_background_color("purple");insert_note("คุณควรพิจารณาศึกษาต่อต่างประเทศหรือไม่");
+
+insert_bar_chart([0.45,0.35,0.20], ["นักแปลเต็มเวลา", "นักแปลอิสระ", "หน่วยงานแปล"]);
+set_chart_title("Trados Studio Usage Statistics");
+create_slide();choose_title();insert_text("ABBYY FineReader");
+set_font_bold();set_font_underline();set_font_size(30);
+choose_content();insert_text("ABBYY FineReader เป็นซอฟต์แวร์การรู้จำอักขระด้วยแสง (OCR) ที่ช่วยให้ผู้ใช้สามารถแปลงเอกสารที่สแกน ไฟล์ PDF และรูปภาพเป็นรูปแบบที่สามารถแก้ไขและค้นหาได้ ด้วยการจดจำข้อความขั้นสูงและความสามารถในการแปลงเอกสาร ลดความซับซ้อนของการประมวลผลเอกสารและเพิ่มผลผลิต");
+set_line_space(2);set_font_italic();
+insert_picture("ABBYY_FineReader_logo");insert_textbox();insert_text("ABBYY FineReader");
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("คุณลักษณะ");choose_table_cell(0, 1);insert_text("คำอธิบาย");choose_table_cell(0, 2);insert_text("ประโยชน์")
+choose_picture();set_right("picture","table");
+insert_pie_chart([0.45,0.45,0.05], ["High Accuracy", "Medium Accuracy", "Low Accuracy"]);
+set_chart_title("Document Conversion Accuracy");
+insert_note("หน้า 2");
+
+create_slide();choose_title();insert_text("แคมเปญการตลาด");
+set_font_bold();set_font_underline();set_font_size(26);
+choose_content();insert_text("แคมเปญการตลาดของเรามีเป้าหมายเพื่อเพิ่มการรับรู้ถึงแบรนด์ มีส่วนร่วมกับกลุ่มเป้าหมายของเรา และเพิ่มยอดขาย ด้วยการผสมผสานเชิงกลยุทธ์ของช่องทางการตลาดออนไลน์และออฟไลน์ เราจึงมุ่งเน้นไปที่การส่งข้อความที่มีผลกระทบและผลลัพธ์ที่วัดได้ ");
+align_slide_left();
+insert_picture("promotional_banner");insert_textbox();insert_text("promotional_banner");
+set_width(5);set_height(5);
+set_background_color("green");
+
+choose_title();insert_text("พลังงานที่ยั่งยืน");set_font_color("red");
+insert_picture("wind_turbine");set_width(6);
+insert_table(4, 3);choose_table_cell(0,0);insert_text("ลม");choose_table_cell(1,0);insert_text("แสงอาทิตย์");choose_table_cell(2,0);insert_text("น้ำ");choose_table_cell(3,0);insert_text("ความร้อนใต้พิภพ");choose_table_cell(0,1);insert_text("ราคาถูก");choose_table_cell(1,1);insert_text("ผลกระทบต่อสิ่งแวดล้อมต่ำ");choose_table_cell(2,1);insert_text("ความพร้อมใช้งานสูง");choose_table_cell(0,2);insert_text("เงินลงทุนเริ่มต้นสูง");choose_table_cell(1,2);insert_text("ความพร้อมใช้งานเป็นระยะ");choose_table_cell(2,2);insert_text("ความขัดแย้งการใช้ที่ดิน");
+set_top("picture", "table");
+create_slide();choose_title();insert_text("ช้อปปิ้งออนไลน์");set_font_color("red");
+choose_content();insert_text("การซื้อของออนไลน์คือกระบวนการซื้อสินค้าและบริการจากร้านค้าทางอินเทอร์เน็ต ได้รับความนิยมมากขึ้นเนื่องจากความสะดวกและการเข้าถึง");
+choose_title();set_font_color("blue");set_font_bold();set_line_space(2);
+create_slide();insert_picture("TV_series");set_width(6);
+set_background_color("blue");insert_note("เกี่ยวกับทีวีซีรีส์");
+
+choose_title();insert_text("นิสัยการกินเพื่อสุขภาพ");set_background_color("dark blue");
+choose_content();insert_text("กดเล่นเพื่อเริ่มวิดีโอ");set_font_style("Verdana");
+insert_table(2, 2);choose_table();choose_table_cell(0, 0);insert_text("กลุ่มอาหาร");choose_table_cell(0, 1);insert_text("การเสิร์ฟที่แนะนำ")
+align_slide_bottom();
+insert_picture("laptop");
+insert_rectangle();set_height(2);
+rotate_element(-45);
+
+choose_content();insert_text("โดยสรุป บริการทีวีได้ปฏิวัติวิธีที่เราบริโภคความบันเทิง โดยนำเสนอตัวเลือกเนื้อหาและความสะดวกสบายที่หลากหลาย ");
+set_font_style("Futura");
+choose_title();insert_text("บทสรุป");set_font_bold();
+insert_picture("colorful_plate");
+align_slide_bottom();
+set_background_color("green");
+
+create_slide();set_background_color("purple");
+choose_title();insert_text("ข้อเสีย");
+set_font_bold();set_font_size(24);set_font_style("Arial");
+insert_note("2023/3/9");
+insert_pie_chart([0.30, 0.25, 0.15, 0.5, 0.25], ["ผลไม้", "ผัก", "ธัญพืช", "โปรตีน", "นม"]);
+align_slide_bottom();
+insert_textbox();insert_text("ผลเสียของการกินอาหารมากเกินไป คือ ทำให้อ้วน");set_bottom("textbox", "chart");
+choose_chart();set_chart_title("Daily Food Group Servings");
+
+insert_right_arrow();set_width(3.5);
+rotate_element(-90);
+align_slide_right();
+
+choose_title();insert_text("แนวโน้มเทคโนโลยี");set_font_underline();
+set_font_color("green");set_font_size(26);
+choose_content();insert_text("การติดตามเทรนด์เทคโนโลยีล่าสุดเป็นสิ่งสำคัญในภูมิทัศน์ดิจิทัลที่มีการพัฒนาอย่างรวดเร็วในปัจจุบัน ตั้งแต่ปัญญาประดิษฐ์และบล็อกเชนไปจนถึงคลาวด์คอมพิวติ้งและอินเทอร์เน็ตในทุกสิ่ง เทรนด์เหล่านี้กำลังสร้างอุตสาหกรรมและปฏิวัติวิธีที่เรา ใช้ชีวิต ทำงาน และเชื่อมต่อกับโลกใบนี้");
+set_background_color("green");
+insert_picture("interconnected_networks");
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("แนวโน้มเทคโนโลยี");choose_table_cell(0, 1);insert_text("คำอธิบาย");choose_table_cell(0, 2);insert_text("ผลกระทบ")
+insert_line_chart([15,10,7,6,24], ["Mobile Devices", "Internet Users", "AI Applications", "Cloud Services", "Smart Home Devices"]);
+set_chart_title("Technology Values");
+insert_pie_chart([15,10,7,6,24], ["Mobile Devices", "Internet Users", "AI Applications", "Cloud Services", "Smart Home Devices"]);set_chart_title("Technology Values");
+
+set_background_color("green");
+choose_title();insert_text("Sustainable Living");set_font_italic();
+insert_picture("solar_panel");align_slide_left();
+choose_content();insert_text("การดำรงชีวิตที่ยั่งยืนส่งเสริมการบริโภคอย่างรับผิดชอบ พลังงานทดแทน และการปฏิบัติที่เป็นมิตรกับสิ่งแวดล้อมเพื่อปกป้องสิ่งแวดล้อมและรับประกันอนาคตที่ดีกว่าสำหรับคนรุ่นต่อๆ ไป โดยการเลือกอย่างมีสติในชีวิตประจำวัน เราสามารถลด รอยเท้าคาร์บอนของเราและสร้างโลกที่ยั่งยืนมากขึ้น");
+set_font_color("dark orange");
+insert_line_chart([1.6, 2.4, 4.8, 11], ["2013", "2014", "2015", "2016"]);
+set_chart_title("Renewable Energy Consumption Trend");
+set_bottom("chart","title");
+insert_cloud();rotate_element(-30);
+
+insert_table(3, 4);
+choose_table_cell(0,0);insert_text("อาหารสมดุล");choose_table_cell(1,0);insert_text("การควบคุมส่วน");choose_table_cell(2,0);insert_text("ความชุ่มชื้น");
+insert_picture("green_city");
+align_slide_top();
+choose_table();align_slide_bottom();
+
+choose_title();insert_text("การจัดการโครงการ");
+insert_picture("team");
+choose_title();set_font_underline();set_font_italic();
+choose_picture();align_top_left_corner();
+
+create_slide();choose_title();insert_text("รายงานความก้าวหน้าโครงการ");
+insert_table(5, 3);choose_table_cell(0, 0);insert_text("ชื่องาน");choose_table_cell(0, 1);insert_text("วันครบกำหนด");choose_table_cell(0, 2);insert_text("สถานะความคืบหน้า")
+set_background_color("purple");choose_title();set_font_color("green");
+
+choose_title();insert_text("มหาวิทยาลัยและโรงเรียนวิชาชีพ");
+set_font_size(36);set_font_underline();
+choose_content();insert_text("มหาวิทยาลัยและโรงเรียนวิชาชีพจัดการศึกษาระดับอุดมศึกษาและการฝึกอบรมเฉพาะทางเพื่อให้นักศึกษามีความรู้และทักษะที่จำเป็นสำหรับอาชีพที่ประสบความสำเร็จ สถาบันเหล่านี้นำเสนอโปรแกรมการศึกษาที่หลากหลาย โอกาสในการวิจัย และการพัฒนาวิชาชีพแก่ ส่งเสริมการเติบโตส่วนบุคคลและความก้าวหน้าในอาชีพ");
+set_line_space(2);
+set_background_color("purple");
+
+insert_picture("professional_school");
+align_slide_right();
+insert_triangle();align_slide_left();
+set_width(10);set_height(15);
+set_bottom("picture","triangle");
+
+create_slide();set_background_color("blue");
+choose_title();insert_text("NFC");set_font_bold();
+choose_content();insert_text("NFC (Near Field Communication) ช่วยให้สามารถสื่อสารไร้สายระหว่างอุปกรณ์ที่อยู่ใกล้กันได้อย่างราบรื่น");
+set_font_color("dark green");set_font_size(20);
+insert_picture("nfc_logo");
+set_background_color("purple");
+choose_picture();set_right("picture","slide");
+
+insert_table(2, 4);choose_table();choose_table_cell(0, 0);insert_text("ผลิตภัณฑ์");choose_table_cell(0, 1);insert_text("รายได้");choose_table_cell(0, 2);insert_text("หน่วยขาย");choose_table_cell(0, 3);insert_text("ส่วนต่างกำไร")
+set_background_color("light blue");
+
+insert_line_chart([500000, 1300000, 2500000, 4000000], ["2018", "2019", "2020", "2021"]);
+set_chart_title("NFC Device Growth");
+insert_table(2, 3);choose_table_cell(1, 0);insert_text("Contactless");choose_table_cell(1, 1);insert_text("เปิดใช้งานการทำธุรกรรมแบบสัมผัส");choose_table_cell(1, 2);insert_text("การชำระเงินที่สะดวกและรวดเร็วขึ้น")
+insert_star();set_width(6.5);set_height(6.5);
+align_slide_top();
+align_slide_right();
+
+choose_title();insert_text("Embracing Disruption");set_font_bold();
+set_font_size(20);set_font_style("Times New Roman");
+insert_picture("futuristic_cityscape");
+align_slide_bottom();
+insert_note("สร้างโดย [ชื่อของคุณ]");set_background_color("purple");
+set_background_color("light blue");
+
+choose_title();insert_text("Power Bank");align_top_left_corner();
+set_font_size(24);set_font_italic();
+choose_content();insert_text("พาวเวอร์แบงค์คืออุปกรณ์พกพาที่สามารถชาร์จสมาร์ทโฟน แท็บเล็ต และอุปกรณ์อิเล็กทรอนิกส์อื่นๆ ได้ในขณะเดินทาง");
+set_font_underline();set_line_space(2);set_font_size(24);set_font_color("orange");
+insert_picture("yoobao_power_bank");align_slide_bottom();
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("ยี่ห้อ");choose_table_cell(0, 1);insert_text("ความจุ (mAh)");choose_table_cell(0, 2);insert_text("พอร์ตเอาต์พุต");choose_table_cell(0, 3);insert_text("ราคา ($)")
+insert_pie_chart([0.40, 0.30, 0.20, 0.10], ["ยี่ห้อ A", "แบรนด์ B", "แบรนด์ C", "อื่นๆ"]);
+set_chart_title("Power Bank Market Share");
+insert_note("2023");
+insert_callout();align_slide_right();
+
+choose_title();insert_text("NBA");set_font_color("red");
+choose_content();insert_text("สมาคมบาสเกตบอลแห่งชาติ (NBA) เป็นลีกบาสเกตบอลอาชีพที่ประกอบด้วย 30 ทีมจากอเมริกาเหนือ");
+set_font_size(20);
+align_bottom_left_corner();
+
+insert_picture("basketball_court");
+align_slide_top();
+insert_textbox();insert_text("สนามบาสเกตบอล");set_background_color("blue");
+insert_table(4,3);
+choose_table_cell(0, 0);insert_text("ทีม");choose_table_cell(0, 1);insert_text("เมือง");choose_table_cell(0, 2);insert_text("การแข่งขันชิงแชมป์");choose_table_cell(1, 0);insert_text("ลอสแองเจลิส");choose_table_cell(1, 1);insert_text("เลเกอร์ส");choose_table_cell(1, 2);insert_text("17");choose_table_cell(2, 0);insert_text("บอสตัน");choose_table_cell(2, 1);insert_text("เซลติกส์");choose_table_cell(2, 2);insert_text("17");choose_table_cell(3, 0);insert_text("ชิคาโก");choose_table_cell(3, 1);insert_text("บูลส์");choose_table_cell(3, 2);insert_text("6")
+insert_bar_chart([17, 17, 6], ["Lakers", "Celtics", "Bulls"]);
+set_chart_title("NBA Championships Distribution");
+create_slide();choose_title();insert_text("Introduction to Autonomous Driving");set_font_underline();
+insert_picture("futuristic_self-driving_car");set_height(7);
+choose_content();insert_text("การขับขี่อัตโนมัติ หรือที่เรียกว่าเทคโนโลยีไร้คนขับหรือไร้คนขับ หมายถึงยานพาหนะที่สามารถนำทางและใช้งานโดยไม่ต้องอาศัยการป้อนข้อมูลของมนุษย์");
+align_bottom_left_corner();
+insert_right_arrow();set_left("right_arrow", "content");
+set_right("right_arrow", "content");
+
+choose_content();insert_text("การขับขี่อัตโนมัติกำลังปฏิวัติอุตสาหกรรมการขนส่งโดยนำเสนอความปลอดภัย ความสะดวกสบาย และประสิทธิภาพที่เพิ่มขึ้น");
+set_font_size(18);set_font_bold();set_font_italic();
+set_font_underline();set_line_space(2);
+insert_table(2, 5);choose_table_cell(0, 0);insert_text("Sensor Types");choose_table_cell(0, 1);insert_text("Lidar");choose_table_cell(0, 2);insert_text("Radar");choose_table_cell(0, 3);insert_text("Cameras");choose_table_cell(0, 4);insert_text("Total")
+choose_content();set_font_style("Times New Roman");
+insert_pie_chart([0.40, 0.30, 0.30], ["Lidar", "Radar", "Cameras"]);
+set_chart_title("Sensor Types in Autonomous Driving");
+insert_note("ประเภทของเซ็นเซอร์ในการขับขี่อัตโนมัติ");
+
+choose_title();insert_text("การขับขี่อัตโนมัติ");
+insert_picture("company_logo");align_bottom_left_corner();
+set_width(6.5);set_height(6);
+create_slide();choose_title();insert_text("การยอมรับการขับขี่อัตโนมัติตามภูมิภาค");
+set_font_style("Calibri");set_font_size(32);
+choose_content();insert_text("เทคโนโลยีการขับขี่อัตโนมัติกำลังเปลี่ยนแปลงภูมิทัศน์การขนส่ง ปฏิวัติอุตสาหกรรม และเพิ่มความปลอดภัยและประสิทธิภาพ");
+set_font_color("dark orange");
+
+create_slide();choose_title();insert_text("Calibri");set_font_style("Calibri");set_font_size(36);
+set_background_color("green");
+choose_content();insert_text("การปลูกพืชไม่เพียงแต่ทำให้สภาพแวดล้อมของเราสวยงามเท่านั้น แต่ยังส่งเสริมความยั่งยืนของสิ่งแวดล้อมและให้ประโยชน์ต่อสุขภาพมากมาย");
+set_font_color("green");choose_title();set_font_color("green");
+insert_picture("lush_garden");
+insert_pie_chart([0.40, 0.30, 0.30], ["สิ่งแวดล้อม", "สุขภาพ", "ชุมชน"]);
+set_chart_title("Planting Benefits");
+set_bottom("chart", "picture");
+insert_right_arrow();rotate_element(60);
+set_height(2);set_width(4);insert_note("หน้า 2");
+
+insert_table(3, 4);
+choose_table();choose_table_cell(0, 0);insert_text("ประโยชน์ด้านการเพาะปลูก");choose_table_cell(0, 1);insert_text("สิ่งแวดล้อม");choose_table_cell(0, 2);insert_text("สุขภาพ");choose_table_cell(0, 3);insert_text("ชุมชน")
+set_background_color("green");
+choose_title();insert_text("ข้อมูลอื่นๆ");
+set_font_color("dark orange");set_font_underline();
+choose_title();align_top_left_corner();
+
+insert_picture("GoogleLogo");insert_textbox();insert_text("Google");
+choose_content();insert_text("Google และ Microsoft Edge เป็นเว็บเบราว์เซอร์ยอดนิยมสองเว็บที่มีฟีเจอร์และฟังก์ชันการทำงานที่ไม่เหมือนใคร ในขณะที่ Google Chrome ครองตลาดด้วยความเร็วและระบบนิเวศที่กว้างขวาง Microsoft Edge ตั้งเป้าที่จะมอบประสบการณ์การท่องเว็บที่ราบรื่นและแน่นแฟ้น การรวมเข้ากับระบบปฏิบัติการ Windows");
+set_font_size(16);
+choose_title();insert_text("Google vs Microsoft Edge");set_font_color("red");
+choose_picture();align_bottom_left_corner();
+insert_table(3, 3);choose_table_cell(0, 0);insert_text("Features");choose_table_cell(0, 1);insert_text("Google Chrome");choose_table_cell(0, 2);insert_text("Microsoft Edge");choose_table_cell(1, 0);insert_text("Speed");choose_table_cell(1, 1);insert_text("สูง");choose_table_cell(1, 2);insert_text("ปานกลาง");choose_table_cell(2, 0);insert_text("Ecosystem");choose_table_cell(2, 1);insert_text("Extensive");choose_table_cell(2, 2);insert_text("Integrated")
+insert_bar_chart([0.50, 0.25, 0.25], ["Google Chrome", "Microsoft Edge", "Others"]);
+set_chart_title("Web Browser Market Share");insert_note("หน้า 1");
+
+set_background_color("blue");choose_title();insert_text("เครือข่ายและ LinkedIn");
+choose_content();insert_text("ระบบเครือข่ายมีบทบาทสำคัญในการพัฒนาอาชีพ และ LinkedIn เป็นแพลตฟอร์มที่ทรงพลังสำหรับการสร้างเครือข่ายมืออาชีพ ด้วยผู้ใช้หลายล้านคนทั่วโลก LinkedIn นำเสนอคุณสมบัติที่หลากหลายเพื่อเชื่อมต่อกับมืออาชีพ แสดงทักษะ และ ค้นพบโอกาสในการทำงาน");
+choose_title();set_font_color("dark red");choose_content();set_font_color("light red");
+choose_title();set_font_style("Arial");choose_content();set_font_style("Arial");
+choose_title();set_font_underline();choose_content();set_font_italic();set_font_size(24);
+insert_pie_chart([0.30,0.20,0.15,0.10,0.25], ["เทคโนโลยี", "การเงิน", "การดูแลสุขภาพ", "การตลาด", "อื่นๆ"]);
+set_chart_title("LinkedIn User Distribution");
+insert_line_chart([0.30,0.20,0.15,0.10,0.25],["Technology", "Finance", "Healthcare", "Marketing", "Others"]);
+insert_bar_chart([0.30,0.20,0.15,0.10,0.25],["Technology", "Finance", "Healthcare", "Marketing", "Others"]);
+
+create_slide();choose_title();insert_text("หม้อหุงต่างๆ");
+choose_content();insert_text("มีหม้อหุงหลายประเภทที่ตอบสนองความต้องการในการทำอาหารที่แตกต่างกัน ตั้งแต่เตาตั้งพื้นแบบดั้งเดิมไปจนถึงเตาไฟฟ้าขั้นสูงและเตาแม่เหล็กไฟฟ้าที่ทันสมัย ​​แต่ละประเภทมีคุณสมบัติและคุณประโยชน์เฉพาะตัว");
+insert_table(3, 4);choose_table_cell(0, 0);insert_text("ประเภทหม้อหุง");choose_table_cell(0, 1);insert_text("คุณสมบัติ");choose_table_cell(0, 2);insert_text("คุณประโยชน์");choose_table_cell(1, 0);insert_text("เตาตั้งพื้น");choose_table_cell(1, 1);insert_text("หัวเตาแก๊สหรือไฟฟ้า");choose_table_cell(1, 2);insert_text("ควบคุมความร้อนได้อย่างแม่นยำ")
+insert_pie_chart([0.40, 0.25, 0.20, 0.10, 0.5], ["เตาตั้งพื้น", "เตาไฟฟ้า", "เตาแม่เหล็กไฟฟ้า", "หม้อหุงช้า", "หม้อทอดลม"]);
+set_chart_title("Cooker Type Popularity");
+insert_picture("stovetop");
+set_width(7);set_height(6);
+align_slide_right();
+align_slide_left();
+move_to_slide(0);set_background_color("green");
+
+choose_title();insert_text("ค้นพบความสุขของโอรีโอ");
+set_font_bold();set_font_italic();
+set_font_size(30);
+choose_content();insert_text("โอรีโอ คุกกี้แซนด์วิชอันโด่งดัง เป็นขนมยอดนิยมสำหรับคนทุกวัย ด้วยการผสมผสานระหว่างเวเฟอร์ช็อกโกแลตและไส้ครีมที่ไม่อาจต้านทานได้ โอรีโอจึงมอบประสบการณ์การรับประทานของว่างที่น่ารื่นรมย์ซึ่งมอบความสุขให้กับทุกๆ คน กัด.");
+set_font_color("dark blue");
+insert_picture("Oreo");
+align_top_right_corner();
+insert_star();align_top_left_corner();
+insert_pie_chart([0.40,0.10,0.50], ["Original", "Mint", "Peanut Butter"]);insert_line_chart([0.40,0.10,0.50],["Original","Mint","Peanut Butter"]);
+insert_bar_chart([0.40,0.10,0.50],["Original","Mint","Peanut Butter"]);set_chart_title("Oreo Flavor Popularity");
+
+set_background_color("purple");
+choose_title();insert_text("Seasonal Variations");set_font_bold();set_font_italic();
+choose_content();insert_text("การเปลี่ยนแปลงตามฤดูกาลนำเสน่ห์ที่แตกต่างมาสู่ชีวิตของเรา ตั้งแต่สีสันที่สดใสของฤดูใบไม้ผลิไปจนถึงเฉดสีอบอุ่นของฤดูร้อน บรรยากาศสบายๆ ของฤดูใบไม้ร่วง และทิวทัศน์อันเงียบสงบของฤดูหนาว แต่ละฤดูกาลนำเสนอ ประสบการณ์พิเศษ สัมผัสความงามของการเปลี่ยนแปลงของธรรมชาติตลอดทั้งปี");
+set_font_style("Arial");set_font_size(18);
+insert_table(4, 4);choose_table_cell(0, 0);insert_text("ฤดูกาล");choose_table_cell(0, 1);insert_text("อุณหภูมิเฉลี่ย");choose_table_cell(0, 2);insert_text("ลักษณะสำคัญ");choose_table_cell(0, 3);insert_text("กิจกรรม")
+insert_callout();align_slide_left();
+
+choose_title();insert_text("สภาพอากาศใน Guangdong: A Climate of Diversity");
+align_top_left_corner();
+choose_content();insert_text("มณฑลกวางตุ้งมีสภาพอากาศที่หลากหลายตลอดทั้งปี ตั้งแต่วันที่อบอุ่นและมีแดดจัด ไปจนถึงฝนตกเป็นครั้งคราว ตอนเช้าที่มีหมอกหนา และท้องฟ้ามีเมฆมาก สภาพภูมิอากาศในมณฑลกวางตุ้งมีความหลากหลายและเปลี่ยนแปลงอยู่เสมอ สำรวจฤดูกาลและรูปแบบสภาพอากาศที่แตกต่างกันในภูมิภาคที่มีชีวิตชีวานี้");set_line_space(2);
+insert_picture("beach");align_top_right_corner();
+insert_table(2, 2);choose_table_cell(0, 0);insert_text("ฤดูกาล");choose_table_cell(0, 1);insert_text("อุณหภูมิเฉลี่ย");choose_table_cell(1, 0);insert_text("สปริง");choose_table_cell(1, 1);insert_text("20-28℃")
+set_background_color("purple");
+choose_table();align_slide_bottom();
+insert_cloud();align_slide_left();
+
+insert_picture("sunrise");
+set_width(6);set_height(6);
+choose_title();insert_text("พลังแห่งการคิดบวก: เปิดรับการมองโลกในแง่ดี");set_font_italic();set_font_bold();
+choose_content();insert_text("การคิดบวกคือกรอบความคิดที่เน้นการมองโลกในแง่ดี ความยืดหยุ่น และความเชื่อมั่นในตนเอง การปลูกฝังความคิดและทัศนคติเชิงบวกทำให้เรามีความเป็นอยู่ที่ดีขึ้น เอาชนะความท้าทายได้ และสร้างชีวิตที่มีความสุขและเติมเต็มมากขึ้น เปิดรับพลังแห่งการคิดบวกและปลดล็อกศักยภาพที่แท้จริงของคุณ");set_font_italic();set_font_bold();
+set_font_color("purple");set_font_size(20);
+insert_note("การคิดเชิงบวก");
+
+insert_table(4, 3);choose_table();choose_table_cell(0, 0);insert_text("ประโยชน์");choose_table_cell(0, 1);insert_text("คำอธิบาย");choose_table_cell(0, 2);insert_text("ตัวอย่าง");choose_table_cell(1, 0);insert_text("คุณภาพชีวิตที่ดีขึ้น")
+choose_content();insert_text("การคิดบวกเป็นความคิดที่เน้นการมองโลกในแง่ดี ความยืดหยุ่น และการเชื่อมั่นในตนเอง โดยการปลูกฝังความคิดและทัศนคติเชิงบวก เราสามารถปรับปรุงความเป็นอยู่ที่ดีของเรา เอาชนะความท้าทาย และสร้างความสุขและ เติมเต็มชีวิตได้มากขึ้น เปิดรับพลังแห่งการคิดบวกและปลดล็อกศักยภาพที่แท้จริงของคุณ");
+set_font_italic();set_font_color("light blue");
+set_background_color("light green");
+choose_title();insert_text("Definition");set_font_bold();
+align_top_left_corner();
+insert_picture("laugh");align_slide_right();
+
+choose_title();insert_text("การจำแนกประเภทขยะ: ส่งเสริมการจัดการขยะอย่างยั่งยืน");choose_content();insert_text("การจำแนกประเภทขยะเป็นการปฏิบัติที่สำคัญอย่างยิ่งในการส่งเสริมการจัดการขยะอย่างยั่งยืน การคัดแยกและกำจัดขยะอย่างเหมาะสม เราสามารถลดมลภาวะต่อสิ่งแวดล้อม อนุรักษ์ทรัพยากร และมีส่วนทำให้โลกสะอาดขึ้นและมีสุขภาพดีขึ้น ยอมรับความรับผิดชอบในการจำแนกประเภทขยะและสร้างผลกระทบเชิงบวกต่อสิ่งแวดล้อมของเรา");
+set_font_color("orange");set_font_underline();
+set_font_size(18);
+choose_title();set_font_style("Times New Roman");choose_content();set_font_style("Times New Roman");
+insert_right_arrow();align_bottom_right_corner();
+set_width(4.0);set_height(3.0);
+rotate_element(-90);
+insert_bar_chart([60, 50, 45, 40, 40], ["กระดาษ", "พลาสติก", "แก้ว", "โลหะ", "ขยะอินทรีย์"]);set_chart_title("Waste Material Recycling Rates.");
+insert_picture("recycling_bin");
+create_slide();set_background_color("purple");
+choose_title();insert_text("ขยะอินทรีย์");set_font_size(18);
+choose_content();insert_text("ขยะอินทรีย์มีบทบาทสำคัญในการดำรงชีวิตอย่างยั่งยืน การทำปุ๋ยหมักวัสดุอินทรีย์ เช่น เศษอาหาร ขยะในสวน และเศษเหลือจากการเกษตร เราสามารถลดขยะฝังกลบ เพิ่มคุณภาพของดิน และปิดวงจรสารอาหาร . ยอมรับการฝึกทำปุ๋ยหมักและมีส่วนร่วมในอนาคตที่เป็นมิตรกับสิ่งแวดล้อม");
+
+create_slide();choose_title();insert_text("Oldroyd's film of Lady Macbeth");set_font_bold();
+set_font_size(28);set_font_underline();
+choose_content();insert_text("บทภาพยนตร์ของ Birch นำเสนอการเปลี่ยนแปลงที่สำคัญบางประการในการเล่าเรื่องของ Leskov เช่น Birch และ Oldroyd กำจัดตอนต่างๆ ของไซบีเรียออกทั้งหมด และเลือกที่จะตัดการฆ่าตัวตายของ Katherine ออก");
+set_font_size(20);set_font_bold();
+choose_title();set_font_color("red");choose_content();set_font_color("yellow");
+insert_picture("Lady Macbeth");
+set_width(8);set_height(8);
+set_right("picture","content");
+set_left("picture","content");
+insert_table(3, 2);
+choose_table_cell(0, 0);insert_text("Film Character");choose_table_cell(0, 1);insert_text("Actor/Actress");choose_table_cell(1, 0);insert_text("Lady Macbeth");choose_table_cell(1, 1);insert_text("Florence Pugh");choose_table_cell(2, 0);insert_text("Macbeth");choose_table_cell(2, 1);insert_text("Cosmo Jarvis")
+insert_note("1 พฤษภาคม");
+set_background_color("purple");
+
+create_slide();choose_title();insert_text("ความสำคัญของแบบฝึกหัด");set_font_underline();
+set_font_size(24);set_font_color("green");
+choose_content();insert_text("การออกกำลังกายเป็นประจำสามารถปรับปรุงสุขภาพหัวใจและหลอดเลือด เพิ่มอารมณ์ และเพิ่มระดับพลังงาน");
+set_font_size(20);set_font_bold();
+set_font_color("red");
+insert_picture("exercise");
+insert_pie_chart([0.10,0.30,0.50,0.10], ["สุขภาพหัวใจและหลอดเลือด", "ความแข็งแรงของกล้ามเนื้อ", "สุขภาพจิต", "การป้องกันโรค"]);
+insert_table(5,2);choose_table_cell(0,0);insert_text("ประเภทของการออกกำลังกาย");choose_table_cell(0,1);insert_text("ประโยชน์");
+set_right("table","picture");
+insert_star();set_background_color("purple");
+align_bottom_left_corner();
+set_width(8);set_height(4);
+
+create_slide();choose_title();insert_text("ประโยชน์ของการอ่าน");set_font_size(24);set_font_underline();
+choose_content();insert_text("การอ่านสามารถปรับปรุงการทำงานของการรับรู้ เพิ่มความเห็นอกเห็นใจ และลดความเครียด");
+set_font_bold();set_font_italic();
+set_font_style("Arial");set_font_color("green");
+insert_picture("person_reading");
+insert_bar_chart([1400, 992, 400, 661, 234], ["แต่ง", "สารคดี", "ชีวประวัติ", "การช่วยเหลือตัวเอง", "แฟนตาซี"]);
+set_chart_title("Book sales");
+insert_table(3, 3);
+choose_table_cell(0, 0);insert_text("ประโยชน์ของการอ่าน");choose_table_cell(1, 0);insert_text("เสริมความรู้");choose_table_cell(2, 0);insert_text("การขยายคำศัพท์");
+set_background_color("red");
+insert_note("การอ่านหนังสือ");
+create_slide();set_background_color("red");insert_picture("clock");
+set_width(10);set_height(15);
+insert_note("เกี่ยวกับการอ่าน");
+
+create_slide();choose_title();insert_text("ประโยชน์ของการเป็นอาสาสมัคร");set_font_underline();
+choose_title();set_font_color("dark red");set_font_size(30);
+choose_content();insert_text("อาสาสมัครสามารถเพิ่มความสุข พัฒนาทักษะทางสังคม และให้ความรู้สึกของจุดมุ่งหมาย");
+set_font_color("green");
+set_font_bold();set_font_size(18);
+align_bottom_left_corner();
+insert_picture("volunteers");
+align_bottom_left_corner();
+insert_table(3, 3);choose_table_cell(0, 0);insert_text("ประโยชน์");choose_table_cell(1, 0);insert_text("การเติบโตส่วนบุคคล");choose_table_cell(2, 0);insert_text("การเชื่อมต่อทางสังคม");
+choose_content();set_font_bold();set_font_size(20);
+insert_bar_chart([25, 45, 10, 15, 5], ["บริการชุมชน", "การศึกษา", "การดูแลสุขภาพ", "การอนุรักษ์สิ่งแวดล้อม", "การบรรเทาภัยพิบัติ"]);
+set_chart_title("Volunteergin Importance");
+
+set_background_color("purple");
+choose_title();insert_text("รูปแบบ CAJ");set_font_underline();set_font_italic();
+set_font_color("purple");
+choose_content();insert_text("รูปแบบ CAJ เป็นรูปแบบไฟล์ที่ใช้กันอย่างแพร่หลายในประเทศจีนสำหรับเอกสารวิชาการและเอกสารการวิจัย รูปแบบนี้มีโครงสร้างและเค้าโครงที่ได้มาตรฐานเพื่อการแบ่งปันและเผยแพร่อย่างมีประสิทธิภาพ");
+set_line_space(2);
+set_font_style("Arial");set_font_bold();
+set_font_color("green");
+align_slide_top();
+insert_picture("sample_caj");
+align_top_right_corner();
+insert_table(2,3);
+choose_table_cell(0, 0);insert_text("Section");choose_table_cell(0, 1);insert_text("Heading");choose_table_cell(0, 2);insert_text("Content")
+create_slide();insert_bar_chart([30, 25, 20, 15, 10], ["CAJ", "PDF", "DOC", "PPT", "XLS"]);
+set_chart_title("File Format Usage");
+insert_note("รูปแบบไฟล์");set_background_color("purple");
+
+choose_content();insert_text("การเขียนบันทึกสามารถลดความเครียด ปรับปรุงความจำ และเพิ่มความตระหนักรู้ในตนเอง");
+set_font_underline();set_font_size(18);set_font_color("purple");
+choose_title();insert_text("Journaling");
+set_font_italic();set_font_style("Arial");
+insert_picture("person_writing");
+align_slide_bottom();
+insert_star();align_slide_right();
+rotate_element(60);
+
+create_slide();choose_title();insert_text("ประโยชน์ของการจัดสวน");set_font_size(28);set_font_bold();
+choose_content();insert_text("การจัดสวนสามารถลดความเครียด ปรับปรุงสุขภาพร่างกาย และเพิ่มความคิดสร้างสรรค์");
+set_font_italic();set_font_style("Arial");
+insert_cloud();align_slide_right();
+set_left("cloud","title");
+insert_picture("person_working_in_garden");set_width(10);
+create_slide();set_background_color("light blue");
+insert_triangle();align_slide_left();
+set_height(15);rotate_element(45);
+
+create_slide();choose_title();insert_text("บริษัทไอที");
+set_font_style("Times");set_font_bold();set_font_size(32);
+insert_picture("Apple Company Logo");set_height(2);set_width(2);
+insert_table(2, 3);choose_table_cell(0, 0);insert_text("2020");choose_table_cell(0, 1);insert_text("2021");choose_table_cell(0, 2);insert_text("2022");choose_table_cell(1, 0);insert_text("274B");choose_table_cell(1, 1);insert_text("365B");choose_table_cell(1, 2);insert_text("394B")
+
