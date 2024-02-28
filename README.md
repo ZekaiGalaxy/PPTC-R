@@ -4,7 +4,7 @@ PowerPoint Task Completion-Robustness (**PPTC-R**) is a benchmark that measures 
 
 We establish our code based on [PPTC](https://github.com/gydpku/PPTC). This repository contains data and code for PPTCR. To evaluate your LLM or LLM-based AI assistant system, you should follow the following instructions.
 
-## Setup
+## Environemnt Setup
 
 ```
 git clone https://github.com/ZekaiGalaxy/PPTCR; cd PPTCR
@@ -15,16 +15,14 @@ pip install -r requirements.txt
 
 ## LLM Setup
 
-Please refer to the instructions in [PPTC](https://github.com/gydpku/PPTC) and setup the api for both closed source and open source models.
+Please refer to the instructions in [PPTC](https://github.com/gydpku/PPTC) and setup the api for both close-sourced and open-sourced models.
 
 ## Data Preparation
 
-We provide the raw file of sentence-level, semantic-level, language-level perturbation settings as well as api version perturbation. To generate the test dataset, please follow the following guide:
+We provide the raw file of sentence-level, semantic-level, language-level perturbation settings as well as api version perturbation. To generate the benchmark, please follow the following guide:
 
 ```
-cd PPTCR_test_input
-bash json_file.sh
-cd ..
+bash PPTCR_test_input/json_file.sh
 python main.py --prepare --dataset [long/short] --[perturbation settings]
 ```
 the perturbation settings include:
