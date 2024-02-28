@@ -1,3 +1,4 @@
+cd PPTCR_test_input
 # API update
 echo "API update"
 python json_file.py --dataset Create_new_slides --label_path ../test/short/api_labels.txt --instruction_path ../test/short/instructions.txt --save_dir ../PPTCR_test_input/API_update
