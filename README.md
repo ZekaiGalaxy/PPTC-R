@@ -2,9 +2,11 @@
 
 ## Introduction
 
-PowerPoint Task Completion-Robustness (**PPTC-R**) is a benchmark that measures LLMs' robustness to the user instruction and Powerpoint software version. The benchmark focuses on two main aspects: robustness to user instructions and robustness to software version changes. It introduces adversarial user instructions that challenge LLMs at **Sentence, Semantic, and Language levels**. It also examines LLMs' adaptability to software version changes by manipulating the available APIs, including an **API update** and **API lack** setting.
+PowerPoint Task Completion-Robustness (**PPTC-R**) is a benchmark that measures LLMs' robustness to the user instruction and Powerpoint software version. **It is a multi-turn, multi-modal, multi-lingual robustness benchmark for agent tasks.** The benchmark focuses on two main aspects: robustness to user instructions and robustness to software version changes. It introduces adversarial user instructions that challenge LLMs at **Sentence, Semantic, and Language levels**. It also examines LLMs' adaptability to software version changes by manipulating the available APIs, including an **API update** and **API lack** setting.
 
 We establish our code based on [PPTC](https://github.com/gydpku/PPTC). This repository contains data and code for PPTCR. To evaluate your LLM or LLM-based AI assistant system, you should follow the following instructions.
+
+![https://github.com/ZekaiGalaxy/PPTCR/results/demonstrations.jpeg](https://github.com/ZekaiGalaxy/PPTCR/blob/master/results/demonstrations.jpeg)
 
 ## Environemnt Setup
 
@@ -57,6 +59,7 @@ For the second line, our PPTX Evaluation System gives accuracy score based on th
 The evaluation results are shown below, please refer to our paper for detailed information.
 
 ![https://github.com/ZekaiGalaxy/PPTCR/results/results1.jpg](https://github.com/ZekaiGalaxy/PPTCR/blob/master/results/results1.jpg)
+![https://github.com/ZekaiGalaxy/PPTCR/results/results3.jpg](https://github.com/ZekaiGalaxy/PPTCR/blob/master/results/results3.jpg)
 ![https://github.com/ZekaiGalaxy/PPTCR/results/results2.jpg](https://github.com/ZekaiGalaxy/PPTCR/blob/master/results/results2.jpg)
 
 ## Citation
