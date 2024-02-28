@@ -38,49 +38,42 @@ def prepare_data(ppt_assistant, args):
 
 def test(ppt_assistant, args):
     set_name = 'Create_new_slides' if args.dataset == 'short' else 'Edit_PPT_template'
-    utils.makedir(args.user_path+f'PPT_Pred_File/{set_name}')
-    utils.makedir(args.user_path+f'PPT_Prompt_File/{set_name}')
-    for sess_id, session_path in enumerate(utils.sorted_list(args.user_path+f'PPT_test_input/{set_name}')):
-        session = utils.parse_train_json(args.user_path+f'PPT_test_input/{set_name}/{session_path}')
+    save_path = utils.get_name(args)
+    utils.makedir(args.user_path+f'PPT_Pred_File/{save_path}/{set_name}')
+    utils.makedir(args.user_path+f'PPT_Prompt_File/{save_path}/{set_name}')
+    for sess_id, session_path in enumerate(utils.sorted_list(args.user_path+f'PPTCR_test_input/{save_path}/{set_name}')):
+        session = utils.parse_train_json(args.user_path+f'PPTCR_test_input/{save_path}/{set_name}/{session_path}')
         chat_history = []
         for turn_id, turn in tqdm(enumerate(session)):
             print(f"{sess_id}/{turn_id}")  
             if args.resume:
 
-                if args.tf and os.path.exists(args.user_path+f'PPT_Pred_File/{set_name}/{args.exp_name}_{sess_id}_{turn_id}.pptx'):
-
+                if args.tf and os.path.exists(args.user_path+f'PPT_Pred_File/{save_path}/{set_name}/{args.exp_name}_{sess_id}_{turn_id}.pptx'):
                     print('Exists!')
                     continue 
-                if args.sess and os.path.exists(args.user_path+f'PPT_Pred_File/{set_name}/{args.exp_name}_{sess_id}_{len(session)-1}.pptx'):
+                if args.sess and os.path.exists(args.user_path+f'PPT_Pred_File/{save_path}/{set_name}/{args.exp_name}_{sess_id}_{len(session)-1}.pptx'):
                     print('Exists!')
                     continue 
-            turn_id, instruction, label_api, base_ppt_path, label_ppt_path, api_lack_base_ppt_path, api_lack_label_ppt_path = turn
+            turn_id, instruction, label_api, base_ppt_path, label_ppt_path = turn
             if turn_id == 0 and args.sess:
-                if args.api_lack:
-                    ppt_assistant.load_ppt(args.user_path+api_lack_base_ppt_path)
-                    label_file = api_lack_label_ppt_path
-                else:
-                    ppt_assistant.load_ppt(args.user_path+base_ppt_path)
-                    label_file = label_ppt_path
+                ppt_assistant.load_ppt(args.user_path+base_ppt_path)
+                label_file = label_ppt_path
             splitted_instruction = instruction.split("##")[0]
             if args.tf:
-                if args.api_lack:
-                    ppt_assistant.load_ppt(args.user_path+api_lack_base_ppt_path)
-                    label_file = api_lack_label_ppt_path
-                else:
-                    ppt_assistant.load_ppt(args.user_path+base_ppt_path)
-                    label_file = label_ppt_path
+                ppt_assistant.load_ppt(args.user_path+base_ppt_path)
+                label_file = label_ppt_path
                 ppt_assistant.load_chat_history([x[0] for x in chat_history],[x[1].strip(';').split(';') for x in chat_history])
                 prompt, reply = ppt_assistant.chat(splitted_instruction, ppt_path=args.user_path+base_ppt_path, verbose=False)
                 apis = utils.parse_api(reply)
                 ppt_assistant.api_executor(apis,test=True)
                 
-                ppt_executor.save_ppt(args.user_path+f'PPT_Pred_File/{set_name}/{args.exp_name}_{sess_id}_{turn_id}.pptx')
-                utils.write_lines([prompt],args.user_path+f'PPT_Prompt_File/{set_name}/{args.exp_name}_{sess_id}_{turn_id}.txt')
+                ppt_executor.save_ppt(args.user_path+f'PPT_Pred_File/{save_path}/{set_name}/{args.exp_name}_{sess_id}_{turn_id}.pptx')
+                utils.write_lines([prompt],args.user_path+f'PPT_Prompt_File/{save_path}/{set_name}/{args.exp_name}_{sess_id}_{turn_id}.txt')
                 #import pdb
                 #pdb.set_trace()
-                with jsonlines.open(args.user_path+f"PPT_test_output/{set_name}/{args.exp_name}_session_{sess_id}.json", mode='a') as writer:
-                    data={'Turn':turn_id,'User instruction':instruction,'Feasible API sequence':label_api,'Reply':reply,'Pred API sequence':apis,'Pred File':f'PPT_Pred_File/{set_name}/{args.exp_name}_{sess_id}_{turn_id}.pptx','Label File':label_file,'Prompt File':f'PPT_Prompt_File/{set_name}/{args.exp_name}_{sess_id}_{turn_id}.txt'}
+                utils.makedir(f"PPTCR_test_output/{save_path}/{set_name}")
+                with jsonlines.open(args.user_path+f"PPTCR_test_output/{save_path}/{set_name}/{args.exp_name}_session_{sess_id}.json", mode='a') as writer:
+                    data={'Turn':turn_id,'User instruction':instruction,'Feasible API sequence':label_api,'Reply':reply,'Pred API sequence':apis,'Pred File':f'PPT_Pred_File/{save_path}/{set_name}/{args.exp_name}_{sess_id}_{turn_id}.pptx','Label File':label_file,'Prompt File':f'PPT_Prompt_File/{save_path}/{set_name}/{args.exp_name}_{sess_id}_{turn_id}.txt'}
                     writer.write(data)
                 chat_history.append([splitted_instruction, label_api])
             
