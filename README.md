@@ -21,7 +21,9 @@ Please refer to the instructions in [PPTC](https://github.com/gydpku/PPTC) and s
 
 ## Data Preparation
 
-We provide the raw file of sentence-level, semantic-level, language-level perturbation settings as well as api version perturbation. To generate the benchmark, please follow the following guide:
+We provide the raw file of sentence-level, semantic-level, language-level perturbation settings as well as api version perturbation. 
+
+To generate the benchmark, please follow the following guide:
 
 ```
 bash PPTCR_test_input/json_file.sh
@@ -42,7 +44,9 @@ For Language-level perturbation, please refer to `languages.txt` for detailed in
 python main.py --test --dataset [long/short] --[perturbation] --model=[your model]
 python main.py --eval --dataset [long/short] --[perturbation] --model=[your model]
 ```
-We provide code for 3 closed-source and 4 open-sourced models, as stated in our paper. You can also follow the instructions in [PPTC](https://github.com/gydpku/PPTC) to test your own model.
+We provide code for 3 closed-source and 4 open-sourced models, as stated in our paper. 
+
+You can also follow the instructions in [PPTC](https://github.com/gydpku/PPTC) to test your own model.
 
 For the first line, model documents pred ppt file and api output in `PPT_Pred_File` and `PPTCR_test_output`
 
@@ -51,6 +55,9 @@ For the second line, our PPTX Evaluation System gives accuracy score based on th
 ## Results
 
 The evaluation results are shown below, please refer to our paper for detailed information.
+
+![https://github.com/ZekaiGalaxy/PPTCR/results/results1.jpg](https://github.com/ZekaiGalaxy/PPTCR/blob/master/results/results1.jpg)
+![https://github.com/ZekaiGalaxy/PPTCR/results/results2.jpg](https://github.com/ZekaiGalaxy/PPTCR/blob/master/results/results2.jpg)
 
 ## Citation
 
