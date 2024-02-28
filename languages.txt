@@ -1,0 +1,16 @@
+# We support the following languages for language-level perturbation:
+Arabic 
+Bulgarian 
+Chinese 
+English
+French 
+German 
+Greek 
+Hindi 
+Russian 
+Spanish 
+Swahili 
+Thai 
+Turkish 
+Urdu 
+Vietnamese
