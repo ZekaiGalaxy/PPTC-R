@@ -38,8 +38,8 @@ def main(args):
                     'Turn': line_id,
                     'User instruction': line,
                     'Feasible API sequence': session_labels[session_id][line_id],
-                    'Base File': f'PPT_Base_File/{set_name}/{session_id}_{line_id}.pptx',
-                    'Label File': f'PPT_Label_File/{set_name}/{session_id}_{line_id}.pptx'
+                    'Base File': f'PPT_Base_File/{save_dir.split("/")[-1]}/{set_name}/{session_id}_{line_id}.pptx',
+                    'Label File': f'PPT_Label_File/{save_dir.split("/")[-1]}/{set_name}/{session_id}_{line_id}.pptx'
                 }
                 writer.write(data)
 
