@@ -6,7 +6,7 @@ PowerPoint Task Completion-Robustness (**PPTC-R**) is a benchmark that measures 
 
 We establish our code based on [PPTC](https://github.com/gydpku/PPTC). This repository contains data and code for PPTCR. To evaluate your LLM or LLM-based AI assistant system, you should follow the following instructions.
 
-![https://github.com/ZekaiGalaxy/PPTCR/results/demonstrations.jpeg](https://github.com/ZekaiGalaxy/PPTCR/blob/master/results/demonstrations.jpeg)
+![https://github.com/ZekaiGalaxy/PPTCR/results/demo1.jpg](https://github.com/ZekaiGalaxy/PPTCR/blob/master/results/demo1.jpg)
 
 ## Environemnt Setup
 
