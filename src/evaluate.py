@@ -107,6 +107,7 @@ def get_error_case(args):
                     f.flush()
 
 def eval(args):
+    save_path = utils.get_name(args)
     set_name = 'Create_new_slides' if args.dataset == 'short' else 'Edit_PPT_template'
     token_costs, api_costs = [],[]
     string_total, string_correct, position_total, position_correct, string_acc, position_acc = 0,0,0,0,0,0
@@ -114,11 +115,11 @@ def eval(args):
     if args.tf:
        # turn_num=0
         turn_nums=[]
-        for sess_id, session_path in enumerate(utils.sorted_list(args.user_path+f'PPT_test_output/{set_name}')):
+        for sess_id, session_path in enumerate(utils.sorted_list(args.user_path+f'PPTCR_test_output/{save_path}/{set_name}')):
             #print(len(list(utils.sorted_list(args.user_path+f'PPT_test_output/{set_name}'))))
             if not session_path.startswith(args.exp_name):
                 continue
-            session = utils.parse_test_json(args.user_path+f'PPT_test_output/{set_name}/{session_path}')
+            session = utils.parse_test_json(args.user_path+f'PPTCR_test_output/{save_path}/{set_name}/{session_path}')
             turn_num = 0
             for turn_id, turn in tqdm(enumerate(session)):
                 turn_num+=1
@@ -145,10 +146,10 @@ def eval(args):
         print(f"position acc: {position_correct}/{position_total}={position_acc}")
 
     elif args.sess:
-        for sess_id, session_path in enumerate(utils.sorted_list(args.user_path+f'PPT_test_output/{set_name}')):
+        for sess_id, session_path in enumerate(utils.sorted_list(args.user_path+f'PPTCR_test_output/{save_path}/{set_name}')):
             if not session_path.startswith(args.exp_name):
                 continue
-            session = utils.parse_test_json(args.user_path+f'PPT_test_output/{set_name}/{session_path}')
+            session = utils.parse_test_json(args.user_path+f'PPTCR_test_output/{save_path}/{set_name}/{session_path}')
             restrictions = []
             for turn_id, turn in tqdm(enumerate(session)):
                 turn_id, instruction, label_api, reply, pred_api, pred_ppt_path, label_ppt_path, prompt_path = turn
