@@ -44,9 +44,9 @@ python main.py --eval --dataset [long/short] --[perturbation] --model=[your mode
 ```
 We provide code for 3 closed-source and 4 open-sourced models, as stated in our paper. You can also follow the instructions in [PPTC](https://github.com/gydpku/PPTC) to test your own model.
 
-For the first line, model generates pred ppt file in `PPT_Pred_File`
+For the first line, model documents pred ppt file and api output in `PPT_Pred_File` and `PPTCR_test_output`
 
-For the second line, our PPTX Evaluation System gives accuracy score based on the `PPT_Pred_File`
+For the second line, our PPTX Evaluation System gives accuracy score based on the `PPT_Pred_File`, `PPT_Label_File`, `PPTCR_test_input` and `PPTCR_test_output`
 
 ## Results
 
