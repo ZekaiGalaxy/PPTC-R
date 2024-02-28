@@ -293,8 +293,8 @@ def parse_train_json(path):
     with open(path, 'r') as file:
         for line in file:
             data = json.loads(line)
-            turn_id, instruction, label_api, base_ppt_path, label_ppt_path, api_lack_base_ppt_path, api_lack_label_ppt_path = data['Turn'],data['User instruction'],data['Feasible API sequence'],data['Base File'],data['Label File'],data['API Lack Base File'],data['API Lack Label File']
-            turns.append([turn_id, instruction, label_api, base_ppt_path, label_ppt_path, api_lack_base_ppt_path, api_lack_label_ppt_path])
+            turn_id, instruction, label_api, base_ppt_path, label_ppt_path = data['Turn'],data['User instruction'],data['Feasible API sequence'],data['Base File'],data['Label File']
+            turns.append([turn_id, instruction, label_api, base_ppt_path, label_ppt_path])
     return turns 
 
 def parse_test_json(path):
