@@ -4,14 +4,14 @@
 
 PowerPoint Task Completion-Robustness (**PPTC-R**) is a benchmark that measures LLMs' robustness to the user instruction and Powerpoint software version. **It is a Multi-turn, Multi-modal, Multi-lingual robustness benchmark for agent tasks.** The benchmark focuses on two main aspects: robustness to user instructions and robustness to software version changes. It introduces adversarial user instructions that challenge LLMs at **Sentence, Semantic, and Language levels**. It also examines LLMs' adaptability to software version changes by manipulating the available APIs, including an **API update** and **API lack** setting.
 
-We establish our code based on [PPTC](https://github.com/gydpku/PPTC). This repository contains data and code for PPTCR. To evaluate your LLM or LLM-based AI assistant system, you should follow the following instructions.
+We establish our code based on [PPTC](https://github.com/gydpku/PPTC). This repository contains data and code for PPTC-R. To evaluate your LLM or LLM-based AI assistant system, you should follow the following instructions.
 
-![https://github.com/ZekaiGalaxy/PPTCR/results/demo1.jpg](https://github.com/ZekaiGalaxy/PPTCR/blob/master/results/demo1.jpg)
+![https://github.com/ZekaiGalaxy/PPTC-R/results/demo1.jpg](https://github.com/ZekaiGalaxy/PPTC-R/blob/master/results/demo1.jpg)
 
 ## Environemnt Setup
 
 ```
-git clone https://github.com/ZekaiGalaxy/PPTCR; cd PPTCR
+git clone https://github.com/ZekaiGalaxy/PPTC-R; cd PPTC-R
 conda create -n pptcr python=3.10
 conda activate pptcr
 pip install -r requirements.txt
