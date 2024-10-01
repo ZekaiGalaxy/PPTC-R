@@ -58,7 +58,7 @@ The evaluation results are shown below, please refer to our paper for detailed i
 
 ![https://github.com/ZekaiGalaxy/PPTCR/results/results1.jpg](https://github.com/ZekaiGalaxy/PPTCR/blob/master/results/results1.jpg)
 ![https://github.com/ZekaiGalaxy/PPTCR/results/results3.jpg](https://github.com/ZekaiGalaxy/PPTCR/blob/master/results/results3.jpg)
-![https://github.com/ZekaiGalaxy/PPTCR/results/results2.jpg](https://github.com/ZekaiGalaxy/PPTCR/blob/master/results/results2.jpg)
+![https://github.com/ZekaiGalaxy/PPTCR/results/results2.jpg](https://github.com/ZekaiGalaxy/PPTCR/blob/master/results/results2.png)
 
 ## Citation
 
