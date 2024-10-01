@@ -1,8 +1,6 @@
-# PPTCR
-
 ## Introduction
 
-PowerPoint Task Completion-Robustness (**PPTC-R**) is a benchmark that measures LLMs' robustness to the user instruction and Powerpoint software version. **It is a Multi-turn, Multi-modal, Multi-lingual robustness benchmark for agent tasks.** The benchmark focuses on two main aspects: robustness to user instructions and robustness to software version changes. It introduces adversarial user instructions that challenge LLMs at **Sentence, Semantic, and Language levels**. It also examines LLMs' adaptability to software version changes by manipulating the available APIs, including an **API update** and **API lack** setting.
+PowerPoint Task Completion-Robustness (**PPTC-R**) is a benchmark that measures LLMs' robustness to the user instruction and Powerpoint software version (EMNLP2024 Findings). **It is a Multi-turn, Multi-modal, Multi-lingual robustness benchmark for agent tasks.** The benchmark focuses on two main aspects: robustness to user instructions and robustness to software version changes. It introduces adversarial user instructions that challenge LLMs at **Sentence, Semantic, and Language levels**. It also examines LLMs' adaptability to software version changes by manipulating the available APIs, including an **API update** and **API lack** setting.
 
 We establish our code based on [PPTC](https://github.com/gydpku/PPTC). This repository contains data and code for PPTC-R. To evaluate your LLM or LLM-based AI assistant system, you should follow the following instructions.
 
